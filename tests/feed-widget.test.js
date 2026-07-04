@@ -75,3 +75,12 @@ test('sets id attribute on widget root element', () => {
   const html = render(feedData, config);
   assert.ok(html.includes('id="feed-test-feed"'));
 });
+
+test('escapes pubDate in datetime attribute and content', () => {
+  const xssDate = {
+    items: [{ title: 'Test', link: 'https://example.com', pubDate: '" onmouseover="alert(1)', feedId: 'f' }],
+  };
+  const html = render(xssDate, config);
+  assert.ok(!html.includes('" onmouseover="'), 'unescaped quote in datetime attribute must not appear');
+  assert.ok(html.includes('&quot;'), 'quote should be escaped');
+});

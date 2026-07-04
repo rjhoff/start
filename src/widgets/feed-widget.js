@@ -32,7 +32,7 @@ ${header}
     .map((item) => {
       const safeLink = isSafeUrl(item.link) ? escapeHtml(item.link) : '#';
       const dateEl = item.pubDate
-        ? `\n      <time class="feed-item-date" datetime="${item.pubDate}">${item.pubDate}</time>`
+        ? `\n      <time class="feed-item-date" datetime="${escapeHtml(item.pubDate)}">${escapeHtml(item.pubDate)}</time>`
         : '';
       return `    <li class="feed-item">
       <a href="${safeLink}" target="_blank" rel="noopener noreferrer" class="feed-item-title">${escapeHtml(item.title)}</a>${dateEl}
