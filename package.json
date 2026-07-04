@@ -1,0 +1,14 @@
+{
+  "name": "start-page",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "fetch": "node build/fetch-feeds.js",
+    "build:only": "node build/build.js",
+    "build": "node build/fetch-feeds.js && node build/build.js",
+    "test": "node --test tests/normalize-item.test.js tests/feed-widget.test.js tests/search-widget.test.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
