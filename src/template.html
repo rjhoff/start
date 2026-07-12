@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Start</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body data-built-at="{{BUILT_AT}}">
+  <header class="page-header">
+    {{SEARCH_WIDGET}}
+  </header>
+  <main class="widget-grid">
+    {{WIDGET_GRID}}
+  </main>
+  <footer class="page-footer">
+    <span class="built-at">built <time id="built-at-time" datetime="{{BUILT_AT}}">{{BUILT_AT}}</time></span>
+  </footer>
+  <script>
+    (function () {
+      var el = document.getElementById('built-at-time');
+      if (!el) return;
+      var d = new Date(el.getAttribute('datetime'));
+      if (isNaN(d.getTime())) return;
+      var diff = Math.floor((Date.now() - d) / 60000);
+      if (diff < 1) el.textContent = 'just now';
+      else if (diff < 60) el.textContent = diff + 'm ago';
+      else el.textContent = Math.floor(diff / 60) + 'h ago';
+    })();
+  </script>
+</body>
+</html>
