@@ -1,0 +1,20 @@
+{
+  "feeds": [
+    {
+      "id": "hn",
+      "type": "rss-feed",
+      "title": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "limit": 15,
+      "category": "tech"
+    },
+    {
+      "id": "lobsters",
+      "type": "rss-feed",
+      "title": "Lobsters",
+      "url": "https://lobste.rs/rss",
+      "limit": 15,
+      "category": "tech"
+    }
+  ]
+}
