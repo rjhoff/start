@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+        "link": "https://qwen.ai/blog?id=qwen-image-3.0",
+        "pubDate": "2026-07-21T08:44",
+        "feedId": "hn"
+      },
+      {
         "title": "Linux kernel will support $ORIGIN, sort of",
         "link": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
         "pubDate": "2026-07-21T06:29",
@@ -12,12 +18,6 @@
         "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
         "link": "https://exsitu.app/map",
         "pubDate": "2026-07-21T04:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-        "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-        "pubDate": "2026-07-21T03:56",
         "feedId": "hn"
       },
       {
@@ -39,9 +39,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
-        "link": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
-        "pubDate": "2026-07-21T00:33",
+        "title": "VTubing: How a Japanese Phenomenon Is Going Worldwide",
+        "link": "https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide",
+        "pubDate": "2026-07-21T03:42",
         "feedId": "hn"
       },
       {
@@ -96,8 +96,98 @@
   },
   "lobsters": {
     "id": "lobsters",
-    "error": "",
-    "items": []
+    "items": [
+      {
+        "title": "Human mathematicians are being outcounterexampled",
+        "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+        "pubDate": "2026-07-20T22:16",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "432 Linux kernel CVEs published in the last 24 hours",
+        "link": "https://lore.kernel.org/linux-cve-announce/",
+        "pubDate": "2026-07-21T03:50",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "95 reasons for having your own website",
+        "link": "https://bellkiosk.website/blog/reasons-to-website.html",
+        "pubDate": "2026-07-21T03:02",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Gitolite",
+        "link": "https://gitolite.com/gitolite/index.html",
+        "pubDate": "2026-07-20T12:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I wrote an API client for my water-cooled bed",
+        "link": "https://tinkering.xyz/bedctl/",
+        "pubDate": "2026-07-20T07:04",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How Gnutella Scaled to Handle Query Traffic",
+        "link": "https://rickcarlino.com/notes/p2p/how-gnutella-scaled-to-handle-query-traffic.html",
+        "pubDate": "2026-07-20T21:51",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "InvisiCaps: The Fil-C Capability Model",
+        "link": "https://fil-c.org/invisicaps",
+        "pubDate": "2026-07-20T15:21",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+        "link": "https://soteria-tools.com/blog/meta-garbage-collection",
+        "pubDate": "2026-07-20T13:58",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A deep dive into my Forgejo setup",
+        "link": "https://a.l3x.in/blog/welcome-to-my-forge/",
+        "pubDate": "2026-07-20T16:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "An informal tutorial on Joy",
+        "link": "https://www.kevinalbrecht.com/code/joy-mirror/j01tut.html",
+        "pubDate": "2026-07-20T23:16",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "KDE for Enterprise Needs a Strong PIM Infrastructure",
+        "link": "https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/",
+        "pubDate": "2026-07-21T07:20",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Minimal Git CI using hooks",
+        "link": "https://mccd.space/posts/26-06-29/simple-git-ci",
+        "pubDate": "2026-07-20T08:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Using a SSH bastion, but only when I'm touching grass",
+        "link": "https://evertpot.com/ssh-tunnel-if-unresolvable/",
+        "pubDate": "2026-07-21T02:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why l (new runtime for k and q)",
+        "link": "https://lv1.sh/blog/why-l/",
+        "pubDate": "2026-07-21T06:50",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Opaque, Interoperable Passkey Records",
+        "link": "https://words.filippo.io/passkey-record/",
+        "pubDate": "2026-07-20T22:46",
+        "feedId": "lobsters"
+      }
+    ]
   },
   "arstechnica": {
     "id": "arstechnica",
@@ -198,6 +288,24 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump \"public charge\" rule resets health test for green cards",
+        "link": "https://www.axios.com/2026/07/21/public-charge-health-test-green-cards",
+        "pubDate": "2026-07-21T09:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump hosts Lebanon's president as Israel begins first pullback",
+        "link": "https://www.axios.com/2026/07/21/lebanon-israel-trump-aoun-hezbollah",
+        "pubDate": "2026-07-21T09:15",
+        "feedId": "axios"
+      },
+      {
+        "title": "Inside a group's push for whites-only communities \"heritage communities\"",
+        "link": "https://www.axios.com/2026/07/21/whites-only-communities-segregation-civil-rights",
+        "pubDate": "2026-07-21T09:10",
+        "feedId": "axios"
+      },
+      {
         "title": "Iran mediators push new ceasefire as Trump eyes all-out war",
         "link": "https://www.axios.com/2026/07/21/iran-war-ceasefire-proposal-trump-troops",
         "pubDate": "2026-07-21T01:32",
@@ -267,24 +375,6 @@
         "title": "How AI is supercharging drug development",
         "link": "https://www.axios.com/2026/07/20/artificial-intelligence-drug-development-impact",
         "pubDate": "2026-07-20T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "The secret Trump administration battle to fight Chinese AI",
-        "link": "https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi",
-        "pubDate": "2026-07-20T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Inside House Democrats' fear-driven turn against Israel",
-        "link": "https://www.axios.com/2026/07/20/democrats-israel-jeffries-massie-amendment-vote",
-        "pubDate": "2026-07-20T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "U.S. strikes Iran again after troop deaths",
-        "link": "https://www.axios.com/2026/07/19/us-military-finds-service-member-remains-jordan",
-        "pubDate": "2026-07-20T02:31",
         "feedId": "axios"
       }
     ]
