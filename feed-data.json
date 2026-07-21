@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "The Great Steam Deck Crash of 2026: How the New Pricing Decreased Demand by 80%",
+        "link": "https://boilingsteam.com/the-great-steam-deck-volume-crash/",
+        "pubDate": "2026-07-21T13:05",
+        "feedId": "hn"
+      },
+      {
         "title": "New US homeownership measure puts people first",
         "link": "https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first",
         "pubDate": "2026-07-21T12:03",
@@ -85,12 +91,6 @@
         "link": "https://cursor.com/blog/agent-swarm-model-economics",
         "pubDate": "2026-07-20T18:06",
         "feedId": "hn"
-      },
-      {
-        "title": "Kimi Work",
-        "link": "https://www.kimi.com/products/kimi-work",
-        "pubDate": "2026-07-20T17:13",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,21 +110,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "95 reasons for having your own website",
-        "link": "https://bellkiosk.website/blog/reasons-to-website.html",
-        "pubDate": "2026-07-21T03:02",
-        "feedId": "lobsters"
-      },
-      {
         "title": "432 Linux kernel CVEs published in the last 24 hours",
         "link": "https://lore.kernel.org/linux-cve-announce/",
         "pubDate": "2026-07-21T03:50",
         "feedId": "lobsters"
       },
       {
+        "title": "95 reasons for having your own website",
+        "link": "https://bellkiosk.website/blog/reasons-to-website.html",
+        "pubDate": "2026-07-21T03:02",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
         "link": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
         "pubDate": "2026-07-21T10:03",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "git --end-of-options",
+        "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
+        "pubDate": "2026-07-21T12:31",
         "feedId": "lobsters"
       },
       {
@@ -140,21 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Using a SSH bastion, but only when I'm touching grass",
-        "link": "https://evertpot.com/ssh-tunnel-if-unresolvable/",
-        "pubDate": "2026-07-21T02:23",
-        "feedId": "lobsters"
-      },
-      {
         "title": "I wrote an API client for my water-cooled bed",
         "link": "https://tinkering.xyz/bedctl/",
         "pubDate": "2026-07-20T07:04",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
-        "link": "https://soteria-tools.com/blog/meta-garbage-collection",
-        "pubDate": "2026-07-20T13:58",
         "feedId": "lobsters"
       },
       {
@@ -164,9 +158,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Using a SSH bastion, but only when I'm touching grass",
+        "link": "https://evertpot.com/ssh-tunnel-if-unresolvable/",
+        "pubDate": "2026-07-21T02:23",
+        "feedId": "lobsters"
+      },
+      {
         "title": "KDE for Enterprise Needs a Strong PIM Infrastructure",
         "link": "https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/",
         "pubDate": "2026-07-21T07:20",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+        "link": "https://soteria-tools.com/blog/meta-garbage-collection",
+        "pubDate": "2026-07-20T13:58",
         "feedId": "lobsters"
       },
       {
@@ -179,12 +185,6 @@
         "title": "Secrets Don’t Belong in Config",
         "link": "https://secretspec.dev/blog/secrets-dont-belong-in-config/",
         "pubDate": "2026-07-21T00:09",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Opaque, Interoperable Passkey Records",
-        "link": "https://words.filippo.io/passkey-record/",
-        "pubDate": "2026-07-20T22:46",
         "feedId": "lobsters"
       }
     ]
