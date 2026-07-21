@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "Linux kernel will support $ORIGIN, sort of",
+        "link": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
+        "pubDate": "2026-07-21T06:29",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
         "link": "https://exsitu.app/map",
         "pubDate": "2026-07-21T04:48",
@@ -85,109 +91,13 @@
         "link": "https://www.kimi.com/products/kimi-work",
         "pubDate": "2026-07-20T17:13",
         "feedId": "hn"
-      },
-      {
-        "title": "Jelly UI: Soft-body physics for native HTML form controls",
-        "link": "https://jelly-ui.com/",
-        "pubDate": "2026-07-20T17:07",
-        "feedId": "hn"
       }
     ]
   },
   "lobsters": {
     "id": "lobsters",
-    "items": [
-      {
-        "title": "Human mathematicians are being outcounterexampled",
-        "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-        "pubDate": "2026-07-20T22:16",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Gitolite",
-        "link": "https://gitolite.com/gitolite/index.html",
-        "pubDate": "2026-07-20T12:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I wrote an API client for my water-cooled bed",
-        "link": "https://tinkering.xyz/bedctl/",
-        "pubDate": "2026-07-20T07:04",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "InvisiCaps: The Fil-C Capability Model",
-        "link": "https://fil-c.org/invisicaps",
-        "pubDate": "2026-07-20T15:21",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
-        "link": "https://soteria-tools.com/blog/meta-garbage-collection",
-        "pubDate": "2026-07-20T13:58",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "95 reasons for having your own website",
-        "link": "https://bellkiosk.website/blog/reasons-to-website.html",
-        "pubDate": "2026-07-21T03:02",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "432 Linux kernel CVEs published in the last 24 hours",
-        "link": "https://lore.kernel.org/linux-cve-announce/",
-        "pubDate": "2026-07-21T03:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A deep dive into my Forgejo setup",
-        "link": "https://a.l3x.in/blog/welcome-to-my-forge/",
-        "pubDate": "2026-07-20T16:40",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How Gnutella Scaled to Handle Query Traffic",
-        "link": "https://rickcarlino.com/notes/p2p/how-gnutella-scaled-to-handle-query-traffic.html",
-        "pubDate": "2026-07-20T21:51",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Minimal Git CI using hooks",
-        "link": "https://mccd.space/posts/26-06-29/simple-git-ci",
-        "pubDate": "2026-07-20T08:28",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "An informal tutorial on Joy",
-        "link": "https://www.kevinalbrecht.com/code/joy-mirror/j01tut.html",
-        "pubDate": "2026-07-20T23:16",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Opaque, Interoperable Passkey Records",
-        "link": "https://words.filippo.io/passkey-record/",
-        "pubDate": "2026-07-20T22:46",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Building an AmigaOS Development Environment in 2026",
-        "link": "https://turtleware.eu/posts/Building-an-AmigaOS-Development-Environment-in-2026.html",
-        "pubDate": "2026-07-20T10:30",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "7 Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors",
-        "link": "https://www.pillar.security/blog/the-week-of-sandbox-escapes",
-        "pubDate": "2026-07-20T14:33",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Secrets Don’t Belong in Config",
-        "link": "https://secretspec.dev/blog/secrets-dont-belong-in-config/",
-        "pubDate": "2026-07-21T00:09",
-        "feedId": "lobsters"
-      }
-    ]
+    "error": "",
+    "items": []
   },
   "arstechnica": {
     "id": "arstechnica",
