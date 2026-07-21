@@ -3,6 +3,42 @@
     "id": "hn",
     "items": [
       {
+        "title": "The World's 2,400 Castles",
+        "link": "https://thecastlemap.com/",
+        "pubDate": "2026-07-21T16:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "France's Anssi Will Block PQC-Free Products from Certification Starting 2027",
+        "link": "https://postquantum.com/security-pqc/anssi-pqc-certification-2027/",
+        "pubDate": "2026-07-21T16:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "Amid nurse shortage, a university rolls out the welcome mat for men",
+        "link": "https://text.npr.org/nx-s1-5869813",
+        "pubDate": "2026-07-21T16:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "NPM's release cooldown is security theater",
+        "link": "https://blog.outv.im/2026/npm-cooldown-security-theater/",
+        "pubDate": "2026-07-21T15:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa",
+        "link": "https://e360.yale.edu/digest/benin-coral-reef",
+        "pubDate": "2026-07-21T15:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
+        "link": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
+        "pubDate": "2026-07-21T15:31",
+        "feedId": "hn"
+      },
+      {
         "title": "Oracle could face $7B collateral bill for Wisconsin data centre",
         "link": "https://www.ft.com/content/b37030b6-bda8-4ba9-8e08-e6b88687b8f5",
         "pubDate": "2026-07-21T15:22",
@@ -27,21 +63,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Gemini 3.6 Flash",
-        "link": "https://console.cloud.google.com/agent-platform/publishers/google/model-garden/gemini-3.6-flash",
-        "pubDate": "2026-07-21T14:56",
-        "feedId": "hn"
-      },
-      {
         "title": "Claude Is Not a Compiler",
         "link": "https://blog.exe.dev/claude-is-not-a-compiler",
         "pubDate": "2026-07-21T14:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "Sarah's Wager",
-        "link": "https://colossus.com/article/sarah-guo-conviction/",
-        "pubDate": "2026-07-21T14:40",
         "feedId": "hn"
       },
       {
@@ -57,12 +81,6 @@
         "feedId": "hn"
       },
       {
-        "title": "New US homeownership measure puts people first",
-        "link": "https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first",
-        "pubDate": "2026-07-21T12:03",
-        "feedId": "hn"
-      },
-      {
         "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
         "link": "https://qwen.ai/blog?id=qwen-image-3.0",
         "pubDate": "2026-07-21T08:44",
@@ -72,24 +90,6 @@
         "title": "Running Doom on Our Custom CPU and Going Viral",
         "link": "https://www.armaangomes.com/blogs/doom/",
         "pubDate": "2026-07-21T03:54",
-        "feedId": "hn"
-      },
-      {
-        "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
-        "link": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
-        "pubDate": "2026-07-21T03:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "Incremental – A library for incremental computations",
-        "link": "https://github.com/janestreet/incremental",
-        "pubDate": "2026-07-21T03:50",
-        "feedId": "hn"
-      },
-      {
-        "title": "I wrote an bash enumerator because I was sick of xargs",
-        "link": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
-        "pubDate": "2026-07-20T20:12",
         "feedId": "hn"
       }
     ]
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "95 reasons for having your own website",
-        "link": "https://bellkiosk.website/blog/reasons-to-website.html",
-        "pubDate": "2026-07-21T03:02",
-        "feedId": "lobsters"
-      },
-      {
         "title": "git --end-of-options",
         "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
         "pubDate": "2026-07-21T12:31",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "95 reasons for having your own website",
+        "link": "https://bellkiosk.website/blog/reasons-to-website.html",
+        "pubDate": "2026-07-21T03:02",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "KDE for Enterprise Needs a Strong PIM Infrastructure",
-        "link": "https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/",
-        "pubDate": "2026-07-21T07:20",
+        "title": "Linux kernel will support $ORIGIN, sort of",
+        "link": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
+        "pubDate": "2026-07-21T10:02",
         "feedId": "lobsters"
       },
       {
-        "title": "Gitolite",
-        "link": "https://gitolite.com/gitolite/index.html",
-        "pubDate": "2026-07-20T12:10",
+        "title": "KDE for Enterprise Needs a Strong PIM Infrastructure",
+        "link": "https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/",
+        "pubDate": "2026-07-21T07:20",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
-        "link": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
-        "pubDate": "2026-07-21T10:03",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Linux kernel will support $ORIGIN, sort of",
-        "link": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
-        "pubDate": "2026-07-21T10:02",
+        "title": "Gitolite",
+        "link": "https://gitolite.com/gitolite/index.html",
+        "pubDate": "2026-07-20T12:10",
         "feedId": "lobsters"
       },
       {
@@ -185,6 +179,12 @@
         "title": "Using a SSH bastion, but only when I'm touching grass",
         "link": "https://evertpot.com/ssh-tunnel-if-unresolvable/",
         "pubDate": "2026-07-21T02:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Secrets Don’t Belong in Config",
+        "link": "https://secretspec.dev/blog/secrets-dont-belong-in-config/",
+        "pubDate": "2026-07-21T00:09",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,30 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump admin freezes more than $1 billion in Medicaid funds",
+        "link": "https://www.axios.com/2026/07/21/trump-medicaid-freeze-california-minnesota",
+        "pubDate": "2026-07-21T16:14",
+        "feedId": "axios"
+      },
+      {
+        "title": "Democrats probe Epstein's ties with foreign governments",
+        "link": "https://www.axios.com/2026/07/21/epsteins-foreign-ties-democrats-raskin-investigate",
+        "pubDate": "2026-07-21T15:59",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump administration consults unused 1930s law for tariff playbook",
+        "link": "https://www.axios.com/2026/07/21/trump-tariffs-imports-canada",
+        "pubDate": "2026-07-21T15:59",
+        "feedId": "axios"
+      },
+      {
+        "title": "Mike Johnson backs ban on lawmakers dating Hill staff",
+        "link": "https://www.axios.com/2026/07/21/mike-johnson-ban-lawmaker-staff-sexual-relations",
+        "pubDate": "2026-07-21T15:40",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump \"public charge\" rule resets health test for green cards",
         "link": "https://www.axios.com/2026/07/21/public-charge-health-test-green-cards",
         "pubDate": "2026-07-21T09:30",
@@ -351,30 +375,6 @@
         "title": "Paramount Skydance-Warner Bros. Discovery merger paused by federal judge",
         "link": "https://www.axios.com/2026/07/20/paramount-skydance-warner-merger-paused",
         "pubDate": "2026-07-20T18:39",
-        "feedId": "axios"
-      },
-      {
-        "title": "Troy Jackson poised to seize Maine baton after Platner's exit",
-        "link": "https://www.axios.com/2026/07/20/troy-jackson-maine-platner-replacement",
-        "pubDate": "2026-07-20T16:06",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Trump AI security agency head resigns",
-        "link": "https://www.axios.com/2026/07/20/trump-ai-security-agency-head-resigns",
-        "pubDate": "2026-07-20T15:21",
-        "feedId": "axios"
-      },
-      {
-        "title": "Gas again tops $4 per gallon as Iran fighting persists",
-        "link": "https://www.axios.com/2026/07/20/gas-4-dollars-per-gallon-iran-war",
-        "pubDate": "2026-07-20T09:34",
-        "feedId": "axios"
-      },
-      {
-        "title": "How AI is supercharging drug development",
-        "link": "https://www.axios.com/2026/07/20/artificial-intelligence-drug-development-impact",
-        "pubDate": "2026-07-20T09:30",
         "feedId": "axios"
       }
     ]
