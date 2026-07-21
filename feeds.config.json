@@ -15,6 +15,22 @@
       "url": "https://lobste.rs/rss",
       "limit": 15,
       "category": "tech"
+    },
+    {
+      "id": "arstechnica",
+      "type": "rss-feed",
+      "title": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/index",
+      "limit": 15,
+      "category": "tech"
+    },
+    {
+      "id": "axios",
+      "type": "rss-feed",
+      "title": "Axios",
+      "url": "https://www.axios.com/feeds/feed.rss",
+      "limit": 15,
+      "category": "news"
     }
   ]
 }
