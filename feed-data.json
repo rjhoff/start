@@ -3,6 +3,42 @@
     "id": "hn",
     "items": [
       {
+        "title": "Show HN: Ex Situ – open-source spatial index of displaced cultural artifacts",
+        "link": "https://exsitu.app/map",
+        "pubDate": "2026-07-21T04:48",
+        "feedId": "hn"
+      },
+      {
+        "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+        "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+        "pubDate": "2026-07-21T03:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "Running Doom on Our Custom CPU and Going Viral",
+        "link": "https://www.armaangomes.com/blogs/doom/",
+        "pubDate": "2026-07-21T03:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+        "link": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+        "pubDate": "2026-07-21T03:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "Jane Street: Incremental",
+        "link": "https://github.com/janestreet/incremental",
+        "pubDate": "2026-07-21T03:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "Is surveillance risk chilling your online speech?",
+        "link": "https://news.ycombinator.com/item?id=48987634",
+        "pubDate": "2026-07-21T03:17",
+        "feedId": "hn"
+      },
+      {
         "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
         "link": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
         "pubDate": "2026-07-21T00:33",
@@ -12,12 +48,6 @@
         "title": "Jellyfin founder Andrew leaves team",
         "link": "https://forum.jellyfin.org/t-project-leadership-changes",
         "pubDate": "2026-07-20T23:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "Opaque, Interoperable Passkey Records (and a Go API)",
-        "link": "https://words.filippo.io/passkey-record/",
-        "pubDate": "2026-07-20T23:00",
         "feedId": "hn"
       },
       {
@@ -51,12 +81,6 @@
         "feedId": "hn"
       },
       {
-        "title": "The drivers behind software delivery inefficiency",
-        "link": "https://dl.acm.org/doi/10.1145/3800646.3800650",
-        "pubDate": "2026-07-20T18:10",
-        "feedId": "hn"
-      },
-      {
         "title": "Agent swarms and the new model economics",
         "link": "https://cursor.com/blog/agent-swarm-model-economics",
         "pubDate": "2026-07-20T18:06",
@@ -66,30 +90,6 @@
         "title": "Kimi Work",
         "link": "https://www.kimi.com/products/kimi-work",
         "pubDate": "2026-07-20T17:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "Jelly UI: Soft-body physics for native HTML form controls",
-        "link": "https://jelly-ui.com/",
-        "pubDate": "2026-07-20T17:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-        "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-        "pubDate": "2026-07-20T16:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
-        "link": "https://news.ycombinator.com/item?id=48981136",
-        "pubDate": "2026-07-20T16:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Voice of Google",
-        "link": "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google",
-        "pubDate": "2026-07-20T15:15",
         "feedId": "hn"
       }
     ]
@@ -134,21 +134,39 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Minimal Git CI using hooks",
-        "link": "https://mccd.space/posts/26-06-29/simple-git-ci",
-        "pubDate": "2026-07-20T08:28",
-        "feedId": "lobsters"
-      },
-      {
         "title": "How Gnutella Scaled to Handle Query Traffic",
         "link": "https://rickcarlino.com/notes/p2p/how-gnutella-scaled-to-handle-query-traffic.html",
         "pubDate": "2026-07-20T21:51",
         "feedId": "lobsters"
       },
       {
+        "title": "Minimal Git CI using hooks",
+        "link": "https://mccd.space/posts/26-06-29/simple-git-ci",
+        "pubDate": "2026-07-20T08:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "95 reasons for having your own website",
+        "link": "https://bellkiosk.website/blog/reasons-to-website.html",
+        "pubDate": "2026-07-21T03:02",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Building an AmigaOS Development Environment in 2026",
         "link": "https://turtleware.eu/posts/Building-an-AmigaOS-Development-Environment-in-2026.html",
         "pubDate": "2026-07-20T10:30",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "An informal tutorial on Joy",
+        "link": "https://www.kevinalbrecht.com/code/joy-mirror/j01tut.html",
+        "pubDate": "2026-07-20T23:16",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "432 Linux kernel CVEs published in the last 24 hours",
+        "link": "https://lore.kernel.org/linux-cve-announce/",
+        "pubDate": "2026-07-21T03:50",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Secrets Don’t Belong in Config",
-        "link": "https://secretspec.dev/blog/secrets-dont-belong-in-config/",
-        "pubDate": "2026-07-21T00:09",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What is your favorite blog to read recently?",
-        "link": "https://lobste.rs/s/69mche/what_is_your_favorite_blog_read_recently",
-        "pubDate": "2026-07-19T13:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/hq0he3/what_are_you_doing_this_week",
-        "pubDate": "2026-07-20T08:25",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "An informal tutorial on Joy",
-        "link": "https://www.kevinalbrecht.com/code/joy-mirror/j01tut.html",
-        "pubDate": "2026-07-20T23:16",
+        "title": "Type Safe Servant Auth Roles",
+        "link": "https://blog.cofree.coffee/2026-07-20-servant-auth-roles/",
+        "pubDate": "2026-07-20T16:07",
         "feedId": "lobsters"
       }
     ]
