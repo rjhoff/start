@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "Show HN: I made email signatures less boring",
+        "link": "https://esigna.app",
+        "pubDate": "2026-07-21T01:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Jellyfin founder Andrew leaves team",
+        "link": "https://forum.jellyfin.org/t-project-leadership-changes",
+        "pubDate": "2026-07-20T23:15",
+        "feedId": "hn"
+      },
+      {
         "title": "I wrote an bash enumerator because I was sick of xargs",
         "link": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
         "pubDate": "2026-07-20T20:12",
@@ -45,12 +57,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Hyprland 0.55 announced the switch to Lua for its config files",
-        "link": "https://hypr.land/news/update55/",
-        "pubDate": "2026-07-20T17:31",
-        "feedId": "hn"
-      },
-      {
         "title": "Kimi Work",
         "link": "https://www.kimi.com/products/kimi-work",
         "pubDate": "2026-07-20T17:13",
@@ -84,12 +90,6 @@
         "title": "The Voice of Google",
         "link": "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google",
         "pubDate": "2026-07-20T15:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-        "link": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
-        "pubDate": "2026-07-20T15:13",
         "feedId": "hn"
       }
     ]
@@ -176,16 +176,206 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Opaque, Interoperable Passkey Records",
+        "link": "https://words.filippo.io/passkey-record/",
+        "pubDate": "2026-07-20T22:46",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Type Safe Servant Auth Roles",
         "link": "https://blog.cofree.coffee/2026-07-20-servant-auth-roles/",
         "pubDate": "2026-07-20T16:07",
         "feedId": "lobsters"
+      }
+    ]
+  },
+  "arstechnica": {
+    "id": "arstechnica",
+    "items": [
+      {
+        "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
+        "link": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/",
+        "pubDate": "2026-07-20T22:15",
+        "feedId": "arstechnica"
       },
       {
-        "title": "7 Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors",
-        "link": "https://www.pillar.security/blog/the-week-of-sandbox-escapes",
+        "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
+        "link": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
+        "pubDate": "2026-07-20T21:55",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
+        "link": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
+        "pubDate": "2026-07-20T21:10",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "The Space Force is now seeking to buy up to $30 billion in rocket launches",
+        "link": "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
+        "pubDate": "2026-07-20T20:30",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "AT&T loses key ruling in bid to stop offering basic phone service in California",
+        "link": "https://arstechnica.com/tech-policy/2026/07/att-loses-key-ruling-in-bid-to-stop-offering-basic-phone-service-in-california/",
+        "pubDate": "2026-07-20T19:20",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "RIP bargain bin: The price impact of Sony's disc-free PlayStation plan",
+        "link": "https://arstechnica.com/gaming/2026/07/our-playstation-price-analysis-shows-why-physical-games-still-matter/",
+        "pubDate": "2026-07-20T18:06",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "F1 in Belgium: Machine learning algorithms are ruining the sport",
+        "link": "https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/",
+        "pubDate": "2026-07-20T15:59",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes",
+        "link": "https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/",
+        "pubDate": "2026-07-20T15:32",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "The first trailer for Avengers: Doomsday is finally here",
+        "link": "https://arstechnica.com/culture/2026/07/the-first-trailer-for-avengers-doomsday-is-finally-here/",
         "pubDate": "2026-07-20T14:33",
-        "feedId": "lobsters"
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Pay up or not? Ransomware surge has victims facing tough choices.",
+        "link": "https://arstechnica.com/security/2026/07/pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices/",
+        "pubDate": "2026-07-20T14:00",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Beyond grep: The case for a context-rich AI coding harness",
+        "link": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+        "pubDate": "2026-07-20T11:20",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "India's first privately developed rocket reaches orbit on dramatic debut launch",
+        "link": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+        "pubDate": "2026-07-19T22:11",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "As mosquito ranges expand, better monitoring is key to preventing disease",
+        "link": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/",
+        "pubDate": "2026-07-19T11:19",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Will AI fix prior authorization—or make it worse?",
+        "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+        "pubDate": "2026-07-18T11:18",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
+        "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
+        "pubDate": "2026-07-17T19:50",
+        "feedId": "arstechnica"
+      }
+    ]
+  },
+  "axios": {
+    "id": "axios",
+    "items": [
+      {
+        "title": "Senate watches the House on reconciliation 3.0",
+        "link": "https://www.axios.com/2026/07/21/congress-reconciliation-omb-iran-republicans",
+        "pubDate": "2026-07-21T00:10",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: Rep. Chuck Edwards gifted pink and blue handguns to young female staffers",
+        "link": "https://www.axios.com/2026/07/20/chuck-edwards-ethics-guns-female-staff",
+        "pubDate": "2026-07-20T21:02",
+        "feedId": "axios"
+      },
+      {
+        "title": "Nordone to launch bid for Graham's Senate seat",
+        "link": "https://www.axios.com/2026/07/20/trump-backed-nordone-enters-senate-race",
+        "pubDate": "2026-07-20T20:54",
+        "feedId": "axios"
+      },
+      {
+        "title": "Cyclospora investigation still points to recalled lettuce, FDA says",
+        "link": "https://www.axios.com/2026/07/20/fda-cyclospora-taylor-farms-lettuce-false-positive",
+        "pubDate": "2026-07-20T19:59",
+        "feedId": "axios"
+      },
+      {
+        "title": "Exclusive: House Republicans outraise Democrats in June",
+        "link": "https://www.axios.com/2026/07/20/house-republicans-fundraising-democrats",
+        "pubDate": "2026-07-20T19:52",
+        "feedId": "axios"
+      },
+      {
+        "title": "Paramount Skydance-Warner Bros. Discovery merger paused by federal judge",
+        "link": "https://www.axios.com/2026/07/20/paramount-skydance-warner-merger-paused",
+        "pubDate": "2026-07-20T18:39",
+        "feedId": "axios"
+      },
+      {
+        "title": "Troy Jackson poised to seize Maine baton after Platner's exit",
+        "link": "https://www.axios.com/2026/07/20/troy-jackson-maine-platner-replacement",
+        "pubDate": "2026-07-20T16:06",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: Trump AI security agency head resigns",
+        "link": "https://www.axios.com/2026/07/20/trump-ai-security-agency-head-resigns",
+        "pubDate": "2026-07-20T15:21",
+        "feedId": "axios"
+      },
+      {
+        "title": "Gas again tops $4 per gallon as Iran fighting persists",
+        "link": "https://www.axios.com/2026/07/20/gas-4-dollars-per-gallon-iran-war",
+        "pubDate": "2026-07-20T09:34",
+        "feedId": "axios"
+      },
+      {
+        "title": "How AI is supercharging drug development",
+        "link": "https://www.axios.com/2026/07/20/artificial-intelligence-drug-development-impact",
+        "pubDate": "2026-07-20T09:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "The secret Trump administration battle to fight Chinese AI",
+        "link": "https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi",
+        "pubDate": "2026-07-20T09:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "Inside House Democrats' fear-driven turn against Israel",
+        "link": "https://www.axios.com/2026/07/20/democrats-israel-jeffries-massie-amendment-vote",
+        "pubDate": "2026-07-20T09:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "U.S. strikes Iran again after troop deaths",
+        "link": "https://www.axios.com/2026/07/19/us-military-finds-service-member-remains-jordan",
+        "pubDate": "2026-07-20T02:31",
+        "feedId": "axios"
+      },
+      {
+        "title": "Oil tops $90 as Middle East fighting escalates",
+        "link": "https://www.axios.com/2026/07/19/oil-prices-90-middle-east-fighting-gas-prices",
+        "pubDate": "2026-07-19T23:38",
+        "feedId": "axios"
+      },
+      {
+        "title": "Top Pentagon official blasts OpenAI's Dean Ball",
+        "link": "https://www.axios.com/2026/07/19/pentagon-openai-dean-ball-trump-ai",
+        "pubDate": "2026-07-19T22:00",
+        "feedId": "axios"
       }
     ]
   }
