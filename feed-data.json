@@ -116,6 +116,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)",
+        "link": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
+        "pubDate": "2026-07-21T10:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
+        "link": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
+        "pubDate": "2026-07-21T10:03",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Gitolite",
         "link": "https://gitolite.com/gitolite/index.html",
         "pubDate": "2026-07-20T12:10",
@@ -152,9 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "An informal tutorial on Joy",
-        "link": "https://www.kevinalbrecht.com/code/joy-mirror/j01tut.html",
-        "pubDate": "2026-07-20T23:16",
+        "title": "Using a SSH bastion, but only when I'm touching grass",
+        "link": "https://evertpot.com/ssh-tunnel-if-unresolvable/",
+        "pubDate": "2026-07-21T02:23",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Minimal Git CI using hooks",
-        "link": "https://mccd.space/posts/26-06-29/simple-git-ci",
-        "pubDate": "2026-07-20T08:28",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Using a SSH bastion, but only when I'm touching grass",
-        "link": "https://evertpot.com/ssh-tunnel-if-unresolvable/",
-        "pubDate": "2026-07-21T02:23",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Why l (new runtime for k and q)",
         "link": "https://lv1.sh/blog/why-l/",
         "pubDate": "2026-07-21T06:50",
         "feedId": "lobsters"
       },
       {
-        "title": "Opaque, Interoperable Passkey Records",
-        "link": "https://words.filippo.io/passkey-record/",
-        "pubDate": "2026-07-20T22:46",
+        "title": "An informal tutorial on Joy",
+        "link": "https://www.kevinalbrecht.com/code/joy-mirror/j01tut.html",
+        "pubDate": "2026-07-20T23:16",
         "feedId": "lobsters"
       }
     ]
