@@ -3,15 +3,27 @@
     "id": "hn",
     "items": [
       {
-        "title": "The Great Steam Deck Crash of 2026: How the New Pricing Decreased Demand by 80%",
-        "link": "https://boilingsteam.com/the-great-steam-deck-volume-crash/",
-        "pubDate": "2026-07-21T13:05",
+        "title": "Over 400 Linux CVEs published in the last 24 hours alone",
+        "link": "https://lore.kernel.org/linux-cve-announce/",
+        "pubDate": "2026-07-21T14:16",
+        "feedId": "hn"
+      },
+      {
+        "title": "PCjs Machines",
+        "link": "https://www.pcjs.org/",
+        "pubDate": "2026-07-21T13:48",
         "feedId": "hn"
       },
       {
         "title": "New US homeownership measure puts people first",
         "link": "https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first",
         "pubDate": "2026-07-21T12:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "Israeli spyware vans infiltrate American streets and your phones",
+        "link": "https://cybernews.com/privacy/us-police-israeli-spy-vans-falconet-cognyte/",
+        "pubDate": "2026-07-21T11:34",
         "feedId": "hn"
       },
       {
@@ -51,12 +63,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Jellyfin founder Andrew leaves team",
-        "link": "https://forum.jellyfin.org/t-project-leadership-changes",
-        "pubDate": "2026-07-20T23:15",
-        "feedId": "hn"
-      },
-      {
         "title": "I wrote an bash enumerator because I was sick of xargs",
         "link": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
         "pubDate": "2026-07-20T20:12",
@@ -85,12 +91,6 @@
         "link": "https://blaizzy.github.io/nativ/",
         "pubDate": "2026-07-20T18:16",
         "feedId": "hn"
-      },
-      {
-        "title": "Agent swarms and the new model economics",
-        "link": "https://cursor.com/blog/agent-swarm-model-economics",
-        "pubDate": "2026-07-20T18:06",
-        "feedId": "hn"
       }
     ]
   },
@@ -101,6 +101,12 @@
         "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)",
         "link": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
         "pubDate": "2026-07-21T10:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "95 reasons for having your own website",
+        "link": "https://bellkiosk.website/blog/reasons-to-website.html",
+        "pubDate": "2026-07-21T03:02",
         "feedId": "lobsters"
       },
       {
@@ -116,21 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "95 reasons for having your own website",
-        "link": "https://bellkiosk.website/blog/reasons-to-website.html",
-        "pubDate": "2026-07-21T03:02",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
-        "link": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
-        "pubDate": "2026-07-21T10:03",
-        "feedId": "lobsters"
-      },
-      {
         "title": "git --end-of-options",
         "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
         "pubDate": "2026-07-21T12:31",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "KDE for Enterprise Needs a Strong PIM Infrastructure",
+        "link": "https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/",
+        "pubDate": "2026-07-21T07:20",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why l (new runtime for k and q)",
-        "link": "https://lv1.sh/blog/why-l/",
-        "pubDate": "2026-07-21T06:50",
+        "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
+        "link": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
+        "pubDate": "2026-07-21T10:03",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Thoughts On Integers (2023)",
+        "link": "https://blog.xoria.org/integers/",
+        "pubDate": "2026-07-21T12:16",
         "feedId": "lobsters"
       },
       {
@@ -164,9 +170,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "KDE for Enterprise Needs a Strong PIM Infrastructure",
-        "link": "https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/",
-        "pubDate": "2026-07-21T07:20",
+        "title": "Linux kernel will support $ORIGIN, sort of",
+        "link": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
+        "pubDate": "2026-07-21T10:02",
         "feedId": "lobsters"
       },
       {
@@ -179,12 +185,6 @@
         "title": "A deep dive into my Forgejo setup",
         "link": "https://a.l3x.in/blog/welcome-to-my-forge/",
         "pubDate": "2026-07-20T16:40",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Secrets Don’t Belong in Config",
-        "link": "https://secretspec.dev/blog/secrets-dont-belong-in-config/",
-        "pubDate": "2026-07-21T00:09",
         "feedId": "lobsters"
       }
     ]
@@ -300,7 +300,7 @@
         "feedId": "axios"
       },
       {
-        "title": "Inside a group's push for whites-only communities \"heritage communities\"",
+        "title": "Inside a group's push for whites-only \"heritage communities\"",
         "link": "https://www.axios.com/2026/07/21/whites-only-communities-segregation-civil-rights",
         "pubDate": "2026-07-21T09:10",
         "feedId": "axios"
