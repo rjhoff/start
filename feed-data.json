@@ -1,0 +1,192 @@
+{
+  "hn": {
+    "id": "hn",
+    "items": [
+      {
+        "title": "I wrote an bash enumerator because I was sick of xargs",
+        "link": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
+        "pubDate": "2026-07-20T20:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+        "link": "https://vincentwoo.com/3d/grace_cathedral/",
+        "pubDate": "2026-07-20T20:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
+        "link": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
+        "pubDate": "2026-07-20T20:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "Human mathematicians are being outcounterexampled",
+        "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+        "pubDate": "2026-07-20T19:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nativ: Run frontier open models locally on your Mac",
+        "link": "https://blaizzy.github.io/nativ/",
+        "pubDate": "2026-07-20T18:16",
+        "feedId": "hn"
+      },
+      {
+        "title": "The drivers behind software delivery inefficiency",
+        "link": "https://dl.acm.org/doi/10.1145/3800646.3800650",
+        "pubDate": "2026-07-20T18:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "Agent swarms and the new model economics",
+        "link": "https://cursor.com/blog/agent-swarm-model-economics",
+        "pubDate": "2026-07-20T18:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Hyprland 0.55 announced the switch to Lua for its config files",
+        "link": "https://hypr.land/news/update55/",
+        "pubDate": "2026-07-20T17:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "Kimi Work",
+        "link": "https://www.kimi.com/products/kimi-work",
+        "pubDate": "2026-07-20T17:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "Jelly UI: Soft-body physics for native HTML form controls",
+        "link": "https://jelly-ui.com/",
+        "pubDate": "2026-07-20T17:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+        "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+        "pubDate": "2026-07-20T16:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+        "link": "https://news.ycombinator.com/item?id=48981136",
+        "pubDate": "2026-07-20T16:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "Cross sectioning insects in an electron microscope with a femtosecond laser [video]",
+        "link": "https://www.youtube.com/watch?v=NwhVJ7cv9B4",
+        "pubDate": "2026-07-20T15:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Voice of Google",
+        "link": "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google",
+        "pubDate": "2026-07-20T15:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+        "link": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
+        "pubDate": "2026-07-20T15:13",
+        "feedId": "hn"
+      }
+    ]
+  },
+  "lobsters": {
+    "id": "lobsters",
+    "items": [
+      {
+        "title": "Gitolite",
+        "link": "https://gitolite.com/gitolite/index.html",
+        "pubDate": "2026-07-20T12:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I wrote an API client for my water-cooled bed",
+        "link": "https://tinkering.xyz/bedctl/",
+        "pubDate": "2026-07-20T07:04",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Human mathematicians are being outcounterexampled",
+        "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+        "pubDate": "2026-07-20T22:16",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+        "link": "https://soteria-tools.com/blog/meta-garbage-collection",
+        "pubDate": "2026-07-20T13:58",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "InvisiCaps: The Fil-C Capability Model",
+        "link": "https://fil-c.org/invisicaps",
+        "pubDate": "2026-07-20T15:21",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A deep dive into my Forgejo setup",
+        "link": "https://a.l3x.in/blog/welcome-to-my-forge/",
+        "pubDate": "2026-07-20T16:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Minimal Git CI using hooks",
+        "link": "https://mccd.space/posts/26-06-29/simple-git-ci",
+        "pubDate": "2026-07-20T08:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How Gnutella Scaled to Handle Query Traffic",
+        "link": "https://rickcarlino.com/notes/p2p/how-gnutella-scaled-to-handle-query-traffic.html",
+        "pubDate": "2026-07-20T21:51",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Building an AmigaOS Development Environment in 2026",
+        "link": "https://turtleware.eu/posts/Building-an-AmigaOS-Development-Environment-in-2026.html",
+        "pubDate": "2026-07-20T10:30",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "JSON5E - JSON5 for Humans",
+        "link": "https://github.com/boris-kolpackov/libpdjson5/blob/master/JSON5E.md",
+        "pubDate": "2026-07-20T09:02",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What is your favorite blog to read recently?",
+        "link": "https://lobste.rs/s/69mche/what_is_your_favorite_blog_read_recently",
+        "pubDate": "2026-07-19T13:14",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/hq0he3/what_are_you_doing_this_week",
+        "pubDate": "2026-07-20T08:25",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "email encryption",
+        "link": "https://computer.rip/2026-07-19-email-encryption.html",
+        "pubDate": "2026-07-20T05:39",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Type Safe Servant Auth Roles",
+        "link": "https://blog.cofree.coffee/2026-07-20-servant-auth-roles/",
+        "pubDate": "2026-07-20T16:07",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "7 Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors",
+        "link": "https://www.pillar.security/blog/the-week-of-sandbox-escapes",
+        "pubDate": "2026-07-20T14:33",
+        "feedId": "lobsters"
+      }
+    ]
+  }
+}

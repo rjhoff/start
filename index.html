@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Start</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body data-built-at="2026-07-21T00:56">
+  <header class="page-header">
+    <div class="search-container">
+  <form id="search-form" action="https://www.google.com/search" method="GET">
+    <input type="search" name="q" autofocus placeholder="search..." class="search-input" autocomplete="off" />
+    <div class="engine-toggle">
+      <button type="button" data-engine="google">Google</button>
+      <button type="button" data-engine="kagi">Kagi</button>
+      <button type="button" data-engine="ddg">DDG</button>
+    </div>
+  </form>
+  <script>
+    (function () {
+      var engines = {
+        google: { action: 'https://www.google.com/search', param: 'q' },
+        kagi:   { action: 'https://kagi.com/search',        param: 'q' },
+        ddg:    { action: 'https://duckduckgo.com/',         param: 'q' }
+      };
+      var saved = localStorage.getItem('search-engine') || 'google';
+      var form = document.getElementById('search-form');
+      form.action = engines[saved].action;
+      form.querySelector('input[type=search]').name = engines[saved].param;
+      document.querySelectorAll('.engine-toggle button').forEach(function (btn) {
+        btn.classList.toggle('active', btn.dataset.engine === saved);
+        btn.addEventListener('click', function () {
+          localStorage.setItem('search-engine', btn.dataset.engine);
+          form.action = engines[btn.dataset.engine].action;
+          form.querySelector('input[type=search]').name = engines[btn.dataset.engine].param;
+          document.querySelectorAll('.engine-toggle button').forEach(function (b) {
+            b.classList.toggle('active', b.dataset.engine === btn.dataset.engine);
+          });
+        });
+      });
+    })();
+  </script>
+</div>
+  </header>
+  <main class="widget-grid">
+    <div class="widget feed-widget" id="feed-hn">
+  <div class="widget-header">
+    <span class="widget-title">Hacker News</span>
+    <span class="widget-category">tech</span>
+  </div>
+  <ul class="widget-body feed-list">
+    <li class="feed-item">
+      <a href="https://numerlab.org/2025/07/20/bashumerate-enumerator/" target="_blank" rel="noopener noreferrer" class="feed-item-title">I wrote an bash enumerator because I was sick of xargs</a>
+      <time class="feed-item-date" datetime="2026-07-20T20:12">2026-07-20T20:12</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://vincentwoo.com/3d/grace_cathedral/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco</a>
+      <time class="feed-item-date" datetime="2026-07-20T20:10">2026-07-20T20:10</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/" target="_blank" rel="noopener noreferrer" class="feed-item-title">The Power of Awareness: Overcoming Surveillance Capitalism</a>
+      <time class="feed-item-date" datetime="2026-07-20T20:08">2026-07-20T20:08</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Human mathematicians are being outcounterexampled</a>
+      <time class="feed-item-date" datetime="2026-07-20T19:03">2026-07-20T19:03</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://blaizzy.github.io/nativ/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Nativ: Run frontier open models locally on your Mac</a>
+      <time class="feed-item-date" datetime="2026-07-20T18:16">2026-07-20T18:16</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://dl.acm.org/doi/10.1145/3800646.3800650" target="_blank" rel="noopener noreferrer" class="feed-item-title">The drivers behind software delivery inefficiency</a>
+      <time class="feed-item-date" datetime="2026-07-20T18:10">2026-07-20T18:10</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://cursor.com/blog/agent-swarm-model-economics" target="_blank" rel="noopener noreferrer" class="feed-item-title">Agent swarms and the new model economics</a>
+      <time class="feed-item-date" datetime="2026-07-20T18:06">2026-07-20T18:06</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://hypr.land/news/update55/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Hyprland 0.55 announced the switch to Lua for its config files</a>
+      <time class="feed-item-date" datetime="2026-07-20T17:31">2026-07-20T17:31</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://www.kimi.com/products/kimi-work" target="_blank" rel="noopener noreferrer" class="feed-item-title">Kimi Work</a>
+      <time class="feed-item-date" datetime="2026-07-20T17:13">2026-07-20T17:13</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://jelly-ui.com/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Jelly UI: Soft-body physics for native HTML form controls</a>
+      <time class="feed-item-date" datetime="2026-07-20T17:07">2026-07-20T17:07</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://unslop.run/blog/measuring-ai-writing-on-arxiv" target="_blank" rel="noopener noreferrer" class="feed-item-title">How we measured AI writing across arXiv, and where the measurement breaks</a>
+      <time class="feed-item-date" datetime="2026-07-20T16:36">2026-07-20T16:36</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://news.ycombinator.com/item?id=48981136" target="_blank" rel="noopener noreferrer" class="feed-item-title">Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12</a>
+      <time class="feed-item-date" datetime="2026-07-20T16:32">2026-07-20T16:32</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://www.youtube.com/watch?v=NwhVJ7cv9B4" target="_blank" rel="noopener noreferrer" class="feed-item-title">Cross sectioning insects in an electron microscope with a femtosecond laser [video]</a>
+      <time class="feed-item-date" datetime="2026-07-20T15:40">2026-07-20T15:40</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google" target="_blank" rel="noopener noreferrer" class="feed-item-title">The Voice of Google</a>
+      <time class="feed-item-date" datetime="2026-07-20T15:15">2026-07-20T15:15</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://www.emergingtrajectories.com/lh/frontier-lab-economics/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Kimi K3, Qwen 3.8, and Anthropic&#39;s (Potential) Unravelling</a>
+      <time class="feed-item-date" datetime="2026-07-20T15:13">2026-07-20T15:13</time>
+    </li>
+  </ul>
+</div>
+<div class="widget feed-widget" id="feed-lobsters">
+  <div class="widget-header">
+    <span class="widget-title">Lobsters</span>
+    <span class="widget-category">tech</span>
+  </div>
+  <ul class="widget-body feed-list">
+    <li class="feed-item">
+      <a href="https://gitolite.com/gitolite/index.html" target="_blank" rel="noopener noreferrer" class="feed-item-title">Gitolite</a>
+      <time class="feed-item-date" datetime="2026-07-20T12:10">2026-07-20T12:10</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://tinkering.xyz/bedctl/" target="_blank" rel="noopener noreferrer" class="feed-item-title">I wrote an API client for my water-cooled bed</a>
+      <time class="feed-item-date" datetime="2026-07-20T07:04">2026-07-20T07:04</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Human mathematicians are being outcounterexampled</a>
+      <time class="feed-item-date" datetime="2026-07-20T22:16">2026-07-20T22:16</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://soteria-tools.com/blog/meta-garbage-collection" target="_blank" rel="noopener noreferrer" class="feed-item-title">Meta Garbage Collection: Using OCaml&#39;s GC to GC Rust</a>
+      <time class="feed-item-date" datetime="2026-07-20T13:58">2026-07-20T13:58</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://fil-c.org/invisicaps" target="_blank" rel="noopener noreferrer" class="feed-item-title">InvisiCaps: The Fil-C Capability Model</a>
+      <time class="feed-item-date" datetime="2026-07-20T15:21">2026-07-20T15:21</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://a.l3x.in/blog/welcome-to-my-forge/" target="_blank" rel="noopener noreferrer" class="feed-item-title">A deep dive into my Forgejo setup</a>
+      <time class="feed-item-date" datetime="2026-07-20T16:40">2026-07-20T16:40</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://mccd.space/posts/26-06-29/simple-git-ci" target="_blank" rel="noopener noreferrer" class="feed-item-title">Minimal Git CI using hooks</a>
+      <time class="feed-item-date" datetime="2026-07-20T08:28">2026-07-20T08:28</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://rickcarlino.com/notes/p2p/how-gnutella-scaled-to-handle-query-traffic.html" target="_blank" rel="noopener noreferrer" class="feed-item-title">How Gnutella Scaled to Handle Query Traffic</a>
+      <time class="feed-item-date" datetime="2026-07-20T21:51">2026-07-20T21:51</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://turtleware.eu/posts/Building-an-AmigaOS-Development-Environment-in-2026.html" target="_blank" rel="noopener noreferrer" class="feed-item-title">Building an AmigaOS Development Environment in 2026</a>
+      <time class="feed-item-date" datetime="2026-07-20T10:30">2026-07-20T10:30</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://github.com/boris-kolpackov/libpdjson5/blob/master/JSON5E.md" target="_blank" rel="noopener noreferrer" class="feed-item-title">JSON5E - JSON5 for Humans</a>
+      <time class="feed-item-date" datetime="2026-07-20T09:02">2026-07-20T09:02</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://lobste.rs/s/69mche/what_is_your_favorite_blog_read_recently" target="_blank" rel="noopener noreferrer" class="feed-item-title">What is your favorite blog to read recently?</a>
+      <time class="feed-item-date" datetime="2026-07-19T13:14">2026-07-19T13:14</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://lobste.rs/s/hq0he3/what_are_you_doing_this_week" target="_blank" rel="noopener noreferrer" class="feed-item-title">What are you doing this week?</a>
+      <time class="feed-item-date" datetime="2026-07-20T08:25">2026-07-20T08:25</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://computer.rip/2026-07-19-email-encryption.html" target="_blank" rel="noopener noreferrer" class="feed-item-title">email encryption</a>
+      <time class="feed-item-date" datetime="2026-07-20T05:39">2026-07-20T05:39</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://blog.cofree.coffee/2026-07-20-servant-auth-roles/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Type Safe Servant Auth Roles</a>
+      <time class="feed-item-date" datetime="2026-07-20T16:07">2026-07-20T16:07</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://www.pillar.security/blog/the-week-of-sandbox-escapes" target="_blank" rel="noopener noreferrer" class="feed-item-title">7 Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors</a>
+      <time class="feed-item-date" datetime="2026-07-20T14:33">2026-07-20T14:33</time>
+    </li>
+  </ul>
+</div>
+  </main>
+  <footer class="page-footer">
+    <span class="built-at">built <time id="built-at-time" datetime="2026-07-21T00:56">2026-07-21T00:56</time></span>
+  </footer>
+  <script>
+    (function () {
+      var el = document.getElementById('built-at-time');
+      if (!el) return;
+      var d = new Date(el.getAttribute('datetime'));
+      if (isNaN(d.getTime())) return;
+      var diff = Math.floor((Date.now() - d) / 60000);
+      if (diff < 1) el.textContent = 'just now';
+      else if (diff < 60) el.textContent = diff + 'm ago';
+      else el.textContent = Math.floor(diff / 60) + 'h ago';
+    })();
+  </script>
+</body>
+</html>
