@@ -3,93 +3,93 @@
     "id": "hn",
     "items": [
       {
-        "title": "The World's 2,400 Castles",
-        "link": "https://thecastlemap.com/",
-        "pubDate": "2026-07-21T16:05",
+        "title": "OpenAI and Hugging Face partner to address security incident",
+        "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+        "pubDate": "2026-07-21T20:09",
         "feedId": "hn"
       },
       {
-        "title": "France's Anssi Will Block PQC-Free Products from Certification Starting 2027",
-        "link": "https://postquantum.com/security-pqc/anssi-pqc-certification-2027/",
-        "pubDate": "2026-07-21T16:02",
+        "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+        "link": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
+        "pubDate": "2026-07-21T19:43",
         "feedId": "hn"
       },
       {
-        "title": "Amid nurse shortage, a university rolls out the welcome mat for men",
-        "link": "https://text.npr.org/nx-s1-5869813",
-        "pubDate": "2026-07-21T16:01",
+        "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+        "link": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+        "pubDate": "2026-07-21T19:04",
         "feedId": "hn"
       },
       {
-        "title": "NPM's release cooldown is security theater",
-        "link": "https://blog.outv.im/2026/npm-cooldown-security-theater/",
-        "pubDate": "2026-07-21T15:46",
+        "title": "Advertise in ChatGPT",
+        "link": "https://ads.openai.com/",
+        "pubDate": "2026-07-21T18:58",
         "feedId": "hn"
       },
       {
-        "title": "Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa",
-        "link": "https://e360.yale.edu/digest/benin-coral-reef",
-        "pubDate": "2026-07-21T15:41",
+        "title": "The Price of Happiness",
+        "link": "https://happiness-science.org/price-of-happiness/",
+        "pubDate": "2026-07-21T18:42",
         "feedId": "hn"
       },
       {
-        "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
-        "link": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
-        "pubDate": "2026-07-21T15:31",
+        "title": "Slater – Low-memory graphdb designed for read-heavy graphs",
+        "link": "https://github.com/Hikari-Systems/slater",
+        "pubDate": "2026-07-21T18:39",
         "feedId": "hn"
       },
       {
-        "title": "Oracle could face $7B collateral bill for Wisconsin data centre",
-        "link": "https://www.ft.com/content/b37030b6-bda8-4ba9-8e08-e6b88687b8f5",
-        "pubDate": "2026-07-21T15:22",
+        "title": "FreeInk: Open ecosystem for e-readers",
+        "link": "https://freeink.org/",
+        "pubDate": "2026-07-21T18:39",
         "feedId": "hn"
       },
       {
-        "title": "Amid Increased Scrutiny, ICE Detention and Deportation Data Goes Dark",
-        "link": "https://www.themarshallproject.org/2026/07/15/ice-data-immigration-detention-transparency",
-        "pubDate": "2026-07-21T15:21",
+        "title": "AI Agent – TRMNL",
+        "link": "https://help.trmnl.com/en/articles/14130438-ai-agent",
+        "pubDate": "2026-07-21T18:32",
         "feedId": "hn"
       },
       {
-        "title": "ICE to Pay Thomson Reuters $125M to Find Voter Fraud",
-        "link": "https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud/",
-        "pubDate": "2026-07-21T15:19",
+        "title": "Apple has decided to compete for creativity app users",
+        "link": "https://alex4d.com/notes/item/apple-competing-for-creativity-app-users",
+        "pubDate": "2026-07-21T18:30",
         "feedId": "hn"
       },
       {
-        "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-        "pubDate": "2026-07-21T15:17",
+        "title": "AI makes programming differently difficult",
+        "link": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+        "pubDate": "2026-07-21T18:30",
         "feedId": "hn"
       },
       {
-        "title": "Claude Is Not a Compiler",
-        "link": "https://blog.exe.dev/claude-is-not-a-compiler",
-        "pubDate": "2026-07-21T14:49",
+        "title": "Show HN: A self-running space economy SIM in Rust and Bevy",
+        "link": "https://github.com/Kalcode/spaceprojectsim",
+        "pubDate": "2026-07-21T18:29",
         "feedId": "hn"
       },
       {
-        "title": "Apple Defeats Liability for Not Scanning iCloud for CSAM",
-        "link": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
-        "pubDate": "2026-07-21T14:31",
+        "title": "Cheap self-hosted Kubernetes on Hetzner cloud (2025)",
+        "link": "https://blog.qstars.nl/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud/",
+        "pubDate": "2026-07-21T18:25",
         "feedId": "hn"
       },
       {
-        "title": "PCjs Machines",
-        "link": "https://www.pcjs.org/",
-        "pubDate": "2026-07-21T13:48",
+        "title": "Greedy is optimal for single-pass semi-streaming matching",
+        "link": "https://arxiv.org/abs/2607.14656",
+        "pubDate": "2026-07-21T17:59",
         "feedId": "hn"
       },
       {
-        "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-        "link": "https://qwen.ai/blog?id=qwen-image-3.0",
-        "pubDate": "2026-07-21T08:44",
+        "title": "Apple Private Cloud Compute SoC 3 audit reports",
+        "link": "https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web",
+        "pubDate": "2026-07-21T17:58",
         "feedId": "hn"
       },
       {
-        "title": "Running Doom on Our Custom CPU and Going Viral",
-        "link": "https://www.armaangomes.com/blogs/doom/",
-        "pubDate": "2026-07-21T03:54",
+        "title": "Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac",
+        "link": "https://github.com/cristibaluta/Imagin-Raw",
+        "pubDate": "2026-07-21T17:30",
         "feedId": "hn"
       }
     ]
@@ -116,21 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Human mathematicians are being outcounterexampled",
-        "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-        "pubDate": "2026-07-20T22:16",
-        "feedId": "lobsters"
-      },
-      {
         "title": "432 Linux kernel CVEs published in the last 24 hours",
         "link": "https://lore.kernel.org/linux-cve-announce/",
         "pubDate": "2026-07-21T03:50",
         "feedId": "lobsters"
       },
       {
-        "title": "Thoughts On Integers (2023)",
-        "link": "https://blog.xoria.org/integers/",
-        "pubDate": "2026-07-21T12:16",
+        "title": "Human mathematicians are being outcounterexampled",
+        "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+        "pubDate": "2026-07-20T22:16",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +134,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Thoughts On Integers (2023)",
+        "link": "https://blog.xoria.org/integers/",
+        "pubDate": "2026-07-21T12:16",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "“No AI” Statements Are Much More Than Mere Statements",
+        "link": "https://journal.james-zhan.com/no-ai-statements/",
+        "pubDate": "2026-07-21T18:02",
+        "feedId": "lobsters"
+      },
+      {
         "title": "KDE for Enterprise Needs a Strong PIM Infrastructure",
         "link": "https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/",
         "pubDate": "2026-07-21T07:20",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "GGG – Declarative SVG badge generation using Guile Scheme and SXML",
+        "link": "https://codeberg.org/jjba23/ggg",
+        "pubDate": "2026-07-21T09:59",
         "feedId": "lobsters"
       },
       {
@@ -152,39 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Gitolite",
-        "link": "https://gitolite.com/gitolite/index.html",
-        "pubDate": "2026-07-20T12:10",
+        "title": "Five moments in snapping history",
+        "link": "https://unsung.aresluna.org/five-moments-in-snapping-history/",
+        "pubDate": "2026-07-21T09:57",
         "feedId": "lobsters"
       },
       {
-        "title": "I wrote an API client for my water-cooled bed",
-        "link": "https://tinkering.xyz/bedctl/",
-        "pubDate": "2026-07-20T07:04",
+        "title": "Web-based Jujutsu revset explorer & debugger",
+        "link": "https://juju.bi/tools/revset",
+        "pubDate": "2026-07-21T17:50",
         "feedId": "lobsters"
       },
       {
-        "title": "InvisiCaps: The Fil-C Capability Model",
-        "link": "https://fil-c.org/invisicaps",
-        "pubDate": "2026-07-20T15:21",
+        "title": "Cosy Language",
+        "link": "https://cosy.com/y26/NL202603.html",
+        "pubDate": "2026-07-21T19:02",
         "feedId": "lobsters"
       },
       {
-        "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
-        "link": "https://soteria-tools.com/blog/meta-garbage-collection",
-        "pubDate": "2026-07-20T13:58",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Using a SSH bastion, but only when I'm touching grass",
-        "link": "https://evertpot.com/ssh-tunnel-if-unresolvable/",
-        "pubDate": "2026-07-21T02:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Secrets Don’t Belong in Config",
-        "link": "https://secretspec.dev/blog/secrets-dont-belong-in-config/",
-        "pubDate": "2026-07-21T00:09",
+        "title": "Using Nagios for small business infrastructure monitoring",
+        "link": "https://tech.chrishardie.com/2026/nagios-small-business-infrastructure-monitoring/",
+        "pubDate": "2026-07-21T18:35",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,48 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Nintendo customers have no legal right to tariff refunds, company tells judge",
+        "link": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/",
+        "pubDate": "2026-07-21T19:09",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Let Tom Hiddleston be your guide to Pompeii's final day",
+        "link": "https://arstechnica.com/science/2026/07/tom-hiddleston-tracks-possible-pompeii-survivors-in-new-docuseries/",
+        "pubDate": "2026-07-21T18:17",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Naked mole-rat queens use a chemical signal to suppress fertility in rivals",
+        "link": "https://arstechnica.com/science/2026/07/naked-mole-rat-queens-keep-their-colonies-in-line-with-a-scent/",
+        "pubDate": "2026-07-21T17:51",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
+        "link": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+        "pubDate": "2026-07-21T17:33",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Sales of Valve's Steam Deck crater after recent price hike",
+        "link": "https://arstechnica.com/gaming/2026/07/steam-deck-sales-are-losing-steam-since-mays-price-hike/",
+        "pubDate": "2026-07-21T17:12",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+        "link": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+        "pubDate": "2026-07-21T16:58",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "TreeSize won't renew perpetual-license support unless users subscribe",
+        "link": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
+        "pubDate": "2026-07-21T15:18",
+        "feedId": "arstechnica"
+      },
       {
         "title": "When your vehicle outlives its cloud: What happens next?",
         "link": "https://arstechnica.com/cars/2026/07/when-your-vehicle-outlives-its-cloud-what-happens-next/",
@@ -239,54 +281,30 @@
         "link": "https://arstechnica.com/tech-policy/2026/07/att-loses-key-ruling-in-bid-to-stop-offering-basic-phone-service-in-california/",
         "pubDate": "2026-07-20T19:20",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "RIP bargain bin: The price impact of Sony's disc-free PlayStation plan",
-        "link": "https://arstechnica.com/gaming/2026/07/our-playstation-price-analysis-shows-why-physical-games-still-matter/",
-        "pubDate": "2026-07-20T18:06",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "F1 in Belgium: Machine learning algorithms are ruining the sport",
-        "link": "https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/",
-        "pubDate": "2026-07-20T15:59",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes",
-        "link": "https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/",
-        "pubDate": "2026-07-20T15:32",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "The first trailer for Avengers: Doomsday is finally here",
-        "link": "https://arstechnica.com/culture/2026/07/the-first-trailer-for-avengers-doomsday-is-finally-here/",
-        "pubDate": "2026-07-20T14:33",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Pay up or not? Ransomware surge has victims facing tough choices.",
-        "link": "https://arstechnica.com/security/2026/07/pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices/",
-        "pubDate": "2026-07-20T14:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Beyond grep: The case for a context-rich AI coding harness",
-        "link": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
-        "pubDate": "2026-07-20T11:20",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "India's first privately developed rocket reaches orbit on dramatic debut launch",
-        "link": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-        "pubDate": "2026-07-19T22:11",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Scoop: Trump's Cabinet members are joining TikTok after DOJ shift",
+        "link": "https://www.axios.com/2026/07/21/trump-tiktok-app-accounts-doj-cabinet",
+        "pubDate": "2026-07-21T19:54",
+        "feedId": "axios"
+      },
+      {
+        "title": "Mike Johnson backs ban on lawmakers dating Hill staff",
+        "link": "https://www.axios.com/2026/07/21/mike-johnson-ban-lawmaker-staff-sexual-relations",
+        "pubDate": "2026-07-21T19:51",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump vows U.S. will soon bomb Iran's Pickaxe Mountain",
+        "link": "https://www.axios.com/2026/07/21/trump-iran-pickaxe-mountain-bomb",
+        "pubDate": "2026-07-21T16:54",
+        "feedId": "axios"
+      },
       {
         "title": "Trump admin freezes more than $1 billion in Medicaid funds",
         "link": "https://www.axios.com/2026/07/21/trump-medicaid-freeze-california-minnesota",
@@ -303,12 +321,6 @@
         "title": "Trump administration consults unused 1930s law for tariff playbook",
         "link": "https://www.axios.com/2026/07/21/trump-tariffs-imports-canada",
         "pubDate": "2026-07-21T15:59",
-        "feedId": "axios"
-      },
-      {
-        "title": "Mike Johnson backs ban on lawmakers dating Hill staff",
-        "link": "https://www.axios.com/2026/07/21/mike-johnson-ban-lawmaker-staff-sexual-relations",
-        "pubDate": "2026-07-21T15:40",
         "feedId": "axios"
       },
       {
@@ -363,18 +375,6 @@
         "title": "Cyclospora investigation still points to recalled lettuce, FDA says",
         "link": "https://www.axios.com/2026/07/20/fda-cyclospora-taylor-farms-lettuce-false-positive",
         "pubDate": "2026-07-20T19:59",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: House Republicans outraise Democrats in June",
-        "link": "https://www.axios.com/2026/07/20/house-republicans-fundraising-democrats",
-        "pubDate": "2026-07-20T19:52",
-        "feedId": "axios"
-      },
-      {
-        "title": "Paramount Skydance-Warner Bros. Discovery merger paused by federal judge",
-        "link": "https://www.axios.com/2026/07/20/paramount-skydance-warner-merger-paused",
-        "pubDate": "2026-07-20T18:39",
         "feedId": "axios"
       }
     ]
