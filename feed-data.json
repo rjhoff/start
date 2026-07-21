@@ -3,9 +3,51 @@
     "id": "hn",
     "items": [
       {
-        "title": "Over 400 Linux CVEs published in the last 24 hours alone",
-        "link": "https://lore.kernel.org/linux-cve-announce/",
-        "pubDate": "2026-07-21T14:16",
+        "title": "Oracle could face $7B collateral bill for Wisconsin data centre",
+        "link": "https://www.ft.com/content/b37030b6-bda8-4ba9-8e08-e6b88687b8f5",
+        "pubDate": "2026-07-21T15:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "Amid Increased Scrutiny, ICE Detention and Deportation Data Goes Dark",
+        "link": "https://www.themarshallproject.org/2026/07/15/ice-data-immigration-detention-transparency",
+        "pubDate": "2026-07-21T15:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "ICE to Pay Thomson Reuters $125M to Find Voter Fraud",
+        "link": "https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud/",
+        "pubDate": "2026-07-21T15:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+        "pubDate": "2026-07-21T15:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "Gemini 3.6 Flash",
+        "link": "https://console.cloud.google.com/agent-platform/publishers/google/model-garden/gemini-3.6-flash",
+        "pubDate": "2026-07-21T14:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "Claude Is Not a Compiler",
+        "link": "https://blog.exe.dev/claude-is-not-a-compiler",
+        "pubDate": "2026-07-21T14:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "Sarah's Wager",
+        "link": "https://colossus.com/article/sarah-guo-conviction/",
+        "pubDate": "2026-07-21T14:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "Apple Defeats Liability for Not Scanning iCloud for CSAM",
+        "link": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
+        "pubDate": "2026-07-21T14:31",
         "feedId": "hn"
       },
       {
@@ -21,21 +63,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Israeli spyware vans infiltrate American streets and your phones",
-        "link": "https://cybernews.com/privacy/us-police-israeli-spy-vans-falconet-cognyte/",
-        "pubDate": "2026-07-21T11:34",
-        "feedId": "hn"
-      },
-      {
         "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
         "link": "https://qwen.ai/blog?id=qwen-image-3.0",
         "pubDate": "2026-07-21T08:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
-        "link": "https://exsitu.app/map",
-        "pubDate": "2026-07-21T04:48",
         "feedId": "hn"
       },
       {
@@ -57,39 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "VTubing: How a Japanese Phenomenon Is Going Worldwide",
-        "link": "https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide",
-        "pubDate": "2026-07-21T03:42",
-        "feedId": "hn"
-      },
-      {
         "title": "I wrote an bash enumerator because I was sick of xargs",
         "link": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
         "pubDate": "2026-07-20T20:12",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
-        "link": "https://vincentwoo.com/3d/grace_cathedral/",
-        "pubDate": "2026-07-20T20:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
-        "link": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
-        "pubDate": "2026-07-20T20:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "Human mathematicians are being outcounterexampled",
-        "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-        "pubDate": "2026-07-20T19:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nativ: Run frontier open models locally on your Mac",
-        "link": "https://blaizzy.github.io/nativ/",
-        "pubDate": "2026-07-20T18:16",
         "feedId": "hn"
       }
     ]
@@ -110,6 +110,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "git --end-of-options",
+        "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
+        "pubDate": "2026-07-21T12:31",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Human mathematicians are being outcounterexampled",
         "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
         "pubDate": "2026-07-20T22:16",
@@ -122,9 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "git --end-of-options",
-        "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
-        "pubDate": "2026-07-21T12:31",
+        "title": "Thoughts On Integers (2023)",
+        "link": "https://blog.xoria.org/integers/",
+        "pubDate": "2026-07-21T12:16",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +146,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "lazy-tmux: restore tmux sessions lazily, with scrollback",
+        "link": "https://lazy-tmux.xyz",
+        "pubDate": "2026-07-21T15:14",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
         "link": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
         "pubDate": "2026-07-21T10:03",
         "feedId": "lobsters"
       },
       {
-        "title": "Thoughts On Integers (2023)",
-        "link": "https://blog.xoria.org/integers/",
-        "pubDate": "2026-07-21T12:16",
+        "title": "Linux kernel will support $ORIGIN, sort of",
+        "link": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
+        "pubDate": "2026-07-21T10:02",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Using a SSH bastion, but only when I'm touching grass",
-        "link": "https://evertpot.com/ssh-tunnel-if-unresolvable/",
-        "pubDate": "2026-07-21T02:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Linux kernel will support $ORIGIN, sort of",
-        "link": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
-        "pubDate": "2026-07-21T10:02",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
         "link": "https://soteria-tools.com/blog/meta-garbage-collection",
         "pubDate": "2026-07-20T13:58",
         "feedId": "lobsters"
       },
       {
-        "title": "A deep dive into my Forgejo setup",
-        "link": "https://a.l3x.in/blog/welcome-to-my-forge/",
-        "pubDate": "2026-07-20T16:40",
+        "title": "Using a SSH bastion, but only when I'm touching grass",
+        "link": "https://evertpot.com/ssh-tunnel-if-unresolvable/",
+        "pubDate": "2026-07-21T02:23",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,24 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "When your vehicle outlives its cloud: What happens next?",
+        "link": "https://arstechnica.com/cars/2026/07/when-your-vehicle-outlives-its-cloud-what-happens-next/",
+        "pubDate": "2026-07-21T13:36",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Apps targeted at US troops contain Chinese and Russian code",
+        "link": "https://arstechnica.com/security/2026/07/apps-targeted-at-us-troops-contain-chinese-and-russian-code/",
+        "pubDate": "2026-07-21T13:19",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "2027 Kia Seltos first drive gives you plenty of SUV for not much $",
+        "link": "https://arstechnica.com/cars/2026/07/2027-kia-seltos-first-drive-telluride-vibes-in-a-smaller-package/",
+        "pubDate": "2026-07-21T13:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
         "link": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/",
@@ -262,24 +280,6 @@
         "title": "India's first privately developed rocket reaches orbit on dramatic debut launch",
         "link": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
         "pubDate": "2026-07-19T22:11",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "As mosquito ranges expand, better monitoring is key to preventing disease",
-        "link": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/",
-        "pubDate": "2026-07-19T11:19",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Will AI fix prior authorization—or make it worse?",
-        "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
-        "pubDate": "2026-07-18T11:18",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
-        "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
-        "pubDate": "2026-07-17T19:50",
         "feedId": "arstechnica"
       }
     ]
