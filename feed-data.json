@@ -3,15 +3,15 @@
     "id": "hn",
     "items": [
       {
-        "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-        "link": "https://qwen.ai/blog?id=qwen-image-3.0",
-        "pubDate": "2026-07-21T08:44",
+        "title": "New US homeownership measure puts people first",
+        "link": "https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first",
+        "pubDate": "2026-07-21T12:03",
         "feedId": "hn"
       },
       {
-        "title": "Linux kernel will support $ORIGIN, sort of",
-        "link": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
-        "pubDate": "2026-07-21T06:29",
+        "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+        "link": "https://qwen.ai/blog?id=qwen-image-3.0",
+        "pubDate": "2026-07-21T08:44",
         "feedId": "hn"
       },
       {
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Human mathematicians are being outcounterexampled",
-        "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-        "pubDate": "2026-07-20T22:16",
+        "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)",
+        "link": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
+        "pubDate": "2026-07-21T10:11",
         "feedId": "lobsters"
       },
       {
-        "title": "432 Linux kernel CVEs published in the last 24 hours",
-        "link": "https://lore.kernel.org/linux-cve-announce/",
-        "pubDate": "2026-07-21T03:50",
+        "title": "Human mathematicians are being outcounterexampled",
+        "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+        "pubDate": "2026-07-20T22:16",
         "feedId": "lobsters"
       },
       {
@@ -116,9 +116,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)",
-        "link": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
-        "pubDate": "2026-07-21T10:11",
+        "title": "432 Linux kernel CVEs published in the last 24 hours",
+        "link": "https://lore.kernel.org/linux-cve-announce/",
+        "pubDate": "2026-07-21T03:50",
         "feedId": "lobsters"
       },
       {
@@ -134,33 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I wrote an API client for my water-cooled bed",
-        "link": "https://tinkering.xyz/bedctl/",
-        "pubDate": "2026-07-20T07:04",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How Gnutella Scaled to Handle Query Traffic",
-        "link": "https://rickcarlino.com/notes/p2p/how-gnutella-scaled-to-handle-query-traffic.html",
-        "pubDate": "2026-07-20T21:51",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "InvisiCaps: The Fil-C Capability Model",
-        "link": "https://fil-c.org/invisicaps",
-        "pubDate": "2026-07-20T15:21",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
-        "link": "https://soteria-tools.com/blog/meta-garbage-collection",
-        "pubDate": "2026-07-20T13:58",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A deep dive into my Forgejo setup",
-        "link": "https://a.l3x.in/blog/welcome-to-my-forge/",
-        "pubDate": "2026-07-20T16:40",
+        "title": "Why l (new runtime for k and q)",
+        "link": "https://lv1.sh/blog/why-l/",
+        "pubDate": "2026-07-21T06:50",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +146,45 @@
         "feedId": "lobsters"
       },
       {
+        "title": "I wrote an API client for my water-cooled bed",
+        "link": "https://tinkering.xyz/bedctl/",
+        "pubDate": "2026-07-20T07:04",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+        "link": "https://soteria-tools.com/blog/meta-garbage-collection",
+        "pubDate": "2026-07-20T13:58",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "InvisiCaps: The Fil-C Capability Model",
+        "link": "https://fil-c.org/invisicaps",
+        "pubDate": "2026-07-20T15:21",
+        "feedId": "lobsters"
+      },
+      {
         "title": "KDE for Enterprise Needs a Strong PIM Infrastructure",
         "link": "https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/",
         "pubDate": "2026-07-21T07:20",
         "feedId": "lobsters"
       },
       {
-        "title": "Why l (new runtime for k and q)",
-        "link": "https://lv1.sh/blog/why-l/",
-        "pubDate": "2026-07-21T06:50",
+        "title": "A deep dive into my Forgejo setup",
+        "link": "https://a.l3x.in/blog/welcome-to-my-forge/",
+        "pubDate": "2026-07-20T16:40",
         "feedId": "lobsters"
       },
       {
-        "title": "An informal tutorial on Joy",
-        "link": "https://www.kevinalbrecht.com/code/joy-mirror/j01tut.html",
-        "pubDate": "2026-07-20T23:16",
+        "title": "Secrets Don’t Belong in Config",
+        "link": "https://secretspec.dev/blog/secrets-dont-belong-in-config/",
+        "pubDate": "2026-07-21T00:09",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Opaque, Interoperable Passkey Records",
+        "link": "https://words.filippo.io/passkey-record/",
+        "pubDate": "2026-07-20T22:46",
         "feedId": "lobsters"
       }
     ]
