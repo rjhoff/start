@@ -3,12 +3,6 @@
     "id": "hn",
     "items": [
       {
-        "title": "I graded 36 popular MCP servers on agent usability. A third got a D or F",
-        "link": "https://tengli.dev/posts/mcp-servers-failing-agents.html",
-        "pubDate": "2026-07-22T05:51",
-        "feedId": "hn"
-      },
-      {
         "title": "Show HN: ReadKinetic – a free, local-first speed reader for your own books",
         "link": "https://www.readkinetic.com/app/",
         "pubDate": "2026-07-22T05:49",
@@ -91,6 +85,12 @@
         "link": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
         "pubDate": "2026-07-21T19:04",
         "feedId": "hn"
+      },
+      {
+        "title": "Advertise in ChatGPT",
+        "link": "https://ads.openai.com/",
+        "pubDate": "2026-07-21T18:58",
+        "feedId": "hn"
       }
     ]
   },
@@ -116,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "git --end-of-options",
-        "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
-        "pubDate": "2026-07-21T12:31",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Bringing the modern web to the original iPad mini",
         "link": "https://seg6.space/posts/resurrecting-ipad-mini",
         "pubDate": "2026-07-21T22:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "git --end-of-options",
+        "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
+        "pubDate": "2026-07-21T12:31",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +152,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "95 reasons for having your own website",
-        "link": "https://bellkiosk.website/blog/reasons-to-website.html",
-        "pubDate": "2026-07-21T03:02",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Some more things about Django I've been enjoying",
         "link": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
         "pubDate": "2026-07-22T02:46",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "95 reasons for having your own website",
+        "link": "https://bellkiosk.website/blog/reasons-to-website.html",
+        "pubDate": "2026-07-21T03:02",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "432 Linux kernel CVEs published in the last 24 hours",
-        "link": "https://lore.kernel.org/linux-cve-announce/",
-        "pubDate": "2026-07-21T03:50",
+        "title": "Rewriting the Futhark type checker",
+        "link": "https://futhark-lang.org/blog/2026-07-21-rewriting-the-type-checker.html",
+        "pubDate": "2026-07-22T06:36",
         "feedId": "lobsters"
       },
       {
-        "title": "Web-based Jujutsu revset explorer & debugger",
-        "link": "https://juju.bi/tools/revset",
-        "pubDate": "2026-07-21T17:50",
+        "title": "An Engineer’s Guide to USB Type-C",
+        "link": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf",
+        "pubDate": "2026-07-21T22:38",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump, Rubio don't plan to stop Tate brothers' extradition to the U.K.",
+        "link": "https://www.axios.com/2026/07/22/trump-rubio-tate-brothers-extradition",
+        "pubDate": "2026-07-22T09:10",
+        "feedId": "axios"
+      },
+      {
         "title": "U.S. measles cases surpass last year's total: Tracker",
         "link": "https://www.axios.com/2026/07/22/measles-cases-surge-past-last-year",
         "pubDate": "2026-07-22T00:56",
@@ -368,12 +374,6 @@
       {
         "title": "Democrats probe Epstein's ties with foreign governments",
         "link": "https://www.axios.com/2026/07/21/epsteins-foreign-ties-democrats-raskin-investigate",
-        "pubDate": "2026-07-21T15:59",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump administration consults unused 1930s law for tariff playbook",
-        "link": "https://www.axios.com/2026/07/21/trump-tariffs-imports-canada",
         "pubDate": "2026-07-21T15:59",
         "feedId": "axios"
       }
