@@ -3,21 +3,45 @@
     "id": "hn",
     "items": [
       {
-        "title": "How to Read a Painting",
-        "link": "https://sheets.works/data-viz/how-to-read-a-painting/",
-        "pubDate": "2026-07-22T14:31",
+        "title": "I Built a Private Genomics Study with Stoffel MPC",
+        "link": "https://vishakh.blog/2026/07/21/i-built-a-private-genomics-study-with-stoffel-mpc/",
+        "pubDate": "2026-07-22T14:35",
         "feedId": "hn"
       },
       {
-        "title": "Back to Kagi",
-        "link": "https://blog.melashri.net/micro/back-to-kagi/",
-        "pubDate": "2026-07-22T13:08",
+        "title": "OpenAI Models Escaped and Hacked a Company in Cybersecurity Test Gone Wrong",
+        "link": "https://www.wsj.com/tech/ai/openai-models-escaped-and-hacked-a-company-in-cybersecurity-test-gone-wrong-ee388506",
+        "pubDate": "2026-07-22T14:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "Most Americans Say \"Not in My Backyard\" to AI Data Centers",
+        "link": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/",
+        "pubDate": "2026-07-22T14:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "OpenNode – Bitcoin Payment Processor",
+        "link": "https://opennode.com/",
+        "pubDate": "2026-07-22T14:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
+        "link": "https://twitter.com/nikitabier/status/2079787406300266743",
+        "pubDate": "2026-07-22T14:25",
         "feedId": "hn"
       },
       {
         "title": "Businesses with ugly AI menu redesigns",
         "link": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
         "pubDate": "2026-07-22T12:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "The startup's Postgres survival guide",
+        "link": "https://hatchet.run/blog/postgres-survival-guide",
+        "pubDate": "2026-07-22T12:36",
         "feedId": "hn"
       },
       {
@@ -67,30 +91,6 @@
         "link": "https://fireworks.ai/blog/kimik3-fable",
         "pubDate": "2026-07-21T22:35",
         "feedId": "hn"
-      },
-      {
-        "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-        "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
-        "pubDate": "2026-07-21T21:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "A digestion of the Jacobian conjecture counterexample",
-        "link": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
-        "pubDate": "2026-07-21T21:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "OpenAI and Hugging Face address security incident during model evaluation",
-        "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-        "pubDate": "2026-07-21T20:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-        "link": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-        "pubDate": "2026-07-21T19:04",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,6 +110,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "log is non-monotonous in PHP and Lua",
+        "link": "https://purplesyringa.moe/blog/log-is-non-monotonous-in-php-and-lua/",
+        "pubDate": "2026-07-22T09:11",
+        "feedId": "lobsters"
+      },
+      {
         "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
         "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
         "pubDate": "2026-07-21T20:38",
@@ -122,15 +128,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "log is non-monotonous in PHP and Lua",
-        "link": "https://purplesyringa.moe/blog/log-is-non-monotonous-in-php-and-lua/",
-        "pubDate": "2026-07-22T09:11",
+        "title": "SIMD for Collision",
+        "link": "https://box2d.org/posts/2026/07/simd-for-collision/",
+        "pubDate": "2026-07-22T10:00",
         "feedId": "lobsters"
       },
       {
         "title": "Free Ink · An open ecosystem for e-readers",
         "link": "https://freeink.org/",
         "pubDate": "2026-07-21T20:39",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Slash Pages",
+        "link": "https://slashpages.net/",
+        "pubDate": "2026-07-22T05:34",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Slash Pages",
-        "link": "https://slashpages.net/",
-        "pubDate": "2026-07-22T05:34",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "SIMD for Collision",
-        "link": "https://box2d.org/posts/2026/07/simd-for-collision/",
-        "pubDate": "2026-07-22T10:00",
+        "title": "Rewriting the Futhark type checker",
+        "link": "https://futhark-lang.org/blog/2026-07-21-rewriting-the-type-checker.html",
+        "pubDate": "2026-07-22T06:36",
         "feedId": "lobsters"
       },
       {
@@ -164,21 +170,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Rewriting the Futhark type checker",
-        "link": "https://futhark-lang.org/blog/2026-07-21-rewriting-the-type-checker.html",
-        "pubDate": "2026-07-22T06:36",
-        "feedId": "lobsters"
-      },
-      {
         "title": "COSMIC DE’s First Seven Months",
         "link": "https://system76.com/blog/post/cosmic-de-first-seven-months",
         "pubDate": "2026-07-21T19:57",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "An Engineer’s Guide to USB Type-C",
-        "link": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf",
-        "pubDate": "2026-07-21T22:38",
         "feedId": "lobsters"
       },
       {
@@ -186,12 +180,42 @@
         "link": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
         "pubDate": "2026-07-22T02:46",
         "feedId": "lobsters"
+      },
+      {
+        "title": "An Engineer’s Guide to USB Type-C",
+        "link": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf",
+        "pubDate": "2026-07-21T22:38",
+        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "What happens when you try to chop a photon in half?",
+        "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-try-to-chop-a-photon-in-half/",
+        "pubDate": "2026-07-22T14:17",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Samsung unveils new Galaxy Z8 foldables and Galaxy Watches, available August 7",
+        "link": "https://arstechnica.com/gadgets/2026/07/samsung-unveils-new-galaxy-z8-foldables-and-galaxy-watches-available-august-7/",
+        "pubDate": "2026-07-22T13:58",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
+        "link": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
+        "pubDate": "2026-07-22T13:35",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Ukrainian drones deliver robots directly into battle by sea and air",
+        "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drones-deliver-robots-directly-into-battle-by-sea-and-air/",
+        "pubDate": "2026-07-22T11:15",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Range Rover answers the question: \"What if we built a not-SUV?\"",
         "link": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/",
@@ -256,30 +280,6 @@
         "title": "TreeSize won't renew perpetual-license support unless users subscribe",
         "link": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
         "pubDate": "2026-07-21T15:18",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "When your vehicle outlives its cloud: What happens next?",
-        "link": "https://arstechnica.com/cars/2026/07/when-your-vehicle-outlives-its-cloud-what-happens-next/",
-        "pubDate": "2026-07-21T13:36",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Apps targeted at US troops contain Chinese and Russian code",
-        "link": "https://arstechnica.com/security/2026/07/apps-targeted-at-us-troops-contain-chinese-and-russian-code/",
-        "pubDate": "2026-07-21T13:19",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "2027 Kia Seltos first drive gives you plenty of SUV for not much $",
-        "link": "https://arstechnica.com/cars/2026/07/2027-kia-seltos-first-drive-telluride-vibes-in-a-smaller-package/",
-        "pubDate": "2026-07-21T13:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
-        "link": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/",
-        "pubDate": "2026-07-20T22:15",
         "feedId": "arstechnica"
       }
     ]
