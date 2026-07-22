@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "I graded 36 popular MCP servers on agent usability. A third got a D or F",
+        "link": "https://tengli.dev/posts/mcp-servers-failing-agents.html",
+        "pubDate": "2026-07-22T05:51",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: ReadKinetic – a free, local-first speed reader for your own books",
         "link": "https://www.readkinetic.com/app/",
         "pubDate": "2026-07-22T05:49",
@@ -85,12 +91,6 @@
         "link": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
         "pubDate": "2026-07-21T19:04",
         "feedId": "hn"
-      },
-      {
-        "title": "Advertise in ChatGPT",
-        "link": "https://ads.openai.com/",
-        "pubDate": "2026-07-21T18:58",
-        "feedId": "hn"
       }
     ]
   },
@@ -107,6 +107,12 @@
         "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
         "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
         "pubDate": "2026-07-21T20:38",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "LG to Ban Residential Proxies from Smart TV Apps",
+        "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+        "pubDate": "2026-07-22T05:56",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "LG to Ban Residential Proxies from Smart TV Apps",
-        "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-        "pubDate": "2026-07-22T05:56",
+        "title": "COSMIC DE’s First Seven Months",
+        "link": "https://system76.com/blog/post/cosmic-de-first-seven-months",
+        "pubDate": "2026-07-21T19:57",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "COSMIC DE’s First Seven Months",
-        "link": "https://system76.com/blog/post/cosmic-de-first-seven-months",
-        "pubDate": "2026-07-21T19:57",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Some more things about Django I've been enjoying",
         "link": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
         "pubDate": "2026-07-22T02:46",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "ECC and DDR5",
+        "link": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
+        "pubDate": "2026-07-22T06:19",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Web-based Jujutsu revset explorer & debugger",
-        "link": "https://juju.bi/tools/revset",
-        "pubDate": "2026-07-21T17:50",
-        "feedId": "lobsters"
-      },
-      {
         "title": "432 Linux kernel CVEs published in the last 24 hours",
         "link": "https://lore.kernel.org/linux-cve-announce/",
         "pubDate": "2026-07-21T03:50",
         "feedId": "lobsters"
       },
       {
-        "title": "ECC and DDR5",
-        "link": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
-        "pubDate": "2026-07-22T06:19",
+        "title": "Web-based Jujutsu revset explorer & debugger",
+        "link": "https://juju.bi/tools/revset",
+        "pubDate": "2026-07-21T17:50",
         "feedId": "lobsters"
       }
     ]
