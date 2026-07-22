@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "Show HN: ReadKinetic – a free, local-first speed reader for your own books",
+        "link": "https://www.readkinetic.com/app/",
+        "pubDate": "2026-07-22T05:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: A new kind of FPS aim trainer",
+        "link": "https://openaim.pramit.gg/",
+        "pubDate": "2026-07-22T05:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+        "link": "https://github.com/chrislgarry/Apollo-11",
+        "pubDate": "2026-07-22T05:18",
+        "feedId": "hn"
+      },
+      {
         "title": "Late.sh – a command-line Clubhouse for computer people",
         "link": "https://late.sh/",
         "pubDate": "2026-07-22T02:32",
@@ -21,12 +39,6 @@
         "feedId": "hn"
       },
       {
-        "title": "A flaky test exposed a Redis client use-after-free",
-        "link": "https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/",
-        "pubDate": "2026-07-22T00:27",
-        "feedId": "hn"
-      },
-      {
         "title": "It's a shame what's happened to radio",
         "link": "https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/",
         "pubDate": "2026-07-21T23:33",
@@ -36,12 +48,6 @@
         "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
         "link": "https://fireworks.ai/blog/kimik3-fable",
         "pubDate": "2026-07-21T22:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
-        "link": "https://www.getcomputable.com/",
-        "pubDate": "2026-07-21T21:48",
         "feedId": "hn"
       },
       {
@@ -84,12 +90,6 @@
         "title": "Advertise in ChatGPT",
         "link": "https://ads.openai.com/",
         "pubDate": "2026-07-21T18:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "FreeInk: Open ecosystem for e-readers",
-        "link": "https://freeink.org/",
-        "pubDate": "2026-07-21T18:39",
         "feedId": "hn"
       }
     ]
@@ -134,6 +134,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "LG to Ban Residential Proxies from Smart TV Apps",
+        "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+        "pubDate": "2026-07-22T05:56",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Linux kernel will support $ORIGIN, sort of",
         "link": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
         "pubDate": "2026-07-21T10:02",
@@ -152,15 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Thoughts On Integers (2023)",
-        "link": "https://blog.xoria.org/integers/",
-        "pubDate": "2026-07-21T12:16",
+        "title": "Some more things about Django I've been enjoying",
+        "link": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+        "pubDate": "2026-07-22T02:46",
         "feedId": "lobsters"
       },
       {
-        "title": "432 Linux kernel CVEs published in the last 24 hours",
-        "link": "https://lore.kernel.org/linux-cve-announce/",
-        "pubDate": "2026-07-21T03:50",
+        "title": "Thoughts On Integers (2023)",
+        "link": "https://blog.xoria.org/integers/",
+        "pubDate": "2026-07-21T12:16",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "432 Linux kernel CVEs published in the last 24 hours",
+        "link": "https://lore.kernel.org/linux-cve-announce/",
+        "pubDate": "2026-07-21T03:50",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Human mathematicians are being outcounterexampled",
         "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
         "pubDate": "2026-07-20T22:16",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Cosy Language",
-        "link": "https://cosy.com/y26/NL202603.html",
-        "pubDate": "2026-07-21T19:02",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "GGG – Declarative SVG badge generation using Guile Scheme and SXML",
-        "link": "https://codeberg.org/jjba23/ggg",
-        "pubDate": "2026-07-21T09:59",
         "feedId": "lobsters"
       }
     ]
