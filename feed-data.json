@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+        "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+        "pubDate": "2026-07-22T17:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "GigaToken: ~1000x faster Language model tokenization",
+        "link": "https://github.com/marcelroed/gigatoken/",
+        "pubDate": "2026-07-22T17:20",
+        "feedId": "hn"
+      },
+      {
+        "title": "Are AI Labs Pelicanmaxxing?",
+        "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+        "pubDate": "2026-07-22T17:17",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: Web swing through midtown NYC",
         "link": "https://www.swingnyc.com/",
         "pubDate": "2026-07-22T16:25",
@@ -21,12 +39,6 @@
         "feedId": "hn"
       },
       {
-        "title": "A Zipper Patent Sat in a Garage for 40 Years. Now It's Real",
-        "link": "https://www.yankodesign.com/2026/05/31/a-zipper-patent-sat-in-a-garage-for-40-years-now-its-real/",
-        "pubDate": "2026-07-22T15:37",
-        "feedId": "hn"
-      },
-      {
         "title": "Making",
         "link": "https://beej.us/blog/data/ai-making/",
         "pubDate": "2026-07-22T15:33",
@@ -36,12 +48,6 @@
         "title": "Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links",
         "link": "https://www.orangecrumbs.com/hall/",
         "pubDate": "2026-07-22T15:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "Critical Minerals: Reducing U.S. Import Reliance with Substitution and Recycling",
-        "link": "https://www.gao.gov/products/gao-26-108687",
-        "pubDate": "2026-07-22T15:26",
         "feedId": "hn"
       },
       {
@@ -85,12 +91,6 @@
         "link": "https://ishmael.textualize.io/blog/ghost-cut/",
         "pubDate": "2026-07-22T14:43",
         "feedId": "hn"
-      },
-      {
-        "title": "Hologram works. Elixir runs in the browser",
-        "link": "https://hologram.page/blog/backing-hologram",
-        "pubDate": "2026-07-22T14:42",
-        "feedId": "hn"
       }
     ]
   },
@@ -122,15 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
-        "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-        "pubDate": "2026-07-21T20:38",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)",
-        "link": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
-        "pubDate": "2026-07-21T10:11",
+        "title": "Unranked, systemd, crawls",
+        "link": "https://www.marginalia.nu/log/a_138_systemdocker/",
+        "pubDate": "2026-07-22T12:39",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +134,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
+        "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+        "pubDate": "2026-07-21T20:38",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Rewriting the Futhark type checker",
         "link": "https://futhark-lang.org/blog/2026-07-21-rewriting-the-type-checker.html",
         "pubDate": "2026-07-22T06:36",
         "feedId": "lobsters"
       },
       {
-        "title": "Unranked, systemd, crawls",
-        "link": "https://www.marginalia.nu/log/a_138_systemdocker/",
-        "pubDate": "2026-07-22T12:39",
+        "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)",
+        "link": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
+        "pubDate": "2026-07-21T10:11",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "git --end-of-options",
-        "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
-        "pubDate": "2026-07-21T12:31",
-        "feedId": "lobsters"
-      },
-      {
         "title": "“No AI” Statements Are Much More Than Mere Statements",
         "link": "https://journal.james-zhan.com/no-ai-statements/",
         "pubDate": "2026-07-21T18:02",
         "feedId": "lobsters"
       },
       {
-        "title": "COSMIC DE’s First Seven Months",
-        "link": "https://system76.com/blog/post/cosmic-de-first-seven-months",
-        "pubDate": "2026-07-21T19:57",
+        "title": "git --end-of-options",
+        "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
+        "pubDate": "2026-07-21T12:31",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Unicode Variation Selector-15 and some of my tears",
+        "link": "https://benjaminwil.info/weblog/variation-selector-15/",
+        "pubDate": "2026-07-22T15:59",
         "feedId": "lobsters"
       }
     ]
