@@ -3,15 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "Codeberg: ToU extension to prohibit LLM-extrusions",
-        "link": "https://codeberg.org/Codeberg/org/pulls/1253",
-        "pubDate": "2026-07-22T08:27",
+        "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+        "link": "https://www.bbc.com/news/articles/c3ek3gvdnj3o",
+        "pubDate": "2026-07-22T12:03",
         "feedId": "hn"
       },
       {
-        "title": "I graded 36 popular MCP servers on agent usability. A third got a D or F",
-        "link": "https://tengli.dev/posts/mcp-servers-failing-agents.html",
-        "pubDate": "2026-07-22T05:51",
+        "title": "OpenAI Hacks Hugging Face, What Happened, Alignment and Paper Clips",
+        "link": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
+        "pubDate": "2026-07-22T11:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "OverpAId – Fire your CEO. Hire the future",
+        "link": "https://overpaid.lol",
+        "pubDate": "2026-07-22T10:49",
         "feedId": "hn"
       },
       {
@@ -36,12 +42,6 @@
         "title": "Late.sh – a command-line Clubhouse for computer people",
         "link": "https://late.sh/",
         "pubDate": "2026-07-22T02:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "LG to ban residential proxies from smart TV apps",
-        "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-        "pubDate": "2026-07-22T01:52",
         "feedId": "hn"
       },
       {
@@ -104,15 +104,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)",
-        "link": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
-        "pubDate": "2026-07-21T10:11",
+        "title": "So Reddit has decided that plain HTML is unsafe",
+        "link": "https://www.cole-k.com/2026/07/21/reddit/",
+        "pubDate": "2026-07-22T08:48",
         "feedId": "lobsters"
       },
       {
         "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
         "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
         "pubDate": "2026-07-21T20:38",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)",
+        "link": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
+        "pubDate": "2026-07-21T10:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Free Ink · An open ecosystem for e-readers",
+        "link": "https://freeink.org/",
+        "pubDate": "2026-07-21T20:39",
         "feedId": "lobsters"
       },
       {
@@ -128,21 +140,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Free Ink · An open ecosystem for e-readers",
-        "link": "https://freeink.org/",
-        "pubDate": "2026-07-21T20:39",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "So Reddit has decided that plain HTML is unsafe",
-        "link": "https://www.cole-k.com/2026/07/21/reddit/",
-        "pubDate": "2026-07-22T08:48",
-        "feedId": "lobsters"
-      },
-      {
         "title": "“No AI” Statements Are Much More Than Mere Statements",
         "link": "https://journal.james-zhan.com/no-ai-statements/",
         "pubDate": "2026-07-21T18:02",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "log is non-monotonous in PHP and Lua",
+        "link": "https://purplesyringa.moe/blog/log-is-non-monotonous-in-php-and-lua/",
+        "pubDate": "2026-07-22T09:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Rewriting the Futhark type checker",
+        "link": "https://futhark-lang.org/blog/2026-07-21-rewriting-the-type-checker.html",
+        "pubDate": "2026-07-22T06:36",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +164,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Linux kernel will support $ORIGIN, sort of",
-        "link": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
-        "pubDate": "2026-07-21T10:02",
+        "title": "Slash Pages",
+        "link": "https://slashpages.net/",
+        "pubDate": "2026-07-22T05:34",
         "feedId": "lobsters"
       },
       {
-        "title": "Rewriting the Futhark type checker",
-        "link": "https://futhark-lang.org/blog/2026-07-21-rewriting-the-type-checker.html",
-        "pubDate": "2026-07-22T06:36",
+        "title": "Linux kernel will support $ORIGIN, sort of",
+        "link": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
+        "pubDate": "2026-07-21T10:02",
         "feedId": "lobsters"
       },
       {
@@ -173,18 +185,6 @@
         "title": "95 reasons for having your own website",
         "link": "https://bellkiosk.website/blog/reasons-to-website.html",
         "pubDate": "2026-07-21T03:02",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "ECC and DDR5",
-        "link": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
-        "pubDate": "2026-07-22T06:19",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "An Engineer’s Guide to USB Type-C",
-        "link": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf",
-        "pubDate": "2026-07-21T22:38",
         "feedId": "lobsters"
       }
     ]
