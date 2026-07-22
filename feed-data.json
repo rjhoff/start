@@ -3,7 +3,7 @@
     "id": "hn",
     "items": [
       {
-        "title": "Ten Steps Towards Happiness",
+        "title": "Ten Steps Towards Happiness (2015)",
         "link": "http://hintjens.com/blog:99",
         "pubDate": "2026-07-22T01:17",
         "feedId": "hn"
@@ -18,6 +18,12 @@
         "title": "A flaky test exposed a Redis client use-after-free",
         "link": "https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/",
         "pubDate": "2026-07-22T00:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "It's a shame what's happened to radio",
+        "link": "https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/",
+        "pubDate": "2026-07-21T23:33",
         "feedId": "hn"
       },
       {
@@ -81,12 +87,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: A self-running space economy SIM in Rust and Bevy",
-        "link": "https://github.com/Kalcode/spaceprojectsim",
-        "pubDate": "2026-07-21T18:29",
-        "feedId": "hn"
-      },
-      {
         "title": "Apple Private Cloud Compute SoC 3 audit reports",
         "link": "https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web",
         "pubDate": "2026-07-21T17:58",
@@ -104,27 +104,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "git --end-of-options",
-        "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
-        "pubDate": "2026-07-21T12:31",
-        "feedId": "lobsters"
-      },
-      {
         "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
         "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
         "pubDate": "2026-07-21T20:38",
         "feedId": "lobsters"
       },
       {
-        "title": "“No AI” Statements Are Much More Than Mere Statements",
-        "link": "https://journal.james-zhan.com/no-ai-statements/",
-        "pubDate": "2026-07-21T18:02",
+        "title": "git --end-of-options",
+        "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
+        "pubDate": "2026-07-21T12:31",
         "feedId": "lobsters"
       },
       {
         "title": "Bringing the modern web to the original iPad mini",
         "link": "https://seg6.space/posts/resurrecting-ipad-mini",
         "pubDate": "2026-07-21T22:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "“No AI” Statements Are Much More Than Mere Statements",
+        "link": "https://journal.james-zhan.com/no-ai-statements/",
+        "pubDate": "2026-07-21T18:02",
         "feedId": "lobsters"
       },
       {
@@ -140,21 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Thoughts On Integers (2023)",
-        "link": "https://blog.xoria.org/integers/",
-        "pubDate": "2026-07-21T12:16",
-        "feedId": "lobsters"
-      },
-      {
         "title": "COSMIC DE’s First Seven Months",
         "link": "https://system76.com/blog/post/cosmic-de-first-seven-months",
         "pubDate": "2026-07-21T19:57",
         "feedId": "lobsters"
       },
       {
-        "title": "432 Linux kernel CVEs published in the last 24 hours",
-        "link": "https://lore.kernel.org/linux-cve-announce/",
-        "pubDate": "2026-07-21T03:50",
+        "title": "Thoughts On Integers (2023)",
+        "link": "https://blog.xoria.org/integers/",
+        "pubDate": "2026-07-21T12:16",
         "feedId": "lobsters"
       },
       {
@@ -164,9 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Human mathematicians are being outcounterexampled",
-        "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-        "pubDate": "2026-07-20T22:16",
+        "title": "432 Linux kernel CVEs published in the last 24 hours",
+        "link": "https://lore.kernel.org/linux-cve-announce/",
+        "pubDate": "2026-07-21T03:50",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +170,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Human mathematicians are being outcounterexampled",
+        "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+        "pubDate": "2026-07-20T22:16",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Cosy Language",
         "link": "https://cosy.com/y26/NL202603.html",
         "pubDate": "2026-07-21T19:02",
         "feedId": "lobsters"
       },
       {
-        "title": "Parallelizing Compilation: In-Process vs Multi-Process",
-        "link": "https://lobste.rs/s/lzgtkz/parallelizing_compilation_process_vs",
-        "pubDate": "2026-07-21T21:59",
+        "title": "GGG – Declarative SVG badge generation using Guile Scheme and SXML",
+        "link": "https://codeberg.org/jjba23/ggg",
+        "pubDate": "2026-07-21T09:59",
         "feedId": "lobsters"
       }
     ]
@@ -336,6 +336,12 @@
         "feedId": "axios"
       },
       {
+        "title": "Hugging Face breach: OpenAI claims its models were responsible",
+        "link": "https://www.axios.com/2026/07/21/openai-says-hugging-face-breach-caused-by-one-its-models",
+        "pubDate": "2026-07-21T19:45",
+        "feedId": "axios"
+      },
+      {
         "title": "N.J. removes noncitizens from voter rolls after finding software glitch",
         "link": "https://www.axios.com/2026/07/21/new-jersey-glitch-registered-noncitizens-elections",
         "pubDate": "2026-07-21T19:26",
@@ -369,12 +375,6 @@
         "title": "Trump administration consults unused 1930s law for tariff playbook",
         "link": "https://www.axios.com/2026/07/21/trump-tariffs-imports-canada",
         "pubDate": "2026-07-21T15:59",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump \"public charge\" rule resets health test for green cards",
-        "link": "https://www.axios.com/2026/07/21/public-charge-health-test-green-cards",
-        "pubDate": "2026-07-21T09:30",
         "feedId": "axios"
       }
     ]
