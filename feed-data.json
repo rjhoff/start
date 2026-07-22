@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "Medici family mystery may be solved after more than 400 years",
+        "link": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
+        "pubDate": "2026-07-22T21:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
+        "link": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
+        "pubDate": "2026-07-22T21:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "Malleable Computing, Emacs, and You",
+        "link": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+        "pubDate": "2026-07-22T21:15",
+        "feedId": "hn"
+      },
+      {
         "title": "Safari Technology Preview 248 Released",
         "link": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
         "pubDate": "2026-07-22T21:00",
@@ -15,9 +33,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)",
-        "link": "https://www.hakstuff.net/blog/teardown-the-bmw-idc23h-infotainment-unit",
-        "pubDate": "2026-07-22T19:42",
+        "title": "Fairphone 6 wide camera experimental Linux support",
+        "link": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+        "pubDate": "2026-07-22T20:16",
         "feedId": "hn"
       },
       {
@@ -51,12 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Web swing through midtown NYC",
-        "link": "https://www.swingnyc.com/",
-        "pubDate": "2026-07-22T16:25",
-        "feedId": "hn"
-      },
-      {
         "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
         "link": "https://unlayer.com",
         "pubDate": "2026-07-22T16:02",
@@ -78,18 +90,6 @@
         "title": "Making",
         "link": "https://beej.us/blog/data/ai-making/",
         "pubDate": "2026-07-22T15:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links",
-        "link": "https://www.orangecrumbs.com/hall/",
-        "pubDate": "2026-07-22T15:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "Critical Minerals: Reducing U.S. import reliance with substitution and recycling",
-        "link": "https://www.gao.gov/products/gao-26-108687",
-        "pubDate": "2026-07-22T15:26",
         "feedId": "hn"
       }
     ]
@@ -116,6 +116,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "PyPI releases now reject new files after 14 days",
+        "link": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
+        "pubDate": "2026-07-22T15:01",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Unranked, systemd, crawls",
         "link": "https://www.marginalia.nu/log/a_138_systemdocker/",
         "pubDate": "2026-07-22T12:39",
@@ -128,9 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "PyPI releases now reject new files after 14 days",
-        "link": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
-        "pubDate": "2026-07-22T15:01",
+        "title": "Why care about programming languages",
+        "link": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
+        "pubDate": "2026-07-22T21:33",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)",
+        "link": "https://blog.qualys.com/vulnerabilities-threat-research/2026/07/22/refluxfs-a-linux-kernel-local-privilege-escalation-to-root-in-xfs-cve-2026-64600",
+        "pubDate": "2026-07-22T20:24",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Rewriting the Futhark type checker",
-        "link": "https://futhark-lang.org/blog/2026-07-21-rewriting-the-type-checker.html",
-        "pubDate": "2026-07-22T06:36",
-        "feedId": "lobsters"
-      },
-      {
         "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
         "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
         "pubDate": "2026-07-21T20:38",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Rewriting the Futhark type checker",
+        "link": "https://futhark-lang.org/blog/2026-07-21-rewriting-the-type-checker.html",
+        "pubDate": "2026-07-22T06:36",
         "feedId": "lobsters"
       },
       {
@@ -167,18 +179,6 @@
         "title": "Free Ink · An open ecosystem for e-readers",
         "link": "https://freeink.org/",
         "pubDate": "2026-07-21T20:39",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)",
-        "link": "https://blog.qualys.com/vulnerabilities-threat-research/2026/07/22/refluxfs-a-linux-kernel-local-privilege-escalation-to-root-in-xfs-cve-2026-64600",
-        "pubDate": "2026-07-22T20:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)",
-        "link": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
-        "pubDate": "2026-07-21T10:11",
         "feedId": "lobsters"
       },
       {
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "U.S. workers are staying in unwanted jobs for health insurance",
+        "link": "https://www.axios.com/2026/07/22/health-insurance-costs-trap-millions-unwanted-jobs",
+        "pubDate": "2026-07-22T21:54",
+        "feedId": "axios"
+      },
+      {
         "title": "House GOP passes blueprint for reconciliation 3.0",
         "link": "https://www.axios.com/2026/07/22/house-republicans-reconciliation-iran-funding-save-act",
         "pubDate": "2026-07-22T21:01",
@@ -369,12 +375,6 @@
         "title": "Mike Johnson backs ban on lawmakers dating Hill staff",
         "link": "https://www.axios.com/2026/07/21/mike-johnson-ban-lawmaker-staff-sexual-relations",
         "pubDate": "2026-07-21T19:51",
-        "feedId": "axios"
-      },
-      {
-        "title": "Hugging Face breach: OpenAI claims its models were responsible",
-        "link": "https://www.axios.com/2026/07/21/openai-says-hugging-face-breach-caused-by-one-its-models",
-        "pubDate": "2026-07-21T19:45",
         "feedId": "axios"
       }
     ]
