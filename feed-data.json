@@ -75,21 +75,21 @@
         "feedId": "hn"
       },
       {
-        "title": "Perlin's Noise Algorithm",
+        "title": "Perlin's Noise Algorithm (2023)",
         "link": "https://blog.jaysmito.dev/blog/02-perlins-noise-algorithm/",
         "pubDate": "2026-07-22T14:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Pillars of an API Platform",
-        "link": "https://launchany.com/the-pillars-of-an-api-platform/",
-        "pubDate": "2026-07-22T14:57",
         "feedId": "hn"
       },
       {
         "title": "Ghost Cut – or why Cut and Paste is broken everywhere",
         "link": "https://ishmael.textualize.io/blog/ghost-cut/",
         "pubDate": "2026-07-22T14:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Hologram works. Elixir runs in the browser",
+        "link": "https://hologram.page/blog/backing-hologram",
+        "pubDate": "2026-07-22T14:42",
         "feedId": "hn"
       }
     ]
@@ -116,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "log is non-monotonic in PHP and Lua",
-        "link": "https://purplesyringa.moe/blog/log-is-non-monotonous-in-php-and-lua/",
-        "pubDate": "2026-07-22T09:11",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Unranked, systemd, crawls",
         "link": "https://www.marginalia.nu/log/a_138_systemdocker/",
         "pubDate": "2026-07-22T12:39",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "log is non-monotonic in PHP and Lua",
+        "link": "https://purplesyringa.moe/blog/log-is-non-monotonous-in-php-and-lua/",
+        "pubDate": "2026-07-22T09:11",
         "feedId": "lobsters"
       },
       {
@@ -146,6 +146,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Unicode Variation Selector-15 and some of my tears",
+        "link": "https://benjaminwil.info/weblog/variation-selector-15/",
+        "pubDate": "2026-07-22T15:59",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Free Ink · An open ecosystem for e-readers",
         "link": "https://freeink.org/",
         "pubDate": "2026-07-21T20:39",
@@ -155,12 +161,6 @@
         "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)",
         "link": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
         "pubDate": "2026-07-21T10:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Unicode Variation Selector-15 and some of my tears",
-        "link": "https://benjaminwil.info/weblog/variation-selector-15/",
-        "pubDate": "2026-07-22T15:59",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "“No AI” Statements Are Much More Than Mere Statements",
-        "link": "https://journal.james-zhan.com/no-ai-statements/",
-        "pubDate": "2026-07-21T18:02",
+        "title": "Prefactoring: Clear the Way for Your New Feature",
+        "link": "https://testing.googleblog.com/2026/07/prefactoring-clear-way-for-your-new.html",
+        "pubDate": "2026-07-22T05:49",
         "feedId": "lobsters"
       },
       {
-        "title": "git --end-of-options",
-        "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
-        "pubDate": "2026-07-21T12:31",
+        "title": "dcmake: a new CMake debugger UI",
+        "link": "https://nullprogram.com/blog/2026/04/07/",
+        "pubDate": "2026-07-22T15:31",
         "feedId": "lobsters"
       }
     ]
@@ -290,7 +290,7 @@
       {
         "title": "Trump vows to hit an Iranian bridge or power plant for every ship Iran attacks",
         "link": "https://www.axios.com/2026/07/22/trump-iran-bridges-power-plants-hormuz",
-        "pubDate": "2026-07-22T18:59",
+        "pubDate": "2026-07-22T20:19",
         "feedId": "axios"
       },
       {
