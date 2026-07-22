@@ -27,6 +27,12 @@
         "feedId": "hn"
       },
       {
+        "title": "Never Enough",
+        "link": "https://dark.ronacher.eu/2026/7/21/never-enough/",
+        "pubDate": "2026-07-22T03:24",
+        "feedId": "hn"
+      },
+      {
         "title": "Late.sh – a command-line Clubhouse for computer people",
         "link": "https://late.sh/",
         "pubDate": "2026-07-22T02:32",
@@ -85,12 +91,6 @@
         "link": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
         "pubDate": "2026-07-21T19:43",
         "feedId": "hn"
-      },
-      {
-        "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-        "link": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-        "pubDate": "2026-07-21T19:04",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,27 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "LG to Ban Residential Proxies from Smart TV Apps",
+        "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+        "pubDate": "2026-07-22T05:56",
+        "feedId": "lobsters"
+      },
+      {
         "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)",
         "link": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
         "pubDate": "2026-07-21T10:11",
         "feedId": "lobsters"
       },
       {
-        "title": "LG to Ban Residential Proxies from Smart TV Apps",
-        "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-        "pubDate": "2026-07-22T05:56",
+        "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
+        "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+        "pubDate": "2026-07-21T20:38",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Bringing the modern web to the original iPad mini",
+        "link": "https://seg6.space/posts/resurrecting-ipad-mini",
+        "pubDate": "2026-07-21T22:47",
         "feedId": "lobsters"
       },
       {
@@ -122,6 +134,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "So Reddit has decided that plain HTML is unsafe",
+        "link": "https://www.cole-k.com/2026/07/21/reddit/",
+        "pubDate": "2026-07-22T08:48",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "“No AI” Statements Are Much More Than Mere Statements",
+        "link": "https://journal.james-zhan.com/no-ai-statements/",
+        "pubDate": "2026-07-21T18:02",
+        "feedId": "lobsters"
+      },
+      {
         "title": "COSMIC DE’s First Seven Months",
         "link": "https://system76.com/blog/post/cosmic-de-first-seven-months",
         "pubDate": "2026-07-21T19:57",
@@ -131,6 +155,12 @@
         "title": "Linux kernel will support $ORIGIN, sort of",
         "link": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
         "pubDate": "2026-07-21T10:02",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Rewriting the Futhark type checker",
+        "link": "https://futhark-lang.org/blog/2026-07-21-rewriting-the-type-checker.html",
+        "pubDate": "2026-07-22T06:36",
         "feedId": "lobsters"
       },
       {
@@ -146,12 +176,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "So Reddit has decided that plain HTML is unsafe",
-        "link": "https://www.cole-k.com/2026/07/21/reddit/",
-        "pubDate": "2026-07-22T08:48",
-        "feedId": "lobsters"
-      },
-      {
         "title": "ECC and DDR5",
         "link": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
         "pubDate": "2026-07-22T06:19",
@@ -161,30 +185,6 @@
         "title": "An Engineer’s Guide to USB Type-C",
         "link": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf",
         "pubDate": "2026-07-21T22:38",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Thoughts On Integers (2023)",
-        "link": "https://blog.xoria.org/integers/",
-        "pubDate": "2026-07-21T12:16",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Rewriting the Futhark type checker",
-        "link": "https://futhark-lang.org/blog/2026-07-21-rewriting-the-type-checker.html",
-        "pubDate": "2026-07-22T06:36",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Web-based Jujutsu revset explorer & debugger",
-        "link": "https://juju.bi/tools/revset",
-        "pubDate": "2026-07-21T17:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "432 Linux kernel CVEs published in the last 24 hours",
-        "link": "https://lore.kernel.org/linux-cve-announce/",
-        "pubDate": "2026-07-21T03:50",
         "feedId": "lobsters"
       }
     ]
