@@ -3,6 +3,30 @@
     "id": "hn",
     "items": [
       {
+        "title": "Safari Technology Preview 248 Released",
+        "link": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
+        "pubDate": "2026-07-22T21:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+        "link": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+        "pubDate": "2026-07-22T20:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)",
+        "link": "https://www.hakstuff.net/blog/teardown-the-bmw-idc23h-infotainment-unit",
+        "pubDate": "2026-07-22T19:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "John C. Dvorak has died",
+        "link": "https://twitter.com/na_announce/status/2079952538040672302",
+        "pubDate": "2026-07-22T19:22",
+        "feedId": "hn"
+      },
+      {
         "title": "Everyone Should Know SIMD",
         "link": "https://mitchellh.com/writing/everyone-should-know-simd",
         "pubDate": "2026-07-22T17:48",
@@ -63,33 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-        "link": "https://bento.page/slides/",
-        "pubDate": "2026-07-22T15:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "Neo Radar: A browser-based orbital mechanics engine with 41k real asteroids",
-        "link": "https://neoradar.space",
-        "pubDate": "2026-07-22T15:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "Perlin's Noise Algorithm (2023)",
-        "link": "https://blog.jaysmito.dev/blog/02-perlins-noise-algorithm/",
-        "pubDate": "2026-07-22T14:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ghost Cut – or why Cut and Paste is broken everywhere",
-        "link": "https://ishmael.textualize.io/blog/ghost-cut/",
-        "pubDate": "2026-07-22T14:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hologram works. Elixir runs in the browser",
-        "link": "https://hologram.page/blog/backing-hologram",
-        "pubDate": "2026-07-22T14:42",
+        "title": "Critical Minerals: Reducing U.S. import reliance with substitution and recycling",
+        "link": "https://www.gao.gov/products/gao-26-108687",
+        "pubDate": "2026-07-22T15:26",
         "feedId": "hn"
       }
     ]
@@ -128,21 +128,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "PyPI releases now reject new files after 14 days",
+        "link": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
+        "pubDate": "2026-07-22T15:01",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Slash Pages",
         "link": "https://slashpages.net/",
         "pubDate": "2026-07-22T05:34",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
-        "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-        "pubDate": "2026-07-21T20:38",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Rewriting the Futhark type checker",
-        "link": "https://futhark-lang.org/blog/2026-07-21-rewriting-the-type-checker.html",
-        "pubDate": "2026-07-22T06:36",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +146,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Rewriting the Futhark type checker",
+        "link": "https://futhark-lang.org/blog/2026-07-21-rewriting-the-type-checker.html",
+        "pubDate": "2026-07-22T06:36",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
+        "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+        "pubDate": "2026-07-21T20:38",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Announcing Topcoat: a framework for building full-stack reactive web apps with Rust",
+        "link": "https://tokio.rs/blog/2026-07-22-announcing-topcoat",
+        "pubDate": "2026-07-22T17:35",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Free Ink · An open ecosystem for e-readers",
         "link": "https://freeink.org/",
         "pubDate": "2026-07-21T20:39",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)",
+        "link": "https://blog.qualys.com/vulnerabilities-threat-research/2026/07/22/refluxfs-a-linux-kernel-local-privilege-escalation-to-root-in-xfs-cve-2026-64600",
+        "pubDate": "2026-07-22T20:24",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "PyPI releases now reject new files after 14 days",
-        "link": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
-        "pubDate": "2026-07-22T15:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Bringing the modern web to the original iPad mini",
-        "link": "https://seg6.space/posts/resurrecting-ipad-mini",
-        "pubDate": "2026-07-21T22:47",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Prefactoring: Clear the Way for Your New Feature",
         "link": "https://testing.googleblog.com/2026/07/prefactoring-clear-way-for-your-new.html",
         "pubDate": "2026-07-22T05:49",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "dcmake: a new CMake debugger UI",
-        "link": "https://nullprogram.com/blog/2026/04/07/",
-        "pubDate": "2026-07-22T15:31",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,24 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Microsoft brings original Xbox backward compatibility to Windows PCs",
+        "link": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
+        "pubDate": "2026-07-22T20:36",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "ISPs' long nightmare of having to list all the fees they charge is finally over",
+        "link": "https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/",
+        "pubDate": "2026-07-22T20:17",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Clayface trailer leans into the body horror",
+        "link": "https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/",
+        "pubDate": "2026-07-22T19:18",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
         "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
@@ -263,30 +281,18 @@
         "link": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/",
         "pubDate": "2026-07-21T19:09",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Let Tom Hiddleston be your guide to Pompeii's final day",
-        "link": "https://arstechnica.com/science/2026/07/tom-hiddleston-tracks-possible-pompeii-survivors-in-new-docuseries/",
-        "pubDate": "2026-07-21T18:17",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Naked mole-rat queens use a chemical signal to suppress fertility in rivals",
-        "link": "https://arstechnica.com/science/2026/07/naked-mole-rat-queens-keep-their-colonies-in-line-with-a-scent/",
-        "pubDate": "2026-07-21T17:51",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
-        "link": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
-        "pubDate": "2026-07-21T17:33",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "House GOP passes blueprint for reconciliation 3.0",
+        "link": "https://www.axios.com/2026/07/22/house-republicans-reconciliation-iran-funding-save-act",
+        "pubDate": "2026-07-22T21:01",
+        "feedId": "axios"
+      },
       {
         "title": "Trump vows to hit an Iranian bridge or power plant for every ship Iran attacks",
         "link": "https://www.axios.com/2026/07/22/trump-iran-bridges-power-plants-hormuz",
@@ -369,12 +375,6 @@
         "title": "Hugging Face breach: OpenAI claims its models were responsible",
         "link": "https://www.axios.com/2026/07/21/openai-says-hugging-face-breach-caused-by-one-its-models",
         "pubDate": "2026-07-21T19:45",
-        "feedId": "axios"
-      },
-      {
-        "title": "N.J. removes noncitizens from voter rolls after finding software glitch",
-        "link": "https://www.axios.com/2026/07/21/new-jersey-glitch-registered-noncitizens-elections",
-        "pubDate": "2026-07-21T19:26",
         "feedId": "axios"
       }
     ]
