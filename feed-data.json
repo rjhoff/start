@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "How to Read a Painting",
+        "link": "https://sheets.works/data-viz/how-to-read-a-painting/",
+        "pubDate": "2026-07-22T14:31",
+        "feedId": "hn"
+      },
+      {
         "title": "Back to Kagi",
         "link": "https://blog.melashri.net/micro/back-to-kagi/",
         "pubDate": "2026-07-22T13:08",
@@ -15,12 +21,6 @@
         "feedId": "hn"
       },
       {
-        "title": "So Reddit has decided that plain HTML is unsafe",
-        "link": "https://www.cole-k.com/2026/07/21/reddit/",
-        "pubDate": "2026-07-22T12:32",
-        "feedId": "hn"
-      },
-      {
         "title": "10 REM\"_(C2SLFF4",
         "link": "https://beej.us/blog/data/mystery-comment/",
         "pubDate": "2026-07-22T11:58",
@@ -30,12 +30,6 @@
         "title": "OverpAId – Fire your CEO. Hire the future",
         "link": "https://overpaid.lol",
         "pubDate": "2026-07-22T10:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: A new kind of FPS aim trainer",
-        "link": "https://openaim.pramit.gg/",
-        "pubDate": "2026-07-22T05:39",
         "feedId": "hn"
       },
       {
@@ -75,12 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
-        "link": "https://ai.google.dev/gemini-api/docs/latest-model",
-        "pubDate": "2026-07-21T21:27",
-        "feedId": "hn"
-      },
-      {
         "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
         "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
         "pubDate": "2026-07-21T21:13",
@@ -90,6 +78,18 @@
         "title": "A digestion of the Jacobian conjecture counterexample",
         "link": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
         "pubDate": "2026-07-21T21:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "OpenAI and Hugging Face address security incident during model evaluation",
+        "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+        "pubDate": "2026-07-21T20:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+        "link": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+        "pubDate": "2026-07-21T19:04",
         "feedId": "hn"
       }
     ]
@@ -122,6 +122,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "log is non-monotonous in PHP and Lua",
+        "link": "https://purplesyringa.moe/blog/log-is-non-monotonous-in-php-and-lua/",
+        "pubDate": "2026-07-22T09:11",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Free Ink · An open ecosystem for e-readers",
         "link": "https://freeink.org/",
         "pubDate": "2026-07-21T20:39",
@@ -140,9 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "log is non-monotonous in PHP and Lua",
-        "link": "https://purplesyringa.moe/blog/log-is-non-monotonous-in-php-and-lua/",
-        "pubDate": "2026-07-22T09:11",
+        "title": "Slash Pages",
+        "link": "https://slashpages.net/",
+        "pubDate": "2026-07-22T05:34",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "SIMD for Collision",
+        "link": "https://box2d.org/posts/2026/07/simd-for-collision/",
+        "pubDate": "2026-07-22T10:00",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Slash Pages",
-        "link": "https://slashpages.net/",
-        "pubDate": "2026-07-22T05:34",
-        "feedId": "lobsters"
-      },
-      {
         "title": "COSMIC DE’s First Seven Months",
         "link": "https://system76.com/blog/post/cosmic-de-first-seven-months",
         "pubDate": "2026-07-21T19:57",
         "feedId": "lobsters"
       },
       {
-        "title": "SIMD for Collision",
-        "link": "https://box2d.org/posts/2026/07/simd-for-collision/",
-        "pubDate": "2026-07-22T10:00",
+        "title": "An Engineer’s Guide to USB Type-C",
+        "link": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf",
+        "pubDate": "2026-07-21T22:38",
         "feedId": "lobsters"
       },
       {
         "title": "Some more things about Django I've been enjoying",
         "link": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
         "pubDate": "2026-07-22T02:46",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Linux kernel will support $ORIGIN, sort of",
-        "link": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
-        "pubDate": "2026-07-21T10:02",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump vows to hit an Iranian bridge or power plant for every ship Iran attacks",
+        "link": "https://www.axios.com/2026/07/22/trump-iran-bridges-power-plants-hormuz",
+        "pubDate": "2026-07-22T14:36",
+        "feedId": "axios"
+      },
+      {
         "title": "Exclusive: Nvidia's Jensen Huang defends Chinese AI amid Kimi panic",
         "link": "https://www.axios.com/2026/07/22/nvidia-jensen-huang-china-open-source-ai",
         "pubDate": "2026-07-22T10:12",
@@ -369,12 +375,6 @@
         "title": "Trump revives dormant Smoot-Hawley authority",
         "link": "https://www.axios.com/2026/07/21/trump-smoot-hawley-tariffs-canada",
         "pubDate": "2026-07-21T19:02",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump vows U.S. will soon bomb Iran's Pickaxe Mountain",
-        "link": "https://www.axios.com/2026/07/21/trump-iran-pickaxe-mountain-bomb",
-        "pubDate": "2026-07-21T16:54",
         "feedId": "axios"
       }
     ]
