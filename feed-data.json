@@ -57,15 +57,15 @@
         "feedId": "hn"
       },
       {
-        "title": "The Price of Happiness (2024)",
-        "link": "https://happiness-science.org/price-of-happiness/",
-        "pubDate": "2026-07-21T18:42",
+        "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+        "link": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+        "pubDate": "2026-07-21T19:04",
         "feedId": "hn"
       },
       {
-        "title": "Slater – Low-memory graphdb designed for read-heavy graphs",
-        "link": "https://github.com/Hikari-Systems/slater",
-        "pubDate": "2026-07-21T18:39",
+        "title": "Advertise in ChatGPT",
+        "link": "https://ads.openai.com/",
+        "pubDate": "2026-07-21T18:58",
         "feedId": "hn"
       },
       {
@@ -110,21 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "“No AI” Statements Are Much More Than Mere Statements",
-        "link": "https://journal.james-zhan.com/no-ai-statements/",
-        "pubDate": "2026-07-21T18:02",
-        "feedId": "lobsters"
-      },
-      {
         "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
         "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
         "pubDate": "2026-07-21T20:38",
         "feedId": "lobsters"
       },
       {
-        "title": "95 reasons for having your own website",
-        "link": "https://bellkiosk.website/blog/reasons-to-website.html",
-        "pubDate": "2026-07-21T03:02",
+        "title": "“No AI” Statements Are Much More Than Mere Statements",
+        "link": "https://journal.james-zhan.com/no-ai-statements/",
+        "pubDate": "2026-07-21T18:02",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Linux kernel will support $ORIGIN, sort of",
-        "link": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
-        "pubDate": "2026-07-21T10:02",
+        "title": "95 reasons for having your own website",
+        "link": "https://bellkiosk.website/blog/reasons-to-website.html",
+        "pubDate": "2026-07-21T03:02",
         "feedId": "lobsters"
       },
       {
-        "title": "432 Linux kernel CVEs published in the last 24 hours",
-        "link": "https://lore.kernel.org/linux-cve-announce/",
-        "pubDate": "2026-07-21T03:50",
+        "title": "Linux kernel will support $ORIGIN, sort of",
+        "link": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
+        "pubDate": "2026-07-21T10:02",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +152,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "432 Linux kernel CVEs published in the last 24 hours",
+        "link": "https://lore.kernel.org/linux-cve-announce/",
+        "pubDate": "2026-07-21T03:50",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Human mathematicians are being outcounterexampled",
         "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
         "pubDate": "2026-07-20T22:16",
         "feedId": "lobsters"
       },
       {
-        "title": "GGG – Declarative SVG badge generation using Guile Scheme and SXML",
-        "link": "https://codeberg.org/jjba23/ggg",
-        "pubDate": "2026-07-21T09:59",
+        "title": "Web-based Jujutsu revset explorer & debugger",
+        "link": "https://juju.bi/tools/revset",
+        "pubDate": "2026-07-21T17:50",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "KDE for Enterprise Needs a Strong PIM Infrastructure",
-        "link": "https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/",
-        "pubDate": "2026-07-21T07:20",
+        "title": "Free Ink · An open ecosystem for e-readers",
+        "link": "https://freeink.org/",
+        "pubDate": "2026-07-21T20:39",
         "feedId": "lobsters"
       },
       {
-        "title": "Using Nagios for small business infrastructure monitoring",
-        "link": "https://tech.chrishardie.com/2026/nagios-small-business-infrastructure-monitoring/",
-        "pubDate": "2026-07-21T18:35",
+        "title": "GGG – Declarative SVG badge generation using Guile Scheme and SXML",
+        "link": "https://codeberg.org/jjba23/ggg",
+        "pubDate": "2026-07-21T09:59",
         "feedId": "lobsters"
       }
     ]
@@ -193,7 +193,31 @@
     "id": "arstechnica",
     "items": [
       {
-        "title": "Nintendo customers have no legal right to tariff refunds, company tells judge",
+        "title": "Range Rover answers the question: \"What if we built a not-SUV?\"",
+        "link": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/",
+        "pubDate": "2026-07-21T23:01",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "On the run for 20 years, most-wanted fugitive caught hiding as a biotech exec",
+        "link": "https://arstechnica.com/health/2026/07/on-the-run-for-20-years-most-wanted-fugitive-caught-hiding-as-a-biotech-exec/",
+        "pubDate": "2026-07-21T22:04",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Sony releases one last trailer for Spider-Man: Brand New Day",
+        "link": "https://arstechnica.com/culture/2026/07/sony-releases-one-last-trailer-for-spider-man-brand-new-day/",
+        "pubDate": "2026-07-21T19:50",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Confusion swirls on source of diarrhea outbreak, but it’s still Taylor Farms",
+        "link": "https://arstechnica.com/health/2026/07/confusion-swirls-on-source-of-diarrhea-outbreak-but-its-still-taylor-farms/",
+        "pubDate": "2026-07-21T19:39",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Nintendo says users voluntarily paid higher prices, have no right to tariff refunds",
         "link": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/",
         "pubDate": "2026-07-21T19:09",
         "feedId": "arstechnica"
@@ -257,36 +281,30 @@
         "link": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/",
         "pubDate": "2026-07-20T22:15",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
-        "link": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
-        "pubDate": "2026-07-20T21:55",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
-        "link": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
-        "pubDate": "2026-07-20T21:10",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "The Space Force is now seeking to buy up to $30 billion in rocket launches",
-        "link": "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
-        "pubDate": "2026-07-20T20:30",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "AT&T loses key ruling in bid to stop offering basic phone service in California",
-        "link": "https://arstechnica.com/tech-policy/2026/07/att-loses-key-ruling-in-bid-to-stop-offering-basic-phone-service-in-california/",
-        "pubDate": "2026-07-20T19:20",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Senate rabble-rousers are gaining power",
+        "link": "https://www.axios.com/2026/07/22/senate-lindsey-graham-committtee-assignments",
+        "pubDate": "2026-07-22T00:03",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: Progressives scorch Gillibrand over crypto",
+        "link": "https://www.axios.com/2026/07/22/crypto-progressives-kirsten-gillibrand-senate",
+        "pubDate": "2026-07-22T00:03",
+        "feedId": "axios"
+      },
+      {
+        "title": "World Cup final draws record 62.8M U.S. viewers",
+        "link": "https://www.axios.com/2026/07/21/world-cup-final-viewership-record",
+        "pubDate": "2026-07-21T23:35",
+        "feedId": "axios"
+      },
       {
         "title": "Scoop: Lawmaker asks SEC to investigate Truth Social's plan to monetize access to its data",
         "link": "https://www.axios.com/2026/07/21/trump-truth-social-api-posts",
@@ -309,6 +327,18 @@
         "title": "Mike Johnson backs ban on lawmakers dating Hill staff",
         "link": "https://www.axios.com/2026/07/21/mike-johnson-ban-lawmaker-staff-sexual-relations",
         "pubDate": "2026-07-21T19:51",
+        "feedId": "axios"
+      },
+      {
+        "title": "N.J. removes noncitizens from voter rolls after finding software glitch",
+        "link": "https://www.axios.com/2026/07/21/new-jersey-glitch-registered-noncitizens-elections",
+        "pubDate": "2026-07-21T19:26",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump revives dormant Smoot-Hawley authority",
+        "link": "https://www.axios.com/2026/07/21/trump-smoot-hawley-tariffs-canada",
+        "pubDate": "2026-07-21T19:02",
         "feedId": "axios"
       },
       {
@@ -345,36 +375,6 @@
         "title": "Trump hosts Lebanon's president as Israel begins first pullback",
         "link": "https://www.axios.com/2026/07/21/lebanon-israel-trump-aoun-hezbollah",
         "pubDate": "2026-07-21T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Inside a group's push for whites-only \"heritage communities\"",
-        "link": "https://www.axios.com/2026/07/21/whites-only-communities-segregation-civil-rights",
-        "pubDate": "2026-07-21T09:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "Iran mediators push new ceasefire as Trump eyes all-out war",
-        "link": "https://www.axios.com/2026/07/21/iran-war-ceasefire-proposal-trump-troops",
-        "pubDate": "2026-07-21T01:32",
-        "feedId": "axios"
-      },
-      {
-        "title": "U.S. to slap 50% tariffs on Canadian goods",
-        "link": "https://www.axios.com/2026/07/20/trump-tariffs-canada-trade-war",
-        "pubDate": "2026-07-21T01:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Senate watches the House on reconciliation 3.0",
-        "link": "https://www.axios.com/2026/07/21/congress-reconciliation-omb-iran-republicans",
-        "pubDate": "2026-07-21T00:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Rep. Chuck Edwards gifted pink and blue handguns to young female staffers",
-        "link": "https://www.axios.com/2026/07/20/chuck-edwards-ethics-guns-female-staff",
-        "pubDate": "2026-07-20T21:02",
         "feedId": "axios"
       }
     ]
