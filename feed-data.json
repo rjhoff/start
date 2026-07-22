@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "Everyone Should Know SIMD",
+        "link": "https://mitchellh.com/writing/everyone-should-know-simd",
+        "pubDate": "2026-07-22T17:48",
+        "feedId": "hn"
+      },
+      {
         "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
         "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
         "pubDate": "2026-07-22T17:30",
@@ -30,6 +36,12 @@
         "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
         "link": "https://unlayer.com",
         "pubDate": "2026-07-22T16:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "Does creatine make you smarter?",
+        "link": "https://dynomight.net/creatine/",
+        "pubDate": "2026-07-22T15:45",
         "feedId": "hn"
       },
       {
@@ -72,18 +84,6 @@
         "title": "The Pillars of an API Platform",
         "link": "https://launchany.com/the-pillars-of-an-api-platform/",
         "pubDate": "2026-07-22T14:57",
-        "feedId": "hn"
-      },
-      {
-        "title": "Airbus Full Scale Foldable Wing Extensions",
-        "link": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow",
-        "pubDate": "2026-07-22T14:57",
-        "feedId": "hn"
-      },
-      {
-        "title": "Which streaming service was that on again",
-        "link": "https://www.timwehrle.de/blog/which-streaming-service-was-that-on-again/",
-        "pubDate": "2026-07-22T14:46",
         "feedId": "hn"
       },
       {
@@ -146,27 +146,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)",
-        "link": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
-        "pubDate": "2026-07-21T10:11",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Free Ink · An open ecosystem for e-readers",
         "link": "https://freeink.org/",
         "pubDate": "2026-07-21T20:39",
         "feedId": "lobsters"
       },
       {
-        "title": "Bringing the modern web to the original iPad mini",
-        "link": "https://seg6.space/posts/resurrecting-ipad-mini",
-        "pubDate": "2026-07-21T22:47",
+        "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)",
+        "link": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
+        "pubDate": "2026-07-21T10:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Unicode Variation Selector-15 and some of my tears",
+        "link": "https://benjaminwil.info/weblog/variation-selector-15/",
+        "pubDate": "2026-07-22T15:59",
         "feedId": "lobsters"
       },
       {
         "title": "PyPI releases now reject new files after 14 days",
         "link": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
         "pubDate": "2026-07-22T15:01",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Bringing the modern web to the original iPad mini",
+        "link": "https://seg6.space/posts/resurrecting-ipad-mini",
+        "pubDate": "2026-07-21T22:47",
         "feedId": "lobsters"
       },
       {
@@ -180,18 +186,30 @@
         "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
         "pubDate": "2026-07-21T12:31",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Unicode Variation Selector-15 and some of my tears",
-        "link": "https://benjaminwil.info/weblog/variation-selector-15/",
-        "pubDate": "2026-07-22T15:59",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
+        "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
+        "pubDate": "2026-07-22T18:18",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Next Space Force chief throws cold water on the idea of space privateers",
+        "link": "https://arstechnica.com/space/2026/07/next-space-force-chief-throws-cold-water-on-the-idea-of-space-privateers/",
+        "pubDate": "2026-07-22T17:02",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+        "link": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+        "pubDate": "2026-07-22T16:47",
+        "feedId": "arstechnica"
+      },
       {
         "title": "What happens when you try to chop a photon in half?",
         "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-try-to-chop-a-photon-in-half/",
@@ -263,24 +281,6 @@
         "link": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
         "pubDate": "2026-07-21T17:33",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Sales of Valve's Steam Deck crater after recent price hike",
-        "link": "https://arstechnica.com/gaming/2026/07/steam-deck-sales-are-losing-steam-since-mays-price-hike/",
-        "pubDate": "2026-07-21T17:12",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
-        "link": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
-        "pubDate": "2026-07-21T16:58",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "TreeSize won't renew perpetual-license support unless users subscribe",
-        "link": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
-        "pubDate": "2026-07-21T15:18",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,21 +288,21 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump vows to hit an Iranian bridge or power plant for every ship Iran attacks",
+        "link": "https://www.axios.com/2026/07/22/trump-iran-bridges-power-plants-hormuz",
+        "pubDate": "2026-07-22T18:59",
+        "feedId": "axios"
+      },
+      {
+        "title": "Gold's M&A rush",
+        "link": "https://www.axios.com/2026/07/22/gold-merger-acquisition-rush",
+        "pubDate": "2026-07-22T18:52",
+        "feedId": "axios"
+      },
+      {
         "title": "\"No one cares\": The DSA primary challenge House Democrats are happy to ignore",
         "link": "https://www.axios.com/2026/07/22/shri-thanedar-dsa-donavan-mckinney-detroit-mi-13",
         "pubDate": "2026-07-22T17:22",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Lawmaker asks SEC to investigate Truth Social's plan to monetize access to its data",
-        "link": "https://www.axios.com/2026/07/21/trump-truth-social-api-posts",
-        "pubDate": "2026-07-22T17:06",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump vows to hit an Iranian bridge or power plant for every ship Iran attacks",
-        "link": "https://www.axios.com/2026/07/22/trump-iran-bridges-power-plants-hormuz",
-        "pubDate": "2026-07-22T14:36",
         "feedId": "axios"
       },
       {
