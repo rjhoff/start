@@ -3,15 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "An Engineer's Guide to USB Type-C [pdf]",
-        "link": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf",
-        "pubDate": "2026-07-21T22:45",
+        "title": "Ten Steps Towards Happiness",
+        "link": "http://hintjens.com/blog:99",
+        "pubDate": "2026-07-22T01:17",
         "feedId": "hn"
       },
       {
-        "title": "Furtex: Post-exploitation, rootkit and evasion research toolkit for Linux",
-        "link": "https://github.com/MatheuZSecurity/Furtex",
-        "pubDate": "2026-07-21T22:39",
+        "title": "How an AI Anime Is Created",
+        "link": "https://www.aventos.dev/our-process?view=blog",
+        "pubDate": "2026-07-22T00:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "A flaky test exposed a Redis client use-after-free",
+        "link": "https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/",
+        "pubDate": "2026-07-22T00:27",
         "feedId": "hn"
       },
       {
@@ -85,12 +91,6 @@
         "link": "https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web",
         "pubDate": "2026-07-21T17:58",
         "feedId": "hn"
-      },
-      {
-        "title": "Laguna S 2.1",
-        "link": "https://poolside.ai/blog/introducing-laguna-s-2-1",
-        "pubDate": "2026-07-21T17:17",
-        "feedId": "hn"
       }
     ]
   },
@@ -140,21 +140,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "COSMIC DE’s First Seven Months",
-        "link": "https://system76.com/blog/post/cosmic-de-first-seven-months",
-        "pubDate": "2026-07-21T19:57",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Thoughts On Integers (2023)",
         "link": "https://blog.xoria.org/integers/",
         "pubDate": "2026-07-21T12:16",
         "feedId": "lobsters"
       },
       {
+        "title": "COSMIC DE’s First Seven Months",
+        "link": "https://system76.com/blog/post/cosmic-de-first-seven-months",
+        "pubDate": "2026-07-21T19:57",
+        "feedId": "lobsters"
+      },
+      {
         "title": "432 Linux kernel CVEs published in the last 24 hours",
         "link": "https://lore.kernel.org/linux-cve-announce/",
         "pubDate": "2026-07-21T03:50",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Free Ink · An open ecosystem for e-readers",
+        "link": "https://freeink.org/",
+        "pubDate": "2026-07-21T20:39",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Free Ink · An open ecosystem for e-readers",
-        "link": "https://freeink.org/",
-        "pubDate": "2026-07-21T20:39",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "GGG – Declarative SVG badge generation using Guile Scheme and SXML",
-        "link": "https://codeberg.org/jjba23/ggg",
-        "pubDate": "2026-07-21T09:59",
+        "title": "Parallelizing Compilation: In-Process vs Multi-Process",
+        "link": "https://lobste.rs/s/lzgtkz/parallelizing_compilation_process_vs",
+        "pubDate": "2026-07-21T21:59",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "U.S. measles cases surpass last year's total: Tracker",
+        "link": "https://www.axios.com/2026/07/22/measles-cases-surge-past-last-year",
+        "pubDate": "2026-07-22T00:56",
+        "feedId": "axios"
+      },
+      {
         "title": "Senate rabble-rousers are gaining power",
         "link": "https://www.axios.com/2026/07/22/senate-lindsey-graham-committtee-assignments",
         "pubDate": "2026-07-22T00:03",
@@ -369,12 +375,6 @@
         "title": "Trump \"public charge\" rule resets health test for green cards",
         "link": "https://www.axios.com/2026/07/21/public-charge-health-test-green-cards",
         "pubDate": "2026-07-21T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump hosts Lebanon's president as Israel begins first pullback",
-        "link": "https://www.axios.com/2026/07/21/lebanon-israel-trump-aoun-hezbollah",
-        "pubDate": "2026-07-21T09:15",
         "feedId": "axios"
       }
     ]
