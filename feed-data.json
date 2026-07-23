@@ -3,15 +3,15 @@
     "id": "hn",
     "items": [
       {
-        "title": "Worse on Purpose – How Corporate Greed Killed Product Quality – Worse on Purpose",
-        "link": "https://www.worseonpurpose.com/",
-        "pubDate": "2026-07-23T11:05",
+        "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+        "link": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+        "pubDate": "2026-07-23T13:10",
         "feedId": "hn"
       },
       {
-        "title": "Code mode yields a 99.2% cost reduction in our systems",
-        "link": "https://www.agent-swarm.dev/blog/code-mode-token-savings",
-        "pubDate": "2026-07-23T10:17",
+        "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+        "link": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+        "pubDate": "2026-07-23T13:00",
         "feedId": "hn"
       },
       {
@@ -51,12 +51,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Fairphone 6 wide camera experimental Linux support",
-        "link": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
-        "pubDate": "2026-07-22T20:16",
-        "feedId": "hn"
-      },
-      {
         "title": "John C. Dvorak has died",
         "link": "https://twitter.com/na_announce/status/2079952538040672302",
         "pubDate": "2026-07-22T19:22",
@@ -91,6 +85,12 @@
         "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
         "pubDate": "2026-07-22T17:17",
         "feedId": "hn"
+      },
+      {
+        "title": "Making",
+        "link": "https://beej.us/blog/data/ai-making/",
+        "pubDate": "2026-07-22T15:33",
+        "feedId": "hn"
       }
     ]
   },
@@ -122,6 +122,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Calm technologies that excite me",
+        "link": "https://abhi.now/blog/calm-technologies/",
+        "pubDate": "2026-07-23T02:26",
+        "feedId": "lobsters"
+      },
+      {
         "title": "John C. Dvorak has died",
         "link": "http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html",
         "pubDate": "2026-07-23T02:09",
@@ -134,9 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Calm technologies that excite me",
-        "link": "https://abhi.now/blog/calm-technologies/",
-        "pubDate": "2026-07-23T02:26",
+        "title": "PyPI releases now reject new files after 14 days",
+        "link": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
+        "pubDate": "2026-07-22T15:01",
         "feedId": "lobsters"
       },
       {
@@ -146,21 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "PyPI releases now reject new files after 14 days",
-        "link": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
-        "pubDate": "2026-07-22T15:01",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Your analytics are lying to you",
         "link": "https://ankursethi.com/blog/your-analytics-are-lying-to-you/",
         "pubDate": "2026-07-23T04:51",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "SIMD for Collision",
-        "link": "https://box2d.org/posts/2026/07/simd-for-collision/",
-        "pubDate": "2026-07-22T10:00",
         "feedId": "lobsters"
       },
       {
@@ -170,15 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Unranked, systemd, crawls",
-        "link": "https://www.marginalia.nu/log/a_138_systemdocker/",
-        "pubDate": "2026-07-22T12:39",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What Rose Petals Teach Us about Induction",
-        "link": "https://www.oranlooney.com/post/rose-petals/",
-        "pubDate": "2026-07-23T04:02",
+        "title": "SIMD for Collision",
+        "link": "https://box2d.org/posts/2026/07/simd-for-collision/",
+        "pubDate": "2026-07-22T10:00",
         "feedId": "lobsters"
       },
       {
@@ -186,12 +174,36 @@
         "link": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
         "pubDate": "2026-07-22T21:33",
         "feedId": "lobsters"
+      },
+      {
+        "title": "Pip 26.2: –only-deps solves 16 years of app deployment hacks",
+        "link": "https://jamesoclaire.com/2026/07/23/pip-26-2-only-deps-solves-16-years-of-app-deployment-hacks/",
+        "pubDate": "2026-07-23T05:50",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Unranked, systemd, crawls",
+        "link": "https://www.marginalia.nu/log/a_138_systemdocker/",
+        "pubDate": "2026-07-22T12:39",
+        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "White House report says Trump can usher in a \"new golden age\" of science",
+        "link": "https://arstechnica.com/science/2026/07/white-house-report-says-trump-can-usher-in-a-new-golden-age-of-science/",
+        "pubDate": "2026-07-23T11:23",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "I wanted a clock that never needed setting. Things escalated.",
+        "link": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
+        "pubDate": "2026-07-23T11:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Orcas team up to ram sunfish until they explode",
         "link": "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/",
@@ -269,24 +281,30 @@
         "link": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/",
         "pubDate": "2026-07-21T23:01",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "On the run for 20 years, most-wanted fugitive caught hiding as a biotech exec",
-        "link": "https://arstechnica.com/health/2026/07/on-the-run-for-20-years-most-wanted-fugitive-caught-hiding-as-a-biotech-exec/",
-        "pubDate": "2026-07-21T22:04",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Sony releases one last trailer for Spider-Man: Brand New Day",
-        "link": "https://arstechnica.com/culture/2026/07/sony-releases-one-last-trailer-for-spider-man-brand-new-day/",
-        "pubDate": "2026-07-21T19:50",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Trump says Saudi nuclear deal bars enrichment, requires Israel normalization",
+        "link": "https://www.axios.com/2026/07/23/url-slug-trump-saudi-nuclear-deal-enrichment-israel",
+        "pubDate": "2026-07-23T13:28",
+        "feedId": "axios"
+      },
+      {
+        "title": "Google's Gemini delay exposes a deeper problem: employee frustration",
+        "link": "https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race",
+        "pubDate": "2026-07-23T13:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "Europe just fined Google $1 billion, the day before Trump is expected to announce tariffs",
+        "link": "https://www.axios.com/2026/07/23/eu-google-billion-fine-search-play-store",
+        "pubDate": "2026-07-23T12:51",
+        "feedId": "axios"
+      },
       {
         "title": "Scoop: Democrat Senate Super PAC targets 4 Republican seats",
         "link": "https://www.axios.com/2026/07/23/democrat-senate-super-pac-tv-ads",
@@ -309,6 +327,12 @@
         "title": "The world is crazy, but stocks are up?",
         "link": "https://www.axios.com/2026/07/23/moodys-markets-geopolitics-world",
         "pubDate": "2026-07-23T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "What it's like inside the data centers powering the AI boom",
+        "link": "https://www.axios.com/2026/07/23/inside-data-centers-powering-ai-boom",
+        "pubDate": "2026-07-23T09:15",
         "feedId": "axios"
       },
       {
@@ -351,30 +375,6 @@
         "title": "Senate feeling good about avoiding pre-election shutdown",
         "link": "https://www.axios.com/2026/07/22/senate-government-shutdown-democrats-republicans",
         "pubDate": "2026-07-22T23:31",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"The DCCC is not God\": Tensions erupt over House Democrats' failed primary meddling",
-        "link": "https://www.axios.com/2026/07/22/dccc-arizona-primary-house-democrats-primary-aoc",
-        "pubDate": "2026-07-22T22:50",
-        "feedId": "axios"
-      },
-      {
-        "title": "U.S. workers are staying in unwanted jobs for health insurance",
-        "link": "https://www.axios.com/2026/07/22/health-insurance-costs-trap-millions-unwanted-jobs",
-        "pubDate": "2026-07-22T21:54",
-        "feedId": "axios"
-      },
-      {
-        "title": "House GOP passes blueprint for reconciliation 3.0",
-        "link": "https://www.axios.com/2026/07/22/house-republicans-reconciliation-iran-funding-save-act",
-        "pubDate": "2026-07-22T21:01",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump vows to hit an Iranian bridge or power plant for every ship Iran attacks",
-        "link": "https://www.axios.com/2026/07/22/trump-iran-bridges-power-plants-hormuz",
-        "pubDate": "2026-07-22T20:19",
         "feedId": "axios"
       }
     ]
