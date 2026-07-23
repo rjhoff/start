@@ -9,9 +9,9 @@
         "feedId": "hn"
       },
       {
-        "title": "From Evaluation to Guardrails: What We Brought to ACM FAccT 2026",
-        "link": "https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/",
-        "pubDate": "2026-07-23T18:29",
+        "title": "Selfie for sign-in: a new, easy way to access your Google Account",
+        "link": "https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/",
+        "pubDate": "2026-07-23T19:00",
         "feedId": "hn"
       },
       {
@@ -75,12 +75,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-        "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-        "pubDate": "2026-07-23T15:18",
-        "feedId": "hn"
-      },
-      {
         "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
         "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
         "pubDate": "2026-07-23T15:18",
@@ -90,6 +84,12 @@
         "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
         "link": "https://github.com/palmier-io/palmier-pro",
         "pubDate": "2026-07-23T15:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "Learn WebGPU for C++",
+        "link": "https://eliemichel.github.io/LearnWebGPU/",
+        "pubDate": "2026-07-23T14:55",
         "feedId": "hn"
       }
     ]
@@ -146,15 +146,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Silent Replacement of Trusted macOS App Executables",
+        "link": "https://mysk.blog/2026/07/23/macos-overwrite-app-executables/",
+        "pubDate": "2026-07-23T13:37",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The first known runaway AI agent - or a very bad marketing stunt?",
         "link": "https://martinalderson.com/posts/huggingface-openai-exploit/",
         "pubDate": "2026-07-23T10:16",
         "feedId": "lobsters"
       },
       {
-        "title": "Silent Replacement of Trusted macOS App Executables",
-        "link": "https://mysk.blog/2026/07/23/macos-overwrite-app-executables/",
-        "pubDate": "2026-07-23T13:37",
+        "title": "Prompt Caching In Agents",
+        "link": "https://earendil.com/posts/prompt-caching/",
+        "pubDate": "2026-07-23T18:04",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The PImpl idiom and the C++26 std::indirect type",
+        "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+        "pubDate": "2026-07-23T16:58",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "So Reddit has decided that plain HTML is unsafe",
-        "link": "https://www.cole-k.com/2026/07/21/reddit/",
-        "pubDate": "2026-07-22T08:48",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Software rendering in 500 lines of bare C++",
         "link": "https://ssloy.github.io/tinyrenderer/",
         "pubDate": "2026-07-23T12:12",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Spatial languages: writing code in 2D",
-        "link": "https://shukla.io/blog/2026-07/cccx.html",
-        "pubDate": "2026-07-23T09:47",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,30 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
+        "link": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
+        "pubDate": "2026-07-23T20:47",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
+        "link": "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/",
+        "pubDate": "2026-07-23T19:22",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Forgot your Google password? Now you can log in with a selfie.",
+        "link": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
+        "pubDate": "2026-07-23T19:14",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+        "link": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+        "pubDate": "2026-07-23T19:08",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Final Coyote vs. Acme trailer drops at SDCC",
         "link": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
@@ -257,36 +281,18 @@
         "link": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
         "pubDate": "2026-07-22T20:36",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "ISPs' long nightmare of having to list all the fees they charge is finally over",
-        "link": "https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/",
-        "pubDate": "2026-07-22T20:17",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Clayface trailer leans into the body horror",
-        "link": "https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/",
-        "pubDate": "2026-07-22T19:18",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
-        "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
-        "pubDate": "2026-07-22T18:18",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Next Space Force chief throws cold water on the idea of space privateers",
-        "link": "https://arstechnica.com/space/2026/07/next-space-force-chief-throws-cold-water-on-the-idea-of-space-privateers/",
-        "pubDate": "2026-07-22T17:02",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Trump rebuilds trade regime with new tariffs on global trading partners",
+        "link": "https://www.axios.com/2026/07/23/trump-tariffs-trade-labor",
+        "pubDate": "2026-07-23T21:18",
+        "feedId": "axios"
+      },
       {
         "title": "Europe just fined Google $1 billion, the day before Trump is expected to announce tariffs",
         "link": "https://www.axios.com/2026/07/23/eu-google-billion-fine-search-play-store",
@@ -369,12 +375,6 @@
         "title": "Black, Latino Dems feud over calendar for 2028 presidential primary",
         "link": "https://www.axios.com/2026/07/23/democrats-black-latino-feud-2028-primary",
         "pubDate": "2026-07-23T09:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "OpenAI's Hugging Face breach exposes AI's next safety challenge",
-        "link": "https://www.axios.com/2026/07/23/openai-hugging-face-cyber-hacks-testing",
-        "pubDate": "2026-07-23T08:55",
         "feedId": "axios"
       }
     ]
