@@ -3,21 +3,63 @@
     "id": "hn",
     "items": [
       {
+        "title": "What just happened to TheNumbers.com should worry us all",
+        "link": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+        "pubDate": "2026-07-23T16:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "Launch HN: Screenpipe (YC S26) – Power your agents by your 24/7 screen recording",
+        "link": "https://news.ycombinator.com/item?id=49024620",
+        "pubDate": "2026-07-23T16:48",
+        "feedId": "hn"
+      },
+      {
+        "title": "JEP 540: Simple JSON API (Now in Incubator)",
+        "link": "https://openjdk.org/jeps/540",
+        "pubDate": "2026-07-23T16:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Free way to get your data out of ChatGPT Business accounts",
+        "link": "https://github.com/Conradqh/scrapemychats",
+        "pubDate": "2026-07-23T15:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+        "link": "https://github.com/onecli/onecli",
+        "pubDate": "2026-07-23T15:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "UK households free to install plug-in balcony solar panels from end of August",
+        "link": "https://www.theguardian.com/money/2026/jul/23/uk-households-free-install-plug-in-balcony-solar-panels",
+        "pubDate": "2026-07-23T15:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+        "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+        "pubDate": "2026-07-23T15:18",
+        "feedId": "hn"
+      },
+      {
         "title": "Startup founders urge Trump not to shut off Chinese open weight AI",
         "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
         "pubDate": "2026-07-23T15:18",
         "feedId": "hn"
       },
       {
-        "title": "Cross-entropy comparison of LLM responses reveals Kimi's similarity to Claude",
-        "link": "https://typebulb.com/u/lab/you-re-relatively-right/full",
-        "pubDate": "2026-07-23T15:05",
+        "title": "Show HN: Palmier Pro – open-source macOS video editor built for AI",
+        "link": "https://github.com/palmier-io/palmier-pro",
+        "pubDate": "2026-07-23T15:11",
         "feedId": "hn"
       },
       {
-        "title": "Ask HN: Does anyone have an old Goodreads API key?",
-        "link": "https://news.ycombinator.com/item?id=49022755",
-        "pubDate": "2026-07-23T15:00",
+        "title": "NerdLens: Mirror your computer with cardboard VR",
+        "link": "https://github.com/ThatXliner/NerdLens",
+        "pubDate": "2026-07-23T15:02",
         "feedId": "hn"
       },
       {
@@ -27,9 +69,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Vulkan Tutorial",
-        "link": "https://vulkan-tutorial.com/",
-        "pubDate": "2026-07-23T14:54",
+        "title": "Learn WebGPU for C++",
+        "link": "https://eliemichel.github.io/LearnWebGPU/",
+        "pubDate": "2026-07-23T14:55",
         "feedId": "hn"
       },
       {
@@ -39,57 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "How much energy do data centers and artificial intelligence use?",
-        "link": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
-        "pubDate": "2026-07-23T14:40",
-        "feedId": "hn"
-      },
-      {
         "title": "Show HN: Whetuu – a zero-config cross-shell prompt written in Zig",
         "link": "https://yamafaktory.github.io/whetuu/",
         "pubDate": "2026-07-23T14:37",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: macOS menu-bar manager for SSH port forwards",
-        "link": "https://github.com/lx2026/RelayBar",
-        "pubDate": "2026-07-23T14:32",
-        "feedId": "hn"
-      },
-      {
         "title": "Show HN: Remux – an open-source tmux workspace designed for iPhone",
         "link": "https://github.com/h3nock/remux",
         "pubDate": "2026-07-23T14:31",
-        "feedId": "hn"
-      },
-      {
-        "title": "Writing by hand is good for your brain",
-        "link": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-        "pubDate": "2026-07-23T14:24",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: I made YAFL – a E2EE file handoff for AI agents",
-        "link": "https://yafl.dev",
-        "pubDate": "2026-07-23T14:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "Software rendering in 500 lines of bare C++",
-        "link": "https://haqr.eu/tinyrenderer/",
-        "pubDate": "2026-07-23T14:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "You can now run same OCI images as containers or Firecracker microVMs",
-        "link": "https://github.com/pullrun/pullrun",
-        "pubDate": "2026-07-23T14:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "I Regret Migrating to Codeberg",
-        "link": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
-        "pubDate": "2026-07-23T14:06",
         "feedId": "hn"
       }
     ]
@@ -134,15 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "So Reddit has decided that plain HTML is unsafe",
-        "link": "https://www.cole-k.com/2026/07/21/reddit/",
-        "pubDate": "2026-07-22T08:48",
-        "feedId": "lobsters"
-      },
-      {
         "title": "On Accountability",
         "link": "https://addisoncrump.info/research/on-accountability/",
         "pubDate": "2026-07-23T13:01",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Everyone Should Know SIMD",
+        "link": "https://mitchellh.com/writing/everyone-should-know-simd",
+        "pubDate": "2026-07-23T15:33",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +152,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "So Reddit has decided that plain HTML is unsafe",
+        "link": "https://www.cole-k.com/2026/07/21/reddit/",
+        "pubDate": "2026-07-22T08:48",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Your analytics are lying to you",
         "link": "https://ankursethi.com/blog/your-analytics-are-lying-to-you/",
         "pubDate": "2026-07-23T04:51",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Software rendering in 500 lines of bare C++",
+        "link": "https://ssloy.github.io/tinyrenderer/",
+        "pubDate": "2026-07-23T12:12",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +176,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Silent Replacement of Trusted macOS App Executables",
+        "link": "https://mysk.blog/2026/07/23/macos-overwrite-app-executables/",
+        "pubDate": "2026-07-23T13:37",
+        "feedId": "lobsters"
+      },
+      {
         "title": "LG to Ban Residential Proxies from Smart TV Apps",
         "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
         "pubDate": "2026-07-22T05:56",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Wanix — Wasm-native Unix sandboxing for the web",
-        "link": "https://wanix.dev/",
-        "pubDate": "2026-07-23T09:31",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "SIMD for Collision",
-        "link": "https://box2d.org/posts/2026/07/simd-for-collision/",
-        "pubDate": "2026-07-22T10:00",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Pip 26.2: –only-deps solves 16 years of app deployment hacks",
-        "link": "https://jamesoclaire.com/2026/07/23/pip-26-2-only-deps-solves-16-years-of-app-deployment-hacks/",
-        "pubDate": "2026-07-23T05:50",
         "feedId": "lobsters"
       }
     ]
@@ -288,27 +288,39 @@
     "id": "axios",
     "items": [
       {
+        "title": "Europe just fined Google $1 billion, the day before Trump is expected to announce tariffs",
+        "link": "https://www.axios.com/2026/07/23/eu-google-billion-fine-search-play-store",
+        "pubDate": "2026-07-23T17:03",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump says Saudi nuclear deal bars enrichment, requires Israel normalization",
+        "link": "https://www.axios.com/2026/07/23/url-slug-trump-saudi-nuclear-deal-enrichment-israel",
+        "pubDate": "2026-07-23T16:49",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: House Democrats want changes at the DCCC after  $500,000 blunder in Arizona",
+        "link": "https://www.axios.com/2026/07/23/house-democrats-arizona-dccc-shah-delbene-2026",
+        "pubDate": "2026-07-23T16:21",
+        "feedId": "axios"
+      },
+      {
+        "title": "Exclusive: Trump \"close\" to decision on \"massive attack\" on Iran",
+        "link": "https://www.axios.com/2026/07/23/trump-axios-iran-interview",
+        "pubDate": "2026-07-23T15:28",
+        "feedId": "axios"
+      },
+      {
         "title": "House rebukes Trump's war in Iran",
         "link": "https://www.axios.com/2026/07/23/iran-war-powers-vote-house-republicans-trump",
         "pubDate": "2026-07-23T14:34",
         "feedId": "axios"
       },
       {
-        "title": "Trump says Saudi nuclear deal bars enrichment, requires Israel normalization",
-        "link": "https://www.axios.com/2026/07/23/url-slug-trump-saudi-nuclear-deal-enrichment-israel",
-        "pubDate": "2026-07-23T13:28",
-        "feedId": "axios"
-      },
-      {
         "title": "Google's Gemini delay exposes a deeper problem: employee frustration",
         "link": "https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race",
         "pubDate": "2026-07-23T13:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Europe just fined Google $1 billion, the day before Trump is expected to announce tariffs",
-        "link": "https://www.axios.com/2026/07/23/eu-google-billion-fine-search-play-store",
-        "pubDate": "2026-07-23T12:51",
         "feedId": "axios"
       },
       {
@@ -363,18 +375,6 @@
         "title": "House Judiciary Chair Jim Jordan refers Jack Smith to DOJ over alleged false statement",
         "link": "https://www.axios.com/2026/07/23/jim-jordan-jack-smith-doj-referral",
         "pubDate": "2026-07-23T02:47",
-        "feedId": "axios"
-      },
-      {
-        "title": "Secret Service threat cases soar 40%",
-        "link": "https://www.axios.com/2026/07/23/secret-service-threat-investigations-rise",
-        "pubDate": "2026-07-23T02:12",
-        "feedId": "axios"
-      },
-      {
-        "title": "Tesla's push into AI and robotics is proving costly",
-        "link": "https://www.axios.com/2026/07/22/tesla-earnings-ai-robotics-spending",
-        "pubDate": "2026-07-22T23:41",
         "feedId": "axios"
       }
     ]
