@@ -3,27 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "July 23 1985, Commodore introduced its Amiga 1000: 10 years ahead of its time",
-        "link": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
-        "pubDate": "2026-07-23T05:24",
+        "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+        "link": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
+        "pubDate": "2026-07-23T05:40",
         "feedId": "hn"
       },
       {
-        "title": "Local AI that finds sensitive files on your Mac before attackers do",
-        "link": "https://www.vaultsort.com/guardian",
-        "pubDate": "2026-07-23T05:06",
+        "title": "Amiga 1000: Ten years ahead of its time",
+        "link": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
+        "pubDate": "2026-07-23T05:24",
         "feedId": "hn"
       },
       {
         "title": "Restructuring GitHub's bug bounty program",
         "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
         "pubDate": "2026-07-23T02:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",
-        "link": "https://arxiv.org/abs/2607.20386",
-        "pubDate": "2026-07-23T01:58",
         "feedId": "hn"
       },
       {
@@ -75,12 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Clarity didn't work, trying mysterianism (2012)",
-        "link": "https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html",
-        "pubDate": "2026-07-22T18:55",
-        "feedId": "hn"
-      },
-      {
         "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
         "link": "https://github.com/cactus-compute/cactus-hybrid",
         "pubDate": "2026-07-22T17:56",
@@ -90,6 +78,18 @@
         "title": "Everyone should know SIMD",
         "link": "https://mitchellh.com/writing/everyone-should-know-simd",
         "pubDate": "2026-07-22T17:48",
+        "feedId": "hn"
+      },
+      {
+        "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+        "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+        "pubDate": "2026-07-22T17:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "GigaToken: ~1000x faster Language model tokenization",
+        "link": "https://github.com/marcelroed/gigatoken/",
+        "pubDate": "2026-07-22T17:20",
         "feedId": "hn"
       }
     ]
@@ -164,27 +164,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Your analytics are lying to you",
+        "link": "https://ankursethi.com/blog/your-analytics-are-lying-to-you/",
+        "pubDate": "2026-07-23T04:51",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Announcing Topcoat: a framework for building full-stack reactive web apps with Rust",
         "link": "https://tokio.rs/blog/2026-07-22-announcing-topcoat",
         "pubDate": "2026-07-22T17:35",
         "feedId": "lobsters"
       },
       {
+        "title": "Pip 26.2: –only-deps solves 16 years of app deployment hacks",
+        "link": "https://jamesoclaire.com/2026/07/23/pip-26-2-only-deps-solves-16-years-of-app-deployment-hacks/",
+        "pubDate": "2026-07-23T05:50",
+        "feedId": "lobsters"
+      },
+      {
         "title": "RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)",
         "link": "https://blog.qualys.com/vulnerabilities-threat-research/2026/07/22/refluxfs-a-linux-kernel-local-privilege-escalation-to-root-in-xfs-cve-2026-64600",
         "pubDate": "2026-07-22T20:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Slash Pages",
-        "link": "https://slashpages.net/",
-        "pubDate": "2026-07-22T05:34",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Your analytics are lying to you",
-        "link": "https://ankursethi.com/blog/your-analytics-are-lying-to-you/",
-        "pubDate": "2026-07-23T04:51",
         "feedId": "lobsters"
       }
     ]
