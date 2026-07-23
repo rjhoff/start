@@ -21,12 +21,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Petals: Run LLMs at home, BitTorrent-style",
-        "link": "https://petals.dev/",
-        "pubDate": "2026-07-23T01:33",
-        "feedId": "hn"
-      },
-      {
         "title": "Protecting our FLOSS commons from LLMs",
         "link": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
         "pubDate": "2026-07-23T01:14",
@@ -91,6 +85,12 @@
         "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
         "pubDate": "2026-07-22T17:17",
         "feedId": "hn"
+      },
+      {
+        "title": "Making",
+        "link": "https://beej.us/blog/data/ai-making/",
+        "pubDate": "2026-07-22T15:33",
+        "feedId": "hn"
       }
     ]
   },
@@ -110,9 +110,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "So Reddit has decided that plain HTML is unsafe",
-        "link": "https://www.cole-k.com/2026/07/21/reddit/",
-        "pubDate": "2026-07-22T08:48",
+        "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+        "link": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+        "pubDate": "2026-07-23T01:54",
         "feedId": "lobsters"
       },
       {
@@ -122,21 +122,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
-        "link": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
-        "pubDate": "2026-07-23T01:54",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "LG to Ban Residential Proxies from Smart TV Apps",
-        "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-        "pubDate": "2026-07-22T05:56",
+        "title": "So Reddit has decided that plain HTML is unsafe",
+        "link": "https://www.cole-k.com/2026/07/21/reddit/",
+        "pubDate": "2026-07-22T08:48",
         "feedId": "lobsters"
       },
       {
         "title": "Calm technologies that excite me",
         "link": "https://abhi.now/blog/calm-technologies/",
         "pubDate": "2026-07-23T02:26",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "LG to Ban Residential Proxies from Smart TV Apps",
+        "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+        "pubDate": "2026-07-22T05:56",
         "feedId": "lobsters"
       },
       {
@@ -158,6 +158,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Justif: Knuth-Plass justification and microtypography for the web",
+        "link": "https://justif.lyall.co/",
+        "pubDate": "2026-07-23T09:30",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Unranked, systemd, crawls",
         "link": "https://www.marginalia.nu/log/a_138_systemdocker/",
         "pubDate": "2026-07-22T12:39",
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "What Rose Petals Teach Us about Induction",
+        "link": "https://www.oranlooney.com/post/rose-petals/",
+        "pubDate": "2026-07-23T04:02",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Announcing Topcoat: a framework for building full-stack reactive web apps with Rust",
         "link": "https://tokio.rs/blog/2026-07-22-announcing-topcoat",
         "pubDate": "2026-07-22T17:35",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)",
-        "link": "https://blog.qualys.com/vulnerabilities-threat-research/2026/07/22/refluxfs-a-linux-kernel-local-privilege-escalation-to-root-in-xfs-cve-2026-64600",
-        "pubDate": "2026-07-22T20:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Pip 26.2: –only-deps solves 16 years of app deployment hacks",
-        "link": "https://jamesoclaire.com/2026/07/23/pip-26-2-only-deps-solves-16-years-of-app-deployment-hacks/",
-        "pubDate": "2026-07-23T05:50",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,30 @@
     "id": "axios",
     "items": [
       {
+        "title": "Nvidia CEO to Washington: Don't fall for \"science fiction\" AI fear",
+        "link": "https://www.axios.com/2026/07/23/nvidia-ceo-kimi-ai-fears-trump-washington",
+        "pubDate": "2026-07-23T09:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "The world is crazy but stocks are up?",
+        "link": "https://www.axios.com/2026/07/23/moodys-markets-geopolitics-world",
+        "pubDate": "2026-07-23T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "Black, Latino Dems feud over calendar for 2028 presidential primary",
+        "link": "https://www.axios.com/2026/07/23/democrats-black-latino-feud-2028-primary",
+        "pubDate": "2026-07-23T09:10",
+        "feedId": "axios"
+      },
+      {
+        "title": "OpenAI's Hugging Face breach exposes AI's next safety challenge",
+        "link": "https://www.axios.com/2026/07/23/openai-hugging-face-cyber-hacks-testing",
+        "pubDate": "2026-07-23T08:55",
+        "feedId": "axios"
+      },
+      {
         "title": "U.S. deploys B-1 bomber as attacks on Iran intensify",
         "link": "https://www.axios.com/2026/07/23/b-1-bomber-iran-war",
         "pubDate": "2026-07-23T03:05",
@@ -351,30 +375,6 @@
         "title": "A quieter Fed chief means others narrate the story",
         "link": "https://www.axios.com/2026/07/22/warsh-fed-congress-comms",
         "pubDate": "2026-07-22T18:47",
-        "feedId": "axios"
-      },
-      {
-        "title": "New Mossad director met with CIA chief on Iran",
-        "link": "https://www.axios.com/2026/07/22/mossad-director-gofman-ratcliffe-iran",
-        "pubDate": "2026-07-22T17:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"No one cares\": The DSA primary challenge House Democrats are happy to ignore",
-        "link": "https://www.axios.com/2026/07/22/shri-thanedar-dsa-donavan-mckinney-detroit-mi-13",
-        "pubDate": "2026-07-22T17:22",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: Nvidia's Jensen Huang defends Chinese AI amid Kimi panic",
-        "link": "https://www.axios.com/2026/07/22/nvidia-jensen-huang-china-open-source-ai",
-        "pubDate": "2026-07-22T10:12",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: \"Regime Change\" sells 500,000 — on track for nonfiction bestseller of '26",
-        "link": "https://www.axios.com/2026/07/22/scoop-regime-change-sells-500000-on-track-for-nonfiction-bestseller-of-26",
-        "pubDate": "2026-07-22T10:02",
         "feedId": "axios"
       }
     ]
