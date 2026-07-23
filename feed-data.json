@@ -15,15 +15,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Run large language models at home, BitTorrent‑style",
+        "title": "Petals: Run LLMs at home, BitTorrent-style",
         "link": "https://petals.dev/",
         "pubDate": "2026-07-23T01:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
-        "link": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-        "pubDate": "2026-07-23T01:16",
         "feedId": "hn"
       },
       {
@@ -45,15 +39,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Malleable Computing, Emacs, and You",
-        "link": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
-        "pubDate": "2026-07-22T21:15",
+        "title": "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
+        "link": "https://claytondorge.com/patterns-list",
+        "pubDate": "2026-07-22T21:48",
         "feedId": "hn"
       },
       {
-        "title": "Safari Technology Preview 248 Released",
-        "link": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
-        "pubDate": "2026-07-22T21:00",
+        "title": "Malleable Computing, Emacs, and You",
+        "link": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+        "pubDate": "2026-07-22T21:15",
         "feedId": "hn"
       },
       {
@@ -81,15 +75,21 @@
         "feedId": "hn"
       },
       {
-        "title": "Everyone Should Know SIMD",
+        "title": "Everyone should know SIMD",
         "link": "https://mitchellh.com/writing/everyone-should-know-simd",
         "pubDate": "2026-07-22T17:48",
         "feedId": "hn"
       },
       {
-        "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+        "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
         "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
         "pubDate": "2026-07-22T17:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "GigaToken: ~1000x faster Language model tokenization",
+        "link": "https://github.com/marcelroed/gigatoken/",
+        "pubDate": "2026-07-22T17:20",
         "feedId": "hn"
       }
     ]
@@ -97,6 +97,12 @@
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "Protecting our FLOSS commons from LLMs",
+        "link": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+        "pubDate": "2026-07-23T01:04",
+        "feedId": "lobsters"
+      },
       {
         "title": "Why care about programming languages",
         "link": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
@@ -116,9 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Protecting our FLOSS commons from LLMs",
-        "link": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
-        "pubDate": "2026-07-23T01:04",
+        "title": "John C. Dvorak has died",
+        "link": "http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html",
+        "pubDate": "2026-07-23T02:09",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+        "link": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+        "pubDate": "2026-07-23T01:54",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
-        "link": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
-        "pubDate": "2026-07-23T01:54",
+        "title": "Calm technologies that excite me",
+        "link": "https://abhi.now/blog/calm-technologies/",
+        "pubDate": "2026-07-23T02:26",
         "feedId": "lobsters"
       },
       {
-        "title": "John C. Dvorak has died",
-        "link": "http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html",
-        "pubDate": "2026-07-23T02:09",
+        "title": "Announcing Topcoat: a framework for building full-stack reactive web apps with Rust",
+        "link": "https://tokio.rs/blog/2026-07-22-announcing-topcoat",
+        "pubDate": "2026-07-22T17:35",
         "feedId": "lobsters"
       },
       {
@@ -173,18 +185,6 @@
         "title": "Unicode Variation Selector-15 and some of my tears",
         "link": "https://benjaminwil.info/weblog/variation-selector-15/",
         "pubDate": "2026-07-22T15:59",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Announcing Topcoat: a framework for building full-stack reactive web apps with Rust",
-        "link": "https://tokio.rs/blog/2026-07-22-announcing-topcoat",
-        "pubDate": "2026-07-22T17:35",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
-        "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-        "pubDate": "2026-07-21T20:38",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "U.S. deploys B-1 bomber as attacks on Iran intensify",
+        "link": "https://www.axios.com/2026/07/23/b-1-bomber-iran-war",
+        "pubDate": "2026-07-23T03:05",
+        "feedId": "axios"
+      },
+      {
+        "title": "House Judiciary Chair Jim Jordan refers Jack Smith to DOJ over alleged false statement",
+        "link": "https://www.axios.com/2026/07/23/jim-jordan-jack-smith-doj-referral",
+        "pubDate": "2026-07-23T02:47",
+        "feedId": "axios"
+      },
+      {
         "title": "Secret Service threat cases soar 40%",
         "link": "https://www.axios.com/2026/07/23/secret-service-threat-investigations-rise",
         "pubDate": "2026-07-23T02:12",
@@ -297,6 +309,12 @@
         "title": "Tesla's push into AI and robotics is proving costly",
         "link": "https://www.axios.com/2026/07/22/tesla-earnings-ai-robotics-spending",
         "pubDate": "2026-07-22T23:41",
+        "feedId": "axios"
+      },
+      {
+        "title": "Senate feeling good about avoiding pre-election shutdown",
+        "link": "https://www.axios.com/2026/07/22/senate-government-shutdown-democrats-republicans",
+        "pubDate": "2026-07-22T23:31",
         "feedId": "axios"
       },
       {
@@ -336,6 +354,12 @@
         "feedId": "axios"
       },
       {
+        "title": "New Mossad director met with CIA chief on Iran",
+        "link": "https://www.axios.com/2026/07/22/mossad-director-gofman-ratcliffe-iran",
+        "pubDate": "2026-07-22T17:30",
+        "feedId": "axios"
+      },
+      {
         "title": "\"No one cares\": The DSA primary challenge House Democrats are happy to ignore",
         "link": "https://www.axios.com/2026/07/22/shri-thanedar-dsa-donavan-mckinney-detroit-mi-13",
         "pubDate": "2026-07-22T17:22",
@@ -351,30 +375,6 @@
         "title": "Scoop: \"Regime Change\" sells 500,000 — on track for nonfiction bestseller of '26",
         "link": "https://www.axios.com/2026/07/22/scoop-regime-change-sells-500000-on-track-for-nonfiction-bestseller-of-26",
         "pubDate": "2026-07-22T10:02",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump, Rubio don't plan to stop Tate brothers' extradition to the U.K.",
-        "link": "https://www.axios.com/2026/07/22/trump-rubio-tate-brothers-extradition",
-        "pubDate": "2026-07-22T09:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "U.S. measles cases surpass last year's total: Tracker",
-        "link": "https://www.axios.com/2026/07/22/measles-cases-surge-past-last-year",
-        "pubDate": "2026-07-22T00:56",
-        "feedId": "axios"
-      },
-      {
-        "title": "Senate rabble-rousers are gaining power",
-        "link": "https://www.axios.com/2026/07/22/senate-lindsey-graham-committtee-assignments",
-        "pubDate": "2026-07-22T00:03",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Progressives scorch Gillibrand over crypto",
-        "link": "https://www.axios.com/2026/07/22/crypto-progressives-kirsten-gillibrand-senate",
-        "pubDate": "2026-07-22T00:03",
         "feedId": "axios"
       }
     ]
