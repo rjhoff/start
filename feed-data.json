@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "A Taxonomy of Omnicidal Futures Involving Artificial Intelligence",
+        "link": "https://arxiv.org/abs/2507.09369",
+        "pubDate": "2026-07-23T22:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "98.css",
+        "link": "https://jdan.github.io/98.css/#status-bar",
+        "pubDate": "2026-07-23T22:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "Building watchable digital twins of 64 World Cup games",
+        "link": "https://rogerdickey.com/building-watchable-digital-twins-of-64-world-cup-games/",
+        "pubDate": "2026-07-23T22:30",
+        "feedId": "hn"
+      },
+      {
         "title": "Namecheap Gave My Account to an Unverified Third Party Just Because They Asked",
         "link": "https://news.ycombinator.com/item?id=49028037",
         "pubDate": "2026-07-23T21:05",
@@ -63,12 +81,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
-        "link": "https://github.com/onecli/onecli",
-        "pubDate": "2026-07-23T15:42",
-        "feedId": "hn"
-      },
-      {
         "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
         "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
         "pubDate": "2026-07-23T15:18",
@@ -78,18 +90,6 @@
         "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
         "link": "https://github.com/palmier-io/palmier-pro",
         "pubDate": "2026-07-23T15:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "Learn WebGPU for C++",
-        "link": "https://eliemichel.github.io/LearnWebGPU/",
-        "pubDate": "2026-07-23T14:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
-        "link": "https://learnopengl.com/",
-        "pubDate": "2026-07-23T14:53",
         "feedId": "hn"
       }
     ]
@@ -152,12 +152,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The first known runaway AI agent - or a very bad marketing stunt?",
-        "link": "https://martinalderson.com/posts/huggingface-openai-exploit/",
-        "pubDate": "2026-07-23T10:16",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The PImpl idiom and the C++26 std::indirect type",
         "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
         "pubDate": "2026-07-23T16:58",
@@ -170,21 +164,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Jolt: running Clojure on Chez Scheme",
+        "link": "https://yogthos.net/posts/2026-07-02-jolt.html",
+        "pubDate": "2026-07-23T20:54",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+        "link": "https://martinalderson.com/posts/huggingface-openai-exploit/",
+        "pubDate": "2026-07-23T10:16",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Your analytics are lying to you",
         "link": "https://ankursethi.com/blog/your-analytics-are-lying-to-you/",
         "pubDate": "2026-07-23T04:51",
         "feedId": "lobsters"
       },
       {
-        "title": "agent-shell 0.63 updates",
-        "link": "https://xenodium.com/agent-shell-0-63-updates",
-        "pubDate": "2026-07-23T18:42",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Software rendering in 500 lines of bare C++",
-        "link": "https://ssloy.github.io/tinyrenderer/",
-        "pubDate": "2026-07-23T12:12",
+        "title": "Fil-C: Garbage In, Memory Safety Out",
+        "link": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
+        "pubDate": "2026-07-23T21:20",
         "feedId": "lobsters"
       }
     ]
@@ -288,15 +288,21 @@
     "id": "axios",
     "items": [
       {
-        "title": "Trump rebuilds trade regime with new tariffs on global trading partners",
-        "link": "https://www.axios.com/2026/07/23/trump-tariffs-trade-labor",
-        "pubDate": "2026-07-23T21:18",
+        "title": "House GOP's parting message for Senate on reconciliation",
+        "link": "https://www.axios.com/2026/07/23/house-senate-republicans-reconciliation-save-act",
+        "pubDate": "2026-07-23T22:49",
         "feedId": "axios"
       },
       {
         "title": "Europe just fined Google $1 billion, the day before Trump is expected to announce tariffs",
         "link": "https://www.axios.com/2026/07/23/eu-google-billion-fine-search-play-store",
-        "pubDate": "2026-07-23T17:03",
+        "pubDate": "2026-07-23T22:28",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump rebuilds trade regime with new tariffs on global trading partners",
+        "link": "https://www.axios.com/2026/07/23/trump-tariffs-trade-labor",
+        "pubDate": "2026-07-23T21:18",
         "feedId": "axios"
       },
       {
@@ -369,12 +375,6 @@
         "title": "What it's like inside the data centers powering the AI boom",
         "link": "https://www.axios.com/2026/07/23/inside-data-centers-powering-ai-boom",
         "pubDate": "2026-07-23T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Black, Latino Dems feud over calendar for 2028 presidential primary",
-        "link": "https://www.axios.com/2026/07/23/democrats-black-latino-feud-2028-primary",
-        "pubDate": "2026-07-23T09:10",
         "feedId": "axios"
       }
     ]
