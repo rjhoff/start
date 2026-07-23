@@ -3,21 +3,33 @@
     "id": "hn",
     "items": [
       {
+        "title": "I Regret Migrating to Codeberg",
+        "link": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
+        "pubDate": "2026-07-23T14:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Astronomers may have found the first exomoon",
+        "link": "https://www.eso.org/public/news/eso2610/",
+        "pubDate": "2026-07-23T14:02",
+        "feedId": "hn"
+      },
+      {
         "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
         "link": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
         "pubDate": "2026-07-23T13:10",
         "feedId": "hn"
       },
       {
-        "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-        "link": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
-        "pubDate": "2026-07-23T13:00",
+        "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+        "link": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+        "pubDate": "2026-07-23T13:09",
         "feedId": "hn"
       },
       {
-        "title": "EU fines Google €890M for competition breaches over search and apps",
-        "link": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
-        "pubDate": "2026-07-23T10:07",
+        "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+        "link": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+        "pubDate": "2026-07-23T13:00",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://github.com/marcelroed/gigatoken/",
         "pubDate": "2026-07-22T17:20",
         "feedId": "hn"
-      },
-      {
-        "title": "Are AI labs pelicanmaxxing?",
-        "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-        "pubDate": "2026-07-22T17:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "Making",
-        "link": "https://beej.us/blog/data/ai-making/",
-        "pubDate": "2026-07-22T15:33",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,21 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Protecting our FLOSS commons from LLMs",
-        "link": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
-        "pubDate": "2026-07-23T01:04",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Justif: Knuth-Plass justification and microtypography for the web",
         "link": "https://justif.lyall.co/",
         "pubDate": "2026-07-23T09:30",
         "feedId": "lobsters"
       },
       {
-        "title": "Why care about programming languages",
-        "link": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
-        "pubDate": "2026-07-22T21:33",
+        "title": "Protecting our FLOSS commons from LLMs",
+        "link": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+        "pubDate": "2026-07-23T01:04",
         "feedId": "lobsters"
       },
       {
@@ -125,6 +119,12 @@
         "title": "Calm technologies that excite me",
         "link": "https://abhi.now/blog/calm-technologies/",
         "pubDate": "2026-07-23T02:26",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why care about programming languages",
+        "link": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
+        "pubDate": "2026-07-22T21:33",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "LG to Ban Residential Proxies from Smart TV Apps",
-        "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-        "pubDate": "2026-07-22T05:56",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Your analytics are lying to you",
         "link": "https://ankursethi.com/blog/your-analytics-are-lying-to-you/",
         "pubDate": "2026-07-23T04:51",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "LG to Ban Residential Proxies from Smart TV Apps",
+        "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+        "pubDate": "2026-07-22T05:56",
         "feedId": "lobsters"
       },
       {
@@ -170,9 +170,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Taking OCaml and Eio for a spin",
-        "link": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
-        "pubDate": "2026-07-22T21:33",
+        "title": "On Accountability",
+        "link": "https://addisoncrump.info/research/on-accountability/",
+        "pubDate": "2026-07-23T13:01",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Unranked, systemd, crawls",
-        "link": "https://www.marginalia.nu/log/a_138_systemdocker/",
-        "pubDate": "2026-07-22T12:39",
+        "title": "Taking OCaml and Eio for a spin",
+        "link": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
+        "pubDate": "2026-07-22T21:33",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "House rebukes Trump's war in Iran",
+        "link": "https://www.axios.com/2026/07/23/iran-war-powers-vote-house-republicans-trump",
+        "pubDate": "2026-07-23T14:34",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump says Saudi nuclear deal bars enrichment, requires Israel normalization",
         "link": "https://www.axios.com/2026/07/23/url-slug-trump-saudi-nuclear-deal-enrichment-israel",
         "pubDate": "2026-07-23T13:28",
@@ -369,12 +375,6 @@
         "title": "Tesla's push into AI and robotics is proving costly",
         "link": "https://www.axios.com/2026/07/22/tesla-earnings-ai-robotics-spending",
         "pubDate": "2026-07-22T23:41",
-        "feedId": "axios"
-      },
-      {
-        "title": "Senate feeling good about avoiding pre-election shutdown",
-        "link": "https://www.axios.com/2026/07/22/senate-government-shutdown-democrats-republicans",
-        "pubDate": "2026-07-22T23:31",
         "feedId": "axios"
       }
     ]
