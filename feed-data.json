@@ -3,9 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "What just happened to TheNumbers.com should worry us all",
+        "title": "Show HN: Claude-thermos – keeps your Claude session warm for you",
+        "link": "https://github.com/izeigerman/claude-thermos",
+        "pubDate": "2026-07-23T17:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "What happened to TheNumbers.com",
         "link": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
         "pubDate": "2026-07-23T16:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "The arguments against open source AI are bad",
+        "link": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+        "pubDate": "2026-07-23T16:49",
         "feedId": "hn"
       },
       {
@@ -33,19 +45,13 @@
         "feedId": "hn"
       },
       {
-        "title": "UK households free to install plug-in balcony solar panels from end of August",
-        "link": "https://www.theguardian.com/money/2026/jul/23/uk-households-free-install-plug-in-balcony-solar-panels",
-        "pubDate": "2026-07-23T15:35",
-        "feedId": "hn"
-      },
-      {
         "title": "Why Software Factories Fail (or: harness engineering is not enough)",
         "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
         "pubDate": "2026-07-23T15:18",
         "feedId": "hn"
       },
       {
-        "title": "Startup founders urge Trump not to shut off Chinese open weight AI",
+        "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
         "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
         "pubDate": "2026-07-23T15:18",
         "feedId": "hn"
@@ -54,12 +60,6 @@
         "title": "Show HN: Palmier Pro – open-source macOS video editor built for AI",
         "link": "https://github.com/palmier-io/palmier-pro",
         "pubDate": "2026-07-23T15:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "NerdLens: Mirror your computer with cardboard VR",
-        "link": "https://github.com/ThatXliner/NerdLens",
-        "pubDate": "2026-07-23T15:02",
         "feedId": "hn"
       },
       {
@@ -122,6 +122,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Everyone Should Know SIMD",
+        "link": "https://mitchellh.com/writing/everyone-should-know-simd",
+        "pubDate": "2026-07-23T15:33",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Why care about programming languages",
         "link": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
         "pubDate": "2026-07-22T21:33",
@@ -140,15 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Everyone Should Know SIMD",
-        "link": "https://mitchellh.com/writing/everyone-should-know-simd",
-        "pubDate": "2026-07-23T15:33",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The first known runaway AI agent - or a very bad marketing stunt?",
         "link": "https://martinalderson.com/posts/huggingface-openai-exploit/",
         "pubDate": "2026-07-23T10:16",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Your analytics are lying to you",
+        "link": "https://ankursethi.com/blog/your-analytics-are-lying-to-you/",
+        "pubDate": "2026-07-23T04:51",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Your analytics are lying to you",
-        "link": "https://ankursethi.com/blog/your-analytics-are-lying-to-you/",
-        "pubDate": "2026-07-23T04:51",
+        "title": "Silent Replacement of Trusted macOS App Executables",
+        "link": "https://mysk.blog/2026/07/23/macos-overwrite-app-executables/",
+        "pubDate": "2026-07-23T13:37",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Silent Replacement of Trusted macOS App Executables",
-        "link": "https://mysk.blog/2026/07/23/macos-overwrite-app-executables/",
-        "pubDate": "2026-07-23T13:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "LG to Ban Residential Proxies from Smart TV Apps",
-        "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-        "pubDate": "2026-07-22T05:56",
+        "title": "The PImpl idiom and the C++26 std::indirect type",
+        "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+        "pubDate": "2026-07-23T16:58",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,36 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Final Coyote vs. Acme trailer drops at SDCC",
+        "link": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
+        "pubDate": "2026-07-23T18:01",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "A woman got a UTI. Two years later, the bacteria had evolved, invaded her brain.",
+        "link": "https://arstechnica.com/health/2026/07/woman-loses-vision-in-one-eye-after-uti-bacteria-evolves-to-invade-her-brain/",
+        "pubDate": "2026-07-23T16:58",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google hit with $1 billion in fines as EU braces for Trump battle",
+        "link": "https://arstechnica.com/tech-policy/2026/07/google-hit-with-1-billion-in-fines-as-eu-braces-for-trump-battle/",
+        "pubDate": "2026-07-23T16:41",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Sony's decision to ditch discs was practically inevitable, data shows",
+        "link": "https://arstechnica.com/gaming/2026/07/the-playstation-game-disc-was-dying-long-before-sony-pulled-the-plug/",
+        "pubDate": "2026-07-23T16:25",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google just had its first negative cash flow quarter due to massive AI spending",
+        "link": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+        "pubDate": "2026-07-23T16:04",
+        "feedId": "arstechnica"
+      },
       {
         "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
         "link": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
@@ -250,36 +280,6 @@
         "title": "Next Space Force chief throws cold water on the idea of space privateers",
         "link": "https://arstechnica.com/space/2026/07/next-space-force-chief-throws-cold-water-on-the-idea-of-space-privateers/",
         "pubDate": "2026-07-22T17:02",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
-        "link": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
-        "pubDate": "2026-07-22T16:47",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "What happens when you try to chop a photon in half?",
-        "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-try-to-chop-a-photon-in-half/",
-        "pubDate": "2026-07-22T14:17",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Samsung unveils new Galaxy Z8 foldables and Galaxy Watches, available August 7",
-        "link": "https://arstechnica.com/gadgets/2026/07/samsung-unveils-new-galaxy-z8-foldables-and-galaxy-watches-available-august-7/",
-        "pubDate": "2026-07-22T13:58",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
-        "link": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
-        "pubDate": "2026-07-22T13:35",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Ukrainian drones deliver robots directly into battle by sea and air",
-        "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drones-deliver-robots-directly-into-battle-by-sea-and-air/",
-        "pubDate": "2026-07-22T11:15",
         "feedId": "arstechnica"
       }
     ]
