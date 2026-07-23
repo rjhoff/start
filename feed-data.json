@@ -3,93 +3,93 @@
     "id": "hn",
     "items": [
       {
+        "title": "Startup founders urge Trump not to shut off Chinese open weight AI",
+        "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+        "pubDate": "2026-07-23T15:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Cross-entropy comparison of LLM responses reveals Kimi's similarity to Claude",
+        "link": "https://typebulb.com/u/lab/you-re-relatively-right/full",
+        "pubDate": "2026-07-23T15:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ask HN: Does anyone have an old Goodreads API key?",
+        "link": "https://news.ycombinator.com/item?id=49022755",
+        "pubDate": "2026-07-23T15:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Encryption and Globalization 15 Years Later: E2EE and the \"Going Dark\" Debate",
+        "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959699",
+        "pubDate": "2026-07-23T14:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Vulkan Tutorial",
+        "link": "https://vulkan-tutorial.com/",
+        "pubDate": "2026-07-23T14:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+        "link": "https://learnopengl.com/",
+        "pubDate": "2026-07-23T14:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "How much energy do data centers and artificial intelligence use?",
+        "link": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
+        "pubDate": "2026-07-23T14:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Whetuu – a zero-config cross-shell prompt written in Zig",
+        "link": "https://yamafaktory.github.io/whetuu/",
+        "pubDate": "2026-07-23T14:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: macOS menu-bar manager for SSH port forwards",
+        "link": "https://github.com/lx2026/RelayBar",
+        "pubDate": "2026-07-23T14:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Remux – an open-source tmux workspace designed for iPhone",
+        "link": "https://github.com/h3nock/remux",
+        "pubDate": "2026-07-23T14:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "Writing by hand is good for your brain",
+        "link": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+        "pubDate": "2026-07-23T14:24",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: I made YAFL – a E2EE file handoff for AI agents",
+        "link": "https://yafl.dev",
+        "pubDate": "2026-07-23T14:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "Software rendering in 500 lines of bare C++",
+        "link": "https://haqr.eu/tinyrenderer/",
+        "pubDate": "2026-07-23T14:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "You can now run same OCI images as containers or Firecracker microVMs",
+        "link": "https://github.com/pullrun/pullrun",
+        "pubDate": "2026-07-23T14:08",
+        "feedId": "hn"
+      },
+      {
         "title": "I Regret Migrating to Codeberg",
         "link": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
         "pubDate": "2026-07-23T14:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "Astronomers may have found the first exomoon",
-        "link": "https://www.eso.org/public/news/eso2610/",
-        "pubDate": "2026-07-23T14:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
-        "link": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
-        "pubDate": "2026-07-23T13:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-        "link": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-        "pubDate": "2026-07-23T13:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-        "link": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
-        "pubDate": "2026-07-23T13:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
-        "link": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
-        "pubDate": "2026-07-23T05:40",
-        "feedId": "hn"
-      },
-      {
-        "title": "Amiga 1000: Ten years ahead of its time",
-        "link": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
-        "pubDate": "2026-07-23T05:24",
-        "feedId": "hn"
-      },
-      {
-        "title": "Protecting our FLOSS commons from LLMs",
-        "link": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
-        "pubDate": "2026-07-23T01:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "Medici family mystery may be solved after more than 400 years",
-        "link": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
-        "pubDate": "2026-07-22T21:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "Malleable Computing, Emacs, and You",
-        "link": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
-        "pubDate": "2026-07-22T21:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "John C. Dvorak has died",
-        "link": "https://twitter.com/na_announce/status/2079952538040672302",
-        "pubDate": "2026-07-22T19:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
-        "link": "https://github.com/cactus-compute/cactus-hybrid",
-        "pubDate": "2026-07-22T17:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "Everyone should know SIMD",
-        "link": "https://mitchellh.com/writing/everyone-should-know-simd",
-        "pubDate": "2026-07-22T17:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-        "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-        "pubDate": "2026-07-22T17:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "GigaToken: ~1000x faster Language model tokenization",
-        "link": "https://github.com/marcelroed/gigatoken/",
-        "pubDate": "2026-07-22T17:20",
         "feedId": "hn"
       }
     ]
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
-        "link": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
-        "pubDate": "2026-07-23T01:54",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Calm technologies that excite me",
         "link": "https://abhi.now/blog/calm-technologies/",
         "pubDate": "2026-07-23T02:26",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+        "link": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+        "pubDate": "2026-07-23T01:54",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +140,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "PyPI releases now reject new files after 14 days",
-        "link": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
-        "pubDate": "2026-07-22T15:01",
+        "title": "On Accountability",
+        "link": "https://addisoncrump.info/research/on-accountability/",
+        "pubDate": "2026-07-23T13:01",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+        "link": "https://martinalderson.com/posts/huggingface-openai-exploit/",
+        "pubDate": "2026-07-23T10:16",
         "feedId": "lobsters"
       },
       {
         "title": "Your analytics are lying to you",
         "link": "https://ankursethi.com/blog/your-analytics-are-lying-to-you/",
         "pubDate": "2026-07-23T04:51",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "PyPI releases now reject new files after 14 days",
+        "link": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
+        "pubDate": "2026-07-22T15:01",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "On Accountability",
-        "link": "https://addisoncrump.info/research/on-accountability/",
-        "pubDate": "2026-07-23T13:01",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Pip 26.2: –only-deps solves 16 years of app deployment hacks",
         "link": "https://jamesoclaire.com/2026/07/23/pip-26-2-only-deps-solves-16-years-of-app-deployment-hacks/",
         "pubDate": "2026-07-23T05:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Taking OCaml and Eio for a spin",
-        "link": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
-        "pubDate": "2026-07-22T21:33",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
+        "link": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
+        "pubDate": "2026-07-23T14:45",
+        "feedId": "arstechnica"
+      },
       {
         "title": "White House report says Trump can usher in a \"new golden age\" of science",
         "link": "https://arstechnica.com/science/2026/07/white-house-report-says-trump-can-usher-in-a-new-golden-age-of-science/",
@@ -205,7 +211,7 @@
         "feedId": "arstechnica"
       },
       {
-        "title": "Orcas team up to ram sunfish until they explode",
+        "title": "Watch orcas ram a sunfish so hard it explodes",
         "link": "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/",
         "pubDate": "2026-07-23T04:00",
         "feedId": "arstechnica"
@@ -274,12 +280,6 @@
         "title": "Ukrainian drones deliver robots directly into battle by sea and air",
         "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drones-deliver-robots-directly-into-battle-by-sea-and-air/",
         "pubDate": "2026-07-22T11:15",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Range Rover answers the question: \"What if we built a not-SUV?\"",
-        "link": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/",
-        "pubDate": "2026-07-21T23:01",
         "feedId": "arstechnica"
       }
     ]
