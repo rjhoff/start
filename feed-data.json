@@ -3,6 +3,36 @@
     "id": "hn",
     "items": [
       {
+        "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+        "link": "https://news.ycombinator.com/item?id=49026810",
+        "pubDate": "2026-07-23T19:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "From Evaluation to Guardrails: What We Brought to ACM FAccT 2026",
+        "link": "https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/",
+        "pubDate": "2026-07-23T18:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Building on ATProto",
+        "link": "https://lukekanies.com/writing/building-on-atproto/",
+        "pubDate": "2026-07-23T18:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "A solid-state “atomic channel” for separating rare earth elements",
+        "link": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements",
+        "pubDate": "2026-07-23T18:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "Geekbench 7",
+        "link": "https://www.geekbench.com/blog/2026/07/geekbench-7/",
+        "pubDate": "2026-07-23T18:11",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: Claude-thermos – keeps your Claude session warm for you",
         "link": "https://github.com/izeigerman/claude-thermos",
         "pubDate": "2026-07-23T17:06",
@@ -21,7 +51,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Launch HN: Screenpipe (YC S26) – Power your agents by your 24/7 screen recording",
+        "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
         "link": "https://news.ycombinator.com/item?id=49024620",
         "pubDate": "2026-07-23T16:48",
         "feedId": "hn"
@@ -57,39 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Palmier Pro – open-source macOS video editor built for AI",
+        "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
         "link": "https://github.com/palmier-io/palmier-pro",
         "pubDate": "2026-07-23T15:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "Encryption and Globalization 15 Years Later: E2EE and the \"Going Dark\" Debate",
-        "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959699",
-        "pubDate": "2026-07-23T14:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "Learn WebGPU for C++",
-        "link": "https://eliemichel.github.io/LearnWebGPU/",
-        "pubDate": "2026-07-23T14:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
-        "link": "https://learnopengl.com/",
-        "pubDate": "2026-07-23T14:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Whetuu – a zero-config cross-shell prompt written in Zig",
-        "link": "https://yamafaktory.github.io/whetuu/",
-        "pubDate": "2026-07-23T14:37",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Remux – an open-source tmux workspace designed for iPhone",
-        "link": "https://github.com/h3nock/remux",
-        "pubDate": "2026-07-23T14:31",
         "feedId": "hn"
       }
     ]
@@ -110,6 +110,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Everyone Should Know SIMD",
+        "link": "https://mitchellh.com/writing/everyone-should-know-simd",
+        "pubDate": "2026-07-23T15:33",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Calm technologies that excite me",
         "link": "https://abhi.now/blog/calm-technologies/",
         "pubDate": "2026-07-23T02:26",
@@ -122,9 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Everyone Should Know SIMD",
-        "link": "https://mitchellh.com/writing/everyone-should-know-simd",
-        "pubDate": "2026-07-23T15:33",
+        "title": "On Accountability",
+        "link": "https://addisoncrump.info/research/on-accountability/",
+        "pubDate": "2026-07-23T13:01",
         "feedId": "lobsters"
       },
       {
@@ -140,27 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "On Accountability",
-        "link": "https://addisoncrump.info/research/on-accountability/",
-        "pubDate": "2026-07-23T13:01",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The first known runaway AI agent - or a very bad marketing stunt?",
         "link": "https://martinalderson.com/posts/huggingface-openai-exploit/",
         "pubDate": "2026-07-23T10:16",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Your analytics are lying to you",
-        "link": "https://ankursethi.com/blog/your-analytics-are-lying-to-you/",
-        "pubDate": "2026-07-23T04:51",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "So Reddit has decided that plain HTML is unsafe",
-        "link": "https://www.cole-k.com/2026/07/21/reddit/",
-        "pubDate": "2026-07-22T08:48",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +158,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Your analytics are lying to you",
+        "link": "https://ankursethi.com/blog/your-analytics-are-lying-to-you/",
+        "pubDate": "2026-07-23T04:51",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How AI Is Changing Open Source",
+        "link": "https://enblog.eischmann.cz/2026/07/23/how-ai-is-changing-open-source/",
+        "pubDate": "2026-07-23T16:26",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "So Reddit has decided that plain HTML is unsafe",
+        "link": "https://www.cole-k.com/2026/07/21/reddit/",
+        "pubDate": "2026-07-22T08:48",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Software rendering in 500 lines of bare C++",
         "link": "https://ssloy.github.io/tinyrenderer/",
         "pubDate": "2026-07-23T12:12",
         "feedId": "lobsters"
       },
       {
-        "title": "PyPI releases now reject new files after 14 days",
-        "link": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
-        "pubDate": "2026-07-22T15:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The PImpl idiom and the C++26 std::indirect type",
-        "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
-        "pubDate": "2026-07-23T16:58",
+        "title": "Spatial languages: writing code in 2D",
+        "link": "https://shukla.io/blog/2026-07/cccx.html",
+        "pubDate": "2026-07-23T09:47",
         "feedId": "lobsters"
       }
     ]
@@ -306,6 +306,18 @@
         "feedId": "axios"
       },
       {
+        "title": "Investors want a bigger reward for lending money",
+        "link": "https://www.axios.com/2026/07/23/rates-treasury-yields-borrowing",
+        "pubDate": "2026-07-23T16:15",
+        "feedId": "axios"
+      },
+      {
+        "title": "Low layoff rates defy AI jobs domination fears",
+        "link": "https://www.axios.com/2026/07/23/jobless-claims-unemployment-ai",
+        "pubDate": "2026-07-23T15:58",
+        "feedId": "axios"
+      },
+      {
         "title": "Exclusive: Trump \"close\" to decision on \"massive attack\" on Iran",
         "link": "https://www.axios.com/2026/07/23/trump-axios-iran-interview",
         "pubDate": "2026-07-23T15:28",
@@ -363,18 +375,6 @@
         "title": "OpenAI's Hugging Face breach exposes AI's next safety challenge",
         "link": "https://www.axios.com/2026/07/23/openai-hugging-face-cyber-hacks-testing",
         "pubDate": "2026-07-23T08:55",
-        "feedId": "axios"
-      },
-      {
-        "title": "U.S. deploys B-1 bomber as attacks on Iran intensify",
-        "link": "https://www.axios.com/2026/07/23/b-1-bomber-iran-war",
-        "pubDate": "2026-07-23T03:05",
-        "feedId": "axios"
-      },
-      {
-        "title": "House Judiciary Chair Jim Jordan refers Jack Smith to DOJ over alleged false statement",
-        "link": "https://www.axios.com/2026/07/23/jim-jordan-jack-smith-doj-referral",
-        "pubDate": "2026-07-23T02:47",
         "feedId": "axios"
       }
     ]
