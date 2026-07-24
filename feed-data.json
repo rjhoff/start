@@ -63,12 +63,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Preventing line breaks in <code> elements",
-        "link": "https://alexwlchan.net/2026/non-breaking-code/",
-        "pubDate": "2026-07-24T14:20",
-        "feedId": "hn"
-      },
-      {
         "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
         "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
         "pubDate": "2026-07-24T13:32",
@@ -90,6 +84,12 @@
         "title": "My security camera shipped a GitHub admin token in its login page",
         "link": "https://hhh.hn/hanwha-github-token/",
         "pubDate": "2026-07-24T11:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "The case for MUDs in modern times (2018)",
+        "link": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
+        "pubDate": "2026-07-24T11:46",
         "feedId": "hn"
       }
     ]
@@ -134,6 +134,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Systems and Delays (2026)",
+        "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+        "pubDate": "2026-07-24T22:11",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Open Weights and American AI Leadership",
         "link": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
         "pubDate": "2026-07-24T14:01",
@@ -164,27 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Fil-C: Garbage In, Memory Safety Out",
-        "link": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
-        "pubDate": "2026-07-23T21:20",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Postgres LISTEN/NOTIFY Actually Scales",
         "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
         "pubDate": "2026-07-24T19:48",
         "feedId": "lobsters"
       },
       {
-        "title": "Watching Go's new garbage collector move through the heap",
-        "link": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-        "pubDate": "2026-07-24T20:34",
+        "title": "Fil-C: Garbage In, Memory Safety Out",
+        "link": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
+        "pubDate": "2026-07-23T21:20",
         "feedId": "lobsters"
       },
       {
-        "title": "A Love Letter to Object Orientation",
-        "link": "https://blog.mempko.com/a-love-letter-to-object-orientation/",
-        "pubDate": "2026-07-24T20:33",
+        "title": "Watching Go's new garbage collector move through the heap",
+        "link": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+        "pubDate": "2026-07-24T20:34",
         "feedId": "lobsters"
       }
     ]
@@ -288,7 +288,7 @@
     "id": "axios",
     "items": [
       {
-        "title": "Scoop: U.S. and U.K. planning international conference on Strait of Hormuz",
+        "title": "Scoop: U.S., U.K. planning international conference on Strait of Hormuz",
         "link": "https://www.axios.com/2026/07/24/hormuz-us-uk-conference-iran",
         "pubDate": "2026-07-24T18:13",
         "feedId": "axios"
@@ -306,7 +306,7 @@
         "feedId": "axios"
       },
       {
-        "title": "Trump to meet Netanyahu at the White House on Tuesday amid Iran escalation",
+        "title": "Trump to meet Netanyahu on Tuesday amid Iran escalation",
         "link": "https://www.axios.com/2026/07/24/trump-netanyahu-white-house-iran",
         "pubDate": "2026-07-24T14:38",
         "feedId": "axios"
