@@ -3,15 +3,27 @@
     "id": "hn",
     "items": [
       {
-        "title": "Patreon laying off 20% of staff",
-        "link": "https://www.patreon.com/jackconte/posts/painful-update-164628951",
-        "pubDate": "2026-07-24T13:02",
+        "title": "Open Weights and American AI Leadership [pdf]",
+        "link": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
+        "pubDate": "2026-07-24T13:58",
         "feedId": "hn"
       },
       {
-        "title": "Eight Newly Produced MQ-9 Reaper Drones Destroyed in Iranian Strike",
-        "link": "https://militarywatchmagazine.com/",
-        "pubDate": "2026-07-24T12:55",
+        "title": "Kaizen #4: Overhauled Homelab",
+        "link": "https://timharek.no/blog/kaizen-4/",
+        "pubDate": "2026-07-24T13:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "Oracle fires 21,000 employees to fund AI spending",
+        "link": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442",
+        "pubDate": "2026-07-24T13:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Patreon laying off 20% of staff",
+        "link": "https://www.patreon.com/jackconte/posts/painful-update-164628951",
+        "pubDate": "2026-07-24T13:02",
         "feedId": "hn"
       },
       {
@@ -33,21 +45,9 @@
         "feedId": "hn"
       },
       {
-        "title": "I Tried Building a Real App with AI. It Took a Year",
-        "link": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
-        "pubDate": "2026-07-24T12:00",
-        "feedId": "hn"
-      },
-      {
         "title": "My security camera shipped a GitHub admin token in its login page",
         "link": "https://hhh.hn/hanwha-github-token/",
         "pubDate": "2026-07-24T11:54",
-        "feedId": "hn"
-      },
-      {
-        "title": "The case for MUDs in modern times",
-        "link": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
-        "pubDate": "2026-07-24T11:46",
         "feedId": "hn"
       },
       {
@@ -69,12 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Launching Health in ChatGPT to US Users",
-        "link": "https://openai.com/index/health-in-chatgpt/",
-        "pubDate": "2026-07-24T10:09",
-        "feedId": "hn"
-      },
-      {
         "title": "IRGC Claims It Destroyed Amazon's Bahrain Data Center",
         "link": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
         "pubDate": "2026-07-24T09:52",
@@ -90,6 +84,12 @@
         "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
         "link": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
         "pubDate": "2026-07-24T09:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "Hetzner is working on LLM Inference",
+        "link": "https://sliplane.io/blog/hetzner-inference",
+        "pubDate": "2026-07-24T09:24",
         "feedId": "hn"
       }
     ]
@@ -134,15 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Jolt: running Clojure on Chez Scheme",
-        "link": "https://yogthos.net/posts/2026-07-02-jolt.html",
-        "pubDate": "2026-07-23T20:54",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Fil-C: Garbage In, Memory Safety Out",
         "link": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
         "pubDate": "2026-07-23T21:20",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Jolt: running Clojure on Chez Scheme",
+        "link": "https://yogthos.net/posts/2026-07-02-jolt.html",
+        "pubDate": "2026-07-23T20:54",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +158,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "On Accountability",
+        "link": "https://addisoncrump.info/research/on-accountability/",
+        "pubDate": "2026-07-23T13:01",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The PImpl idiom and the C++26 std::indirect type",
         "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
         "pubDate": "2026-07-23T16:58",
         "feedId": "lobsters"
       },
       {
-        "title": "On Accountability",
-        "link": "https://addisoncrump.info/research/on-accountability/",
-        "pubDate": "2026-07-23T13:01",
+        "title": "Software Should Work Worked",
+        "link": "https://isaacvando.com/software-should-work-worked",
+        "pubDate": "2026-07-23T18:50",
         "feedId": "lobsters"
       },
       {
@@ -179,12 +185,6 @@
         "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
         "link": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
         "pubDate": "2026-07-23T01:54",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "WebAIM 2026 report on Accessibility errors across the top 1M web pages",
-        "link": "https://webaim.org/projects/million/#errors",
-        "pubDate": "2026-07-24T05:41",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Drones have created a new energy security landscape",
+        "link": "https://www.axios.com/2026/07/24/drones-energy-security-prices-iran-ukraine",
+        "pubDate": "2026-07-24T12:38",
+        "feedId": "axios"
+      },
+      {
         "title": "Behind the Curtain: The AI titans' biggest private fear",
         "link": "https://www.axios.com/2026/07/24/ai-risk-bioweapons",
         "pubDate": "2026-07-24T09:53",
@@ -309,6 +315,12 @@
         "title": "It's one choke point after another in the global economy",
         "link": "https://www.axios.com/2026/07/24/choke-point-oil-strait-economy",
         "pubDate": "2026-07-24T09:10",
+        "feedId": "axios"
+      },
+      {
+        "title": "The people testing AI for danger are having a hard time keeping up",
+        "link": "https://www.axios.com/2026/07/24/ai-safety-security-testing-hugging-face",
+        "pubDate": "2026-07-24T08:25",
         "feedId": "axios"
       },
       {
@@ -363,18 +375,6 @@
         "title": "Investors want a bigger reward for lending money",
         "link": "https://www.axios.com/2026/07/23/rates-treasury-yields-borrowing",
         "pubDate": "2026-07-23T16:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Low layoff rates defy AI jobs domination fears",
-        "link": "https://www.axios.com/2026/07/23/jobless-claims-unemployment-ai",
-        "pubDate": "2026-07-23T15:58",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: Trump \"close\" to decision on \"massive attack\" on Iran",
-        "link": "https://www.axios.com/2026/07/23/trump-axios-iran-interview",
-        "pubDate": "2026-07-23T15:28",
         "feedId": "axios"
       }
     ]
