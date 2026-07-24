@@ -3,15 +3,57 @@
     "id": "hn",
     "items": [
       {
+        "title": "German battery maker Varta files insolvency applications",
+        "link": "https://www.reuters.com/business/german-battery-maker-varta-files-insolvency-applications-2026-07-24/",
+        "pubDate": "2026-07-24T11:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "The case for MUDs in modern times",
+        "link": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
+        "pubDate": "2026-07-24T11:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "The IBM PC, Part 1: Arrival",
+        "link": "https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/",
+        "pubDate": "2026-07-24T11:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "Game of Trees – Git-based version control from OpenBSD folks",
+        "link": "https://www.gameoftrees.org/",
+        "pubDate": "2026-07-24T10:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "Launching Health in ChatGPT to US Users",
+        "link": "https://openai.com/index/health-in-chatgpt/",
+        "pubDate": "2026-07-24T10:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Audio Player with \"Binaural Beats\" tuned to the same key as your music",
+        "link": "https://github.com/henrygabriels/binaural-studio",
+        "pubDate": "2026-07-24T10:01",
+        "feedId": "hn"
+      },
+      {
         "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
         "link": "https://bfl.ai/blog/flux-3-mimic",
         "pubDate": "2026-07-24T09:31",
         "feedId": "hn"
       },
       {
-        "title": "Future euro banknote design proposals",
-        "link": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html",
-        "pubDate": "2026-07-24T09:29",
+        "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
+        "link": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
+        "pubDate": "2026-07-24T09:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "Hetzner is working on LLM Inference",
+        "link": "https://sliplane.io/blog/hetzner-inference",
+        "pubDate": "2026-07-24T09:24",
         "feedId": "hn"
       },
       {
@@ -39,57 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "The Ever-Receding Pocket",
-        "link": "https://zhenyi.gibber.blog/the-ever-receding-pocket",
-        "pubDate": "2026-07-24T07:22",
-        "feedId": "hn"
-      },
-      {
         "title": "The PImpl idiom and the C++26 std:indirect type",
         "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
         "pubDate": "2026-07-24T07:02",
         "feedId": "hn"
       },
       {
-        "title": "Flux 3",
-        "link": "https://bfl.ai/blog/flux-3",
-        "pubDate": "2026-07-24T06:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "Claude Cookbook",
-        "link": "https://platform.claude.com/cookbook/",
-        "pubDate": "2026-07-24T05:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "98.css",
-        "link": "https://jdan.github.io/98.css/#status-bar",
-        "pubDate": "2026-07-23T22:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
-        "link": "https://news.ycombinator.com/item?id=49026810",
-        "pubDate": "2026-07-23T19:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Building on ATProto",
-        "link": "https://lukekanies.com/writing/building-on-atproto/",
-        "pubDate": "2026-07-23T18:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "A solid-state “atomic channel” for separating rare earth elements",
-        "link": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements",
-        "pubDate": "2026-07-23T18:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why Sony can't bring back its classic Walkman models",
-        "link": "https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman",
-        "pubDate": "2026-07-23T18:08",
+        "title": "AMD's Instinct MI455X: Aiming for the Sun",
+        "link": "https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the",
+        "pubDate": "2026-07-24T06:59",
         "feedId": "hn"
       }
     ]
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Justif: Knuth-Plass justification and microtypography for the web",
-        "link": "https://justif.lyall.co/",
-        "pubDate": "2026-07-23T09:30",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Making GIFs from 35mm film photography",
         "link": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
         "pubDate": "2026-07-24T05:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Justif: Knuth-Plass justification and microtypography for the web",
+        "link": "https://justif.lyall.co/",
+        "pubDate": "2026-07-23T09:30",
         "feedId": "lobsters"
       },
       {
@@ -134,6 +134,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Fil-C: Garbage In, Memory Safety Out",
+        "link": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
+        "pubDate": "2026-07-23T21:20",
+        "feedId": "lobsters"
+      },
+      {
         "title": "FreeBSD ports frozen",
         "link": "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/",
         "pubDate": "2026-07-24T05:05",
@@ -146,21 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Fil-C: Garbage In, Memory Safety Out",
-        "link": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
-        "pubDate": "2026-07-23T21:20",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Calm technologies that excite me",
         "link": "https://abhi.now/blog/calm-technologies/",
         "pubDate": "2026-07-23T02:26",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The PImpl idiom and the C++26 std::indirect type",
-        "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
-        "pubDate": "2026-07-23T16:58",
         "feedId": "lobsters"
       },
       {
@@ -170,15 +164,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "The PImpl idiom and the C++26 std::indirect type",
+        "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+        "pubDate": "2026-07-23T16:58",
+        "feedId": "lobsters"
+      },
+      {
         "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
         "link": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
         "pubDate": "2026-07-23T01:54",
         "feedId": "lobsters"
       },
       {
-        "title": "The first known runaway AI agent - or a very bad marketing stunt?",
-        "link": "https://martinalderson.com/posts/huggingface-openai-exploit/",
-        "pubDate": "2026-07-23T10:16",
+        "title": "WebAIM 2026 report on Accessibility errors across the top 1M web pages",
+        "link": "https://webaim.org/projects/million/#errors",
+        "pubDate": "2026-07-24T05:41",
         "feedId": "lobsters"
       },
       {
@@ -294,6 +294,12 @@
         "feedId": "axios"
       },
       {
+        "title": "White House draws new AI line on China",
+        "link": "https://www.axios.com/2026/07/24/white-house-ai-line-china",
+        "pubDate": "2026-07-24T09:15",
+        "feedId": "axios"
+      },
+      {
         "title": "Republicans skeptical Darline Graham can win a full Senate term",
         "link": "https://www.axios.com/2026/07/24/gop-senate-darline-graham-election",
         "pubDate": "2026-07-24T09:10",
@@ -369,12 +375,6 @@
         "title": "Exclusive: Trump \"close\" to decision on \"massive attack\" on Iran",
         "link": "https://www.axios.com/2026/07/23/trump-axios-iran-interview",
         "pubDate": "2026-07-23T15:28",
-        "feedId": "axios"
-      },
-      {
-        "title": "House rebukes Trump's war in Iran",
-        "link": "https://www.axios.com/2026/07/23/iran-war-powers-vote-house-republicans-trump",
-        "pubDate": "2026-07-23T14:34",
         "feedId": "axios"
       }
     ]
