@@ -3,9 +3,45 @@
     "id": "hn",
     "items": [
       {
-        "title": "German battery maker Varta files insolvency applications",
-        "link": "https://www.reuters.com/business/german-battery-maker-varta-files-insolvency-applications-2026-07-24/",
-        "pubDate": "2026-07-24T11:46",
+        "title": "Patreon laying off 20% of staff",
+        "link": "https://www.patreon.com/jackconte/posts/painful-update-164628951",
+        "pubDate": "2026-07-24T13:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "Eight Newly Produced MQ-9 Reaper Drones Destroyed in Iranian Strike",
+        "link": "https://militarywatchmagazine.com/",
+        "pubDate": "2026-07-24T12:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Em dashes are fucking amazing",
+        "link": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
+        "pubDate": "2026-07-24T12:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country code",
+        "link": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
+        "pubDate": "2026-07-24T12:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why is programming so captivating, yet so agonizing?",
+        "link": "https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing",
+        "pubDate": "2026-07-24T12:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "I Tried Building a Real App with AI. It Took a Year",
+        "link": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
+        "pubDate": "2026-07-24T12:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "My security camera shipped a GitHub admin token in its login page",
+        "link": "https://hhh.hn/hanwha-github-token/",
+        "pubDate": "2026-07-24T11:54",
         "feedId": "hn"
       },
       {
@@ -27,15 +63,21 @@
         "feedId": "hn"
       },
       {
+        "title": "How Do We Stop Vibe Coding?",
+        "link": "https://alexklos.ca/blog/how-do-we-stop-vibe-coding",
+        "pubDate": "2026-07-24T10:12",
+        "feedId": "hn"
+      },
+      {
         "title": "Launching Health in ChatGPT to US Users",
         "link": "https://openai.com/index/health-in-chatgpt/",
         "pubDate": "2026-07-24T10:09",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Audio Player with \"Binaural Beats\" tuned to the same key as your music",
-        "link": "https://github.com/henrygabriels/binaural-studio",
-        "pubDate": "2026-07-24T10:01",
+        "title": "IRGC Claims It Destroyed Amazon's Bahrain Data Center",
+        "link": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+        "pubDate": "2026-07-24T09:52",
         "feedId": "hn"
       },
       {
@@ -48,48 +90,6 @@
         "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
         "link": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
         "pubDate": "2026-07-24T09:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hetzner is working on LLM Inference",
-        "link": "https://sliplane.io/blog/hetzner-inference",
-        "pubDate": "2026-07-24T09:24",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nothing works and everyone is euphoric",
-        "link": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-        "pubDate": "2026-07-24T09:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "The day Steve Jobs dissed me in a keynote (2010)",
-        "link": "https://sive.rs/itunes",
-        "pubDate": "2026-07-24T09:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Book Prize Index",
-        "link": "https://book-prize-index.vercel.app",
-        "pubDate": "2026-07-24T08:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "It's getting harder to focus every day",
-        "link": "https://glyphack.com/attention/",
-        "pubDate": "2026-07-24T08:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "The PImpl idiom and the C++26 std:indirect type",
-        "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
-        "pubDate": "2026-07-24T07:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "AMD's Instinct MI455X: Aiming for the Sun",
-        "link": "https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the",
-        "pubDate": "2026-07-24T06:59",
         "feedId": "hn"
       }
     ]
@@ -128,6 +128,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "FreeBSD ports frozen",
+        "link": "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/",
+        "pubDate": "2026-07-24T05:05",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Jolt: running Clojure on Chez Scheme",
         "link": "https://yogthos.net/posts/2026-07-02-jolt.html",
         "pubDate": "2026-07-23T20:54",
@@ -137,12 +143,6 @@
         "title": "Fil-C: Garbage In, Memory Safety Out",
         "link": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
         "pubDate": "2026-07-23T21:20",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "FreeBSD ports frozen",
-        "link": "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/",
-        "pubDate": "2026-07-24T05:05",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +158,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "The PImpl idiom and the C++26 std::indirect type",
+        "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+        "pubDate": "2026-07-23T16:58",
+        "feedId": "lobsters"
+      },
+      {
         "title": "On Accountability",
         "link": "https://addisoncrump.info/research/on-accountability/",
         "pubDate": "2026-07-23T13:01",
         "feedId": "lobsters"
       },
       {
-        "title": "The PImpl idiom and the C++26 std::indirect type",
-        "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
-        "pubDate": "2026-07-23T16:58",
+        "title": "The case for MUDs in modern times",
+        "link": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
+        "pubDate": "2026-07-24T09:56",
         "feedId": "lobsters"
       },
       {
@@ -180,18 +186,18 @@
         "link": "https://webaim.org/projects/million/#errors",
         "pubDate": "2026-07-24T05:41",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Software Should Work Worked",
-        "link": "https://isaacvando.com/software-should-work-worked",
-        "pubDate": "2026-07-23T18:50",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
+        "link": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
+        "pubDate": "2026-07-24T11:20",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
         "link": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
@@ -217,7 +223,7 @@
         "feedId": "arstechnica"
       },
       {
-        "title": "Final Coyote vs. Acme trailer drops at SDCC",
+        "title": "Tweety gets the third degree in final Coyote vs. Acme trailer",
         "link": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
         "pubDate": "2026-07-23T18:01",
         "feedId": "arstechnica"
@@ -274,12 +280,6 @@
         "title": "Sales were up at Tesla but so were costs and spending",
         "link": "https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/",
         "pubDate": "2026-07-22T21:15",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Microsoft brings original Xbox backward compatibility to Windows PCs",
-        "link": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
-        "pubDate": "2026-07-22T20:36",
         "feedId": "arstechnica"
       }
     ]
