@@ -15,7 +15,7 @@
         "feedId": "hn"
       },
       {
-        "title": "I got into YC by hacking it",
+        "title": "I got into YC (Startup School) by hacking it",
         "link": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
         "pubDate": "2026-07-24T18:03",
         "feedId": "hn"
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Don't take the black pill",
-        "link": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-        "pubDate": "2026-07-24T14:24",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Making GIFs from 35mm film photography",
         "link": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
         "pubDate": "2026-07-24T05:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Don't take the black pill",
+        "link": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
+        "pubDate": "2026-07-24T14:24",
         "feedId": "lobsters"
       },
       {
@@ -116,15 +116,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/rbfmuh/what_are_you_doing_this_weekend",
+        "pubDate": "2026-07-24T14:38",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Everyone Should Know SIMD",
         "link": "https://mitchellh.com/writing/everyone-should-know-simd",
         "pubDate": "2026-07-23T15:33",
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/rbfmuh/what_are_you_doing_this_weekend",
-        "pubDate": "2026-07-24T14:38",
+        "title": "You should selfhost your mail (in 2026)",
+        "link": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
+        "pubDate": "2026-07-23T21:10",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "You should selfhost your mail (in 2026)",
-        "link": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
-        "pubDate": "2026-07-23T21:10",
+        "title": "git rebase -i is not that scary",
+        "link": "https://cachebag.sh/journal/interactive-rebasing/",
+        "pubDate": "2026-07-24T17:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Open Weights and American AI Leadership",
+        "link": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
+        "pubDate": "2026-07-24T14:01",
         "feedId": "lobsters"
       },
       {
@@ -152,39 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Open Weights and American AI Leadership",
-        "link": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
-        "pubDate": "2026-07-24T14:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "git rebase -i is not that scary",
-        "link": "https://cachebag.sh/journal/interactive-rebasing/",
-        "pubDate": "2026-07-24T17:41",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Jolt: running Clojure on Chez Scheme",
         "link": "https://yogthos.net/posts/2026-07-02-jolt.html",
         "pubDate": "2026-07-23T20:54",
         "feedId": "lobsters"
       },
       {
-        "title": "Protecting our FLOSS commons from LLMs",
-        "link": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
-        "pubDate": "2026-07-23T01:04",
+        "title": "Delightful integration tests in Rust",
+        "link": "https://github.com/alexpusch/rust-magic-patterns/blob/master/delightful-integration-tests/Readme.md",
+        "pubDate": "2026-07-24T20:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Interview with a Maintainer",
+        "link": "https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html",
+        "pubDate": "2026-07-24T13:54",
         "feedId": "lobsters"
       },
       {
         "title": "Make an Origami Circuit Board",
         "link": "https://spectrum.ieee.org/origami-circuit-boards",
         "pubDate": "2026-07-24T13:26",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "ffi_call_plan caching for GLib",
-        "link": "https://blogs.gnome.org/chergert/2026/07/24/ffi_call_plan-caching-for-glib/",
-        "pubDate": "2026-07-24T17:10",
         "feedId": "lobsters"
       }
     ]
