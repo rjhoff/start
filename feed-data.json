@@ -21,12 +21,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Tell HN: Namecheap gave my account to an unverified third party",
-        "link": "https://news.ycombinator.com/item?id=49028037",
-        "pubDate": "2026-07-23T21:05",
-        "feedId": "hn"
-      },
-      {
         "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
         "link": "https://news.ycombinator.com/item?id=49026810",
         "pubDate": "2026-07-23T19:26",
@@ -91,6 +85,12 @@
         "link": "https://github.com/palmier-io/palmier-pro",
         "pubDate": "2026-07-23T15:11",
         "feedId": "hn"
+      },
+      {
+        "title": "Learn WebGPU for C++",
+        "link": "https://eliemichel.github.io/LearnWebGPU/",
+        "pubDate": "2026-07-23T14:55",
+        "feedId": "hn"
       }
     ]
   },
@@ -122,6 +122,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Jolt: running Clojure on Chez Scheme",
+        "link": "https://yogthos.net/posts/2026-07-02-jolt.html",
+        "pubDate": "2026-07-23T20:54",
+        "feedId": "lobsters"
+      },
+      {
         "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
         "link": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
         "pubDate": "2026-07-23T01:54",
@@ -134,15 +140,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "You should selfhost your mail (in 2026)",
+        "link": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
+        "pubDate": "2026-07-23T21:10",
+        "feedId": "lobsters"
+      },
+      {
         "title": "agent-shell 0.63 updates",
         "link": "https://xenodium.com/agent-shell-0-63-updates",
         "pubDate": "2026-07-23T18:42",
         "feedId": "lobsters"
       },
       {
-        "title": "Jolt: running Clojure on Chez Scheme",
-        "link": "https://yogthos.net/posts/2026-07-02-jolt.html",
-        "pubDate": "2026-07-23T20:54",
+        "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+        "link": "https://martinalderson.com/posts/huggingface-openai-exploit/",
+        "pubDate": "2026-07-23T10:16",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +164,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why care about programming languages",
-        "link": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
-        "pubDate": "2026-07-22T21:33",
+        "title": "Fil-C: Garbage In, Memory Safety Out",
+        "link": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
+        "pubDate": "2026-07-23T21:20",
         "feedId": "lobsters"
       },
       {
-        "title": "The first known runaway AI agent - or a very bad marketing stunt?",
-        "link": "https://martinalderson.com/posts/huggingface-openai-exploit/",
-        "pubDate": "2026-07-23T10:16",
+        "title": "Why care about programming languages",
+        "link": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
+        "pubDate": "2026-07-22T21:33",
         "feedId": "lobsters"
       },
       {
@@ -173,18 +185,6 @@
         "title": "Silent Replacement of Trusted macOS App Executables",
         "link": "https://mysk.blog/2026/07/23/macos-overwrite-app-executables/",
         "pubDate": "2026-07-23T13:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Prompt Caching In Agents",
-        "link": "https://earendil.com/posts/prompt-caching/",
-        "pubDate": "2026-07-23T18:04",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "You should selfhost your mail (in 2026)",
-        "link": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
-        "pubDate": "2026-07-23T21:10",
         "feedId": "lobsters"
       }
     ]
@@ -306,6 +306,12 @@
         "feedId": "axios"
       },
       {
+        "title": "Cyclosporiasis: Case rates rise in five outbreak states",
+        "link": "https://www.axios.com/2026/07/23/cyclosporiasis-cases-rates-rise-outbreak-states",
+        "pubDate": "2026-07-23T19:06",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump says Saudi nuclear deal bars enrichment, requires Israel normalization",
         "link": "https://www.axios.com/2026/07/23/url-slug-trump-saudi-nuclear-deal-enrichment-israel",
         "pubDate": "2026-07-23T16:49",
@@ -369,12 +375,6 @@
         "title": "The world is crazy, but stocks are up?",
         "link": "https://www.axios.com/2026/07/23/moodys-markets-geopolitics-world",
         "pubDate": "2026-07-23T09:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "What it's like inside the data centers powering the AI boom",
-        "link": "https://www.axios.com/2026/07/23/inside-data-centers-powering-ai-boom",
-        "pubDate": "2026-07-23T09:15",
         "feedId": "axios"
       }
     ]
