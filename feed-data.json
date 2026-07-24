@@ -3,21 +3,33 @@
     "id": "hn",
     "items": [
       {
+        "title": "Police Removed Prominent Scientists from the ADA Meeting. Researchers Respond",
+        "link": "https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607",
+        "pubDate": "2026-07-24T02:06",
+        "feedId": "hn"
+      },
+      {
         "title": "The Visual 6502",
         "link": "http://visual6502.org/JSSim/index.html",
         "pubDate": "2026-07-23T23:36",
         "feedId": "hn"
       },
       {
-        "title": "A Taxonomy of Omnicidal Futures Involving Artificial Intelligence",
-        "link": "https://arxiv.org/abs/2507.09369",
-        "pubDate": "2026-07-23T22:51",
-        "feedId": "hn"
-      },
-      {
         "title": "98.css",
         "link": "https://jdan.github.io/98.css/#status-bar",
         "pubDate": "2026-07-23T22:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
+        "link": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
+        "pubDate": "2026-07-23T20:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "Mourning Dan Williams",
+        "link": "https://lwn.net/Articles/1084545/",
+        "pubDate": "2026-07-23T19:46",
         "feedId": "hn"
       },
       {
@@ -36,6 +48,12 @@
         "title": "A solid-state “atomic channel” for separating rare earth elements",
         "link": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements",
         "pubDate": "2026-07-23T18:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why Sony can't bring back its classic Walkman models",
+        "link": "https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman",
+        "pubDate": "2026-07-23T18:08",
         "feedId": "hn"
       },
       {
@@ -73,24 +91,6 @@
         "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
         "pubDate": "2026-07-23T15:18",
         "feedId": "hn"
-      },
-      {
-        "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-        "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-        "pubDate": "2026-07-23T15:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
-        "link": "https://github.com/palmier-io/palmier-pro",
-        "pubDate": "2026-07-23T15:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "Learn WebGPU for C++",
-        "link": "https://eliemichel.github.io/LearnWebGPU/",
-        "pubDate": "2026-07-23T14:55",
-        "feedId": "hn"
       }
     ]
   },
@@ -116,27 +116,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Calm technologies that excite me",
-        "link": "https://abhi.now/blog/calm-technologies/",
-        "pubDate": "2026-07-23T02:26",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Jolt: running Clojure on Chez Scheme",
         "link": "https://yogthos.net/posts/2026-07-02-jolt.html",
         "pubDate": "2026-07-23T20:54",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
-        "link": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
-        "pubDate": "2026-07-23T01:54",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "On Accountability",
-        "link": "https://addisoncrump.info/research/on-accountability/",
-        "pubDate": "2026-07-23T13:01",
         "feedId": "lobsters"
       },
       {
@@ -146,21 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "agent-shell 0.63 updates",
-        "link": "https://xenodium.com/agent-shell-0-63-updates",
-        "pubDate": "2026-07-23T18:42",
+        "title": "Calm technologies that excite me",
+        "link": "https://abhi.now/blog/calm-technologies/",
+        "pubDate": "2026-07-23T02:26",
         "feedId": "lobsters"
       },
       {
-        "title": "The first known runaway AI agent - or a very bad marketing stunt?",
-        "link": "https://martinalderson.com/posts/huggingface-openai-exploit/",
-        "pubDate": "2026-07-23T10:16",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "John C. Dvorak has died",
-        "link": "http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html",
-        "pubDate": "2026-07-23T02:09",
+        "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+        "link": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+        "pubDate": "2026-07-23T01:54",
         "feedId": "lobsters"
       },
       {
@@ -170,9 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why care about programming languages",
-        "link": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
-        "pubDate": "2026-07-22T21:33",
+        "title": "On Accountability",
+        "link": "https://addisoncrump.info/research/on-accountability/",
+        "pubDate": "2026-07-23T13:01",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+        "link": "https://martinalderson.com/posts/huggingface-openai-exploit/",
+        "pubDate": "2026-07-23T10:16",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +164,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "John C. Dvorak has died",
+        "link": "http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html",
+        "pubDate": "2026-07-23T02:09",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Silent Replacement of Trusted macOS App Executables",
         "link": "https://mysk.blog/2026/07/23/macos-overwrite-app-executables/",
         "pubDate": "2026-07-23T13:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why care about programming languages",
+        "link": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
+        "pubDate": "2026-07-22T21:33",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "agent-shell 0.63 updates",
+        "link": "https://xenodium.com/agent-shell-0-63-updates",
+        "pubDate": "2026-07-23T18:42",
         "feedId": "lobsters"
       }
     ]
@@ -294,9 +294,9 @@
         "feedId": "axios"
       },
       {
-        "title": "Europe just fined Google $1 billion, the day before Trump is expected to announce tariffs",
-        "link": "https://www.axios.com/2026/07/23/eu-google-billion-fine-search-play-store",
-        "pubDate": "2026-07-23T22:28",
+        "title": "Senate preparing to vote on Russia sanctions next week",
+        "link": "https://www.axios.com/2026/07/23/senate-russia-sanctions-iran-vote",
+        "pubDate": "2026-07-23T22:49",
         "feedId": "axios"
       },
       {
@@ -306,9 +306,21 @@
         "feedId": "axios"
       },
       {
+        "title": "DOJ drops New York Times subpoenas over Air Force 1 reports",
+        "link": "https://www.axios.com/2026/07/23/trump-doj-withdraws-new-york-times-subpoenas",
+        "pubDate": "2026-07-23T21:11",
+        "feedId": "axios"
+      },
+      {
         "title": "Cyclosporiasis: Case rates rise in five outbreak states",
         "link": "https://www.axios.com/2026/07/23/cyclosporiasis-cases-rates-rise-outbreak-states",
         "pubDate": "2026-07-23T19:06",
+        "feedId": "axios"
+      },
+      {
+        "title": "Melissa and Mark Hortman's killer gets consecutive life sentences",
+        "link": "https://www.axios.com/local/twin-cities/2026/07/23/vance-boelter-sentenced-life-hortman-assasinations",
+        "pubDate": "2026-07-23T17:36",
         "feedId": "axios"
       },
       {
@@ -363,18 +375,6 @@
         "title": "Mark Zuckerberg launches AI optimism campaign",
         "link": "https://www.axios.com/2026/07/23/mark-zuckerberg-ai-optimism",
         "pubDate": "2026-07-23T10:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Nvidia CEO to Washington: Don't fall for \"science fiction\" AI fear",
-        "link": "https://www.axios.com/2026/07/23/nvidia-ceo-kimi-ai-fears-trump-washington",
-        "pubDate": "2026-07-23T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "The world is crazy, but stocks are up?",
-        "link": "https://www.axios.com/2026/07/23/moodys-markets-geopolitics-world",
-        "pubDate": "2026-07-23T09:20",
         "feedId": "axios"
       }
     ]
