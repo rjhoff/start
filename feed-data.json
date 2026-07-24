@@ -9,15 +9,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-        "link": "https://www.bbc.com/news/articles/cvg9n2y61w6o",
-        "pubDate": "2026-07-24T06:36",
-        "feedId": "hn"
-      },
-      {
         "title": "Flux 3",
         "link": "https://bfl.ai/blog/flux-3",
         "pubDate": "2026-07-24T06:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "Claude Cookbook",
+        "link": "https://platform.claude.com/cookbook/",
+        "pubDate": "2026-07-24T05:09",
         "feedId": "hn"
       },
       {
@@ -30,12 +30,6 @@
         "title": "98.css",
         "link": "https://jdan.github.io/98.css/#status-bar",
         "pubDate": "2026-07-23T22:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
-        "link": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
-        "pubDate": "2026-07-23T20:52",
         "feedId": "hn"
       },
       {
@@ -87,9 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
-        "link": "https://github.com/onecli/onecli",
-        "pubDate": "2026-07-23T15:42",
+        "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+        "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+        "pubDate": "2026-07-23T15:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+        "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+        "pubDate": "2026-07-23T15:18",
         "feedId": "hn"
       }
     ]
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Everyone Should Know SIMD",
-        "link": "https://mitchellh.com/writing/everyone-should-know-simd",
-        "pubDate": "2026-07-23T15:33",
-        "feedId": "lobsters"
-      },
-      {
         "title": "I Regret Migrating to Codeberg",
         "link": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
         "pubDate": "2026-07-24T05:05",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Everyone Should Know SIMD",
+        "link": "https://mitchellh.com/writing/everyone-should-know-simd",
+        "pubDate": "2026-07-23T15:33",
         "feedId": "lobsters"
       },
       {
@@ -122,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Jolt: running Clojure on Chez Scheme",
-        "link": "https://yogthos.net/posts/2026-07-02-jolt.html",
-        "pubDate": "2026-07-23T20:54",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Making GIFs from 35mm film photography",
         "link": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
         "pubDate": "2026-07-24T05:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Jolt: running Clojure on Chez Scheme",
+        "link": "https://yogthos.net/posts/2026-07-02-jolt.html",
+        "pubDate": "2026-07-23T20:54",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
-        "link": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
-        "pubDate": "2026-07-23T01:54",
+        "title": "On Accountability",
+        "link": "https://addisoncrump.info/research/on-accountability/",
+        "pubDate": "2026-07-23T13:01",
         "feedId": "lobsters"
       },
       {
@@ -170,9 +170,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "On Accountability",
-        "link": "https://addisoncrump.info/research/on-accountability/",
-        "pubDate": "2026-07-23T13:01",
+        "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+        "link": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+        "pubDate": "2026-07-23T01:54",
         "feedId": "lobsters"
       },
       {
