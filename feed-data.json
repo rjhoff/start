@@ -3,9 +3,45 @@
     "id": "hn",
     "items": [
       {
+        "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+        "link": "https://bfl.ai/blog/flux-3-mimic",
+        "pubDate": "2026-07-24T09:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "Future euro banknote design proposals",
+        "link": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html",
+        "pubDate": "2026-07-24T09:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nothing works and everyone is euphoric",
+        "link": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+        "pubDate": "2026-07-24T09:08",
+        "feedId": "hn"
+      },
+      {
         "title": "The day Steve Jobs dissed me in a keynote (2010)",
         "link": "https://sive.rs/itunes",
         "pubDate": "2026-07-24T09:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Book Prize Index",
+        "link": "https://book-prize-index.vercel.app",
+        "pubDate": "2026-07-24T08:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "It's getting harder to focus every day",
+        "link": "https://glyphack.com/attention/",
+        "pubDate": "2026-07-24T08:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Ever-Receding Pocket",
+        "link": "https://zhenyi.gibber.blog/the-ever-receding-pocket",
+        "pubDate": "2026-07-24T07:22",
         "feedId": "hn"
       },
       {
@@ -27,21 +63,9 @@
         "feedId": "hn"
       },
       {
-        "title": "The Visual 6502",
-        "link": "http://visual6502.org/JSSim/index.html",
-        "pubDate": "2026-07-23T23:36",
-        "feedId": "hn"
-      },
-      {
         "title": "98.css",
         "link": "https://jdan.github.io/98.css/#status-bar",
         "pubDate": "2026-07-23T22:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "Mourning Dan Williams",
-        "link": "https://lwn.net/Articles/1084545/",
-        "pubDate": "2026-07-23T19:46",
         "feedId": "hn"
       },
       {
@@ -67,30 +91,6 @@
         "link": "https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman",
         "pubDate": "2026-07-23T18:08",
         "feedId": "hn"
-      },
-      {
-        "title": "What happened to TheNumbers.com",
-        "link": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-        "pubDate": "2026-07-23T16:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "The arguments against open source AI are bad",
-        "link": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
-        "pubDate": "2026-07-23T16:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
-        "link": "https://news.ycombinator.com/item?id=49024620",
-        "pubDate": "2026-07-23T16:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-        "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-        "pubDate": "2026-07-23T15:18",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Everyone Should Know SIMD",
-        "link": "https://mitchellh.com/writing/everyone-should-know-simd",
-        "pubDate": "2026-07-23T15:33",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Making GIFs from 35mm film photography",
         "link": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
         "pubDate": "2026-07-24T05:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Everyone Should Know SIMD",
+        "link": "https://mitchellh.com/writing/everyone-should-know-simd",
+        "pubDate": "2026-07-23T15:33",
         "feedId": "lobsters"
       },
       {
@@ -134,27 +134,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Protecting our FLOSS commons from LLMs",
-        "link": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
-        "pubDate": "2026-07-23T01:04",
-        "feedId": "lobsters"
-      },
-      {
         "title": "FreeBSD ports frozen",
         "link": "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/",
         "pubDate": "2026-07-24T05:05",
         "feedId": "lobsters"
       },
       {
-        "title": "Calm technologies that excite me",
-        "link": "https://abhi.now/blog/calm-technologies/",
-        "pubDate": "2026-07-23T02:26",
+        "title": "Protecting our FLOSS commons from LLMs",
+        "link": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+        "pubDate": "2026-07-23T01:04",
         "feedId": "lobsters"
       },
       {
         "title": "Fil-C: Garbage In, Memory Safety Out",
         "link": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
         "pubDate": "2026-07-23T21:20",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Calm technologies that excite me",
+        "link": "https://abhi.now/blog/calm-technologies/",
+        "pubDate": "2026-07-23T02:26",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "WebAIM 2026 report on Accessibility errors across the top 1M web pages",
-        "link": "https://webaim.org/projects/million/#errors",
-        "pubDate": "2026-07-24T05:41",
+        "title": "Software Should Work Worked",
+        "link": "https://isaacvando.com/software-should-work-worked",
+        "pubDate": "2026-07-23T18:50",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Behind the Curtain: The AI titans' biggest private fear",
+        "link": "https://www.axios.com/2026/07/24/ai-risk-bioweapons",
+        "pubDate": "2026-07-24T09:53",
+        "feedId": "axios"
+      },
+      {
         "title": "Republicans skeptical Darline Graham can win a full Senate term",
         "link": "https://www.axios.com/2026/07/24/gop-senate-darline-graham-election",
         "pubDate": "2026-07-24T09:10",
@@ -369,12 +375,6 @@
         "title": "House rebukes Trump's war in Iran",
         "link": "https://www.axios.com/2026/07/23/iran-war-powers-vote-house-republicans-trump",
         "pubDate": "2026-07-23T14:34",
-        "feedId": "axios"
-      },
-      {
-        "title": "Google's Gemini delay exposes a deeper problem: employee frustration",
-        "link": "https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race",
-        "pubDate": "2026-07-23T13:00",
         "feedId": "axios"
       }
     ]
