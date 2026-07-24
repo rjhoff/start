@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "The Visual 6502",
+        "link": "http://visual6502.org/JSSim/index.html",
+        "pubDate": "2026-07-23T23:36",
+        "feedId": "hn"
+      },
+      {
         "title": "A Taxonomy of Omnicidal Futures Involving Artificial Intelligence",
         "link": "https://arxiv.org/abs/2507.09369",
         "pubDate": "2026-07-23T22:51",
@@ -15,21 +21,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Building watchable digital twins of 64 World Cup games",
-        "link": "https://rogerdickey.com/building-watchable-digital-twins-of-64-world-cup-games/",
-        "pubDate": "2026-07-23T22:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "Namecheap Gave My Account to an Unverified Third Party Just Because They Asked",
+        "title": "Tell HN: Namecheap gave my account to an unverified third party",
         "link": "https://news.ycombinator.com/item?id=49028037",
         "pubDate": "2026-07-23T21:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
-        "link": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
-        "pubDate": "2026-07-23T20:52",
         "feedId": "hn"
       },
       {
@@ -51,9 +45,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Geekbench 7",
-        "link": "https://www.geekbench.com/blog/2026/07/geekbench-7/",
-        "pubDate": "2026-07-23T18:11",
+        "title": "Show HN: Claude-thermos keeps your Claude session warm for you",
+        "link": "https://github.com/izeigerman/claude-thermos",
+        "pubDate": "2026-07-23T17:06",
         "feedId": "hn"
       },
       {
@@ -75,9 +69,15 @@
         "feedId": "hn"
       },
       {
-        "title": "JEP 540: Simple JSON API (Now in Incubator)",
-        "link": "https://openjdk.org/jeps/540",
-        "pubDate": "2026-07-23T16:01",
+        "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+        "link": "https://github.com/onecli/onecli",
+        "pubDate": "2026-07-23T15:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+        "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+        "pubDate": "2026-07-23T15:18",
         "feedId": "hn"
       },
       {
@@ -134,33 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why care about programming languages",
-        "link": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
-        "pubDate": "2026-07-22T21:33",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "John C. Dvorak has died",
-        "link": "http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html",
-        "pubDate": "2026-07-23T02:09",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Silent Replacement of Trusted macOS App Executables",
-        "link": "https://mysk.blog/2026/07/23/macos-overwrite-app-executables/",
-        "pubDate": "2026-07-23T13:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The PImpl idiom and the C++26 std::indirect type",
-        "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
-        "pubDate": "2026-07-23T16:58",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Prompt Caching In Agents",
-        "link": "https://earendil.com/posts/prompt-caching/",
-        "pubDate": "2026-07-23T18:04",
+        "title": "agent-shell 0.63 updates",
+        "link": "https://xenodium.com/agent-shell-0-63-updates",
+        "pubDate": "2026-07-23T18:42",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +146,45 @@
         "feedId": "lobsters"
       },
       {
+        "title": "John C. Dvorak has died",
+        "link": "http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html",
+        "pubDate": "2026-07-23T02:09",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why care about programming languages",
+        "link": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
+        "pubDate": "2026-07-22T21:33",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The first known runaway AI agent - or a very bad marketing stunt?",
         "link": "https://martinalderson.com/posts/huggingface-openai-exploit/",
         "pubDate": "2026-07-23T10:16",
         "feedId": "lobsters"
       },
       {
-        "title": "Your analytics are lying to you",
-        "link": "https://ankursethi.com/blog/your-analytics-are-lying-to-you/",
-        "pubDate": "2026-07-23T04:51",
+        "title": "The PImpl idiom and the C++26 std::indirect type",
+        "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+        "pubDate": "2026-07-23T16:58",
         "feedId": "lobsters"
       },
       {
-        "title": "Fil-C: Garbage In, Memory Safety Out",
-        "link": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
-        "pubDate": "2026-07-23T21:20",
+        "title": "Silent Replacement of Trusted macOS App Executables",
+        "link": "https://mysk.blog/2026/07/23/macos-overwrite-app-executables/",
+        "pubDate": "2026-07-23T13:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Prompt Caching In Agents",
+        "link": "https://earendil.com/posts/prompt-caching/",
+        "pubDate": "2026-07-23T18:04",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "You should selfhost your mail (in 2026)",
+        "link": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
+        "pubDate": "2026-07-23T21:10",
         "feedId": "lobsters"
       }
     ]
