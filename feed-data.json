@@ -3,15 +3,69 @@
     "id": "hn",
     "items": [
       {
-        "title": "The front end framework for correctness: built on Effect, architected like Elm",
-        "link": "https://foldkit.dev/",
-        "pubDate": "2026-07-24T15:24",
+        "title": "Claude Opus 5",
+        "link": "https://www.anthropic.com/claude-opus-5-system-card",
+        "pubDate": "2026-07-24T16:57",
         "feedId": "hn"
       },
       {
-        "title": "Codeberg Divides",
-        "link": "https://lucumr.pocoo.org/2026/7/24/codeberg-divides/",
-        "pubDate": "2026-07-24T15:05",
+        "title": "Claude Opus 5",
+        "link": "https://www.anthropic.com/news/claude-opus-5",
+        "pubDate": "2026-07-24T16:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port",
+        "link": "https://openjdk.org/jeps/541",
+        "pubDate": "2026-07-24T16:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "Online Historical Encyclopaedia of Programming Languages",
+        "link": "https://hopl.info/",
+        "pubDate": "2026-07-24T16:47",
+        "feedId": "hn"
+      },
+      {
+        "title": "Apple won't let me show my app",
+        "link": "https://wisedayplanner.com/blog/apple-wont-let-me-show-my-app/",
+        "pubDate": "2026-07-24T16:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "The rise and fall of language diversity through the Holocene",
+        "link": "https://www.science.org/doi/10.1126/science.adx4343",
+        "pubDate": "2026-07-24T16:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "Be skeptical of OpenAI's rogue hacker agent story",
+        "link": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+        "pubDate": "2026-07-24T16:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Proving a Human Wrote Something",
+        "link": "https://gjtorikian.online/posts/proving-a-human-wrote-something/",
+        "pubDate": "2026-07-24T16:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Unitree As2-W",
+        "link": "https://www.unitree.com/As2-W/",
+        "pubDate": "2026-07-24T16:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "Micro-SaaS Is Dead. Service With A Software Replaces It",
+        "link": "https://adriengonin.com/writing/service-with-a-software/",
+        "pubDate": "2026-07-24T16:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "The front end framework for correctness: built on Effect, architected like Elm",
+        "link": "https://foldkit.dev/",
+        "pubDate": "2026-07-24T15:24",
         "feedId": "hn"
       },
       {
@@ -37,60 +91,6 @@
         "link": "https://www.3gpp.org/specifications-technologies/releases/release-19",
         "pubDate": "2026-07-24T14:23",
         "feedId": "hn"
-      },
-      {
-        "title": "Preventing line breaks in <code> elements",
-        "link": "https://alexwlchan.net/2026/non-breaking-code/",
-        "pubDate": "2026-07-24T14:20",
-        "feedId": "hn"
-      },
-      {
-        "title": "Writing a Debugger from Scratch",
-        "link": "https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/",
-        "pubDate": "2026-07-24T14:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "WebGPU Unleashed: A Practical Tutorial",
-        "link": "https://shi-yan.github.io/webgpuunleashed/",
-        "pubDate": "2026-07-24T14:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "Open Weights and American AI Leadership [pdf]",
-        "link": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-        "pubDate": "2026-07-24T13:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "Plants vs. Zombies for PlayStation 2",
-        "link": "https://github.com/OptiJuegos/pvz-ps2",
-        "pubDate": "2026-07-24T13:57",
-        "feedId": "hn"
-      },
-      {
-        "title": "Interview with a Maintainer",
-        "link": "https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html",
-        "pubDate": "2026-07-24T13:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "PCI DSS DMARC Requirement: What Section 5.4.1 Requires",
-        "link": "https://dmarcguard.io/blog/pci-dss/",
-        "pubDate": "2026-07-24T13:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "My Emacs Configuration (Dired)",
-        "link": "https://eugene-andrienko.com/2026-07-05-my-emacs-configuration-dired.html",
-        "pubDate": "2026-07-24T13:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kaizen #4: Overhauled Homelab",
-        "link": "https://timharek.no/blog/kaizen-4/",
-        "pubDate": "2026-07-24T13:46",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "FreeBSD ports frozen",
-        "link": "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/",
-        "pubDate": "2026-07-24T05:05",
+        "title": "Don't take the black pill",
+        "link": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
+        "pubDate": "2026-07-24T14:24",
         "feedId": "lobsters"
       },
       {
-        "title": "Justif: Knuth-Plass justification and microtypography for the web",
-        "link": "https://justif.lyall.co/",
-        "pubDate": "2026-07-23T09:30",
+        "title": "FreeBSD ports frozen after someone commits the entire 150MB Linux Copilot binary",
+        "link": "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/",
+        "pubDate": "2026-07-24T05:05",
         "feedId": "lobsters"
       },
       {
@@ -122,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "You should selfhost your mail (in 2026)",
-        "link": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
-        "pubDate": "2026-07-23T21:10",
+        "title": "Justif: Knuth-Plass justification and microtypography for the web",
+        "link": "https://justif.lyall.co/",
+        "pubDate": "2026-07-23T09:30",
         "feedId": "lobsters"
       },
       {
-        "title": "Don't take the black pill",
-        "link": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-        "pubDate": "2026-07-24T14:24",
+        "title": "You should selfhost your mail (in 2026)",
+        "link": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
+        "pubDate": "2026-07-23T21:10",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Jolt: running Clojure on Chez Scheme",
-        "link": "https://yogthos.net/posts/2026-07-02-jolt.html",
-        "pubDate": "2026-07-23T20:54",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The case for MUDs in modern times",
         "link": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
         "pubDate": "2026-07-24T09:56",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Jolt: running Clojure on Chez Scheme",
+        "link": "https://yogthos.net/posts/2026-07-02-jolt.html",
+        "pubDate": "2026-07-23T20:54",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The PImpl idiom and the C++26 std::indirect type",
-        "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
-        "pubDate": "2026-07-23T16:58",
+        "title": "Software Should Work Worked",
+        "link": "https://isaacvando.com/software-should-work-worked",
+        "pubDate": "2026-07-23T18:50",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Dem panel taps South Carolina to hold first 2028 presidential primary",
+        "link": "https://www.axios.com/2026/07/24/democrats-2028-first-primary-south-carolina-nevada",
+        "pubDate": "2026-07-24T17:29",
+        "feedId": "axios"
+      },
+      {
         "title": "Scoop: U.S. and U.K. planning international conference on Strait of Hormuz",
         "link": "https://www.axios.com/2026/07/24/hormuz-us-uk-conference-iran",
         "pubDate": "2026-07-24T16:12",
@@ -369,12 +375,6 @@
         "title": "Cyclosporiasis: Case rates rise in five outbreak states",
         "link": "https://www.axios.com/2026/07/23/cyclosporiasis-cases-rates-rise-outbreak-states",
         "pubDate": "2026-07-23T19:06",
-        "feedId": "axios"
-      },
-      {
-        "title": "Melissa and Mark Hortman's killer gets consecutive life sentences",
-        "link": "https://www.axios.com/local/twin-cities/2026/07/23/vance-boelter-sentenced-life-hortman-assasinations",
-        "pubDate": "2026-07-23T17:36",
         "feedId": "axios"
       }
     ]
