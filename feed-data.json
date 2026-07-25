@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "An Introduction to Formal Logic(2020) [pdf]",
+        "link": "https://logicmatters.net/ifl/pdfs/IFL2_LM.pdf",
+        "pubDate": "2026-07-25T04:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
+        "link": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
+        "pubDate": "2026-07-25T04:20",
+        "feedId": "hn"
+      },
+      {
         "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
         "link": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
         "pubDate": "2026-07-25T02:54",
@@ -30,12 +42,6 @@
         "title": "Postgres LISTEN/NOTIFY actually scales",
         "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
         "pubDate": "2026-07-24T19:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "Gsxui – Shadcn-style components for Go",
-        "link": "https://ui.gsxhq.dev/",
-        "pubDate": "2026-07-24T17:59",
         "feedId": "hn"
       },
       {
@@ -85,12 +91,6 @@
         "link": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
         "pubDate": "2026-07-24T11:46",
         "feedId": "hn"
-      },
-      {
-        "title": "IRGC claims it destroyed Amazon's Bahrain data center",
-        "link": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
-        "pubDate": "2026-07-24T09:52",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,27 +104,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Don't take the black pill",
-        "link": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-        "pubDate": "2026-07-24T14:24",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Watching Go's new garbage collector move through the heap",
         "link": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
         "pubDate": "2026-07-24T20:34",
         "feedId": "lobsters"
       },
       {
-        "title": "Delightful integration tests in Rust",
-        "link": "https://github.com/alexpusch/rust-magic-patterns/blob/master/delightful-integration-tests/Readme.md",
-        "pubDate": "2026-07-24T20:24",
+        "title": "Don't take the black pill",
+        "link": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
+        "pubDate": "2026-07-24T14:24",
         "feedId": "lobsters"
       },
       {
         "title": "Systems and Delays (2026)",
         "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
         "pubDate": "2026-07-24T22:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Delightful integration tests in Rust",
+        "link": "https://github.com/alexpusch/rust-magic-patterns/blob/master/delightful-integration-tests/Readme.md",
+        "pubDate": "2026-07-24T20:24",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "FreeBSD ports frozen after someone commits the entire 150MB Linux Copilot binary",
-        "link": "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/",
-        "pubDate": "2026-07-24T05:05",
+        "title": "We Are Not Special",
+        "link": "https://www.hillelwayne.com/post/we-are-not-special/",
+        "pubDate": "2026-07-25T03:00",
         "feedId": "lobsters"
       },
       {
-        "title": "Postgres LISTEN/NOTIFY Actually Scales",
-        "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-        "pubDate": "2026-07-24T19:48",
+        "title": "FreeBSD ports frozen after someone commits the entire 150MB Linux Copilot binary",
+        "link": "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/",
+        "pubDate": "2026-07-24T05:05",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +158,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Open Weights and American AI Leadership",
-        "link": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
-        "pubDate": "2026-07-24T14:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "We Are Not Special",
-        "link": "https://www.hillelwayne.com/post/we-are-not-special/",
-        "pubDate": "2026-07-25T03:00",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "You should selfhost your mail (in 2026)",
-        "link": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
-        "pubDate": "2026-07-23T21:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Everyone Should Know SIMD",
-        "link": "https://mitchellh.com/writing/everyone-should-know-simd",
-        "pubDate": "2026-07-23T15:33",
+        "title": "Postgres LISTEN/NOTIFY Actually Scales",
+        "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+        "pubDate": "2026-07-24T19:48",
         "feedId": "lobsters"
       },
       {
         "title": "A Love Letter to Object Orientation",
         "link": "https://blog.mempko.com/a-love-letter-to-object-orientation/",
         "pubDate": "2026-07-24T20:33",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Open Weights and American AI Leadership",
+        "link": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
+        "pubDate": "2026-07-24T14:01",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I'm running the ICFP programming contest (2026)",
+        "link": "https://eieio.games/blog/im-running-the-icfp-programming-contest/",
+        "pubDate": "2026-07-25T05:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "You should selfhost your mail (in 2026)",
+        "link": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
+        "pubDate": "2026-07-23T21:10",
         "feedId": "lobsters"
       }
     ]
