@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "MouthPad: A Tongue-Controlled Touchpad",
+        "link": "https://www.augmental.tech/",
+        "pubDate": "2026-07-25T07:51",
+        "feedId": "hn"
+      },
+      {
         "title": "Android May Soon Restrict On-Device ADB",
         "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
         "pubDate": "2026-07-25T06:57",
@@ -85,12 +91,6 @@
         "link": "https://hhh.hn/hanwha-github-token/",
         "pubDate": "2026-07-24T11:54",
         "feedId": "hn"
-      },
-      {
-        "title": "The case for MUDs in modern times (2018)",
-        "link": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
-        "pubDate": "2026-07-24T11:46",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,18 +110,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Don't take the black pill",
-        "link": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-        "pubDate": "2026-07-24T14:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Systems and Delays (2026)",
-        "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-        "pubDate": "2026-07-24T22:11",
-        "feedId": "lobsters"
-      },
-      {
         "title": "We Are Not Special",
         "link": "https://www.hillelwayne.com/post/we-are-not-special/",
         "pubDate": "2026-07-25T03:00",
@@ -134,27 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Making GIFs from 35mm film photography",
-        "link": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
-        "pubDate": "2026-07-24T05:29",
+        "title": "Systems and Delays (2026)",
+        "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+        "pubDate": "2026-07-24T22:11",
         "feedId": "lobsters"
       },
       {
-        "title": "git rebase -i is not that scary",
-        "link": "https://cachebag.sh/journal/interactive-rebasing/",
-        "pubDate": "2026-07-24T17:41",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "FreeBSD ports frozen after someone commits the entire 150MB Linux Copilot binary",
-        "link": "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/",
-        "pubDate": "2026-07-24T05:05",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Postgres LISTEN/NOTIFY Actually Scales",
-        "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-        "pubDate": "2026-07-24T19:48",
+        "title": "Don't take the black pill",
+        "link": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
+        "pubDate": "2026-07-24T14:24",
         "feedId": "lobsters"
       },
       {
@@ -164,15 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/rbfmuh/what_are_you_doing_this_weekend",
-        "pubDate": "2026-07-24T14:38",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Open Weights and American AI Leadership",
-        "link": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
-        "pubDate": "2026-07-24T14:01",
+        "title": "git rebase -i is not that scary",
+        "link": "https://cachebag.sh/journal/interactive-rebasing/",
+        "pubDate": "2026-07-24T17:41",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +152,39 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Making GIFs from 35mm film photography",
+        "link": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
+        "pubDate": "2026-07-24T05:29",
+        "feedId": "lobsters"
+      },
+      {
         "title": "A Love Letter to Object Orientation",
         "link": "https://blog.mempko.com/a-love-letter-to-object-orientation/",
         "pubDate": "2026-07-24T20:33",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Microformats – building blocks for data-rich web pages",
+        "link": "https://microformats.org/",
+        "pubDate": "2026-07-25T01:34",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "FreeBSD ports frozen after someone commits the entire 150MB Linux Copilot binary",
+        "link": "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/",
+        "pubDate": "2026-07-24T05:05",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers",
+        "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+        "pubDate": "2026-07-25T10:01",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/rbfmuh/what_are_you_doing_this_weekend",
+        "pubDate": "2026-07-24T14:38",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Food banks confront growing SNAP gap",
+        "link": "https://www.axios.com/2026/07/25/food-banks-snap-cuts-obbb",
+        "pubDate": "2026-07-25T11:10",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump condemns violence, slams press at White House Correspondents' Dinner",
         "link": "https://www.axios.com/2026/07/25/trump-white-house-correspondents-dinner-whcd",
         "pubDate": "2026-07-25T02:52",
@@ -369,12 +375,6 @@
         "title": "Trump rebuilds trade regime with new tariffs on global trading partners",
         "link": "https://www.axios.com/2026/07/23/trump-tariffs-trade-labor",
         "pubDate": "2026-07-23T21:18",
-        "feedId": "axios"
-      },
-      {
-        "title": "DOJ drops New York Times subpoenas over Air Force 1 reports",
-        "link": "https://www.axios.com/2026/07/23/trump-doj-withdraws-new-york-times-subpoenas",
-        "pubDate": "2026-07-23T21:11",
         "feedId": "axios"
       }
     ]
