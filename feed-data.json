@@ -21,12 +21,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live",
-        "link": "https://github.com/apresta/max-studio-tools",
-        "pubDate": "2026-07-24T21:03",
-        "feedId": "hn"
-      },
-      {
         "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
         "link": "https://artificialanalysis.ai/models",
         "pubDate": "2026-07-24T19:45",
@@ -91,6 +85,12 @@
         "link": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
         "pubDate": "2026-07-24T12:34",
         "feedId": "hn"
+      },
+      {
+        "title": "My security camera shipped a GitHub admin token in its login page",
+        "link": "https://hhh.hn/hanwha-github-token/",
+        "pubDate": "2026-07-24T11:54",
+        "feedId": "hn"
       }
     ]
   },
@@ -104,27 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Making GIFs from 35mm film photography",
-        "link": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
-        "pubDate": "2026-07-24T05:29",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Delightful integration tests in Rust",
         "link": "https://github.com/alexpusch/rust-magic-patterns/blob/master/delightful-integration-tests/Readme.md",
         "pubDate": "2026-07-24T20:24",
         "feedId": "lobsters"
       },
       {
-        "title": "git rebase -i is not that scary",
-        "link": "https://cachebag.sh/journal/interactive-rebasing/",
-        "pubDate": "2026-07-24T17:41",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "FreeBSD ports frozen after someone commits the entire 150MB Linux Copilot binary",
-        "link": "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/",
-        "pubDate": "2026-07-24T05:05",
+        "title": "Making GIFs from 35mm film photography",
+        "link": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
+        "pubDate": "2026-07-24T05:29",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +122,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "git rebase -i is not that scary",
+        "link": "https://cachebag.sh/journal/interactive-rebasing/",
+        "pubDate": "2026-07-24T17:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Watching Go's new garbage collector move through the heap",
+        "link": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+        "pubDate": "2026-07-24T20:34",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "FreeBSD ports frozen after someone commits the entire 150MB Linux Copilot binary",
+        "link": "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/",
+        "pubDate": "2026-07-24T05:05",
+        "feedId": "lobsters"
+      },
+      {
         "title": "What are you doing this weekend?",
         "link": "https://lobste.rs/s/rbfmuh/what_are_you_doing_this_weekend",
         "pubDate": "2026-07-24T14:38",
         "feedId": "lobsters"
       },
       {
-        "title": "Open Weights and American AI Leadership",
-        "link": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
-        "pubDate": "2026-07-24T14:01",
+        "title": "Chrome registers a global shortcut for Gemini popup window",
+        "link": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
+        "pubDate": "2026-07-24T23:04",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "You should selfhost your mail (in 2026)",
-        "link": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
-        "pubDate": "2026-07-23T21:10",
+        "title": "Open Weights and American AI Leadership",
+        "link": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
+        "pubDate": "2026-07-24T14:01",
         "feedId": "lobsters"
       },
       {
-        "title": "Watching Go's new garbage collector move through the heap",
-        "link": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-        "pubDate": "2026-07-24T20:34",
+        "title": "You should selfhost your mail (in 2026)",
+        "link": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
+        "pubDate": "2026-07-23T21:10",
         "feedId": "lobsters"
       },
       {
@@ -173,12 +179,6 @@
         "title": "The case for MUDs in modern times",
         "link": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
         "pubDate": "2026-07-24T09:56",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Chrome registers a global shortcut for Gemini popup window",
-        "link": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
-        "pubDate": "2026-07-24T23:04",
         "feedId": "lobsters"
       },
       {
