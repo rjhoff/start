@@ -3,15 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-        "link": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-        "pubDate": "2026-07-25T21:48",
+        "title": "Clinical Failure Rates over the Decades: Yikes",
+        "link": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+        "pubDate": "2026-07-25T22:57",
         "feedId": "hn"
       },
       {
-        "title": "A 77-year-old Republican man is staging a solo protest against Flock cameras",
-        "link": "https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/",
-        "pubDate": "2026-07-25T21:32",
+        "title": "Kimi K3 built a Windows XP in browser",
+        "link": "https://windows-xp.kimi.site/",
+        "pubDate": "2026-07-25T22:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+        "link": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+        "pubDate": "2026-07-25T21:48",
         "feedId": "hn"
       },
       {
@@ -51,9 +57,21 @@
         "feedId": "hn"
       },
       {
-        "title": "Fedora 45 Atomic Desktops Look to Allow for Web-Based Remote Installations",
-        "link": "https://www.phoronix.com/news/Fedora-45-Atomic-Remote-Install",
-        "pubDate": "2026-07-25T20:10",
+        "title": "Show HN: Awsmux – Multi-account AWS CLI, up to 5.4x faster, 7.4x fewer tokens",
+        "link": "https://github.com/0hardik1/awsmux",
+        "pubDate": "2026-07-25T20:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "General Resolution: LLM Usage in Debian",
+        "link": "https://www.debian.org/vote/2026/vote_002",
+        "pubDate": "2026-07-25T19:44",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Minesweeper Raycasted",
+        "link": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+        "pubDate": "2026-07-25T19:39",
         "feedId": "hn"
       },
       {
@@ -69,27 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Tile's security is so bad it's a feature for stalkers",
-        "link": "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/",
-        "pubDate": "2026-07-25T18:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "Memory Safety Absolutists",
-        "link": "https://itsallaboutthebit.com/memory-safety-absolutists/",
-        "pubDate": "2026-07-25T18:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Brolly, a plain-text weather forecast site",
-        "link": "https://brolly.sh/forecast/RWFP2qW8",
-        "pubDate": "2026-07-25T17:34",
-        "feedId": "hn"
-      },
-      {
-        "title": "Rauno's Field Notes #2",
-        "link": "https://rauno.me/notes/2",
-        "pubDate": "2026-07-25T16:39",
+        "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+        "link": "https://github.com/slvDev/esp32-ai",
+        "pubDate": "2026-07-25T18:59",
         "feedId": "hn"
       }
     ]
@@ -107,6 +107,12 @@
         "title": "stinkpot: sqlite-backed shell history",
         "link": "https://tangled.org/oppi.li/stinkpot",
         "pubDate": "2026-07-25T09:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Memory Safety Absolutists",
+        "link": "https://itsallaboutthebit.com/memory-safety-absolutists/",
+        "pubDate": "2026-07-25T21:38",
         "feedId": "lobsters"
       },
       {
@@ -146,6 +152,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Maybe we should revisit microkernels",
+        "link": "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html",
+        "pubDate": "2026-07-25T22:13",
+        "feedId": "lobsters"
+      },
+      {
         "title": "We Are Not Special (2021)",
         "link": "https://www.hillelwayne.com/post/we-are-not-special/",
         "pubDate": "2026-07-25T03:00",
@@ -158,9 +170,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Memory Safety Absolutists",
-        "link": "https://itsallaboutthebit.com/memory-safety-absolutists/",
-        "pubDate": "2026-07-25T21:38",
+        "title": "General Resolution: LLM usage in Debian",
+        "link": "https://www.debian.org/vote/2026/vote_002",
+        "pubDate": "2026-07-25T16:10",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Emacs Writing Machine",
-        "link": "https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html",
-        "pubDate": "2026-07-25T11:14",
-        "feedId": "lobsters"
-      },
-      {
         "title": "the perils of parsing type inference declarations in c",
         "link": "https://sebsite.pw/w/20260725-auto.html",
         "pubDate": "2026-07-25T06:07",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "General Resolution: LLM usage in Debian",
-        "link": "https://www.debian.org/vote/2026/vote_002",
-        "pubDate": "2026-07-25T16:10",
         "feedId": "lobsters"
       }
     ]
