@@ -3,21 +3,21 @@
     "id": "hn",
     "items": [
       {
+        "title": "Show HN: Bribes.fyi – Know before you go. New feature added",
+        "link": "https://bribes.fyi/before-you-go",
+        "pubDate": "2026-07-25T19:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tile's security is so bad it's a feature for stalkers",
+        "link": "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/",
+        "pubDate": "2026-07-25T18:18",
+        "feedId": "hn"
+      },
+      {
         "title": "Rauno's Field Notes #2",
         "link": "https://rauno.me/notes/2",
         "pubDate": "2026-07-25T16:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "Amen Break",
-        "link": "https://en.wikipedia.org/wiki/Amen_break",
-        "pubDate": "2026-07-25T16:34",
-        "feedId": "hn"
-      },
-      {
-        "title": "Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer",
-        "link": "https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/",
-        "pubDate": "2026-07-25T16:09",
         "feedId": "hn"
       },
       {
@@ -33,19 +33,13 @@
         "feedId": "hn"
       },
       {
-        "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
-        "link": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
-        "pubDate": "2026-07-25T15:51",
-        "feedId": "hn"
-      },
-      {
         "title": "Engineering management after the cost of code collapsed",
         "link": "https://karimjedda.com/engineering-management-after-cost-of-code-collapse/",
         "pubDate": "2026-07-25T15:10",
         "feedId": "hn"
       },
       {
-        "title": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+        "title": "Open-weight AI is having its Kubernetes moment",
         "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
         "pubDate": "2026-07-25T14:49",
         "feedId": "hn"
@@ -63,13 +57,19 @@
         "feedId": "hn"
       },
       {
+        "title": "The Silurian Hypothesis (2020)",
+        "link": "https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/",
+        "pubDate": "2026-07-25T13:48",
+        "feedId": "hn"
+      },
+      {
         "title": "My web version of Mars MIPS, now have builtin C compiler",
         "link": "https://webmars.nfiles.top/",
         "pubDate": "2026-07-25T13:42",
         "feedId": "hn"
       },
       {
-        "title": "Bitchat Is Now on Radicle",
+        "title": "Bitchat is now on Radicle",
         "link": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
         "pubDate": "2026-07-25T13:18",
         "feedId": "hn"
@@ -116,12 +116,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "We Are Not Special (2021)",
-        "link": "https://www.hillelwayne.com/post/we-are-not-special/",
-        "pubDate": "2026-07-25T03:00",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Zig by Example",
         "link": "https://zigbyexample.neocities.org/",
         "pubDate": "2026-07-25T12:58",
@@ -134,15 +128,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "We Are Not Special (2021)",
+        "link": "https://www.hillelwayne.com/post/we-are-not-special/",
+        "pubDate": "2026-07-25T03:00",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Verse: A New Scripting Language",
+        "link": "https://youtube.com/watch?v=ebqKYLKjL6U",
+        "pubDate": "2026-07-25T16:08",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Watching Go's new garbage collector move through the heap",
         "link": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
         "pubDate": "2026-07-24T20:34",
         "feedId": "lobsters"
       },
       {
-        "title": "I'm running the ICFP programming contest",
-        "link": "https://eieio.games/blog/im-running-the-icfp-programming-contest/",
-        "pubDate": "2026-07-25T05:29",
+        "title": "Your harddrive is probably full",
+        "link": "https://www.marginalia.nu/log/a_139_hdd/",
+        "pubDate": "2026-07-25T18:19",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Delightful integration tests in Rust",
-        "link": "https://github.com/alexpusch/rust-magic-patterns/blob/master/delightful-integration-tests/Readme.md",
-        "pubDate": "2026-07-24T20:24",
+        "title": "I'm running the ICFP programming contest",
+        "link": "https://eieio.games/blog/im-running-the-icfp-programming-contest/",
+        "pubDate": "2026-07-25T05:29",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +170,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "General Resolution: LLM usage in Debian",
+        "link": "https://www.debian.org/vote/2026/vote_002",
+        "pubDate": "2026-07-25T16:10",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Systems and Delays (2026)",
         "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
         "pubDate": "2026-07-24T22:11",
         "feedId": "lobsters"
       },
       {
-        "title": "Don't take the black pill",
-        "link": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-        "pubDate": "2026-07-24T14:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "git rebase -i is not that scary",
-        "link": "https://cachebag.sh/journal/interactive-rebasing/",
-        "pubDate": "2026-07-24T17:41",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Sending packets directly from BPF",
-        "link": "https://lwn.net/Articles/1081696/",
-        "pubDate": "2026-07-25T09:59",
+        "title": "Delightful integration tests in Rust",
+        "link": "https://github.com/alexpusch/rust-magic-patterns/blob/master/delightful-integration-tests/Readme.md",
+        "pubDate": "2026-07-24T20:24",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
+        "link": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+        "pubDate": "2026-07-25T17:47",
+        "feedId": "arstechnica"
+      },
       {
         "title": "With help from data, art museums are reframing the visitor experience",
         "link": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
@@ -275,12 +281,6 @@
         "link": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
         "pubDate": "2026-07-24T13:49",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
-        "link": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
-        "pubDate": "2026-07-24T11:20",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -290,7 +290,7 @@
       {
         "title": "Trump ordered military not to conduct strikes in Iran Friday",
         "link": "https://www.axios.com/2026/07/25/trump-iran-war-military-directive-strikes",
-        "pubDate": "2026-07-25T16:51",
+        "pubDate": "2026-07-25T18:23",
         "feedId": "axios"
       },
       {
