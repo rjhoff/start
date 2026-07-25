@@ -3,9 +3,69 @@
     "id": "hn",
     "items": [
       {
+        "title": "Rauno's Field Notes #2",
+        "link": "https://rauno.me/notes/2",
+        "pubDate": "2026-07-25T16:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Amen Break",
+        "link": "https://en.wikipedia.org/wiki/Amen_break",
+        "pubDate": "2026-07-25T16:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer",
+        "link": "https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/",
+        "pubDate": "2026-07-25T16:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Bringing PyTorch Monarch to AMD GPUs",
+        "link": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
+        "pubDate": "2026-07-25T15:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Dark Night of Mathematics",
+        "link": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
+        "pubDate": "2026-07-25T15:54",
+        "feedId": "hn"
+      },
+      {
         "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
         "link": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
         "pubDate": "2026-07-25T15:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "Engineering management after the cost of code collapsed",
+        "link": "https://karimjedda.com/engineering-management-after-cost-of-code-collapse/",
+        "pubDate": "2026-07-25T15:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+        "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+        "pubDate": "2026-07-25T14:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "Task-centered iproute2 user guide",
+        "link": "https://baturin.org/docs/iproute2/",
+        "pubDate": "2026-07-25T14:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "Scanwheel is a drum style mechanical television you can build yourself",
+        "link": "https://github.com/AncientJames/Scanwheel/",
+        "pubDate": "2026-07-25T14:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "My web version of Mars MIPS, now have builtin C compiler",
+        "link": "https://webmars.nfiles.top/",
+        "pubDate": "2026-07-25T13:42",
         "feedId": "hn"
       },
       {
@@ -30,66 +90,6 @@
         "title": "MouthPad: A Tongue-Controlled Touchpad",
         "link": "https://www.augmental.tech/",
         "pubDate": "2026-07-25T07:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "Android May Soon Restrict On-Device ADB",
-        "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-        "pubDate": "2026-07-25T06:57",
-        "feedId": "hn"
-      },
-      {
-        "title": "ARC-AGI Leaderboard",
-        "link": "https://arcprize.org/leaderboard",
-        "pubDate": "2026-07-25T06:31",
-        "feedId": "hn"
-      },
-      {
-        "title": "Extinct Media Museum Tokyo",
-        "link": "https://extinct-media-museum.blog.jp/otemachi/",
-        "pubDate": "2026-07-25T05:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-        "link": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-        "pubDate": "2026-07-25T04:20",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
-        "link": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-        "pubDate": "2026-07-25T01:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
-        "link": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
-        "pubDate": "2026-07-24T23:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-        "link": "https://artificialanalysis.ai/models",
-        "pubDate": "2026-07-24T19:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "Postgres LISTEN/NOTIFY actually scales",
-        "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-        "pubDate": "2026-07-24T19:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "Claude Opus 5",
-        "link": "https://www.anthropic.com/news/claude-opus-5",
-        "pubDate": "2026-07-24T16:57",
-        "feedId": "hn"
-      },
-      {
-        "title": "My security camera shipped a GitHub admin token in its login page",
-        "link": "https://hhh.hn/hanwha-github-token/",
-        "pubDate": "2026-07-24T11:54",
         "feedId": "hn"
       }
     ]
@@ -122,6 +122,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Zig by Example",
+        "link": "https://zigbyexample.neocities.org/",
+        "pubDate": "2026-07-25T12:58",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers",
         "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
         "pubDate": "2026-07-25T10:01",
@@ -134,15 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Zig by Example",
-        "link": "https://zigbyexample.neocities.org/",
-        "pubDate": "2026-07-25T12:58",
-        "feedId": "lobsters"
-      },
-      {
         "title": "I'm running the ICFP programming contest",
         "link": "https://eieio.games/blog/im-running-the-icfp-programming-contest/",
         "pubDate": "2026-07-25T05:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "the perils of parsing type inference declarations in c",
+        "link": "https://sebsite.pw/w/20260725-auto.html",
+        "pubDate": "2026-07-25T06:07",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "the perils of parsing type inference declarations in c",
-        "link": "https://sebsite.pw/w/20260725-auto.html",
-        "pubDate": "2026-07-25T06:07",
+        "title": "Emacs Writing Machine",
+        "link": "https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html",
+        "pubDate": "2026-07-25T11:14",
         "feedId": "lobsters"
       },
       {
@@ -179,12 +185,6 @@
         "title": "Sending packets directly from BPF",
         "link": "https://lwn.net/Articles/1081696/",
         "pubDate": "2026-07-25T09:59",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Emacs Writing Machine",
-        "link": "https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html",
-        "pubDate": "2026-07-25T11:14",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump ordered military not to conduct strikes in Iran Friday",
+        "link": "https://www.axios.com/2026/07/25/trump-iran-war-military-directive-strikes",
+        "pubDate": "2026-07-25T16:51",
+        "feedId": "axios"
+      },
+      {
         "title": "Troy Jackson picked to challenge Collins in Maine after Platner's exit",
         "link": "https://www.axios.com/2026/07/25/maine-troy-jackson-susan-collins-platner",
         "pubDate": "2026-07-25T16:01",
@@ -369,12 +375,6 @@
         "title": "The people testing AI for danger are having a hard time keeping up",
         "link": "https://www.axios.com/2026/07/24/ai-safety-security-testing-hugging-face",
         "pubDate": "2026-07-24T08:25",
-        "feedId": "axios"
-      },
-      {
-        "title": "House GOP's parting message for Senate on reconciliation",
-        "link": "https://www.axios.com/2026/07/23/house-senate-republicans-reconciliation-save-act",
-        "pubDate": "2026-07-23T22:49",
         "feedId": "axios"
       }
     ]
