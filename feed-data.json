@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+        "link": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
+        "pubDate": "2026-07-24T23:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "SpaceX Starship Flight 13 livestream [video]",
+        "link": "https://www.spacex.com/launches/starship-flight-13",
+        "pubDate": "2026-07-24T22:44",
+        "feedId": "hn"
+      },
+      {
+        "title": "AIs don't do what you want. This is bad",
+        "link": "https://rewardhacking.org",
+        "pubDate": "2026-07-24T22:24",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live",
         "link": "https://github.com/apresta/max-studio-tools",
         "pubDate": "2026-07-24T21:03",
@@ -18,12 +36,6 @@
         "title": "Postgres LISTEN/NOTIFY actually scales",
         "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
         "pubDate": "2026-07-24T19:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "I got into YC Startup School by hacking it",
-        "link": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
-        "pubDate": "2026-07-24T18:03",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
         "pubDate": "2026-07-24T12:34",
         "feedId": "hn"
-      },
-      {
-        "title": "My security camera shipped a GitHub admin token in its login page",
-        "link": "https://hhh.hn/hanwha-github-token/",
-        "pubDate": "2026-07-24T11:54",
-        "feedId": "hn"
-      },
-      {
-        "title": "The case for MUDs in modern times (2018)",
-        "link": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
-        "pubDate": "2026-07-24T11:46",
-        "feedId": "hn"
       }
     ]
   },
@@ -116,21 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "FreeBSD ports frozen after someone commits the entire 150MB Linux Copilot binary",
-        "link": "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/",
-        "pubDate": "2026-07-24T05:05",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/rbfmuh/what_are_you_doing_this_weekend",
-        "pubDate": "2026-07-24T14:38",
-        "feedId": "lobsters"
-      },
-      {
         "title": "git rebase -i is not that scary",
         "link": "https://cachebag.sh/journal/interactive-rebasing/",
         "pubDate": "2026-07-24T17:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "FreeBSD ports frozen after someone commits the entire 150MB Linux Copilot binary",
+        "link": "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/",
+        "pubDate": "2026-07-24T05:05",
         "feedId": "lobsters"
       },
       {
@@ -140,33 +134,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/rbfmuh/what_are_you_doing_this_weekend",
+        "pubDate": "2026-07-24T14:38",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Open Weights and American AI Leadership",
         "link": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
         "pubDate": "2026-07-24T14:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "You should selfhost your mail (in 2026)",
-        "link": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
-        "pubDate": "2026-07-23T21:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Everyone Should Know SIMD",
-        "link": "https://mitchellh.com/writing/everyone-should-know-simd",
-        "pubDate": "2026-07-23T15:33",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Justif: Knuth-Plass justification and microtypography for the web",
-        "link": "https://justif.lyall.co/",
-        "pubDate": "2026-07-23T09:30",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The case for MUDs in modern times",
-        "link": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
-        "pubDate": "2026-07-24T09:56",
         "feedId": "lobsters"
       },
       {
@@ -176,9 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Fil-C: Garbage In, Memory Safety Out",
-        "link": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
-        "pubDate": "2026-07-23T21:20",
+        "title": "You should selfhost your mail (in 2026)",
+        "link": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
+        "pubDate": "2026-07-23T21:10",
         "feedId": "lobsters"
       },
       {
@@ -186,12 +162,48 @@
         "link": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
         "pubDate": "2026-07-24T20:34",
         "feedId": "lobsters"
+      },
+      {
+        "title": "Everyone Should Know SIMD",
+        "link": "https://mitchellh.com/writing/everyone-should-know-simd",
+        "pubDate": "2026-07-23T15:33",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The case for MUDs in modern times",
+        "link": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
+        "pubDate": "2026-07-24T09:56",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Chrome registers a global shortcut for Gemini popup window",
+        "link": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
+        "pubDate": "2026-07-24T23:04",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Justif: Knuth-Plass justification and microtypography for the web",
+        "link": "https://justif.lyall.co/",
+        "pubDate": "2026-07-23T09:30",
+        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
+        "link": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
+        "pubDate": "2026-07-24T22:28",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
+        "link": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
+        "pubDate": "2026-07-24T21:56",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Canadian legislator reads out apparent LLM response in floor speech",
         "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
@@ -211,7 +223,7 @@
         "feedId": "arstechnica"
       },
       {
-        "title": "RFK Jr.'s hand-picked committee approves manufacture of peptides he uses",
+        "title": "RFK Jr.'s handpicked committee approves manufacture of peptides he uses",
         "link": "https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/",
         "pubDate": "2026-07-24T19:10",
         "feedId": "arstechnica"
@@ -268,18 +280,6 @@
         "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
         "link": "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/",
         "pubDate": "2026-07-23T19:22",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Forgot your Google password? Now you can log in with a selfie.",
-        "link": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
-        "pubDate": "2026-07-23T19:14",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
-        "link": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
-        "pubDate": "2026-07-23T19:08",
         "feedId": "arstechnica"
       }
     ]
