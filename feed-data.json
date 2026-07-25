@@ -3,9 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "An Introduction to Formal Logic(2020) [pdf]",
-        "link": "https://logicmatters.net/ifl/pdfs/IFL2_LM.pdf",
-        "pubDate": "2026-07-25T04:21",
+        "title": "Android May Soon Restrict On-Device ADB",
+        "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+        "pubDate": "2026-07-25T06:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "ARC-AGI Leaderboard",
+        "link": "https://arcprize.org/leaderboard",
+        "pubDate": "2026-07-25T06:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "Extinct Media Museum Tokyo",
+        "link": "https://extinct-media-museum.blog.jp/otemachi/",
+        "pubDate": "2026-07-25T05:51",
         "feedId": "hn"
       },
       {
@@ -54,18 +66,6 @@
         "title": "Don't Take the Black Pill [video]",
         "link": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
         "pubDate": "2026-07-24T16:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "Unitree As2-W",
-        "link": "https://www.unitree.com/As2-W/",
-        "pubDate": "2026-07-24T16:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
-        "link": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
-        "pubDate": "2026-07-24T14:41",
         "feedId": "hn"
       },
       {
@@ -122,6 +122,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "We Are Not Special",
+        "link": "https://www.hillelwayne.com/post/we-are-not-special/",
+        "pubDate": "2026-07-25T03:00",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Delightful integration tests in Rust",
         "link": "https://github.com/alexpusch/rust-magic-patterns/blob/master/delightful-integration-tests/Readme.md",
         "pubDate": "2026-07-24T20:24",
@@ -140,21 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "We Are Not Special",
-        "link": "https://www.hillelwayne.com/post/we-are-not-special/",
-        "pubDate": "2026-07-25T03:00",
-        "feedId": "lobsters"
-      },
-      {
         "title": "FreeBSD ports frozen after someone commits the entire 150MB Linux Copilot binary",
         "link": "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/",
         "pubDate": "2026-07-24T05:05",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/rbfmuh/what_are_you_doing_this_weekend",
-        "pubDate": "2026-07-24T14:38",
         "feedId": "lobsters"
       },
       {
@@ -164,9 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A Love Letter to Object Orientation",
-        "link": "https://blog.mempko.com/a-love-letter-to-object-orientation/",
-        "pubDate": "2026-07-24T20:33",
+        "title": "the perils of parsing type inference declarations in c",
+        "link": "https://sebsite.pw/w/20260725-auto.html",
+        "pubDate": "2026-07-25T06:07",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/rbfmuh/what_are_you_doing_this_weekend",
+        "pubDate": "2026-07-24T14:38",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "You should selfhost your mail (in 2026)",
-        "link": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
-        "pubDate": "2026-07-23T21:10",
+        "title": "A Love Letter to Object Orientation",
+        "link": "https://blog.mempko.com/a-love-letter-to-object-orientation/",
+        "pubDate": "2026-07-24T20:33",
         "feedId": "lobsters"
       }
     ]
