@@ -3,21 +3,21 @@
     "id": "hn",
     "items": [
       {
+        "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+        "link": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+        "pubDate": "2026-07-25T02:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+        "link": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+        "pubDate": "2026-07-25T01:44",
+        "feedId": "hn"
+      },
+      {
         "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
         "link": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
         "pubDate": "2026-07-24T23:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "SpaceX Starship Flight 13 livestream [video]",
-        "link": "https://www.spacex.com/launches/starship-flight-13",
-        "pubDate": "2026-07-24T22:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "AIs don't do what you want. This is bad",
-        "link": "https://rewardhacking.org",
-        "pubDate": "2026-07-24T22:24",
         "feedId": "hn"
       },
       {
@@ -51,12 +51,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Be skeptical of OpenAI's rogue hacker agent story",
-        "link": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-        "pubDate": "2026-07-24T16:33",
-        "feedId": "hn"
-      },
-      {
         "title": "Unitree As2-W",
         "link": "https://www.unitree.com/As2-W/",
         "pubDate": "2026-07-24T16:32",
@@ -81,15 +75,21 @@
         "feedId": "hn"
       },
       {
-        "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country codes",
-        "link": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
-        "pubDate": "2026-07-24T12:34",
-        "feedId": "hn"
-      },
-      {
         "title": "My security camera shipped a GitHub admin token in its login page",
         "link": "https://hhh.hn/hanwha-github-token/",
         "pubDate": "2026-07-24T11:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "The case for MUDs in modern times (2018)",
+        "link": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
+        "pubDate": "2026-07-24T11:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "IRGC claims it destroyed Amazon's Bahrain data center",
+        "link": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+        "pubDate": "2026-07-24T09:52",
         "feedId": "hn"
       }
     ]
@@ -98,33 +98,15 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "Chrome registers a global shortcut for Gemini popup window",
+        "link": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
+        "pubDate": "2026-07-24T23:04",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Don't take the black pill",
         "link": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
         "pubDate": "2026-07-24T14:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Delightful integration tests in Rust",
-        "link": "https://github.com/alexpusch/rust-magic-patterns/blob/master/delightful-integration-tests/Readme.md",
-        "pubDate": "2026-07-24T20:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Making GIFs from 35mm film photography",
-        "link": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
-        "pubDate": "2026-07-24T05:29",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Systems and Delays (2026)",
-        "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-        "pubDate": "2026-07-24T22:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "git rebase -i is not that scary",
-        "link": "https://cachebag.sh/journal/interactive-rebasing/",
-        "pubDate": "2026-07-24T17:41",
         "feedId": "lobsters"
       },
       {
@@ -134,21 +116,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Delightful integration tests in Rust",
+        "link": "https://github.com/alexpusch/rust-magic-patterns/blob/master/delightful-integration-tests/Readme.md",
+        "pubDate": "2026-07-24T20:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Systems and Delays (2026)",
+        "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+        "pubDate": "2026-07-24T22:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Making GIFs from 35mm film photography",
+        "link": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
+        "pubDate": "2026-07-24T05:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "git rebase -i is not that scary",
+        "link": "https://cachebag.sh/journal/interactive-rebasing/",
+        "pubDate": "2026-07-24T17:41",
+        "feedId": "lobsters"
+      },
+      {
         "title": "FreeBSD ports frozen after someone commits the entire 150MB Linux Copilot binary",
         "link": "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/",
         "pubDate": "2026-07-24T05:05",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/rbfmuh/what_are_you_doing_this_weekend",
-        "pubDate": "2026-07-24T14:38",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Chrome registers a global shortcut for Gemini popup window",
-        "link": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
-        "pubDate": "2026-07-24T23:04",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +152,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/rbfmuh/what_are_you_doing_this_weekend",
+        "pubDate": "2026-07-24T14:38",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Open Weights and American AI Leadership",
         "link": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
         "pubDate": "2026-07-24T14:01",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "We Are Not Special",
+        "link": "https://www.hillelwayne.com/post/we-are-not-special/",
+        "pubDate": "2026-07-25T03:00",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The case for MUDs in modern times",
-        "link": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
-        "pubDate": "2026-07-24T09:56",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Justif: Knuth-Plass justification and microtypography for the web",
-        "link": "https://justif.lyall.co/",
-        "pubDate": "2026-07-23T09:30",
+        "title": "A Love Letter to Object Orientation",
+        "link": "https://blog.mempko.com/a-love-letter-to-object-orientation/",
+        "pubDate": "2026-07-24T20:33",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump condemns violence, slams press at White House Correspondents' Dinner",
+        "link": "https://www.axios.com/2026/07/25/trump-white-house-correspondents-dinner-whcd",
+        "pubDate": "2026-07-25T02:52",
+        "feedId": "axios"
+      },
+      {
         "title": "Scoop: U.S., U.K. planning international conference on Strait of Hormuz",
         "link": "https://www.axios.com/2026/07/24/hormuz-us-uk-conference-iran",
         "pubDate": "2026-07-24T18:13",
@@ -369,12 +375,6 @@
         "title": "DOJ drops New York Times subpoenas over Air Force 1 reports",
         "link": "https://www.axios.com/2026/07/23/trump-doj-withdraws-new-york-times-subpoenas",
         "pubDate": "2026-07-23T21:11",
-        "feedId": "axios"
-      },
-      {
-        "title": "Cyclosporiasis: Case rates rise in five outbreak states",
-        "link": "https://www.axios.com/2026/07/23/cyclosporiasis-cases-rates-rise-outbreak-states",
-        "pubDate": "2026-07-23T19:06",
         "feedId": "axios"
       }
     ]
