@@ -3,12 +3,6 @@
     "id": "hn",
     "items": [
       {
-        "title": "Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network",
-        "link": "https://github.com/lucid-fabrics/proxmox-bluetooth",
-        "pubDate": "2026-07-25T19:41",
-        "feedId": "hn"
-      },
-      {
         "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
         "link": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
         "pubDate": "2026-07-25T19:30",
@@ -21,15 +15,15 @@
         "feedId": "hn"
       },
       {
-        "title": "The Hitler Salute Was Never German",
-        "link": "https://warcommons.com/2026/07/25/hitler-salute-origin-history-roman-salute-mussolini/",
-        "pubDate": "2026-07-25T18:48",
-        "feedId": "hn"
-      },
-      {
         "title": "Tile's security is so bad it's a feature for stalkers",
         "link": "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/",
         "pubDate": "2026-07-25T18:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Memory Safety Absolutists",
+        "link": "https://itsallaboutthebit.com/memory-safety-absolutists/",
+        "pubDate": "2026-07-25T18:08",
         "feedId": "hn"
       },
       {
@@ -91,6 +85,12 @@
         "link": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
         "pubDate": "2026-07-25T13:18",
         "feedId": "hn"
+      },
+      {
+        "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+        "link": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
+        "pubDate": "2026-07-25T12:00",
+        "feedId": "hn"
       }
     ]
   },
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Chrome registers a global shortcut for Gemini popup window",
-        "link": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
-        "pubDate": "2026-07-24T23:04",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Zig by Example",
         "link": "https://zigbyexample.neocities.org/",
         "pubDate": "2026-07-25T12:58",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Chrome registers a global shortcut for Gemini popup window",
+        "link": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
+        "pubDate": "2026-07-24T23:04",
         "feedId": "lobsters"
       },
       {
@@ -158,27 +158,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "the perils of parsing type inference declarations in c",
-        "link": "https://sebsite.pw/w/20260725-auto.html",
-        "pubDate": "2026-07-25T06:07",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Emacs Writing Machine",
         "link": "https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html",
         "pubDate": "2026-07-25T11:14",
         "feedId": "lobsters"
       },
       {
-        "title": "Systems and Delays (2026)",
-        "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-        "pubDate": "2026-07-24T22:11",
+        "title": "the perils of parsing type inference declarations in c",
+        "link": "https://sebsite.pw/w/20260725-auto.html",
+        "pubDate": "2026-07-25T06:07",
         "feedId": "lobsters"
       },
       {
         "title": "General Resolution: LLM usage in Debian",
         "link": "https://www.debian.org/vote/2026/vote_002",
         "pubDate": "2026-07-25T16:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Systems and Delays (2026)",
+        "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+        "pubDate": "2026-07-24T22:11",
         "feedId": "lobsters"
       },
       {
