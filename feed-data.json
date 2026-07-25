@@ -9,6 +9,12 @@
         "feedId": "hn"
       },
       {
+        "title": "The Fedora 45 Sausage Factory",
+        "link": "https://supakeen.com/weblog/the-fedora-45-sausage-factory/",
+        "pubDate": "2026-07-25T11:04",
+        "feedId": "hn"
+      },
+      {
         "title": "MouthPad: A Tongue-Controlled Touchpad",
         "link": "https://www.augmental.tech/",
         "pubDate": "2026-07-25T07:51",
@@ -85,12 +91,6 @@
         "link": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
         "pubDate": "2026-07-24T09:52",
         "feedId": "hn"
-      },
-      {
-        "title": "Future euro banknote design proposals",
-        "link": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html",
-        "pubDate": "2026-07-24T09:29",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Chrome registers a global shortcut for Gemini popup window",
-        "link": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
-        "pubDate": "2026-07-24T23:04",
-        "feedId": "lobsters"
-      },
-      {
         "title": "A shell colon does nothing. Use it anyway",
         "link": "https://refp.se/articles/your-shell-and-the-magic-colon",
         "pubDate": "2026-07-25T11:33",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Chrome registers a global shortcut for Gemini popup window",
+        "link": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
+        "pubDate": "2026-07-24T23:04",
         "feedId": "lobsters"
       },
       {
@@ -122,24 +122,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Delightful integration tests in Rust",
-        "link": "https://github.com/alexpusch/rust-magic-patterns/blob/master/delightful-integration-tests/Readme.md",
-        "pubDate": "2026-07-24T20:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Systems and Delays (2026)",
-        "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-        "pubDate": "2026-07-24T22:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Don't take the black pill",
-        "link": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-        "pubDate": "2026-07-24T14:24",
-        "feedId": "lobsters"
-      },
-      {
         "title": "stinkpot: sqlite-backed shell history",
         "link": "https://tangled.org/oppi.li/stinkpot",
         "pubDate": "2026-07-25T09:10",
@@ -152,6 +134,30 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Systems and Delays (2026)",
+        "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+        "pubDate": "2026-07-24T22:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Delightful integration tests in Rust",
+        "link": "https://github.com/alexpusch/rust-magic-patterns/blob/master/delightful-integration-tests/Readme.md",
+        "pubDate": "2026-07-24T20:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Don't take the black pill",
+        "link": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
+        "pubDate": "2026-07-24T14:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers",
+        "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+        "pubDate": "2026-07-25T10:01",
+        "feedId": "lobsters"
+      },
+      {
         "title": "git rebase -i is not that scary",
         "link": "https://cachebag.sh/journal/interactive-rebasing/",
         "pubDate": "2026-07-24T17:41",
@@ -161,12 +167,6 @@
         "title": "I'm running the ICFP programming contest (2026)",
         "link": "https://eieio.games/blog/im-running-the-icfp-programming-contest/",
         "pubDate": "2026-07-25T05:29",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers",
-        "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-        "pubDate": "2026-07-25T10:01",
         "feedId": "lobsters"
       },
       {
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "With help from data, art museums are reframing the visitor experience",
+        "link": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
+        "pubDate": "2026-07-25T11:00",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Big Tech accused of stonewalling European social media researchers",
+        "link": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
+        "pubDate": "2026-07-25T10:45",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
         "link": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
@@ -269,24 +281,18 @@
         "link": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
         "pubDate": "2026-07-24T11:20",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
-        "link": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
-        "pubDate": "2026-07-23T20:47",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
-        "link": "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/",
-        "pubDate": "2026-07-23T19:22",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "How AI is becoming part of the American family",
+        "link": "https://www.axios.com/2026/07/25/ai-family-parenting-productivity",
+        "pubDate": "2026-07-25T12:43",
+        "feedId": "axios"
+      },
       {
         "title": "Food banks confront growing SNAP gap",
         "link": "https://www.axios.com/2026/07/25/food-banks-snap-cuts-obbb",
@@ -369,12 +375,6 @@
         "title": "Senate preparing to vote on Russia sanctions next week",
         "link": "https://www.axios.com/2026/07/23/senate-russia-sanctions-iran-vote",
         "pubDate": "2026-07-23T22:49",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump rebuilds trade regime with new tariffs on global trading partners",
-        "link": "https://www.axios.com/2026/07/23/trump-tariffs-trade-labor",
-        "pubDate": "2026-07-23T21:18",
         "feedId": "axios"
       }
     ]
