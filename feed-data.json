@@ -3,6 +3,60 @@
     "id": "hn",
     "items": [
       {
+        "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+        "link": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+        "pubDate": "2026-07-25T21:48",
+        "feedId": "hn"
+      },
+      {
+        "title": "A 77-year-old Republican man is staging a solo protest against Flock cameras",
+        "link": "https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/",
+        "pubDate": "2026-07-25T21:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "Who does Anubis actually stop?",
+        "link": "https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop",
+        "pubDate": "2026-07-25T20:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "Multicast TV Distribution on My Home Network",
+        "link": "https://www.apalrd.net/posts/2026/isp_mcast/",
+        "pubDate": "2026-07-25T20:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Fly.io CEO Kurt Mackey is stepping down",
+        "link": "https://fly.io/blog/kurt-scott-money-sprites/",
+        "pubDate": "2026-07-25T20:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "The new rules of context engineering for Claude 5 generation models",
+        "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+        "pubDate": "2026-07-25T20:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
+        "link": "https://news.ycombinator.com/item?id=49051130",
+        "pubDate": "2026-07-25T20:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Did They Ghost You?",
+        "link": "https://didtheyghostyou.com/",
+        "pubDate": "2026-07-25T20:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Fedora 45 Atomic Desktops Look to Allow for Web-Based Remote Installations",
+        "link": "https://www.phoronix.com/news/Fedora-45-Atomic-Remote-Install",
+        "pubDate": "2026-07-25T20:10",
+        "feedId": "hn"
+      },
+      {
         "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
         "link": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
         "pubDate": "2026-07-25T19:30",
@@ -37,60 +91,6 @@
         "link": "https://rauno.me/notes/2",
         "pubDate": "2026-07-25T16:39",
         "feedId": "hn"
-      },
-      {
-        "title": "Bringing PyTorch Monarch to AMD GPUs",
-        "link": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
-        "pubDate": "2026-07-25T15:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Dark Night of Mathematics",
-        "link": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
-        "pubDate": "2026-07-25T15:54",
-        "feedId": "hn"
-      },
-      {
-        "title": "Engineering management after the cost of code collapsed",
-        "link": "https://karimjedda.com/engineering-management-after-cost-of-code-collapse/",
-        "pubDate": "2026-07-25T15:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "Open-weight AI is having its Kubernetes moment",
-        "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-        "pubDate": "2026-07-25T14:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "Scanwheel is a drum style mechanical television you can build yourself",
-        "link": "https://github.com/AncientJames/Scanwheel/",
-        "pubDate": "2026-07-25T14:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Silurian Hypothesis (2020)",
-        "link": "https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/",
-        "pubDate": "2026-07-25T13:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "My web version of Mars MIPS, now has built-in C compiler",
-        "link": "https://webmars.nfiles.top/",
-        "pubDate": "2026-07-25T13:42",
-        "feedId": "hn"
-      },
-      {
-        "title": "Bitchat is now on Radicle",
-        "link": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
-        "pubDate": "2026-07-25T13:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
-        "link": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
-        "pubDate": "2026-07-25T12:00",
-        "feedId": "hn"
       }
     ]
   },
@@ -122,15 +122,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Your harddrive is probably full",
+        "link": "https://www.marginalia.nu/log/a_139_hdd/",
+        "pubDate": "2026-07-25T18:19",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers",
         "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
         "pubDate": "2026-07-25T10:01",
         "feedId": "lobsters"
       },
       {
-        "title": "Your harddrive is probably full",
-        "link": "https://www.marginalia.nu/log/a_139_hdd/",
-        "pubDate": "2026-07-25T18:19",
+        "title": "Verse: A New Scripting Language",
+        "link": "https://youtube.com/watch?v=ebqKYLKjL6U",
+        "pubDate": "2026-07-25T16:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How I Find Problems to Solve as a Staff Engineer",
+        "link": "https://lalitm.com/post/find-problems-staff-engineer/",
+        "pubDate": "2026-07-25T20:52",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Verse: A New Scripting Language",
-        "link": "https://youtube.com/watch?v=ebqKYLKjL6U",
-        "pubDate": "2026-07-25T16:08",
+        "title": "Memory Safety Absolutists",
+        "link": "https://itsallaboutthebit.com/memory-safety-absolutists/",
+        "pubDate": "2026-07-25T21:38",
         "feedId": "lobsters"
       },
       {
@@ -174,24 +186,18 @@
         "link": "https://www.debian.org/vote/2026/vote_002",
         "pubDate": "2026-07-25T16:10",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Systems and Delays (2026)",
-        "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-        "pubDate": "2026-07-24T22:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Delightful integration tests in Rust",
-        "link": "https://github.com/alexpusch/rust-magic-patterns/blob/master/delightful-integration-tests/Readme.md",
-        "pubDate": "2026-07-24T20:24",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
+        "link": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+        "pubDate": "2026-07-25T20:52",
+        "feedId": "arstechnica"
+      },
       {
         "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
         "link": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
@@ -274,12 +280,6 @@
         "title": "Rocket Report: Lightning strikes in China; Starship launch on deck",
         "link": "https://arstechnica.com/space/2026/07/rocket-report-lightning-strikes-in-china-starship-launch-on-deck/",
         "pubDate": "2026-07-24T14:34",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "AI firms want more data centers; Trump's EPA may give neighbors less say",
-        "link": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
-        "pubDate": "2026-07-24T13:49",
         "feedId": "arstechnica"
       }
     ]
