@@ -3,9 +3,27 @@
     "id": "hn",
     "items": [
       {
-        "title": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-        "link": "https://github.com/hertz-ai/HARTOS",
-        "pubDate": "2026-07-26T18:40",
+        "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
+        "link": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
+        "pubDate": "2026-07-26T20:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "Simulate cassette tape audio profiles using FFmpeg",
+        "link": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
+        "pubDate": "2026-07-26T20:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Infinite Jigsaw Game",
+        "link": "https://infinitejigsaw.com",
+        "pubDate": "2026-07-26T20:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "What does GitHub's security team even do?",
+        "link": "https://orchidfiles.com/github-security-team/",
+        "pubDate": "2026-07-26T19:51",
         "feedId": "hn"
       },
       {
@@ -33,9 +51,15 @@
         "feedId": "hn"
       },
       {
-        "title": "French firefighters face 'pyrocumulonimbus' for first time",
-        "link": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-        "pubDate": "2026-07-26T17:49",
+        "title": "It's not empowering to hand off the details",
+        "link": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
+        "pubDate": "2026-07-26T17:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster",
+        "link": "https://astgrep.com/blog/tree-sitter-rust-rewrite",
+        "pubDate": "2026-07-26T17:51",
         "feedId": "hn"
       },
       {
@@ -67,36 +91,18 @@
         "link": "https://vectoral.com/blog/token-relay-market",
         "pubDate": "2026-07-26T15:17",
         "feedId": "hn"
-      },
-      {
-        "title": "London Gatwick has launched a robotic airport parking service",
-        "link": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
-        "pubDate": "2026-07-26T14:40",
-        "feedId": "hn"
-      },
-      {
-        "title": "The New AI Superpowers: Focus and Followthrough",
-        "link": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-        "pubDate": "2026-07-26T13:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Reverse Minesweeper",
-        "link": "https://sunflowersgame.com/",
-        "pubDate": "2026-07-26T12:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
-        "link": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
-        "pubDate": "2026-07-26T12:43",
-        "feedId": "hn"
       }
     ]
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "Teaching Kids Forth",
+        "link": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+        "pubDate": "2026-07-26T19:26",
+        "feedId": "lobsters"
+      },
       {
         "title": "Maybe we should revisit microkernels",
         "link": "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html",
@@ -116,12 +122,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Teaching Kids Forth",
-        "link": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-        "pubDate": "2026-07-26T19:26",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Himalaya v2.0.0: CLI to manage emails",
         "link": "https://fosstodon.org/@pimalaya/116983467890532240",
         "pubDate": "2026-07-26T00:45",
@@ -134,15 +134,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Xavier Leroy on programming, languages and formal verification",
+        "link": "https://www.youtube.com/watch?v=9Cswiqrq6So",
+        "pubDate": "2026-07-26T14:59",
+        "feedId": "lobsters"
+      },
+      {
         "title": "stinkpot: sqlite-backed shell history",
         "link": "https://tangled.org/oppi.li/stinkpot",
         "pubDate": "2026-07-25T09:10",
         "feedId": "lobsters"
       },
       {
-        "title": "Xavier Leroy on programming, languages and formal verification",
-        "link": "https://www.youtube.com/watch?v=9Cswiqrq6So",
-        "pubDate": "2026-07-26T14:59",
+        "title": "Forth Moving Lisp Moving Forth",
+        "link": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
+        "pubDate": "2026-07-26T17:39",
         "feedId": "lobsters"
       },
       {
@@ -155,12 +161,6 @@
         "title": "How to self-host servers in your living room on static IPs",
         "link": "https://vimuser.org/l2tp.html",
         "pubDate": "2026-07-25T21:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Forth Moving Lisp Moving Forth",
-        "link": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
-        "pubDate": "2026-07-26T17:39",
         "feedId": "lobsters"
       },
       {
