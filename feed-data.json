@@ -3,9 +3,57 @@
     "id": "hn",
     "items": [
       {
+        "title": "Make an Origami Circuit Board",
+        "link": "https://spectrum.ieee.org/origami-circuit-boards",
+        "pubDate": "2026-07-26T15:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
+        "link": "https://github.com/gmrandazzo/CheapSecurity",
+        "pubDate": "2026-07-26T15:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "Design Is Compromise",
+        "link": "https://stephango.com/design-is-compromise",
+        "pubDate": "2026-07-26T15:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "An Inside Look at the Token Reseller Market",
+        "link": "https://vectoral.com/blog/token-relay-market",
+        "pubDate": "2026-07-26T15:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "Park by Robot at London Gatwick Airport",
+        "link": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+        "pubDate": "2026-07-26T14:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Managing on-premise servers without Kubernetes",
+        "link": "https://github.com/ricardoborges/Nautilus",
+        "pubDate": "2026-07-26T13:25",
+        "feedId": "hn"
+      },
+      {
         "title": "Ask HN: What are the most promising RL fields for a new master student?",
         "link": "https://news.ycombinator.com/item?id=49057972",
         "pubDate": "2026-07-26T13:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "The New AI Superpowers: Focus and Followthrough",
+        "link": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+        "pubDate": "2026-07-26T13:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Reverse Minesweeper",
+        "link": "https://sunflowersgame.com/",
+        "pubDate": "2026-07-26T12:51",
         "feedId": "hn"
       },
       {
@@ -27,69 +75,21 @@
         "feedId": "hn"
       },
       {
-        "title": "Systemd Linger",
-        "link": "https://etbe.coker.com.au/2026/07/24/systemd-linger/",
-        "pubDate": "2026-07-26T09:43",
+        "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+        "link": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+        "pubDate": "2026-07-26T12:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Kill The Cookie Banner",
+        "link": "https://killthecookiebanner.eu/",
+        "pubDate": "2026-07-26T11:53",
         "feedId": "hn"
       },
       {
         "title": "Elevated Errors for Opus 5",
         "link": "https://status.claude.com/incidents/zftg3gqkmv18",
         "pubDate": "2026-07-26T09:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
-        "link": "https://astral.sh/blog/ruff-v0.16.0",
-        "pubDate": "2026-07-26T09:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "GrapheneOS protections against data extraction from locked devices",
-        "link": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-        "pubDate": "2026-07-26T05:57",
-        "feedId": "hn"
-      },
-      {
-        "title": "An ESP32 based plane radar for my desk",
-        "link": "https://blog.ktz.me/esp32-plane-radar/",
-        "pubDate": "2026-07-26T02:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: I mapped every US golf course",
-        "link": "https://golfcoursebrowser.com/",
-        "pubDate": "2026-07-26T02:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
-        "link": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/",
-        "pubDate": "2026-07-26T01:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "Git rebase -I is not that scary",
-        "link": "https://cachebag.sh/journal/interactive-rebasing/",
-        "pubDate": "2026-07-26T00:37",
-        "feedId": "hn"
-      },
-      {
-        "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-        "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
-        "pubDate": "2026-07-26T00:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-        "link": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-        "pubDate": "2026-07-25T23:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "Clinical failure rates over the decades: yikes",
-        "link": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
-        "pubDate": "2026-07-25T22:57",
         "feedId": "hn"
       }
     ]
@@ -131,6 +131,12 @@
         "title": "How I Find Problems to Solve as a Staff Engineer",
         "link": "https://lalitm.com/post/find-problems-staff-engineer/",
         "pubDate": "2026-07-25T20:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Xavier Leroy on programming, languages and formal verification",
+        "link": "https://www.youtube.com/watch?v=9Cswiqrq6So",
+        "pubDate": "2026-07-26T14:59",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "General Resolution: LLM usage in Debian",
-        "link": "https://www.debian.org/vote/2026/vote_002",
-        "pubDate": "2026-07-25T16:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "We Are Not Special (2021)",
-        "link": "https://www.hillelwayne.com/post/we-are-not-special/",
-        "pubDate": "2026-07-25T03:00",
+        "title": "Fast DEFLATE compression in Lean",
+        "link": "https://kim-em.github.io/blog/2026-7-24-why-lean-is-faster-than-rust/",
+        "pubDate": "2026-07-26T15:54",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump to meet Zelensky at White House, as MAGA voices shift on Ukraine",
+        "link": "https://www.axios.com/2026/07/26/trump-zelensky-white-house-maga-ukraine",
+        "pubDate": "2026-07-26T15:15",
+        "feedId": "axios"
+      },
+      {
         "title": "100 days out from Election Day, our insider shares his intel",
         "link": "https://www.axios.com/2026/07/26/midterm-election-outlook-100-days",
         "pubDate": "2026-07-26T12:58",
@@ -369,12 +375,6 @@
         "title": "White House draws new AI line on China",
         "link": "https://www.axios.com/2026/07/24/white-house-ai-line-china",
         "pubDate": "2026-07-24T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Republicans skeptical Darline Graham can win a full Senate term",
-        "link": "https://www.axios.com/2026/07/24/gop-senate-darline-graham-election",
-        "pubDate": "2026-07-24T09:10",
         "feedId": "axios"
       }
     ]
