@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "Teaching Kids Forth – Anna Liberty",
+        "link": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+        "pubDate": "2026-07-26T21:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "We have proof automation now",
+        "link": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+        "pubDate": "2026-07-26T20:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "Multiway Turing Machines (2021 pre-ai)",
+        "link": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
+        "pubDate": "2026-07-26T20:49",
+        "feedId": "hn"
+      },
+      {
         "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
         "link": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
         "pubDate": "2026-07-26T20:31",
@@ -18,24 +36,6 @@
         "title": "Show HN: Infinite Jigsaw Game",
         "link": "https://infinitejigsaw.com",
         "pubDate": "2026-07-26T20:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "What does GitHub's security team even do?",
-        "link": "https://orchidfiles.com/github-security-team/",
-        "pubDate": "2026-07-26T19:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Strongest El Niño Ever",
-        "link": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
-        "pubDate": "2026-07-26T18:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "How to Block Some of the Bots",
-        "link": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
-        "pubDate": "2026-07-26T18:32",
         "feedId": "hn"
       },
       {
@@ -122,6 +122,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Xavier Leroy on programming, languages and formal verification",
+        "link": "https://www.youtube.com/watch?v=9Cswiqrq6So",
+        "pubDate": "2026-07-26T14:59",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Himalaya v2.0.0: CLI to manage emails",
         "link": "https://fosstodon.org/@pimalaya/116983467890532240",
         "pubDate": "2026-07-26T00:45",
@@ -134,9 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Xavier Leroy on programming, languages and formal verification",
-        "link": "https://www.youtube.com/watch?v=9Cswiqrq6So",
-        "pubDate": "2026-07-26T14:59",
+        "title": "Dmitri Gaskin on jQuery",
+        "link": "https://www.youtube.com/watch?v=8mwKq7_JlS8",
+        "pubDate": "2026-07-26T14:50",
         "feedId": "lobsters"
       },
       {
@@ -152,12 +158,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Dmitri Gaskin on jQuery",
-        "link": "https://www.youtube.com/watch?v=8mwKq7_JlS8",
-        "pubDate": "2026-07-26T14:50",
-        "feedId": "lobsters"
-      },
-      {
         "title": "How to self-host servers in your living room on static IPs",
         "link": "https://vimuser.org/l2tp.html",
         "pubDate": "2026-07-25T21:32",
@@ -167,6 +167,12 @@
         "title": "OpenLoco version 26.07  Release",
         "link": "https://openloco.io/news/2026/07/openloco-v26.07.html",
         "pubDate": "2026-07-26T17:38",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The secret life of data in Valkey",
+        "link": "https://valkey.io/blog/secret-life-of-data/",
+        "pubDate": "2026-07-26T21:28",
         "feedId": "lobsters"
       },
       {
@@ -180,18 +186,18 @@
         "link": "https://www.marginalia.nu/log/a_139_hdd/",
         "pubDate": "2026-07-25T18:19",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers",
-        "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-        "pubDate": "2026-07-25T10:01",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
+        "link": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
+        "pubDate": "2026-07-26T19:48",
+        "feedId": "arstechnica"
+      },
       {
         "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
         "link": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
@@ -275,18 +281,24 @@
         "link": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
         "pubDate": "2026-07-24T15:23",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Rocket Report: Lightning strikes in China; Starship launch on deck",
-        "link": "https://arstechnica.com/space/2026/07/rocket-report-lightning-strikes-in-china-starship-launch-on-deck/",
-        "pubDate": "2026-07-24T14:34",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Dems' 2028 primary schedule angers some progressives",
+        "link": "https://www.axios.com/2026/07/26/south-carolina-progressives-primary-2028",
+        "pubDate": "2026-07-26T21:45",
+        "feedId": "axios"
+      },
+      {
+        "title": "Some Democrats tout their version of \"America First\"",
+        "link": "https://www.axios.com/2026/07/26/democrats-america-first-trump-2028",
+        "pubDate": "2026-07-26T21:30",
+        "feedId": "axios"
+      },
       {
         "title": "Top U.S. military commander in Middle East advised halting Hormuz bombing",
         "link": "https://www.axios.com/2026/07/26/hormuz-bombing-pause-trump-iran",
@@ -363,18 +375,6 @@
         "title": "New Trump tariffs bring in less money than illegal tariffs",
         "link": "https://www.axios.com/2026/07/24/tariffs-import-taxes",
         "pubDate": "2026-07-24T15:59",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump to meet Netanyahu on Tuesday amid Iran escalation",
-        "link": "https://www.axios.com/2026/07/24/trump-netanyahu-white-house-iran",
-        "pubDate": "2026-07-24T14:38",
-        "feedId": "axios"
-      },
-      {
-        "title": "Drones have created a new energy security landscape",
-        "link": "https://www.axios.com/2026/07/24/drones-energy-security-prices-iran-ukraine",
-        "pubDate": "2026-07-24T12:38",
         "feedId": "axios"
       }
     ]
