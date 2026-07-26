@@ -3,9 +3,33 @@
     "id": "hn",
     "items": [
       {
-        "title": "Git rebase -I is not that scary",
-        "link": "https://cachebag.sh/journal/interactive-rebasing/",
-        "pubDate": "2026-07-26T00:37",
+        "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
+        "link": "https://github.com/mulfyx/w4me-station",
+        "pubDate": "2026-07-26T04:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "JetZero",
+        "link": "https://www.jetzero.aero",
+        "pubDate": "2026-07-26T02:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "An ESP32 based plane radar for my desk",
+        "link": "https://blog.ktz.me/esp32-plane-radar/",
+        "pubDate": "2026-07-26T02:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: I mapped every US golf course",
+        "link": "https://golfcoursebrowser.com/",
+        "pubDate": "2026-07-26T02:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
+        "link": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/",
+        "pubDate": "2026-07-26T01:35",
         "feedId": "hn"
       },
       {
@@ -18,12 +42,6 @@
         "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
         "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
         "pubDate": "2026-07-26T00:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-        "link": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-        "pubDate": "2026-07-25T23:32",
         "feedId": "hn"
       },
       {
@@ -45,18 +63,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Becoming a Research Engineer at a Big LLM Lab",
-        "link": "https://www.maxmynter.com/pages/blog/jobhunt",
-        "pubDate": "2026-07-25T21:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "Multicast TV Distribution on My Home Network",
-        "link": "https://www.apalrd.net/posts/2026/isp_mcast/",
-        "pubDate": "2026-07-25T20:55",
-        "feedId": "hn"
-      },
-      {
         "title": "Turn And Face The Strange",
         "link": "https://fly.io/blog/kurt-scott-money-sprites/",
         "pubDate": "2026-07-25T20:43",
@@ -66,12 +72,6 @@
         "title": "The new rules of context engineering for Claude 5 generation models",
         "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
         "pubDate": "2026-07-25T20:42",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
-        "link": "https://news.ycombinator.com/item?id=49051130",
-        "pubDate": "2026-07-25T20:18",
         "feedId": "hn"
       },
       {
@@ -110,15 +110,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Maybe we should revisit microkernels",
+        "link": "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html",
+        "pubDate": "2026-07-25T22:13",
+        "feedId": "lobsters"
+      },
+      {
         "title": "stinkpot: sqlite-backed shell history",
         "link": "https://tangled.org/oppi.li/stinkpot",
         "pubDate": "2026-07-25T09:10",
         "feedId": "lobsters"
       },
       {
-        "title": "Maybe we should revisit microkernels",
-        "link": "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html",
-        "pubDate": "2026-07-25T22:13",
+        "title": "How I Find Problems to Solve as a Staff Engineer",
+        "link": "https://lalitm.com/post/find-problems-staff-engineer/",
+        "pubDate": "2026-07-25T20:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Himalaya v2.0.0: CLI to manage emails",
+        "link": "https://fosstodon.org/@pimalaya/116983467890532240",
+        "pubDate": "2026-07-26T00:45",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Chrome registers a global shortcut for Gemini popup window",
-        "link": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
-        "pubDate": "2026-07-24T23:04",
+        "title": "How to self-host servers in your living room on static IPs",
+        "link": "https://vimuser.org/l2tp.html",
+        "pubDate": "2026-07-25T21:32",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Himalaya v2.0.0: CLI to manage emails",
-        "link": "https://fosstodon.org/@pimalaya/116983467890532240",
-        "pubDate": "2026-07-26T00:45",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How I Find Problems to Solve as a Staff Engineer",
-        "link": "https://lalitm.com/post/find-problems-staff-engineer/",
-        "pubDate": "2026-07-25T20:52",
+        "title": "Chrome registers a global shortcut for Gemini popup window",
+        "link": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
+        "pubDate": "2026-07-24T23:04",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Watching Go's new garbage collector move through the heap",
-        "link": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-        "pubDate": "2026-07-24T20:34",
+        "title": "General Resolution: LLM usage in Debian",
+        "link": "https://www.debian.org/vote/2026/vote_002",
+        "pubDate": "2026-07-25T16:10",
         "feedId": "lobsters"
       },
       {
         "title": "Emacs Writing Machine",
         "link": "https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html",
         "pubDate": "2026-07-25T11:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How to self-host servers in your living room on static IPs",
-        "link": "https://vimuser.org/l2tp.html",
-        "pubDate": "2026-07-25T21:32",
         "feedId": "lobsters"
       }
     ]
