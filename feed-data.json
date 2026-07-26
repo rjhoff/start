@@ -3,9 +3,21 @@
     "id": "hn",
     "items": [
       {
+        "title": "GrapheneOS protections against data extraction from locked devices",
+        "link": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+        "pubDate": "2026-07-26T05:57",
+        "feedId": "hn"
+      },
+      {
         "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
         "link": "https://github.com/mulfyx/w4me-station",
         "pubDate": "2026-07-26T04:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "Humans haven't stopped evolving",
+        "link": "https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure",
+        "pubDate": "2026-07-26T03:09",
         "feedId": "hn"
       },
       {
@@ -33,6 +45,12 @@
         "feedId": "hn"
       },
       {
+        "title": "Git rebase -I is not that scary",
+        "link": "https://cachebag.sh/journal/interactive-rebasing/",
+        "pubDate": "2026-07-26T00:37",
+        "feedId": "hn"
+      },
+      {
         "title": "Systems and Delays",
         "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
         "pubDate": "2026-07-26T00:37",
@@ -45,9 +63,21 @@
         "feedId": "hn"
       },
       {
+        "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+        "link": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+        "pubDate": "2026-07-25T23:32",
+        "feedId": "hn"
+      },
+      {
         "title": "Clinical failure rates over the decades: yikes",
         "link": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
         "pubDate": "2026-07-25T22:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "What is happening to jobs? Separating AI hype from reality",
+        "link": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+        "pubDate": "2026-07-25T22:51",
         "feedId": "hn"
       },
       {
@@ -60,36 +90,6 @@
         "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
         "link": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
         "pubDate": "2026-07-25T21:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "Turn And Face The Strange",
-        "link": "https://fly.io/blog/kurt-scott-money-sprites/",
-        "pubDate": "2026-07-25T20:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "The new rules of context engineering for Claude 5 generation models",
-        "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-        "pubDate": "2026-07-25T20:42",
-        "feedId": "hn"
-      },
-      {
-        "title": "Did They Ghost You?",
-        "link": "https://didtheyghostyou.com/",
-        "pubDate": "2026-07-25T20:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "LLM Usage in Debian: Three Proposals",
-        "link": "https://www.debian.org/vote/2026/vote_002",
-        "pubDate": "2026-07-25T19:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
-        "link": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
-        "pubDate": "2026-07-25T19:30",
         "feedId": "hn"
       }
     ]
@@ -122,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How I Find Problems to Solve as a Staff Engineer",
-        "link": "https://lalitm.com/post/find-problems-staff-engineer/",
-        "pubDate": "2026-07-25T20:52",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Himalaya v2.0.0: CLI to manage emails",
         "link": "https://fosstodon.org/@pimalaya/116983467890532240",
         "pubDate": "2026-07-26T00:45",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How I Find Problems to Solve as a Staff Engineer",
+        "link": "https://lalitm.com/post/find-problems-staff-engineer/",
+        "pubDate": "2026-07-25T20:52",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "General Resolution: LLM usage in Debian",
-        "link": "https://www.debian.org/vote/2026/vote_002",
-        "pubDate": "2026-07-25T16:10",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Emacs Writing Machine",
         "link": "https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html",
         "pubDate": "2026-07-25T11:14",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "General Resolution: LLM usage in Debian",
+        "link": "https://www.debian.org/vote/2026/vote_002",
+        "pubDate": "2026-07-25T16:10",
         "feedId": "lobsters"
       }
     ]
