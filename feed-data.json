@@ -15,12 +15,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Humans haven't stopped evolving",
-        "link": "https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure",
-        "pubDate": "2026-07-26T03:09",
-        "feedId": "hn"
-      },
-      {
         "title": "JetZero",
         "link": "https://www.jetzero.aero",
         "pubDate": "2026-07-26T02:55",
@@ -90,6 +84,12 @@
         "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
         "link": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
         "pubDate": "2026-07-25T21:48",
+        "feedId": "hn"
+      },
+      {
+        "title": "Turn And Face The Strange",
+        "link": "https://fly.io/blog/kurt-scott-money-sprites/",
+        "pubDate": "2026-07-25T20:43",
         "feedId": "hn"
       }
     ]
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Emacs Writing Machine",
-        "link": "https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html",
-        "pubDate": "2026-07-25T11:14",
-        "feedId": "lobsters"
-      },
-      {
         "title": "General Resolution: LLM usage in Debian",
         "link": "https://www.debian.org/vote/2026/vote_002",
         "pubDate": "2026-07-25T16:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Emacs Writing Machine",
+        "link": "https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html",
+        "pubDate": "2026-07-25T11:14",
         "feedId": "lobsters"
       }
     ]
