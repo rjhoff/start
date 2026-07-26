@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "Ask HN: What are the most promising RL fields for a new master student?",
+        "link": "https://news.ycombinator.com/item?id=49057972",
+        "pubDate": "2026-07-26T13:22",
+        "feedId": "hn"
+      },
+      {
         "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
         "link": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
         "pubDate": "2026-07-26T12:43",
@@ -18,12 +24,6 @@
         "title": "Third Drone Shot Down in Three Days in Romanian Territory",
         "link": "https://english.mapn.ro/",
         "pubDate": "2026-07-26T12:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s",
-        "link": "https://comuniq.xyz/post?t=1439",
-        "pubDate": "2026-07-26T09:58",
         "feedId": "hn"
       },
       {
@@ -140,15 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Your harddrive is probably full",
-        "link": "https://www.marginalia.nu/log/a_139_hdd/",
-        "pubDate": "2026-07-25T18:19",
-        "feedId": "lobsters"
-      },
-      {
         "title": "How to self-host servers in your living room on static IPs",
         "link": "https://vimuser.org/l2tp.html",
         "pubDate": "2026-07-25T21:32",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Your harddrive is probably full",
+        "link": "https://www.marginalia.nu/log/a_139_hdd/",
+        "pubDate": "2026-07-25T18:19",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Chrome registers a global shortcut for Gemini popup window",
-        "link": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
-        "pubDate": "2026-07-24T23:04",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Beginner J: Dealing Cards",
         "link": "https://www.youtube.com/watch?v=eXGKK8BkCkg",
         "pubDate": "2026-07-26T04:53",
         "feedId": "lobsters"
       },
       {
-        "title": "We Are Not Special (2021)",
-        "link": "https://www.hillelwayne.com/post/we-are-not-special/",
-        "pubDate": "2026-07-25T03:00",
+        "title": "Chrome registers a global shortcut for Gemini popup window",
+        "link": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
+        "pubDate": "2026-07-24T23:04",
         "feedId": "lobsters"
       },
       {
         "title": "General Resolution: LLM usage in Debian",
         "link": "https://www.debian.org/vote/2026/vote_002",
         "pubDate": "2026-07-25T16:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "We Are Not Special (2021)",
+        "link": "https://www.hillelwayne.com/post/we-are-not-special/",
+        "pubDate": "2026-07-25T03:00",
         "feedId": "lobsters"
       }
     ]
