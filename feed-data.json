@@ -3,9 +3,15 @@
     "id": "hn",
     "items": [
       {
-        "title": "Teaching Kids Forth – Anna Liberty",
+        "title": "Teaching Kids Forth",
         "link": "https://gracefulliberty.com/articles/teaching-kids-forth/",
         "pubDate": "2026-07-26T21:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "We're Thinking About Darkness All Wrong",
+        "link": "https://www.harvardmagazine.com/science/harvard-night-dark-sky-light-pollution",
+        "pubDate": "2026-07-26T21:30",
         "feedId": "hn"
       },
       {
@@ -39,6 +45,18 @@
         "feedId": "hn"
       },
       {
+        "title": "The Strongest El Niño Ever",
+        "link": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
+        "pubDate": "2026-07-26T18:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "How to Block Some of the Bots",
+        "link": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
+        "pubDate": "2026-07-26T18:32",
+        "feedId": "hn"
+      },
+      {
         "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
         "link": "https://beyondloom.com/decker/",
         "pubDate": "2026-07-26T18:23",
@@ -63,33 +81,15 @@
         "feedId": "hn"
       },
       {
+        "title": "French firefighters face 'pyrocumulonimbus' for first time",
+        "link": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+        "pubDate": "2026-07-26T17:49",
+        "feedId": "hn"
+      },
+      {
         "title": "How to Write English Prose",
         "link": "https://thelampmagazine.com/blog/how-to-write-english-prose",
         "pubDate": "2026-07-26T17:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "Using ThinkPad T480 as a mobile phone",
-        "link": "https://grego.site/blog/thinkphone",
-        "pubDate": "2026-07-26T16:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
-        "link": "https://github.com/gmrandazzo/CheapSecurity",
-        "pubDate": "2026-07-26T15:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "Design is compromise",
-        "link": "https://stephango.com/design-is-compromise",
-        "pubDate": "2026-07-26T15:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "The relay market powering token resellers and fraud",
-        "link": "https://vectoral.com/blog/token-relay-market",
-        "pubDate": "2026-07-26T15:17",
         "feedId": "hn"
       }
     ]
@@ -134,9 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How I Find Problems to Solve as a Staff Engineer",
-        "link": "https://lalitm.com/post/find-problems-staff-engineer/",
-        "pubDate": "2026-07-25T20:52",
+        "title": "SQLite WAL Mode Can Lock Short-Lived Readers",
+        "link": "https://hynek.me/til/sqlite-read-only-wal-locked/",
+        "pubDate": "2026-07-26T22:32",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +146,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "stinkpot: sqlite-backed shell history",
-        "link": "https://tangled.org/oppi.li/stinkpot",
-        "pubDate": "2026-07-25T09:10",
+        "title": "How I Find Problems to Solve as a Staff Engineer",
+        "link": "https://lalitm.com/post/find-problems-staff-engineer/",
+        "pubDate": "2026-07-25T20:52",
         "feedId": "lobsters"
       },
       {
         "title": "Forth Moving Lisp Moving Forth",
         "link": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
         "pubDate": "2026-07-26T17:39",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "stinkpot: sqlite-backed shell history",
+        "link": "https://tangled.org/oppi.li/stinkpot",
+        "pubDate": "2026-07-25T09:10",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Using ThinkPad T480 as a mobile phone",
+        "link": "https://grego.site/blog/thinkphone",
+        "pubDate": "2026-07-26T23:17",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The secret life of data in Valkey",
         "link": "https://valkey.io/blog/secret-life-of-data/",
         "pubDate": "2026-07-26T21:28",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Zig by Example",
-        "link": "https://zigbyexample.neocities.org/",
-        "pubDate": "2026-07-25T12:58",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Your harddrive is probably full",
-        "link": "https://www.marginalia.nu/log/a_139_hdd/",
-        "pubDate": "2026-07-25T18:19",
         "feedId": "lobsters"
       }
     ]
