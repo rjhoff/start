@@ -3,15 +3,39 @@
     "id": "hn",
     "items": [
       {
-        "title": "AI companies spend record sums on Washington lobbying",
-        "link": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-        "pubDate": "2026-07-27T14:07",
+        "title": "Nvidia's $750B in Deals Reignite Circular AI Fears",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
+        "pubDate": "2026-07-27T16:02",
         "feedId": "hn"
       },
       {
-        "title": "We Tested Nonstick Cookware: Coatings Don't Need to Look Worn to Shed Particles",
-        "link": "https://www.rtings.com/air-fryer/learn/research/ptfe-cookware-shedding",
-        "pubDate": "2026-07-27T13:29",
+        "title": "Kimi-K3 Technical Report [pdf]",
+        "link": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
+        "pubDate": "2026-07-27T15:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition",
+        "link": "https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition",
+        "pubDate": "2026-07-27T15:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+        "link": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
+        "pubDate": "2026-07-27T14:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "Paged Out #9 [pdf]",
+        "link": "https://pagedout.institute/download/PagedOut_009.pdf",
+        "pubDate": "2026-07-27T14:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI companies spend record sums on Washington lobbying",
+        "link": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+        "pubDate": "2026-07-27T14:07",
         "feedId": "hn"
       },
       {
@@ -21,8 +45,14 @@
         "feedId": "hn"
       },
       {
+        "title": "108 PRs in eight days: Accidentally discovering loop engineering",
+        "link": "https://brittany-ellich.offprint.app/a/3mrjj34puva23-108-prs-in-eight-days-accidentally-discovering-loop-engineering",
+        "pubDate": "2026-07-27T12:44",
+        "feedId": "hn"
+      },
+      {
         "title": "AI companies are shredding rare books",
-        "link": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
+        "link": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
         "pubDate": "2026-07-27T12:32",
         "feedId": "hn"
       },
@@ -30,24 +60,6 @@
         "title": "The Proof Machine (2016)",
         "link": "https://incredible.pm/",
         "pubDate": "2026-07-27T12:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "Worse on Purpose",
-        "link": "https://ledger.worseonpurpose.com/brands",
-        "pubDate": "2026-07-27T12:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "Elevated errors on Claude Opus 5",
-        "link": "https://status.claude.com/incidents/mfdtrknpxghq",
-        "pubDate": "2026-07-27T11:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",
-        "link": "https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available",
-        "pubDate": "2026-07-27T11:19",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://www.shaylocomotives.com/",
         "pubDate": "2026-07-27T09:23",
         "feedId": "hn"
-      },
-      {
-        "title": "VLC for Unity now supported on Linux",
-        "link": "https://code.videolan.org/videolan/vlc-unity",
-        "pubDate": "2026-07-27T09:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "Modern email can be built from borrowed parts",
-        "link": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
-        "pubDate": "2026-07-27T08:27",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Most Googlebots are fake",
-        "link": "https://digitalseams.com/blog/most-googlebots-are-fake",
-        "pubDate": "2026-07-27T10:40",
-        "feedId": "lobsters"
-      },
-      {
         "title": "On AI",
         "link": "https://jcs.org/2026/07/23/ai",
         "pubDate": "2026-07-27T08:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Most Googlebots are fake",
+        "link": "https://digitalseams.com/blog/most-googlebots-are-fake",
+        "pubDate": "2026-07-27T10:40",
         "feedId": "lobsters"
       },
       {
@@ -122,21 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Teaching Kids Forth",
-        "link": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-        "pubDate": "2026-07-26T19:26",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The Productivity Mirage",
         "link": "https://frantic.im/mirage",
         "pubDate": "2026-07-27T10:54",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week",
-        "pubDate": "2026-07-27T10:51",
         "feedId": "lobsters"
       },
       {
@@ -146,27 +134,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week",
+        "pubDate": "2026-07-27T10:51",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Teaching Kids Forth",
+        "link": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+        "pubDate": "2026-07-26T19:26",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Paged Out - Issue #9",
+        "link": "https://pagedout.institute/webview.php?issue=9&page=1",
+        "pubDate": "2026-07-27T14:55",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Open Source Must Be Fun (Or It Will Die)",
+        "link": "https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/",
+        "pubDate": "2026-07-27T15:33",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Make Reviews Possible Again With This One Simple Trick",
         "link": "https://silky.github.io/posts/reviews-one-simple-trick.html",
         "pubDate": "2026-07-27T08:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "lobste.rs ~~has~~had a js-error: here is a mitigation",
-        "link": "https://lobste.rs/s/llf3mg/lobste_rs_has_had_js_error_here_is",
-        "pubDate": "2026-07-27T09:48",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Being Linux Torvalds",
-        "link": "https://antirez.com/news/171",
-        "pubDate": "2026-07-27T05:25",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "N-body gravity simulation in O(N)",
-        "link": "https://www.youtube.com/watch?v=FhMftauQZqU",
-        "pubDate": "2026-07-27T08:45",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Functional programming from first principles, part 1 – motivation",
-        "link": "https://www.endoflineblog.com/functional-programming-from-first-principles-part-1-motivation",
-        "pubDate": "2026-07-27T08:54",
+        "title": "lobste.rs ~~has~~had a js-error: here is a mitigation",
+        "link": "https://lobste.rs/s/llf3mg/lobste_rs_has_had_js_error_here_is",
+        "pubDate": "2026-07-27T09:48",
         "feedId": "lobsters"
       },
       {
-        "title": "A Voice From Nowhere",
-        "link": "https://zanlib.dev/blog/a-voice-from-nowhere/",
-        "pubDate": "2026-07-27T09:44",
+        "title": "N-body gravity simulation in O(N)",
+        "link": "https://www.youtube.com/watch?v=FhMftauQZqU",
+        "pubDate": "2026-07-27T08:45",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Functional programming from first principles, part 1 – motivation",
+        "link": "https://www.endoflineblog.com/functional-programming-from-first-principles-part-1-motivation",
+        "pubDate": "2026-07-27T08:54",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
+        "link": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
+        "pubDate": "2026-07-27T15:58",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Framework Laptop 13 Pro review: Much better battery, much worse price",
+        "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
+        "pubDate": "2026-07-27T15:02",
+        "feedId": "arstechnica"
+      },
       {
         "title": "What public health professionals can learn from anti-vaccine storytelling",
         "link": "https://arstechnica.com/health/2026/07/how-emotionally-powerful-stories-fuel-vaccine-skepticism/",
@@ -269,24 +281,24 @@
         "link": "https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/",
         "pubDate": "2026-07-24T19:10",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Judge rebuffs Trump admin demand for phone records from NYT reporters",
-        "link": "https://arstechnica.com/tech-policy/2026/07/judge-rebuffs-trump-admin-demand-for-phone-records-from-nyt-reporters/",
-        "pubDate": "2026-07-24T18:02",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "European Union grants US request to restrict satellite images of Iran War region",
-        "link": "https://arstechnica.com/space/2026/07/european-union-grants-us-request-to-restrict-satellite-images-of-iran-war-region/",
-        "pubDate": "2026-07-24T17:45",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "What would a rate hike signal about the new Fed chief's MO?",
+        "link": "https://www.axios.com/2026/07/27/warsh-fed-rate-hike-bernanke",
+        "pubDate": "2026-07-27T15:58",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump to Axios: I'm ready for \"strong military action\" if  Iran talks fail",
+        "link": "https://www.axios.com/2026/07/27/trump-interview-iran-bombing-pause",
+        "pubDate": "2026-07-27T15:57",
+        "feedId": "axios"
+      },
       {
         "title": "Democrats hit the anti-incumbency trap",
         "link": "https://www.axios.com/2026/07/27/2026-midterm-democrats-socialist-michigan",
@@ -363,18 +375,6 @@
         "title": "Food banks confront growing SNAP gap",
         "link": "https://www.axios.com/2026/07/25/food-banks-snap-cuts-obbb",
         "pubDate": "2026-07-25T11:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump condemns violence, slams press at White House Correspondents' Dinner",
-        "link": "https://www.axios.com/2026/07/25/trump-white-house-correspondents-dinner-whcd",
-        "pubDate": "2026-07-25T02:52",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: U.S., U.K. planning international conference on Strait of Hormuz",
-        "link": "https://www.axios.com/2026/07/24/hormuz-us-uk-conference-iran",
-        "pubDate": "2026-07-24T18:13",
         "feedId": "axios"
       }
     ]
