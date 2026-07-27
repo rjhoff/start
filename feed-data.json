@@ -3,9 +3,33 @@
     "id": "hn",
     "items": [
       {
+        "title": "AI companies spend record sums on Washington lobbying",
+        "link": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+        "pubDate": "2026-07-27T14:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "We Tested Nonstick Cookware: Coatings Don't Need to Look Worn to Shed Particles",
+        "link": "https://www.rtings.com/air-fryer/learn/research/ptfe-cookware-shedding",
+        "pubDate": "2026-07-27T13:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Should you wash your solar panels?",
+        "link": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
+        "pubDate": "2026-07-27T13:04",
+        "feedId": "hn"
+      },
+      {
         "title": "AI companies are shredding rare books",
         "link": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
         "pubDate": "2026-07-27T12:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Proof Machine (2016)",
+        "link": "https://incredible.pm/",
+        "pubDate": "2026-07-27T12:29",
         "feedId": "hn"
       },
       {
@@ -45,7 +69,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity",
+        "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
         "link": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
         "pubDate": "2026-07-27T09:58",
         "feedId": "hn"
@@ -57,39 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Chinese chipmaker shares surge 470%",
-        "link": "https://www.bbc.com/news/articles/c9q9w3x9qn2o",
-        "pubDate": "2026-07-27T09:11",
-        "feedId": "hn"
-      },
-      {
         "title": "VLC for Unity now supported on Linux",
         "link": "https://code.videolan.org/videolan/vlc-unity",
         "pubDate": "2026-07-27T09:06",
         "feedId": "hn"
       },
       {
-        "title": "How Unix spell ran in 64 kB of RAM",
-        "link": "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram",
-        "pubDate": "2026-07-27T08:43",
-        "feedId": "hn"
-      },
-      {
         "title": "Modern email can be built from borrowed parts",
         "link": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
         "pubDate": "2026-07-27T08:27",
-        "feedId": "hn"
-      },
-      {
-        "title": "Elevated errors on Claude Opus 5",
-        "link": "https://status.claude.com/incidents/lhqp09kxq7pb",
-        "pubDate": "2026-07-27T08:20",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kimi-K3 Releases on HuggingFace 7/27",
-        "link": "https://huggingface.co/moonshotai/Kimi-K3",
-        "pubDate": "2026-07-27T06:18",
         "feedId": "hn"
       }
     ]
@@ -98,21 +98,9 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Teaching Kids Forth",
-        "link": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-        "pubDate": "2026-07-26T19:26",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Most Googlebots are fake",
         "link": "https://digitalseams.com/blog/most-googlebots-are-fake",
         "pubDate": "2026-07-27T10:40",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How is the Bun Rewrite in Rust Going?",
-        "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-        "pubDate": "2026-07-27T12:32",
         "feedId": "lobsters"
       },
       {
@@ -122,27 +110,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Make Reviews Possible Again With This One Simple Trick",
-        "link": "https://silky.github.io/posts/reviews-one-simple-trick.html",
-        "pubDate": "2026-07-27T08:37",
+        "title": "Blogging Can Just Be Stating The Obvious",
+        "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+        "pubDate": "2026-07-27T13:34",
         "feedId": "lobsters"
       },
       {
-        "title": "What does GitHub’s security team even do?",
-        "link": "https://orchidfiles.com/github-security-team/",
-        "pubDate": "2026-07-27T06:06",
+        "title": "How is the Bun Rewrite in Rust Going?",
+        "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+        "pubDate": "2026-07-27T12:32",
         "feedId": "lobsters"
       },
       {
-        "title": "Being Linux Torvalds",
-        "link": "https://antirez.com/news/171",
-        "pubDate": "2026-07-27T05:25",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "lobste.rs ~~has~~had a js-error: here is a mitigation",
-        "link": "https://lobste.rs/s/llf3mg/lobste_rs_has_had_js_error_here_is",
-        "pubDate": "2026-07-27T09:48",
+        "title": "Teaching Kids Forth",
+        "link": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+        "pubDate": "2026-07-26T19:26",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +134,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A Voice From Nowhere",
-        "link": "https://zanlib.dev/blog/a-voice-from-nowhere/",
-        "pubDate": "2026-07-27T09:44",
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week",
+        "pubDate": "2026-07-27T10:51",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What does GitHub’s security team even do?",
+        "link": "https://orchidfiles.com/github-security-team/",
+        "pubDate": "2026-07-27T06:06",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Make Reviews Possible Again With This One Simple Trick",
+        "link": "https://silky.github.io/posts/reviews-one-simple-trick.html",
+        "pubDate": "2026-07-27T08:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "lobste.rs ~~has~~had a js-error: here is a mitigation",
+        "link": "https://lobste.rs/s/llf3mg/lobste_rs_has_had_js_error_here_is",
+        "pubDate": "2026-07-27T09:48",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Being Linux Torvalds",
+        "link": "https://antirez.com/news/171",
+        "pubDate": "2026-07-27T05:25",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week",
-        "pubDate": "2026-07-27T10:51",
+        "title": "PGSimCity: How PostgreSQL Works, in 3D",
+        "link": "https://nikolays.github.io/PGSimCity/",
+        "pubDate": "2026-07-27T08:20",
         "feedId": "lobsters"
       },
       {
-        "title": "Maybe we should revisit microkernels",
-        "link": "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html",
-        "pubDate": "2026-07-25T22:13",
+        "title": "Functional programming from first principles, part 1 – motivation",
+        "link": "https://www.endoflineblog.com/functional-programming-from-first-principles-part-1-motivation",
+        "pubDate": "2026-07-27T08:54",
         "feedId": "lobsters"
       },
       {
-        "title": "The Design of Everyday Cryptography",
-        "link": "https://www.dlp.rip/everyday-cryptography/",
-        "pubDate": "2026-07-27T09:55",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A shell colon does nothing. Use it anyway",
-        "link": "https://refp.se/articles/your-shell-and-the-magic-colon",
-        "pubDate": "2026-07-25T11:33",
+        "title": "A Voice From Nowhere",
+        "link": "https://zanlib.dev/blog/a-voice-from-nowhere/",
+        "pubDate": "2026-07-27T09:44",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "What public health professionals can learn from anti-vaccine storytelling",
+        "link": "https://arstechnica.com/health/2026/07/how-emotionally-powerful-stories-fuel-vaccine-skepticism/",
+        "pubDate": "2026-07-27T14:01",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
         "link": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
@@ -274,12 +280,6 @@
         "title": "European Union grants US request to restrict satellite images of Iran War region",
         "link": "https://arstechnica.com/space/2026/07/european-union-grants-us-request-to-restrict-satellite-images-of-iran-war-region/",
         "pubDate": "2026-07-24T17:45",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-        "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
-        "pubDate": "2026-07-24T17:31",
         "feedId": "arstechnica"
       }
     ]
