@@ -3,12 +3,6 @@
     "id": "hn",
     "items": [
       {
-        "title": "I Championed Prediction Markets. Look What They've Become",
-        "link": "https://newsletter.platypuseconomics.com/p/i-championed-prediction-markets-look",
-        "pubDate": "2026-07-27T00:25",
-        "feedId": "hn"
-      },
-      {
         "title": "PGSimCity - How PostgreSQL Works",
         "link": "https://nikolays.github.io/PGSimCity/",
         "pubDate": "2026-07-27T00:19",
@@ -21,12 +15,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Visualizing the Artemis II Mission",
-        "link": "https://foxglove.dev/blog/visualizing-the-artemis-ii-mission",
-        "pubDate": "2026-07-26T23:50",
-        "feedId": "hn"
-      },
-      {
         "title": "Fonts In Use – Find out where a font is used",
         "link": "https://fontsinuse.com/",
         "pubDate": "2026-07-26T23:45",
@@ -36,6 +24,12 @@
         "title": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
         "link": "https://github.com/faizannraza/wattage",
         "pubDate": "2026-07-26T23:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+        "link": "https://github.com/vercel-labs/scriptc",
+        "pubDate": "2026-07-26T22:46",
         "feedId": "hn"
       },
       {
@@ -54,12 +48,6 @@
         "title": "We have proof automation now",
         "link": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
         "pubDate": "2026-07-26T20:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "Multiway Turing Machines (2021 pre-ai)",
-        "link": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
-        "pubDate": "2026-07-26T20:49",
         "feedId": "hn"
       },
       {
@@ -90,6 +78,18 @@
         "title": "Introduction to Data-Oriented Design [pdf]",
         "link": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
         "pubDate": "2026-07-26T18:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster",
+        "link": "https://astgrep.com/blog/tree-sitter-rust-rewrite",
+        "pubDate": "2026-07-26T17:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "French firefighters face 'pyrocumulonimbus' for first time",
+        "link": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+        "pubDate": "2026-07-26T17:49",
         "feedId": "hn"
       }
     ]
