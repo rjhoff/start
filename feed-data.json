@@ -3,9 +3,69 @@
     "id": "hn",
     "items": [
       {
+        "title": "AI companies are shredding rare books",
+        "link": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
+        "pubDate": "2026-07-27T12:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "Worse on Purpose",
+        "link": "https://ledger.worseonpurpose.com/brands",
+        "pubDate": "2026-07-27T12:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Elevated errors on Claude Opus 5",
+        "link": "https://status.claude.com/incidents/mfdtrknpxghq",
+        "pubDate": "2026-07-27T11:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",
+        "link": "https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available",
+        "pubDate": "2026-07-27T11:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "How is the Bun Rewrite in Rust going?",
+        "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+        "pubDate": "2026-07-27T11:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Birth of the American 12-string Guitar",
+        "link": "https://www.harpguitars.net/history/grunewald/12-string.htm",
+        "pubDate": "2026-07-27T10:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "Libsm64: Mario 64 as a library for use in external game engines",
+        "link": "https://github.com/libsm64/libsm64",
+        "pubDate": "2026-07-27T10:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity",
+        "link": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
+        "pubDate": "2026-07-27T09:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "Shay Locomotives",
+        "link": "https://www.shaylocomotives.com/",
+        "pubDate": "2026-07-27T09:23",
+        "feedId": "hn"
+      },
+      {
         "title": "Chinese chipmaker shares surge 470%",
         "link": "https://www.bbc.com/news/articles/c9q9w3x9qn2o",
         "pubDate": "2026-07-27T09:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "VLC for Unity now supported on Linux",
+        "link": "https://code.videolan.org/videolan/vlc-unity",
+        "pubDate": "2026-07-27T09:06",
         "feedId": "hn"
       },
       {
@@ -15,81 +75,21 @@
         "feedId": "hn"
       },
       {
+        "title": "Modern email can be built from borrowed parts",
+        "link": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
+        "pubDate": "2026-07-27T08:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "Elevated errors on Claude Opus 5",
+        "link": "https://status.claude.com/incidents/lhqp09kxq7pb",
+        "pubDate": "2026-07-27T08:20",
+        "feedId": "hn"
+      },
+      {
         "title": "Kimi-K3 Releases on HuggingFace 7/27",
         "link": "https://huggingface.co/moonshotai/Kimi-K3",
         "pubDate": "2026-07-27T06:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "The old-school way of keeping the summer heat out of your home",
-        "link": "https://monocle.com/design/architecture/keeping-your-home-cool-without-air-conditioning/",
-        "pubDate": "2026-07-27T02:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "PGSimCity - How PostgreSQL Works",
-        "link": "https://nikolays.github.io/PGSimCity/",
-        "pubDate": "2026-07-27T00:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "Fonts In Use – Find out where a font is used",
-        "link": "https://fontsinuse.com/",
-        "pubDate": "2026-07-26T23:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
-        "link": "https://github.com/vercel-labs/scriptc",
-        "pubDate": "2026-07-26T22:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-        "link": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-        "pubDate": "2026-07-26T22:21",
-        "feedId": "hn"
-      },
-      {
-        "title": "We have proof automation now",
-        "link": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-        "pubDate": "2026-07-26T20:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "Simulate cassette tape audio profiles using FFmpeg",
-        "link": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
-        "pubDate": "2026-07-26T20:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-        "link": "https://beyondloom.com/decker/",
-        "pubDate": "2026-07-26T18:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "Introduction to Data-Oriented Design [pdf]",
-        "link": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-        "pubDate": "2026-07-26T18:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "French firefighters face 'pyrocumulonimbus' for first time",
-        "link": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-        "pubDate": "2026-07-26T17:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "How to write English prose (2023)",
-        "link": "https://thelampmagazine.com/blog/how-to-write-english-prose",
-        "pubDate": "2026-07-26T17:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
-        "link": "https://github.com/gmrandazzo/CheapSecurity",
-        "pubDate": "2026-07-26T15:53",
         "feedId": "hn"
       }
     ]
@@ -110,45 +110,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Maybe we should revisit microkernels",
-        "link": "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html",
-        "pubDate": "2026-07-25T22:13",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A Voice From Nowhere",
-        "link": "https://zanlib.dev/blog/a-voice-from-nowhere/",
-        "pubDate": "2026-07-27T09:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Being Linux Torvalds",
-        "link": "https://antirez.com/news/171",
-        "pubDate": "2026-07-27T05:25",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Make Reviews Possible Again With This One Simple Trick",
-        "link": "https://silky.github.io/posts/reviews-one-simple-trick.html",
-        "pubDate": "2026-07-27T08:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "lobste.rs has a js-error: here is a mitigation",
-        "link": "https://lobste.rs/s/llf3mg/lobste_rs_has_js_error_here_is_mitigation",
-        "pubDate": "2026-07-27T09:48",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "SQLite WAL Mode Can Lock Short-Lived Readers",
-        "link": "https://hynek.me/til/sqlite-read-only-wal-locked/",
-        "pubDate": "2026-07-26T22:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A shell colon does nothing. Use it anyway",
-        "link": "https://refp.se/articles/your-shell-and-the-magic-colon",
-        "pubDate": "2026-07-25T11:33",
+        "title": "How is the Bun Rewrite in Rust Going?",
+        "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+        "pubDate": "2026-07-27T12:32",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +122,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "N-body gravity simulation in O(N)",
-        "link": "https://www.youtube.com/watch?v=FhMftauQZqU",
-        "pubDate": "2026-07-27T08:45",
+        "title": "Make Reviews Possible Again With This One Simple Trick",
+        "link": "https://silky.github.io/posts/reviews-one-simple-trick.html",
+        "pubDate": "2026-07-27T08:37",
         "feedId": "lobsters"
       },
       {
-        "title": "Memory Safety Absolutists",
-        "link": "https://itsallaboutthebit.com/memory-safety-absolutists/",
-        "pubDate": "2026-07-25T21:38",
+        "title": "What does GitHub’s security team even do?",
+        "link": "https://orchidfiles.com/github-security-team/",
+        "pubDate": "2026-07-27T06:06",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Being Linux Torvalds",
+        "link": "https://antirez.com/news/171",
+        "pubDate": "2026-07-27T05:25",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "lobste.rs ~~has~~had a js-error: here is a mitigation",
+        "link": "https://lobste.rs/s/llf3mg/lobste_rs_has_had_js_error_here_is",
+        "pubDate": "2026-07-27T09:48",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +152,39 @@
         "feedId": "lobsters"
       },
       {
+        "title": "A Voice From Nowhere",
+        "link": "https://zanlib.dev/blog/a-voice-from-nowhere/",
+        "pubDate": "2026-07-27T09:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "N-body gravity simulation in O(N)",
+        "link": "https://www.youtube.com/watch?v=FhMftauQZqU",
+        "pubDate": "2026-07-27T08:45",
+        "feedId": "lobsters"
+      },
+      {
         "title": "What are you doing this week?",
         "link": "https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week",
         "pubDate": "2026-07-27T10:51",
         "feedId": "lobsters"
       },
       {
-        "title": "What does GitHub’s security team even do?",
-        "link": "https://orchidfiles.com/github-security-team/",
-        "pubDate": "2026-07-27T06:06",
+        "title": "Maybe we should revisit microkernels",
+        "link": "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html",
+        "pubDate": "2026-07-25T22:13",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Design of Everyday Cryptography",
+        "link": "https://www.dlp.rip/everyday-cryptography/",
+        "pubDate": "2026-07-27T09:55",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A shell colon does nothing. Use it anyway",
+        "link": "https://refp.se/articles/your-shell-and-the-magic-colon",
+        "pubDate": "2026-07-25T11:33",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
+        "link": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
+        "pubDate": "2026-07-27T10:50",
+        "feedId": "arstechnica"
+      },
       {
         "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
         "link": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
@@ -274,12 +280,6 @@
         "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
         "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
         "pubDate": "2026-07-24T17:31",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "This is the world's most advanced robotic servicing satellite—that we know about",
-        "link": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
-        "pubDate": "2026-07-24T15:23",
         "feedId": "arstechnica"
       }
     ]
