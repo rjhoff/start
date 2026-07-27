@@ -3,15 +3,51 @@
     "id": "hn",
     "items": [
       {
-        "title": "Teaching Kids Forth",
-        "link": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-        "pubDate": "2026-07-26T21:39",
+        "title": "I Championed Prediction Markets. Look What They've Become",
+        "link": "https://newsletter.platypuseconomics.com/p/i-championed-prediction-markets-look",
+        "pubDate": "2026-07-27T00:25",
         "feedId": "hn"
       },
       {
-        "title": "We're Thinking About Darkness All Wrong",
-        "link": "https://www.harvardmagazine.com/science/harvard-night-dark-sky-light-pollution",
-        "pubDate": "2026-07-26T21:30",
+        "title": "PGSimCity - How PostgreSQL Works",
+        "link": "https://nikolays.github.io/PGSimCity/",
+        "pubDate": "2026-07-27T00:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
+        "link": "https://portzero.net/",
+        "pubDate": "2026-07-27T00:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "Visualizing the Artemis II Mission",
+        "link": "https://foxglove.dev/blog/visualizing-the-artemis-ii-mission",
+        "pubDate": "2026-07-26T23:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "Fonts In Use – Find out where a font is used",
+        "link": "https://fontsinuse.com/",
+        "pubDate": "2026-07-26T23:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+        "link": "https://github.com/faizannraza/wattage",
+        "pubDate": "2026-07-26T23:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+        "link": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+        "pubDate": "2026-07-26T22:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "Teaching Kids Forth",
+        "link": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+        "pubDate": "2026-07-26T21:39",
         "feedId": "hn"
       },
       {
@@ -39,18 +75,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Infinite Jigsaw Game",
-        "link": "https://infinitejigsaw.com",
-        "pubDate": "2026-07-26T20:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Strongest El Niño Ever",
-        "link": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
-        "pubDate": "2026-07-26T18:35",
-        "feedId": "hn"
-      },
-      {
         "title": "How to Block Some of the Bots",
         "link": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
         "pubDate": "2026-07-26T18:32",
@@ -66,30 +90,6 @@
         "title": "Introduction to Data-Oriented Design [pdf]",
         "link": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
         "pubDate": "2026-07-26T18:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "It's not empowering to hand off the details",
-        "link": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
-        "pubDate": "2026-07-26T17:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster",
-        "link": "https://astgrep.com/blog/tree-sitter-rust-rewrite",
-        "pubDate": "2026-07-26T17:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "French firefighters face 'pyrocumulonimbus' for first time",
-        "link": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-        "pubDate": "2026-07-26T17:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "How to Write English Prose",
-        "link": "https://thelampmagazine.com/blog/how-to-write-english-prose",
-        "pubDate": "2026-07-26T17:29",
         "feedId": "hn"
       }
     ]
@@ -107,6 +107,12 @@
         "title": "Maybe we should revisit microkernels",
         "link": "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html",
         "pubDate": "2026-07-25T22:13",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "SQLite WAL Mode Can Lock Short-Lived Readers",
+        "link": "https://hynek.me/til/sqlite-read-only-wal-locked/",
+        "pubDate": "2026-07-26T22:32",
         "feedId": "lobsters"
       },
       {
@@ -128,33 +134,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Dmitri Gaskin on jQuery (2008)",
+        "link": "https://www.youtube.com/watch?v=8mwKq7_JlS8",
+        "pubDate": "2026-07-26T14:50",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Himalaya v2.0.0: CLI to manage emails",
         "link": "https://fosstodon.org/@pimalaya/116983467890532240",
         "pubDate": "2026-07-26T00:45",
         "feedId": "lobsters"
       },
       {
-        "title": "SQLite WAL Mode Can Lock Short-Lived Readers",
-        "link": "https://hynek.me/til/sqlite-read-only-wal-locked/",
-        "pubDate": "2026-07-26T22:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Dmitri Gaskin on jQuery",
-        "link": "https://www.youtube.com/watch?v=8mwKq7_JlS8",
-        "pubDate": "2026-07-26T14:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How I Find Problems to Solve as a Staff Engineer",
-        "link": "https://lalitm.com/post/find-problems-staff-engineer/",
-        "pubDate": "2026-07-25T20:52",
+        "title": "Using ThinkPad T480 as a mobile phone",
+        "link": "https://grego.site/blog/thinkphone",
+        "pubDate": "2026-07-26T23:17",
         "feedId": "lobsters"
       },
       {
         "title": "Forth Moving Lisp Moving Forth",
         "link": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
         "pubDate": "2026-07-26T17:39",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How I Find Problems to Solve as a Staff Engineer",
+        "link": "https://lalitm.com/post/find-problems-staff-engineer/",
+        "pubDate": "2026-07-25T20:52",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "OpenLoco version 26.07  Release",
-        "link": "https://openloco.io/news/2026/07/openloco-v26.07.html",
-        "pubDate": "2026-07-26T17:38",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Using ThinkPad T480 as a mobile phone",
-        "link": "https://grego.site/blog/thinkphone",
-        "pubDate": "2026-07-26T23:17",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The secret life of data in Valkey",
         "link": "https://valkey.io/blog/secret-life-of-data/",
         "pubDate": "2026-07-26T21:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Fast DEFLATE compression in Lean",
+        "link": "https://kim-em.github.io/blog/2026-7-24-why-lean-is-faster-than-rust/",
+        "pubDate": "2026-07-26T15:54",
         "feedId": "lobsters"
       }
     ]
