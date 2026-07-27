@@ -3,6 +3,36 @@
     "id": "hn",
     "items": [
       {
+        "title": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
+        "link": "https://up.codes/careers?utm_source=HN",
+        "pubDate": "2026-07-27T17:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "I Buy Belgian",
+        "link": "https://www.ikkoopbelgisch.be/nl",
+        "pubDate": "2026-07-27T17:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
+        "link": "https://usefeyn.com/blog/feynobg/",
+        "pubDate": "2026-07-27T16:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "Decathlon Germany adds Wero payment option to decathlon.de website",
+        "link": "https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article",
+        "pubDate": "2026-07-27T16:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Infrawrench – a tool to manage cloud and svcs with workflows and chat",
+        "link": "https://infrawrench.com",
+        "pubDate": "2026-07-27T16:25",
+        "feedId": "hn"
+      },
+      {
         "title": "Nvidia's $750B in Deals Reignite Circular AI Fears",
         "link": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
         "pubDate": "2026-07-27T16:02",
@@ -15,15 +45,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition",
-        "link": "https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition",
-        "pubDate": "2026-07-27T15:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-        "link": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
-        "pubDate": "2026-07-27T14:42",
+        "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
+        "link": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
+        "pubDate": "2026-07-27T15:08",
         "feedId": "hn"
       },
       {
@@ -42,18 +66,6 @@
         "title": "Should you wash your solar panels?",
         "link": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
         "pubDate": "2026-07-27T13:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "108 PRs in eight days: Accidentally discovering loop engineering",
-        "link": "https://brittany-ellich.offprint.app/a/3mrjj34puva23-108-prs-in-eight-days-accidentally-discovering-loop-engineering",
-        "pubDate": "2026-07-27T12:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI companies are shredding rare books",
-        "link": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
-        "pubDate": "2026-07-27T12:32",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://github.com/libsm64/libsm64",
         "pubDate": "2026-07-27T10:04",
         "feedId": "hn"
-      },
-      {
-        "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
-        "link": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
-        "pubDate": "2026-07-27T09:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "Shay Locomotives",
-        "link": "https://www.shaylocomotives.com/",
-        "pubDate": "2026-07-27T09:23",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Most Googlebots are fake",
-        "link": "https://digitalseams.com/blog/most-googlebots-are-fake",
-        "pubDate": "2026-07-27T10:40",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Blogging Can Just Be Stating The Obvious",
         "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
         "pubDate": "2026-07-27T13:34",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Most Googlebots are fake",
+        "link": "https://digitalseams.com/blog/most-googlebots-are-fake",
+        "pubDate": "2026-07-27T10:40",
         "feedId": "lobsters"
       },
       {
@@ -128,21 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What does GitHub’s security team even do?",
-        "link": "https://orchidfiles.com/github-security-team/",
-        "pubDate": "2026-07-27T06:06",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What are you doing this week?",
         "link": "https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week",
         "pubDate": "2026-07-27T10:51",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Teaching Kids Forth",
-        "link": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-        "pubDate": "2026-07-26T19:26",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +140,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "What does GitHub’s security team even do?",
+        "link": "https://orchidfiles.com/github-security-team/",
+        "pubDate": "2026-07-27T06:06",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Open Source Must Be Fun (Or It Will Die)",
         "link": "https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/",
         "pubDate": "2026-07-27T15:33",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Teaching Kids Forth",
+        "link": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+        "pubDate": "2026-07-26T19:26",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Functional programming from first principles, part 1 – motivation",
-        "link": "https://www.endoflineblog.com/functional-programming-from-first-principles-part-1-motivation",
-        "pubDate": "2026-07-27T08:54",
+        "title": "Conformance vs Comprehension",
+        "link": "https://intertwingly.net/blog/2026/06/27/Conformance-vs-Comprehension.html",
+        "pubDate": "2026-07-27T11:34",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "2028 Democratic power rankings, right now",
+        "link": "https://www.axios.com/2026/07/27/2028-democratic-presidential-power-rankings",
+        "pubDate": "2026-07-27T17:16",
+        "feedId": "axios"
+      },
+      {
         "title": "What would a rate hike signal about the new Fed chief's MO?",
         "link": "https://www.axios.com/2026/07/27/warsh-fed-rate-hike-bernanke",
         "pubDate": "2026-07-27T15:58",
@@ -369,12 +375,6 @@
         "title": "How AI is becoming part of the American family",
         "link": "https://www.axios.com/2026/07/25/ai-family-parenting-productivity",
         "pubDate": "2026-07-25T12:43",
-        "feedId": "axios"
-      },
-      {
-        "title": "Food banks confront growing SNAP gap",
-        "link": "https://www.axios.com/2026/07/25/food-banks-snap-cuts-obbb",
-        "pubDate": "2026-07-25T11:10",
         "feedId": "axios"
       }
     ]
