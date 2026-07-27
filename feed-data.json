@@ -3,9 +3,27 @@
     "id": "hn",
     "items": [
       {
+        "title": "Chinese chipmaker shares surge 470%",
+        "link": "https://www.bbc.com/news/articles/c9q9w3x9qn2o",
+        "pubDate": "2026-07-27T09:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "How Unix spell ran in 64 kB of RAM",
+        "link": "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram",
+        "pubDate": "2026-07-27T08:43",
+        "feedId": "hn"
+      },
+      {
         "title": "Kimi-K3 Releases on HuggingFace 7/27",
         "link": "https://huggingface.co/moonshotai/Kimi-K3",
         "pubDate": "2026-07-27T06:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "The old-school way of keeping the summer heat out of your home",
+        "link": "https://monocle.com/design/architecture/keeping-your-home-cool-without-air-conditioning/",
+        "pubDate": "2026-07-27T02:33",
         "feedId": "hn"
       },
       {
@@ -33,12 +51,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Teaching Kids Forth",
-        "link": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-        "pubDate": "2026-07-26T21:39",
-        "feedId": "hn"
-      },
-      {
         "title": "We have proof automation now",
         "link": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
         "pubDate": "2026-07-26T20:53",
@@ -48,12 +60,6 @@
         "title": "Simulate cassette tape audio profiles using FFmpeg",
         "link": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
         "pubDate": "2026-07-26T20:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "How to Block Some of the Bots",
-        "link": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
-        "pubDate": "2026-07-26T18:32",
         "feedId": "hn"
       },
       {
@@ -85,12 +91,6 @@
         "link": "https://github.com/gmrandazzo/CheapSecurity",
         "pubDate": "2026-07-26T15:53",
         "feedId": "hn"
-      },
-      {
-        "title": "Design is compromise",
-        "link": "https://stephango.com/design-is-compromise",
-        "pubDate": "2026-07-26T15:51",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,9 +104,39 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Most Googlebots are fake",
+        "link": "https://digitalseams.com/blog/most-googlebots-are-fake",
+        "pubDate": "2026-07-27T10:40",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Maybe we should revisit microkernels",
         "link": "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html",
         "pubDate": "2026-07-25T22:13",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A Voice From Nowhere",
+        "link": "https://zanlib.dev/blog/a-voice-from-nowhere/",
+        "pubDate": "2026-07-27T09:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Being Linux Torvalds",
+        "link": "https://antirez.com/news/171",
+        "pubDate": "2026-07-27T05:25",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Make Reviews Possible Again With This One Simple Trick",
+        "link": "https://silky.github.io/posts/reviews-one-simple-trick.html",
+        "pubDate": "2026-07-27T08:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "lobste.rs has a js-error: here is a mitigation",
+        "link": "https://lobste.rs/s/llf3mg/lobste_rs_has_js_error_here_is_mitigation",
+        "pubDate": "2026-07-27T09:48",
         "feedId": "lobsters"
       },
       {
@@ -122,6 +152,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "On AI",
+        "link": "https://jcs.org/2026/07/23/ai",
+        "pubDate": "2026-07-27T08:52",
+        "feedId": "lobsters"
+      },
+      {
         "title": "N-body gravity simulation in O(N)",
         "link": "https://www.youtube.com/watch?v=FhMftauQZqU",
         "pubDate": "2026-07-27T08:45",
@@ -134,57 +170,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "The Productivity Mirage",
+        "link": "https://frantic.im/mirage",
+        "pubDate": "2026-07-27T10:54",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week",
+        "pubDate": "2026-07-27T10:51",
+        "feedId": "lobsters"
+      },
+      {
         "title": "What does GitHub’s security team even do?",
         "link": "https://orchidfiles.com/github-security-team/",
         "pubDate": "2026-07-27T06:06",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Functional programming from first principles, part 1 – motivation",
-        "link": "https://www.endoflineblog.com/functional-programming-from-first-principles-part-1-motivation",
-        "pubDate": "2026-07-27T08:54",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "On AI",
-        "link": "https://jcs.org/2026/07/23/ai",
-        "pubDate": "2026-07-27T08:52",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "PGSimCity: How PostgreSQL Works, in 3D",
-        "link": "https://nikolays.github.io/PGSimCity/",
-        "pubDate": "2026-07-27T08:20",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "DOOM running on a regex engine",
-        "link": "https://4rh1t3ct0r7.github.io/doom-regex/",
-        "pubDate": "2026-07-27T08:12",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Xavier Leroy on programming, languages and formal verification",
-        "link": "https://www.youtube.com/watch?v=9Cswiqrq6So",
-        "pubDate": "2026-07-26T14:59",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "History of John Backus's FP languages",
-        "link": "https://softwarepreservation.computerhistory.org/FP/",
-        "pubDate": "2026-07-27T07:13",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Dmitri Gaskin on jQuery (2008)",
-        "link": "https://www.youtube.com/watch?v=8mwKq7_JlS8",
-        "pubDate": "2026-07-26T14:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Using ThinkPad T480 as a mobile phone",
-        "link": "https://grego.site/blog/thinkphone",
-        "pubDate": "2026-07-26T23:17",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "Democrats hit the anti-incumbency trap",
+        "link": "https://www.axios.com/2026/07/27/2026-midterm-democrats-socialist-michigan",
+        "pubDate": "2026-07-27T09:35",
+        "feedId": "axios"
+      },
+      {
+        "title": "Off-grid data centers aren't the panacea that some AI firms hoped",
+        "link": "https://www.axios.com/2026/07/27/off-grid-ai-data-centers-reckoning",
+        "pubDate": "2026-07-27T09:25",
+        "feedId": "axios"
+      },
+      {
         "title": "Dems' 2028 primary schedule angers some progressives",
         "link": "https://www.axios.com/2026/07/26/south-carolina-progressives-primary-2028",
         "pubDate": "2026-07-26T21:45",
@@ -363,18 +375,6 @@
         "title": "Scoop: U.S., U.K. planning international conference on Strait of Hormuz",
         "link": "https://www.axios.com/2026/07/24/hormuz-us-uk-conference-iran",
         "pubDate": "2026-07-24T18:13",
-        "feedId": "axios"
-      },
-      {
-        "title": "Dem panel taps South Carolina to hold first 2028 presidential primary",
-        "link": "https://www.axios.com/2026/07/24/democrats-2028-first-primary-south-carolina-nevada",
-        "pubDate": "2026-07-24T17:29",
-        "feedId": "axios"
-      },
-      {
-        "title": "New Trump tariffs bring in less money than illegal tariffs",
-        "link": "https://www.axios.com/2026/07/24/tariffs-import-taxes",
-        "pubDate": "2026-07-24T15:59",
         "feedId": "axios"
       }
     ]
