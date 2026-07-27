@@ -3,15 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware",
-        "link": "https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest",
-        "pubDate": "2026-07-27T20:53",
+        "title": "A missing underscore sent innocent man to prison for 18 months",
+        "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+        "pubDate": "2026-07-27T22:10",
         "feedId": "hn"
       },
       {
-        "title": "US DOT deleting bike lane references",
-        "link": "https://www.npr.org/2026/07/23/nx-s1-5900901/bike-lanes-dot-websites",
-        "pubDate": "2026-07-27T20:50",
+        "title": "Our position on open-weights models",
+        "link": "https://www.anthropic.com/news/position-open-weights-models",
+        "pubDate": "2026-07-27T22:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware",
+        "link": "https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest",
+        "pubDate": "2026-07-27T20:53",
         "feedId": "hn"
       },
       {
@@ -24,12 +30,6 @@
         "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
         "link": "https://www.rise-reforming.com",
         "pubDate": "2026-07-27T19:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "My current strategy is to not read any of the code written by my agents",
-        "link": "https://twitter.com/unclebobmartin/status/2080257779395154409?s=20",
-        "pubDate": "2026-07-27T19:47",
         "feedId": "hn"
       },
       {
@@ -75,21 +75,21 @@
         "feedId": "hn"
       },
       {
-        "title": "Decathlon Germany adds Wero payment option to decathlon.de website",
-        "link": "https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article",
-        "pubDate": "2026-07-27T16:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Infrawrench – A tool to manage cloud and svcs with workflows and chat",
-        "link": "https://infrawrench.com",
-        "pubDate": "2026-07-27T16:25",
-        "feedId": "hn"
-      },
-      {
         "title": "How real are real numbers? (2004)",
         "link": "https://arxiv.org/abs/math/0411418",
         "pubDate": "2026-07-27T15:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks",
+        "link": "https://pranitha.dev/posts/tokio-gives-progress-not-ordering/",
+        "pubDate": "2026-07-27T15:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
+        "link": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
+        "pubDate": "2026-07-27T15:08",
         "feedId": "hn"
       }
     ]
@@ -158,6 +158,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Advantages and disadvantages of Windows NT 3.1",
+        "link": "https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/",
+        "pubDate": "2026-07-27T17:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Setup a Simple, Self-Hosted Web Server with OpenBSD",
+        "link": "https://btxx.org/posts/self-hosted-openbsd/",
+        "pubDate": "2026-07-27T22:27",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Quick & Easy Parser Combinators",
         "link": "https://www.cyan.sh/blog/posts/tutorial-quick-easy-parser-combinators.html",
         "pubDate": "2026-07-27T16:35",
@@ -170,21 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Advantages and disadvantages of Windows NT 3.1",
-        "link": "https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/",
-        "pubDate": "2026-07-27T17:40",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Teaching Kids Forth",
         "link": "https://gracefulliberty.com/articles/teaching-kids-forth/",
         "pubDate": "2026-07-26T19:26",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Make Reviews Possible Again With This One Simple Trick",
-        "link": "https://silky.github.io/posts/reviews-one-simple-trick.html",
-        "pubDate": "2026-07-27T08:37",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,42 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+        "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+        "pubDate": "2026-07-27T21:56",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
+        "link": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
+        "pubDate": "2026-07-27T21:40",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies",
+        "link": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
+        "pubDate": "2026-07-27T20:42",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
+        "link": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
+        "pubDate": "2026-07-27T20:32",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "A missing underscore sent innocent man to prison for 18 months",
+        "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+        "pubDate": "2026-07-27T20:22",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
+        "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+        "pubDate": "2026-07-27T20:12",
+        "feedId": "arstechnica"
+      },
       {
         "title": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
         "link": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
@@ -245,48 +281,18 @@
         "link": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
         "pubDate": "2026-07-26T19:48",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
-        "link": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
-        "pubDate": "2026-07-25T20:52",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
-        "link": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
-        "pubDate": "2026-07-25T17:47",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "With help from data, art museums are reframing the visitor experience",
-        "link": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
-        "pubDate": "2026-07-25T11:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Big Tech accused of stonewalling European social media researchers",
-        "link": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
-        "pubDate": "2026-07-25T10:45",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
-        "link": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
-        "pubDate": "2026-07-24T22:28",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
-        "link": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
-        "pubDate": "2026-07-24T21:56",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Anthropic CEO Dario Amodei says he does not support open-weight AI ban",
+        "link": "https://www.axios.com/2026/07/27/anthropic-open-weight-ban-china-dario-amodei",
+        "pubDate": "2026-07-27T22:44",
+        "feedId": "axios"
+      },
       {
         "title": "These 5 AI risks have the highest potential for catastrophe",
         "link": "https://www.axios.com/2026/07/27/mit-study-ai-risks-urgent-weapons-cyber-attacks",
@@ -369,12 +375,6 @@
         "title": "What Sam Altman will tell the White House this week",
         "link": "https://www.axios.com/2026/07/26/sam-altman-openai-trump-white-house-visit",
         "pubDate": "2026-07-26T12:39",
-        "feedId": "axios"
-      },
-      {
-        "title": "Unionized workers are bargaining with the bots",
-        "link": "https://www.axios.com/2026/07/26/union-contracts-ai-workplace-disruption",
-        "pubDate": "2026-07-26T12:24",
         "feedId": "axios"
       }
     ]
