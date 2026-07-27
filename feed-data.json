@@ -3,15 +3,33 @@
     "id": "hn",
     "items": [
       {
+        "title": "Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware",
+        "link": "https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest",
+        "pubDate": "2026-07-27T20:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "US DOT deleting bike lane references",
+        "link": "https://www.npr.org/2026/07/23/nx-s1-5900901/bike-lanes-dot-websites",
+        "pubDate": "2026-07-27T20:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "Forth",
+        "link": "https://xkcd.com/3277/",
+        "pubDate": "2026-07-27T20:15",
+        "feedId": "hn"
+      },
+      {
         "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
         "link": "https://www.rise-reforming.com",
         "pubDate": "2026-07-27T19:58",
         "feedId": "hn"
       },
       {
-        "title": "Professor's invisible prompt trap catches 32/35 students cheating with AI",
-        "link": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
-        "pubDate": "2026-07-27T19:46",
+        "title": "My current strategy is to not read any of the code written by my agents",
+        "link": "https://twitter.com/unclebobmartin/status/2080257779395154409?s=20",
+        "pubDate": "2026-07-27T19:47",
         "feedId": "hn"
       },
       {
@@ -69,27 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted",
-        "link": "https://github.com/letsseal/letsseal",
-        "pubDate": "2026-07-27T15:52",
-        "feedId": "hn"
-      },
-      {
         "title": "How real are real numbers? (2004)",
         "link": "https://arxiv.org/abs/math/0411418",
         "pubDate": "2026-07-27T15:40",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks",
-        "link": "https://pranitha.dev/posts/tokio-gives-progress-not-ordering/",
-        "pubDate": "2026-07-27T15:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
-        "link": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
-        "pubDate": "2026-07-27T15:08",
         "feedId": "hn"
       }
     ]
@@ -116,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How is the Bun Rewrite in Rust Going?",
-        "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-        "pubDate": "2026-07-27T12:32",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The Productivity Mirage",
         "link": "https://frantic.im/mirage",
         "pubDate": "2026-07-27T10:54",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How is the Bun Rewrite in Rust Going?",
+        "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+        "pubDate": "2026-07-27T12:32",
         "feedId": "lobsters"
       },
       {
@@ -152,21 +152,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week",
-        "pubDate": "2026-07-27T10:51",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles",
         "link": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
         "pubDate": "2026-07-27T17:06",
         "feedId": "lobsters"
       },
       {
-        "title": "Teaching Kids Forth",
-        "link": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-        "pubDate": "2026-07-26T19:26",
+        "title": "Quick & Easy Parser Combinators",
+        "link": "https://www.cyan.sh/blog/posts/tutorial-quick-easy-parser-combinators.html",
+        "pubDate": "2026-07-27T16:35",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week",
+        "pubDate": "2026-07-27T10:51",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Make Reviews Possible Again With This One Simple Trick",
-        "link": "https://silky.github.io/posts/reviews-one-simple-trick.html",
-        "pubDate": "2026-07-27T08:37",
+        "title": "Teaching Kids Forth",
+        "link": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+        "pubDate": "2026-07-26T19:26",
         "feedId": "lobsters"
       },
       {
-        "title": "Quick & Easy Parser Combinators",
-        "link": "https://www.cyan.sh/blog/posts/tutorial-quick-easy-parser-combinators.html",
-        "pubDate": "2026-07-27T16:35",
+        "title": "Make Reviews Possible Again With This One Simple Trick",
+        "link": "https://silky.github.io/posts/reviews-one-simple-trick.html",
+        "pubDate": "2026-07-27T08:37",
         "feedId": "lobsters"
       }
     ]
