@@ -9,21 +9,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
-        "link": "https://portzero.net/",
-        "pubDate": "2026-07-27T00:03",
-        "feedId": "hn"
-      },
-      {
         "title": "Fonts In Use – Find out where a font is used",
         "link": "https://fontsinuse.com/",
         "pubDate": "2026-07-26T23:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
-        "link": "https://github.com/faizannraza/wattage",
-        "pubDate": "2026-07-26T23:27",
         "feedId": "hn"
       },
       {
@@ -81,15 +69,27 @@
         "feedId": "hn"
       },
       {
-        "title": "How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster",
-        "link": "https://astgrep.com/blog/tree-sitter-rust-rewrite",
-        "pubDate": "2026-07-26T17:51",
-        "feedId": "hn"
-      },
-      {
         "title": "French firefighters face 'pyrocumulonimbus' for first time",
         "link": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
         "pubDate": "2026-07-26T17:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "How to Write English Prose",
+        "link": "https://thelampmagazine.com/blog/how-to-write-english-prose",
+        "pubDate": "2026-07-26T17:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
+        "link": "https://github.com/gmrandazzo/CheapSecurity",
+        "pubDate": "2026-07-26T15:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "Design is compromise",
+        "link": "https://stephango.com/design-is-compromise",
+        "pubDate": "2026-07-26T15:51",
         "feedId": "hn"
       }
     ]
