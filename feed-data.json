@@ -3,9 +3,9 @@
     "id": "hn",
     "items": [
       {
-        "title": "EU Fines Google $1.02B for Favoring Its Own Services",
-        "link": "https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb",
-        "pubDate": "2026-07-27T05:31",
+        "title": "Kimi-K3 Releases on HuggingFace 7/27",
+        "link": "https://huggingface.co/moonshotai/Kimi-K3",
+        "pubDate": "2026-07-27T06:18",
         "feedId": "hn"
       },
       {
@@ -42,12 +42,6 @@
         "title": "We have proof automation now",
         "link": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
         "pubDate": "2026-07-26T20:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
-        "link": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
-        "pubDate": "2026-07-26T20:31",
         "feedId": "hn"
       },
       {
@@ -91,6 +85,12 @@
         "link": "https://github.com/gmrandazzo/CheapSecurity",
         "pubDate": "2026-07-26T15:53",
         "feedId": "hn"
+      },
+      {
+        "title": "Design is compromise",
+        "link": "https://stephango.com/design-is-compromise",
+        "pubDate": "2026-07-26T15:51",
+        "feedId": "hn"
       }
     ]
   },
@@ -122,33 +122,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "N-body gravity simulation in O(N)",
+        "link": "https://www.youtube.com/watch?v=FhMftauQZqU",
+        "pubDate": "2026-07-27T08:45",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Memory Safety Absolutists",
         "link": "https://itsallaboutthebit.com/memory-safety-absolutists/",
         "pubDate": "2026-07-25T21:38",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Being Linux Torvalds",
-        "link": "https://antirez.com/news/171",
-        "pubDate": "2026-07-27T05:25",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Xavier Leroy on programming, languages and formal verification",
-        "link": "https://www.youtube.com/watch?v=9Cswiqrq6So",
-        "pubDate": "2026-07-26T14:59",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Dmitri Gaskin on jQuery (2008)",
-        "link": "https://www.youtube.com/watch?v=8mwKq7_JlS8",
-        "pubDate": "2026-07-26T14:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Himalaya v2.0.0: CLI to manage emails",
-        "link": "https://fosstodon.org/@pimalaya/116983467890532240",
-        "pubDate": "2026-07-26T00:45",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +140,51 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Functional programming from first principles, part 1 – motivation",
+        "link": "https://www.endoflineblog.com/functional-programming-from-first-principles-part-1-motivation",
+        "pubDate": "2026-07-27T08:54",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "On AI",
+        "link": "https://jcs.org/2026/07/23/ai",
+        "pubDate": "2026-07-27T08:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "PGSimCity: How PostgreSQL Works, in 3D",
+        "link": "https://nikolays.github.io/PGSimCity/",
+        "pubDate": "2026-07-27T08:20",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "DOOM running on a regex engine",
+        "link": "https://4rh1t3ct0r7.github.io/doom-regex/",
+        "pubDate": "2026-07-27T08:12",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Xavier Leroy on programming, languages and formal verification",
+        "link": "https://www.youtube.com/watch?v=9Cswiqrq6So",
+        "pubDate": "2026-07-26T14:59",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "History of John Backus's FP languages",
+        "link": "https://softwarepreservation.computerhistory.org/FP/",
+        "pubDate": "2026-07-27T07:13",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Dmitri Gaskin on jQuery (2008)",
+        "link": "https://www.youtube.com/watch?v=8mwKq7_JlS8",
+        "pubDate": "2026-07-26T14:50",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Using ThinkPad T480 as a mobile phone",
         "link": "https://grego.site/blog/thinkphone",
         "pubDate": "2026-07-26T23:17",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Interconverting std::function with copyable_function",
-        "link": "https://quuxplusone.github.io/blog/2026/07/26/function-explosion/",
-        "pubDate": "2026-07-27T05:39",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Forth Moving Lisp Moving Forth",
-        "link": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
-        "pubDate": "2026-07-26T17:39",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Authoritative dnsmasq in a MikroTik container",
-        "link": "https://op-co.de/blog/posts/mikrotik_authoritative_dnsmasq/",
-        "pubDate": "2026-07-27T05:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How I Find Problems to Solve as a Staff Engineer",
-        "link": "https://lalitm.com/post/find-problems-staff-engineer/",
-        "pubDate": "2026-07-25T20:52",
         "feedId": "lobsters"
       }
     ]
