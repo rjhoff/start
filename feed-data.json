@@ -3,21 +3,33 @@
     "id": "hn",
     "items": [
       {
+        "title": "Jensen Huang's first-ever post on X is in defense of open access to AI models",
+        "link": "https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/",
+        "pubDate": "2026-07-27T17:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "Canceling \"Hey\"",
+        "link": "https://chadnauseam.com/random/cancelling-my-hey",
+        "pubDate": "2026-07-27T17:37",
+        "feedId": "hn"
+      },
+      {
         "title": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
         "link": "https://up.codes/careers?utm_source=HN",
         "pubDate": "2026-07-27T17:02",
         "feedId": "hn"
       },
       {
-        "title": "I Buy Belgian",
-        "link": "https://www.ikkoopbelgisch.be/nl",
-        "pubDate": "2026-07-27T17:01",
-        "feedId": "hn"
-      },
-      {
         "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
         "link": "https://usefeyn.com/blog/feynobg/",
         "pubDate": "2026-07-27T16:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "MAI-Cyber 1",
+        "link": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+        "pubDate": "2026-07-27T16:52",
         "feedId": "hn"
       },
       {
@@ -30,12 +42,6 @@
         "title": "Show HN: Infrawrench – a tool to manage cloud and svcs with workflows and chat",
         "link": "https://infrawrench.com",
         "pubDate": "2026-07-27T16:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nvidia's $750B in Deals Reignite Circular AI Fears",
-        "link": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
-        "pubDate": "2026-07-27T16:02",
         "feedId": "hn"
       },
       {
@@ -69,9 +75,9 @@
         "feedId": "hn"
       },
       {
-        "title": "The Proof Machine (2016)",
-        "link": "https://incredible.pm/",
-        "pubDate": "2026-07-27T12:29",
+        "title": "Elevated errors on Claude Opus 5",
+        "link": "https://status.claude.com/incidents/mfdtrknpxghq",
+        "pubDate": "2026-07-27T11:32",
         "feedId": "hn"
       },
       {
@@ -81,15 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "The Birth of the American 12-string Guitar",
+        "title": "The Birth of the American 12-string Guitar (2013)",
         "link": "https://www.harpguitars.net/history/grunewald/12-string.htm",
         "pubDate": "2026-07-27T10:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "Libsm64: Mario 64 as a library for use in external game engines",
-        "link": "https://github.com/libsm64/libsm64",
-        "pubDate": "2026-07-27T10:04",
         "feedId": "hn"
       }
     ]
@@ -122,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Productivity Mirage",
-        "link": "https://frantic.im/mirage",
-        "pubDate": "2026-07-27T10:54",
+        "title": "Open Source Must Be Fun (Or It Will Die)",
+        "link": "https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/",
+        "pubDate": "2026-07-27T15:33",
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week",
-        "pubDate": "2026-07-27T10:51",
+        "title": "The Productivity Mirage",
+        "link": "https://frantic.im/mirage",
+        "pubDate": "2026-07-27T10:54",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Open Source Must Be Fun (Or It Will Die)",
-        "link": "https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/",
-        "pubDate": "2026-07-27T15:33",
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week",
+        "pubDate": "2026-07-27T10:51",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +164,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles",
+        "link": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
+        "pubDate": "2026-07-27T17:06",
+        "feedId": "lobsters"
+      },
+      {
         "title": "PGSimCity: How PostgreSQL Works, in 3D",
         "link": "https://nikolays.github.io/PGSimCity/",
         "pubDate": "2026-07-27T08:20",
         "feedId": "lobsters"
       },
       {
-        "title": "lobste.rs ~~has~~had a js-error: here is a mitigation",
-        "link": "https://lobste.rs/s/llf3mg/lobste_rs_has_had_js_error_here_is",
-        "pubDate": "2026-07-27T09:48",
+        "title": "Quick & Easy Parser Combinators",
+        "link": "https://www.cyan.sh/blog/posts/tutorial-quick-easy-parser-combinators.html",
+        "pubDate": "2026-07-27T16:35",
         "feedId": "lobsters"
       },
       {
-        "title": "N-body gravity simulation in O(N)",
-        "link": "https://www.youtube.com/watch?v=FhMftauQZqU",
-        "pubDate": "2026-07-27T08:45",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Conformance vs Comprehension",
-        "link": "https://intertwingly.net/blog/2026/06/27/Conformance-vs-Comprehension.html",
-        "pubDate": "2026-07-27T11:34",
+        "title": "Advantages and disadvantages of Windows NT 3.1",
+        "link": "https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/",
+        "pubDate": "2026-07-27T17:40",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump tries to sell an economy voters aren't buying",
+        "link": "https://www.axios.com/2026/07/27/trump-economy-polling-democrats-midterms",
+        "pubDate": "2026-07-27T18:06",
+        "feedId": "axios"
+      },
+      {
         "title": "2028 Democratic power rankings, right now",
         "link": "https://www.axios.com/2026/07/27/2028-democratic-presidential-power-rankings",
         "pubDate": "2026-07-27T17:16",
@@ -369,12 +375,6 @@
         "title": "Troy Jackson picked to challenge Collins in Maine after Platner's exit",
         "link": "https://www.axios.com/2026/07/25/maine-troy-jackson-susan-collins-platner",
         "pubDate": "2026-07-25T16:01",
-        "feedId": "axios"
-      },
-      {
-        "title": "How AI is becoming part of the American family",
-        "link": "https://www.axios.com/2026/07/25/ai-family-parenting-productivity",
-        "pubDate": "2026-07-25T12:43",
         "feedId": "axios"
       }
     ]
