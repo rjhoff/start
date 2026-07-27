@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+        "link": "https://www.rise-reforming.com",
+        "pubDate": "2026-07-27T19:58",
+        "feedId": "hn"
+      },
+      {
         "title": "Self-contained highly-portable Python distributions",
         "link": "https://gregoryszorc.com/docs/python-build-standalone/main/",
         "pubDate": "2026-07-27T18:43",
@@ -39,7 +45,7 @@
         "feedId": "hn"
       },
       {
-        "title": "MAI-Cyber 1",
+        "title": "MAI-Cyber-1-Flash inside MDASH",
         "link": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
         "pubDate": "2026-07-27T16:52",
         "feedId": "hn"
@@ -51,9 +57,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Infrawrench – a tool to manage cloud and svcs with workflows and chat",
+        "title": "Show HN: Infrawrench – A tool to manage cloud and svcs with workflows and chat",
         "link": "https://infrawrench.com",
         "pubDate": "2026-07-27T16:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted",
+        "link": "https://github.com/letsseal/letsseal",
+        "pubDate": "2026-07-27T15:52",
         "feedId": "hn"
       },
       {
@@ -78,18 +90,6 @@
         "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
         "link": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
         "pubDate": "2026-07-27T15:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "Paged Out #9 [pdf]",
-        "link": "https://pagedout.institute/download/PagedOut_009.pdf",
-        "pubDate": "2026-07-27T14:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI companies spend record sums on Washington lobbying",
-        "link": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-        "pubDate": "2026-07-27T14:07",
         "feedId": "hn"
       }
     ]
@@ -158,27 +158,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Make Reviews Possible Again With This One Simple Trick",
-        "link": "https://silky.github.io/posts/reviews-one-simple-trick.html",
-        "pubDate": "2026-07-27T08:37",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles",
         "link": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
         "pubDate": "2026-07-27T17:06",
         "feedId": "lobsters"
       },
       {
-        "title": "Finding bugs in Raft implementations",
-        "link": "https://antithesis.com/blog/2026/finding-bugs-in-raft-implementations/",
-        "pubDate": "2026-07-27T16:40",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Quick & Easy Parser Combinators",
         "link": "https://www.cyan.sh/blog/posts/tutorial-quick-easy-parser-combinators.html",
         "pubDate": "2026-07-27T16:35",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Make Reviews Possible Again With This One Simple Trick",
+        "link": "https://silky.github.io/posts/reviews-one-simple-trick.html",
+        "pubDate": "2026-07-27T08:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Finding bugs in Raft implementations",
+        "link": "https://antithesis.com/blog/2026/finding-bugs-in-raft-implementations/",
+        "pubDate": "2026-07-27T16:40",
         "feedId": "lobsters"
       },
       {
@@ -192,6 +192,30 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
+        "link": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
+        "pubDate": "2026-07-27T19:18",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
+        "link": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
+        "pubDate": "2026-07-27T18:48",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Experts warn current Starship heat shield tech is a \"dead end\" for rapid reuse",
+        "link": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
+        "pubDate": "2026-07-27T18:34",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "ChatGPT starts blocking direct requests to copy an author's style",
+        "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+        "pubDate": "2026-07-27T16:58",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
         "link": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
@@ -257,30 +281,6 @@
         "link": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
         "pubDate": "2026-07-24T21:56",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Canadian legislator reads out apparent LLM response in floor speech",
-        "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-        "pubDate": "2026-07-24T21:25",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-        "link": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
-        "pubDate": "2026-07-24T21:05",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Roku raises streaming stick prices by up to 60 percent",
-        "link": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
-        "pubDate": "2026-07-24T19:41",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "RFK Jr.'s handpicked committee approves manufacture of peptides he uses",
-        "link": "https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/",
-        "pubDate": "2026-07-24T19:10",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,9 +288,15 @@
     "id": "axios",
     "items": [
       {
+        "title": "Small businesses launch new Trump tariff challenge",
+        "link": "https://www.axios.com/2026/07/27/trump-tariff-court-small-business",
+        "pubDate": "2026-07-27T20:16",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump tries to sell an economy voters aren't buying",
         "link": "https://www.axios.com/2026/07/27/trump-economy-polling-democrats-midterms",
-        "pubDate": "2026-07-27T18:06",
+        "pubDate": "2026-07-27T19:36",
         "feedId": "axios"
       },
       {
@@ -369,12 +375,6 @@
         "title": "Trump ordered military not to conduct strikes in Iran Friday",
         "link": "https://www.axios.com/2026/07/25/trump-iran-war-military-directive-strikes",
         "pubDate": "2026-07-25T18:23",
-        "feedId": "axios"
-      },
-      {
-        "title": "Troy Jackson picked to challenge Collins in Maine after Platner's exit",
-        "link": "https://www.axios.com/2026/07/25/maine-troy-jackson-susan-collins-platner",
-        "pubDate": "2026-07-25T16:01",
         "feedId": "axios"
       }
     ]
