@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "EU Fines Google $1.02B for Favoring Its Own Services",
+        "link": "https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb",
+        "pubDate": "2026-07-27T05:31",
+        "feedId": "hn"
+      },
+      {
         "title": "PGSimCity - How PostgreSQL Works",
         "link": "https://nikolays.github.io/PGSimCity/",
         "pubDate": "2026-07-27T00:19",
@@ -75,7 +81,7 @@
         "feedId": "hn"
       },
       {
-        "title": "How to Write English Prose",
+        "title": "How to write English prose (2023)",
         "link": "https://thelampmagazine.com/blog/how-to-write-english-prose",
         "pubDate": "2026-07-26T17:29",
         "feedId": "hn"
@@ -84,12 +90,6 @@
         "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
         "link": "https://github.com/gmrandazzo/CheapSecurity",
         "pubDate": "2026-07-26T15:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "Design is compromise",
-        "link": "https://stephango.com/design-is-compromise",
-        "pubDate": "2026-07-26T15:51",
         "feedId": "hn"
       }
     ]
@@ -128,6 +128,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Being Linux Torvalds",
+        "link": "https://antirez.com/news/171",
+        "pubDate": "2026-07-27T05:25",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Xavier Leroy on programming, languages and formal verification",
         "link": "https://www.youtube.com/watch?v=9Cswiqrq6So",
         "pubDate": "2026-07-26T14:59",
@@ -146,9 +152,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "What does GitHub’s security team even do?",
+        "link": "https://orchidfiles.com/github-security-team/",
+        "pubDate": "2026-07-27T06:06",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Using ThinkPad T480 as a mobile phone",
         "link": "https://grego.site/blog/thinkphone",
         "pubDate": "2026-07-26T23:17",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Interconverting std::function with copyable_function",
+        "link": "https://quuxplusone.github.io/blog/2026/07/26/function-explosion/",
+        "pubDate": "2026-07-27T05:39",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +176,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Authoritative dnsmasq in a MikroTik container",
+        "link": "https://op-co.de/blog/posts/mikrotik_authoritative_dnsmasq/",
+        "pubDate": "2026-07-27T05:37",
+        "feedId": "lobsters"
+      },
+      {
         "title": "How I Find Problems to Solve as a Staff Engineer",
         "link": "https://lalitm.com/post/find-problems-staff-engineer/",
         "pubDate": "2026-07-25T20:52",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "stinkpot: sqlite-backed shell history",
-        "link": "https://tangled.org/oppi.li/stinkpot",
-        "pubDate": "2026-07-25T09:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How to self-host servers in your living room on static IPs",
-        "link": "https://vimuser.org/l2tp.html",
-        "pubDate": "2026-07-25T21:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The secret life of data in Valkey",
-        "link": "https://valkey.io/blog/secret-life-of-data/",
-        "pubDate": "2026-07-26T21:28",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Fast DEFLATE compression in Lean",
-        "link": "https://kim-em.github.io/blog/2026-7-24-why-lean-is-faster-than-rust/",
-        "pubDate": "2026-07-26T15:54",
         "feedId": "lobsters"
       }
     ]
