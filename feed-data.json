@@ -3,6 +3,48 @@
     "id": "hn",
     "items": [
       {
+        "title": "The Burau representation of the braid group is faithful for n = 4",
+        "link": "https://arxiv.org/abs/2607.05283",
+        "pubDate": "2026-07-27T23:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS",
+        "link": "https://www.dowe.dev",
+        "pubDate": "2026-07-27T23:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
+        "link": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349",
+        "pubDate": "2026-07-27T23:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "DConf 2026 in London",
+        "link": "https://dconf.org/2026/index.html",
+        "pubDate": "2026-07-27T23:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "C/C++ projects packaged for Zig",
+        "link": "https://github.com/allyourcodebase",
+        "pubDate": "2026-07-27T23:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Benchmarking Opus 5 on SlopCodeBench",
+        "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+        "pubDate": "2026-07-27T22:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "Hard Road – A beautiful procedural post-apocalyptic game",
+        "link": "https://hardroad.xyz/",
+        "pubDate": "2026-07-27T22:36",
+        "feedId": "hn"
+      },
+      {
         "title": "A missing underscore sent innocent man to prison for 18 months",
         "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
         "pubDate": "2026-07-27T22:10",
@@ -12,12 +54,6 @@
         "title": "Our position on open-weights models",
         "link": "https://www.anthropic.com/news/position-open-weights-models",
         "pubDate": "2026-07-27T22:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware",
-        "link": "https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest",
-        "pubDate": "2026-07-27T20:53",
         "feedId": "hn"
       },
       {
@@ -39,12 +75,6 @@
         "feedId": "hn"
       },
       {
-        "title": "The Artist Who Colored Ghibli",
-        "link": "https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli",
-        "pubDate": "2026-07-27T18:32",
-        "feedId": "hn"
-      },
-      {
         "title": "Bytecode-to-Source Mapping",
         "link": "https://tidefield.dev/bytecode-to-source-mapping/",
         "pubDate": "2026-07-27T18:25",
@@ -60,36 +90,6 @@
         "title": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
         "link": "https://up.codes/careers?utm_source=HN",
         "pubDate": "2026-07-27T17:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
-        "link": "https://usefeyn.com/blog/feynobg/",
-        "pubDate": "2026-07-27T16:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "MAI-Cyber-1-Flash inside MDASH",
-        "link": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
-        "pubDate": "2026-07-27T16:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "How real are real numbers? (2004)",
-        "link": "https://arxiv.org/abs/math/0411418",
-        "pubDate": "2026-07-27T15:40",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks",
-        "link": "https://pranitha.dev/posts/tokio-gives-progress-not-ordering/",
-        "pubDate": "2026-07-27T15:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
-        "link": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
-        "pubDate": "2026-07-27T15:08",
         "feedId": "hn"
       }
     ]
@@ -134,6 +134,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Setup a Simple, Self-Hosted Web Server with OpenBSD",
+        "link": "https://btxx.org/posts/self-hosted-openbsd/",
+        "pubDate": "2026-07-27T22:27",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Open Source Must Be Fun (Or It Will Die)",
         "link": "https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/",
         "pubDate": "2026-07-27T15:33",
@@ -158,21 +164,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Advantages and disadvantages of Windows NT 3.1",
-        "link": "https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/",
-        "pubDate": "2026-07-27T17:40",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Setup a Simple, Self-Hosted Web Server with OpenBSD",
-        "link": "https://btxx.org/posts/self-hosted-openbsd/",
-        "pubDate": "2026-07-27T22:27",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Quick & Easy Parser Combinators",
         "link": "https://www.cyan.sh/blog/posts/tutorial-quick-easy-parser-combinators.html",
         "pubDate": "2026-07-27T16:35",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Advantages and disadvantages of Windows NT 3.1",
+        "link": "https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/",
+        "pubDate": "2026-07-27T17:40",
         "feedId": "lobsters"
       },
       {
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "U.S. officials believe sanctions could hurt Iran more than bombs",
+        "link": "https://www.axios.com/2026/07/27/iran-war-trump-sanctions-blockade-economy",
+        "pubDate": "2026-07-27T23:56",
+        "feedId": "axios"
+      },
+      {
+        "title": "Small businesses launch new Trump tariff challenge",
+        "link": "https://www.axios.com/2026/07/27/trump-tariff-court-small-business",
+        "pubDate": "2026-07-27T23:54",
+        "feedId": "axios"
+      },
+      {
         "title": "Anthropic CEO Dario Amodei says he does not support open-weight AI ban",
         "link": "https://www.axios.com/2026/07/27/anthropic-open-weight-ban-china-dario-amodei",
         "pubDate": "2026-07-27T22:44",
@@ -297,12 +309,6 @@
         "title": "These 5 AI risks have the highest potential for catastrophe",
         "link": "https://www.axios.com/2026/07/27/mit-study-ai-risks-urgent-weapons-cyber-attacks",
         "pubDate": "2026-07-27T21:06",
-        "feedId": "axios"
-      },
-      {
-        "title": "Small businesses launch new Trump tariff challenge",
-        "link": "https://www.axios.com/2026/07/27/trump-tariff-court-small-business",
-        "pubDate": "2026-07-27T20:16",
         "feedId": "axios"
       },
       {
@@ -369,12 +375,6 @@
         "title": "100 days out from Election Day, our insider shares his intel",
         "link": "https://www.axios.com/2026/07/26/midterm-election-outlook-100-days",
         "pubDate": "2026-07-26T12:58",
-        "feedId": "axios"
-      },
-      {
-        "title": "What Sam Altman will tell the White House this week",
-        "link": "https://www.axios.com/2026/07/26/sam-altman-openai-trump-white-house-visit",
-        "pubDate": "2026-07-26T12:39",
         "feedId": "axios"
       }
     ]
