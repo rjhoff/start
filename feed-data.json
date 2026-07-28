@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "Running Kimi K3 on a M1 Mac",
+        "link": "https://github.com/gavamedia/deltafin",
+        "pubDate": "2026-07-28T21:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
+        "link": "https://github.com/anthropics/cryptography-research-demo",
+        "pubDate": "2026-07-28T21:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "Half-Life ported to Mac OS 9",
+        "link": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+        "pubDate": "2026-07-28T20:58",
+        "feedId": "hn"
+      },
+      {
         "title": "OpenAI just open-sourced Codex Security",
         "link": "https://github.com/openai/codex-security",
         "pubDate": "2026-07-28T20:52",
@@ -12,12 +30,6 @@
         "title": "Recursion is lying to you",
         "link": "https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/",
         "pubDate": "2026-07-28T20:20",
-        "feedId": "hn"
-      },
-      {
-        "title": "Pacing the frontier",
-        "link": "https://www.pacingthefrontier.com/",
-        "pubDate": "2026-07-28T20:09",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://github.com/reflex-dev/xy",
         "pubDate": "2026-07-28T15:54",
         "feedId": "hn"
-      },
-      {
-        "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
-        "link": "https://www.slow-journalism.com/",
-        "pubDate": "2026-07-28T15:50",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kimi K3 Architecture Overview and Notes",
-        "link": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-        "pubDate": "2026-07-28T15:48",
-        "feedId": "hn"
       }
     ]
   },
@@ -134,9 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Setup a Simple, Self-Hosted Web Server with OpenBSD",
-        "link": "https://btxx.org/posts/self-hosted-openbsd/",
-        "pubDate": "2026-07-27T22:27",
+        "title": "The mean means nothing",
+        "link": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
+        "pubDate": "2026-07-28T18:53",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why Rocq is better than Lean for program verification",
+        "link": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
+        "pubDate": "2026-07-28T21:16",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The mean means nothing",
-        "link": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
-        "pubDate": "2026-07-28T18:53",
+        "title": "Setup a Simple, Self-Hosted Web Server with OpenBSD",
+        "link": "https://btxx.org/posts/self-hosted-openbsd/",
+        "pubDate": "2026-07-27T22:27",
         "feedId": "lobsters"
       },
       {
@@ -170,15 +176,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "On AI",
-        "link": "https://jcs.org/2026/07/23/ai",
-        "pubDate": "2026-07-27T08:52",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Making KIO copy many files fast",
-        "link": "https://blogs.kde.org/2026/07/28/making-kio-copy-many-files-fast/",
-        "pubDate": "2026-07-28T10:11",
+        "title": "Where are the third places for learners?",
+        "link": "https://kernelkennel.com/blog/where-is-the-middle-space/",
+        "pubDate": "2026-07-28T14:38",
         "feedId": "lobsters"
       },
       {
@@ -288,9 +288,15 @@
     "id": "axios",
     "items": [
       {
+        "title": "Scoop: Trump asks Supreme Court to overturn $83M judgment for E. Jean Carroll",
+        "link": "https://www.axios.com/2026/07/28/trump-appeal-defamation-sexual-assault",
+        "pubDate": "2026-07-28T21:45",
+        "feedId": "axios"
+      },
+      {
         "title": "How the Supreme Court deepened uncertainty over Temporary Protected Status",
         "link": "https://www.axios.com/2026/07/28/trump-supreme-court-temporary-protected-status",
-        "pubDate": "2026-07-28T20:14",
+        "pubDate": "2026-07-28T21:33",
         "feedId": "axios"
       },
       {
@@ -369,12 +375,6 @@
         "title": "U.S. officials believe sanctions could hurt Iran more than bombs",
         "link": "https://www.axios.com/2026/07/27/iran-war-trump-sanctions-blockade-economy",
         "pubDate": "2026-07-27T23:56",
-        "feedId": "axios"
-      },
-      {
-        "title": "Small businesses launch new Trump tariff challenge",
-        "link": "https://www.axios.com/2026/07/27/trump-tariff-court-small-business",
-        "pubDate": "2026-07-27T23:54",
         "feedId": "axios"
       }
     ]
