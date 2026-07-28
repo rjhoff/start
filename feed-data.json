@@ -3,21 +3,39 @@
     "id": "hn",
     "items": [
       {
+        "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
+        "link": "https://arxiv.org/abs/1202.4212",
+        "pubDate": "2026-07-28T15:20",
+        "feedId": "hn"
+      },
+      {
+        "title": "GrapheneOS Defends Data-Wiping Function That Blocked US Border Search",
+        "link": "https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search",
+        "pubDate": "2026-07-28T15:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "Europe's Ultra-Rich Could Fund a Substantial Part of the EU's Budget",
+        "link": "https://www.socialeurope.eu/europes-ultra-rich-could-fund-a-substantial-part-of-the-eus-budget",
+        "pubDate": "2026-07-28T14:31",
+        "feedId": "hn"
+      },
+      {
         "title": "Ask HN: Crooked Timber showed showed me a virus captcha, What now?",
         "link": "https://news.ycombinator.com/item?id=49084404",
         "pubDate": "2026-07-28T14:25",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: tale.fyi, we deserve a home for fiction",
-        "link": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
-        "pubDate": "2026-07-28T13:16",
+        "title": "VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines",
+        "link": "https://github.com/utmapp/UTM/issues/7658",
+        "pubDate": "2026-07-28T13:33",
         "feedId": "hn"
       },
       {
-        "title": "Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History",
-        "link": "https://simpleflying.com/over-150000-flights-airlines-busiest-day-recorded-history/",
-        "pubDate": "2026-07-28T13:15",
+        "title": "Show HN: tale.fyi, we deserve a home for fiction",
+        "link": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
+        "pubDate": "2026-07-28T13:16",
         "feedId": "hn"
       },
       {
@@ -73,24 +91,6 @@
         "link": "https://github.com/wolfpld/usenetarchive",
         "pubDate": "2026-07-28T10:30",
         "feedId": "hn"
-      },
-      {
-        "title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
-        "link": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
-        "pubDate": "2026-07-28T10:20",
-        "feedId": "hn"
-      },
-      {
-        "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-        "link": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-        "pubDate": "2026-07-28T09:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "About the security content of macOS Tahoe 26.6",
-        "link": "https://support.apple.com/en-us/128067",
-        "pubDate": "2026-07-28T09:45",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,9 +104,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Inside Zig's Incremental Compilation",
+        "link": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+        "pubDate": "2026-07-28T14:14",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk",
         "link": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
         "pubDate": "2026-07-28T10:32",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What even are microservices?",
+        "link": "https://var0.xyz/posts/what-even-are-microservices.html",
+        "pubDate": "2026-07-28T12:14",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way",
-        "link": "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way",
-        "pubDate": "2026-07-28T08:57",
+        "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times",
+        "link": "https://blog.tymscar.com/posts/opensourcedimmer/",
+        "pubDate": "2026-07-28T13:33",
         "feedId": "lobsters"
       },
       {
@@ -146,21 +158,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What even are microservices?",
-        "link": "https://var0.xyz/posts/what-even-are-microservices.html",
-        "pubDate": "2026-07-28T12:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times",
-        "link": "https://blog.tymscar.com/posts/opensourcedimmer/",
-        "pubDate": "2026-07-28T13:33",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Making KIO copy many files fast",
         "link": "https://blogs.kde.org/2026/07/28/making-kio-copy-many-files-fast/",
         "pubDate": "2026-07-28T10:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way",
+        "link": "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way",
+        "pubDate": "2026-07-28T08:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Parallel JSON parsing on the GPU with compute shaders",
+        "link": "https://github.com/friendlymatthew/slurpjson#slurpjson",
+        "pubDate": "2026-07-28T14:39",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Paged Out - Issue #9",
-        "link": "https://pagedout.institute/webview.php?issue=9&page=1",
-        "pubDate": "2026-07-27T14:55",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Most Googlebots are fake",
-        "link": "https://digitalseams.com/blog/most-googlebots-are-fake",
-        "pubDate": "2026-07-27T10:40",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Seriously, what is the large code-model even for?",
-        "link": "https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for",
-        "pubDate": "2026-07-27T18:57",
+        "title": "Design flaws in issetugid() (2017)",
+        "link": "https://gist.github.com/nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e",
+        "pubDate": "2026-07-28T13:25",
         "feedId": "lobsters"
       }
     ]
