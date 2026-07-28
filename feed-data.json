@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "7.1 Earthquake in Japan",
+        "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+        "pubDate": "2026-07-28T07:44",
+        "feedId": "hn"
+      },
+      {
         "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
         "link": "https://arsastronomica.com/",
         "pubDate": "2026-07-28T05:25",
@@ -21,27 +27,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Why do we think we understand the world more than we actually do?",
-        "link": "https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth",
-        "pubDate": "2026-07-28T04:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "The age of token efficiency, the age of libraries",
-        "link": "https://golemui.com/blog/the-age-of-token-efficiency/",
-        "pubDate": "2026-07-28T03:56",
-        "feedId": "hn"
-      },
-      {
         "title": "Using an open model feels surprisingly good",
         "link": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
         "pubDate": "2026-07-28T02:37",
-        "feedId": "hn"
-      },
-      {
-        "title": "An Uncomplicated Man – A review of The Odyssey, directed by Christopher Nolan",
-        "link": "https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man",
-        "pubDate": "2026-07-28T02:35",
         "feedId": "hn"
       },
       {
@@ -63,9 +51,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
-        "link": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
-        "pubDate": "2026-07-27T23:19",
+        "title": "Don't ask an LLM for a confidence score",
+        "link": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
+        "pubDate": "2026-07-28T00:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
+        "link": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
+        "pubDate": "2026-07-27T23:21",
         "feedId": "hn"
       },
       {
@@ -91,12 +85,24 @@
         "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
         "pubDate": "2026-07-27T22:37",
         "feedId": "hn"
+      },
+      {
+        "title": "A missing underscore sent innocent man to prison for 18 months",
+        "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+        "pubDate": "2026-07-27T22:10",
+        "feedId": "hn"
       }
     ]
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "Framework 13 Pro review: Much better battery, much worse price",
+        "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
+        "pubDate": "2026-07-28T03:15",
+        "feedId": "lobsters"
+      },
       {
         "title": "On AI",
         "link": "https://jcs.org/2026/07/23/ai",
@@ -110,27 +116,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Framework 13 Pro review: Much better battery, much worse price",
-        "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
-        "pubDate": "2026-07-28T03:15",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Setup a Simple, Self-Hosted Web Server with OpenBSD",
         "link": "https://btxx.org/posts/self-hosted-openbsd/",
         "pubDate": "2026-07-27T22:27",
         "feedId": "lobsters"
       },
       {
-        "title": "Most Googlebots are fake",
-        "link": "https://digitalseams.com/blog/most-googlebots-are-fake",
-        "pubDate": "2026-07-27T10:40",
+        "title": "Try the New Firefox Design in Nightly",
+        "link": "https://blog.nightly.mozilla.org/2026/07/27/new-firefox-design/",
+        "pubDate": "2026-07-28T00:43",
         "feedId": "lobsters"
       },
       {
         "title": "The Productivity Mirage",
         "link": "https://frantic.im/mirage",
         "pubDate": "2026-07-27T10:54",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Most Googlebots are fake",
+        "link": "https://digitalseams.com/blog/most-googlebots-are-fake",
+        "pubDate": "2026-07-27T10:40",
         "feedId": "lobsters"
       },
       {
@@ -146,6 +152,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way",
+        "link": "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way",
+        "pubDate": "2026-07-28T08:57",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Seriously, what is the large code-model even for?",
         "link": "https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for",
         "pubDate": "2026-07-27T18:57",
@@ -158,33 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Open Source Must Be Fun (Or It Will Die)",
-        "link": "https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/",
-        "pubDate": "2026-07-27T15:33",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Finding bugs in Raft implementations",
         "link": "https://antithesis.com/blog/2026/finding-bugs-in-raft-implementations/",
         "pubDate": "2026-07-27T16:40",
         "feedId": "lobsters"
       },
       {
+        "title": "Open Source Must Be Fun (Or It Will Die)",
+        "link": "https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/",
+        "pubDate": "2026-07-27T15:33",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Advantages and disadvantages of Windows NT 3.1",
         "link": "https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/",
         "pubDate": "2026-07-27T17:40",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What does GitHub’s security team even do?",
-        "link": "https://orchidfiles.com/github-security-team/",
-        "pubDate": "2026-07-27T06:06",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles",
-        "link": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
-        "pubDate": "2026-07-27T17:06",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,36 @@
     "id": "axios",
     "items": [
       {
+        "title": "Six steps to socialism",
+        "link": "https://www.axios.com/2026/07/28/trump-socialism-stages-of-political-surrender",
+        "pubDate": "2026-07-28T09:44",
+        "feedId": "axios"
+      },
+      {
+        "title": "How Trump's \"self-deportation\" machine has ramped up",
+        "link": "https://www.axios.com/2026/07/28/trump-self-deportation-ice",
+        "pubDate": "2026-07-28T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "UN's renewable-powered AI goal meets physical reality",
+        "link": "https://www.axios.com/2026/07/28/renewables-ai-data-centers-power-fossil-fuels",
+        "pubDate": "2026-07-28T09:15",
+        "feedId": "axios"
+      },
+      {
+        "title": "Anthropic, OpenAI blow past Starbucks, McDonald's amid AI boom",
+        "link": "https://www.axios.com/2026/07/28/anthropic-openai-revenue-mcdonalds-starbucks-yum",
+        "pubDate": "2026-07-28T09:10",
+        "feedId": "axios"
+      },
+      {
+        "title": "A diminished Bibi arrives for his moment with Trump",
+        "link": "https://www.axios.com/2026/07/28/trump-netanyahu-white-house-iran-war-meeting",
+        "pubDate": "2026-07-28T09:00",
+        "feedId": "axios"
+      },
+      {
         "title": "Canadians' travel pullback costs U.S. tourism billions",
         "link": "https://www.axios.com/2026/07/28/canada-us-tourism-losses-canadian-travel",
         "pubDate": "2026-07-28T01:48",
@@ -345,36 +375,6 @@
         "title": "Trump to Axios: I'm ready for \"strong military action\" if  Iran talks fail",
         "link": "https://www.axios.com/2026/07/27/trump-interview-iran-bombing-pause",
         "pubDate": "2026-07-27T15:57",
-        "feedId": "axios"
-      },
-      {
-        "title": "Democrats hit the anti-incumbency trap",
-        "link": "https://www.axios.com/2026/07/27/2026-midterm-democrats-socialist-michigan",
-        "pubDate": "2026-07-27T09:35",
-        "feedId": "axios"
-      },
-      {
-        "title": "Off-grid data centers aren't the panacea that some AI firms hoped",
-        "link": "https://www.axios.com/2026/07/27/off-grid-ai-data-centers-reckoning",
-        "pubDate": "2026-07-27T09:25",
-        "feedId": "axios"
-      },
-      {
-        "title": "Dems' 2028 primary schedule angers some progressives",
-        "link": "https://www.axios.com/2026/07/26/south-carolina-progressives-primary-2028",
-        "pubDate": "2026-07-26T21:45",
-        "feedId": "axios"
-      },
-      {
-        "title": "Some Democrats tout their version of \"America First\"",
-        "link": "https://www.axios.com/2026/07/26/democrats-america-first-trump-2028",
-        "pubDate": "2026-07-26T21:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Top U.S. military commander in Middle East advised halting Hormuz bombing",
-        "link": "https://www.axios.com/2026/07/26/hormuz-bombing-pause-trump-iran",
-        "pubDate": "2026-07-26T16:47",
         "feedId": "axios"
       }
     ]
