@@ -9,15 +9,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS",
-        "link": "https://www.dowe.dev",
-        "pubDate": "2026-07-27T23:26",
-        "feedId": "hn"
-      },
-      {
         "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
         "link": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349",
         "pubDate": "2026-07-27T23:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+        "link": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+        "pubDate": "2026-07-27T23:19",
         "feedId": "hn"
       },
       {
@@ -140,15 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Open Source Must Be Fun (Or It Will Die)",
-        "link": "https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/",
-        "pubDate": "2026-07-27T15:33",
+        "title": "Quick & Easy Parser Combinators",
+        "link": "https://www.cyan.sh/blog/posts/tutorial-quick-easy-parser-combinators.html",
+        "pubDate": "2026-07-27T16:35",
         "feedId": "lobsters"
       },
       {
-        "title": "What does GitHub’s security team even do?",
-        "link": "https://orchidfiles.com/github-security-team/",
-        "pubDate": "2026-07-27T06:06",
+        "title": "Open Source Must Be Fun (Or It Will Die)",
+        "link": "https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/",
+        "pubDate": "2026-07-27T15:33",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles",
-        "link": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
-        "pubDate": "2026-07-27T17:06",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Quick & Easy Parser Combinators",
-        "link": "https://www.cyan.sh/blog/posts/tutorial-quick-easy-parser-combinators.html",
-        "pubDate": "2026-07-27T16:35",
+        "title": "What does GitHub’s security team even do?",
+        "link": "https://orchidfiles.com/github-security-team/",
+        "pubDate": "2026-07-27T06:06",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week",
-        "pubDate": "2026-07-27T10:51",
+        "title": "Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles",
+        "link": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
+        "pubDate": "2026-07-27T17:06",
         "feedId": "lobsters"
       },
       {
-        "title": "Teaching Kids Forth",
-        "link": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-        "pubDate": "2026-07-26T19:26",
+        "title": "Seriously, what is the large code-model even for?",
+        "link": "https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for",
+        "pubDate": "2026-07-27T18:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week",
+        "pubDate": "2026-07-27T10:51",
         "feedId": "lobsters"
       }
     ]
