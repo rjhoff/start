@@ -1,98 +1,8 @@
 {
   "hn": {
     "id": "hn",
-    "items": [
-      {
-        "title": "The Burau representation of the braid group is faithful for n = 4",
-        "link": "https://arxiv.org/abs/2607.05283",
-        "pubDate": "2026-07-27T23:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
-        "link": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349",
-        "pubDate": "2026-07-27T23:21",
-        "feedId": "hn"
-      },
-      {
-        "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
-        "link": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
-        "pubDate": "2026-07-27T23:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "DConf 2026 in London",
-        "link": "https://dconf.org/2026/index.html",
-        "pubDate": "2026-07-27T23:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "C/C++ projects packaged for Zig",
-        "link": "https://github.com/allyourcodebase",
-        "pubDate": "2026-07-27T23:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "Benchmarking Opus 5 on SlopCodeBench",
-        "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-        "pubDate": "2026-07-27T22:37",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hard Road – A beautiful procedural post-apocalyptic game",
-        "link": "https://hardroad.xyz/",
-        "pubDate": "2026-07-27T22:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "A missing underscore sent innocent man to prison for 18 months",
-        "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
-        "pubDate": "2026-07-27T22:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "Our position on open-weights models",
-        "link": "https://www.anthropic.com/news/position-open-weights-models",
-        "pubDate": "2026-07-27T22:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Forth",
-        "link": "https://xkcd.com/3277/",
-        "pubDate": "2026-07-27T20:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
-        "link": "https://www.rise-reforming.com",
-        "pubDate": "2026-07-27T19:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "Self-contained highly-portable Python distributions",
-        "link": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-        "pubDate": "2026-07-27T18:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "Bytecode-to-Source Mapping",
-        "link": "https://tidefield.dev/bytecode-to-source-mapping/",
-        "pubDate": "2026-07-27T18:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
-        "link": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
-        "pubDate": "2026-07-27T18:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
-        "link": "https://up.codes/careers?utm_source=HN",
-        "pubDate": "2026-07-27T17:02",
-        "feedId": "hn"
-      }
-    ]
+    "error": "Request timed out after 10000ms",
+    "items": []
   },
   "lobsters": {
     "id": "lobsters",
@@ -122,9 +32,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How is the Bun Rewrite in Rust Going?",
-        "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-        "pubDate": "2026-07-27T12:32",
+        "title": "Setup a Simple, Self-Hosted Web Server with OpenBSD",
+        "link": "https://btxx.org/posts/self-hosted-openbsd/",
+        "pubDate": "2026-07-27T22:27",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +44,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Setup a Simple, Self-Hosted Web Server with OpenBSD",
-        "link": "https://btxx.org/posts/self-hosted-openbsd/",
-        "pubDate": "2026-07-27T22:27",
+        "title": "How is the Bun Rewrite in Rust Going?",
+        "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+        "pubDate": "2026-07-27T12:32",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Seriously, what is the large code-model even for?",
+        "link": "https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for",
+        "pubDate": "2026-07-27T18:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Framework 13 Pro review: Much better battery, much worse price",
+        "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
+        "pubDate": "2026-07-28T03:15",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +80,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What does GitHub’s security team even do?",
-        "link": "https://orchidfiles.com/github-security-team/",
-        "pubDate": "2026-07-27T06:06",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Advantages and disadvantages of Windows NT 3.1",
         "link": "https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/",
         "pubDate": "2026-07-27T17:40",
         "feedId": "lobsters"
       },
       {
+        "title": "What does GitHub’s security team even do?",
+        "link": "https://orchidfiles.com/github-security-team/",
+        "pubDate": "2026-07-27T06:06",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles",
         "link": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
         "pubDate": "2026-07-27T17:06",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Seriously, what is the large code-model even for?",
-        "link": "https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for",
-        "pubDate": "2026-07-27T18:57",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week",
-        "pubDate": "2026-07-27T10:51",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +198,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Canadians' travel pullback costs U.S. tourism billions",
+        "link": "https://www.axios.com/2026/07/28/canada-us-tourism-losses-canadian-travel",
+        "pubDate": "2026-07-28T01:48",
+        "feedId": "axios"
+      },
+      {
         "title": "U.S. officials believe sanctions could hurt Iran more than bombs",
         "link": "https://www.axios.com/2026/07/27/iran-war-trump-sanctions-blockade-economy",
         "pubDate": "2026-07-27T23:56",
@@ -297,6 +213,12 @@
         "title": "Small businesses launch new Trump tariff challenge",
         "link": "https://www.axios.com/2026/07/27/trump-tariff-court-small-business",
         "pubDate": "2026-07-27T23:54",
+        "feedId": "axios"
+      },
+      {
+        "title": "Thune's shield against Trump",
+        "link": "https://www.axios.com/2026/07/27/donald-trump-john-thune-senate-republicans-save-act",
+        "pubDate": "2026-07-27T23:42",
         "feedId": "axios"
       },
       {
@@ -363,18 +285,6 @@
         "title": "Top U.S. military commander in Middle East advised halting Hormuz bombing",
         "link": "https://www.axios.com/2026/07/26/hormuz-bombing-pause-trump-iran",
         "pubDate": "2026-07-26T16:47",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump to meet Zelensky at White House, as MAGA voices shift on Ukraine",
-        "link": "https://www.axios.com/2026/07/26/trump-zelensky-white-house-maga-ukraine",
-        "pubDate": "2026-07-26T15:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "100 days out from Election Day, our insider shares his intel",
-        "link": "https://www.axios.com/2026/07/26/midterm-election-outlook-100-days",
-        "pubDate": "2026-07-26T12:58",
         "feedId": "axios"
       }
     ]
