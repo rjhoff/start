@@ -1,8 +1,98 @@
 {
   "hn": {
     "id": "hn",
-    "error": "Request timed out after 10000ms",
-    "items": []
+    "items": [
+      {
+        "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
+        "link": "https://arsastronomica.com/",
+        "pubDate": "2026-07-28T05:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "Neutrino-1 8B",
+        "link": "https://www.fermionresearch.com/models/neutrino-8b/",
+        "pubDate": "2026-07-28T04:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "PyTorch: A Reference Language",
+        "link": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
+        "pubDate": "2026-07-28T04:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why do we think we understand the world more than we actually do?",
+        "link": "https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth",
+        "pubDate": "2026-07-28T04:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "The age of token efficiency, the age of libraries",
+        "link": "https://golemui.com/blog/the-age-of-token-efficiency/",
+        "pubDate": "2026-07-28T03:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "Using an open model feels surprisingly good",
+        "link": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+        "pubDate": "2026-07-28T02:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "An Uncomplicated Man – A review of The Odyssey, directed by Christopher Nolan",
+        "link": "https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man",
+        "pubDate": "2026-07-28T02:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "EYG: A Programming Language for Humans",
+        "link": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
+        "pubDate": "2026-07-28T02:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+        "link": "https://fermisense.com/when-machines-take-the-wheel/",
+        "pubDate": "2026-07-28T02:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Vehicle Motion Cues",
+        "link": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
+        "pubDate": "2026-07-28T01:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+        "link": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+        "pubDate": "2026-07-27T23:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "DConf 2026 in London",
+        "link": "https://dconf.org/2026/index.html",
+        "pubDate": "2026-07-27T23:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "C/C++ projects packaged for Zig",
+        "link": "https://github.com/allyourcodebase",
+        "pubDate": "2026-07-27T23:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Kimi K3 Now Available via Telnyx Inference API",
+        "link": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+        "pubDate": "2026-07-27T22:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "Benchmarking Opus 5 on SlopCodeBench",
+        "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+        "pubDate": "2026-07-27T22:37",
+        "feedId": "hn"
+      }
+    ]
   },
   "lobsters": {
     "id": "lobsters",
@@ -20,6 +110,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Framework 13 Pro review: Much better battery, much worse price",
+        "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
+        "pubDate": "2026-07-28T03:15",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Setup a Simple, Self-Hosted Web Server with OpenBSD",
+        "link": "https://btxx.org/posts/self-hosted-openbsd/",
+        "pubDate": "2026-07-27T22:27",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Most Googlebots are fake",
         "link": "https://digitalseams.com/blog/most-googlebots-are-fake",
         "pubDate": "2026-07-27T10:40",
@@ -29,12 +131,6 @@
         "title": "The Productivity Mirage",
         "link": "https://frantic.im/mirage",
         "pubDate": "2026-07-27T10:54",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Setup a Simple, Self-Hosted Web Server with OpenBSD",
-        "link": "https://btxx.org/posts/self-hosted-openbsd/",
-        "pubDate": "2026-07-27T22:27",
         "feedId": "lobsters"
       },
       {
@@ -53,12 +149,6 @@
         "title": "Seriously, what is the large code-model even for?",
         "link": "https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for",
         "pubDate": "2026-07-27T18:57",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Framework 13 Pro review: Much better battery, much worse price",
-        "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
-        "pubDate": "2026-07-28T03:15",
         "feedId": "lobsters"
       },
       {
