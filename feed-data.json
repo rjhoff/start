@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+        "link": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+        "pubDate": "2026-07-28T09:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "What Even Are Microservices?",
+        "link": "https://var0.xyz/posts/what-even-are-microservices.html",
+        "pubDate": "2026-07-28T09:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "About the security content of macOS Tahoe 26.6",
+        "link": "https://support.apple.com/en-us/128067",
+        "pubDate": "2026-07-28T09:45",
+        "feedId": "hn"
+      },
+      {
         "title": "7.1 Earthquake in Japan",
         "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
         "pubDate": "2026-07-28T07:44",
@@ -51,18 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Don't ask an LLM for a confidence score",
-        "link": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
-        "pubDate": "2026-07-28T00:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
-        "link": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
-        "pubDate": "2026-07-27T23:21",
-        "feedId": "hn"
-      },
-      {
         "title": "DConf 2026 in London",
         "link": "https://dconf.org/2026/index.html",
         "pubDate": "2026-07-27T23:14",
@@ -84,12 +90,6 @@
         "title": "Benchmarking Opus 5 on SlopCodeBench",
         "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
         "pubDate": "2026-07-27T22:37",
-        "feedId": "hn"
-      },
-      {
-        "title": "A missing underscore sent innocent man to prison for 18 months",
-        "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
-        "pubDate": "2026-07-27T22:10",
         "feedId": "hn"
       }
     ]
@@ -134,9 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Most Googlebots are fake",
-        "link": "https://digitalseams.com/blog/most-googlebots-are-fake",
-        "pubDate": "2026-07-27T10:40",
+        "title": "One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way",
+        "link": "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way",
+        "pubDate": "2026-07-28T08:57",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How is the Bun Rewrite in Rust Going?",
-        "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-        "pubDate": "2026-07-27T12:32",
+        "title": "Most Googlebots are fake",
+        "link": "https://digitalseams.com/blog/most-googlebots-are-fake",
+        "pubDate": "2026-07-27T10:40",
         "feedId": "lobsters"
       },
       {
-        "title": "One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way",
-        "link": "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way",
-        "pubDate": "2026-07-28T08:57",
+        "title": "How is the Bun Rewrite in Rust Going?",
+        "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+        "pubDate": "2026-07-27T12:32",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Open Source Must Be Fun (Or It Will Die)",
-        "link": "https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/",
-        "pubDate": "2026-07-27T15:33",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Advantages and disadvantages of Windows NT 3.1",
         "link": "https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/",
         "pubDate": "2026-07-27T17:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Open Source Must Be Fun (Or It Will Die)",
+        "link": "https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/",
+        "pubDate": "2026-07-27T15:33",
         "feedId": "lobsters"
       }
     ]
