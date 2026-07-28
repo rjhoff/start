@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "OpenAI just open-sourced Codex Security",
+        "link": "https://github.com/openai/codex-security",
+        "pubDate": "2026-07-28T20:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "Recursion is lying to you",
+        "link": "https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/",
+        "pubDate": "2026-07-28T20:20",
+        "feedId": "hn"
+      },
+      {
+        "title": "Pacing the frontier",
+        "link": "https://www.pacingthefrontier.com/",
+        "pubDate": "2026-07-28T20:09",
+        "feedId": "hn"
+      },
+      {
         "title": "Hulios: An eBPF-powered, transparent Tor gateway for Linux",
         "link": "https://github.com/ghaziwali/Hulios",
         "pubDate": "2026-07-28T19:54",
@@ -12,18 +30,6 @@
         "title": "Uv 0.12.0",
         "link": "https://github.com/astral-sh/uv/releases/tag/0.12.0",
         "pubDate": "2026-07-28T19:41",
-        "feedId": "hn"
-      },
-      {
-        "title": "Donate to GrapheneOS",
-        "link": "https://grapheneos.org/donate",
-        "pubDate": "2026-07-28T19:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "Deflock Casa Grande",
-        "link": "https://deflockcg.com/",
-        "pubDate": "2026-07-28T18:41",
         "feedId": "hn"
       },
       {
@@ -60,12 +66,6 @@
         "title": "Substack writers, you need a website",
         "link": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
         "pubDate": "2026-07-28T16:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "A walk through of the DeltaNet family of linear attention variants",
-        "link": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-        "pubDate": "2026-07-28T16:02",
         "feedId": "hn"
       },
       {
@@ -140,6 +140,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Dependency Cultures - Richard Feldman (Software Should Work Conf 2026)",
+        "link": "https://www.youtube.com/watch?v=E82ly38YEEQ",
+        "pubDate": "2026-07-28T15:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The mean means nothing",
+        "link": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
+        "pubDate": "2026-07-28T18:53",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Parallel JSON parsing on the GPU with compute shaders",
         "link": "https://github.com/friendlymatthew/slurpjson#slurpjson",
         "pubDate": "2026-07-28T14:39",
@@ -164,12 +176,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Dependency Cultures - Richard Feldman (Software Should Work Conf 2026)",
-        "link": "https://www.youtube.com/watch?v=E82ly38YEEQ",
-        "pubDate": "2026-07-28T15:18",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Making KIO copy many files fast",
         "link": "https://blogs.kde.org/2026/07/28/making-kio-copy-many-files-fast/",
         "pubDate": "2026-07-28T10:11",
@@ -179,12 +185,6 @@
         "title": "One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way",
         "link": "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way",
         "pubDate": "2026-07-28T08:57",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Improving Heuristics (2015)",
-        "link": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
-        "pubDate": "2026-07-28T11:51",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "How the Supreme Court deepened uncertainty over Temporary Protected Status",
+        "link": "https://www.axios.com/2026/07/28/trump-supreme-court-temporary-protected-status",
+        "pubDate": "2026-07-28T20:14",
+        "feedId": "axios"
+      },
+      {
         "title": "\"It's a serious clusterf*ck\": Behind-the-scenes fury and panic roil key House primary",
         "link": "https://www.axios.com/2026/07/28/michigan-primary-slotkin-lawrence-brink-maasdam",
         "pubDate": "2026-07-28T19:16",
@@ -369,12 +375,6 @@
         "title": "Small businesses launch new Trump tariff challenge",
         "link": "https://www.axios.com/2026/07/27/trump-tariff-court-small-business",
         "pubDate": "2026-07-27T23:54",
-        "feedId": "axios"
-      },
-      {
-        "title": "Thune's shield against Trump",
-        "link": "https://www.axios.com/2026/07/27/donald-trump-john-thune-senate-republicans-save-act",
-        "pubDate": "2026-07-27T23:42",
         "feedId": "axios"
       }
     ]
