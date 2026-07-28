@@ -3,6 +3,72 @@
     "id": "hn",
     "items": [
       {
+        "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
+        "link": "https://github.com/ctrlb-hq/ctrlb-decompose",
+        "pubDate": "2026-07-28T13:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "New HIV vaccine shows unprecedented success in preclinical study",
+        "link": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+        "pubDate": "2026-07-28T13:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: I put a $2.43 necklace on 3 outfits. VLMs priced it at $19 to $104",
+        "link": "https://github.com/BraveAnn011/ai-halo-valuation-bias",
+        "pubDate": "2026-07-28T13:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+        "link": "https://github.com/schildep/verified-3d-mesh-intersection",
+        "pubDate": "2026-07-28T13:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "What AI developers could learn from Charles Bukowski?",
+        "link": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
+        "pubDate": "2026-07-28T13:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI revenues are growing fast, but not fast enough",
+        "link": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+        "pubDate": "2026-07-28T12:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "Mondragon Corporation – a federation of co-operatives",
+        "link": "https://en.wikipedia.org/wiki/Mondragon_Corporation",
+        "pubDate": "2026-07-28T12:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
+        "link": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
+        "pubDate": "2026-07-28T12:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
+        "link": "https://arxiv.org/abs/2510.26692",
+        "pubDate": "2026-07-28T10:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "Usenet Archive Toolkit – process Usenet messages into a searchable archive",
+        "link": "https://github.com/wolfpld/usenetarchive",
+        "pubDate": "2026-07-28T10:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
+        "link": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
+        "pubDate": "2026-07-28T10:20",
+        "feedId": "hn"
+      },
+      {
         "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
         "link": "https://spawn-queue.acm.org/doi/10.1145/3819083",
         "pubDate": "2026-07-28T09:59",
@@ -25,72 +91,6 @@
         "link": "https://arsastronomica.com/",
         "pubDate": "2026-07-28T05:25",
         "feedId": "hn"
-      },
-      {
-        "title": "PyTorch: A Reference Language",
-        "link": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
-        "pubDate": "2026-07-28T04:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
-        "link": "https://fermisense.com/when-machines-take-the-wheel/",
-        "pubDate": "2026-07-28T02:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "Vehicle Motion Cues",
-        "link": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
-        "pubDate": "2026-07-28T01:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "Don't ask an LLM for a confidence score",
-        "link": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
-        "pubDate": "2026-07-28T00:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "DConf 2026 in London",
-        "link": "https://dconf.org/2026/index.html",
-        "pubDate": "2026-07-27T23:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "C/C++ projects packaged for Zig",
-        "link": "https://github.com/allyourcodebase",
-        "pubDate": "2026-07-27T23:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kimi K3 Now Available via Telnyx Inference API",
-        "link": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-        "pubDate": "2026-07-27T22:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "Benchmarking Opus 5 on SlopCodeBench",
-        "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-        "pubDate": "2026-07-27T22:37",
-        "feedId": "hn"
-      },
-      {
-        "title": "A missing underscore sent innocent man to prison for 18 months",
-        "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
-        "pubDate": "2026-07-27T22:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "Our position on open-weights models",
-        "link": "https://www.anthropic.com/news/position-open-weights-models",
-        "pubDate": "2026-07-27T22:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
-        "link": "https://www.rise-reforming.com",
-        "pubDate": "2026-07-27T19:58",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,12 +110,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "On AI",
-        "link": "https://jcs.org/2026/07/23/ai",
-        "pubDate": "2026-07-27T08:52",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Setup a Simple, Self-Hosted Web Server with OpenBSD",
         "link": "https://btxx.org/posts/self-hosted-openbsd/",
         "pubDate": "2026-07-27T22:27",
@@ -125,6 +119,12 @@
         "title": "Try the New Firefox Design in Nightly",
         "link": "https://blog.nightly.mozilla.org/2026/07/27/new-firefox-design/",
         "pubDate": "2026-07-28T00:43",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "On AI",
+        "link": "https://jcs.org/2026/07/23/ai",
+        "pubDate": "2026-07-27T08:52",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Most Googlebots are fake",
-        "link": "https://digitalseams.com/blog/most-googlebots-are-fake",
-        "pubDate": "2026-07-27T10:40",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Paged Out - Issue #9",
         "link": "https://pagedout.institute/webview.php?issue=9&page=1",
         "pubDate": "2026-07-27T14:55",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Most Googlebots are fake",
+        "link": "https://digitalseams.com/blog/most-googlebots-are-fake",
+        "pubDate": "2026-07-27T10:40",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Finding bugs in Raft implementations",
-        "link": "https://antithesis.com/blog/2026/finding-bugs-in-raft-implementations/",
-        "pubDate": "2026-07-27T16:40",
+        "title": "What even are microservices?",
+        "link": "https://var0.xyz/posts/what-even-are-microservices.html",
+        "pubDate": "2026-07-28T12:14",
         "feedId": "lobsters"
       },
       {
-        "title": "Quick & Easy Parser Combinators",
-        "link": "https://www.cyan.sh/blog/posts/tutorial-quick-easy-parser-combinators.html",
-        "pubDate": "2026-07-27T16:35",
+        "title": "Making KIO copy many files fast",
+        "link": "https://blogs.kde.org/2026/07/28/making-kio-copy-many-files-fast/",
+        "pubDate": "2026-07-28T10:11",
         "feedId": "lobsters"
       },
       {
-        "title": "Advantages and disadvantages of Windows NT 3.1",
-        "link": "https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/",
-        "pubDate": "2026-07-27T17:40",
+        "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times",
+        "link": "https://blog.tymscar.com/posts/opensourcedimmer/",
+        "pubDate": "2026-07-28T13:33",
         "feedId": "lobsters"
       }
     ]
