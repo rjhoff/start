@@ -3,6 +3,36 @@
     "id": "hn",
     "items": [
       {
+        "title": "Discovering Cryptographic Weaknesses with Claude",
+        "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+        "pubDate": "2026-07-28T17:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "Scientific computing in the age of agentic AI",
+        "link": "https://openai.com/index/scientific-computing-agentic-ai/",
+        "pubDate": "2026-07-28T17:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "Steel Bank Common Lisp version 2.6.7",
+        "link": "https://sbcl.org/all-news.html?2.6.7",
+        "pubDate": "2026-07-28T17:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "Substack writers, you need a website",
+        "link": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+        "pubDate": "2026-07-28T16:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "Xenharmlib (music theory library) adds support for Just Intonation",
+        "link": "https://xenharmlib.readthedocs.io/en/latest/whats_new_0_4_0.html",
+        "pubDate": "2026-07-28T16:10",
+        "feedId": "hn"
+      },
+      {
         "title": "You Could Have Come Up with Kimi Delta Attention",
         "link": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
         "pubDate": "2026-07-28T16:02",
@@ -15,7 +45,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: XY – Fast, composable, GPU-accelerated charts, written in Rust",
+        "title": "Show HN: XY – Fast, composable, GPU-accelerated Python charting library",
         "link": "https://github.com/reflex-dev/xy",
         "pubDate": "2026-07-28T15:54",
         "feedId": "hn"
@@ -61,36 +91,6 @@
         "link": "https://arxiv.org/abs/1202.4212",
         "pubDate": "2026-07-28T15:20",
         "feedId": "hn"
-      },
-      {
-        "title": "GrapheneOS Defends Data-Wiping Function That Blocked US Border Search",
-        "link": "https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search",
-        "pubDate": "2026-07-28T15:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "Italy Blocks Reproductive Health Websites Women on Web and Women Help Women",
-        "link": "https://ooni.org/post/2026-italy-blocks-wow-and-whw",
-        "pubDate": "2026-07-28T14:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Base-GPUI: A GPUI port of Base UI headless components",
-        "link": "https://github.com/LukeTandjung/base-gpui",
-        "pubDate": "2026-07-28T13:38",
-        "feedId": "hn"
-      },
-      {
-        "title": "VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines",
-        "link": "https://github.com/utmapp/UTM/issues/7658",
-        "pubDate": "2026-07-28T13:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: tale.fyi, we deserve a home for fiction",
-        "link": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
-        "pubDate": "2026-07-28T13:16",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,15 +104,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk",
+        "link": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+        "pubDate": "2026-07-28T10:32",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Framework 13 Pro review: Much better battery, much worse price",
         "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
         "pubDate": "2026-07-28T03:15",
         "feedId": "lobsters"
       },
       {
-        "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk",
-        "link": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-        "pubDate": "2026-07-28T10:32",
+        "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times",
+        "link": "https://blog.tymscar.com/posts/opensourcedimmer/",
+        "pubDate": "2026-07-28T13:33",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Building (systems) software with Nix",
-        "link": "https://hondu.co/blog/building-systems-software",
-        "pubDate": "2026-07-28T13:10",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Blogging Can Just Be Stating The Obvious",
         "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
         "pubDate": "2026-07-27T13:34",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Building (systems) software with Nix",
+        "link": "https://hondu.co/blog/building-systems-software",
+        "pubDate": "2026-07-28T13:10",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times",
-        "link": "https://blog.tymscar.com/posts/opensourcedimmer/",
-        "pubDate": "2026-07-28T13:33",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Aux Control — Let the whole room vote on the music",
-        "link": "https://auxcontrol.live",
-        "pubDate": "2026-07-28T12:57",
+        "title": "One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way",
+        "link": "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way",
+        "pubDate": "2026-07-28T08:57",
         "feedId": "lobsters"
       },
       {
@@ -176,9 +176,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way",
-        "link": "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way",
-        "pubDate": "2026-07-28T08:57",
+        "title": "Aux Control — Let the whole room vote on the music",
+        "link": "https://auxcontrol.live",
+        "pubDate": "2026-07-28T12:57",
         "feedId": "lobsters"
       },
       {
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link",
+        "link": "https://arstechnica.com/health/2026/07/report-trump-mad-rfk-jr-hasnt-cut-more-vaccines-or-proven-autism-link/",
+        "pubDate": "2026-07-28T16:16",
+        "feedId": "arstechnica"
+      },
       {
         "title": "As US measles cases rise, biotech firms start developing new treatments",
         "link": "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/",
@@ -275,18 +281,18 @@
         "link": "https://arstechnica.com/health/2026/07/how-emotionally-powerful-stories-fuel-vaccine-skepticism/",
         "pubDate": "2026-07-27T14:01",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
-        "link": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
-        "pubDate": "2026-07-27T10:50",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Scoop: Nvidia's Jensen Huang meets Lutnick amid China scrutiny",
+        "link": "https://www.axios.com/2026/07/28/nvidia-jensen-huang-lutnick-meeting-china-ai",
+        "pubDate": "2026-07-28T16:42",
+        "feedId": "axios"
+      },
       {
         "title": "AI is only \"part\" of high U.S. productivity growth, says Stripe economist",
         "link": "https://www.axios.com/2026/07/28/ai-labor-productivity-stripe",
@@ -369,12 +375,6 @@
         "title": "These 5 AI risks have the highest potential for catastrophe",
         "link": "https://www.axios.com/2026/07/27/mit-study-ai-risks-urgent-weapons-cyber-attacks",
         "pubDate": "2026-07-27T21:06",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump tries to sell an economy voters aren't buying",
-        "link": "https://www.axios.com/2026/07/27/trump-economy-polling-democrats-midterms",
-        "pubDate": "2026-07-27T19:36",
         "feedId": "axios"
       }
     ]
