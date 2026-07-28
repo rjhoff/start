@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "Ask HN: Crooked Timber showed showed me a virus captcha, What now?",
+        "link": "https://news.ycombinator.com/item?id=49084404",
+        "pubDate": "2026-07-28T14:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: tale.fyi, we deserve a home for fiction",
+        "link": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
+        "pubDate": "2026-07-28T13:16",
+        "feedId": "hn"
+      },
+      {
+        "title": "Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History",
+        "link": "https://simpleflying.com/over-150000-flights-airlines-busiest-day-recorded-history/",
+        "pubDate": "2026-07-28T13:15",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
         "link": "https://github.com/ctrlb-hq/ctrlb-decompose",
         "pubDate": "2026-07-28T13:13",
@@ -12,12 +30,6 @@
         "title": "New HIV vaccine shows unprecedented success in preclinical study",
         "link": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
         "pubDate": "2026-07-28T13:12",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: I put a $2.43 necklace on 3 outfits. VLMs priced it at $19 to $104",
-        "link": "https://github.com/BraveAnn011/ai-halo-valuation-bias",
-        "pubDate": "2026-07-28T13:07",
         "feedId": "hn"
       },
       {
@@ -33,9 +45,9 @@
         "feedId": "hn"
       },
       {
-        "title": "AI revenues are growing fast, but not fast enough",
-        "link": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
-        "pubDate": "2026-07-28T12:19",
+        "title": "Show HN: Segue – Save context in one AI, load it in another by a short handle",
+        "link": "https://segue.ai/",
+        "pubDate": "2026-07-28T12:27",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://support.apple.com/en-us/128067",
         "pubDate": "2026-07-28T09:45",
         "feedId": "hn"
-      },
-      {
-        "title": "7.1 Earthquake in Japan",
-        "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-        "pubDate": "2026-07-28T07:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
-        "link": "https://arsastronomica.com/",
-        "pubDate": "2026-07-28T05:25",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,15 +104,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Blogging Can Just Be Stating The Obvious",
-        "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-        "pubDate": "2026-07-27T13:34",
+        "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk",
+        "link": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+        "pubDate": "2026-07-28T10:32",
         "feedId": "lobsters"
       },
       {
         "title": "Setup a Simple, Self-Hosted Web Server with OpenBSD",
         "link": "https://btxx.org/posts/self-hosted-openbsd/",
         "pubDate": "2026-07-27T22:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Blogging Can Just Be Stating The Obvious",
+        "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+        "pubDate": "2026-07-27T13:34",
         "feedId": "lobsters"
       },
       {
@@ -128,15 +134,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk",
-        "link": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-        "pubDate": "2026-07-28T10:32",
-        "feedId": "lobsters"
-      },
-      {
         "title": "One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way",
         "link": "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way",
         "pubDate": "2026-07-28T08:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Building (systems) software with Nix",
+        "link": "https://hondu.co/blog/building-systems-software",
+        "pubDate": "2026-07-28T13:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What even are microservices?",
+        "link": "https://var0.xyz/posts/what-even-are-microservices.html",
+        "pubDate": "2026-07-28T12:14",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times",
+        "link": "https://blog.tymscar.com/posts/opensourcedimmer/",
+        "pubDate": "2026-07-28T13:33",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Making KIO copy many files fast",
+        "link": "https://blogs.kde.org/2026/07/28/making-kio-copy-many-files-fast/",
+        "pubDate": "2026-07-28T10:11",
         "feedId": "lobsters"
       },
       {
@@ -162,36 +186,18 @@
         "link": "https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for",
         "pubDate": "2026-07-27T18:57",
         "feedId": "lobsters"
-      },
-      {
-        "title": "How is the Bun Rewrite in Rust Going?",
-        "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-        "pubDate": "2026-07-27T12:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What even are microservices?",
-        "link": "https://var0.xyz/posts/what-even-are-microservices.html",
-        "pubDate": "2026-07-28T12:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Making KIO copy many files fast",
-        "link": "https://blogs.kde.org/2026/07/28/making-kio-copy-many-files-fast/",
-        "pubDate": "2026-07-28T10:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times",
-        "link": "https://blog.tymscar.com/posts/opensourcedimmer/",
-        "pubDate": "2026-07-28T13:33",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "As US measles cases rise, biotech firms start developing new treatments",
+        "link": "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/",
+        "pubDate": "2026-07-28T13:32",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Microsoft unveils AI security tools it says outperform competing platforms",
         "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
@@ -275,18 +281,18 @@
         "link": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
         "pubDate": "2026-07-27T10:50",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
-        "link": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
-        "pubDate": "2026-07-26T19:48",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Speak or resign: Beshear ups demand for McConnell health status",
+        "link": "https://www.axios.com/2026/07/28/mcconnell-health-update-beshear-demand-letter",
+        "pubDate": "2026-07-28T13:42",
+        "feedId": "axios"
+      },
       {
         "title": "Six steps to socialism",
         "link": "https://www.axios.com/2026/07/28/trump-socialism-stages-of-political-surrender",
@@ -369,12 +375,6 @@
         "title": "What would a rate hike signal about the new Fed chief's MO?",
         "link": "https://www.axios.com/2026/07/27/warsh-fed-rate-hike-bernanke",
         "pubDate": "2026-07-27T15:58",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump to Axios: I'm ready for \"strong military action\" if  Iran talks fail",
-        "link": "https://www.axios.com/2026/07/27/trump-interview-iran-bombing-pause",
-        "pubDate": "2026-07-27T15:57",
         "feedId": "axios"
       }
     ]
