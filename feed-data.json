@@ -27,21 +27,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Neutrino-1 8B",
-        "link": "https://www.fermionresearch.com/models/neutrino-8b/",
-        "pubDate": "2026-07-28T04:49",
-        "feedId": "hn"
-      },
-      {
         "title": "PyTorch: A Reference Language",
         "link": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
         "pubDate": "2026-07-28T04:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "Using an open model feels surprisingly good",
-        "link": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
-        "pubDate": "2026-07-28T02:37",
         "feedId": "hn"
       },
       {
@@ -60,12 +48,6 @@
         "title": "Don't ask an LLM for a confidence score",
         "link": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
         "pubDate": "2026-07-28T00:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
-        "link": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
-        "pubDate": "2026-07-27T23:21",
         "feedId": "hn"
       },
       {
@@ -90,6 +72,24 @@
         "title": "Benchmarking Opus 5 on SlopCodeBench",
         "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
         "pubDate": "2026-07-27T22:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "A missing underscore sent innocent man to prison for 18 months",
+        "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+        "pubDate": "2026-07-27T22:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "Our position on open-weights models",
+        "link": "https://www.anthropic.com/news/position-open-weights-models",
+        "pubDate": "2026-07-27T22:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+        "link": "https://www.rise-reforming.com",
+        "pubDate": "2026-07-27T19:58",
         "feedId": "hn"
       }
     ]
@@ -128,9 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Productivity Mirage",
-        "link": "https://frantic.im/mirage",
-        "pubDate": "2026-07-27T10:54",
+        "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk",
+        "link": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+        "pubDate": "2026-07-28T10:32",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Paged Out - Issue #9",
-        "link": "https://pagedout.institute/webview.php?issue=9&page=1",
-        "pubDate": "2026-07-27T14:55",
+        "title": "The Productivity Mirage",
+        "link": "https://frantic.im/mirage",
+        "pubDate": "2026-07-27T10:54",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How is the Bun Rewrite in Rust Going?",
-        "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-        "pubDate": "2026-07-27T12:32",
+        "title": "Paged Out - Issue #9",
+        "link": "https://pagedout.institute/webview.php?issue=9&page=1",
+        "pubDate": "2026-07-27T14:55",
         "feedId": "lobsters"
       },
       {
@@ -164,21 +164,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk",
-        "link": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-        "pubDate": "2026-07-28T10:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Quick & Easy Parser Combinators",
-        "link": "https://www.cyan.sh/blog/posts/tutorial-quick-easy-parser-combinators.html",
-        "pubDate": "2026-07-27T16:35",
+        "title": "How is the Bun Rewrite in Rust Going?",
+        "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+        "pubDate": "2026-07-27T12:32",
         "feedId": "lobsters"
       },
       {
         "title": "Finding bugs in Raft implementations",
         "link": "https://antithesis.com/blog/2026/finding-bugs-in-raft-implementations/",
         "pubDate": "2026-07-27T16:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Quick & Easy Parser Combinators",
+        "link": "https://www.cyan.sh/blog/posts/tutorial-quick-easy-parser-combinators.html",
+        "pubDate": "2026-07-27T16:35",
         "feedId": "lobsters"
       },
       {
