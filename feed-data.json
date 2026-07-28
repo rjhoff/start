@@ -3,21 +3,27 @@
     "id": "hn",
     "items": [
       {
-        "title": "iPhone Upgrade Program",
-        "link": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
-        "pubDate": "2026-07-28T17:37",
+        "title": "Donate to GrapheneOS",
+        "link": "https://grapheneos.org/donate",
+        "pubDate": "2026-07-28T19:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Deflock Casa Grande",
+        "link": "https://deflockcg.com/",
+        "pubDate": "2026-07-28T18:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "MCP 2026-07-28 Specification: transport going stateless",
+        "link": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+        "pubDate": "2026-07-28T18:35",
         "feedId": "hn"
       },
       {
         "title": "Discovering Cryptographic Weaknesses with Claude",
         "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
         "pubDate": "2026-07-28T17:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "Scientific computing in the age of agentic AI",
-        "link": "https://openai.com/index/scientific-computing-agentic-ai/",
-        "pubDate": "2026-07-28T17:13",
         "feedId": "hn"
       },
       {
@@ -39,13 +45,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Xenharmlib (music theory library) adds support for Just Intonation",
-        "link": "https://xenharmlib.readthedocs.io/en/latest/whats_new_0_4_0.html",
-        "pubDate": "2026-07-28T16:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "You Could Have Come Up with Kimi Delta Attention",
+        "title": "A walk through of the DeltaNet family of linear attention variants",
         "link": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
         "pubDate": "2026-07-28T16:02",
         "feedId": "hn"
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Framework 13 Pro review: Much better battery, much worse price",
-        "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
-        "pubDate": "2026-07-28T03:15",
-        "feedId": "lobsters"
-      },
-      {
         "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times",
         "link": "https://blog.tymscar.com/posts/opensourcedimmer/",
         "pubDate": "2026-07-28T13:33",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Framework 13 Pro review: Much better battery, much worse price",
+        "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
+        "pubDate": "2026-07-28T03:15",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Aux Control — Let the whole room vote on the music",
-        "link": "https://auxcontrol.live",
-        "pubDate": "2026-07-28T12:57",
+        "title": "Design flaws in issetugid() (2017)",
+        "link": "https://gist.github.com/nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e",
+        "pubDate": "2026-07-28T13:25",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "\"It's a serious clusterf*ck\": Behind-the-scenes fury and panic roil key House primary",
+        "link": "https://www.axios.com/2026/07/28/michigan-primary-slotkin-lawrence-brink-maasdam",
+        "pubDate": "2026-07-28T19:16",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump, Netanyahu tout \"productive\" meeting after weeks of tensions",
+        "link": "https://www.axios.com/2026/07/28/trump-netanyahu-oval-office-iran-war",
+        "pubDate": "2026-07-28T18:58",
+        "feedId": "axios"
+      },
+      {
         "title": "Scoop: Nvidia's Jensen Huang meets Lutnick amid China scrutiny",
         "link": "https://www.axios.com/2026/07/28/nvidia-jensen-huang-lutnick-meeting-china-ai",
         "pubDate": "2026-07-28T16:42",
@@ -363,18 +375,6 @@
         "title": "Thune's shield against Trump",
         "link": "https://www.axios.com/2026/07/27/donald-trump-john-thune-senate-republicans-save-act",
         "pubDate": "2026-07-27T23:42",
-        "feedId": "axios"
-      },
-      {
-        "title": "Anthropic CEO Dario Amodei says he does not support open-weight AI ban",
-        "link": "https://www.axios.com/2026/07/27/anthropic-open-weight-ban-china-dario-amodei",
-        "pubDate": "2026-07-27T22:44",
-        "feedId": "axios"
-      },
-      {
-        "title": "These 5 AI risks have the highest potential for catastrophe",
-        "link": "https://www.axios.com/2026/07/27/mit-study-ai-risks-urgent-weapons-cyber-attacks",
-        "pubDate": "2026-07-27T21:06",
         "feedId": "axios"
       }
     ]
