@@ -3,6 +3,60 @@
     "id": "hn",
     "items": [
       {
+        "title": "You Could Have Come Up with Kimi Delta Attention",
+        "link": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+        "pubDate": "2026-07-28T16:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "How Do I Profile eBPF Code?",
+        "link": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
+        "pubDate": "2026-07-28T15:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: XY – Fast, composable, GPU-accelerated charts, written in Rust",
+        "link": "https://github.com/reflex-dev/xy",
+        "pubDate": "2026-07-28T15:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+        "link": "https://www.slow-journalism.com/",
+        "pubDate": "2026-07-28T15:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "Kimi K3 Architecture Overview and Notes",
+        "link": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+        "pubDate": "2026-07-28T15:48",
+        "feedId": "hn"
+      },
+      {
+        "title": "Zig's Incremental Compilation Internals",
+        "link": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+        "pubDate": "2026-07-28T15:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "So, you want to make a game engine (2023)",
+        "link": "https://lisyarus.github.io/blog/posts/so-you-want-to-make-a-game-engine.html#part-3",
+        "pubDate": "2026-07-28T15:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Flashpaper – Self-destructing secret sharing with no database",
+        "link": "https://flashpaper.app/",
+        "pubDate": "2026-07-28T15:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "Setup Script Should Support Git Worktrees",
+        "link": "https://piechowski.io/post/setup-script-git-worktrees/",
+        "pubDate": "2026-07-28T15:32",
+        "feedId": "hn"
+      },
+      {
         "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
         "link": "https://arxiv.org/abs/1202.4212",
         "pubDate": "2026-07-28T15:20",
@@ -15,15 +69,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Europe's Ultra-Rich Could Fund a Substantial Part of the EU's Budget",
-        "link": "https://www.socialeurope.eu/europes-ultra-rich-could-fund-a-substantial-part-of-the-eus-budget",
-        "pubDate": "2026-07-28T14:31",
+        "title": "Italy Blocks Reproductive Health Websites Women on Web and Women Help Women",
+        "link": "https://ooni.org/post/2026-italy-blocks-wow-and-whw",
+        "pubDate": "2026-07-28T14:05",
         "feedId": "hn"
       },
       {
-        "title": "Ask HN: Crooked Timber showed showed me a virus captcha, What now?",
-        "link": "https://news.ycombinator.com/item?id=49084404",
-        "pubDate": "2026-07-28T14:25",
+        "title": "Show HN: Base-GPUI: A GPUI port of Base UI headless components",
+        "link": "https://github.com/LukeTandjung/base-gpui",
+        "pubDate": "2026-07-28T13:38",
         "feedId": "hn"
       },
       {
@@ -37,60 +91,6 @@
         "link": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
         "pubDate": "2026-07-28T13:16",
         "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
-        "link": "https://github.com/ctrlb-hq/ctrlb-decompose",
-        "pubDate": "2026-07-28T13:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "New HIV vaccine shows unprecedented success in preclinical study",
-        "link": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-        "pubDate": "2026-07-28T13:12",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-        "link": "https://github.com/schildep/verified-3d-mesh-intersection",
-        "pubDate": "2026-07-28T13:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "What AI developers could learn from Charles Bukowski?",
-        "link": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
-        "pubDate": "2026-07-28T13:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Segue – Save context in one AI, load it in another by a short handle",
-        "link": "https://segue.ai/",
-        "pubDate": "2026-07-28T12:27",
-        "feedId": "hn"
-      },
-      {
-        "title": "Mondragon Corporation – a federation of co-operatives",
-        "link": "https://en.wikipedia.org/wiki/Mondragon_Corporation",
-        "pubDate": "2026-07-28T12:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
-        "link": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
-        "pubDate": "2026-07-28T12:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
-        "link": "https://arxiv.org/abs/2510.26692",
-        "pubDate": "2026-07-28T10:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "Usenet Archive Toolkit – process Usenet messages into a searchable archive",
-        "link": "https://github.com/wolfpld/usenetarchive",
-        "pubDate": "2026-07-28T10:30",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Framework 13 Pro review: Much better battery, much worse price",
-        "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
-        "pubDate": "2026-07-28T03:15",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Inside Zig's Incremental Compilation",
         "link": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
         "pubDate": "2026-07-28T14:14",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Framework 13 Pro review: Much better battery, much worse price",
+        "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
+        "pubDate": "2026-07-28T03:15",
         "feedId": "lobsters"
       },
       {
@@ -122,21 +122,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Parallel JSON parsing on the GPU with compute shaders",
+        "link": "https://github.com/friendlymatthew/slurpjson#slurpjson",
+        "pubDate": "2026-07-28T14:39",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Setup a Simple, Self-Hosted Web Server with OpenBSD",
         "link": "https://btxx.org/posts/self-hosted-openbsd/",
         "pubDate": "2026-07-27T22:27",
         "feedId": "lobsters"
       },
       {
-        "title": "Blogging Can Just Be Stating The Obvious",
-        "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-        "pubDate": "2026-07-27T13:34",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Try the New Firefox Design in Nightly",
         "link": "https://blog.nightly.mozilla.org/2026/07/27/new-firefox-design/",
         "pubDate": "2026-07-28T00:43",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Building (systems) software with Nix",
+        "link": "https://hondu.co/blog/building-systems-software",
+        "pubDate": "2026-07-28T13:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Blogging Can Just Be Stating The Obvious",
+        "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+        "pubDate": "2026-07-27T13:34",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Building (systems) software with Nix",
-        "link": "https://hondu.co/blog/building-systems-software",
-        "pubDate": "2026-07-28T13:10",
+        "title": "Aux Control — Let the whole room vote on the music",
+        "link": "https://auxcontrol.live",
+        "pubDate": "2026-07-28T12:57",
         "feedId": "lobsters"
       },
       {
@@ -167,18 +179,6 @@
         "title": "One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way",
         "link": "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way",
         "pubDate": "2026-07-28T08:57",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Parallel JSON parsing on the GPU with compute shaders",
-        "link": "https://github.com/friendlymatthew/slurpjson#slurpjson",
-        "pubDate": "2026-07-28T14:39",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Productivity Mirage",
-        "link": "https://frantic.im/mirage",
-        "pubDate": "2026-07-27T10:54",
         "feedId": "lobsters"
       },
       {
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "AI is only \"part\" of high U.S. productivity growth, says Stripe economist",
+        "link": "https://www.axios.com/2026/07/28/ai-labor-productivity-stripe",
+        "pubDate": "2026-07-28T16:03",
+        "feedId": "axios"
+      },
+      {
+        "title": "The U.S. is running low on blood. Here's why that's dangerous",
+        "link": "https://www.axios.com/2026/07/28/us-blood-supply-health-red-cross-donate",
+        "pubDate": "2026-07-28T16:02",
+        "feedId": "axios"
+      },
+      {
         "title": "Speak or resign: Beshear ups demand for McConnell health status",
         "link": "https://www.axios.com/2026/07/28/mcconnell-health-update-beshear-demand-letter",
         "pubDate": "2026-07-28T13:42",
@@ -363,18 +375,6 @@
         "title": "Trump tries to sell an economy voters aren't buying",
         "link": "https://www.axios.com/2026/07/27/trump-economy-polling-democrats-midterms",
         "pubDate": "2026-07-27T19:36",
-        "feedId": "axios"
-      },
-      {
-        "title": "2028 Democratic power rankings, right now",
-        "link": "https://www.axios.com/2026/07/27/2028-democratic-presidential-power-rankings",
-        "pubDate": "2026-07-27T17:16",
-        "feedId": "axios"
-      },
-      {
-        "title": "What would a rate hike signal about the new Fed chief's MO?",
-        "link": "https://www.axios.com/2026/07/27/warsh-fed-rate-hike-bernanke",
-        "pubDate": "2026-07-27T15:58",
         "feedId": "axios"
       }
     ]
