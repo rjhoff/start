@@ -9,12 +9,6 @@
         "feedId": "hn"
       },
       {
-        "title": "What Even Are Microservices?",
-        "link": "https://var0.xyz/posts/what-even-are-microservices.html",
-        "pubDate": "2026-07-28T09:52",
-        "feedId": "hn"
-      },
-      {
         "title": "About the security content of macOS Tahoe 26.6",
         "link": "https://support.apple.com/en-us/128067",
         "pubDate": "2026-07-28T09:45",
@@ -51,12 +45,6 @@
         "feedId": "hn"
       },
       {
-        "title": "EYG: A Programming Language for Humans",
-        "link": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
-        "pubDate": "2026-07-28T02:21",
-        "feedId": "hn"
-      },
-      {
         "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
         "link": "https://fermisense.com/when-machines-take-the-wheel/",
         "pubDate": "2026-07-28T02:18",
@@ -66,6 +54,18 @@
         "title": "Vehicle Motion Cues",
         "link": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
         "pubDate": "2026-07-28T01:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "Don't ask an LLM for a confidence score",
+        "link": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
+        "pubDate": "2026-07-28T00:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
+        "link": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
+        "pubDate": "2026-07-27T23:21",
         "feedId": "hn"
       },
       {
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "On AI",
-        "link": "https://jcs.org/2026/07/23/ai",
-        "pubDate": "2026-07-27T08:52",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Blogging Can Just Be Stating The Obvious",
         "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
         "pubDate": "2026-07-27T13:34",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "On AI",
+        "link": "https://jcs.org/2026/07/23/ai",
+        "pubDate": "2026-07-27T08:52",
         "feedId": "lobsters"
       },
       {
@@ -164,6 +164,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk",
+        "link": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+        "pubDate": "2026-07-28T10:32",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Quick & Easy Parser Combinators",
         "link": "https://www.cyan.sh/blog/posts/tutorial-quick-easy-parser-combinators.html",
         "pubDate": "2026-07-27T16:35",
@@ -179,12 +185,6 @@
         "title": "Advantages and disadvantages of Windows NT 3.1",
         "link": "https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/",
         "pubDate": "2026-07-27T17:40",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Open Source Must Be Fun (Or It Will Die)",
-        "link": "https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/",
-        "pubDate": "2026-07-27T15:33",
         "feedId": "lobsters"
       }
     ]
