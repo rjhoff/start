@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "Hulios: An eBPF-powered, transparent Tor gateway for Linux",
+        "link": "https://github.com/ghaziwali/Hulios",
+        "pubDate": "2026-07-28T19:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "Uv 0.12.0",
+        "link": "https://github.com/astral-sh/uv/releases/tag/0.12.0",
+        "pubDate": "2026-07-28T19:41",
+        "feedId": "hn"
+      },
+      {
         "title": "Donate to GrapheneOS",
         "link": "https://grapheneos.org/donate",
         "pubDate": "2026-07-28T19:06",
@@ -18,6 +30,12 @@
         "title": "MCP 2026-07-28 Specification: transport going stateless",
         "link": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
         "pubDate": "2026-07-28T18:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
+        "link": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
+        "pubDate": "2026-07-28T17:37",
         "feedId": "hn"
       },
       {
@@ -73,24 +91,6 @@
         "link": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
         "pubDate": "2026-07-28T15:48",
         "feedId": "hn"
-      },
-      {
-        "title": "Zig's Incremental Compilation Internals",
-        "link": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-        "pubDate": "2026-07-28T15:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "So, you want to make a game engine (2023)",
-        "link": "https://lisyarus.github.io/blog/posts/so-you-want-to-make-a-game-engine.html#part-3",
-        "pubDate": "2026-07-28T15:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Flashpaper – Self-destructing secret sharing with no database",
-        "link": "https://flashpaper.app/",
-        "pubDate": "2026-07-28T15:36",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk",
-        "link": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-        "pubDate": "2026-07-28T10:32",
-        "feedId": "lobsters"
-      },
-      {
         "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times",
         "link": "https://blog.tymscar.com/posts/opensourcedimmer/",
         "pubDate": "2026-07-28T13:33",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk",
+        "link": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+        "pubDate": "2026-07-28T10:32",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Parallel JSON parsing on the GPU with compute shaders",
-        "link": "https://github.com/friendlymatthew/slurpjson#slurpjson",
-        "pubDate": "2026-07-28T14:39",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Setup a Simple, Self-Hosted Web Server with OpenBSD",
         "link": "https://btxx.org/posts/self-hosted-openbsd/",
         "pubDate": "2026-07-27T22:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Parallel JSON parsing on the GPU with compute shaders",
+        "link": "https://github.com/friendlymatthew/slurpjson#slurpjson",
+        "pubDate": "2026-07-28T14:39",
         "feedId": "lobsters"
       },
       {
@@ -164,9 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way",
-        "link": "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way",
-        "pubDate": "2026-07-28T08:57",
+        "title": "Dependency Cultures - Richard Feldman (Software Should Work Conf 2026)",
+        "link": "https://www.youtube.com/watch?v=E82ly38YEEQ",
+        "pubDate": "2026-07-28T15:18",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Improving Heuristics (2015)",
-        "link": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
-        "pubDate": "2026-07-28T11:51",
+        "title": "One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way",
+        "link": "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way",
+        "pubDate": "2026-07-28T08:57",
         "feedId": "lobsters"
       },
       {
-        "title": "Design flaws in issetugid() (2017)",
-        "link": "https://gist.github.com/nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e",
-        "pubDate": "2026-07-28T13:25",
+        "title": "Improving Heuristics (2015)",
+        "link": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+        "pubDate": "2026-07-28T11:51",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "New airliner sets record flying 24 hrs nonstop from Australia to France",
+        "link": "https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/",
+        "pubDate": "2026-07-28T18:43",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Judge blocks first state law that would have banned prediction markets",
+        "link": "https://arstechnica.com/tech-policy/2026/07/judge-blocks-first-state-law-that-would-have-banned-prediction-markets/",
+        "pubDate": "2026-07-28T18:31",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link",
         "link": "https://arstechnica.com/health/2026/07/report-trump-mad-rfk-jr-hasnt-cut-more-vaccines-or-proven-autism-link/",
@@ -268,18 +280,6 @@
         "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
         "link": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
         "pubDate": "2026-07-27T15:58",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Framework Laptop 13 Pro review: Much better battery, much worse price",
-        "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
-        "pubDate": "2026-07-27T15:02",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "What public health professionals can learn from anti-vaccine storytelling",
-        "link": "https://arstechnica.com/health/2026/07/how-emotionally-powerful-stories-fuel-vaccine-skepticism/",
-        "pubDate": "2026-07-27T14:01",
         "feedId": "arstechnica"
       }
     ]
