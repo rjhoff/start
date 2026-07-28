@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "iPhone Upgrade Program",
+        "link": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
+        "pubDate": "2026-07-28T17:37",
+        "feedId": "hn"
+      },
+      {
         "title": "Discovering Cryptographic Weaknesses with Claude",
         "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
         "pubDate": "2026-07-28T17:22",
@@ -18,6 +24,12 @@
         "title": "Steel Bank Common Lisp version 2.6.7",
         "link": "https://sbcl.org/all-news.html?2.6.7",
         "pubDate": "2026-07-28T17:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "WOFF 1.0: a milestone on W3C's journey of fonts on the web",
+        "link": "https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/",
+        "pubDate": "2026-07-28T17:05",
         "feedId": "hn"
       },
       {
@@ -45,7 +57,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: XY – Fast, composable, GPU-accelerated Python charting library",
+        "title": "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",
         "link": "https://github.com/reflex-dev/xy",
         "pubDate": "2026-07-28T15:54",
         "feedId": "hn"
@@ -78,18 +90,6 @@
         "title": "Show HN: Flashpaper – Self-destructing secret sharing with no database",
         "link": "https://flashpaper.app/",
         "pubDate": "2026-07-28T15:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "Setup Script Should Support Git Worktrees",
-        "link": "https://piechowski.io/post/setup-script-git-worktrees/",
-        "pubDate": "2026-07-28T15:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
-        "link": "https://arxiv.org/abs/1202.4212",
-        "pubDate": "2026-07-28T15:20",
         "feedId": "hn"
       }
     ]
@@ -128,6 +128,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Building (systems) software with Nix",
+        "link": "https://hondu.co/blog/building-systems-software",
+        "pubDate": "2026-07-28T13:10",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Parallel JSON parsing on the GPU with compute shaders",
         "link": "https://github.com/friendlymatthew/slurpjson#slurpjson",
         "pubDate": "2026-07-28T14:39",
@@ -152,12 +158,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Building (systems) software with Nix",
-        "link": "https://hondu.co/blog/building-systems-software",
-        "pubDate": "2026-07-28T13:10",
-        "feedId": "lobsters"
-      },
-      {
         "title": "On AI",
         "link": "https://jcs.org/2026/07/23/ai",
         "pubDate": "2026-07-27T08:52",
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Aux Control — Let the whole room vote on the music",
-        "link": "https://auxcontrol.live",
-        "pubDate": "2026-07-28T12:57",
+        "title": "Improving Heuristics (2015)",
+        "link": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+        "pubDate": "2026-07-28T11:51",
         "feedId": "lobsters"
       },
       {
-        "title": "Design flaws in issetugid() (2017)",
-        "link": "https://gist.github.com/nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e",
-        "pubDate": "2026-07-28T13:25",
+        "title": "Aux Control — Let the whole room vote on the music",
+        "link": "https://auxcontrol.live",
+        "pubDate": "2026-07-28T12:57",
         "feedId": "lobsters"
       }
     ]
