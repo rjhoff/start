@@ -3,9 +3,21 @@
     "id": "hn",
     "items": [
       {
+        "title": "GitHub is the wrong shape for this new world",
+        "link": "https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world",
+        "pubDate": "2026-07-29T22:27",
+        "feedId": "hn"
+      },
+      {
         "title": "AI's top startups are barely publishing their research",
         "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
         "pubDate": "2026-07-29T21:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Cold Email",
+        "link": "https://zachholman.com/posts/cold-email",
+        "pubDate": "2026-07-29T21:06",
         "feedId": "hn"
       },
       {
@@ -18,12 +30,6 @@
         "title": "The coolest use for the Vision Pro",
         "link": "https://christianselig.com/2026/07/vision-pro-house/",
         "pubDate": "2026-07-29T20:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted",
-        "link": "https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture",
-        "pubDate": "2026-07-29T20:21",
         "feedId": "hn"
       },
       {
@@ -85,12 +91,6 @@
         "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
         "pubDate": "2026-07-29T16:42",
         "feedId": "hn"
-      },
-      {
-        "title": "Keychron announces first open-source firmware for gaming mice",
-        "link": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-        "pubDate": "2026-07-29T16:36",
-        "feedId": "hn"
       }
     ]
   },
@@ -116,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Some notes about Anthropic’s new results",
-        "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-        "pubDate": "2026-07-29T14:28",
-        "feedId": "lobsters"
-      },
-      {
         "title": "First CHERIoT Silicon",
         "link": "https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html",
         "pubDate": "2026-07-29T18:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Some notes about Anthropic’s new results",
+        "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+        "pubDate": "2026-07-29T14:28",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +158,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Writing Toy Software Is A Joy (2025)",
-        "link": "https://blog.jsbarretto.com/post/software-is-joy",
-        "pubDate": "2026-07-29T05:14",
+        "title": "A field day for Gleam’s language server | Gleam v.1.18.0 release",
+        "link": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
+        "pubDate": "2026-07-29T13:42",
         "feedId": "lobsters"
       },
       {
         "title": "The strain in your brain",
         "link": "https://anirudh.fi/strain",
         "pubDate": "2026-07-29T20:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Writing Toy Software Is A Joy (2025)",
+        "link": "https://blog.jsbarretto.com/post/software-is-joy",
+        "pubDate": "2026-07-29T05:14",
         "feedId": "lobsters"
       },
       {
@@ -180,18 +186,24 @@
         "link": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
         "pubDate": "2026-07-29T12:35",
         "feedId": "lobsters"
-      },
-      {
-        "title": "A field day for Gleam’s language server | Gleam v.1.18.0 release",
-        "link": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
-        "pubDate": "2026-07-29T13:42",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+        "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+        "pubDate": "2026-07-29T22:07",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
+        "link": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
+        "pubDate": "2026-07-29T20:57",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Who wins and who loses after US bans foreign robots?",
         "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
@@ -269,24 +281,18 @@
         "link": "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/",
         "pubDate": "2026-07-29T10:00",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
-        "link": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
-        "pubDate": "2026-07-29T01:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
-        "link": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
-        "pubDate": "2026-07-28T22:09",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Exclusive: Musk plans massive push for GOP in midterms",
+        "link": "https://www.axios.com/2026/07/29/musk-pac-midterm-election",
+        "pubDate": "2026-07-29T23:00",
+        "feedId": "axios"
+      },
       {
         "title": "Why profanity is having a f*cking moment",
         "link": "https://www.axios.com/2026/07/29/trump-political-swearing-voter-perceptions",
@@ -369,12 +375,6 @@
         "title": "Anthropic's lonely island",
         "link": "https://www.axios.com/2026/07/29/anthropic-claude-open-models-ban-china",
         "pubDate": "2026-07-29T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Second account accessed by OpenAI's agent tied to cyber safety testing",
-        "link": "https://www.axios.com/2026/07/29/openai-hugging-face-modal-cyber-benchmark",
-        "pubDate": "2026-07-29T00:59",
         "feedId": "axios"
       }
     ]
