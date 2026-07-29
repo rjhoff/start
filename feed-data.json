@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "AI's top startups are barely publishing their research",
+        "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+        "pubDate": "2026-07-29T21:25",
+        "feedId": "hn"
+      },
+      {
         "title": "SalesPatriot (YC W25) Is Hiring FDEs",
         "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
         "pubDate": "2026-07-29T21:01",
@@ -27,7 +33,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Claude Is Down",
+        "title": "Claude: Elevated errors across all models",
         "link": "https://status.claude.com/incidents/q2kg8n613kr3",
         "pubDate": "2026-07-29T19:50",
         "feedId": "hn"
@@ -51,19 +57,13 @@
         "feedId": "hn"
       },
       {
-        "title": "How to Not Die by a Thousand Cuts. Or, How to Think About Software Quality",
+        "title": "How to not die by a thousand cuts or how to think about software quality (2023)",
         "link": "https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html",
         "pubDate": "2026-07-29T18:42",
         "feedId": "hn"
       },
       {
-        "title": "A field day for Gleam's language server – Gleam v1.18.0 release",
-        "link": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
-        "pubDate": "2026-07-29T18:40",
-        "feedId": "hn"
-      },
-      {
-        "title": "Turning a Dumb AC Unit Smart (Without Losing My Security Deposit)",
+        "title": "Turning a dumb AC unit smart (without losing my security deposit)",
         "link": "https://prilik.com/blog/post/automating-ac-nyc/",
         "pubDate": "2026-07-29T18:28",
         "feedId": "hn"
@@ -122,27 +122,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "PostgreSQL MVCC: tradeoffs compared to other engines",
-        "link": "https://boringsql.com/posts/mvcc-bad-bad/",
-        "pubDate": "2026-07-29T13:25",
-        "feedId": "lobsters"
-      },
-      {
         "title": "First CHERIoT Silicon",
         "link": "https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html",
         "pubDate": "2026-07-29T18:11",
         "feedId": "lobsters"
       },
       {
-        "title": "Inside Zig's Incremental Compilation",
-        "link": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-        "pubDate": "2026-07-28T14:14",
+        "title": "PostgreSQL MVCC: tradeoffs compared to other engines",
+        "link": "https://boringsql.com/posts/mvcc-bad-bad/",
+        "pubDate": "2026-07-29T13:25",
         "feedId": "lobsters"
       },
       {
         "title": "Why Rocq is better than Lean for program verification",
         "link": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
         "pubDate": "2026-07-28T21:16",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Inside Zig's Incremental Compilation",
+        "link": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+        "pubDate": "2026-07-28T14:14",
         "feedId": "lobsters"
       },
       {
@@ -164,6 +164,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "The strain in your brain",
+        "link": "https://anirudh.fi/strain",
+        "pubDate": "2026-07-29T20:22",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Manganin: tools matter",
         "link": "https://blog.manganin.dev/blog/tools-matter/",
         "pubDate": "2026-07-29T04:44",
@@ -179,12 +185,6 @@
         "title": "A field day for Gleam’s language server | Gleam v.1.18.0 release",
         "link": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
         "pubDate": "2026-07-29T13:42",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "basebrowserproject",
-        "link": "https://mastodon.social/@sarahjamielewis/116965925134524215",
-        "pubDate": "2026-07-29T14:54",
         "feedId": "lobsters"
       }
     ]
