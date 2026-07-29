@@ -3,9 +3,57 @@
     "id": "hn",
     "items": [
       {
+        "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+        "link": "https://usetokenless.com/",
+        "pubDate": "2026-07-29T15:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ask HN: My domain registrar (Hover) rug-pulled me for $3000",
+        "link": "https://news.ycombinator.com/item?id=49099021",
+        "pubDate": "2026-07-29T15:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "Superlogical – Mitchell Hashimoto",
+        "link": "https://mitchellh.com/writing/superlogical",
+        "pubDate": "2026-07-29T15:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "Cesium DevCon 2026 talks are up, including a keynote from SQLite's creator",
+        "link": "https://cesium.com/events/cesium-developer-conference/2026/",
+        "pubDate": "2026-07-29T15:13",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
         "link": "https://github.com/drumih/turbo-fieldfare",
         "pubDate": "2026-07-29T15:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "Hugging Face: Anatomy of a frontier-lab agent intrusion",
+        "link": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html",
+        "pubDate": "2026-07-29T15:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
+        "link": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
+        "pubDate": "2026-07-29T14:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "Google shuts down Nobel Prize winning AlphaFold",
+        "link": "https://www.engadget.com/2225849/google-shuts-down-alphafold/",
+        "pubDate": "2026-07-29T14:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon",
+        "link": "https://github.com/VladUZH/qwen-scribe",
+        "pubDate": "2026-07-29T14:47",
         "feedId": "hn"
       },
       {
@@ -15,33 +63,21 @@
         "feedId": "hn"
       },
       {
-        "title": "Choose DuckDB rather than SQLite",
-        "link": "https://tracewayapp.com/blog/sqlite-vs-duckdb",
-        "pubDate": "2026-07-29T14:05",
+        "title": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
+        "link": "https://aistack.imec-int.com/blog/gpu-self-hosting",
+        "pubDate": "2026-07-29T14:38",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: A verification browser for AI agents – 13ms windows, one-call checks",
-        "link": "https://github.com/hongnoul/hwatu",
-        "pubDate": "2026-07-29T14:05",
+        "title": "Graph Engineering Needs a Compiler",
+        "link": "https://fluxtion-playground.dev/blog/2026-07-29-graph-engineering-needs-a-compiler",
+        "pubDate": "2026-07-29T14:32",
         "feedId": "hn"
       },
       {
-        "title": "Valve Sponsors Work Bringing Open-Source RADV Driver to Windows",
-        "link": "https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows",
-        "pubDate": "2026-07-29T13:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kalshi attacks a Wisconsin law banning election bets as 'voter suppression'",
-        "link": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets",
-        "pubDate": "2026-07-29T13:24",
-        "feedId": "hn"
-      },
-      {
-        "title": "TokenTown: A visual way to understand how LLMs work",
-        "link": "https://laurentiugabriel.github.io/token-town/",
-        "pubDate": "2026-07-29T13:05",
+        "title": "AI in Linux",
+        "link": "https://drewdevault.com/blog/AI-in-Linux/",
+        "pubDate": "2026-07-29T14:00",
         "feedId": "hn"
       },
       {
@@ -54,42 +90,6 @@
         "title": "San Francisco: Don't Fall for Industry Defense of Surveillance Pricing",
         "link": "https://www.eff.org/deeplinks/2026/07/san-francisco-dont-fall-industry-defense-surveillance-pricing",
         "pubDate": "2026-07-29T12:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
-        "link": "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/",
-        "pubDate": "2026-07-29T12:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Echologue – the private AI voice journal I built for myself",
-        "link": "https://echologue.com/",
-        "pubDate": "2026-07-29T12:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)",
-        "link": "https://jcgt.org/published/0015/02/01/",
-        "pubDate": "2026-07-29T12:40",
-        "feedId": "hn"
-      },
-      {
-        "title": "Darktable",
-        "link": "https://www.darktable.org/",
-        "pubDate": "2026-07-29T12:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
-        "link": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
-        "pubDate": "2026-07-29T12:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "French musician Kavinsky found dead",
-        "link": "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home",
-        "pubDate": "2026-07-29T11:54",
         "feedId": "hn"
       }
     ]
@@ -116,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why Rocq is better than Lean for program verification",
-        "link": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
-        "pubDate": "2026-07-28T21:16",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Overengineered calculator: Zig + QBE",
         "link": "https://tomekw.com/overengineered-calculator-zig-qbe/",
         "pubDate": "2026-07-29T13:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why Rocq is better than Lean for program verification",
+        "link": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
+        "pubDate": "2026-07-28T21:16",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Manganin: tools matter",
-        "link": "https://blog.manganin.dev/blog/tools-matter/",
-        "pubDate": "2026-07-29T04:44",
+        "title": "Some notes about Anthropic’s new results",
+        "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+        "pubDate": "2026-07-29T14:28",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +158,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Manganin: tools matter",
+        "link": "https://blog.manganin.dev/blog/tools-matter/",
+        "pubDate": "2026-07-29T04:44",
+        "feedId": "lobsters"
+      },
+      {
         "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times",
         "link": "https://blog.tymscar.com/posts/opensourcedimmer/",
         "pubDate": "2026-07-28T13:33",
         "feedId": "lobsters"
       },
       {
-        "title": "Some notes about Anthropic’s new results",
-        "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-        "pubDate": "2026-07-29T14:28",
+        "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse",
+        "link": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
+        "pubDate": "2026-07-29T13:00",
         "feedId": "lobsters"
       },
       {
@@ -179,12 +185,6 @@
         "title": "The mean means nothing",
         "link": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
         "pubDate": "2026-07-28T18:53",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse",
-        "link": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
-        "pubDate": "2026-07-29T13:00",
         "feedId": "lobsters"
       }
     ]
@@ -288,15 +288,27 @@
     "id": "axios",
     "items": [
       {
-        "title": "Supreme Court joins Trump, Congress in job approval slump",
-        "link": "https://www.axios.com/2026/07/29/supreme-court-congress-trump-approval-ratings",
-        "pubDate": "2026-07-29T14:21",
+        "title": "Inside Bibi's pivotal White House meeting with Trump",
+        "link": "https://www.axios.com/2026/07/29/inside-trump-netanyahu-meeting-iran",
+        "pubDate": "2026-07-29T16:27",
         "feedId": "axios"
       },
       {
-        "title": "Fauci takes Fifth Amendment, refuses to answer Senate panel questions",
+        "title": "Why AI makes central banking tougher",
+        "link": "https://www.axios.com/2026/07/29/ai-central-banking-bis",
+        "pubDate": "2026-07-29T16:10",
+        "feedId": "axios"
+      },
+      {
+        "title": "Fauci faces contempt vote after invoking Fifth Amendment in Senate hearing",
         "link": "https://www.axios.com/2026/07/29/anthony-fauci-fifth-amendment-covid-hearing-paul",
-        "pubDate": "2026-07-29T14:00",
+        "pubDate": "2026-07-29T15:37",
+        "feedId": "axios"
+      },
+      {
+        "title": "Supreme Court joins Trump, Congress in job approval slump",
+        "link": "https://www.axios.com/2026/07/29/supreme-court-congress-trump-approval-ratings",
+        "pubDate": "2026-07-29T14:21",
         "feedId": "axios"
       },
       {
@@ -363,18 +375,6 @@
         "title": "How the Supreme Court deepened uncertainty over Temporary Protected Status",
         "link": "https://www.axios.com/2026/07/28/trump-supreme-court-temporary-protected-status",
         "pubDate": "2026-07-28T21:33",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"It's a serious clusterf*ck\": Behind-the-scenes fury and panic roil key House primary",
-        "link": "https://www.axios.com/2026/07/28/michigan-primary-slotkin-lawrence-brink-maasdam",
-        "pubDate": "2026-07-28T19:16",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump, Netanyahu tout \"productive\" meeting after weeks of tensions",
-        "link": "https://www.axios.com/2026/07/28/trump-netanyahu-oval-office-iran-war",
-        "pubDate": "2026-07-28T18:58",
         "feedId": "axios"
       }
     ]
