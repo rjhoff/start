@@ -3,8 +3,26 @@
     "id": "hn",
     "items": [
       {
+        "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+        "link": "https://github.com/drumih/turbo-fieldfare",
+        "pubDate": "2026-07-29T15:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
+        "link": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+        "pubDate": "2026-07-29T14:43",
+        "feedId": "hn"
+      },
+      {
         "title": "Choose DuckDB rather than SQLite",
         "link": "https://tracewayapp.com/blog/sqlite-vs-duckdb",
+        "pubDate": "2026-07-29T14:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: A verification browser for AI agents – 13ms windows, one-call checks",
+        "link": "https://github.com/hongnoul/hwatu",
         "pubDate": "2026-07-29T14:05",
         "feedId": "hn"
       },
@@ -12,6 +30,12 @@
         "title": "Valve Sponsors Work Bringing Open-Source RADV Driver to Windows",
         "link": "https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows",
         "pubDate": "2026-07-29T13:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Kalshi attacks a Wisconsin law banning election bets as 'voter suppression'",
+        "link": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets",
+        "pubDate": "2026-07-29T13:24",
         "feedId": "hn"
       },
       {
@@ -27,9 +51,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
-        "link": "https://github.com/SerhiiKorniienko/bullshit-detector",
-        "pubDate": "2026-07-29T12:58",
+        "title": "San Francisco: Don't Fall for Industry Defense of Surveillance Pricing",
+        "link": "https://www.eff.org/deeplinks/2026/07/san-francisco-dont-fall-industry-defense-surveillance-pricing",
+        "pubDate": "2026-07-29T12:55",
         "feedId": "hn"
       },
       {
@@ -67,36 +91,24 @@
         "link": "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home",
         "pubDate": "2026-07-29T11:54",
         "feedId": "hn"
-      },
-      {
-        "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-        "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-        "pubDate": "2026-07-29T11:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "KOReader",
-        "link": "https://koreader.rocks/",
-        "pubDate": "2026-07-29T11:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "SpecForge – A Platform for Authoring Formal Specifications",
-        "link": "https://docs.imiron.io/v/0.5.10/en/tour.html",
-        "pubDate": "2026-07-29T10:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "Amiga Graphics Archive",
-        "link": "https://amiga.lychesis.net/index.html",
-        "pubDate": "2026-07-29T10:19",
-        "feedId": "hn"
       }
     ]
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "AI Mania Is Eviscerating Global Decision-Making",
+        "link": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+        "pubDate": "2026-07-29T10:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "It doesn’t matter whether “Matz is nice”",
+        "link": "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice",
+        "pubDate": "2026-07-29T13:12",
+        "feedId": "lobsters"
+      },
       {
         "title": "Inside Zig's Incremental Compilation",
         "link": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
@@ -110,9 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "AI Mania Is Eviscerating Global Decision-Making",
-        "link": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
-        "pubDate": "2026-07-29T10:42",
+        "title": "Overengineered calculator: Zig + QBE",
+        "link": "https://tomekw.com/overengineered-calculator-zig-qbe/",
+        "pubDate": "2026-07-29T13:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "PostgreSQL MVCC: tradeoffs compared to other engines",
+        "link": "https://boringsql.com/posts/mvcc-bad-bad/",
+        "pubDate": "2026-07-29T13:25",
         "feedId": "lobsters"
       },
       {
@@ -125,12 +143,6 @@
         "title": "Writing Toy Software Is A Joy (2025)",
         "link": "https://blog.jsbarretto.com/post/software-is-joy",
         "pubDate": "2026-07-29T05:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "It doesn’t matter whether “Matz is nice”",
-        "link": "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice",
-        "pubDate": "2026-07-29T13:12",
         "feedId": "lobsters"
       },
       {
@@ -152,21 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Overengineered calculator: Zig + QBE",
-        "link": "https://tomekw.com/overengineered-calculator-zig-qbe/",
-        "pubDate": "2026-07-29T13:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The mean means nothing",
-        "link": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
-        "pubDate": "2026-07-28T18:53",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Hyperbole Implicit Buttons: Build your Hyperverse",
-        "link": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
-        "pubDate": "2026-07-29T13:00",
+        "title": "Some notes about Anthropic’s new results",
+        "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+        "pubDate": "2026-07-29T14:28",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Copilot will propagate a malicious worm from one Word document to another",
-        "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-        "pubDate": "2026-07-29T12:20",
+        "title": "The mean means nothing",
+        "link": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
+        "pubDate": "2026-07-28T18:53",
         "feedId": "lobsters"
       },
       {
-        "title": "PostgreSQL MVCC: tradeoffs compared to other engines",
-        "link": "https://boringsql.com/posts/mvcc-bad-bad/",
-        "pubDate": "2026-07-29T13:25",
+        "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse",
+        "link": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
+        "pubDate": "2026-07-29T13:00",
         "feedId": "lobsters"
       }
     ]
@@ -193,7 +193,13 @@
     "id": "arstechnica",
     "items": [
       {
-        "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+        "title": "What happens when you put AI to work deciphering lost languages?",
+        "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
+        "pubDate": "2026-07-29T13:23",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
         "link": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
         "pubDate": "2026-07-29T11:00",
         "feedId": "arstechnica"
@@ -274,12 +280,6 @@
         "title": "As US measles cases rise, biotech firms start developing new treatments",
         "link": "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/",
         "pubDate": "2026-07-28T13:32",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-        "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-        "pubDate": "2026-07-27T21:56",
         "feedId": "arstechnica"
       }
     ]
