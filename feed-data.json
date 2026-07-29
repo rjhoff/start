@@ -1,98 +1,8 @@
 {
   "hn": {
     "id": "hn",
-    "items": [
-      {
-        "title": "PgDog (YC P25) Is Hiring",
-        "link": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
-        "pubDate": "2026-07-29T17:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: CheapFoodMap – A map of good meals under $10",
-        "link": "https://cheapfoodmap.com/",
-        "pubDate": "2026-07-29T16:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "Infrastructure Patterns for Agentic Applications",
-        "link": "https://render.com/blog/infrastructure-patterns-for-agentic-applications",
-        "pubDate": "2026-07-29T16:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "Some thoughts about Anthropic's new cryptanalysis results",
-        "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-        "pubDate": "2026-07-29T16:42",
-        "feedId": "hn"
-      },
-      {
-        "title": "Keychron announces first open-source firmware for gaming mice",
-        "link": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-        "pubDate": "2026-07-29T16:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite",
-        "link": "https://kedge.dev/",
-        "pubDate": "2026-07-29T16:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
-        "link": "https://usetokenless.com/",
-        "pubDate": "2026-07-29T15:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "Superlogical",
-        "link": "https://www.superlogical.com/",
-        "pubDate": "2026-07-29T15:41",
-        "feedId": "hn"
-      },
-      {
-        "title": "Cesium DevCon 2026 talks are up, including a keynote from SQLite's creator",
-        "link": "https://cesium.com/events/cesium-developer-conference/2026/",
-        "pubDate": "2026-07-29T15:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-        "link": "https://github.com/drumih/turbo-fieldfare",
-        "pubDate": "2026-07-29T15:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hugging Face: Anatomy of a frontier-lab agent intrusion",
-        "link": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html",
-        "pubDate": "2026-07-29T15:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
-        "link": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
-        "pubDate": "2026-07-29T14:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon",
-        "link": "https://github.com/VladUZH/qwen-scribe",
-        "pubDate": "2026-07-29T14:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
-        "link": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
-        "pubDate": "2026-07-29T14:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
-        "link": "https://aistack.imec-int.com/blog/gpu-self-hosting",
-        "pubDate": "2026-07-29T14:38",
-        "feedId": "hn"
-      }
-    ]
+    "error": "Request timed out after 10000ms",
+    "items": []
   },
   "lobsters": {
     "id": "lobsters",
@@ -116,15 +26,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Inside Zig's Incremental Compilation",
-        "link": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-        "pubDate": "2026-07-28T14:14",
-        "feedId": "lobsters"
-      },
-      {
         "title": "PostgreSQL MVCC: tradeoffs compared to other engines",
         "link": "https://boringsql.com/posts/mvcc-bad-bad/",
         "pubDate": "2026-07-29T13:25",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Inside Zig's Incremental Compilation",
+        "link": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+        "pubDate": "2026-07-28T14:14",
         "feedId": "lobsters"
       },
       {
@@ -164,21 +74,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "State of multi-player Wayland",
-        "link": "https://blinry.org/multi-seat-wayland/",
-        "pubDate": "2026-07-28T21:14",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The Dark Night of Mathematics",
         "link": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
         "pubDate": "2026-07-29T12:35",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "basebrowserproject",
-        "link": "https://mastodon.social/@sarahjamielewis/116965925134524215",
-        "pubDate": "2026-07-29T14:54",
         "feedId": "lobsters"
       },
       {
@@ -186,12 +84,66 @@
         "link": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
         "pubDate": "2026-07-29T13:42",
         "feedId": "lobsters"
+      },
+      {
+        "title": "First CHERIoT Silicon",
+        "link": "https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html",
+        "pubDate": "2026-07-29T18:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "State of multi-player Wayland",
+        "link": "https://blinry.org/multi-seat-wayland/",
+        "pubDate": "2026-07-28T21:14",
+        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Google begins global rollout of age verification API in Google Play",
+        "link": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
+        "pubDate": "2026-07-29T18:08",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
+        "link": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
+        "pubDate": "2026-07-29T17:58",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Yet more qubit tech: New quantum dot options, diamond vacancies ",
+        "link": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
+        "pubDate": "2026-07-29T17:37",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Actually, Starliner might fly into space this year",
+        "link": "https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/",
+        "pubDate": "2026-07-29T17:24",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Anthropic is finding bugs faster than Microsoft can fix them",
+        "link": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
+        "pubDate": "2026-07-29T15:52",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "New AMD Linux patch boosts low-end gaming performance on Steam Deck",
+        "link": "https://arstechnica.com/gaming/2026/07/new-amd-linux-patch-boosts-low-end-gaming-performance-on-steam-deck/",
+        "pubDate": "2026-07-29T15:33",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Gaming and IRL worlds collide in Jumanji: Open World trailer",
+        "link": "https://arstechnica.com/culture/2026/07/gaming-and-irl-worlds-collide-in-jumanji-open-world-trailer/",
+        "pubDate": "2026-07-29T15:16",
+        "feedId": "arstechnica"
+      },
       {
         "title": "What happens when you put AI to work deciphering lost languages?",
         "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
@@ -239,48 +191,6 @@
         "link": "https://arstechnica.com/tech-policy/2026/07/ebay-former-execs-pay-56m-to-settle-bloody-pig-mask-harassment-case/",
         "pubDate": "2026-07-28T21:02",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Study: Dinosaurs were charbroiled after Chicxulub impact",
-        "link": "https://arstechnica.com/science/2026/07/dust-cloud-from-dino-killing-asteroid-charbroiled-the-earth/",
-        "pubDate": "2026-07-28T20:51",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Philly suburb: Sure, build that data center—but first meet our 43 demands",
-        "link": "https://arstechnica.com/tech-policy/2026/07/philly-suburb-sure-build-that-data-center-but-first-meet-our-43-demands/",
-        "pubDate": "2026-07-28T20:43",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
-        "link": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
-        "pubDate": "2026-07-28T20:20",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "New airliner sets record flying 24 hrs nonstop from Australia to France",
-        "link": "https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/",
-        "pubDate": "2026-07-28T18:43",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Judge blocks first state law that would have banned prediction markets",
-        "link": "https://arstechnica.com/tech-policy/2026/07/judge-blocks-first-state-law-that-would-have-banned-prediction-markets/",
-        "pubDate": "2026-07-28T18:31",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link",
-        "link": "https://arstechnica.com/health/2026/07/report-trump-mad-rfk-jr-hasnt-cut-more-vaccines-or-proven-autism-link/",
-        "pubDate": "2026-07-28T16:16",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "As US measles cases rise, biotech firms start developing new treatments",
-        "link": "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/",
-        "pubDate": "2026-07-28T13:32",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -290,7 +200,7 @@
       {
         "title": "Fed leaves rates steady, with internal dissent",
         "link": "https://www.axios.com/2026/07/29/fed-warsh-rates-inflation",
-        "pubDate": "2026-07-29T18:08",
+        "pubDate": "2026-07-29T19:28",
         "feedId": "axios"
       },
       {
