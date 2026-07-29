@@ -1,8 +1,98 @@
 {
   "hn": {
     "id": "hn",
-    "error": "Request timed out after 10000ms",
-    "items": []
+    "items": [
+      {
+        "title": "SalesPatriot (YC W25) Is Hiring FDEs",
+        "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+        "pubDate": "2026-07-29T21:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "The coolest use for the Vision Pro",
+        "link": "https://christianselig.com/2026/07/vision-pro-house/",
+        "pubDate": "2026-07-29T20:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted",
+        "link": "https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture",
+        "pubDate": "2026-07-29T20:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "A Trampoline",
+        "link": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
+        "pubDate": "2026-07-29T20:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "Claude Is Down",
+        "link": "https://status.claude.com/incidents/q2kg8n613kr3",
+        "pubDate": "2026-07-29T19:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "Kimi K3-256k",
+        "link": "https://www.kimi.com/code/docs/en/kimi-code/models",
+        "pubDate": "2026-07-29T19:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "How much can you delegate to agents?",
+        "link": "https://newsletter.posthog.com/p/agent-autonomy",
+        "pubDate": "2026-07-29T19:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+        "link": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
+        "pubDate": "2026-07-29T18:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "How to Not Die by a Thousand Cuts. Or, How to Think About Software Quality",
+        "link": "https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html",
+        "pubDate": "2026-07-29T18:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "A field day for Gleam's language server – Gleam v1.18.0 release",
+        "link": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
+        "pubDate": "2026-07-29T18:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "Turning a Dumb AC Unit Smart (Without Losing My Security Deposit)",
+        "link": "https://prilik.com/blog/post/automating-ac-nyc/",
+        "pubDate": "2026-07-29T18:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "PgDog (YC P25) Is Hiring",
+        "link": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
+        "pubDate": "2026-07-29T17:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: CheapFoodMap – A map of good meals under $10",
+        "link": "https://cheapfoodmap.com/",
+        "pubDate": "2026-07-29T16:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "Some thoughts about Anthropic's new cryptanalysis results",
+        "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+        "pubDate": "2026-07-29T16:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "Keychron announces first open-source firmware for gaming mice",
+        "link": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+        "pubDate": "2026-07-29T16:36",
+        "feedId": "hn"
+      }
+    ]
   },
   "lobsters": {
     "id": "lobsters",
@@ -26,9 +116,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Some notes about Anthropic’s new results",
+        "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+        "pubDate": "2026-07-29T14:28",
+        "feedId": "lobsters"
+      },
+      {
         "title": "PostgreSQL MVCC: tradeoffs compared to other engines",
         "link": "https://boringsql.com/posts/mvcc-bad-bad/",
         "pubDate": "2026-07-29T13:25",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "First CHERIoT Silicon",
+        "link": "https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html",
+        "pubDate": "2026-07-29T18:11",
         "feedId": "lobsters"
       },
       {
@@ -44,9 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Some notes about Anthropic’s new results",
-        "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-        "pubDate": "2026-07-29T14:28",
+        "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse",
+        "link": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
+        "pubDate": "2026-07-29T13:00",
         "feedId": "lobsters"
       },
       {
@@ -59,12 +161,6 @@
         "title": "Writing Toy Software Is A Joy (2025)",
         "link": "https://blog.jsbarretto.com/post/software-is-joy",
         "pubDate": "2026-07-29T05:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse",
-        "link": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
-        "pubDate": "2026-07-29T13:00",
         "feedId": "lobsters"
       },
       {
@@ -86,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "First CHERIoT Silicon",
-        "link": "https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html",
-        "pubDate": "2026-07-29T18:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "State of multi-player Wayland",
-        "link": "https://blinry.org/multi-seat-wayland/",
-        "pubDate": "2026-07-28T21:14",
+        "title": "basebrowserproject",
+        "link": "https://mastodon.social/@sarahjamielewis/116965925134524215",
+        "pubDate": "2026-07-29T14:54",
         "feedId": "lobsters"
       }
     ]
@@ -103,7 +193,25 @@
     "id": "arstechnica",
     "items": [
       {
-        "title": "Google begins global rollout of age verification API in Google Play",
+        "title": "Who wins and who loses after US bans foreign robots?",
+        "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+        "pubDate": "2026-07-29T20:03",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
+        "link": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
+        "pubDate": "2026-07-29T19:33",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Customize Ars your way with an Ars Pro subscription",
+        "link": "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/",
+        "pubDate": "2026-07-29T19:23",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
         "link": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
         "pubDate": "2026-07-29T18:08",
         "feedId": "arstechnica"
@@ -173,24 +281,6 @@
         "link": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
         "pubDate": "2026-07-28T22:09",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "College lab class ends with 32 people on antibiotics for deadly germ exposure",
-        "link": "https://arstechnica.com/health/2026/07/college-lab-class-ends-with-32-people-on-antibiotics-for-deadly-germ-exposure/",
-        "pubDate": "2026-07-28T21:49",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-        "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-        "pubDate": "2026-07-28T21:36",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "eBay pays $46M to journalists it targeted in bizarre harassment campaign",
-        "link": "https://arstechnica.com/tech-policy/2026/07/ebay-former-execs-pay-56m-to-settle-bloody-pig-mask-harassment-case/",
-        "pubDate": "2026-07-28T21:02",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -198,9 +288,27 @@
     "id": "axios",
     "items": [
       {
+        "title": "Why profanity is having a f*cking moment",
+        "link": "https://www.axios.com/2026/07/29/trump-political-swearing-voter-perceptions",
+        "pubDate": "2026-07-29T20:45",
+        "feedId": "axios"
+      },
+      {
+        "title": "Saudi defense minister holds urgent meeting with Vance after Iraq strikes",
+        "link": "https://www.axios.com/2026/07/29/saudi-arabia-iraq-strikes-vance-deescalation-iran",
+        "pubDate": "2026-07-29T20:19",
+        "feedId": "axios"
+      },
+      {
         "title": "Fed leaves rates steady, with internal dissent",
         "link": "https://www.axios.com/2026/07/29/fed-warsh-rates-inflation",
         "pubDate": "2026-07-29T19:28",
+        "feedId": "axios"
+      },
+      {
+        "title": "Senate goes on record to oppose any possible pardon for Ghislaine Maxwell",
+        "link": "https://www.axios.com/2026/07/29/ghislaine-maxwell-jeffrey-epstein-senate-pardon",
+        "pubDate": "2026-07-29T18:44",
         "feedId": "axios"
       },
       {
@@ -267,24 +375,6 @@
         "title": "Scoop: Second account accessed by OpenAI's agent tied to cyber safety testing",
         "link": "https://www.axios.com/2026/07/29/openai-hugging-face-modal-cyber-benchmark",
         "pubDate": "2026-07-29T00:59",
-        "feedId": "axios"
-      },
-      {
-        "title": "Iran launches missiles at U.S. base for first time since Trump paused strikes",
-        "link": "https://www.axios.com/2026/07/28/iran-missile-attack-us-base-jordan",
-        "pubDate": "2026-07-29T00:42",
-        "feedId": "axios"
-      },
-      {
-        "title": "Thune and Johnson both plan to attend Trump's Dallas convention",
-        "link": "https://www.axios.com/2026/07/29/republicans-midterm-convention-dallas-john-thune-mike-johnson-trump",
-        "pubDate": "2026-07-29T00:09",
-        "feedId": "axios"
-      },
-      {
-        "title": "86 senators vote to move forward with Graham Russia sanctions bill",
-        "link": "https://www.axios.com/2026/07/29/senate-russia-sanctions-lindsey-graham",
-        "pubDate": "2026-07-29T00:08",
         "feedId": "axios"
       }
     ]
