@@ -3,21 +3,27 @@
     "id": "hn",
     "items": [
       {
+        "title": "National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]",
+        "link": "https://www.fcc.gov/sites/default/files/robots-nsd.pdf",
+        "pubDate": "2026-07-29T10:47",
+        "feedId": "hn"
+      },
+      {
+        "title": "SpecForge – A Platform for Authoring Formal Specifications",
+        "link": "https://docs.imiron.io/v/0.5.10/en/tour.html",
+        "pubDate": "2026-07-29T10:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "Amiga Graphics Archive",
+        "link": "https://amiga.lychesis.net/index.html",
+        "pubDate": "2026-07-29T10:19",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
         "link": "https://vimgolf.ai",
         "pubDate": "2026-07-29T09:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "ChatGPT claims rogue AI attacked more companies",
-        "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
-        "pubDate": "2026-07-29T09:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Shape of Data (2022)",
-        "link": "https://www.scattered-thoughts.net/writing/the-shape-of-data/",
-        "pubDate": "2026-07-29T08:53",
         "feedId": "hn"
       },
       {
@@ -60,12 +66,6 @@
         "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
         "link": "https://learnvector.ai/",
         "pubDate": "2026-07-29T01:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "Multiple Mouse Cursors in Wayland",
-        "link": "https://blinry.org/multi-seat-wayland/",
-        "pubDate": "2026-07-29T00:59",
         "feedId": "hn"
       },
       {
@@ -134,6 +134,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "User Interfaces of the Demo Scene",
+        "link": "https://datagubbe.se/scenegui/",
+        "pubDate": "2026-07-29T08:07",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Writing Toy Software Is A Joy (2025)",
         "link": "https://blog.jsbarretto.com/post/software-is-joy",
         "pubDate": "2026-07-29T05:14",
@@ -146,12 +152,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "User Interfaces of the Demo Scene",
-        "link": "https://datagubbe.se/scenegui/",
-        "pubDate": "2026-07-29T08:07",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Lobste.rs on Spinel",
         "link": "https://intertwingly.net/blog/2026/07/28/What-Happens-After-You-IPO.html",
         "pubDate": "2026-07-29T01:30",
@@ -161,6 +161,12 @@
         "title": "Framework 13 Pro review: Much better battery, much worse price",
         "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
         "pubDate": "2026-07-28T03:15",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Parallel JSON parsing on the GPU with compute shaders",
+        "link": "https://github.com/friendlymatthew/slurpjson#slurpjson",
+        "pubDate": "2026-07-28T14:39",
         "feedId": "lobsters"
       },
       {
@@ -179,12 +185,6 @@
         "title": "Dependency Cultures - Richard Feldman (Software Should Work Conf 2026)",
         "link": "https://www.youtube.com/watch?v=E82ly38YEEQ",
         "pubDate": "2026-07-28T15:18",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Parallel JSON parsing on the GPU with compute shaders",
-        "link": "https://github.com/friendlymatthew/slurpjson#slurpjson",
-        "pubDate": "2026-07-28T14:39",
         "feedId": "lobsters"
       }
     ]
