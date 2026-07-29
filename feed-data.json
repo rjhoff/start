@@ -3,9 +3,9 @@
     "id": "hn",
     "items": [
       {
-        "title": "Does every question mark deserve a Betteridge?",
-        "link": "https://dynomight.net/betteridge/",
-        "pubDate": "2026-07-29T02:29",
+        "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+        "link": "https://transformer-transformer.github.io/",
+        "pubDate": "2026-07-29T03:52",
         "feedId": "hn"
       },
       {
@@ -15,27 +15,21 @@
         "feedId": "hn"
       },
       {
+        "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+        "link": "https://github.com/jagg-ix/zil-lean",
+        "pubDate": "2026-07-29T02:22",
+        "feedId": "hn"
+      },
+      {
         "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
         "link": "https://learnvector.ai/",
         "pubDate": "2026-07-29T01:49",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
-        "link": "https://andreadimatteo.com/md-to-html-compiler.html",
-        "pubDate": "2026-07-29T01:04",
-        "feedId": "hn"
-      },
-      {
         "title": "Multiple Mouse Cursors in Wayland",
         "link": "https://blinry.org/multi-seat-wayland/",
         "pubDate": "2026-07-29T00:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
-        "link": "https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf",
-        "pubDate": "2026-07-29T00:44",
         "feedId": "hn"
       },
       {
@@ -91,6 +85,12 @@
         "link": "https://www.pacingthefrontier.com/",
         "pubDate": "2026-07-28T20:09",
         "feedId": "hn"
+      },
+      {
+        "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
+        "link": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
+        "pubDate": "2026-07-28T17:37",
+        "feedId": "hn"
       }
     ]
   },
@@ -128,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Framework 13 Pro review: Much better battery, much worse price",
-        "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
-        "pubDate": "2026-07-28T03:15",
-        "feedId": "lobsters"
-      },
-      {
         "title": "State of multi-player Wayland",
         "link": "https://blinry.org/multi-seat-wayland/",
         "pubDate": "2026-07-28T21:14",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Framework 13 Pro review: Much better battery, much worse price",
+        "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
+        "pubDate": "2026-07-28T03:15",
         "feedId": "lobsters"
       },
       {
@@ -164,15 +164,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Where are the third places for learners?",
+        "link": "https://kernelkennel.com/blog/where-is-the-middle-space/",
+        "pubDate": "2026-07-28T14:38",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Setup a Simple, Self-Hosted Web Server with OpenBSD",
         "link": "https://btxx.org/posts/self-hosted-openbsd/",
         "pubDate": "2026-07-27T22:27",
         "feedId": "lobsters"
       },
       {
-        "title": "Where are the third places for learners?",
-        "link": "https://kernelkennel.com/blog/where-is-the-middle-space/",
-        "pubDate": "2026-07-28T14:38",
+        "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+        "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+        "pubDate": "2026-07-28T21:03",
         "feedId": "lobsters"
       },
       {
@@ -180,18 +186,18 @@
         "link": "https://blog.nightly.mozilla.org/2026/07/27/new-firefox-design/",
         "pubDate": "2026-07-28T00:43",
         "feedId": "lobsters"
-      },
-      {
-        "title": "You Could Have Come Up With Kimi Delta Attention",
-        "link": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-        "pubDate": "2026-07-28T17:01",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
+        "link": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
+        "pubDate": "2026-07-29T01:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
         "link": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
@@ -274,12 +280,6 @@
         "title": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies",
         "link": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
         "pubDate": "2026-07-27T20:42",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
-        "link": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
-        "pubDate": "2026-07-27T20:32",
         "feedId": "arstechnica"
       }
     ]
