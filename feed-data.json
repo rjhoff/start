@@ -3,9 +3,45 @@
     "id": "hn",
     "items": [
       {
-        "title": "AE Studio recruiting pirates to recover treasure located by AI",
-        "link": "https://ae.studio/jobs/pirate",
-        "pubDate": "2026-07-28T23:03",
+        "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
+        "link": "https://andreadimatteo.com/md-to-html-compiler.html",
+        "pubDate": "2026-07-29T01:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
+        "link": "https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf",
+        "pubDate": "2026-07-29T00:44",
+        "feedId": "hn"
+      },
+      {
+        "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
+        "link": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
+        "pubDate": "2026-07-29T00:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Difference Between a Button and a Link",
+        "link": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+        "pubDate": "2026-07-29T00:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "Hubble: Open-source notetaking app for you and your agents",
+        "link": "https://www.hubble.md/",
+        "pubDate": "2026-07-29T00:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
+        "link": "https://studio.academa.ai/",
+        "pubDate": "2026-07-29T00:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "ReFrame – The EPaper Camera",
+        "link": "https://reframe.camera/",
+        "pubDate": "2026-07-28T23:27",
         "feedId": "hn"
       },
       {
@@ -27,12 +63,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
-        "link": "https://github.com/anthropics/cryptography-research-demo",
-        "pubDate": "2026-07-28T21:22",
-        "feedId": "hn"
-      },
-      {
         "title": "Half-Life ported to Mac OS 9",
         "link": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
         "pubDate": "2026-07-28T20:58",
@@ -45,21 +75,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Toolcraft",
-        "link": "https://toolcraft.sh",
-        "pubDate": "2026-07-28T20:37",
-        "feedId": "hn"
-      },
-      {
         "title": "Pacing the frontier",
         "link": "https://www.pacingthefrontier.com/",
         "pubDate": "2026-07-28T20:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hulios: An eBPF-powered, transparent Tor gateway for Linux",
-        "link": "https://github.com/ghaziwali/Hulios",
-        "pubDate": "2026-07-28T19:54",
         "feedId": "hn"
       },
       {
@@ -72,24 +90,6 @@
         "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
         "link": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
         "pubDate": "2026-07-28T17:37",
-        "feedId": "hn"
-      },
-      {
-        "title": "Discovering Cryptographic Weaknesses with Claude",
-        "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-        "pubDate": "2026-07-28T17:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "Steel Bank Common Lisp version 2.6.7",
-        "link": "https://sbcl.org/all-news.html?2.6.7",
-        "pubDate": "2026-07-28T17:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "Substack writers, you need a website",
-        "link": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-        "pubDate": "2026-07-28T16:58",
         "feedId": "hn"
       }
     ]
@@ -152,21 +152,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Setup a Simple, Self-Hosted Web Server with OpenBSD",
-        "link": "https://btxx.org/posts/self-hosted-openbsd/",
-        "pubDate": "2026-07-27T22:27",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Parallel JSON parsing on the GPU with compute shaders",
         "link": "https://github.com/friendlymatthew/slurpjson#slurpjson",
         "pubDate": "2026-07-28T14:39",
         "feedId": "lobsters"
       },
       {
-        "title": "Try the New Firefox Design in Nightly",
-        "link": "https://blog.nightly.mozilla.org/2026/07/27/new-firefox-design/",
-        "pubDate": "2026-07-28T00:43",
+        "title": "Setup a Simple, Self-Hosted Web Server with OpenBSD",
+        "link": "https://btxx.org/posts/self-hosted-openbsd/",
+        "pubDate": "2026-07-27T22:27",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Proof types in Dart: Using final classes as computational witnesses",
-        "link": "https://modulovalue.com/blog/proof-types-in-dart/",
-        "pubDate": "2026-07-28T22:30",
+        "title": "State of multi-player Wayland",
+        "link": "https://blinry.org/multi-seat-wayland/",
+        "pubDate": "2026-07-28T21:14",
         "feedId": "lobsters"
       },
       {
-        "title": "Blogging Can Just Be Stating The Obvious",
-        "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-        "pubDate": "2026-07-27T13:34",
+        "title": "Try the New Firefox Design in Nightly",
+        "link": "https://blog.nightly.mozilla.org/2026/07/27/new-firefox-design/",
+        "pubDate": "2026-07-28T00:43",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Proof types in Dart: Using final classes as computational witnesses",
+        "link": "https://modulovalue.com/blog/proof-types-in-dart/",
+        "pubDate": "2026-07-28T22:30",
         "feedId": "lobsters"
       }
     ]
@@ -288,9 +288,27 @@
     "id": "axios",
     "items": [
       {
+        "title": "Scoop: Second account accessed by OpenAI's agent tied to cyber safety testing",
+        "link": "https://www.axios.com/2026/07/29/openai-hugging-face-modal-cyber-benchmark",
+        "pubDate": "2026-07-29T00:59",
+        "feedId": "axios"
+      },
+      {
         "title": "Iran launches missiles at U.S. base for first time since Trump paused strikes",
         "link": "https://www.axios.com/2026/07/28/iran-missile-attack-us-base-jordan",
-        "pubDate": "2026-07-28T22:32",
+        "pubDate": "2026-07-29T00:42",
+        "feedId": "axios"
+      },
+      {
+        "title": "Thune and Johnson both plan to attend Trump's Dallas convention",
+        "link": "https://www.axios.com/2026/07/29/republicans-midterm-convention-dallas-john-thune-mike-johnson-trump",
+        "pubDate": "2026-07-29T00:09",
+        "feedId": "axios"
+      },
+      {
+        "title": "86 senators vote to move forward with Graham Russia sanctions bill",
+        "link": "https://www.axios.com/2026/07/29/senate-russia-sanctions-lindsey-graham",
+        "pubDate": "2026-07-29T00:08",
         "feedId": "axios"
       },
       {
@@ -357,24 +375,6 @@
         "title": "UN's renewable-powered AI goal meets physical reality",
         "link": "https://www.axios.com/2026/07/28/renewables-ai-data-centers-power-fossil-fuels",
         "pubDate": "2026-07-28T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Anthropic, OpenAI blow past Starbucks, McDonald's amid AI boom",
-        "link": "https://www.axios.com/2026/07/28/anthropic-openai-revenue-mcdonalds-starbucks-yum",
-        "pubDate": "2026-07-28T09:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "A diminished Bibi arrives for his moment with Trump",
-        "link": "https://www.axios.com/2026/07/28/trump-netanyahu-white-house-iran-war-meeting",
-        "pubDate": "2026-07-28T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Canadians' travel pullback costs U.S. tourism billions",
-        "link": "https://www.axios.com/2026/07/28/canada-us-tourism-losses-canadian-travel",
-        "pubDate": "2026-07-28T01:48",
         "feedId": "axios"
       }
     ]
