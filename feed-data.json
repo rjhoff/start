@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "More Tailscale tricks for your jailbroken Kindle",
+        "link": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+        "pubDate": "2026-07-29T04:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "Cracking Windows Open: Porting RADV to Win32",
+        "link": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
+        "pubDate": "2026-07-29T04:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "User Interfaces of the Demo Scene",
+        "link": "https://www.datagubbe.se/scenegui/",
+        "pubDate": "2026-07-29T04:30",
+        "feedId": "hn"
+      },
+      {
         "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
         "link": "https://transformer-transformer.github.io/",
         "pubDate": "2026-07-29T03:52",
@@ -39,21 +57,9 @@
         "feedId": "hn"
       },
       {
-        "title": "The Difference Between a Button and a Link",
-        "link": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
-        "pubDate": "2026-07-29T00:12",
-        "feedId": "hn"
-      },
-      {
         "title": "Hubble: Open-source notetaking app for you and your agents",
         "link": "https://www.hubble.md/",
         "pubDate": "2026-07-29T00:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
-        "link": "https://studio.academa.ai/",
-        "pubDate": "2026-07-29T00:07",
         "feedId": "hn"
       },
       {
@@ -85,12 +91,6 @@
         "link": "https://www.pacingthefrontier.com/",
         "pubDate": "2026-07-28T20:09",
         "feedId": "hn"
-      },
-      {
-        "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
-        "link": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
-        "pubDate": "2026-07-28T17:37",
-        "feedId": "hn"
       }
     ]
   },
@@ -116,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk",
-        "link": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-        "pubDate": "2026-07-28T10:32",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The mean means nothing",
         "link": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
         "pubDate": "2026-07-28T18:53",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk",
+        "link": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+        "pubDate": "2026-07-28T10:32",
         "feedId": "lobsters"
       },
       {
@@ -164,15 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Where are the third places for learners?",
-        "link": "https://kernelkennel.com/blog/where-is-the-middle-space/",
-        "pubDate": "2026-07-28T14:38",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Setup a Simple, Self-Hosted Web Server with OpenBSD",
-        "link": "https://btxx.org/posts/self-hosted-openbsd/",
-        "pubDate": "2026-07-27T22:27",
+        "title": "Writing Toy Software Is A Joy (2025)",
+        "link": "https://blog.jsbarretto.com/post/software-is-joy",
+        "pubDate": "2026-07-29T05:14",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Try the New Firefox Design in Nightly",
-        "link": "https://blog.nightly.mozilla.org/2026/07/27/new-firefox-design/",
-        "pubDate": "2026-07-28T00:43",
+        "title": "Manganin: tools matter",
+        "link": "https://blog.manganin.dev/blog/tools-matter/",
+        "pubDate": "2026-07-29T04:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Where are the third places for learners?",
+        "link": "https://kernelkennel.com/blog/where-is-the-middle-space/",
+        "pubDate": "2026-07-28T14:38",
         "feedId": "lobsters"
       }
     ]
