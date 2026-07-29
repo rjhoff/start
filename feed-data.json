@@ -3,6 +3,66 @@
     "id": "hn",
     "items": [
       {
+        "title": "Choose DuckDB rather than SQLite",
+        "link": "https://tracewayapp.com/blog/sqlite-vs-duckdb",
+        "pubDate": "2026-07-29T14:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "Valve Sponsors Work Bringing Open-Source RADV Driver to Windows",
+        "link": "https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows",
+        "pubDate": "2026-07-29T13:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "TokenTown: A visual way to understand how LLMs work",
+        "link": "https://laurentiugabriel.github.io/token-town/",
+        "pubDate": "2026-07-29T13:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+        "link": "https://arxiv.org/abs/2607.25398",
+        "pubDate": "2026-07-29T13:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
+        "link": "https://github.com/SerhiiKorniienko/bullshit-detector",
+        "pubDate": "2026-07-29T12:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
+        "link": "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/",
+        "pubDate": "2026-07-29T12:48",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Echologue – the private AI voice journal I built for myself",
+        "link": "https://echologue.com/",
+        "pubDate": "2026-07-29T12:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)",
+        "link": "https://jcgt.org/published/0015/02/01/",
+        "pubDate": "2026-07-29T12:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "Darktable",
+        "link": "https://www.darktable.org/",
+        "pubDate": "2026-07-29T12:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
+        "link": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+        "pubDate": "2026-07-29T12:11",
+        "feedId": "hn"
+      },
+      {
         "title": "French musician Kavinsky found dead",
         "link": "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home",
         "pubDate": "2026-07-29T11:54",
@@ -15,21 +75,9 @@
         "feedId": "hn"
       },
       {
-        "title": "They Stole Your Attention",
-        "link": "https://moai.studio/blog/posts/they-stole-your-attention.html",
-        "pubDate": "2026-07-29T11:28",
-        "feedId": "hn"
-      },
-      {
         "title": "KOReader",
         "link": "https://koreader.rocks/",
         "pubDate": "2026-07-29T11:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]",
-        "link": "https://www.fcc.gov/sites/default/files/robots-nsd.pdf",
-        "pubDate": "2026-07-29T10:47",
         "feedId": "hn"
       },
       {
@@ -42,54 +90,6 @@
         "title": "Amiga Graphics Archive",
         "link": "https://amiga.lychesis.net/index.html",
         "pubDate": "2026-07-29T10:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
-        "link": "https://vimgolf.ai",
-        "pubDate": "2026-07-29T09:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
-        "link": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
-        "pubDate": "2026-07-29T07:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "More Tailscale tricks for your jailbroken Kindle",
-        "link": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-        "pubDate": "2026-07-29T04:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "Cracking Windows Open: Porting RADV to Win32",
-        "link": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
-        "pubDate": "2026-07-29T04:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "User Interfaces of the Demo Scene",
-        "link": "https://www.datagubbe.se/scenegui/",
-        "pubDate": "2026-07-29T04:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
-        "link": "https://transformer-transformer.github.io/",
-        "pubDate": "2026-07-29T03:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hooray for the Sockets Interface",
-        "link": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
-        "pubDate": "2026-07-29T02:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-        "link": "https://learnvector.ai/",
-        "pubDate": "2026-07-29T01:49",
         "feedId": "hn"
       }
     ]
@@ -110,33 +110,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times",
-        "link": "https://blog.tymscar.com/posts/opensourcedimmer/",
-        "pubDate": "2026-07-28T13:33",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "State of multi-player Wayland",
-        "link": "https://blinry.org/multi-seat-wayland/",
-        "pubDate": "2026-07-28T21:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Manganin: tools matter",
-        "link": "https://blog.manganin.dev/blog/tools-matter/",
-        "pubDate": "2026-07-29T04:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Writing Toy Software Is A Joy (2025)",
-        "link": "https://blog.jsbarretto.com/post/software-is-joy",
-        "pubDate": "2026-07-29T05:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The mean means nothing",
-        "link": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
-        "pubDate": "2026-07-28T18:53",
+        "title": "AI Mania Is Eviscerating Global Decision-Making",
+        "link": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+        "pubDate": "2026-07-29T10:42",
         "feedId": "lobsters"
       },
       {
@@ -146,45 +122,69 @@
         "feedId": "lobsters"
       },
       {
-        "title": "AI Mania Is Eviscerating Global Decision-Making",
-        "link": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
-        "pubDate": "2026-07-29T10:42",
+        "title": "Writing Toy Software Is A Joy (2025)",
+        "link": "https://blog.jsbarretto.com/post/software-is-joy",
+        "pubDate": "2026-07-29T05:14",
         "feedId": "lobsters"
       },
       {
-        "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk",
-        "link": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-        "pubDate": "2026-07-28T10:32",
+        "title": "It doesn’t matter whether “Matz is nice”",
+        "link": "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice",
+        "pubDate": "2026-07-29T13:12",
         "feedId": "lobsters"
       },
       {
-        "title": "Lobste.rs on Spinel",
-        "link": "https://intertwingly.net/blog/2026/07/28/What-Happens-After-You-IPO.html",
-        "pubDate": "2026-07-29T01:30",
+        "title": "Manganin: tools matter",
+        "link": "https://blog.manganin.dev/blog/tools-matter/",
+        "pubDate": "2026-07-29T04:44",
         "feedId": "lobsters"
       },
       {
-        "title": "Sovereignty is a substrate",
-        "link": "https://negroniventurestudios.com/2026/07/28/sovereignty-is-a-substrate/",
-        "pubDate": "2026-07-29T10:29",
+        "title": "State of multi-player Wayland",
+        "link": "https://blinry.org/multi-seat-wayland/",
+        "pubDate": "2026-07-28T21:14",
         "feedId": "lobsters"
       },
       {
-        "title": "C++26: Reducing undefined behaviour",
-        "link": "https://www.sandordargo.com/blog/2026/07/29/cpp26-reduces-undefined-behaviour",
-        "pubDate": "2026-07-29T07:15",
+        "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times",
+        "link": "https://blog.tymscar.com/posts/opensourcedimmer/",
+        "pubDate": "2026-07-28T13:33",
         "feedId": "lobsters"
       },
       {
-        "title": "Framework 13 Pro review: Much better battery, much worse price",
-        "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
-        "pubDate": "2026-07-28T03:15",
+        "title": "Overengineered calculator: Zig + QBE",
+        "link": "https://tomekw.com/overengineered-calculator-zig-qbe/",
+        "pubDate": "2026-07-29T13:22",
         "feedId": "lobsters"
       },
       {
-        "title": "Parallel JSON parsing on the GPU with compute shaders",
-        "link": "https://github.com/friendlymatthew/slurpjson#slurpjson",
-        "pubDate": "2026-07-28T14:39",
+        "title": "The mean means nothing",
+        "link": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
+        "pubDate": "2026-07-28T18:53",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Hyperbole Implicit Buttons: Build your Hyperverse",
+        "link": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
+        "pubDate": "2026-07-29T13:00",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Dark Night of Mathematics",
+        "link": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
+        "pubDate": "2026-07-29T12:35",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Copilot will propagate a malicious worm from one Word document to another",
+        "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+        "pubDate": "2026-07-29T12:20",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "PostgreSQL MVCC: tradeoffs compared to other engines",
+        "link": "https://boringsql.com/posts/mvcc-bad-bad/",
+        "pubDate": "2026-07-29T13:25",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "Supreme Court joins Trump, Congress in job approval slump",
+        "link": "https://www.axios.com/2026/07/29/supreme-court-congress-trump-approval-ratings",
+        "pubDate": "2026-07-29T14:21",
+        "feedId": "axios"
+      },
+      {
+        "title": "Fauci takes Fifth Amendment, refuses to answer Senate panel questions",
+        "link": "https://www.axios.com/2026/07/29/anthony-fauci-fifth-amendment-covid-hearing-paul",
+        "pubDate": "2026-07-29T14:00",
+        "feedId": "axios"
+      },
+      {
         "title": "Cyclospora exposes weak links in America's food safety system",
         "link": "https://www.axios.com/2026/07/29/cyclospora-lettuce-outbreak-food-safety-threat",
         "pubDate": "2026-07-29T09:30",
@@ -309,12 +321,6 @@
         "title": "Anthropic's lonely island",
         "link": "https://www.axios.com/2026/07/29/anthropic-claude-open-models-ban-china",
         "pubDate": "2026-07-29T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Supreme Court joins Trump, Congress in job approval slump",
-        "link": "https://www.axios.com/2026/07/29/supreme-court-congress-trump-approval-ratings",
-        "pubDate": "2026-07-29T08:50",
         "feedId": "axios"
       },
       {
@@ -369,12 +375,6 @@
         "title": "Trump, Netanyahu tout \"productive\" meeting after weeks of tensions",
         "link": "https://www.axios.com/2026/07/28/trump-netanyahu-oval-office-iran-war",
         "pubDate": "2026-07-28T18:58",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Nvidia's Jensen Huang meets Lutnick amid China scrutiny",
-        "link": "https://www.axios.com/2026/07/28/nvidia-jensen-huang-lutnick-meeting-china-ai",
-        "pubDate": "2026-07-28T16:42",
         "feedId": "axios"
       }
     ]
