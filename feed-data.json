@@ -3,21 +3,51 @@
     "id": "hn",
     "items": [
       {
+        "title": "PgDog (YC P25) Is Hiring",
+        "link": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
+        "pubDate": "2026-07-29T17:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: CheapFoodMap – A map of good meals under $10",
+        "link": "https://cheapfoodmap.com/",
+        "pubDate": "2026-07-29T16:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "Infrastructure Patterns for Agentic Applications",
+        "link": "https://render.com/blog/infrastructure-patterns-for-agentic-applications",
+        "pubDate": "2026-07-29T16:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "Some thoughts about Anthropic's new cryptanalysis results",
+        "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+        "pubDate": "2026-07-29T16:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "Keychron announces first open-source firmware for gaming mice",
+        "link": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+        "pubDate": "2026-07-29T16:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite",
+        "link": "https://kedge.dev/",
+        "pubDate": "2026-07-29T16:15",
+        "feedId": "hn"
+      },
+      {
         "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
         "link": "https://usetokenless.com/",
         "pubDate": "2026-07-29T15:55",
         "feedId": "hn"
       },
       {
-        "title": "Ask HN: My domain registrar (Hover) rug-pulled me for $3000",
-        "link": "https://news.ycombinator.com/item?id=49099021",
-        "pubDate": "2026-07-29T15:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "Superlogical – Mitchell Hashimoto",
-        "link": "https://mitchellh.com/writing/superlogical",
-        "pubDate": "2026-07-29T15:45",
+        "title": "Superlogical",
+        "link": "https://www.superlogical.com/",
+        "pubDate": "2026-07-29T15:41",
         "feedId": "hn"
       },
       {
@@ -45,19 +75,13 @@
         "feedId": "hn"
       },
       {
-        "title": "Google shuts down Nobel Prize winning AlphaFold",
-        "link": "https://www.engadget.com/2225849/google-shuts-down-alphafold/",
-        "pubDate": "2026-07-29T14:55",
-        "feedId": "hn"
-      },
-      {
         "title": "Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon",
         "link": "https://github.com/VladUZH/qwen-scribe",
         "pubDate": "2026-07-29T14:47",
         "feedId": "hn"
       },
       {
-        "title": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
+        "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
         "link": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
         "pubDate": "2026-07-29T14:43",
         "feedId": "hn"
@@ -66,30 +90,6 @@
         "title": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
         "link": "https://aistack.imec-int.com/blog/gpu-self-hosting",
         "pubDate": "2026-07-29T14:38",
-        "feedId": "hn"
-      },
-      {
-        "title": "Graph Engineering Needs a Compiler",
-        "link": "https://fluxtion-playground.dev/blog/2026-07-29-graph-engineering-needs-a-compiler",
-        "pubDate": "2026-07-29T14:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI in Linux",
-        "link": "https://drewdevault.com/blog/AI-in-Linux/",
-        "pubDate": "2026-07-29T14:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-        "link": "https://arxiv.org/abs/2607.25398",
-        "pubDate": "2026-07-29T13:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "San Francisco: Don't Fall for Industry Defense of Surveillance Pricing",
-        "link": "https://www.eff.org/deeplinks/2026/07/san-francisco-dont-fall-industry-defense-surveillance-pricing",
-        "pubDate": "2026-07-29T12:55",
         "feedId": "hn"
       }
     ]
@@ -110,15 +110,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Overengineered calculator: Zig + QBE",
+        "link": "https://tomekw.com/overengineered-calculator-zig-qbe/",
+        "pubDate": "2026-07-29T13:22",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Inside Zig's Incremental Compilation",
         "link": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
         "pubDate": "2026-07-28T14:14",
         "feedId": "lobsters"
       },
       {
-        "title": "Overengineered calculator: Zig + QBE",
-        "link": "https://tomekw.com/overengineered-calculator-zig-qbe/",
-        "pubDate": "2026-07-29T13:22",
+        "title": "PostgreSQL MVCC: tradeoffs compared to other engines",
+        "link": "https://boringsql.com/posts/mvcc-bad-bad/",
+        "pubDate": "2026-07-29T13:25",
         "feedId": "lobsters"
       },
       {
@@ -128,9 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "PostgreSQL MVCC: tradeoffs compared to other engines",
-        "link": "https://boringsql.com/posts/mvcc-bad-bad/",
-        "pubDate": "2026-07-29T13:25",
+        "title": "Some notes about Anthropic’s new results",
+        "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+        "pubDate": "2026-07-29T14:28",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Some notes about Anthropic’s new results",
-        "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-        "pubDate": "2026-07-29T14:28",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "State of multi-player Wayland",
-        "link": "https://blinry.org/multi-seat-wayland/",
-        "pubDate": "2026-07-28T21:14",
+        "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse",
+        "link": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
+        "pubDate": "2026-07-29T13:00",
         "feedId": "lobsters"
       },
       {
@@ -164,15 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times",
-        "link": "https://blog.tymscar.com/posts/opensourcedimmer/",
-        "pubDate": "2026-07-28T13:33",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse",
-        "link": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
-        "pubDate": "2026-07-29T13:00",
+        "title": "State of multi-player Wayland",
+        "link": "https://blinry.org/multi-seat-wayland/",
+        "pubDate": "2026-07-28T21:14",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The mean means nothing",
-        "link": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
-        "pubDate": "2026-07-28T18:53",
+        "title": "basebrowserproject",
+        "link": "https://mastodon.social/@sarahjamielewis/116965925134524215",
+        "pubDate": "2026-07-29T14:54",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A field day for Gleam’s language server | Gleam v.1.18.0 release",
+        "link": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
+        "pubDate": "2026-07-29T13:42",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,24 @@
     "id": "axios",
     "items": [
       {
+        "title": "Fed leaves rates steady, with internal dissent",
+        "link": "https://www.axios.com/2026/07/29/fed-warsh-rates-inflation",
+        "pubDate": "2026-07-29T18:08",
+        "feedId": "axios"
+      },
+      {
+        "title": "OpenAI launches free AI access program for academic researchers",
+        "link": "https://www.axios.com/2026/07/29/openai-academics-research-chatgpt-sol",
+        "pubDate": "2026-07-29T17:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: Inside the White House pitch for pre-election MAGA megabill",
+        "link": "https://www.axios.com/2026/07/29/trump-senate-republicans-maga-budget-bill",
+        "pubDate": "2026-07-29T16:51",
+        "feedId": "axios"
+      },
+      {
         "title": "Inside Bibi's pivotal White House meeting with Trump",
         "link": "https://www.axios.com/2026/07/29/inside-trump-netanyahu-meeting-iran",
         "pubDate": "2026-07-29T16:27",
@@ -357,24 +375,6 @@
         "title": "86 senators vote to move forward with Graham Russia sanctions bill",
         "link": "https://www.axios.com/2026/07/29/senate-russia-sanctions-lindsey-graham",
         "pubDate": "2026-07-29T00:08",
-        "feedId": "axios"
-      },
-      {
-        "title": "What's in the GOP megabill Trump is rallying behind",
-        "link": "https://www.axios.com/2026/07/28/save-act-iran-war-farm-aid-republicans-trump",
-        "pubDate": "2026-07-28T22:01",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Trump asks Supreme Court to overturn $83M judgment for E. Jean Carroll",
-        "link": "https://www.axios.com/2026/07/28/trump-appeal-defamation-sexual-assault",
-        "pubDate": "2026-07-28T21:45",
-        "feedId": "axios"
-      },
-      {
-        "title": "How the Supreme Court deepened uncertainty over Temporary Protected Status",
-        "link": "https://www.axios.com/2026/07/28/trump-supreme-court-temporary-protected-status",
-        "pubDate": "2026-07-28T21:33",
         "feedId": "axios"
       }
     ]
