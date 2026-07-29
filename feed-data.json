@@ -3,6 +3,30 @@
     "id": "hn",
     "items": [
       {
+        "title": "French musician Kavinsky found dead",
+        "link": "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home",
+        "pubDate": "2026-07-29T11:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+        "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+        "pubDate": "2026-07-29T11:44",
+        "feedId": "hn"
+      },
+      {
+        "title": "They Stole Your Attention",
+        "link": "https://moai.studio/blog/posts/they-stole-your-attention.html",
+        "pubDate": "2026-07-29T11:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "KOReader",
+        "link": "https://koreader.rocks/",
+        "pubDate": "2026-07-29T11:05",
+        "feedId": "hn"
+      },
+      {
         "title": "National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]",
         "link": "https://www.fcc.gov/sites/default/files/robots-nsd.pdf",
         "pubDate": "2026-07-29T10:47",
@@ -67,30 +91,6 @@
         "link": "https://learnvector.ai/",
         "pubDate": "2026-07-29T01:49",
         "feedId": "hn"
-      },
-      {
-        "title": "Hubble: Open-source notetaking app for you and your agents",
-        "link": "https://www.hubble.md/",
-        "pubDate": "2026-07-29T00:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "ReFrame – The EPaper Camera",
-        "link": "https://reframe.camera/",
-        "pubDate": "2026-07-28T23:27",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-        "link": "https://github.com/twalichiewicz/HNewhere",
-        "pubDate": "2026-07-28T22:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "Half-Life ported to Mac OS 9",
-        "link": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-        "pubDate": "2026-07-28T20:58",
-        "feedId": "hn"
       }
     ]
   },
@@ -128,6 +128,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Writing Toy Software Is A Joy (2025)",
+        "link": "https://blog.jsbarretto.com/post/software-is-joy",
+        "pubDate": "2026-07-29T05:14",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The mean means nothing",
         "link": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
         "pubDate": "2026-07-28T18:53",
@@ -140,9 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Writing Toy Software Is A Joy (2025)",
-        "link": "https://blog.jsbarretto.com/post/software-is-joy",
-        "pubDate": "2026-07-29T05:14",
+        "title": "AI Mania Is Eviscerating Global Decision-Making",
+        "link": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+        "pubDate": "2026-07-29T10:42",
         "feedId": "lobsters"
       },
       {
@@ -158,6 +164,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Sovereignty is a substrate",
+        "link": "https://negroniventurestudios.com/2026/07/28/sovereignty-is-a-substrate/",
+        "pubDate": "2026-07-29T10:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "C++26: Reducing undefined behaviour",
+        "link": "https://www.sandordargo.com/blog/2026/07/29/cpp26-reduces-undefined-behaviour",
+        "pubDate": "2026-07-29T07:15",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Framework 13 Pro review: Much better battery, much worse price",
         "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
         "pubDate": "2026-07-28T03:15",
@@ -168,30 +186,24 @@
         "link": "https://github.com/friendlymatthew/slurpjson#slurpjson",
         "pubDate": "2026-07-28T14:39",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Building (systems) software with Nix",
-        "link": "https://hondu.co/blog/building-systems-software",
-        "pubDate": "2026-07-28T13:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What even are microservices?",
-        "link": "https://var0.xyz/posts/what-even-are-microservices.html",
-        "pubDate": "2026-07-28T12:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Dependency Cultures - Richard Feldman (Software Should Work Conf 2026)",
-        "link": "https://www.youtube.com/watch?v=E82ly38YEEQ",
-        "pubDate": "2026-07-28T15:18",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+        "link": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+        "pubDate": "2026-07-29T11:00",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Elon Musk finally launches X Money. What could possibly go wrong?",
+        "link": "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/",
+        "pubDate": "2026-07-29T10:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
         "link": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
@@ -268,18 +280,6 @@
         "title": "Microsoft unveils AI security tools it says outperform competing platforms",
         "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
         "pubDate": "2026-07-27T21:56",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
-        "link": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
-        "pubDate": "2026-07-27T21:40",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies",
-        "link": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
-        "pubDate": "2026-07-27T20:42",
         "feedId": "arstechnica"
       }
     ]
