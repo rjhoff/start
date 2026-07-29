@@ -3,9 +3,33 @@
     "id": "hn",
     "items": [
       {
+        "title": "Does every question mark deserve a Betteridge?",
+        "link": "https://dynomight.net/betteridge/",
+        "pubDate": "2026-07-29T02:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Hooray for the Sockets Interface",
+        "link": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
+        "pubDate": "2026-07-29T02:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+        "link": "https://learnvector.ai/",
+        "pubDate": "2026-07-29T01:49",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
         "link": "https://andreadimatteo.com/md-to-html-compiler.html",
         "pubDate": "2026-07-29T01:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Multiple Mouse Cursors in Wayland",
+        "link": "https://blinry.org/multi-seat-wayland/",
+        "pubDate": "2026-07-29T00:59",
         "feedId": "hn"
       },
       {
@@ -45,21 +69,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Underwater oxygen loss threatens earth's stability, researchers warn",
-        "link": "https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn",
-        "pubDate": "2026-07-28T22:31",
-        "feedId": "hn"
-      },
-      {
         "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
         "link": "https://github.com/twalichiewicz/HNewhere",
         "pubDate": "2026-07-28T22:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "Running Kimi K3 on a M1 Max",
-        "link": "https://github.com/gavamedia/deltafin",
-        "pubDate": "2026-07-28T21:35",
         "feedId": "hn"
       },
       {
@@ -78,18 +90,6 @@
         "title": "Pacing the frontier",
         "link": "https://www.pacingthefrontier.com/",
         "pubDate": "2026-07-28T20:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "MCP 2026-07-28 Specification: transport going stateless",
-        "link": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
-        "pubDate": "2026-07-28T18:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
-        "link": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
-        "pubDate": "2026-07-28T17:37",
         "feedId": "hn"
       }
     ]
@@ -134,6 +134,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "State of multi-player Wayland",
+        "link": "https://blinry.org/multi-seat-wayland/",
+        "pubDate": "2026-07-28T21:14",
+        "feedId": "lobsters"
+      },
+      {
         "title": "What even are microservices?",
         "link": "https://var0.xyz/posts/what-even-are-microservices.html",
         "pubDate": "2026-07-28T12:14",
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "State of multi-player Wayland",
-        "link": "https://blinry.org/multi-seat-wayland/",
-        "pubDate": "2026-07-28T21:14",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Try the New Firefox Design in Nightly",
         "link": "https://blog.nightly.mozilla.org/2026/07/27/new-firefox-design/",
         "pubDate": "2026-07-28T00:43",
         "feedId": "lobsters"
       },
       {
-        "title": "Proof types in Dart: Using final classes as computational witnesses",
-        "link": "https://modulovalue.com/blog/proof-types-in-dart/",
-        "pubDate": "2026-07-28T22:30",
+        "title": "You Could Have Come Up With Kimi Delta Attention",
+        "link": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+        "pubDate": "2026-07-28T17:01",
         "feedId": "lobsters"
       }
     ]
@@ -312,6 +312,12 @@
         "feedId": "axios"
       },
       {
+        "title": "What's in the GOP megabill Trump is rallying behind",
+        "link": "https://www.axios.com/2026/07/28/save-act-iran-war-farm-aid-republicans-trump",
+        "pubDate": "2026-07-28T22:01",
+        "feedId": "axios"
+      },
+      {
         "title": "Scoop: Trump asks Supreme Court to overturn $83M judgment for E. Jean Carroll",
         "link": "https://www.axios.com/2026/07/28/trump-appeal-defamation-sexual-assault",
         "pubDate": "2026-07-28T21:45",
@@ -369,12 +375,6 @@
         "title": "How Trump's \"self-deportation\" machine has ramped up",
         "link": "https://www.axios.com/2026/07/28/trump-self-deportation-ice",
         "pubDate": "2026-07-28T09:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "UN's renewable-powered AI goal meets physical reality",
-        "link": "https://www.axios.com/2026/07/28/renewables-ai-data-centers-power-fossil-fuels",
-        "pubDate": "2026-07-28T09:15",
         "feedId": "axios"
       }
     ]
