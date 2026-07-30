@@ -3,21 +3,39 @@
     "id": "hn",
     "items": [
       {
+        "title": "Europe's fires are just the start",
+        "link": "https://economist.com/leaders/2026/07/28/europes-fires-are-just-the-start",
+        "pubDate": "2026-07-30T13:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
+        "link": "https://prized.dev",
+        "pubDate": "2026-07-30T13:29",
+        "feedId": "hn"
+      },
+      {
         "title": "RFC 8890 – The Internet is for End Users (2020)",
         "link": "https://mnot.net/blog/2020/for_the_users",
         "pubDate": "2026-07-30T13:07",
         "feedId": "hn"
       },
       {
-        "title": "Why Is Everyone Trying to Build a Solid-State Battery?",
-        "link": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
-        "pubDate": "2026-07-30T12:38",
+        "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+        "link": "https://remysharp.com/links/2026-07-23-35890312",
+        "pubDate": "2026-07-30T13:03",
         "feedId": "hn"
       },
       {
-        "title": "OpenJDK Interim Policy on Generative AI",
-        "link": "https://openjdk.org/legal/ai",
-        "pubDate": "2026-07-30T12:36",
+        "title": "Going beneath NTFS: USN Journal, dfir_NTFS, and artefact-driven investigations",
+        "link": "https://andreafortuna.org/2026/07/06/ntfs-forensics-deep-dive/",
+        "pubDate": "2026-07-30T12:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why Is Everyone Trying to Build a Solid-State Battery?",
+        "link": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
+        "pubDate": "2026-07-30T12:38",
         "feedId": "hn"
       },
       {
@@ -30,12 +48,6 @@
         "title": "How Old Is Ann?",
         "link": "https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/",
         "pubDate": "2026-07-30T12:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "What it means for an API to be RESTful",
-        "link": "https://en.andros.dev/blog/9761fd2e/what-it-means-for-an-api-to-be-restful/",
-        "pubDate": "2026-07-30T12:13",
         "feedId": "hn"
       },
       {
@@ -57,8 +69,8 @@
         "feedId": "hn"
       },
       {
-        "title": "GCC steering committee announces AI policy",
-        "link": "https://lwn.net/Articles/1086041/",
+        "title": "Are We Stuck with Lean?",
+        "link": "https://mathoverflow.net/questions/513742/are-we-stuck-with-lean",
         "pubDate": "2026-07-30T11:45",
         "feedId": "hn"
       },
@@ -75,21 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Gpiozero Flow",
-        "link": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
-        "pubDate": "2026-07-30T10:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "Google will expand age checks on Android worldwide till the end of the year",
-        "link": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
-        "pubDate": "2026-07-30T10:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
-        "link": "https://github.com/YoanWai/agent-manager",
-        "pubDate": "2026-07-30T09:34",
+        "title": "You can't solve computer use by ignoring the interface",
+        "link": "https://steelmanlabs.com/blog/computer-use-is-far-from-solved",
+        "pubDate": "2026-07-30T11:28",
         "feedId": "hn"
       }
     ]
@@ -107,6 +107,12 @@
         "title": "What side projects have you enjoyed the most?",
         "link": "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most",
         "pubDate": "2026-07-30T01:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "deskhop: Fast Desktop Switching Device",
+        "link": "https://github.com/hrvach/deskhop",
+        "pubDate": "2026-07-30T07:52",
         "feedId": "lobsters"
       },
       {
@@ -128,15 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "deskhop: Fast Desktop Switching Device",
-        "link": "https://github.com/hrvach/deskhop",
-        "pubDate": "2026-07-30T07:52",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The strain in your brain",
         "link": "https://anirudh.fi/strain",
         "pubDate": "2026-07-29T20:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Building Progressively Enhanced Forms Using htmx",
+        "link": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
+        "pubDate": "2026-07-30T12:17",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Building Progressively Enhanced Forms Using htmx",
-        "link": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
-        "pubDate": "2026-07-30T12:17",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A field day for Gleam’s language server | Gleam v.1.18.0 release",
-        "link": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
-        "pubDate": "2026-07-29T13:42",
+        "title": "The AI Aesthetic",
+        "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+        "pubDate": "2026-07-30T13:57",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Difference Between a Button and a Link",
-        "link": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
-        "pubDate": "2026-07-30T03:42",
+        "title": "A field day for Gleam’s language server | Gleam v.1.18.0 release",
+        "link": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
+        "pubDate": "2026-07-29T13:42",
         "feedId": "lobsters"
       },
       {
-        "title": "basebrowserproject",
-        "link": "https://mastodon.social/@sarahjamielewis/116965925134524215",
-        "pubDate": "2026-07-29T14:54",
+        "title": "The Difference Between a Button and a Link",
+        "link": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+        "pubDate": "2026-07-30T03:42",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "Senate panel approves CDC nominee, controversial HHS pick",
+        "link": "https://www.axios.com/2026/07/30/senate-panel-approves-cdc-nominee-schwartz-kaufman",
+        "pubDate": "2026-07-30T14:16",
+        "feedId": "axios"
+      },
+      {
+        "title": "Election fears run rampant as November nears: poll",
+        "link": "https://www.axios.com/2026/07/30/election-integrity-fears-november-midterms-poll",
+        "pubDate": "2026-07-30T13:41",
+        "feedId": "axios"
+      },
+      {
         "title": "Netanyahu confronts Vance over his criticism of Israeli government",
         "link": "https://www.axios.com/2026/07/30/netanyahu-confronts-vance-over-his-criticism-of-israeli-government",
         "pubDate": "2026-07-30T13:06",
@@ -363,18 +375,6 @@
         "title": "Scoop: Inside the White House pitch for pre-election MAGA megabill",
         "link": "https://www.axios.com/2026/07/29/trump-senate-republicans-maga-budget-bill",
         "pubDate": "2026-07-29T16:51",
-        "feedId": "axios"
-      },
-      {
-        "title": "Inside Bibi's pivotal White House meeting with Trump",
-        "link": "https://www.axios.com/2026/07/29/inside-trump-netanyahu-meeting-iran",
-        "pubDate": "2026-07-29T16:27",
-        "feedId": "axios"
-      },
-      {
-        "title": "Why AI makes central banking tougher",
-        "link": "https://www.axios.com/2026/07/29/ai-central-banking-bis",
-        "pubDate": "2026-07-29T16:10",
         "feedId": "axios"
       }
     ]
