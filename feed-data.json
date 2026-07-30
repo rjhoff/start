@@ -3,15 +3,51 @@
     "id": "hn",
     "items": [
       {
+        "title": "Gpiozero Flow",
+        "link": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
+        "pubDate": "2026-07-30T10:32",
+        "feedId": "hn"
+      },
+      {
         "title": "Google will expand age checks on Android worldwide till the end of the year",
         "link": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
         "pubDate": "2026-07-30T10:13",
         "feedId": "hn"
       },
       {
-        "title": "Why the future is local app",
-        "link": "https://getapps.cafe/blog/why-the-future-is-local-app",
-        "pubDate": "2026-07-30T03:44",
+        "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+        "link": "https://github.com/YoanWai/agent-manager",
+        "pubDate": "2026-07-30T09:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "Carolina Cloud pays SOFR on unused prepaid credits",
+        "link": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
+        "pubDate": "2026-07-30T09:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tailscale with Mullvad leaks your DNS",
+        "link": "https://github.com/tailscale/tailscale/issues/9284",
+        "pubDate": "2026-07-30T08:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Apple Calculator Language",
+        "link": "https://wadetregaskis.com/the-apple-calculator-language/",
+        "pubDate": "2026-07-30T08:44",
+        "feedId": "hn"
+      },
+      {
+        "title": "Cisco FMC static credential vulnerability exploited as a zero-day",
+        "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-static-cred-BET3Cjh",
+        "pubDate": "2026-07-30T08:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ron Gilbert started production on Thimbleweed Park 2",
+        "link": "https://www.grumpygamer.com/twp2_announce/",
+        "pubDate": "2026-07-30T08:10",
         "feedId": "hn"
       },
       {
@@ -55,42 +91,6 @@
         "link": "https://zachholman.com/posts/cold-email",
         "pubDate": "2026-07-29T21:06",
         "feedId": "hn"
-      },
-      {
-        "title": "SalesPatriot (YC W25) Is Hiring FDEs",
-        "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
-        "pubDate": "2026-07-29T21:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "The coolest use for the Vision Pro",
-        "link": "https://christianselig.com/2026/07/vision-pro-house/",
-        "pubDate": "2026-07-29T20:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "A Trampoline",
-        "link": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
-        "pubDate": "2026-07-29T20:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kimi K3-256k",
-        "link": "https://www.kimi.com/code/docs/en/kimi-code/models",
-        "pubDate": "2026-07-29T19:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "Turning a dumb AC unit smart (without losing my security deposit)",
-        "link": "https://prilik.com/blog/post/automating-ac-nyc/",
-        "pubDate": "2026-07-29T18:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "PgDog (YC P25) Is Hiring",
-        "link": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
-        "pubDate": "2026-07-29T17:01",
-        "feedId": "hn"
       }
     ]
   },
@@ -101,6 +101,12 @@
         "title": "C++ float-to-int conversion can be undefined behavior",
         "link": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
         "pubDate": "2026-07-30T03:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "AI Mania Is Eviscerating Global Decision-Making",
+        "link": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+        "pubDate": "2026-07-29T10:42",
         "feedId": "lobsters"
       },
       {
@@ -122,6 +128,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "The strain in your brain",
+        "link": "https://anirudh.fi/strain",
+        "pubDate": "2026-07-29T20:22",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Overengineered calculator: Zig + QBE",
         "link": "https://tomekw.com/overengineered-calculator-zig-qbe/",
         "pubDate": "2026-07-29T13:22",
@@ -134,15 +146,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A field day for Gleam’s language server | Gleam v.1.18.0 release",
-        "link": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
-        "pubDate": "2026-07-29T13:42",
+        "title": "Some notes about Anthropic’s new results",
+        "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+        "pubDate": "2026-07-29T14:28",
         "feedId": "lobsters"
       },
       {
-        "title": "PostgreSQL MVCC: tradeoffs compared to other engines",
-        "link": "https://boringsql.com/posts/mvcc-bad-bad/",
-        "pubDate": "2026-07-29T13:25",
+        "title": "deskhop: Fast Desktop Switching Device",
+        "link": "https://github.com/hrvach/deskhop",
+        "pubDate": "2026-07-30T07:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A field day for Gleam’s language server | Gleam v.1.18.0 release",
+        "link": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
+        "pubDate": "2026-07-29T13:42",
         "feedId": "lobsters"
       },
       {
@@ -152,39 +170,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "PostgreSQL MVCC: tradeoffs compared to other engines",
+        "link": "https://boringsql.com/posts/mvcc-bad-bad/",
+        "pubDate": "2026-07-29T13:25",
+        "feedId": "lobsters"
+      },
+      {
         "title": "basebrowserproject",
         "link": "https://mastodon.social/@sarahjamielewis/116965925134524215",
         "pubDate": "2026-07-29T14:54",
         "feedId": "lobsters"
       },
       {
-        "title": "User Interfaces of the Demo Scene",
-        "link": "https://datagubbe.se/scenegui/",
-        "pubDate": "2026-07-29T08:07",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Why Rocq is better than Lean for program verification",
         "link": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
         "pubDate": "2026-07-28T21:16",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Inside Zig's Incremental Compilation",
-        "link": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-        "pubDate": "2026-07-28T14:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Difference Between a Button and a Link",
-        "link": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
-        "pubDate": "2026-07-30T03:42",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Dark Night of Mathematics",
-        "link": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
-        "pubDate": "2026-07-29T12:35",
         "feedId": "lobsters"
       }
     ]
