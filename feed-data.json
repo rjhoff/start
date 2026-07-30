@@ -3,6 +3,30 @@
     "id": "hn",
     "items": [
       {
+        "title": "Sell Your AI Skills?",
+        "link": "https://capabase.ai/learn/sell-your-ai-skills",
+        "pubDate": "2026-07-30T00:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Productivity Mirage",
+        "link": "https://frantic.im/mirage/",
+        "pubDate": "2026-07-29T23:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
+        "link": "https://archive.org/details/mancomputerbyjoh0000john",
+        "pubDate": "2026-07-29T22:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "LLM Honeypot",
+        "link": "https://llm2human.pages.dev/",
+        "pubDate": "2026-07-29T22:51",
+        "feedId": "hn"
+      },
+      {
         "title": "GitHub is the wrong shape for this new world",
         "link": "https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world",
         "pubDate": "2026-07-29T22:27",
@@ -39,21 +63,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Claude: Elevated errors across all models",
-        "link": "https://status.claude.com/incidents/q2kg8n613kr3",
-        "pubDate": "2026-07-29T19:50",
-        "feedId": "hn"
-      },
-      {
         "title": "Kimi K3-256k",
         "link": "https://www.kimi.com/code/docs/en/kimi-code/models",
         "pubDate": "2026-07-29T19:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "How much can you delegate to agents?",
-        "link": "https://newsletter.posthog.com/p/agent-autonomy",
-        "pubDate": "2026-07-29T19:07",
         "feedId": "hn"
       },
       {
@@ -63,7 +75,7 @@
         "feedId": "hn"
       },
       {
-        "title": "How to not die by a thousand cuts or how to think about software quality (2023)",
+        "title": "How to think about software quality (2022)",
         "link": "https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html",
         "pubDate": "2026-07-29T18:42",
         "feedId": "hn"
@@ -78,18 +90,6 @@
         "title": "PgDog (YC P25) Is Hiring",
         "link": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
         "pubDate": "2026-07-29T17:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: CheapFoodMap – A map of good meals under $10",
-        "link": "https://cheapfoodmap.com/",
-        "pubDate": "2026-07-29T16:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "Some thoughts about Anthropic's new cryptanalysis results",
-        "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-        "pubDate": "2026-07-29T16:42",
         "feedId": "hn"
       }
     ]
@@ -128,6 +128,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "The strain in your brain",
+        "link": "https://anirudh.fi/strain",
+        "pubDate": "2026-07-29T20:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse",
+        "link": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
+        "pubDate": "2026-07-29T13:00",
+        "feedId": "lobsters"
+      },
+      {
         "title": "PostgreSQL MVCC: tradeoffs compared to other engines",
         "link": "https://boringsql.com/posts/mvcc-bad-bad/",
         "pubDate": "2026-07-29T13:25",
@@ -146,12 +158,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse",
-        "link": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
-        "pubDate": "2026-07-29T13:00",
-        "feedId": "lobsters"
-      },
-      {
         "title": "User Interfaces of the Demo Scene",
         "link": "https://datagubbe.se/scenegui/",
         "pubDate": "2026-07-29T08:07",
@@ -164,21 +170,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The strain in your brain",
-        "link": "https://anirudh.fi/strain",
-        "pubDate": "2026-07-29T20:22",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Writing Toy Software Is A Joy (2025)",
         "link": "https://blog.jsbarretto.com/post/software-is-joy",
         "pubDate": "2026-07-29T05:14",
         "feedId": "lobsters"
       },
       {
-        "title": "Manganin: tools matter",
-        "link": "https://blog.manganin.dev/blog/tools-matter/",
-        "pubDate": "2026-07-29T04:44",
+        "title": "Setting timers in simple games (feat. the frame rule)",
+        "link": "https://lynn.github.io/blog/pico-timers/",
+        "pubDate": "2026-07-29T16:26",
         "feedId": "lobsters"
       },
       {
