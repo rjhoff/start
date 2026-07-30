@@ -15,12 +15,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Flume Water Monitor 915 MHz Security Is Pretty Good",
-        "link": "https://waveformsecurity.com/blog/flume/",
-        "pubDate": "2026-07-30T01:27",
-        "feedId": "hn"
-      },
-      {
         "title": "Logic for Programmers",
         "link": "https://logicforprogrammers.com/",
         "pubDate": "2026-07-30T00:51",
@@ -87,9 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
-        "link": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
-        "pubDate": "2026-07-29T18:57",
+        "title": "Turning a dumb AC unit smart (without losing my security deposit)",
+        "link": "https://prilik.com/blog/post/automating-ac-nyc/",
+        "pubDate": "2026-07-29T18:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "PgDog (YC P25) Is Hiring",
+        "link": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
+        "pubDate": "2026-07-29T17:01",
         "feedId": "hn"
       }
     ]
@@ -101,6 +101,12 @@
         "title": "AI Mania Is Eviscerating Global Decision-Making",
         "link": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
         "pubDate": "2026-07-29T10:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "C++ float-to-int conversion can be undefined behavior",
+        "link": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
+        "pubDate": "2026-07-30T03:47",
         "feedId": "lobsters"
       },
       {
@@ -122,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse",
-        "link": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
-        "pubDate": "2026-07-29T13:00",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What side projects have you enjoyed the most?",
         "link": "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most",
         "pubDate": "2026-07-30T01:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse",
+        "link": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
+        "pubDate": "2026-07-29T13:00",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +164,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why Rocq is better than Lean for program verification",
-        "link": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
-        "pubDate": "2026-07-28T21:16",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Setting timers in simple games (feat. the frame rule)",
         "link": "https://lynn.github.io/blog/pico-timers/",
         "pubDate": "2026-07-29T16:26",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why Rocq is better than Lean for program verification",
+        "link": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
+        "pubDate": "2026-07-28T21:16",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "C++ float-to-int conversion can be undefined behavior",
-        "link": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
-        "pubDate": "2026-07-30T03:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Inside Zig's Incremental Compilation",
-        "link": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-        "pubDate": "2026-07-28T14:14",
+        "title": "basebrowserproject",
+        "link": "https://mastodon.social/@sarahjamielewis/116965925134524215",
+        "pubDate": "2026-07-29T14:54",
         "feedId": "lobsters"
       }
     ]
