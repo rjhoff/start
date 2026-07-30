@@ -3,9 +3,57 @@
     "id": "hn",
     "items": [
       {
-        "title": "Europe's fires are just the start",
-        "link": "https://economist.com/leaders/2026/07/28/europes-fires-are-just-the-start",
-        "pubDate": "2026-07-30T13:55",
+        "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+        "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+        "pubDate": "2026-07-30T15:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Economic Benefit of Refactoring",
+        "link": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+        "pubDate": "2026-07-30T15:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "Paging Through a Parquet File in DuckDB: File_row_number or Offset?",
+        "link": "https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/",
+        "pubDate": "2026-07-30T14:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
+        "link": "https://github.com/n67094/sdl_gp",
+        "pubDate": "2026-07-30T14:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "Trusted URLs via Cryptographic Signatures",
+        "link": "https://blog.certisfy.com/2026/04/trusted-urls-via-cryptographic.html",
+        "pubDate": "2026-07-30T14:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "Hacker Public Radio",
+        "link": "https://hackerpublicradio.org/",
+        "pubDate": "2026-07-30T14:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Git worktrees are not an isolation boundary for coding agents",
+        "link": "https://fletch.sh/blog/git-worktrees-vs-clones-for-ai-agents/",
+        "pubDate": "2026-07-30T14:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why DNA damage from smoking and UV rays cause cancer in some but not others",
+        "link": "https://www.cam.ac.uk/research/news/study-reveals-why-dna-damage-from-smoking-and-uv-rays-may-cause-cancer-in-some-people-but-not-others",
+        "pubDate": "2026-07-30T14:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Lost Civic Life of Movie Rental Stores",
+        "link": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
+        "pubDate": "2026-07-30T14:11",
         "feedId": "hn"
       },
       {
@@ -15,21 +63,15 @@
         "feedId": "hn"
       },
       {
+        "title": "Upper stage impacting the moon on 2026 August 5",
+        "link": "https://www.projectpluto.com/25010d.htm",
+        "pubDate": "2026-07-30T13:21",
+        "feedId": "hn"
+      },
+      {
         "title": "RFC 8890 – The Internet is for End Users (2020)",
         "link": "https://mnot.net/blog/2020/for_the_users",
         "pubDate": "2026-07-30T13:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
-        "link": "https://remysharp.com/links/2026-07-23-35890312",
-        "pubDate": "2026-07-30T13:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Going beneath NTFS: USN Journal, dfir_NTFS, and artefact-driven investigations",
-        "link": "https://andreafortuna.org/2026/07/06/ntfs-forensics-deep-dive/",
-        "pubDate": "2026-07-30T12:49",
         "feedId": "hn"
       },
       {
@@ -39,57 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Why Don't People Use Formal Methods?",
+        "title": "Why Don't People Use Formal Methods? (2019)",
         "link": "https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/",
         "pubDate": "2026-07-30T12:21",
-        "feedId": "hn"
-      },
-      {
-        "title": "How Old Is Ann?",
-        "link": "https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/",
-        "pubDate": "2026-07-30T12:14",
         "feedId": "hn"
       },
       {
         "title": "CosmosEscape: Taking over Every Database in Azure Cosmos DB",
         "link": "https://www.wiz.io/blog/cosmosescape-taking-over-every-database-in-azure-cosmos-db",
         "pubDate": "2026-07-30T12:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
-        "link": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
-        "pubDate": "2026-07-30T12:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
-        "link": "https://github.com/grafana/ai-sdk",
-        "pubDate": "2026-07-30T11:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "Are We Stuck with Lean?",
-        "link": "https://mathoverflow.net/questions/513742/are-we-stuck-with-lean",
-        "pubDate": "2026-07-30T11:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "I made a game where you build a CPU from logic gates",
-        "link": "https://select.supply/game/chipbuilder",
-        "pubDate": "2026-07-30T11:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
-        "link": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
-        "pubDate": "2026-07-30T11:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "You can't solve computer use by ignoring the interface",
-        "link": "https://steelmanlabs.com/blog/computer-use-is-far-from-solved",
-        "pubDate": "2026-07-30T11:28",
         "feedId": "hn"
       }
     ]
@@ -128,6 +128,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Building Progressively Enhanced Forms Using htmx",
+        "link": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
+        "pubDate": "2026-07-30T12:17",
+        "feedId": "lobsters"
+      },
+      {
         "title": "First CHERIoT Silicon",
         "link": "https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html",
         "pubDate": "2026-07-29T18:11",
@@ -140,9 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Building Progressively Enhanced Forms Using htmx",
-        "link": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
-        "pubDate": "2026-07-30T12:17",
+        "title": "The AI Aesthetic",
+        "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+        "pubDate": "2026-07-30T13:57",
         "feedId": "lobsters"
       },
       {
@@ -164,21 +170,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The AI Aesthetic",
-        "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-        "pubDate": "2026-07-30T13:57",
+        "title": "A universal approach to mocking with continuations",
+        "link": "https://crowdhailer.me/2026-07-30/a-universal-approach-to-mocking/",
+        "pubDate": "2026-07-30T13:41",
         "feedId": "lobsters"
       },
       {
-        "title": "Setting timers in simple games (feat. the frame rule)",
-        "link": "https://lynn.github.io/blog/pico-timers/",
-        "pubDate": "2026-07-29T16:26",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A field day for Gleam’s language server | Gleam v.1.18.0 release",
-        "link": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
-        "pubDate": "2026-07-29T13:42",
+        "title": "KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066)",
+        "link": "https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066",
+        "pubDate": "2026-07-30T14:36",
         "feedId": "lobsters"
       },
       {
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "New MCP specification addresses the main barrier to enterprise adoption",
+        "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+        "pubDate": "2026-07-30T14:53",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
         "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
@@ -274,12 +280,6 @@
         "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
         "link": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
         "pubDate": "2026-07-29T11:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Elon Musk finally launches X Money. What could possibly go wrong?",
-        "link": "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/",
-        "pubDate": "2026-07-29T10:00",
         "feedId": "arstechnica"
       }
     ]
