@@ -3,13 +3,25 @@
     "id": "hn",
     "items": [
       {
+        "title": "Man seeks millions after being shot by police in game-related swatting incident",
+        "link": "https://www.tucsonsentinel.com/local/report/072926_melendez_swatting/man-seeks-millions-after-being-shot-by-pima-deputies-swatting-incident/",
+        "pubDate": "2026-07-30T20:44",
+        "feedId": "hn"
+      },
+      {
+        "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+        "link": "https://github.com/AminBlg/SimpleEnglish",
+        "pubDate": "2026-07-30T19:34",
+        "feedId": "hn"
+      },
+      {
         "title": "UEFA and its national associations will not participate in FIFA competitions",
         "link": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
         "pubDate": "2026-07-30T18:40",
         "feedId": "hn"
       },
       {
-        "title": "Postgres Queues Actually Scale",
+        "title": "Making Postgres queues scale",
         "link": "https://www.dbos.dev/blog/making-postgres-queues-scale",
         "pubDate": "2026-07-30T18:39",
         "feedId": "hn"
@@ -21,9 +33,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
-        "link": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
-        "pubDate": "2026-07-30T18:08",
+        "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+        "link": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+        "pubDate": "2026-07-30T18:13",
         "feedId": "hn"
       },
       {
@@ -51,7 +63,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Read This Before You Buy That TV Streaming Stick",
+        "title": "Read this before you buy that TV streaming stick",
         "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
         "pubDate": "2026-07-30T17:04",
         "feedId": "hn"
@@ -63,33 +75,21 @@
         "feedId": "hn"
       },
       {
-        "title": "How Olinia Turns Mexico's EV Ambition into Reality",
-        "link": "https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle",
-        "pubDate": "2026-07-30T16:36",
-        "feedId": "hn"
-      },
-      {
         "title": "Stacked PRs are now live on GitHub",
         "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
         "pubDate": "2026-07-30T16:26",
         "feedId": "hn"
       },
       {
+        "title": "Solving poker in custom WebGPU kernels",
+        "link": "https://phulin.me/blog/poker/",
+        "pubDate": "2026-07-30T15:38",
+        "feedId": "hn"
+      },
+      {
         "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
         "link": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
         "pubDate": "2026-07-30T15:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-        "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-        "pubDate": "2026-07-30T15:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Economic Benefit of Refactoring",
-        "link": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
-        "pubDate": "2026-07-30T15:10",
         "feedId": "hn"
       }
     ]
@@ -98,33 +98,9 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "C++ float-to-int conversion can be undefined behavior",
-        "link": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
-        "pubDate": "2026-07-30T03:47",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The AI Aesthetic",
         "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
         "pubDate": "2026-07-30T13:57",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "deskhop: Fast Desktop Switching Device",
-        "link": "https://github.com/hrvach/deskhop",
-        "pubDate": "2026-07-30T07:52",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What side projects have you enjoyed the most?",
-        "link": "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most",
-        "pubDate": "2026-07-30T01:40",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Building Progressively Enhanced Forms Using htmx",
-        "link": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
-        "pubDate": "2026-07-30T12:17",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +110,45 @@
         "feedId": "lobsters"
       },
       {
+        "title": "C++ float-to-int conversion can be undefined behavior",
+        "link": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
+        "pubDate": "2026-07-30T03:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "deskhop: Fast Desktop Switching Device",
+        "link": "https://github.com/hrvach/deskhop",
+        "pubDate": "2026-07-30T07:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Building Progressively Enhanced Forms Using htmx",
+        "link": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
+        "pubDate": "2026-07-30T12:17",
+        "feedId": "lobsters"
+      },
+      {
         "title": "A universal approach to mocking with continuations",
         "link": "https://crowdhailer.me/2026-07-30/a-universal-approach-to-mocking/",
         "pubDate": "2026-07-30T13:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What side projects have you enjoyed the most?",
+        "link": "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most",
+        "pubDate": "2026-07-30T01:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Progress toward compiling Linux with gccrs",
+        "link": "https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/",
+        "pubDate": "2026-07-30T18:06",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "GCC steering committee announces AI policy",
+        "link": "https://lwn.net/Articles/1086041/",
+        "pubDate": "2026-07-30T17:47",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Progress toward compiling Linux with gccrs",
-        "link": "https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/",
-        "pubDate": "2026-07-30T18:06",
+        "title": "Logic for Programmers",
+        "link": "https://logicforprogrammers.com/",
+        "pubDate": "2026-07-30T12:24",
         "feedId": "lobsters"
       },
       {
@@ -173,18 +185,6 @@
         "title": "The strain in your brain",
         "link": "https://anirudh.fi/strain",
         "pubDate": "2026-07-29T20:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Logic for Programmers",
-        "link": "https://logicforprogrammers.com/",
-        "pubDate": "2026-07-30T12:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Scaling NumPy on Free-Threaded Python",
-        "link": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
-        "pubDate": "2026-07-30T16:08",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Inside the $2 million effort to oust Rep. Andy Ogles in his Republican primary",
+        "link": "https://www.axios.com/2026/07/30/republican-primary-andy-ogles-super-pac",
+        "pubDate": "2026-07-30T19:40",
+        "feedId": "axios"
+      },
+      {
         "title": "U.S. sees progress toward deal to disarm Hamas, rebuild Gaza",
         "link": "https://www.axios.com/2026/07/30/hamas-weapons-gaza-deal-israel-board-peace",
         "pubDate": "2026-07-30T19:13",
@@ -333,12 +339,6 @@
         "title": "Iran war shows China role in setting the price of oil",
         "link": "https://www.axios.com/2026/07/30/china-oil-price-iran-power",
         "pubDate": "2026-07-30T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Inside the $2 million effort to oust Rep. Andy Ogles in his Republican primary",
-        "link": "https://www.axios.com/2026/07/30/republican-primary-andy-ogles-super-pac",
-        "pubDate": "2026-07-30T09:00",
         "feedId": "axios"
       },
       {
