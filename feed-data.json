@@ -3,6 +3,48 @@
     "id": "hn",
     "items": [
       {
+        "title": "UEFA and its national associations will not participate in FIFA competitions",
+        "link": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+        "pubDate": "2026-07-30T18:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "Postgres Queues Actually Scale",
+        "link": "https://www.dbos.dev/blog/making-postgres-queues-scale",
+        "pubDate": "2026-07-30T18:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "So you want to use plants to reduce CO₂",
+        "link": "https://dynomight.net/plants/",
+        "pubDate": "2026-07-30T18:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
+        "link": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
+        "pubDate": "2026-07-30T18:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Tally – check a spreadsheet's numbers against their source, in-browser",
+        "link": "https://tally.jiegou.ai/",
+        "pubDate": "2026-07-30T17:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "CodePen 2.0",
+        "link": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
+        "pubDate": "2026-07-30T17:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+        "link": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+        "pubDate": "2026-07-30T17:31",
+        "feedId": "hn"
+      },
+      {
         "title": "Advancing the price-performance frontier with GPT‑5.6",
         "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
         "pubDate": "2026-07-30T17:15",
@@ -27,9 +69,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Toot.community Is Shutting Down",
-        "link": "https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2",
-        "pubDate": "2026-07-30T16:33",
+        "title": "Stacked PRs are now live on GitHub",
+        "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+        "pubDate": "2026-07-30T16:26",
         "feedId": "hn"
       },
       {
@@ -48,48 +90,6 @@
         "title": "The Economic Benefit of Refactoring",
         "link": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
         "pubDate": "2026-07-30T15:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Claude-account – switch Claude Code accounts without logging in again",
-        "link": "https://github.com/hamzarehmandeveloper/claude-account",
-        "pubDate": "2026-07-30T14:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "Paging Through a Parquet File in DuckDB: File_row_number or Offset?",
-        "link": "https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/",
-        "pubDate": "2026-07-30T14:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
-        "link": "https://github.com/n67094/sdl_gp",
-        "pubDate": "2026-07-30T14:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "Reversing Abstractions: An Existential Crisis",
-        "link": "https://www.humprog.org/~stephen/blog/research/recovering-abstraction.html",
-        "pubDate": "2026-07-30T14:34",
-        "feedId": "hn"
-      },
-      {
-        "title": "Trusted URLs via Cryptographic Signatures",
-        "link": "https://blog.certisfy.com/2026/04/trusted-urls-via-cryptographic.html",
-        "pubDate": "2026-07-30T14:31",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hacker Public Radio",
-        "link": "https://hackerpublicradio.org/",
-        "pubDate": "2026-07-30T14:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
-        "link": "https://prized.dev",
-        "pubDate": "2026-07-30T13:29",
         "feedId": "hn"
       }
     ]
@@ -128,9 +128,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Stacked pull requests are now in public preview",
+        "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+        "pubDate": "2026-07-30T16:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A universal approach to mocking with continuations",
+        "link": "https://crowdhailer.me/2026-07-30/a-universal-approach-to-mocking/",
+        "pubDate": "2026-07-30T13:41",
+        "feedId": "lobsters"
+      },
+      {
         "title": "AI Mania Is Eviscerating Global Decision-Making",
         "link": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
         "pubDate": "2026-07-29T10:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Progress toward compiling Linux with gccrs",
+        "link": "https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/",
+        "pubDate": "2026-07-30T18:06",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A universal approach to mocking with continuations",
-        "link": "https://crowdhailer.me/2026-07-30/a-universal-approach-to-mocking/",
-        "pubDate": "2026-07-30T13:41",
+        "title": "KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066)",
+        "link": "https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066",
+        "pubDate": "2026-07-30T14:36",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Stacked pull requests are now in public preview",
-        "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-        "pubDate": "2026-07-30T16:52",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Overengineered calculator: Zig + QBE",
-        "link": "https://tomekw.com/overengineered-calculator-zig-qbe/",
-        "pubDate": "2026-07-29T13:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse",
-        "link": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
-        "pubDate": "2026-07-29T13:00",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Logic for Programmers",
         "link": "https://logicforprogrammers.com/",
         "pubDate": "2026-07-30T12:24",
         "feedId": "lobsters"
       },
       {
-        "title": "KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066)",
-        "link": "https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066",
-        "pubDate": "2026-07-30T14:36",
+        "title": "Scaling NumPy on Free-Threaded Python",
+        "link": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
+        "pubDate": "2026-07-30T16:08",
         "feedId": "lobsters"
       }
     ]
@@ -288,9 +288,27 @@
     "id": "axios",
     "items": [
       {
+        "title": "U.S. sees progress toward deal to disarm Hamas, rebuild Gaza",
+        "link": "https://www.axios.com/2026/07/30/hamas-weapons-gaza-deal-israel-board-peace",
+        "pubDate": "2026-07-30T19:13",
+        "feedId": "axios"
+      },
+      {
+        "title": "Bessent sets stage for Xi visit in high-level China talk",
+        "link": "https://www.axios.com/2026/07/30/bessent-xi-china-visit-trade-greer",
+        "pubDate": "2026-07-30T19:07",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump says he's open to delaying Blanche nomination over GOP defectors",
         "link": "https://www.axios.com/2026/07/30/trump-blanche-nomination-tillis-cornyn",
         "pubDate": "2026-07-30T16:39",
+        "feedId": "axios"
+      },
+      {
+        "title": "AI-focused hedge fund sells all of its stocks",
+        "link": "https://www.axios.com/2026/07/30/ai-hedge-fund-situational-awareness-citadel",
+        "pubDate": "2026-07-30T16:18",
         "feedId": "axios"
       },
       {
@@ -357,24 +375,6 @@
         "title": "Why profanity is having a f*cking moment",
         "link": "https://www.axios.com/2026/07/29/trump-political-swearing-voter-perceptions",
         "pubDate": "2026-07-29T20:45",
-        "feedId": "axios"
-      },
-      {
-        "title": "Fed leaves rates steady, with internal dissent",
-        "link": "https://www.axios.com/2026/07/29/fed-warsh-rates-inflation",
-        "pubDate": "2026-07-29T19:28",
-        "feedId": "axios"
-      },
-      {
-        "title": "Senate goes on record to oppose any possible pardon for Ghislaine Maxwell",
-        "link": "https://www.axios.com/2026/07/29/ghislaine-maxwell-jeffrey-epstein-senate-pardon",
-        "pubDate": "2026-07-29T18:44",
-        "feedId": "axios"
-      },
-      {
-        "title": "OpenAI launches free AI access program for academic researchers",
-        "link": "https://www.axios.com/2026/07/29/openai-academics-research-chatgpt-sol",
-        "pubDate": "2026-07-29T17:00",
         "feedId": "axios"
       }
     ]
