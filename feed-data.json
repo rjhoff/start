@@ -3,9 +3,33 @@
     "id": "hn",
     "items": [
       {
-        "title": "Sell Your AI Skills?",
-        "link": "https://capabase.ai/learn/sell-your-ai-skills",
-        "pubDate": "2026-07-30T00:01",
+        "title": "NSF pilots 4-year PhDs with industry research placements",
+        "link": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
+        "pubDate": "2026-07-30T02:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Kuna: Decompiler Development in the Age of Coding Agents",
+        "link": "https://noelo.org/blog/kuna-release/",
+        "pubDate": "2026-07-30T02:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "Flume Water Monitor 915 MHz Security Is Pretty Good",
+        "link": "https://waveformsecurity.com/blog/flume/",
+        "pubDate": "2026-07-30T01:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "Logic for Programmers",
+        "link": "https://logicforprogrammers.com/",
+        "pubDate": "2026-07-30T00:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: A local merge queue for parallel Claude Code agents",
+        "link": "https://github.com/funador/claude-code-merge-queue",
+        "pubDate": "2026-07-30T00:20",
         "feedId": "hn"
       },
       {
@@ -24,12 +48,6 @@
         "title": "LLM Honeypot",
         "link": "https://llm2human.pages.dev/",
         "pubDate": "2026-07-29T22:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "GitHub is the wrong shape for this new world",
-        "link": "https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world",
-        "pubDate": "2026-07-29T22:27",
         "feedId": "hn"
       },
       {
@@ -73,24 +91,6 @@
         "link": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
         "pubDate": "2026-07-29T18:57",
         "feedId": "hn"
-      },
-      {
-        "title": "How to think about software quality (2022)",
-        "link": "https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html",
-        "pubDate": "2026-07-29T18:42",
-        "feedId": "hn"
-      },
-      {
-        "title": "Turning a dumb AC unit smart (without losing my security deposit)",
-        "link": "https://prilik.com/blog/post/automating-ac-nyc/",
-        "pubDate": "2026-07-29T18:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "PgDog (YC P25) Is Hiring",
-        "link": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
-        "pubDate": "2026-07-29T17:01",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,15 +110,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "First CHERIoT Silicon",
+        "link": "https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html",
+        "pubDate": "2026-07-29T18:11",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Overengineered calculator: Zig + QBE",
         "link": "https://tomekw.com/overengineered-calculator-zig-qbe/",
         "pubDate": "2026-07-29T13:22",
         "feedId": "lobsters"
       },
       {
-        "title": "First CHERIoT Silicon",
-        "link": "https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html",
-        "pubDate": "2026-07-29T18:11",
+        "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse",
+        "link": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
+        "pubDate": "2026-07-29T13:00",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What side projects have you enjoyed the most?",
+        "link": "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most",
+        "pubDate": "2026-07-30T01:40",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse",
-        "link": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
-        "pubDate": "2026-07-29T13:00",
+        "title": "A field day for Gleam’s language server | Gleam v.1.18.0 release",
+        "link": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
+        "pubDate": "2026-07-29T13:42",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Inside Zig's Incremental Compilation",
-        "link": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-        "pubDate": "2026-07-28T14:14",
+        "title": "Setting timers in simple games (feat. the frame rule)",
+        "link": "https://lynn.github.io/blog/pico-timers/",
+        "pubDate": "2026-07-29T16:26",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A field day for Gleam’s language server | Gleam v.1.18.0 release",
-        "link": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
-        "pubDate": "2026-07-29T13:42",
+        "title": "C++ float-to-int conversion can be undefined behavior",
+        "link": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
+        "pubDate": "2026-07-30T03:47",
         "feedId": "lobsters"
       },
       {
-        "title": "Writing Toy Software Is A Joy (2025)",
-        "link": "https://blog.jsbarretto.com/post/software-is-joy",
-        "pubDate": "2026-07-29T05:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Setting timers in simple games (feat. the frame rule)",
-        "link": "https://lynn.github.io/blog/pico-timers/",
-        "pubDate": "2026-07-29T16:26",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Dark Night of Mathematics",
-        "link": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
-        "pubDate": "2026-07-29T12:35",
+        "title": "Inside Zig's Incremental Compilation",
+        "link": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+        "pubDate": "2026-07-28T14:14",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,24 @@
     "id": "axios",
     "items": [
       {
+        "title": "U.S. launches fresh airstrikes in Iran",
+        "link": "https://www.axios.com/2026/07/29/us-airstrikes-iran-trump-resume",
+        "pubDate": "2026-07-30T02:45",
+        "feedId": "axios"
+      },
+      {
+        "title": "Saudi defense minister holds urgent meeting with Trump after Iraq strikes",
+        "link": "https://www.axios.com/2026/07/29/saudi-arabia-iraq-strikes-vance-deescalation-iran",
+        "pubDate": "2026-07-30T00:55",
+        "feedId": "axios"
+      },
+      {
+        "title": "Thune-Trump tensions escalate as clock ticks on megabill 3.0",
+        "link": "https://www.axios.com/2026/07/29/senate-republicans-trump-john-thune-reconciliation",
+        "pubDate": "2026-07-29T23:42",
+        "feedId": "axios"
+      },
+      {
         "title": "Exclusive: Musk plans massive push for GOP in midterms",
         "link": "https://www.axios.com/2026/07/29/musk-pac-midterm-election",
         "pubDate": "2026-07-29T23:00",
@@ -297,12 +315,6 @@
         "title": "Why profanity is having a f*cking moment",
         "link": "https://www.axios.com/2026/07/29/trump-political-swearing-voter-perceptions",
         "pubDate": "2026-07-29T20:45",
-        "feedId": "axios"
-      },
-      {
-        "title": "Saudi defense minister holds urgent meeting with Vance after Iraq strikes",
-        "link": "https://www.axios.com/2026/07/29/saudi-arabia-iraq-strikes-vance-deescalation-iran",
-        "pubDate": "2026-07-29T20:19",
         "feedId": "axios"
       },
       {
@@ -363,18 +375,6 @@
         "title": "Thune's next nightmare",
         "link": "https://www.axios.com/2026/07/29/thunes-majority-leader-trump-conference-maga",
         "pubDate": "2026-07-29T09:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "Zelensky to Axios: Ukraine needs missile interceptors to head off winter disaster",
-        "link": "https://www.axios.com/2026/07/29/zelensky-axios-interview-putin-iran-war",
-        "pubDate": "2026-07-29T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Anthropic's lonely island",
-        "link": "https://www.axios.com/2026/07/29/anthropic-claude-open-models-ban-china",
-        "pubDate": "2026-07-29T09:15",
         "feedId": "axios"
       }
     ]
