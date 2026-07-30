@@ -3,9 +3,33 @@
     "id": "hn",
     "items": [
       {
-        "title": "Show HN: I think I made my own web version of minimalistic audacity",
-        "link": "https://github.com/askpext/HERTZ",
-        "pubDate": "2026-07-30T15:23",
+        "title": "Advancing the price-performance frontier with GPT‑5.6",
+        "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+        "pubDate": "2026-07-30T17:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "Read This Before You Buy That TV Streaming Stick",
+        "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+        "pubDate": "2026-07-30T17:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Rise Reforming (YC S26) Is Hiring",
+        "link": "https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer",
+        "pubDate": "2026-07-30T17:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "How Olinia Turns Mexico's EV Ambition into Reality",
+        "link": "https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle",
+        "pubDate": "2026-07-30T16:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "Toot.community Is Shutting Down",
+        "link": "https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2",
+        "pubDate": "2026-07-30T16:33",
         "feedId": "hn"
       },
       {
@@ -45,6 +69,12 @@
         "feedId": "hn"
       },
       {
+        "title": "Reversing Abstractions: An Existential Crisis",
+        "link": "https://www.humprog.org/~stephen/blog/research/recovering-abstraction.html",
+        "pubDate": "2026-07-30T14:34",
+        "feedId": "hn"
+      },
+      {
         "title": "Trusted URLs via Cryptographic Signatures",
         "link": "https://blog.certisfy.com/2026/04/trusted-urls-via-cryptographic.html",
         "pubDate": "2026-07-30T14:31",
@@ -57,39 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "The Lost Civic Life of Movie Rental Stores",
-        "link": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
-        "pubDate": "2026-07-30T14:11",
-        "feedId": "hn"
-      },
-      {
         "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
         "link": "https://prized.dev",
         "pubDate": "2026-07-30T13:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "Upper stage impacting the moon on 2026 August 5",
-        "link": "https://www.projectpluto.com/25010d.htm",
-        "pubDate": "2026-07-30T13:21",
-        "feedId": "hn"
-      },
-      {
-        "title": "RFC 8890 – The Internet is for End Users (2020)",
-        "link": "https://mnot.net/blog/2020/for_the_users",
-        "pubDate": "2026-07-30T13:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why Is Everyone Trying to Build a Solid-State Battery?",
-        "link": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
-        "pubDate": "2026-07-30T12:38",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why Don't People Use Formal Methods? (2019)",
-        "link": "https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/",
-        "pubDate": "2026-07-30T12:21",
         "feedId": "hn"
       }
     ]
@@ -104,6 +104,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "The AI Aesthetic",
+        "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+        "pubDate": "2026-07-30T13:57",
+        "feedId": "lobsters"
+      },
+      {
         "title": "deskhop: Fast Desktop Switching Device",
         "link": "https://github.com/hrvach/deskhop",
         "pubDate": "2026-07-30T07:52",
@@ -113,12 +119,6 @@
         "title": "What side projects have you enjoyed the most?",
         "link": "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most",
         "pubDate": "2026-07-30T01:40",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The AI Aesthetic",
-        "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-        "pubDate": "2026-07-30T13:57",
         "feedId": "lobsters"
       },
       {
@@ -140,21 +140,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "First CHERIoT Silicon",
-        "link": "https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html",
-        "pubDate": "2026-07-29T18:11",
-        "feedId": "lobsters"
-      },
-      {
         "title": "A universal approach to mocking with continuations",
         "link": "https://crowdhailer.me/2026-07-30/a-universal-approach-to-mocking/",
         "pubDate": "2026-07-30T13:41",
         "feedId": "lobsters"
       },
       {
+        "title": "First CHERIoT Silicon",
+        "link": "https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html",
+        "pubDate": "2026-07-29T18:11",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The strain in your brain",
         "link": "https://anirudh.fi/strain",
         "pubDate": "2026-07-29T20:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Stacked pull requests are now in public preview",
+        "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+        "pubDate": "2026-07-30T16:52",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Some notes about Anthropic’s new results",
-        "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-        "pubDate": "2026-07-29T14:28",
+        "title": "Logic for Programmers",
+        "link": "https://logicforprogrammers.com/",
+        "pubDate": "2026-07-30T12:24",
         "feedId": "lobsters"
       },
       {
         "title": "KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066)",
         "link": "https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066",
         "pubDate": "2026-07-30T14:36",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Logic for Programmers",
-        "link": "https://logicforprogrammers.com/",
-        "pubDate": "2026-07-30T12:24",
         "feedId": "lobsters"
       }
     ]
@@ -290,7 +290,7 @@
       {
         "title": "Trump says he's open to delaying Blanche nomination over GOP defectors",
         "link": "https://www.axios.com/2026/07/30/trump-blanche-nomination-tillis-cornyn",
-        "pubDate": "2026-07-30T16:01",
+        "pubDate": "2026-07-30T16:39",
         "feedId": "axios"
       },
       {
