@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+        "link": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+        "pubDate": "2026-07-30T12:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "GCC steering committee announces AI policy",
+        "link": "https://lwn.net/Articles/1086041/",
+        "pubDate": "2026-07-30T11:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
+        "pubDate": "2026-07-30T11:30",
+        "feedId": "hn"
+      },
+      {
         "title": "Gpiozero Flow",
         "link": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
         "pubDate": "2026-07-30T10:32",
@@ -24,12 +42,6 @@
         "title": "Carolina Cloud pays SOFR on unused prepaid credits",
         "link": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
         "pubDate": "2026-07-30T09:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tailscale with Mullvad leaks your DNS",
-        "link": "https://github.com/tailscale/tailscale/issues/9284",
-        "pubDate": "2026-07-30T08:45",
         "feedId": "hn"
       },
       {
@@ -69,12 +81,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
-        "link": "https://archive.org/details/mancomputerbyjoh0000john",
-        "pubDate": "2026-07-29T22:53",
-        "feedId": "hn"
-      },
-      {
         "title": "LLM Honeypot",
         "link": "https://llm2human.pages.dev/",
         "pubDate": "2026-07-29T22:51",
@@ -84,12 +90,6 @@
         "title": "AI's top startups are barely publishing their research",
         "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
         "pubDate": "2026-07-29T21:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Cold Email",
-        "link": "https://zachholman.com/posts/cold-email",
-        "pubDate": "2026-07-29T21:06",
         "feedId": "hn"
       }
     ]
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "AI Mania Is Eviscerating Global Decision-Making",
-        "link": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
-        "pubDate": "2026-07-29T10:42",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What side projects have you enjoyed the most?",
         "link": "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most",
         "pubDate": "2026-07-30T01:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "AI Mania Is Eviscerating Global Decision-Making",
+        "link": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+        "pubDate": "2026-07-29T10:42",
         "feedId": "lobsters"
       },
       {
@@ -134,6 +134,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "deskhop: Fast Desktop Switching Device",
+        "link": "https://github.com/hrvach/deskhop",
+        "pubDate": "2026-07-30T07:52",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Overengineered calculator: Zig + QBE",
         "link": "https://tomekw.com/overengineered-calculator-zig-qbe/",
         "pubDate": "2026-07-29T13:22",
@@ -149,12 +155,6 @@
         "title": "Some notes about Anthropic’s new results",
         "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
         "pubDate": "2026-07-29T14:28",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "deskhop: Fast Desktop Switching Device",
-        "link": "https://github.com/hrvach/deskhop",
-        "pubDate": "2026-07-30T07:52",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why Rocq is better than Lean for program verification",
-        "link": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
-        "pubDate": "2026-07-28T21:16",
+        "title": "Building Progressively Enhanced Forms Using htmx",
+        "link": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
+        "pubDate": "2026-07-30T12:17",
         "feedId": "lobsters"
       }
     ]
