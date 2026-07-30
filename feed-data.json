@@ -3,15 +3,69 @@
     "id": "hn",
     "items": [
       {
+        "title": "RFC 8890 – The Internet is for End Users (2020)",
+        "link": "https://mnot.net/blog/2020/for_the_users",
+        "pubDate": "2026-07-30T13:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why Is Everyone Trying to Build a Solid-State Battery?",
+        "link": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
+        "pubDate": "2026-07-30T12:38",
+        "feedId": "hn"
+      },
+      {
+        "title": "OpenJDK Interim Policy on Generative AI",
+        "link": "https://openjdk.org/legal/ai",
+        "pubDate": "2026-07-30T12:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why Don't People Use Formal Methods?",
+        "link": "https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/",
+        "pubDate": "2026-07-30T12:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "How Old Is Ann?",
+        "link": "https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/",
+        "pubDate": "2026-07-30T12:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "What it means for an API to be RESTful",
+        "link": "https://en.andros.dev/blog/9761fd2e/what-it-means-for-an-api-to-be-restful/",
+        "pubDate": "2026-07-30T12:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "CosmosEscape: Taking over Every Database in Azure Cosmos DB",
+        "link": "https://www.wiz.io/blog/cosmosescape-taking-over-every-database-in-azure-cosmos-db",
+        "pubDate": "2026-07-30T12:13",
+        "feedId": "hn"
+      },
+      {
         "title": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
         "link": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
         "pubDate": "2026-07-30T12:01",
         "feedId": "hn"
       },
       {
+        "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+        "link": "https://github.com/grafana/ai-sdk",
+        "pubDate": "2026-07-30T11:55",
+        "feedId": "hn"
+      },
+      {
         "title": "GCC steering committee announces AI policy",
         "link": "https://lwn.net/Articles/1086041/",
         "pubDate": "2026-07-30T11:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "I made a game where you build a CPU from logic gates",
+        "link": "https://select.supply/game/chipbuilder",
+        "pubDate": "2026-07-30T11:33",
         "feedId": "hn"
       },
       {
@@ -36,60 +90,6 @@
         "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
         "link": "https://github.com/YoanWai/agent-manager",
         "pubDate": "2026-07-30T09:34",
-        "feedId": "hn"
-      },
-      {
-        "title": "Carolina Cloud pays SOFR on unused prepaid credits",
-        "link": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
-        "pubDate": "2026-07-30T09:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Apple Calculator Language",
-        "link": "https://wadetregaskis.com/the-apple-calculator-language/",
-        "pubDate": "2026-07-30T08:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "Cisco FMC static credential vulnerability exploited as a zero-day",
-        "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-static-cred-BET3Cjh",
-        "pubDate": "2026-07-30T08:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ron Gilbert started production on Thimbleweed Park 2",
-        "link": "https://www.grumpygamer.com/twp2_announce/",
-        "pubDate": "2026-07-30T08:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kuna: Decompiler Development in the Age of Coding Agents",
-        "link": "https://noelo.org/blog/kuna-release/",
-        "pubDate": "2026-07-30T02:41",
-        "feedId": "hn"
-      },
-      {
-        "title": "Logic for Programmers",
-        "link": "https://logicforprogrammers.com/",
-        "pubDate": "2026-07-30T00:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Productivity Mirage",
-        "link": "https://frantic.im/mirage/",
-        "pubDate": "2026-07-29T23:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "LLM Honeypot",
-        "link": "https://llm2human.pages.dev/",
-        "pubDate": "2026-07-29T22:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI's top startups are barely publishing their research",
-        "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-        "pubDate": "2026-07-29T21:25",
         "feedId": "hn"
       }
     ]
@@ -128,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The strain in your brain",
-        "link": "https://anirudh.fi/strain",
-        "pubDate": "2026-07-29T20:22",
-        "feedId": "lobsters"
-      },
-      {
         "title": "deskhop: Fast Desktop Switching Device",
         "link": "https://github.com/hrvach/deskhop",
         "pubDate": "2026-07-30T07:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The strain in your brain",
+        "link": "https://anirudh.fi/strain",
+        "pubDate": "2026-07-29T20:22",
         "feedId": "lobsters"
       },
       {
@@ -158,6 +158,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Building Progressively Enhanced Forms Using htmx",
+        "link": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
+        "pubDate": "2026-07-30T12:17",
+        "feedId": "lobsters"
+      },
+      {
         "title": "A field day for Gleam’s language server | Gleam v.1.18.0 release",
         "link": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
         "pubDate": "2026-07-29T13:42",
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "PostgreSQL MVCC: tradeoffs compared to other engines",
-        "link": "https://boringsql.com/posts/mvcc-bad-bad/",
-        "pubDate": "2026-07-29T13:25",
+        "title": "The Difference Between a Button and a Link",
+        "link": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+        "pubDate": "2026-07-30T03:42",
         "feedId": "lobsters"
       },
       {
         "title": "basebrowserproject",
         "link": "https://mastodon.social/@sarahjamielewis/116965925134524215",
         "pubDate": "2026-07-29T14:54",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Building Progressively Enhanced Forms Using htmx",
-        "link": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
-        "pubDate": "2026-07-30T12:17",
         "feedId": "lobsters"
       }
     ]
@@ -288,15 +288,15 @@
     "id": "axios",
     "items": [
       {
-        "title": "Iran war shows China role in setting the price of oil",
-        "link": "https://www.axios.com/2026/07/30/china-oil-price-iran-power",
-        "pubDate": "2026-07-30T09:15",
+        "title": "Netanyahu confronts Vance over his criticism of Israeli government",
+        "link": "https://www.axios.com/2026/07/30/netanyahu-confronts-vance-over-his-criticism-of-israeli-government",
+        "pubDate": "2026-07-30T13:06",
         "feedId": "axios"
       },
       {
-        "title": "Netanyahu confronts Vance over his criticism of Israeli government",
-        "link": "https://www.axios.com/2026/07/30/netanyahu-confronts-vance-over-his-criticism-of-israeli-government",
-        "pubDate": "2026-07-30T09:00",
+        "title": "Iran war shows China role in setting the price of oil",
+        "link": "https://www.axios.com/2026/07/30/china-oil-price-iran-power",
+        "pubDate": "2026-07-30T09:15",
         "feedId": "axios"
       },
       {
