@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "Google will expand age checks on Android worldwide till the end of the year",
+        "link": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
+        "pubDate": "2026-07-30T10:13",
+        "feedId": "hn"
+      },
+      {
         "title": "Why the future is local app",
         "link": "https://getapps.cafe/blog/why-the-future-is-local-app",
         "pubDate": "2026-07-30T03:44",
@@ -85,12 +91,6 @@
         "link": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
         "pubDate": "2026-07-29T17:01",
         "feedId": "hn"
-      },
-      {
-        "title": "Show HN: CheapFoodMap – A map of good meals under $10",
-        "link": "https://cheapfoodmap.com/",
-        "pubDate": "2026-07-29T16:59",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,21 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "AI Mania Is Eviscerating Global Decision-Making",
-        "link": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
-        "pubDate": "2026-07-29T10:42",
+        "title": "What side projects have you enjoyed the most?",
+        "link": "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most",
+        "pubDate": "2026-07-30T01:40",
         "feedId": "lobsters"
       },
       {
         "title": "It doesn’t matter whether “Matz is nice”",
         "link": "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice",
         "pubDate": "2026-07-29T13:12",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What side projects have you enjoyed the most?",
-        "link": "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most",
-        "pubDate": "2026-07-30T01:40",
         "feedId": "lobsters"
       },
       {
@@ -134,21 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The strain in your brain",
-        "link": "https://anirudh.fi/strain",
-        "pubDate": "2026-07-29T20:22",
-        "feedId": "lobsters"
-      },
-      {
         "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse",
         "link": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
         "pubDate": "2026-07-29T13:00",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Some notes about Anthropic’s new results",
-        "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-        "pubDate": "2026-07-29T14:28",
         "feedId": "lobsters"
       },
       {
@@ -170,6 +152,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "basebrowserproject",
+        "link": "https://mastodon.social/@sarahjamielewis/116965925134524215",
+        "pubDate": "2026-07-29T14:54",
+        "feedId": "lobsters"
+      },
+      {
         "title": "User Interfaces of the Demo Scene",
         "link": "https://datagubbe.se/scenegui/",
         "pubDate": "2026-07-29T08:07",
@@ -182,9 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "basebrowserproject",
-        "link": "https://mastodon.social/@sarahjamielewis/116965925134524215",
-        "pubDate": "2026-07-29T14:54",
+        "title": "Inside Zig's Incremental Compilation",
+        "link": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+        "pubDate": "2026-07-28T14:14",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Difference Between a Button and a Link",
+        "link": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+        "pubDate": "2026-07-30T03:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Dark Night of Mathematics",
+        "link": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
+        "pubDate": "2026-07-29T12:35",
         "feedId": "lobsters"
       }
     ]
