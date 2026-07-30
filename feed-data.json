@@ -3,21 +3,9 @@
     "id": "hn",
     "items": [
       {
-        "title": "I Have Thoughts on the iPhone Air",
-        "link": "https://christianselig.com/2026/07/iphone-air-review/",
-        "pubDate": "2026-07-30T07:54",
-        "feedId": "hn"
-      },
-      {
         "title": "Why the future is local app",
         "link": "https://getapps.cafe/blog/why-the-future-is-local-app",
         "pubDate": "2026-07-30T03:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "NSF pilots 4-year PhDs with industry research placements",
-        "link": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
-        "pubDate": "2026-07-30T02:55",
         "feedId": "hn"
       },
       {
@@ -91,6 +79,18 @@
         "link": "https://prilik.com/blog/post/automating-ac-nyc/",
         "pubDate": "2026-07-29T18:28",
         "feedId": "hn"
+      },
+      {
+        "title": "PgDog (YC P25) Is Hiring",
+        "link": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
+        "pubDate": "2026-07-29T17:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: CheapFoodMap – A map of good meals under $10",
+        "link": "https://cheapfoodmap.com/",
+        "pubDate": "2026-07-29T16:59",
+        "feedId": "hn"
       }
     ]
   },
@@ -116,6 +116,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "What side projects have you enjoyed the most?",
+        "link": "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most",
+        "pubDate": "2026-07-30T01:40",
+        "feedId": "lobsters"
+      },
+      {
         "title": "First CHERIoT Silicon",
         "link": "https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html",
         "pubDate": "2026-07-29T18:11",
@@ -128,21 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What side projects have you enjoyed the most?",
-        "link": "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most",
-        "pubDate": "2026-07-30T01:40",
+        "title": "The strain in your brain",
+        "link": "https://anirudh.fi/strain",
+        "pubDate": "2026-07-29T20:22",
         "feedId": "lobsters"
       },
       {
         "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse",
         "link": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
         "pubDate": "2026-07-29T13:00",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The strain in your brain",
-        "link": "https://anirudh.fi/strain",
-        "pubDate": "2026-07-29T20:22",
         "feedId": "lobsters"
       },
       {
@@ -288,6 +288,30 @@
     "id": "axios",
     "items": [
       {
+        "title": "Iran war shows China role in setting the price of oil",
+        "link": "https://www.axios.com/2026/07/30/china-oil-price-iran-power",
+        "pubDate": "2026-07-30T09:15",
+        "feedId": "axios"
+      },
+      {
+        "title": "Netanyahu confronts Vance over his criticism of Israeli government",
+        "link": "https://www.axios.com/2026/07/30/netanyahu-confronts-vance-over-his-criticism-of-israeli-government",
+        "pubDate": "2026-07-30T09:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "Inside the $2 million effort to oust Rep. Andy Ogles in his Republican primary",
+        "link": "https://www.axios.com/2026/07/30/republican-primary-andy-ogles-super-pac",
+        "pubDate": "2026-07-30T09:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "AI labs face prisoner's dilemma as momentum grows for safety slowdown",
+        "link": "https://www.axios.com/2026/07/30/ai-safety-slowdown-anthropic-openai",
+        "pubDate": "2026-07-30T09:00",
+        "feedId": "axios"
+      },
+      {
         "title": "U.S. launches fresh airstrikes in Iran",
         "link": "https://www.axios.com/2026/07/29/us-airstrikes-iran-trump-resume",
         "pubDate": "2026-07-30T02:45",
@@ -351,30 +375,6 @@
         "title": "Why AI makes central banking tougher",
         "link": "https://www.axios.com/2026/07/29/ai-central-banking-bis",
         "pubDate": "2026-07-29T16:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "Fauci faces contempt vote after invoking Fifth Amendment in Senate hearing",
-        "link": "https://www.axios.com/2026/07/29/anthony-fauci-fifth-amendment-covid-hearing-paul",
-        "pubDate": "2026-07-29T15:37",
-        "feedId": "axios"
-      },
-      {
-        "title": "Supreme Court joins Trump, Congress in job approval slump",
-        "link": "https://www.axios.com/2026/07/29/supreme-court-congress-trump-approval-ratings",
-        "pubDate": "2026-07-29T14:21",
-        "feedId": "axios"
-      },
-      {
-        "title": "Cyclospora exposes weak links in America's food safety system",
-        "link": "https://www.axios.com/2026/07/29/cyclospora-lettuce-outbreak-food-safety-threat",
-        "pubDate": "2026-07-29T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Thune's next nightmare",
-        "link": "https://www.axios.com/2026/07/29/thunes-majority-leader-trump-conference-maga",
-        "pubDate": "2026-07-29T09:20",
         "feedId": "axios"
       }
     ]
