@@ -3,9 +3,27 @@
     "id": "hn",
     "items": [
       {
-        "title": "Man seeks millions after being shot by police in game-related swatting incident",
-        "link": "https://www.tucsonsentinel.com/local/report/072926_melendez_swatting/man-seeks-millions-after-being-shot-by-pima-deputies-swatting-incident/",
-        "pubDate": "2026-07-30T20:44",
+        "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+        "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+        "pubDate": "2026-07-30T23:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "I flagged two research papers for fake authors and both were accepted as orals",
+        "link": "https://geospatialml.com/posts/reviewing-ai-slop/",
+        "pubDate": "2026-07-30T22:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+        "link": "https://rune.build/blog/rune-1-1-release",
+        "pubDate": "2026-07-30T21:47",
+        "feedId": "hn"
+      },
+      {
+        "title": "Saber-toothed cats became inbred–and struggled to move–before they went extinct",
+        "link": "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct",
+        "pubDate": "2026-07-30T21:31",
         "feedId": "hn"
       },
       {
@@ -27,21 +45,9 @@
         "feedId": "hn"
       },
       {
-        "title": "So you want to use plants to reduce CO₂",
-        "link": "https://dynomight.net/plants/",
-        "pubDate": "2026-07-30T18:31",
-        "feedId": "hn"
-      },
-      {
         "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
         "link": "https://www.ctgt.ai/research/distillation-censorship-transfer",
         "pubDate": "2026-07-30T18:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Tally – check a spreadsheet's numbers against their source, in-browser",
-        "link": "https://tally.jiegou.ai/",
-        "pubDate": "2026-07-30T17:55",
         "feedId": "hn"
       },
       {
@@ -85,12 +91,6 @@
         "link": "https://phulin.me/blog/poker/",
         "pubDate": "2026-07-30T15:38",
         "feedId": "hn"
-      },
-      {
-        "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
-        "link": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
-        "pubDate": "2026-07-30T15:22",
-        "feedId": "hn"
       }
     ]
   },
@@ -113,6 +113,18 @@
         "title": "C++ float-to-int conversion can be undefined behavior",
         "link": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
         "pubDate": "2026-07-30T03:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Progress toward compiling Linux with gccrs",
+        "link": "https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/",
+        "pubDate": "2026-07-30T18:06",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "You have been mislead about lightbulbs",
+        "link": "https://maurycyz.com/misc/tungsten/",
+        "pubDate": "2026-07-30T21:02",
         "feedId": "lobsters"
       },
       {
@@ -140,12 +152,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Progress toward compiling Linux with gccrs",
-        "link": "https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/",
-        "pubDate": "2026-07-30T18:06",
-        "feedId": "lobsters"
-      },
-      {
         "title": "GCC steering committee announces AI policy",
         "link": "https://lwn.net/Articles/1086041/",
         "pubDate": "2026-07-30T17:47",
@@ -164,27 +170,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Scaling NumPy on Free-Threaded Python",
+        "link": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
+        "pubDate": "2026-07-30T16:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "std.Io.Writer.Allocating ate all my memory",
+        "link": "https://www.openmymind.net/std-io-writer-allocating-ate-my-memory/",
+        "pubDate": "2026-07-30T19:19",
+        "feedId": "lobsters"
+      },
+      {
         "title": "It doesn’t matter whether “Matz is nice”",
         "link": "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice",
         "pubDate": "2026-07-29T13:12",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066)",
-        "link": "https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066",
-        "pubDate": "2026-07-30T14:36",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "First CHERIoT Silicon",
-        "link": "https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html",
-        "pubDate": "2026-07-29T18:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The strain in your brain",
-        "link": "https://anirudh.fi/strain",
-        "pubDate": "2026-07-29T20:22",
         "feedId": "lobsters"
       }
     ]
@@ -288,15 +288,21 @@
     "id": "axios",
     "items": [
       {
-        "title": "Inside the $2 million effort to oust Rep. Andy Ogles in his Republican primary",
-        "link": "https://www.axios.com/2026/07/30/republican-primary-andy-ogles-super-pac",
-        "pubDate": "2026-07-30T19:40",
+        "title": "Trump touts \"historic\" agreement to disarm Hamas, rebuild Gaza",
+        "link": "https://www.axios.com/2026/07/30/hamas-weapons-gaza-deal-israel-board-peace",
+        "pubDate": "2026-07-30T22:36",
         "feedId": "axios"
       },
       {
-        "title": "U.S. sees progress toward deal to disarm Hamas, rebuild Gaza",
-        "link": "https://www.axios.com/2026/07/30/hamas-weapons-gaza-deal-israel-board-peace",
-        "pubDate": "2026-07-30T19:13",
+        "title": "Tim Cook says Apple may charge for AI Siri",
+        "link": "https://www.axios.com/2026/07/30/tim-cook-apple-may-charge-for-ai-siri",
+        "pubDate": "2026-07-30T22:10",
+        "feedId": "axios"
+      },
+      {
+        "title": "Inside the $2 million effort to oust Rep. Andy Ogles in his Republican primary",
+        "link": "https://www.axios.com/2026/07/30/republican-primary-andy-ogles-super-pac",
+        "pubDate": "2026-07-30T19:40",
         "feedId": "axios"
       },
       {
@@ -369,12 +375,6 @@
         "title": "Exclusive: Musk plans massive push for GOP in midterms",
         "link": "https://www.axios.com/2026/07/29/musk-pac-midterm-election",
         "pubDate": "2026-07-29T23:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Why profanity is having a f*cking moment",
-        "link": "https://www.axios.com/2026/07/29/trump-political-swearing-voter-perceptions",
-        "pubDate": "2026-07-29T20:45",
         "feedId": "axios"
       }
     ]
