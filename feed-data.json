@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "Ruby Central's Destructive Legacy",
+        "link": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
+        "pubDate": "2026-07-31T12:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+        "link": "https://tasklet.ai/careers/customer-success-engineer",
+        "pubDate": "2026-07-31T12:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "The End of an Era",
+        "link": "https://hughhowey.com/the-end-of-an-era/",
+        "pubDate": "2026-07-31T11:51",
+        "feedId": "hn"
+      },
+      {
         "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
         "link": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
         "pubDate": "2026-07-31T07:59",
@@ -27,12 +45,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: What should the GUI for AI agents look like?",
-        "link": "https://marbleos.com/demo",
-        "pubDate": "2026-07-31T05:17",
-        "feedId": "hn"
-      },
-      {
         "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
         "link": "https://github.com/openjdk/jdk/pull/31120",
         "pubDate": "2026-07-31T04:38",
@@ -48,6 +60,12 @@
         "title": "The Religion of Speed",
         "link": "https://graybeard.ing/the-religion-of-speed/",
         "pubDate": "2026-07-30T23:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Premier league bans gambling sponsors",
+        "link": "https://www.footyheadlines.com/2646571793/betting-ban-takes-effect-no-more-gambling-sponsors-in-the-premier-league.html",
+        "pubDate": "2026-07-30T23:40",
         "feedId": "hn"
       },
       {
@@ -69,27 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Saber-toothed cats became inbred–and struggled to move–before they went extinct",
-        "link": "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct",
-        "pubDate": "2026-07-30T21:31",
-        "feedId": "hn"
-      },
-      {
         "title": "UEFA and its national associations will not participate in FIFA competitions",
         "link": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
         "pubDate": "2026-07-30T18:40",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-        "link": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-        "pubDate": "2026-07-30T18:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "CodePen 2.0",
-        "link": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
-        "pubDate": "2026-07-30T17:52",
         "feedId": "hn"
       }
     ]
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "A question about a factorial operator",
-        "link": "https://lobste.rs/s/itp1nm/question_about_factorial_operator",
-        "pubDate": "2026-07-31T05:05",
-        "feedId": "lobsters"
-      },
-      {
         "title": "How to speed up the Rust compiler in July 2026",
         "link": "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html",
         "pubDate": "2026-07-31T05:46",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A question about a factorial operator",
+        "link": "https://lobste.rs/s/itp1nm/question_about_factorial_operator",
+        "pubDate": "2026-07-31T05:05",
         "feedId": "lobsters"
       },
       {
@@ -122,15 +122,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Progress toward compiling Linux with gccrs",
-        "link": "https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/",
-        "pubDate": "2026-07-30T18:06",
+        "title": "Stripe Just Wants a Number",
+        "link": "https://blog.exe.dev/billable-facts",
+        "pubDate": "2026-07-31T10:36",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Go 1.27 interactive tour",
+        "link": "https://victoriametrics.com/blog/go-1-27/",
+        "pubDate": "2026-07-31T11:15",
         "feedId": "lobsters"
       },
       {
         "title": "Correlated RNG",
         "link": "https://knivesforcats.online/correlated-rng/",
         "pubDate": "2026-07-31T03:25",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Progress toward compiling Linux with gccrs",
+        "link": "https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/",
+        "pubDate": "2026-07-30T18:06",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Full flattening of nested data parallelism",
+        "link": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
+        "pubDate": "2026-07-31T09:37",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Full flattening of nested data parallelism",
-        "link": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
-        "pubDate": "2026-07-31T09:37",
+        "title": "Private data in ATProto: Permissioned Data Proposal",
+        "link": "https://github.com/bluesky-social/proposals/tree/main/0016-permissioned-data",
+        "pubDate": "2026-07-31T04:48",
         "feedId": "lobsters"
       },
       {
         "title": "What side projects have you enjoyed the most?",
         "link": "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most",
         "pubDate": "2026-07-30T01:40",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "C64 Demo Effects Explained: Rodents In The Attic",
-        "link": "https://youtu.be/uZ1atMUOUMU",
-        "pubDate": "2026-07-31T02:46",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Stripe Just Wants a Number",
-        "link": "https://blog.exe.dev/billable-facts",
-        "pubDate": "2026-07-31T10:36",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A universal approach to mocking with continuations",
-        "link": "https://crowdhailer.me/2026-07-30/a-universal-approach-to-mocking/",
-        "pubDate": "2026-07-30T13:41",
         "feedId": "lobsters"
       }
     ]
