@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "The Religion of Speed",
+        "link": "https://graybeard.ing/the-religion-of-speed/",
+        "pubDate": "2026-07-30T23:43",
+        "feedId": "hn"
+      },
+      {
         "title": "The AI Aesthetic",
         "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
         "pubDate": "2026-07-30T23:22",
@@ -42,12 +48,6 @@
         "title": "UEFA and its national associations will not participate in FIFA competitions",
         "link": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
         "pubDate": "2026-07-30T18:40",
-        "feedId": "hn"
-      },
-      {
-        "title": "Making Postgres queues scale",
-        "link": "https://www.dbos.dev/blog/making-postgres-queues-scale",
-        "pubDate": "2026-07-30T18:39",
         "feedId": "hn"
       },
       {
@@ -116,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "C++ float-to-int conversion can be undefined behavior",
-        "link": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
-        "pubDate": "2026-07-30T03:47",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Progress toward compiling Linux with gccrs",
         "link": "https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/",
         "pubDate": "2026-07-30T18:06",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "C++ float-to-int conversion can be undefined behavior",
+        "link": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
+        "pubDate": "2026-07-30T03:47",
         "feedId": "lobsters"
       },
       {
@@ -294,6 +294,18 @@
         "feedId": "axios"
       },
       {
+        "title": "Inside Trump's Senate playbook",
+        "link": "https://www.axios.com/2026/07/30/trump-senate-republicans-midterms-save-act",
+        "pubDate": "2026-07-30T23:44",
+        "feedId": "axios"
+      },
+      {
+        "title": "Anthropic says three Claude models reached real-world systems during cyber tests",
+        "link": "https://www.axios.com/2026/07/30/anthropic-mythos-security-testing",
+        "pubDate": "2026-07-30T23:00",
+        "feedId": "axios"
+      },
+      {
         "title": "Tim Cook says Apple may charge for AI Siri",
         "link": "https://www.axios.com/2026/07/30/tim-cook-apple-may-charge-for-ai-siri",
         "pubDate": "2026-07-30T22:10",
@@ -363,18 +375,6 @@
         "title": "Saudi defense minister holds urgent meeting with Trump after Iraq strikes",
         "link": "https://www.axios.com/2026/07/29/saudi-arabia-iraq-strikes-vance-deescalation-iran",
         "pubDate": "2026-07-30T00:55",
-        "feedId": "axios"
-      },
-      {
-        "title": "Thune-Trump tensions escalate as clock ticks on megabill 3.0",
-        "link": "https://www.axios.com/2026/07/29/senate-republicans-trump-john-thune-reconciliation",
-        "pubDate": "2026-07-29T23:42",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: Musk plans massive push for GOP in midterms",
-        "link": "https://www.axios.com/2026/07/29/musk-pac-midterm-election",
-        "pubDate": "2026-07-29T23:00",
         "feedId": "axios"
       }
     ]
