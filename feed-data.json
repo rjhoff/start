@@ -9,12 +9,6 @@
         "feedId": "hn"
       },
       {
-        "title": "AI companies destroy rare and non recoverable physical books",
-        "link": "https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/",
-        "pubDate": "2026-07-31T19:01",
-        "feedId": "hn"
-      },
-      {
         "title": "Golang proposal: container/: generic collection types",
         "link": "https://github.com/golang/go/issues/80590",
         "pubDate": "2026-07-31T18:39",
@@ -39,6 +33,12 @@
         "feedId": "hn"
       },
       {
+        "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+        "link": "https://servo.org/blog/2026/07/31/june-in-servo/",
+        "pubDate": "2026-07-31T18:17",
+        "feedId": "hn"
+      },
+      {
         "title": "Everyone is building LLM routers, we deprecated ours",
         "link": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
         "pubDate": "2026-07-31T18:06",
@@ -51,12 +51,6 @@
         "feedId": "hn"
       },
       {
-        "title": "AFC Stands in Solidarity with UEFA and Concacaf to Protect the FIFA World Cup",
-        "link": "https://www.the-afc.com/en/more/afc_news.html/news/afc-stands-in-solidarity-with-uefa-and-concacaf-to-protect-the-fifa-world-cup",
-        "pubDate": "2026-07-31T17:33",
-        "feedId": "hn"
-      },
-      {
         "title": "Severance",
         "link": "https://lcamtuf.substack.com/p/severance",
         "pubDate": "2026-07-31T17:15",
@@ -66,6 +60,12 @@
         "title": "Miso (YC S16) is hiring for U.S. expansion",
         "link": "https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion",
         "pubDate": "2026-07-31T17:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Dario Amodei's stance on open weights is self-serving and short-sighted",
+        "link": "https://janilowski.pl/en/blog/2026/amodei-memo/",
+        "pubDate": "2026-07-31T16:24",
         "feedId": "hn"
       },
       {
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why I forked rand",
-        "link": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
-        "pubDate": "2026-07-31T15:02",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Ruby Central's Destructive Legacy",
         "link": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
         "pubDate": "2026-07-31T14:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why I forked rand",
+        "link": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
+        "pubDate": "2026-07-31T15:02",
         "feedId": "lobsters"
       },
       {
@@ -128,21 +128,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Full flattening of nested data parallelism",
-        "link": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
-        "pubDate": "2026-07-31T09:37",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Guix shell now inside Emacs",
         "link": "https://tusharhero.codeberg.page/guix-shell-in-emacs.html",
         "pubDate": "2026-07-31T17:58",
         "feedId": "lobsters"
       },
       {
-        "title": "what the double-fork?",
-        "link": "https://bower.sh/what-the-double-fork",
-        "pubDate": "2026-07-31T13:46",
+        "title": "Full flattening of nested data parallelism",
+        "link": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
+        "pubDate": "2026-07-31T09:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Wheels We Keep Reinventing",
+        "link": "https://blainsmith.com/articles/reinventing-the-wheel/",
+        "pubDate": "2026-07-31T17:48",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Correlated RNG",
-        "link": "https://knivesforcats.online/correlated-rng/",
-        "pubDate": "2026-07-31T03:25",
+        "title": "what the double-fork?",
+        "link": "https://bower.sh/what-the-double-fork",
+        "pubDate": "2026-07-31T13:46",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The AI Aesthetic",
-        "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-        "pubDate": "2026-07-30T13:57",
+        "title": "Accepting a messy git history",
+        "link": "https://beza1e1.tuxen.de/git_two_users.html",
+        "pubDate": "2026-07-31T18:27",
         "feedId": "lobsters"
       },
       {
-        "title": "Progress toward compiling Linux with gccrs",
-        "link": "https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/",
-        "pubDate": "2026-07-30T18:06",
+        "title": "Correlated RNG",
+        "link": "https://knivesforcats.online/correlated-rng/",
+        "pubDate": "2026-07-31T03:25",
         "feedId": "lobsters"
       },
       {
-        "title": "Stacked pull requests are now in public preview",
-        "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-        "pubDate": "2026-07-30T16:52",
+        "title": "The State of Chez Scheme in Debian",
+        "link": "https://weinholt.se/articles/state-of-chezscheme-in-debian/",
+        "pubDate": "2026-07-31T16:54",
         "feedId": "lobsters"
       }
     ]
