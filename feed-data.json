@@ -3,33 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "Online Friends Are Real Friends",
-        "link": "https://toska.bearblog.dev/re-online-friends-are-real-friends/",
-        "pubDate": "2026-07-31T16:07",
+        "title": "Miso (YC S16) is hiring for U.S. expansion",
+        "link": "https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion",
+        "pubDate": "2026-07-31T17:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+        "link": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+        "pubDate": "2026-07-31T16:15",
         "feedId": "hn"
       },
       {
         "title": "Big Food vs. the People",
         "link": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
         "pubDate": "2026-07-31T16:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "US Government lists fictional nation Wakanda as trade partner",
-        "link": "https://www.bbc.com/news/world-us-canada-50849559",
-        "pubDate": "2026-07-31T16:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "Dubious research tied to Red Bull has shaped energy drink policy",
-        "link": "https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol",
-        "pubDate": "2026-07-31T15:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
-        "link": "https://uml.gpmai.workers.dev",
-        "pubDate": "2026-07-31T15:58",
         "feedId": "hn"
       },
       {
@@ -51,19 +39,13 @@
         "feedId": "hn"
       },
       {
-        "title": "Make Everything to Markdown",
-        "link": "https://klartext.it-handwerk-stuttgart.de/",
-        "pubDate": "2026-07-31T15:35",
-        "feedId": "hn"
-      },
-      {
         "title": "New Defcon Badges Pack a Unique Open-Source Chip That Doubles as a Security Key",
         "link": "https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/",
         "pubDate": "2026-07-31T15:33",
         "feedId": "hn"
       },
       {
-        "title": "Is AI Reasoning Right for the Wrong Reasons?",
+        "title": "Is AI reasoning right for the wrong reasons?",
         "link": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
         "pubDate": "2026-07-31T15:29",
         "feedId": "hn"
@@ -75,21 +57,39 @@
         "feedId": "hn"
       },
       {
-        "title": "Admin: Terminally Ill Patients Aren't Exempt from Medicaid Work Requirements",
-        "link": "https://www.commondreams.org/news/trump-medicaid-work-requirements-2677293170",
-        "pubDate": "2026-07-31T15:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "Where .env Went Wrong",
-        "link": "https://secretspec.dev/blog/where-env-went-wrong/",
-        "pubDate": "2026-07-31T15:24",
-        "feedId": "hn"
-      },
-      {
         "title": "Elevators",
         "link": "https://john.fun/elevators",
         "pubDate": "2026-07-31T15:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "The most official water costs $120k a gallon",
+        "link": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
+        "pubDate": "2026-07-31T15:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: I built a cross-browser extension that controls fingerprinting surfaces",
+        "link": "https://privacything.com/en/",
+        "pubDate": "2026-07-31T14:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: BitBang – Reach machines behind NAT from a browser, no account",
+        "link": "https://github.com/richlegrand/bitbang-cli",
+        "pubDate": "2026-07-31T14:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "Arch Linux disables AUR package adoption",
+        "link": "https://lwn.net/Articles/1086489/",
+        "pubDate": "2026-07-31T13:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "The C ``Clockwise/Spiral Rule''",
+        "link": "https://c-faq.com/decl/spiral.anderson.html",
+        "pubDate": "2026-07-31T13:56",
         "feedId": "hn"
       }
     ]
@@ -122,6 +122,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Why I forked rand",
+        "link": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
+        "pubDate": "2026-07-31T15:02",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Full flattening of nested data parallelism",
         "link": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
         "pubDate": "2026-07-31T09:37",
@@ -131,12 +137,6 @@
         "title": "A question about a factorial operator",
         "link": "https://lobste.rs/s/itp1nm/question_about_factorial_operator",
         "pubDate": "2026-07-31T05:05",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why I forked rand",
-        "link": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
-        "pubDate": "2026-07-31T15:02",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +152,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Stacked pull requests are now in public preview",
-        "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-        "pubDate": "2026-07-30T16:52",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Progress toward compiling Linux with gccrs",
         "link": "https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/",
         "pubDate": "2026-07-30T18:06",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Stacked pull requests are now in public preview",
+        "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+        "pubDate": "2026-07-30T16:52",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "GCC steering committee announces AI policy",
-        "link": "https://lwn.net/Articles/1086041/",
-        "pubDate": "2026-07-30T17:47",
+        "title": "The State of Chez Scheme in Debian",
+        "link": "https://weinholt.se/articles/state-of-chezscheme-in-debian/",
+        "pubDate": "2026-07-31T16:54",
         "feedId": "lobsters"
       },
       {
-        "title": "Private data in ATProto: Permissioned Data Proposal",
-        "link": "https://github.com/bluesky-social/proposals/tree/main/0016-permissioned-data",
-        "pubDate": "2026-07-31T04:48",
+        "title": "Where .env Went Wrong",
+        "link": "https://secretspec.dev/blog/where-env-went-wrong/",
+        "pubDate": "2026-07-31T15:44",
         "feedId": "lobsters"
       }
     ]
