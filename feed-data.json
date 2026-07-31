@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "It doesn’t matter whether “Matz is nice”",
-        "link": "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice",
-        "pubDate": "2026-07-29T13:12",
+        "title": "KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066)",
+        "link": "https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066",
+        "pubDate": "2026-07-30T14:36",
         "feedId": "lobsters"
       }
     ]
