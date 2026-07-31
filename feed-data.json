@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "The AI Aesthetic",
+        "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+        "pubDate": "2026-07-30T23:22",
+        "feedId": "hn"
+      },
+      {
         "title": "Investigating three real-world incidents in our cybersecurity evaluations",
         "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
         "pubDate": "2026-07-30T23:00",
@@ -85,12 +91,6 @@
         "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
         "pubDate": "2026-07-30T16:26",
         "feedId": "hn"
-      },
-      {
-        "title": "Solving poker in custom WebGPU kernels",
-        "link": "https://phulin.me/blog/poker/",
-        "pubDate": "2026-07-30T15:38",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,6 +110,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "You have been mislead about lightbulbs",
+        "link": "https://maurycyz.com/misc/tungsten/",
+        "pubDate": "2026-07-30T21:02",
+        "feedId": "lobsters"
+      },
+      {
         "title": "C++ float-to-int conversion can be undefined behavior",
         "link": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
         "pubDate": "2026-07-30T03:47",
@@ -119,12 +125,6 @@
         "title": "Progress toward compiling Linux with gccrs",
         "link": "https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/",
         "pubDate": "2026-07-30T18:06",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "You have been mislead about lightbulbs",
-        "link": "https://maurycyz.com/misc/tungsten/",
-        "pubDate": "2026-07-30T21:02",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A universal approach to mocking with continuations",
-        "link": "https://crowdhailer.me/2026-07-30/a-universal-approach-to-mocking/",
-        "pubDate": "2026-07-30T13:41",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What side projects have you enjoyed the most?",
         "link": "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most",
         "pubDate": "2026-07-30T01:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A universal approach to mocking with continuations",
+        "link": "https://crowdhailer.me/2026-07-30/a-universal-approach-to-mocking/",
+        "pubDate": "2026-07-30T13:41",
         "feedId": "lobsters"
       },
       {
@@ -158,27 +158,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "AI Mania Is Eviscerating Global Decision-Making",
-        "link": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
-        "pubDate": "2026-07-29T10:42",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Logic for Programmers",
         "link": "https://logicforprogrammers.com/",
         "pubDate": "2026-07-30T12:24",
         "feedId": "lobsters"
       },
       {
-        "title": "Scaling NumPy on Free-Threaded Python",
-        "link": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
-        "pubDate": "2026-07-30T16:08",
-        "feedId": "lobsters"
-      },
-      {
         "title": "std.Io.Writer.Allocating ate all my memory",
         "link": "https://www.openmymind.net/std-io-writer-allocating-ate-my-memory/",
         "pubDate": "2026-07-30T19:19",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "AI Mania Is Eviscerating Global Decision-Making",
+        "link": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+        "pubDate": "2026-07-29T10:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Scaling NumPy on Free-Threaded Python",
+        "link": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
+        "pubDate": "2026-07-30T16:08",
         "feedId": "lobsters"
       },
       {
@@ -290,7 +290,7 @@
       {
         "title": "Trump touts \"historic\" agreement to disarm Hamas, rebuild Gaza",
         "link": "https://www.axios.com/2026/07/30/hamas-weapons-gaza-deal-israel-board-peace",
-        "pubDate": "2026-07-30T22:36",
+        "pubDate": "2026-07-31T00:30",
         "feedId": "axios"
       },
       {
