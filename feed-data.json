@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "Loops (YC W22) Is Hiring a Product Educator",
+        "link": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
+        "pubDate": "2026-07-31T21:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+        "link": "https://arxiv.org/abs/2607.28233",
+        "pubDate": "2026-07-31T20:44",
+        "feedId": "hn"
+      },
+      {
+        "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+        "link": "https://jwlabs.vercel.app/post/biting-the-bullet",
+        "pubDate": "2026-07-31T19:55",
+        "feedId": "hn"
+      },
+      {
         "title": "Tailscale didn't stop the Hugging Face intrusion",
         "link": "https://tailscale.com/blog/hugging-face-intrusion",
         "pubDate": "2026-07-31T19:03",
@@ -63,12 +81,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Dario Amodei's stance on open weights is self-serving and short-sighted",
-        "link": "https://janilowski.pl/en/blog/2026/amodei-memo/",
-        "pubDate": "2026-07-31T16:24",
-        "feedId": "hn"
-      },
-      {
         "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
         "link": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
         "pubDate": "2026-07-31T16:15",
@@ -78,18 +90,6 @@
         "title": "Big Food vs. the People",
         "link": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
         "pubDate": "2026-07-31T16:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
-        "link": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
-        "pubDate": "2026-07-31T15:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Art of Decision-Making (2019)",
-        "link": "https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making",
-        "pubDate": "2026-07-31T15:42",
         "feedId": "hn"
       }
     ]
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Ruby Central's Destructive Legacy",
-        "link": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
-        "pubDate": "2026-07-31T14:47",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Why I forked rand",
         "link": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
         "pubDate": "2026-07-31T15:02",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Ruby Central's Destructive Legacy",
+        "link": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
+        "pubDate": "2026-07-31T14:47",
         "feedId": "lobsters"
       },
       {
@@ -134,27 +134,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Full flattening of nested data parallelism",
-        "link": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
-        "pubDate": "2026-07-31T09:37",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The Wheels We Keep Reinventing",
         "link": "https://blainsmith.com/articles/reinventing-the-wheel/",
         "pubDate": "2026-07-31T17:48",
         "feedId": "lobsters"
       },
       {
-        "title": "A question about a factorial operator",
-        "link": "https://lobste.rs/s/itp1nm/question_about_factorial_operator",
-        "pubDate": "2026-07-31T05:05",
+        "title": "Full flattening of nested data parallelism",
+        "link": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
+        "pubDate": "2026-07-31T09:37",
         "feedId": "lobsters"
       },
       {
         "title": "What are you doing this weekend?",
         "link": "https://lobste.rs/s/won0b2/what_are_you_doing_this_weekend",
         "pubDate": "2026-07-31T17:26",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A question about a factorial operator",
+        "link": "https://lobste.rs/s/itp1nm/question_about_factorial_operator",
+        "pubDate": "2026-07-31T05:05",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +170,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "The State of Chez Scheme in Debian",
+        "link": "https://weinholt.se/articles/state-of-chezscheme-in-debian/",
+        "pubDate": "2026-07-31T16:54",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Accepting a messy git history",
         "link": "https://beza1e1.tuxen.de/git_two_users.html",
         "pubDate": "2026-07-31T18:27",
         "feedId": "lobsters"
       },
       {
-        "title": "Correlated RNG",
-        "link": "https://knivesforcats.online/correlated-rng/",
-        "pubDate": "2026-07-31T03:25",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The State of Chez Scheme in Debian",
-        "link": "https://weinholt.se/articles/state-of-chezscheme-in-debian/",
-        "pubDate": "2026-07-31T16:54",
+        "title": "Dead Software Walking: The ongoing evolution of relayd(8) and httpd(8)",
+        "link": "https://rsadowski.de/posts/2026/dead-software-walking-relayd-and-httpd/",
+        "pubDate": "2026-07-31T17:13",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,24 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
+        "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+        "pubDate": "2026-07-31T20:39",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+        "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+        "pubDate": "2026-07-31T20:21",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
+        "link": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
+        "pubDate": "2026-07-31T19:04",
+        "feedId": "arstechnica"
+      },
       {
         "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
         "link": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
@@ -263,30 +281,18 @@
         "link": "https://arstechnica.com/tech-policy/2026/07/trump-fccs-war-on-abc-slammed-by-both-conservatives-and-liberals/",
         "pubDate": "2026-07-30T20:48",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Iran struck Amazon data centers again amid widening war, satellites show",
-        "link": "https://arstechnica.com/gadgets/2026/07/satellites-spot-new-war-damage-to-amazon-data-centers-and-saudi-oil-site/",
-        "pubDate": "2026-07-30T20:45",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Just because a game is on disc doesn’t mean it will work in the future",
-        "link": "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/",
-        "pubDate": "2026-07-30T20:12",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Chrome may get faster updates with no restart required",
-        "link": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
-        "pubDate": "2026-07-30T19:26",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Trump's anti-weaponization fund comments reignite Blanche confirmation fight",
+        "link": "https://www.axios.com/2026/07/31/trump-blanche-doj-anti-weaponization-fund-dead",
+        "pubDate": "2026-07-31T21:11",
+        "feedId": "axios"
+      },
       {
         "title": "Fed rates dissenters make their case for higher rates",
         "link": "https://www.axios.com/2026/07/31/fed-rates-dissenters-policy",
@@ -369,12 +375,6 @@
         "title": "Bessent sets stage for Xi visit in high-level China talk",
         "link": "https://www.axios.com/2026/07/30/bessent-xi-china-visit-trade-greer",
         "pubDate": "2026-07-30T19:07",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump says he's open to delaying Blanche nomination over GOP defectors",
-        "link": "https://www.axios.com/2026/07/30/trump-blanche-nomination-tillis-cornyn",
-        "pubDate": "2026-07-30T16:39",
         "feedId": "axios"
       }
     ]
