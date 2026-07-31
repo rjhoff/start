@@ -3,6 +3,66 @@
     "id": "hn",
     "items": [
       {
+        "title": "Tailscale didn't stop the Hugging Face intrusion",
+        "link": "https://tailscale.com/blog/hugging-face-intrusion",
+        "pubDate": "2026-07-31T19:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI companies destroy rare and non recoverable physical books",
+        "link": "https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/",
+        "pubDate": "2026-07-31T19:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Golang proposal: container/: generic collection types",
+        "link": "https://github.com/golang/go/issues/80590",
+        "pubDate": "2026-07-31T18:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
+        "link": "https://arxiv.org/abs/2607.28545",
+        "pubDate": "2026-07-31T18:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "Using the railway network as a flatbed scanner [video]",
+        "link": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
+        "pubDate": "2026-07-31T18:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "Termixer (TUI DJ Mixer)",
+        "link": "https://github.com/l00sed/termixer",
+        "pubDate": "2026-07-31T18:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "Everyone is building LLM routers, we deprecated ours",
+        "link": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+        "pubDate": "2026-07-31T18:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "qm",
+        "link": "https://github.com/yc-software/qm",
+        "pubDate": "2026-07-31T18:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "AFC Stands in Solidarity with UEFA and Concacaf to Protect the FIFA World Cup",
+        "link": "https://www.the-afc.com/en/more/afc_news.html/news/afc-stands-in-solidarity-with-uefa-and-concacaf-to-protect-the-fifa-world-cup",
+        "pubDate": "2026-07-31T17:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Severance",
+        "link": "https://lcamtuf.substack.com/p/severance",
+        "pubDate": "2026-07-31T17:15",
+        "feedId": "hn"
+      },
+      {
         "title": "Miso (YC S16) is hiring for U.S. expansion",
         "link": "https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion",
         "pubDate": "2026-07-31T17:01",
@@ -31,66 +91,6 @@
         "link": "https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making",
         "pubDate": "2026-07-31T15:42",
         "feedId": "hn"
-      },
-      {
-        "title": "A GTK4 SSH-askpass in Zig",
-        "link": "https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/",
-        "pubDate": "2026-07-31T15:40",
-        "feedId": "hn"
-      },
-      {
-        "title": "New Defcon Badges Pack a Unique Open-Source Chip That Doubles as a Security Key",
-        "link": "https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/",
-        "pubDate": "2026-07-31T15:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "Is AI reasoning right for the wrong reasons?",
-        "link": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-        "pubDate": "2026-07-31T15:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
-        "link": "https://swe-rebench.com",
-        "pubDate": "2026-07-31T15:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "Elevators",
-        "link": "https://john.fun/elevators",
-        "pubDate": "2026-07-31T15:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "The most official water costs $120k a gallon",
-        "link": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
-        "pubDate": "2026-07-31T15:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: I built a cross-browser extension that controls fingerprinting surfaces",
-        "link": "https://privacything.com/en/",
-        "pubDate": "2026-07-31T14:57",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: BitBang – Reach machines behind NAT from a browser, no account",
-        "link": "https://github.com/richlegrand/bitbang-cli",
-        "pubDate": "2026-07-31T14:41",
-        "feedId": "hn"
-      },
-      {
-        "title": "Arch Linux disables AUR package adoption",
-        "link": "https://lwn.net/Articles/1086489/",
-        "pubDate": "2026-07-31T13:57",
-        "feedId": "hn"
-      },
-      {
-        "title": "The C ``Clockwise/Spiral Rule''",
-        "link": "https://c-faq.com/decl/spiral.anderson.html",
-        "pubDate": "2026-07-31T13:56",
-        "feedId": "hn"
       }
     ]
   },
@@ -101,6 +101,18 @@
         "title": "Go 1.27 interactive tour",
         "link": "https://victoriametrics.com/blog/go-1-27/",
         "pubDate": "2026-07-31T11:15",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why I forked rand",
+        "link": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
+        "pubDate": "2026-07-31T15:02",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Ruby Central's Destructive Legacy",
+        "link": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
+        "pubDate": "2026-07-31T14:47",
         "feedId": "lobsters"
       },
       {
@@ -116,21 +128,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Ruby Central's Destructive Legacy",
-        "link": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
-        "pubDate": "2026-07-31T14:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why I forked rand",
-        "link": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
-        "pubDate": "2026-07-31T15:02",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Full flattening of nested data parallelism",
         "link": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
         "pubDate": "2026-07-31T09:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Guix shell now inside Emacs",
+        "link": "https://tusharhero.codeberg.page/guix-shell-in-emacs.html",
+        "pubDate": "2026-07-31T17:58",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "what the double-fork?",
+        "link": "https://bower.sh/what-the-double-fork",
+        "pubDate": "2026-07-31T13:46",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +152,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/won0b2/what_are_you_doing_this_weekend",
+        "pubDate": "2026-07-31T17:26",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Correlated RNG",
         "link": "https://knivesforcats.online/correlated-rng/",
         "pubDate": "2026-07-31T03:25",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Where .env Went Wrong",
+        "link": "https://secretspec.dev/blog/where-env-went-wrong/",
+        "pubDate": "2026-07-31T15:44",
         "feedId": "lobsters"
       },
       {
@@ -162,36 +186,42 @@
         "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
         "pubDate": "2026-07-30T16:52",
         "feedId": "lobsters"
-      },
-      {
-        "title": "what the double-fork?",
-        "link": "https://bower.sh/what-the-double-fork",
-        "pubDate": "2026-07-31T13:46",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How We Built a Zero-Disk, S3-Tiered Storage Engine for SQLite",
-        "link": "https://rivet.dev/blog/2026-07-31-how-we-built-the-first-zero-disk-s3-tiered-storage-engine-for-sqlite/",
-        "pubDate": "2026-07-31T15:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The State of Chez Scheme in Debian",
-        "link": "https://weinholt.se/articles/state-of-chezscheme-in-debian/",
-        "pubDate": "2026-07-31T16:54",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Where .env Went Wrong",
-        "link": "https://secretspec.dev/blog/where-env-went-wrong/",
-        "pubDate": "2026-07-31T15:44",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
+        "link": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+        "pubDate": "2026-07-31T18:11",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Researchers devise a full-color night vision goggle",
+        "link": "https://arstechnica.com/science/2026/07/see-the-heat-an-infrared-imaging-system-that-outputs-in-color/",
+        "pubDate": "2026-07-31T17:58",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "China could supply EV manufacturing boom with recycled EVs",
+        "link": "https://arstechnica.com/science/2026/07/china-could-supply-ev-manufacturing-boom-with-recycled-evs/",
+        "pubDate": "2026-07-31T17:29",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Sony acknowledges backlash, “cautiously” moves ahead with end of PlayStation discs",
+        "link": "https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/",
+        "pubDate": "2026-07-31T17:07",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Man invested $45M in a Nicolas Cage movie. It got stolen off Netflix’s desk.",
+        "link": "https://arstechnica.com/tech-policy/2026/07/man-invested-45m-in-a-nicolas-cage-movie-it-got-stolen-off-netflixs-desk/",
+        "pubDate": "2026-07-31T16:17",
+        "feedId": "arstechnica"
+      },
       {
         "title": "AI scammers outperform humans when it comes to building trust",
         "link": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
@@ -250,36 +280,6 @@
         "title": "Chrome may get faster updates with no restart required",
         "link": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
         "pubDate": "2026-07-30T19:26",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
-        "link": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
-        "pubDate": "2026-07-30T17:58",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Space Force-backed mission does its best impression of Top Gun in orbit",
-        "link": "https://arstechnica.com/space/2026/07/space-force-backed-mission-does-its-best-impression-of-top-gun-in-orbit/",
-        "pubDate": "2026-07-30T17:35",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Quantum computers outperform classical ones, with results you can trust",
-        "link": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
-        "pubDate": "2026-07-30T15:59",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "New MCP specification addresses the main barrier to enterprise adoption",
-        "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
-        "pubDate": "2026-07-30T14:53",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
-        "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-        "pubDate": "2026-07-29T22:07",
         "feedId": "arstechnica"
       }
     ]
