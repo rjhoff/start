@@ -1,22 +1,112 @@
 {
   "hn": {
     "id": "hn",
-    "error": "Request timed out after 10000ms",
-    "items": []
+    "items": [
+      {
+        "title": "Is AI Reasoning Right for the Wrong Reasons?",
+        "link": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+        "pubDate": "2026-07-31T15:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Detect Dark Matter's Mark from Your Backyard",
+        "link": "https://spectrum.ieee.org/dark-matter",
+        "pubDate": "2026-07-31T14:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "Better to Beg Forgiveness",
+        "link": "https://pluralistic.net/2026/07/31/just-do-it/",
+        "pubDate": "2026-07-31T14:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "Situational Awareness Down 67% in July in AI Stock Rout",
+        "link": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
+        "pubDate": "2026-07-31T13:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "Moonshot built on 20k Nvidia chip cluster from Alibaba",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
+        "pubDate": "2026-07-31T13:24",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ruby Central's Destructive Legacy",
+        "link": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
+        "pubDate": "2026-07-31T12:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+        "link": "https://tasklet.ai/careers/customer-success-engineer",
+        "pubDate": "2026-07-31T12:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "The End of an Era",
+        "link": "https://hughhowey.com/the-end-of-an-era/",
+        "pubDate": "2026-07-31T11:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
+        "link": "https://arxiv.org/abs/2607.27197",
+        "pubDate": "2026-07-31T11:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+        "link": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+        "pubDate": "2026-07-31T07:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+        "link": "https://blog.google/security/chrome-stronger-with-every-update/",
+        "pubDate": "2026-07-31T07:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "DeepSeek-V4-Flash Update",
+        "link": "https://api-docs.deepseek.com/updates/",
+        "pubDate": "2026-07-31T06:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
+        "link": "https://github.com/mokshablr/gander",
+        "pubDate": "2026-07-31T05:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+        "link": "https://github.com/openjdk/jdk/pull/31120",
+        "pubDate": "2026-07-31T04:38",
+        "feedId": "hn"
+      },
+      {
+        "title": "The session you cannot take with you",
+        "link": "https://earendil.com/posts/session-portability/",
+        "pubDate": "2026-07-31T03:47",
+        "feedId": "hn"
+      }
+    ]
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
       {
-        "title": "How to speed up the Rust compiler in July 2026",
-        "link": "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html",
-        "pubDate": "2026-07-31T05:46",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Go 1.27 interactive tour",
         "link": "https://victoriametrics.com/blog/go-1-27/",
         "pubDate": "2026-07-31T11:15",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How to speed up the Rust compiler in July 2026",
+        "link": "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html",
+        "pubDate": "2026-07-31T05:46",
         "feedId": "lobsters"
       },
       {
@@ -26,21 +116,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Full flattening of nested data parallelism",
+        "link": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
+        "pubDate": "2026-07-31T09:37",
+        "feedId": "lobsters"
+      },
+      {
         "title": "A question about a factorial operator",
         "link": "https://lobste.rs/s/itp1nm/question_about_factorial_operator",
         "pubDate": "2026-07-31T05:05",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The AI Aesthetic",
-        "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-        "pubDate": "2026-07-30T13:57",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Stacked pull requests are now in public preview",
-        "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-        "pubDate": "2026-07-30T16:52",
         "feedId": "lobsters"
       },
       {
@@ -50,39 +134,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Stacked pull requests are now in public preview",
+        "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+        "pubDate": "2026-07-30T16:52",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Progress toward compiling Linux with gccrs",
         "link": "https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/",
         "pubDate": "2026-07-30T18:06",
         "feedId": "lobsters"
       },
       {
-        "title": "Full flattening of nested data parallelism",
-        "link": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
-        "pubDate": "2026-07-31T09:37",
+        "title": "Why I forked rand",
+        "link": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
+        "pubDate": "2026-07-31T15:02",
         "feedId": "lobsters"
       },
       {
-        "title": "GCC steering committee announces AI policy",
-        "link": "https://lwn.net/Articles/1086041/",
-        "pubDate": "2026-07-30T17:47",
+        "title": "Ruby Central's Destructive Legacy",
+        "link": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
+        "pubDate": "2026-07-31T14:47",
         "feedId": "lobsters"
       },
       {
-        "title": "C++ float-to-int conversion can be undefined behavior",
-        "link": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
-        "pubDate": "2026-07-30T03:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "deskhop: Fast Desktop Switching Device",
-        "link": "https://github.com/hrvach/deskhop",
-        "pubDate": "2026-07-30T07:52",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Building Progressively Enhanced Forms Using htmx",
-        "link": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
-        "pubDate": "2026-07-30T12:17",
+        "title": "what the double-fork?",
+        "link": "https://bower.sh/what-the-double-fork",
+        "pubDate": "2026-07-31T13:46",
         "feedId": "lobsters"
       },
       {
@@ -92,9 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Project-Specific clangd Configuration with a Temporary Shell",
-        "link": "https://felix-knorr.net/posts/2026-07-31-lsp-config.html",
-        "pubDate": "2026-07-31T12:48",
+        "title": "deskhop: Fast Desktop Switching Device",
+        "link": "https://github.com/hrvach/deskhop",
+        "pubDate": "2026-07-30T07:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "C++ float-to-int conversion can be undefined behavior",
+        "link": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
+        "pubDate": "2026-07-30T03:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How We Built a Zero-Disk, S3-Tiered Storage Engine for SQLite",
+        "link": "https://rivet.dev/blog/2026-07-31-how-we-built-the-first-zero-disk-s3-tiered-storage-engine-for-sqlite/",
+        "pubDate": "2026-07-31T15:01",
         "feedId": "lobsters"
       }
     ]
@@ -102,6 +192,78 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "AI scammers outperform humans when it comes to building trust",
+        "link": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
+        "pubDate": "2026-07-31T14:01",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Pathogenic review: Damn, it feels good to be a virus",
+        "link": "https://arstechnica.com/gaming/2026/07/pathogenic-review-damn-it-feels-good-to-be-a-virus/",
+        "pubDate": "2026-07-31T13:00",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
+        "link": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
+        "pubDate": "2026-07-31T11:00",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Rocket Report: New launch rule may limit environmental regulations, Falcon 9 to hit Moon",
+        "link": "https://arstechnica.com/space/2026/07/rocket-report-big-deals-for-us-launch-firms-rfa-one-debut-is-delayed/",
+        "pubDate": "2026-07-31T10:30",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Tim Cook passes the baton in Apple's Q3 2026 earnings call",
+        "link": "https://arstechnica.com/gadgets/2026/07/tim-cooks-last-earnings-call-strong-iphone-sales-but-memory-costs-loom-large/",
+        "pubDate": "2026-07-30T22:05",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
+        "link": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
+        "pubDate": "2026-07-30T20:57",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Trump FCC faces blowback in attempt to police speech on broadcast TV",
+        "link": "https://arstechnica.com/tech-policy/2026/07/trump-fccs-war-on-abc-slammed-by-both-conservatives-and-liberals/",
+        "pubDate": "2026-07-30T20:48",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Iran struck Amazon data centers again amid widening war, satellites show",
+        "link": "https://arstechnica.com/gadgets/2026/07/satellites-spot-new-war-damage-to-amazon-data-centers-and-saudi-oil-site/",
+        "pubDate": "2026-07-30T20:45",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Just because a game is on disc doesn’t mean it will work in the future",
+        "link": "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/",
+        "pubDate": "2026-07-30T20:12",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Chrome may get faster updates with no restart required",
+        "link": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
+        "pubDate": "2026-07-30T19:26",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+        "link": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+        "pubDate": "2026-07-30T17:58",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Space Force-backed mission does its best impression of Top Gun in orbit",
+        "link": "https://arstechnica.com/space/2026/07/space-force-backed-mission-does-its-best-impression-of-top-gun-in-orbit/",
+        "pubDate": "2026-07-30T17:35",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Quantum computers outperform classical ones, with results you can trust",
         "link": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
@@ -118,78 +280,6 @@
         "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
         "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
         "pubDate": "2026-07-29T22:07",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
-        "link": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
-        "pubDate": "2026-07-29T20:57",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Who wins and who loses after US bans foreign robots?",
-        "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
-        "pubDate": "2026-07-29T20:03",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
-        "link": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
-        "pubDate": "2026-07-29T19:33",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Customize Ars your way with an Ars Pro subscription",
-        "link": "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/",
-        "pubDate": "2026-07-29T19:23",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
-        "link": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
-        "pubDate": "2026-07-29T18:08",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
-        "link": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
-        "pubDate": "2026-07-29T17:58",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Yet more qubit tech: New quantum dot options, diamond vacancies ",
-        "link": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
-        "pubDate": "2026-07-29T17:37",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Actually, Starliner might fly into space this year",
-        "link": "https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/",
-        "pubDate": "2026-07-29T17:24",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Anthropic is finding bugs faster than Microsoft can fix them",
-        "link": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
-        "pubDate": "2026-07-29T15:52",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "New AMD Linux patch boosts low-end gaming performance on Steam Deck",
-        "link": "https://arstechnica.com/gaming/2026/07/new-amd-linux-patch-boosts-low-end-gaming-performance-on-steam-deck/",
-        "pubDate": "2026-07-29T15:33",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Gaming and IRL worlds collide in Jumanji: Open World trailer",
-        "link": "https://arstechnica.com/culture/2026/07/gaming-and-irl-worlds-collide-in-jumanji-open-world-trailer/",
-        "pubDate": "2026-07-29T15:16",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "What happens when you put AI to work deciphering lost languages?",
-        "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
-        "pubDate": "2026-07-29T13:23",
         "feedId": "arstechnica"
       }
     ]
