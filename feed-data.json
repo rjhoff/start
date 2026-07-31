@@ -15,6 +15,12 @@
         "feedId": "hn"
       },
       {
+        "title": "Show HN: How to build and self-host a code review agent",
+        "link": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
+        "pubDate": "2026-07-31T20:27",
+        "feedId": "hn"
+      },
+      {
         "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
         "link": "https://jwlabs.vercel.app/post/biting-the-bullet",
         "pubDate": "2026-07-31T19:55",
@@ -30,12 +36,6 @@
         "title": "Golang proposal: container/: generic collection types",
         "link": "https://github.com/golang/go/issues/80590",
         "pubDate": "2026-07-31T18:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
-        "link": "https://arxiv.org/abs/2607.28545",
-        "pubDate": "2026-07-31T18:32",
         "feedId": "hn"
       },
       {
@@ -69,12 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Severance",
-        "link": "https://lcamtuf.substack.com/p/severance",
-        "pubDate": "2026-07-31T17:15",
-        "feedId": "hn"
-      },
-      {
         "title": "Miso (YC S16) is hiring for U.S. expansion",
         "link": "https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion",
         "pubDate": "2026-07-31T17:01",
@@ -91,6 +85,12 @@
         "link": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
         "pubDate": "2026-07-31T16:04",
         "feedId": "hn"
+      },
+      {
+        "title": "Dubious research tied to Red Bull has shaped energy drink policy",
+        "link": "https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol",
+        "pubDate": "2026-07-31T15:58",
+        "feedId": "hn"
       }
     ]
   },
@@ -98,9 +98,9 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Go 1.27 interactive tour",
-        "link": "https://victoriametrics.com/blog/go-1-27/",
-        "pubDate": "2026-07-31T11:15",
+        "title": "Ruby Central's Destructive Legacy",
+        "link": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
+        "pubDate": "2026-07-31T14:47",
         "feedId": "lobsters"
       },
       {
@@ -110,9 +110,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Ruby Central's Destructive Legacy",
-        "link": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
-        "pubDate": "2026-07-31T14:47",
+        "title": "Go 1.27 interactive tour",
+        "link": "https://victoriametrics.com/blog/go-1-27/",
+        "pubDate": "2026-07-31T11:15",
         "feedId": "lobsters"
       },
       {
@@ -140,6 +140,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "what the double-fork?",
+        "link": "https://bower.sh/what-the-double-fork",
+        "pubDate": "2026-07-31T13:46",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Dead Software Walking: The ongoing evolution of relayd(8) and httpd(8)",
+        "link": "https://rsadowski.de/posts/2026/dead-software-walking-relayd-and-httpd/",
+        "pubDate": "2026-07-31T17:13",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Full flattening of nested data parallelism",
         "link": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
         "pubDate": "2026-07-31T09:37",
@@ -152,21 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A question about a factorial operator",
-        "link": "https://lobste.rs/s/itp1nm/question_about_factorial_operator",
-        "pubDate": "2026-07-31T05:05",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "what the double-fork?",
-        "link": "https://bower.sh/what-the-double-fork",
-        "pubDate": "2026-07-31T13:46",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Where .env Went Wrong",
-        "link": "https://secretspec.dev/blog/where-env-went-wrong/",
-        "pubDate": "2026-07-31T15:44",
+        "title": "Accepting a messy git history",
+        "link": "https://beza1e1.tuxen.de/git_two_users.html",
+        "pubDate": "2026-07-31T18:27",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Accepting a messy git history",
-        "link": "https://beza1e1.tuxen.de/git_two_users.html",
-        "pubDate": "2026-07-31T18:27",
+        "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+        "link": "https://servo.org/blog/2026/07/31/june-in-servo/",
+        "pubDate": "2026-07-31T17:32",
         "feedId": "lobsters"
       },
       {
-        "title": "Dead Software Walking: The ongoing evolution of relayd(8) and httpd(8)",
-        "link": "https://rsadowski.de/posts/2026/dead-software-walking-relayd-and-httpd/",
-        "pubDate": "2026-07-31T17:13",
+        "title": "A question about a factorial operator",
+        "link": "https://lobste.rs/s/itp1nm/question_about_factorial_operator",
+        "pubDate": "2026-07-31T05:05",
         "feedId": "lobsters"
       }
     ]
@@ -193,7 +193,31 @@
     "id": "arstechnica",
     "items": [
       {
-        "title": "Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
+        "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
+        "link": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
+        "pubDate": "2026-07-31T22:17",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Doctors took a look at man's painful shoulder—they found the joint was missing",
+        "link": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
+        "pubDate": "2026-07-31T21:51",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google plans to exempt sanctioned nations from Android developer verification",
+        "link": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
+        "pubDate": "2026-07-31T21:35",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Reddit keeps its strange DMCA fight over Google search results alive",
+        "link": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
+        "pubDate": "2026-07-31T21:19",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Claude published malicious code to the Internet and attacked 3 real companies",
         "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
         "pubDate": "2026-07-31T20:39",
         "feedId": "arstechnica"
@@ -257,30 +281,6 @@
         "link": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
         "pubDate": "2026-07-31T11:00",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Rocket Report: New launch rule may limit environmental regulations, Falcon 9 to hit Moon",
-        "link": "https://arstechnica.com/space/2026/07/rocket-report-big-deals-for-us-launch-firms-rfa-one-debut-is-delayed/",
-        "pubDate": "2026-07-31T10:30",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Tim Cook passes the baton in Apple's Q3 2026 earnings call",
-        "link": "https://arstechnica.com/gadgets/2026/07/tim-cooks-last-earnings-call-strong-iphone-sales-but-memory-costs-loom-large/",
-        "pubDate": "2026-07-30T22:05",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
-        "link": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
-        "pubDate": "2026-07-30T20:57",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Trump FCC faces blowback in attempt to police speech on broadcast TV",
-        "link": "https://arstechnica.com/tech-policy/2026/07/trump-fccs-war-on-abc-slammed-by-both-conservatives-and-liberals/",
-        "pubDate": "2026-07-30T20:48",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,7 +288,13 @@
     "id": "axios",
     "items": [
       {
-        "title": "Trump's anti-weaponization fund comments reignite Blanche confirmation fight",
+        "title": "Trump considering strikes on Iranian energy targets within days",
+        "link": "https://www.axios.com/2026/07/31/trump-iran-strikes-energy-infrastructure-war",
+        "pubDate": "2026-07-31T22:51",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump's comments reignite Blanche confirmation fight",
         "link": "https://www.axios.com/2026/07/31/trump-blanche-doj-anti-weaponization-fund-dead",
         "pubDate": "2026-07-31T21:11",
         "feedId": "axios"
@@ -369,12 +375,6 @@
         "title": "Inside the $2 million effort to oust Rep. Andy Ogles in his Republican primary",
         "link": "https://www.axios.com/2026/07/30/republican-primary-andy-ogles-super-pac",
         "pubDate": "2026-07-30T19:40",
-        "feedId": "axios"
-      },
-      {
-        "title": "Bessent sets stage for Xi visit in high-level China talk",
-        "link": "https://www.axios.com/2026/07/30/bessent-xi-china-visit-trade-greer",
-        "pubDate": "2026-07-30T19:07",
         "feedId": "axios"
       }
     ]
