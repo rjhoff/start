@@ -3,6 +3,30 @@
     "id": "hn",
     "items": [
       {
+        "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
+        "link": "https://greyswansignals.com/?theme=dark",
+        "pubDate": "2026-07-31T04:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Session You Cannot take with you",
+        "link": "https://earendil.com/posts/session-portability/",
+        "pubDate": "2026-07-31T03:47",
+        "feedId": "hn"
+      },
+      {
+        "title": "The bond market isn't buying what Fed Chair Warsh is selling",
+        "link": "https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/",
+        "pubDate": "2026-07-31T03:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "A California aquifer may have crossed the point of no return",
+        "link": "https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return",
+        "pubDate": "2026-07-31T03:27",
+        "feedId": "hn"
+      },
+      {
         "title": "The Religion of Speed",
         "link": "https://graybeard.ing/the-religion-of-speed/",
         "pubDate": "2026-07-30T23:43",
@@ -63,33 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-        "link": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
-        "pubDate": "2026-07-30T17:31",
-        "feedId": "hn"
-      },
-      {
         "title": "Advancing the price-performance frontier with GPT‑5.6",
         "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
         "pubDate": "2026-07-30T17:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "Read this before you buy that TV streaming stick",
-        "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-        "pubDate": "2026-07-30T17:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "Rise Reforming (YC S26) Is Hiring",
-        "link": "https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer",
-        "pubDate": "2026-07-30T17:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Stacked PRs are now live on GitHub",
-        "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-        "pubDate": "2026-07-30T16:26",
         "feedId": "hn"
       }
     ]
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Stacked pull requests are now in public preview",
-        "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-        "pubDate": "2026-07-30T16:52",
-        "feedId": "lobsters"
-      },
-      {
         "title": "You have been mislead about lightbulbs",
         "link": "https://maurycyz.com/misc/tungsten/",
         "pubDate": "2026-07-30T21:02",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Stacked pull requests are now in public preview",
+        "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+        "pubDate": "2026-07-30T16:52",
         "feedId": "lobsters"
       },
       {
@@ -134,6 +134,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "GCC steering committee announces AI policy",
+        "link": "https://lwn.net/Articles/1086041/",
+        "pubDate": "2026-07-30T17:47",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Building Progressively Enhanced Forms Using htmx",
         "link": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
         "pubDate": "2026-07-30T12:17",
@@ -152,21 +158,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "GCC steering committee announces AI policy",
-        "link": "https://lwn.net/Articles/1086041/",
-        "pubDate": "2026-07-30T17:47",
+        "title": "std.Io.Writer.Allocating ate all my memory",
+        "link": "https://www.openmymind.net/std-io-writer-allocating-ate-my-memory/",
+        "pubDate": "2026-07-30T19:19",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Correlated RNG",
+        "link": "https://knivesforcats.online/correlated-rng/",
+        "pubDate": "2026-07-31T03:25",
         "feedId": "lobsters"
       },
       {
         "title": "Logic for Programmers",
         "link": "https://logicforprogrammers.com/",
         "pubDate": "2026-07-30T12:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "std.Io.Writer.Allocating ate all my memory",
-        "link": "https://www.openmymind.net/std-io-writer-allocating-ate-my-memory/",
-        "pubDate": "2026-07-30T19:19",
         "feedId": "lobsters"
       },
       {
@@ -179,12 +185,6 @@
         "title": "Scaling NumPy on Free-Threaded Python",
         "link": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
         "pubDate": "2026-07-30T16:08",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066)",
-        "link": "https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066",
-        "pubDate": "2026-07-30T14:36",
         "feedId": "lobsters"
       }
     ]
