@@ -3,6 +3,36 @@
     "id": "hn",
     "items": [
       {
+        "title": "Ten Ways NAS Is Getting Enshitified",
+        "link": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+        "pubDate": "2026-08-01T05:38",
+        "feedId": "hn"
+      },
+      {
+        "title": "What Liberal Arts Education Is for (2024)",
+        "link": "https://innig.net/teaching/liberal-arts-manifesto",
+        "pubDate": "2026-08-01T04:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "The development pipeline is a production system",
+        "link": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+        "pubDate": "2026-08-01T03:16",
+        "feedId": "hn"
+      },
+      {
+        "title": "Flint: A Visualization Language for the AI Era",
+        "link": "https://microsoft.github.io/flint-chart/",
+        "pubDate": "2026-08-01T02:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "A Week in Matrix",
+        "link": "https://piegames.de/dumps/a-week-in-matrix/",
+        "pubDate": "2026-08-01T01:35",
+        "feedId": "hn"
+      },
+      {
         "title": "How to Exist",
         "link": "https://www.raptitude.com/2026/07/how-to-exist/",
         "pubDate": "2026-08-01T00:25",
@@ -27,33 +57,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
-        "link": "https://jwlabs.vercel.app/post/biting-the-bullet",
-        "pubDate": "2026-07-31T19:55",
-        "feedId": "hn"
-      },
-      {
         "title": "Tailscale didn't stop the Hugging Face intrusion",
         "link": "https://tailscale.com/blog/hugging-face-intrusion",
         "pubDate": "2026-07-31T19:03",
         "feedId": "hn"
       },
       {
-        "title": "Golang proposal: container/: generic collection types",
-        "link": "https://github.com/golang/go/issues/80590",
-        "pubDate": "2026-07-31T18:39",
-        "feedId": "hn"
-      },
-      {
         "title": "Using the railway network as a flatbed scanner [video]",
         "link": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
         "pubDate": "2026-07-31T18:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "Termixer (TUI DJ Mixer)",
-        "link": "https://github.com/l00sed/termixer",
-        "pubDate": "2026-07-31T18:28",
         "feedId": "hn"
       },
       {
@@ -75,21 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Severance",
-        "link": "https://lcamtuf.substack.com/p/severance",
-        "pubDate": "2026-07-31T17:15",
-        "feedId": "hn"
-      },
-      {
         "title": "Miso (YC S16) is hiring for U.S. expansion",
         "link": "https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion",
         "pubDate": "2026-07-31T17:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-        "link": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-        "pubDate": "2026-07-31T16:15",
         "feedId": "hn"
       }
     ]
@@ -122,9 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How to speed up the Rust compiler in July 2026",
-        "link": "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html",
-        "pubDate": "2026-07-31T05:46",
+        "title": "Accepting a messy git history",
+        "link": "https://beza1e1.tuxen.de/git_two_users.html",
+        "pubDate": "2026-07-31T18:27",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Stripe Just Wants a Number",
-        "link": "https://blog.exe.dev/billable-facts",
-        "pubDate": "2026-07-31T10:36",
+        "title": "How to speed up the Rust compiler in July 2026",
+        "link": "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html",
+        "pubDate": "2026-07-31T05:46",
         "feedId": "lobsters"
       },
       {
-        "title": "what the double-fork?",
-        "link": "https://bower.sh/what-the-double-fork",
-        "pubDate": "2026-07-31T13:46",
+        "title": "Stripe Just Wants a Number",
+        "link": "https://blog.exe.dev/billable-facts",
+        "pubDate": "2026-07-31T10:36",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +152,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Accepting a messy git history",
-        "link": "https://beza1e1.tuxen.de/git_two_users.html",
-        "pubDate": "2026-07-31T18:27",
+        "title": "what the double-fork?",
+        "link": "https://bower.sh/what-the-double-fork",
+        "pubDate": "2026-07-31T13:46",
         "feedId": "lobsters"
       },
       {
-        "title": "Full flattening of nested data parallelism",
-        "link": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
-        "pubDate": "2026-07-31T09:37",
+        "title": "Arch Linux disables AUR package adoption",
+        "link": "https://lwn.net/Articles/1086489/",
+        "pubDate": "2026-07-31T22:03",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The State of Chez Scheme in Debian",
-        "link": "https://weinholt.se/articles/state-of-chezscheme-in-debian/",
-        "pubDate": "2026-07-31T16:54",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What are you doing this weekend?",
         "link": "https://lobste.rs/s/won0b2/what_are_you_doing_this_weekend",
         "pubDate": "2026-07-31T17:26",
         "feedId": "lobsters"
       },
       {
-        "title": "Where .env Went Wrong",
-        "link": "https://secretspec.dev/blog/where-env-went-wrong/",
-        "pubDate": "2026-07-31T15:44",
+        "title": "Elevators",
+        "link": "https://john.fun/elevators",
+        "pubDate": "2026-08-01T05:49",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "marionette: deterministic simulation testing library",
+        "link": "https://github.com/sb2bg/marionette",
+        "pubDate": "2026-08-01T02:20",
         "feedId": "lobsters"
       }
     ]
