@@ -3,21 +3,27 @@
     "id": "hn",
     "items": [
       {
-        "title": "Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran",
-        "link": "https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html",
-        "pubDate": "2026-08-01T15:57",
+        "title": "A directory of people who love RSS",
+        "link": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
+        "pubDate": "2026-08-01T16:52",
         "feedId": "hn"
       },
       {
-        "title": "Indexing the Data Lake for Online Point Queries",
-        "link": "https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries",
-        "pubDate": "2026-08-01T15:41",
+        "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
+        "link": "https://kaisel.dev/",
+        "pubDate": "2026-08-01T16:45",
         "feedId": "hn"
       },
       {
-        "title": "GitHub has alternatives, but no replacement",
-        "link": "https://lalitm.com/post/github-alternatives/",
-        "pubDate": "2026-08-01T15:39",
+        "title": "Pgtestdb's template cloning approach to testing is fast",
+        "link": "https://brandur.org/fragments/pgtestdb",
+        "pubDate": "2026-08-01T16:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "BMW Is Showing Commercials on Their Car's Dash Screens as a Treat",
+        "link": "https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/",
+        "pubDate": "2026-08-01T15:58",
         "feedId": "hn"
       },
       {
@@ -30,6 +36,12 @@
         "title": "Explorative modeling: Train on the best of K guesses",
         "link": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
         "pubDate": "2026-08-01T15:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "Toast IDE Gets Markdown Spell Checking",
+        "link": "https://github.com/paradise-runner/toast",
+        "pubDate": "2026-08-01T15:15",
         "feedId": "hn"
       },
       {
@@ -75,21 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "How to Do Great Work (2023)",
-        "link": "https://paulgraham.com/greatwork.html",
-        "pubDate": "2026-08-01T08:19",
-        "feedId": "hn"
-      },
-      {
         "title": "Solid Queue 1.6.0 now supports fiber workers",
         "link": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
         "pubDate": "2026-08-01T07:42",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ten advances in mathematics and theoretical computer science",
-        "link": "https://openai.com/index/ten-advances-in-mathematics/",
-        "pubDate": "2026-08-01T07:37",
         "feedId": "hn"
       }
     ]
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Elevators",
-        "link": "https://john.fun/elevators",
-        "pubDate": "2026-08-01T05:49",
-        "feedId": "lobsters"
-      },
-      {
         "title": "wiff",
         "link": "https://wezfurlong.org/wiff/",
         "pubDate": "2026-08-01T13:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Elevators",
+        "link": "https://john.fun/elevators",
+        "pubDate": "2026-08-01T05:49",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Guix shell now inside Emacs",
-        "link": "https://tusharhero.codeberg.page/guix-shell-in-emacs.html",
-        "pubDate": "2026-07-31T17:58",
+        "title": "Norway's first adventure games",
+        "link": "https://spillhistorie.no/2025/09/11/norways-first-adventure-games-part-1/",
+        "pubDate": "2026-08-01T09:02",
         "feedId": "lobsters"
       },
       {
-        "title": "The Wheels We Keep Reinventing",
-        "link": "https://blainsmith.com/articles/reinventing-the-wheel/",
-        "pubDate": "2026-07-31T17:48",
+        "title": "Guix shell now inside Emacs",
+        "link": "https://tusharhero.codeberg.page/guix-shell-in-emacs.html",
+        "pubDate": "2026-07-31T17:58",
         "feedId": "lobsters"
       },
       {
@@ -164,9 +164,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Norway's first adventure games",
-        "link": "https://spillhistorie.no/2025/09/11/norways-first-adventure-games-part-1/",
-        "pubDate": "2026-08-01T09:02",
+        "title": "NetBSD 11.0 released",
+        "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+        "pubDate": "2026-08-01T17:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Wheels We Keep Reinventing",
+        "link": "https://blainsmith.com/articles/reinventing-the-wheel/",
+        "pubDate": "2026-07-31T17:48",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
-        "link": "https://servo.org/blog/2026/07/31/june-in-servo/",
-        "pubDate": "2026-07-31T17:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How to speed up the Rust compiler in July 2026",
-        "link": "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html",
-        "pubDate": "2026-07-31T05:46",
+        "title": "The development pipeline is a production system",
+        "link": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+        "pubDate": "2026-08-01T07:15",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
+        "link": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
+        "pubDate": "2026-08-01T15:19",
+        "feedId": "arstechnica"
+      },
       {
         "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
         "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
@@ -274,12 +280,6 @@
         "title": "China could supply EV manufacturing boom with recycled EVs",
         "link": "https://arstechnica.com/science/2026/07/china-could-supply-ev-manufacturing-boom-with-recycled-evs/",
         "pubDate": "2026-07-31T17:29",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Sony acknowledges backlash, “cautiously” moves ahead with end of PlayStation discs",
-        "link": "https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/",
-        "pubDate": "2026-07-31T17:07",
         "feedId": "arstechnica"
       }
     ]
