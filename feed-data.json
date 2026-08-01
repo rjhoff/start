@@ -3,6 +3,30 @@
     "id": "hn",
     "items": [
       {
+        "title": "Morph (YC S23) Is Hiring Member of Technical Stuff",
+        "link": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
+        "pubDate": "2026-08-01T22:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "\"Everyone Has Been Sold a Lie\" on AI",
+        "link": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+        "pubDate": "2026-08-01T22:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "From MIT: AI financial advice is surprisingly good",
+        "link": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+        "pubDate": "2026-08-01T22:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "Seedance 2.5",
+        "link": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+        "pubDate": "2026-08-01T20:45",
+        "feedId": "hn"
+      },
+      {
         "title": "Diátaxis",
         "link": "https://diataxis.fr/",
         "pubDate": "2026-08-01T20:33",
@@ -15,27 +39,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now",
-        "link": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
-        "pubDate": "2026-08-01T20:07",
-        "feedId": "hn"
-      },
-      {
         "title": "But can your calculator run Linux?",
         "link": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
         "pubDate": "2026-08-01T19:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "Google has abandoned Google News?",
-        "link": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-        "pubDate": "2026-08-01T19:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "Signal Structure of the Starlink Ku-Band Downlink (2023) [pdf]",
-        "link": "https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf",
-        "pubDate": "2026-08-01T18:59",
         "feedId": "hn"
       },
       {
@@ -69,12 +75,6 @@
         "feedId": "hn"
       },
       {
-        "title": "A directory of people who love RSS",
-        "link": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
-        "pubDate": "2026-08-01T16:52",
-        "feedId": "hn"
-      },
-      {
         "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
         "link": "https://kaisel.dev/",
         "pubDate": "2026-08-01T16:45",
@@ -104,15 +104,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "An old-new take on argument parsing in Rust",
+        "link": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
+        "pubDate": "2026-08-01T19:31",
+        "feedId": "lobsters"
+      },
+      {
         "title": "wiff",
         "link": "https://wezfurlong.org/wiff/",
         "pubDate": "2026-08-01T13:27",
         "feedId": "lobsters"
       },
       {
-        "title": "An old-new take on argument parsing in Rust",
-        "link": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
-        "pubDate": "2026-08-01T19:31",
+        "title": "Apple Screen Sharing Pre-Auth RCE",
+        "link": "https://warez.sl0p.foo/apple-screensharing-rce/",
+        "pubDate": "2026-08-01T19:39",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +140,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "LLMs won't break symmetric crypto",
+        "link": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+        "pubDate": "2026-08-01T21:11",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Ruby Central's Destructive Legacy",
         "link": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
         "pubDate": "2026-07-31T14:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Resigning from Arch Linux",
+        "link": "https://linderud.dev/blog/resigning-from-arch-linux/",
+        "pubDate": "2026-08-01T22:47",
         "feedId": "lobsters"
       },
       {
@@ -146,21 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Apple Screen Sharing Pre-Auth RCE",
-        "link": "https://warez.sl0p.foo/apple-screensharing-rce/",
-        "pubDate": "2026-08-01T19:39",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Go 1.27 interactive tour",
-        "link": "https://victoriametrics.com/blog/go-1-27/",
-        "pubDate": "2026-07-31T11:15",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Accepting a messy git history",
-        "link": "https://beza1e1.tuxen.de/git_two_users.html",
-        "pubDate": "2026-07-31T18:27",
+        "title": "Postmortem for Lean Kernel Soundness Bug #14576",
+        "link": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+        "pubDate": "2026-08-01T21:51",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What Naur got wrong from The concept of mind",
-        "link": "https://tssm.neocities.org/what-naur-got-wrong-from-the-concept-of-mind",
-        "pubDate": "2026-08-01T18:39",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Arch Linux disables AUR package adoption",
         "link": "https://lwn.net/Articles/1086489/",
         "pubDate": "2026-07-31T22:03",
         "feedId": "lobsters"
       },
       {
-        "title": "Dead Software Walking: The ongoing evolution of relayd(8) and httpd(8)",
-        "link": "https://rsadowski.de/posts/2026/dead-software-walking-relayd-and-httpd/",
-        "pubDate": "2026-07-31T17:13",
+        "title": "Accepting a messy git history",
+        "link": "https://beza1e1.tuxen.de/git_two_users.html",
+        "pubDate": "2026-07-31T18:27",
         "feedId": "lobsters"
       }
     ]
