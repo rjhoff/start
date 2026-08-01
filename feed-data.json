@@ -3,6 +3,30 @@
     "id": "hn",
     "items": [
       {
+        "title": "Postmortem for Kernel Soundness Bug #14576",
+        "link": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+        "pubDate": "2026-08-01T18:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "Oil companies report sky-high profits thanks to wartime crude prices",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026",
+        "pubDate": "2026-08-01T18:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tell HN: I hate your fuzzy search",
+        "link": "https://news.ycombinator.com/item?id=49136990",
+        "pubDate": "2026-08-01T18:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "NetBSD 11.0 Released",
+        "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+        "pubDate": "2026-08-01T17:56",
+        "feedId": "hn"
+      },
+      {
         "title": "A directory of people who love RSS",
         "link": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
         "pubDate": "2026-08-01T16:52",
@@ -15,15 +39,21 @@
         "feedId": "hn"
       },
       {
+        "title": "Franken.domains: Stitched-Together Domains, Because Every .com Is Taken",
+        "link": "https://franken.domains/",
+        "pubDate": "2026-08-01T16:44",
+        "feedId": "hn"
+      },
+      {
         "title": "Pgtestdb's template cloning approach to testing is fast",
         "link": "https://brandur.org/fragments/pgtestdb",
         "pubDate": "2026-08-01T16:01",
         "feedId": "hn"
       },
       {
-        "title": "BMW Is Showing Commercials on Their Car's Dash Screens as a Treat",
-        "link": "https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/",
-        "pubDate": "2026-08-01T15:58",
+        "title": "Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga",
+        "link": "https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe",
+        "pubDate": "2026-08-01T15:46",
         "feedId": "hn"
       },
       {
@@ -39,12 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Toast IDE Gets Markdown Spell Checking",
-        "link": "https://github.com/paradise-runner/toast",
-        "pubDate": "2026-08-01T15:15",
-        "feedId": "hn"
-      },
-      {
         "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
         "link": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
         "pubDate": "2026-08-01T14:19",
@@ -57,39 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Charlie Stross – On the non-use of AI in my writing process",
-        "link": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-        "pubDate": "2026-08-01T12:56",
-        "feedId": "hn"
-      },
-      {
         "title": "RipGrep musl binaries occasionally segfault during very-large searches",
         "link": "https://github.com/BurntSushi/ripgrep/issues/3494",
         "pubDate": "2026-08-01T12:34",
         "feedId": "hn"
       },
       {
-        "title": "Astro Loop",
-        "link": "https://pubdeer.com/",
-        "pubDate": "2026-08-01T12:17",
-        "feedId": "hn"
-      },
-      {
         "title": "Kontigo (YC S24) Is Hiring",
         "link": "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer",
         "pubDate": "2026-08-01T12:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "RamenHaus",
-        "link": "https://ramen.haus/",
-        "pubDate": "2026-08-01T08:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "Solid Queue 1.6.0 now supports fiber workers",
-        "link": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
-        "pubDate": "2026-08-01T07:42",
         "feedId": "hn"
       }
     ]
@@ -107,6 +107,12 @@
         "title": "wiff",
         "link": "https://wezfurlong.org/wiff/",
         "pubDate": "2026-08-01T13:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "NetBSD 11.0 released",
+        "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+        "pubDate": "2026-08-01T17:57",
         "feedId": "lobsters"
       },
       {
@@ -140,21 +146,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Arch Linux disables AUR package adoption",
-        "link": "https://lwn.net/Articles/1086489/",
-        "pubDate": "2026-07-31T22:03",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Norway's first adventure games",
         "link": "https://spillhistorie.no/2025/09/11/norways-first-adventure-games-part-1/",
         "pubDate": "2026-08-01T09:02",
         "feedId": "lobsters"
       },
       {
-        "title": "Guix shell now inside Emacs",
-        "link": "https://tusharhero.codeberg.page/guix-shell-in-emacs.html",
-        "pubDate": "2026-07-31T17:58",
+        "title": "Arch Linux disables AUR package adoption",
+        "link": "https://lwn.net/Articles/1086489/",
+        "pubDate": "2026-07-31T22:03",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What Naur got wrong from The concept of mind",
+        "link": "https://tssm.neocities.org/what-naur-got-wrong-from-the-concept-of-mind",
+        "pubDate": "2026-08-01T18:39",
         "feedId": "lobsters"
       },
       {
@@ -164,21 +170,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "NetBSD 11.0 released",
-        "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-        "pubDate": "2026-08-01T17:57",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The Wheels We Keep Reinventing",
         "link": "https://blainsmith.com/articles/reinventing-the-wheel/",
         "pubDate": "2026-07-31T17:48",
         "feedId": "lobsters"
       },
       {
-        "title": "what the double-fork?",
-        "link": "https://bower.sh/what-the-double-fork",
-        "pubDate": "2026-07-31T13:46",
+        "title": "Guix shell now inside Emacs",
+        "link": "https://tusharhero.codeberg.page/guix-shell-in-emacs.html",
+        "pubDate": "2026-07-31T17:58",
         "feedId": "lobsters"
       },
       {
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+        "link": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+        "pubDate": "2026-08-01T18:20",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
         "link": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
@@ -274,12 +280,6 @@
         "title": "Researchers devise a full-color night vision goggle",
         "link": "https://arstechnica.com/science/2026/07/see-the-heat-an-infrared-imaging-system-that-outputs-in-color/",
         "pubDate": "2026-07-31T17:58",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "China could supply EV manufacturing boom with recycled EVs",
-        "link": "https://arstechnica.com/science/2026/07/china-could-supply-ev-manufacturing-boom-with-recycled-evs/",
-        "pubDate": "2026-07-31T17:29",
         "feedId": "arstechnica"
       }
     ]
