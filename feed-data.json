@@ -3,15 +3,45 @@
     "id": "hn",
     "items": [
       {
-        "title": "Ten Ways NAS Is Getting Enshitified",
-        "link": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
-        "pubDate": "2026-08-01T05:38",
+        "title": "RamenHaus",
+        "link": "https://ramen.haus/",
+        "pubDate": "2026-08-01T08:48",
         "feedId": "hn"
       },
       {
-        "title": "What Liberal Arts Education Is for (2024)",
-        "link": "https://innig.net/teaching/liberal-arts-manifesto",
-        "pubDate": "2026-08-01T04:28",
+        "title": "How to Do Great Work",
+        "link": "https://paulgraham.com/greatwork.html",
+        "pubDate": "2026-08-01T08:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI doesn't generate working products, that's still your job",
+        "link": "https://weeraman.com/the-prototype-isnt-the-product/",
+        "pubDate": "2026-08-01T07:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "Solid Queue 1.6.0 now supports fiber workers",
+        "link": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
+        "pubDate": "2026-08-01T07:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ten advances in mathematics and theoretical computer science",
+        "link": "https://openai.com/index/ten-advances-in-mathematics/",
+        "pubDate": "2026-08-01T07:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "OpenAI's work on Git for large repositories",
+        "link": "https://openai-git-upstream.openai.chatgpt.site/",
+        "pubDate": "2026-08-01T06:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ten Ways NAS Is Getting Enshitified",
+        "link": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+        "pubDate": "2026-08-01T05:38",
         "feedId": "hn"
       },
       {
@@ -27,7 +57,7 @@
         "feedId": "hn"
       },
       {
-        "title": "A Week in Matrix",
+        "title": "A week in Matrix",
         "link": "https://piegames.de/dumps/a-week-in-matrix/",
         "pubDate": "2026-08-01T01:35",
         "feedId": "hn"
@@ -36,12 +66,6 @@
         "title": "How to Exist",
         "link": "https://www.raptitude.com/2026/07/how-to-exist/",
         "pubDate": "2026-08-01T00:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
-        "link": "https://code.intellios.ai/cwbrowser/",
-        "pubDate": "2026-07-31T21:39",
         "feedId": "hn"
       },
       {
@@ -57,39 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Tailscale didn't stop the Hugging Face intrusion",
-        "link": "https://tailscale.com/blog/hugging-face-intrusion",
-        "pubDate": "2026-07-31T19:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Using the railway network as a flatbed scanner [video]",
-        "link": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
-        "pubDate": "2026-07-31T18:30",
+        "title": "Golang proposal: container/: generic collection types",
+        "link": "https://github.com/golang/go/issues/80590",
+        "pubDate": "2026-07-31T18:39",
         "feedId": "hn"
       },
       {
         "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
         "link": "https://servo.org/blog/2026/07/31/june-in-servo/",
         "pubDate": "2026-07-31T18:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "Everyone is building LLM routers, we deprecated ours",
-        "link": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-        "pubDate": "2026-07-31T18:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "qm – Multiplayer agent harness for work",
-        "link": "https://github.com/yc-software/qm",
-        "pubDate": "2026-07-31T18:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "Miso (YC S16) is hiring for U.S. expansion",
-        "link": "https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion",
-        "pubDate": "2026-07-31T17:01",
         "feedId": "hn"
       }
     ]
@@ -158,6 +158,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Elevators",
+        "link": "https://john.fun/elevators",
+        "pubDate": "2026-08-01T05:49",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Arch Linux disables AUR package adoption",
         "link": "https://lwn.net/Articles/1086489/",
         "pubDate": "2026-07-31T22:03",
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/won0b2/what_are_you_doing_this_weekend",
-        "pubDate": "2026-07-31T17:26",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Elevators",
-        "link": "https://john.fun/elevators",
-        "pubDate": "2026-08-01T05:49",
-        "feedId": "lobsters"
-      },
-      {
         "title": "marionette: deterministic simulation testing library",
         "link": "https://github.com/sb2bg/marionette",
         "pubDate": "2026-08-01T02:20",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Let's make the worst htmx ever",
+        "link": "https://zserge.com/posts/worst-htmx-ever/",
+        "pubDate": "2026-07-31T22:43",
         "feedId": "lobsters"
       }
     ]
