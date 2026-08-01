@@ -3,6 +3,36 @@
     "id": "hn",
     "items": [
       {
+        "title": "Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran",
+        "link": "https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html",
+        "pubDate": "2026-08-01T15:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "Indexing the Data Lake for Online Point Queries",
+        "link": "https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries",
+        "pubDate": "2026-08-01T15:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "GitHub has alternatives, but no replacement",
+        "link": "https://lalitm.com/post/github-alternatives/",
+        "pubDate": "2026-08-01T15:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Cursor removed cost information from the usage page and CSV export",
+        "link": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+        "pubDate": "2026-08-01T15:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "Explorative modeling: Train on the best of K guesses",
+        "link": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+        "pubDate": "2026-08-01T15:23",
+        "feedId": "hn"
+      },
+      {
         "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
         "link": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
         "pubDate": "2026-08-01T14:19",
@@ -12,6 +42,12 @@
         "title": "The Art of 64-bit Assembly",
         "link": "https://nostarch.com/art-64-bit-assembly-v2",
         "pubDate": "2026-08-01T14:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Charlie Stross – On the non-use of AI in my writing process",
+        "link": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+        "pubDate": "2026-08-01T12:56",
         "feedId": "hn"
       },
       {
@@ -30,12 +66,6 @@
         "title": "Kontigo (YC S24) Is Hiring",
         "link": "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer",
         "pubDate": "2026-08-01T12:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Morten Linderud resigning from Arch Linux development team",
-        "link": "https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/2AX2BCJ3EQX7G3YXSDX73BR4NCAWXXBZ/",
-        "pubDate": "2026-08-01T11:59",
         "feedId": "hn"
       },
       {
@@ -61,36 +91,6 @@
         "link": "https://openai.com/index/ten-advances-in-mathematics/",
         "pubDate": "2026-08-01T07:37",
         "feedId": "hn"
-      },
-      {
-        "title": "The development pipeline is a production system",
-        "link": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-        "pubDate": "2026-08-01T03:16",
-        "feedId": "hn"
-      },
-      {
-        "title": "Flint: A Visualization Language for the AI Era",
-        "link": "https://microsoft.github.io/flint-chart/",
-        "pubDate": "2026-08-01T02:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "How to Exist",
-        "link": "https://www.raptitude.com/2026/07/how-to-exist/",
-        "pubDate": "2026-08-01T00:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "Loops (YC W22) Is Hiring a Product Educator",
-        "link": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
-        "pubDate": "2026-07-31T21:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
-        "link": "https://servo.org/blog/2026/07/31/june-in-servo/",
-        "pubDate": "2026-07-31T18:17",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,21 +98,27 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "Test the Email Verification Protocol with an origin trial",
+        "link": "https://developer.chrome.com/blog/email-verification-protocol-origin-trial",
+        "pubDate": "2026-08-01T12:34",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Elevators",
         "link": "https://john.fun/elevators",
         "pubDate": "2026-08-01T05:49",
         "feedId": "lobsters"
       },
       {
-        "title": "Ruby Central's Destructive Legacy",
-        "link": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
-        "pubDate": "2026-07-31T14:47",
-        "feedId": "lobsters"
-      },
-      {
         "title": "wiff",
         "link": "https://wezfurlong.org/wiff/",
         "pubDate": "2026-08-01T13:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Ruby Central's Destructive Legacy",
+        "link": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
+        "pubDate": "2026-07-31T14:47",
         "feedId": "lobsters"
       },
       {
@@ -128,15 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Test the Email Verification Protocol with an origin trial",
-        "link": "https://developer.chrome.com/blog/email-verification-protocol-origin-trial",
-        "pubDate": "2026-08-01T12:34",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Accepting a messy git history",
         "link": "https://beza1e1.tuxen.de/git_two_users.html",
         "pubDate": "2026-07-31T18:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Arch Linux disables AUR package adoption",
+        "link": "https://lwn.net/Articles/1086489/",
+        "pubDate": "2026-07-31T22:03",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Arch Linux disables AUR package adoption",
-        "link": "https://lwn.net/Articles/1086489/",
-        "pubDate": "2026-07-31T22:03",
+        "title": "Norway's first adventure games",
+        "link": "https://spillhistorie.no/2025/09/11/norways-first-adventure-games-part-1/",
+        "pubDate": "2026-08-01T09:02",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The development pipeline is a production system",
-        "link": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-        "pubDate": "2026-08-01T07:15",
+        "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+        "link": "https://servo.org/blog/2026/07/31/june-in-servo/",
+        "pubDate": "2026-07-31T17:32",
         "feedId": "lobsters"
       },
       {
         "title": "How to speed up the Rust compiler in July 2026",
         "link": "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html",
         "pubDate": "2026-07-31T05:46",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
-        "link": "https://servo.org/blog/2026/07/31/june-in-servo/",
-        "pubDate": "2026-07-31T17:32",
         "feedId": "lobsters"
       }
     ]
