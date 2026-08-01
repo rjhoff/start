@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+        "link": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+        "pubDate": "2026-08-01T14:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Art of 64-bit Assembly",
+        "link": "https://nostarch.com/art-64-bit-assembly-v2",
+        "pubDate": "2026-08-01T14:09",
+        "feedId": "hn"
+      },
+      {
         "title": "RipGrep musl binaries occasionally segfault during very-large searches",
         "link": "https://github.com/BurntSushi/ripgrep/issues/3494",
         "pubDate": "2026-08-01T12:34",
@@ -51,12 +63,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Ten Ways NAS Is Getting Enshitified",
-        "link": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
-        "pubDate": "2026-08-01T05:38",
-        "feedId": "hn"
-      },
-      {
         "title": "The development pipeline is a production system",
         "link": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
         "pubDate": "2026-08-01T03:16",
@@ -78,12 +84,6 @@
         "title": "Loops (YC W22) Is Hiring a Product Educator",
         "link": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
         "pubDate": "2026-07-31T21:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Golang proposal: container/: generic collection types",
-        "link": "https://github.com/golang/go/issues/80590",
-        "pubDate": "2026-07-31T18:39",
         "feedId": "hn"
       },
       {
@@ -110,6 +110,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "wiff",
+        "link": "https://wezfurlong.org/wiff/",
+        "pubDate": "2026-08-01T13:27",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Why I forked rand",
         "link": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
         "pubDate": "2026-07-31T15:02",
@@ -119,12 +125,6 @@
         "title": "Go 1.27 interactive tour",
         "link": "https://victoriametrics.com/blog/go-1-27/",
         "pubDate": "2026-07-31T11:15",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "wiff",
-        "link": "https://wezfurlong.org/wiff/",
-        "pubDate": "2026-08-01T13:27",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Stripe Just Wants a Number",
-        "link": "https://blog.exe.dev/billable-facts",
-        "pubDate": "2026-07-31T10:36",
+        "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+        "link": "https://servo.org/blog/2026/07/31/june-in-servo/",
+        "pubDate": "2026-07-31T17:32",
         "feedId": "lobsters"
       }
     ]
