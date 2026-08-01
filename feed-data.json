@@ -3,25 +3,55 @@
     "id": "hn",
     "items": [
       {
+        "title": "Top amputation surgeon had own legs removed due to fetish. Were patients safe?",
+        "link": "https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions",
+        "pubDate": "2026-08-01T19:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "But can your calculator run Linux?",
+        "link": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+        "pubDate": "2026-08-01T19:44",
+        "feedId": "hn"
+      },
+      {
+        "title": "Google News is just Forrest Gump's shrimp boat now",
+        "link": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+        "pubDate": "2026-08-01T19:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Fermi Paradox",
+        "link": "https://en.wikipedia.org/wiki/Fermi_paradox",
+        "pubDate": "2026-08-01T19:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "Signal Structure of the Starlink Ku-Band Downlink (2023) [pdf]",
+        "link": "https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf",
+        "pubDate": "2026-08-01T18:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "Chess Engine Dev Community Openly Hostile to AI Assisted Development",
+        "link": "https://github.com/adamtwiss/coda/issues/15",
+        "pubDate": "2026-08-01T18:57",
+        "feedId": "hn"
+      },
+      {
         "title": "Postmortem for Kernel Soundness Bug #14576",
         "link": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
         "pubDate": "2026-08-01T18:32",
         "feedId": "hn"
       },
       {
-        "title": "Oil companies report sky-high profits thanks to wartime crude prices",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026",
-        "pubDate": "2026-08-01T18:28",
+        "title": "How Google helped destroy adoption of RSS feeds (2023)",
+        "link": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+        "pubDate": "2026-08-01T18:07",
         "feedId": "hn"
       },
       {
-        "title": "Tell HN: I hate your fuzzy search",
-        "link": "https://news.ycombinator.com/item?id=49136990",
-        "pubDate": "2026-08-01T18:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "NetBSD 11.0 Released",
+        "title": "NetBSD 11.0",
         "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
         "pubDate": "2026-08-01T17:56",
         "feedId": "hn"
@@ -61,36 +91,6 @@
         "link": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
         "pubDate": "2026-08-01T15:25",
         "feedId": "hn"
-      },
-      {
-        "title": "Explorative modeling: Train on the best of K guesses",
-        "link": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-        "pubDate": "2026-08-01T15:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
-        "link": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
-        "pubDate": "2026-08-01T14:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Art of 64-bit Assembly",
-        "link": "https://nostarch.com/art-64-bit-assembly-v2",
-        "pubDate": "2026-08-01T14:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "RipGrep musl binaries occasionally segfault during very-large searches",
-        "link": "https://github.com/BurntSushi/ripgrep/issues/3494",
-        "pubDate": "2026-08-01T12:34",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kontigo (YC S24) Is Hiring",
-        "link": "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer",
-        "pubDate": "2026-08-01T12:00",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,9 +98,9 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Test the Email Verification Protocol with an origin trial",
-        "link": "https://developer.chrome.com/blog/email-verification-protocol-origin-trial",
-        "pubDate": "2026-08-01T12:34",
+        "title": "NetBSD 11.0 released",
+        "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+        "pubDate": "2026-08-01T17:57",
         "feedId": "lobsters"
       },
       {
@@ -110,15 +110,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "NetBSD 11.0 released",
-        "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-        "pubDate": "2026-08-01T17:57",
+        "title": "Test the Email Verification Protocol with an origin trial",
+        "link": "https://developer.chrome.com/blog/email-verification-protocol-origin-trial",
+        "pubDate": "2026-08-01T12:34",
         "feedId": "lobsters"
       },
       {
         "title": "Elevators",
         "link": "https://john.fun/elevators",
         "pubDate": "2026-08-01T05:49",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "An old-new take on argument parsing in Rust",
+        "link": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
+        "pubDate": "2026-08-01T19:31",
         "feedId": "lobsters"
       },
       {
@@ -131,6 +137,12 @@
         "title": "Why I forked rand",
         "link": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
         "pubDate": "2026-07-31T15:02",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "But can your calculator run Linux?",
+        "link": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+        "pubDate": "2026-08-01T19:44",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +170,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What Naur got wrong from The concept of mind",
-        "link": "https://tssm.neocities.org/what-naur-got-wrong-from-the-concept-of-mind",
-        "pubDate": "2026-08-01T18:39",
+        "title": "The Wheels We Keep Reinventing",
+        "link": "https://blainsmith.com/articles/reinventing-the-wheel/",
+        "pubDate": "2026-07-31T17:48",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Wheels We Keep Reinventing",
-        "link": "https://blainsmith.com/articles/reinventing-the-wheel/",
-        "pubDate": "2026-07-31T17:48",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Guix shell now inside Emacs",
-        "link": "https://tusharhero.codeberg.page/guix-shell-in-emacs.html",
-        "pubDate": "2026-07-31T17:58",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The development pipeline is a production system",
-        "link": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-        "pubDate": "2026-08-01T07:15",
+        "title": "What Naur got wrong from The concept of mind",
+        "link": "https://tssm.neocities.org/what-naur-got-wrong-from-the-concept-of-mind",
+        "pubDate": "2026-08-01T18:39",
         "feedId": "lobsters"
       }
     ]
