@@ -3,6 +3,36 @@
     "id": "hn",
     "items": [
       {
+        "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+        "link": "https://frogs.vaguespac.es/",
+        "pubDate": "2026-08-02T19:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "EU rules on AI models become enforceable. What's going to change?",
+        "link": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+        "pubDate": "2026-08-02T19:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "German carmakers flood jobs market with managers after wielding axe",
+        "link": "https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597",
+        "pubDate": "2026-08-02T19:24",
+        "feedId": "hn"
+      },
+      {
+        "title": "Europe EV Sales BEVs Jump 50% & Reach 26% Market Share",
+        "link": "https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/",
+        "pubDate": "2026-08-02T19:20",
+        "feedId": "hn"
+      },
+      {
+        "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
+        "link": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
+        "pubDate": "2026-08-02T19:19",
+        "feedId": "hn"
+      },
+      {
         "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
         "link": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
         "pubDate": "2026-08-02T17:45",
@@ -12,12 +42,6 @@
         "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
         "link": "https://github.com/graham33/nixos-dgx-spark",
         "pubDate": "2026-08-02T17:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "Pushes to arch AUR are suspendended right now.",
-        "link": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/",
-        "pubDate": "2026-08-02T17:03",
         "feedId": "hn"
       },
       {
@@ -36,12 +60,6 @@
         "title": "How the words we teach English language learners changed",
         "link": "https://pudding.cool/2026/07/essential-words/",
         "pubDate": "2026-08-02T15:41",
-        "feedId": "hn"
-      },
-      {
-        "title": "A Rant About “Technology” (2005)",
-        "link": "https://www.ursulakleguin.com/a-rant-about-technology",
-        "pubDate": "2026-08-02T14:51",
         "feedId": "hn"
       },
       {
@@ -73,24 +91,6 @@
         "link": "https://fuselang.org",
         "pubDate": "2026-08-02T11:23",
         "feedId": "hn"
-      },
-      {
-        "title": "Rust All Hands 2026 Retrospective",
-        "link": "https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/",
-        "pubDate": "2026-08-02T10:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-        "link": "https://publicdomainreview.org/essay/ars-notoria/",
-        "pubDate": "2026-08-02T10:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
-        "link": "https://github.com/syncular/syncular",
-        "pubDate": "2026-08-02T09:48",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,6 +110,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "I'm (mostly) picking models on speed now, not intelligence",
+        "link": "https://martinalderson.com/posts/speed-vs-intelligence/",
+        "pubDate": "2026-08-02T13:49",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
         "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "pubDate": "2026-08-02T10:31",
@@ -122,15 +128,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I'm (mostly) picking models on speed now, not intelligence",
-        "link": "https://martinalderson.com/posts/speed-vs-intelligence/",
-        "pubDate": "2026-08-02T13:49",
-        "feedId": "lobsters"
-      },
-      {
         "title": "NetBSD 11.0 released",
         "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
         "pubDate": "2026-08-01T17:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Getting Started with Google Wave (2010)",
+        "link": "https://www.youtube.com/watch?v=eKUAqNGVwX0",
+        "pubDate": "2026-08-02T17:25",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Guarded methods in OCaml",
+        "link": "https://xvw.lol/en/articles/oop-refl.html",
+        "pubDate": "2026-08-02T13:03",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How fast is C++26’s std::hive?",
+        "link": "https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/",
+        "pubDate": "2026-08-02T18:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Resigning from Arch Linux",
+        "link": "https://linderud.dev/blog/resigning-from-arch-linux/",
+        "pubDate": "2026-08-01T22:47",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +170,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Resigning from Arch Linux",
-        "link": "https://linderud.dev/blog/resigning-from-arch-linux/",
-        "pubDate": "2026-08-01T22:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Guarded methods in OCaml",
-        "link": "https://xvw.lol/en/articles/oop-refl.html",
-        "pubDate": "2026-08-02T13:03",
+        "title": "EPIPE on write might mean you're doing it wrong",
+        "link": "https://rachelbythebay.com/w/2026/07/09/pipe/",
+        "pubDate": "2026-08-02T08:35",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "EPIPE on write might mean you're doing it wrong",
-        "link": "https://rachelbythebay.com/w/2026/07/09/pipe/",
-        "pubDate": "2026-08-02T08:35",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Getting Started with Google Wave (2010)",
-        "link": "https://www.youtube.com/watch?v=eKUAqNGVwX0",
-        "pubDate": "2026-08-02T17:25",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Fixi Project",
-        "link": "https://fixiproject.org/docs.html",
-        "pubDate": "2026-08-02T00:51",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Ten advances in mathematics and theoretical computer science",
-        "link": "https://openai.com/index/ten-advances-in-mathematics/",
-        "pubDate": "2026-08-02T08:15",
+        "title": "Twenty years of RISC OS Open",
+        "link": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+        "pubDate": "2026-08-02T18:33",
         "feedId": "lobsters"
       }
     ]
@@ -290,7 +290,7 @@
       {
         "title": "Rep. Max Miller not dropping out after domestic abuse allegations",
         "link": "https://www.axios.com/2026/08/02/max-miller-moreno-abuse-allegations",
-        "pubDate": "2026-08-02T18:43",
+        "pubDate": "2026-08-02T20:10",
         "feedId": "axios"
       },
       {
