@@ -3,21 +3,63 @@
     "id": "hn",
     "items": [
       {
+        "title": "Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust",
+        "link": "https://github.com/0xchasercat/draco/",
+        "pubDate": "2026-08-02T20:48",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI Mania: From Tulips to Tokens",
+        "link": "https://seanhelvey.com/tools-and-their-tools/",
+        "pubDate": "2026-08-02T20:48",
+        "feedId": "hn"
+      },
+      {
+        "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
+        "link": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
+        "pubDate": "2026-08-02T20:44",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Make your Framework 12 sound like a creaky door",
+        "link": "https://github.com/ArcaEge/creakwork12",
+        "pubDate": "2026-08-02T20:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Sharing an X11 Server Across Hosts with FamilyWild",
+        "link": "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/",
+        "pubDate": "2026-08-02T20:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "Let the Machines In",
+        "link": "https://blog.semenzin.com/let-the-machines-in/",
+        "pubDate": "2026-08-02T20:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "Adding Go's Defer to the TypeScript Compiler",
+        "link": "https://healeycodes.com/adding-defer-to-the-typescript-compiler",
+        "pubDate": "2026-08-02T20:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+        "link": "https://github.com/paoloanzn/microcodex",
+        "pubDate": "2026-08-02T20:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "TinyNES Review – A Super Niche NES Console",
+        "link": "https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/",
+        "pubDate": "2026-08-02T20:01",
+        "feedId": "hn"
+      },
+      {
         "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
         "link": "https://frogs.vaguespac.es/",
         "pubDate": "2026-08-02T19:42",
-        "feedId": "hn"
-      },
-      {
-        "title": "EU rules on AI models become enforceable. What's going to change?",
-        "link": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-        "pubDate": "2026-08-02T19:40",
-        "feedId": "hn"
-      },
-      {
-        "title": "German carmakers flood jobs market with managers after wielding axe",
-        "link": "https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597",
-        "pubDate": "2026-08-02T19:24",
         "feedId": "hn"
       },
       {
@@ -33,6 +75,12 @@
         "feedId": "hn"
       },
       {
+        "title": "The Myth of Snow Leopard",
+        "link": "https://www.rubenerd.au/the-myth-of-snow-leopard/",
+        "pubDate": "2026-08-02T18:21",
+        "feedId": "hn"
+      },
+      {
         "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
         "link": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
         "pubDate": "2026-08-02T17:45",
@@ -42,54 +90,6 @@
         "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
         "link": "https://github.com/graham33/nixos-dgx-spark",
         "pubDate": "2026-08-02T17:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-        "link": "https://github.com/wie-project/kakehashi",
-        "pubDate": "2026-08-02T16:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
-        "link": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
-        "pubDate": "2026-08-02T16:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "How the words we teach English language learners changed",
-        "link": "https://pudding.cool/2026/07/essential-words/",
-        "pubDate": "2026-08-02T15:41",
-        "feedId": "hn"
-      },
-      {
-        "title": "Twenty Years of RISC OS Open",
-        "link": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-        "pubDate": "2026-08-02T12:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "F*: A general-purpose proof-oriented programming language",
-        "link": "https://fstar-lang.org/",
-        "pubDate": "2026-08-02T12:31",
-        "feedId": "hn"
-      },
-      {
-        "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
-        "link": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
-        "pubDate": "2026-08-02T12:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
-        "link": "https://meshdiff.com/",
-        "pubDate": "2026-08-02T11:34",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Fuse – statically typed functional programming language",
-        "link": "https://fuselang.org",
-        "pubDate": "2026-08-02T11:23",
         "feedId": "hn"
       }
     ]
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "sizeof is surprisingly difficult to parse in c",
-        "link": "https://sebsite.pw/w/20260802-sizeof.html",
-        "pubDate": "2026-08-02T06:01",
-        "feedId": "lobsters"
-      },
-      {
         "title": "I'm (mostly) picking models on speed now, not intelligence",
         "link": "https://martinalderson.com/posts/speed-vs-intelligence/",
         "pubDate": "2026-08-02T13:49",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "sizeof is surprisingly difficult to parse in c",
+        "link": "https://sebsite.pw/w/20260802-sizeof.html",
+        "pubDate": "2026-08-02T06:01",
         "feedId": "lobsters"
       },
       {
@@ -128,21 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "NetBSD 11.0 released",
-        "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-        "pubDate": "2026-08-01T17:57",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Getting Started with Google Wave (2010)",
         "link": "https://www.youtube.com/watch?v=eKUAqNGVwX0",
         "pubDate": "2026-08-02T17:25",
         "feedId": "lobsters"
       },
       {
-        "title": "Guarded methods in OCaml",
-        "link": "https://xvw.lol/en/articles/oop-refl.html",
-        "pubDate": "2026-08-02T13:03",
+        "title": "NetBSD 11.0 released",
+        "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+        "pubDate": "2026-08-01T17:57",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +146,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Resigning from Arch Linux",
-        "link": "https://linderud.dev/blog/resigning-from-arch-linux/",
-        "pubDate": "2026-08-01T22:47",
+        "title": "Guarded methods in OCaml",
+        "link": "https://xvw.lol/en/articles/oop-refl.html",
+        "pubDate": "2026-08-02T13:03",
         "feedId": "lobsters"
       },
       {
-        "title": "An old-new take on argument parsing in Rust",
-        "link": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
-        "pubDate": "2026-08-01T19:31",
+        "title": "Faster floating point math with Rust’s new API",
+        "link": "https://pythonspeed.com/articles/faster-float-math-rust/",
+        "pubDate": "2026-08-02T20:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Resigning from Arch Linux",
+        "link": "https://linderud.dev/blog/resigning-from-arch-linux/",
+        "pubDate": "2026-08-01T22:47",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Postmortem for Lean Kernel Soundness Bug #14576",
-        "link": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-        "pubDate": "2026-08-01T21:51",
+        "title": "An old-new take on argument parsing in Rust",
+        "link": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
+        "pubDate": "2026-08-01T19:31",
         "feedId": "lobsters"
       },
       {
-        "title": "Twenty years of RISC OS Open",
-        "link": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-        "pubDate": "2026-08-02T18:33",
+        "title": "Postmortem for Lean Kernel Soundness Bug #14576",
+        "link": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+        "pubDate": "2026-08-01T21:51",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Ossoff: The next thing, or  \"Great White Hype\" for Dems?",
+        "link": "https://www.axios.com/2026/08/02/jon-ossoff-georgia-hype-2028-election",
+        "pubDate": "2026-08-02T21:30",
+        "feedId": "axios"
+      },
+      {
         "title": "Rep. Max Miller not dropping out after domestic abuse allegations",
         "link": "https://www.axios.com/2026/08/02/max-miller-moreno-abuse-allegations",
         "pubDate": "2026-08-02T20:10",
@@ -369,12 +375,6 @@
         "title": "Trump administration's health leadership reboot sputters",
         "link": "https://www.axios.com/2026/07/31/rfk-hhs-vaccines-shaky-leadership-reboot",
         "pubDate": "2026-07-31T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: FBI gets voter's IP address in new fraud probe tactic",
-        "link": "https://www.axios.com/2026/07/31/fbi-voter-ip-address-investigation",
-        "pubDate": "2026-07-31T09:20",
         "feedId": "axios"
       }
     ]
