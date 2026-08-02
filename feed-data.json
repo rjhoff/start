@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
+        "link": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
+        "pubDate": "2026-08-02T17:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+        "link": "https://github.com/graham33/nixos-dgx-spark",
+        "pubDate": "2026-08-02T17:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "Pushes to arch AUR are suspendended right now.",
+        "link": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/",
+        "pubDate": "2026-08-02T17:03",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
         "link": "https://github.com/wie-project/kakehashi",
         "pubDate": "2026-08-02T16:26",
@@ -57,18 +75,6 @@
         "feedId": "hn"
       },
       {
-        "title": "US Treasury undertakes historic intervention in yen market",
-        "link": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8",
-        "pubDate": "2026-08-02T10:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
-        "link": "https://github.com/kamalfarahani/katharos",
-        "pubDate": "2026-08-02T10:45",
-        "feedId": "hn"
-      },
-      {
         "title": "Rust All Hands 2026 Retrospective",
         "link": "https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/",
         "pubDate": "2026-08-02T10:33",
@@ -84,12 +90,6 @@
         "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
         "link": "https://github.com/syncular/syncular",
         "pubDate": "2026-08-02T09:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Bor – Open-source policy management for Linux desktops",
-        "link": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-        "pubDate": "2026-08-02T09:06",
         "feedId": "hn"
       }
     ]
@@ -116,12 +116,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "NetBSD 11.0 released",
-        "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-        "pubDate": "2026-08-01T17:57",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Where's your website?",
         "link": "https://www.arscyni.cc/file/warez_your_website.html",
         "pubDate": "2026-08-02T11:44",
@@ -134,9 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Resigning from Arch Linux",
-        "link": "https://linderud.dev/blog/resigning-from-arch-linux/",
-        "pubDate": "2026-08-01T22:47",
+        "title": "NetBSD 11.0 released",
+        "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+        "pubDate": "2026-08-01T17:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "An old-new take on argument parsing in Rust",
+        "link": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
+        "pubDate": "2026-08-01T19:31",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "An old-new take on argument parsing in Rust",
-        "link": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
-        "pubDate": "2026-08-01T19:31",
+        "title": "Resigning from Arch Linux",
+        "link": "https://linderud.dev/blog/resigning-from-arch-linux/",
+        "pubDate": "2026-08-01T22:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Guarded methods in OCaml",
+        "link": "https://xvw.lol/en/articles/oop-refl.html",
+        "pubDate": "2026-08-02T13:03",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "But can your calculator run Linux?",
-        "link": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
-        "pubDate": "2026-08-01T19:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Ten advances in mathematics and theoretical computer science",
-        "link": "https://openai.com/index/ten-advances-in-mathematics/",
-        "pubDate": "2026-08-02T08:15",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Guarded methods in OCaml",
-        "link": "https://xvw.lol/en/articles/oop-refl.html",
-        "pubDate": "2026-08-02T13:03",
+        "title": "Getting Started with Google Wave (2010)",
+        "link": "https://www.youtube.com/watch?v=eKUAqNGVwX0",
+        "pubDate": "2026-08-02T17:25",
         "feedId": "lobsters"
       },
       {
         "title": "The Fixi Project",
         "link": "https://fixiproject.org/docs.html",
         "pubDate": "2026-08-02T00:51",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Ten advances in mathematics and theoretical computer science",
+        "link": "https://openai.com/index/ten-advances-in-mathematics/",
+        "pubDate": "2026-08-02T08:15",
         "feedId": "lobsters"
       }
     ]
@@ -290,7 +290,7 @@
       {
         "title": "Rep. Max Miller not dropping out after domestic abuse allegations",
         "link": "https://www.axios.com/2026/08/02/max-miller-moreno-abuse-allegations",
-        "pubDate": "2026-08-02T16:55",
+        "pubDate": "2026-08-02T18:43",
         "feedId": "axios"
       },
       {
