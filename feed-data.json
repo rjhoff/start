@@ -3,39 +3,39 @@
     "id": "hn",
     "items": [
       {
+        "title": "Nerd culture is murdering intellectuals",
+        "link": "https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals",
+        "pubDate": "2026-08-02T07:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Tone Generator",
+        "link": "https://soundtonegenerator.com/",
+        "pubDate": "2026-08-02T07:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "I don't recommend Tailwind CSS",
+        "link": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
+        "pubDate": "2026-08-02T07:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "CRM: An open-source, agentic-first CRM",
+        "link": "https://github.com/trycompai/crm",
+        "pubDate": "2026-08-02T06:59",
+        "feedId": "hn"
+      },
+      {
         "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
         "link": "https://www.wafer.ai/blog/kimi-k3-mi355x",
         "pubDate": "2026-08-02T04:21",
         "feedId": "hn"
       },
       {
-        "title": "Don't credit the LLM",
-        "link": "https://isaacsu.com/2026/08/dont-credit-the-llm/",
-        "pubDate": "2026-08-02T04:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "Canadians are leaving the country at record levels. Can anyone solve this?",
-        "link": "https://thehub.ca/2026/04/03/can-anyone-solve-canadas-brain-drain-problem/",
-        "pubDate": "2026-08-02T04:05",
-        "feedId": "hn"
-      },
-      {
         "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
         "link": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
         "pubDate": "2026-08-02T03:12",
-        "feedId": "hn"
-      },
-      {
-        "title": "Linux desktop market share has hit over 10% in North America",
-        "link": "https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/",
-        "pubDate": "2026-08-02T03:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "Plug-in solar is coming. Plug-in batteries should follow",
-        "link": "https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow",
-        "pubDate": "2026-08-02T02:57",
         "feedId": "hn"
       },
       {
@@ -63,12 +63,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-        "link": "https://costperprompt.com/",
-        "pubDate": "2026-08-02T01:56",
-        "feedId": "hn"
-      },
-      {
         "title": "Go 1.27 Interactive Tour",
         "link": "https://victoriametrics.com/blog/go-1-27/index.html",
         "pubDate": "2026-08-02T01:35",
@@ -81,15 +75,21 @@
         "feedId": "hn"
       },
       {
-        "title": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
-        "link": "https://zenodo.org/records/21753002",
-        "pubDate": "2026-08-02T01:01",
+        "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+        "link": "https://www.rfc-editor.org/rfc/rfc10015.html",
+        "pubDate": "2026-08-01T23:44",
         "feedId": "hn"
       },
       {
-        "title": "Kobuk the Destroyer – Tales from the Wild, Unseen World of Test Engineering",
-        "link": "https://wwnorton.com/books/9781324051299",
-        "pubDate": "2026-08-02T00:01",
+        "title": "Unraveling the mysteries of habit formation",
+        "link": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
+        "pubDate": "2026-08-01T22:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
+        "link": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
+        "pubDate": "2026-08-01T22:52",
         "feedId": "hn"
       }
     ]
@@ -110,21 +110,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Atom is better than RSS, in ways that matter",
+        "link": "https://chrismorgan.info/atom%3Erss",
+        "pubDate": "2026-08-02T04:40",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Resigning from Arch Linux",
         "link": "https://linderud.dev/blog/resigning-from-arch-linux/",
         "pubDate": "2026-08-01T22:47",
         "feedId": "lobsters"
       },
       {
-        "title": "But can your calculator run Linux?",
-        "link": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
-        "pubDate": "2026-08-01T19:44",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Postmortem for Lean Kernel Soundness Bug #14576",
         "link": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
         "pubDate": "2026-08-01T21:51",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "But can your calculator run Linux?",
+        "link": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+        "pubDate": "2026-08-01T19:44",
         "feedId": "lobsters"
       },
       {
@@ -140,21 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "LLMs won't break symmetric crypto",
-        "link": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-        "pubDate": "2026-08-01T21:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Elevators",
-        "link": "https://john.fun/elevators",
-        "pubDate": "2026-08-01T05:49",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Test the Email Verification Protocol with an origin trial",
-        "link": "https://developer.chrome.com/blog/email-verification-protocol-origin-trial",
-        "pubDate": "2026-08-01T12:34",
+        "title": "sizeof is surprisingly difficult to parse in c",
+        "link": "https://sebsite.pw/w/20260802-sizeof.html",
+        "pubDate": "2026-08-02T06:01",
         "feedId": "lobsters"
       },
       {
@@ -164,9 +158,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "LLMs won't break symmetric crypto",
+        "link": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+        "pubDate": "2026-08-01T21:11",
+        "feedId": "lobsters"
+      },
+      {
         "title": "A week in Matrix",
         "link": "https://piegames.de/dumps/a-week-in-matrix/",
         "pubDate": "2026-08-01T23:19",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Elevators",
+        "link": "https://john.fun/elevators",
+        "pubDate": "2026-08-01T05:49",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
-        "link": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
-        "pubDate": "2026-08-02T02:56",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Atom is better than RSS, in ways that matter",
-        "link": "https://chrismorgan.info/atom%3Erss",
-        "pubDate": "2026-08-02T04:40",
+        "title": "Test the Email Verification Protocol with an origin trial",
+        "link": "https://developer.chrome.com/blog/email-verification-protocol-origin-trial",
+        "pubDate": "2026-08-01T12:34",
         "feedId": "lobsters"
       }
     ]
