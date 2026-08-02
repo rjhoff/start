@@ -3,6 +3,72 @@
     "id": "hn",
     "items": [
       {
+        "title": "A Rant About “Technology” (2005)",
+        "link": "https://www.ursulakleguin.com/a-rant-about-technology",
+        "pubDate": "2026-08-02T14:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "Twenty Years of RISC OS Open",
+        "link": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+        "pubDate": "2026-08-02T12:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "F*: A general-purpose proof-oriented programming language",
+        "link": "https://fstar-lang.org/",
+        "pubDate": "2026-08-02T12:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+        "link": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
+        "pubDate": "2026-08-02T12:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
+        "link": "https://meshdiff.com/",
+        "pubDate": "2026-08-02T11:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
+        "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
+        "pubDate": "2026-08-02T11:24",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Fuse – statically typed functional programming language",
+        "link": "https://fuselang.org",
+        "pubDate": "2026-08-02T11:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "US Treasury undertakes historic intervention in yen market",
+        "link": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8",
+        "pubDate": "2026-08-02T10:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
+        "link": "https://github.com/kamalfarahani/katharos",
+        "pubDate": "2026-08-02T10:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "Rust All Hands 2026 Retrospective",
+        "link": "https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/",
+        "pubDate": "2026-08-02T10:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+        "link": "https://publicdomainreview.org/essay/ars-notoria/",
+        "pubDate": "2026-08-02T10:18",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
         "link": "https://github.com/syncular/syncular",
         "pubDate": "2026-08-02T09:48",
@@ -15,81 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "The time filter in Google Search broke a few days ago",
-        "link": "https://mastodon.online/@mwichary/117023736804129342",
-        "pubDate": "2026-08-02T08:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "Cyberscript",
-        "link": "https://cyberscript.dev",
-        "pubDate": "2026-08-02T07:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "Mathematics Without Mathematicians",
-        "link": "https://borretti.me/article/mathematics-without-mathematicians",
-        "pubDate": "2026-08-02T07:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "Police in the US are making their own true crime podcasts",
-        "link": "https://www.bbc.com/news/articles/cpw9q0ekd9eo",
-        "pubDate": "2026-08-02T07:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "IBM i (OS/400) the Database Operating System",
-        "link": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
-        "pubDate": "2026-08-02T07:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "I don't recommend Tailwind CSS",
-        "link": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
-        "pubDate": "2026-08-02T07:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "Agent4Lease",
-        "link": "https://agent4lease.com/",
-        "pubDate": "2026-08-02T06:59",
+        "title": "ESP32-C3 SuperMini antenna modification",
+        "link": "https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/",
+        "pubDate": "2026-08-02T06:56",
         "feedId": "hn"
       },
       {
         "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
         "link": "https://www.wafer.ai/blog/kimi-k3-mi355x",
         "pubDate": "2026-08-02T04:21",
-        "feedId": "hn"
-      },
-      {
-        "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
-        "link": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
-        "pubDate": "2026-08-02T03:12",
-        "feedId": "hn"
-      },
-      {
-        "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
-        "link": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#",
-        "pubDate": "2026-08-02T02:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "When random.bytes() runs but doesn't work",
-        "link": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
-        "pubDate": "2026-08-02T02:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
-        "link": "https://github.com/tom-ilan/cycloidal_gearbox",
-        "pubDate": "2026-08-02T02:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "Go 1.27 Interactive Tour",
-        "link": "https://victoriametrics.com/blog/go-1-27/index.html",
-        "pubDate": "2026-08-02T01:35",
         "feedId": "hn"
       }
     ]
@@ -98,21 +98,9 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "NetBSD 11.0 released",
-        "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-        "pubDate": "2026-08-01T17:57",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Atom is better than RSS, in ways that matter",
         "link": "https://chrismorgan.info/atom%3Erss",
         "pubDate": "2026-08-02T04:40",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "An old-new take on argument parsing in Rust",
-        "link": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
-        "pubDate": "2026-08-01T19:31",
         "feedId": "lobsters"
       },
       {
@@ -122,9 +110,39 @@
         "feedId": "lobsters"
       },
       {
+        "title": "NetBSD 11.0 released",
+        "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+        "pubDate": "2026-08-01T17:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+        "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+        "pubDate": "2026-08-02T10:31",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Where's your website?",
+        "link": "https://www.arscyni.cc/file/warez_your_website.html",
+        "pubDate": "2026-08-02T11:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "An old-new take on argument parsing in Rust",
+        "link": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
+        "pubDate": "2026-08-01T19:31",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Resigning from Arch Linux",
         "link": "https://linderud.dev/blog/resigning-from-arch-linux/",
         "pubDate": "2026-08-01T22:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Mathematics Without Mathematicians",
+        "link": "https://borretti.me/article/mathematics-without-mathematicians",
+        "pubDate": "2026-08-02T09:30",
         "feedId": "lobsters"
       },
       {
@@ -134,57 +152,39 @@
         "feedId": "lobsters"
       },
       {
+        "title": "I'm (mostly) picking models on speed now, not intelligence",
+        "link": "https://martinalderson.com/posts/speed-vs-intelligence/",
+        "pubDate": "2026-08-02T13:49",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Guarded methods in OCaml",
+        "link": "https://xvw.lol/en/articles/oop-refl.html",
+        "pubDate": "2026-08-02T13:03",
+        "feedId": "lobsters"
+      },
+      {
         "title": "But can your calculator run Linux?",
         "link": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
         "pubDate": "2026-08-01T19:44",
         "feedId": "lobsters"
       },
       {
-        "title": "wiff",
-        "link": "https://wezfurlong.org/wiff/",
-        "pubDate": "2026-08-01T13:27",
+        "title": "EPIPE on write might mean you're doing it wrong",
+        "link": "https://rachelbythebay.com/w/2026/07/09/pipe/",
+        "pubDate": "2026-08-02T08:35",
         "feedId": "lobsters"
       },
       {
-        "title": "Apple Screen Sharing Pre-Auth RCE",
-        "link": "https://warez.sl0p.foo/apple-screensharing-rce/",
-        "pubDate": "2026-08-01T19:39",
+        "title": "Ten advances in mathematics and theoretical computer science",
+        "link": "https://openai.com/index/ten-advances-in-mathematics/",
+        "pubDate": "2026-08-02T08:15",
         "feedId": "lobsters"
       },
       {
         "title": "The Fixi Project",
         "link": "https://fixiproject.org/docs.html",
         "pubDate": "2026-08-02T00:51",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A week in Matrix",
-        "link": "https://piegames.de/dumps/a-week-in-matrix/",
-        "pubDate": "2026-08-01T23:19",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "LLMs won't break symmetric crypto",
-        "link": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-        "pubDate": "2026-08-01T21:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Elevators",
-        "link": "https://john.fun/elevators",
-        "pubDate": "2026-08-01T05:49",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Test the Email Verification Protocol with an origin trial",
-        "link": "https://developer.chrome.com/blog/email-verification-protocol-origin-trial",
-        "pubDate": "2026-08-01T12:34",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "FlickBoard",
-        "link": "https://natkr.com/2026-08-02-flickboard/",
-        "pubDate": "2026-08-02T04:09",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,30 @@
     "id": "axios",
     "items": [
       {
+        "title": "The pre-Trump GOP is coming for Vance ahead of 2028",
+        "link": "https://www.axios.com/2026/08/02/vance-wsj-trump-rubio-2028",
+        "pubDate": "2026-08-02T15:15",
+        "feedId": "axios"
+      },
+      {
+        "title": "\"Growing pressure\" as Nancy Guthrie search passes six months",
+        "link": "https://www.axios.com/2026/08/02/nancy-guthrie-search-six-months",
+        "pubDate": "2026-08-02T13:29",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump's final act begins",
+        "link": "https://www.axios.com/2026/08/02/trump-gop-control-midterms-investigations",
+        "pubDate": "2026-08-02T12:59",
+        "feedId": "axios"
+      },
+      {
+        "title": "AI's manifesto war",
+        "link": "https://www.axios.com/2026/08/02/ai-manifesto-open-weight-models",
+        "pubDate": "2026-08-02T12:21",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump cancels Iran attack, citing progress in negotiations",
         "link": "https://www.axios.com/2026/08/02/trump-iran-attack-cancelled",
         "pubDate": "2026-08-02T03:40",
@@ -351,30 +375,6 @@
         "title": "How extreme weather is shaping tomorrow's electric grid",
         "link": "https://www.axios.com/2026/07/31/us-electric-grid-extreme-weather",
         "pubDate": "2026-07-31T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Publishers are losing Google traffic as AI answers replace links",
-        "link": "https://www.axios.com/2026/07/31/google-search-publishers-seo-geo-llms-ai",
-        "pubDate": "2026-07-31T09:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "Inside Europe's lessons on AI safety as U.S. rules loom",
-        "link": "https://www.axios.com/2026/07/31/inside-europe-lessons-ai-safety-trump-rules-loom",
-        "pubDate": "2026-07-31T09:05",
-        "feedId": "axios"
-      },
-      {
-        "title": "Divided Democrats face a moment of truth in Michigan Senate primary",
-        "link": "https://www.axios.com/2026/07/31/democrats-michigan-el-sayed-stevens-senate-primary",
-        "pubDate": "2026-07-31T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump touts \"historic\" agreement to disarm Hamas, rebuild Gaza",
-        "link": "https://www.axios.com/2026/07/30/hamas-weapons-gaza-deal-israel-board-peace",
-        "pubDate": "2026-07-31T00:30",
         "feedId": "axios"
       }
     ]
