@@ -3,93 +3,93 @@
     "id": "hn",
     "items": [
       {
-        "title": "Morph (YC S23) Is Hiring Member of Technical Stuff",
+        "title": "Go 1.27 Interactive Tour",
+        "link": "https://victoriametrics.com/blog/go-1-27/index.html",
+        "pubDate": "2026-08-02T01:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "ASRock BC-250: Building the Budget Steam Machine",
+        "link": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+        "pubDate": "2026-08-02T01:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+        "link": "https://zenodo.org/records/21753002",
+        "pubDate": "2026-08-02T01:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Walsh: Multi-agent research pipeline with risk manager that can veto trades",
+        "link": "https://github.com/ats4321/walsh",
+        "pubDate": "2026-08-02T00:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+        "link": "https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/",
+        "pubDate": "2026-08-02T00:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Kobuk the Destroyer – Tales from the Wild, Unseen World of Test Engineering",
+        "link": "https://wwnorton.com/books/9781324051299",
+        "pubDate": "2026-08-02T00:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "A Uiua Type System (2025)",
+        "link": "https://www.uiua.org/blog/a-uiua-type-system",
+        "pubDate": "2026-08-01T23:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+        "link": "https://www.rfc-editor.org/rfc/rfc10015.html",
+        "pubDate": "2026-08-01T23:44",
+        "feedId": "hn"
+      },
+      {
+        "title": "Moore's Law for Everything (2021)",
+        "link": "https://moores.samaltman.com/",
+        "pubDate": "2026-08-01T23:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Art Invented Humanity",
+        "link": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
+        "pubDate": "2026-08-01T22:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "Unraveling the mysteries of habit formation",
+        "link": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
+        "pubDate": "2026-08-01T22:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
         "link": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
         "pubDate": "2026-08-01T22:52",
         "feedId": "hn"
       },
       {
-        "title": "\"Everyone Has Been Sold a Lie\" on AI",
-        "link": "https://www.youtube.com/watch?v=pHcZpvIfho0",
-        "pubDate": "2026-08-01T22:50",
+        "title": "Anime User Interfaces",
+        "link": "https://animeuserinterface.tumblr.com",
+        "pubDate": "2026-08-01T22:47",
         "feedId": "hn"
       },
       {
-        "title": "From MIT: AI financial advice is surprisingly good",
+        "title": "AI opens new era in cognitive studies of wild primates",
+        "link": "https://news.emory.edu/features/2026/07/ai-opens-new-era-cognitive-studies-wild-primates",
+        "pubDate": "2026-08-01T22:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI financial advice is surprisingly good, especially if you ask right questions",
         "link": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
         "pubDate": "2026-08-01T22:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "Seedance 2.5",
-        "link": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-        "pubDate": "2026-08-01T20:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "Diátaxis",
-        "link": "https://diataxis.fr/",
-        "pubDate": "2026-08-01T20:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Silicon Valley Founder Meat Grinder",
-        "link": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
-        "pubDate": "2026-08-01T20:20",
-        "feedId": "hn"
-      },
-      {
-        "title": "But can your calculator run Linux?",
-        "link": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
-        "pubDate": "2026-08-01T19:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "CISA Alert: Water Sector PLC Targeting",
-        "link": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
-        "pubDate": "2026-08-01T18:50",
-        "feedId": "hn"
-      },
-      {
-        "title": "Postmortem for Kernel Soundness Bug #14576",
-        "link": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-        "pubDate": "2026-08-01T18:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-        "link": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
-        "pubDate": "2026-08-01T18:21",
-        "feedId": "hn"
-      },
-      {
-        "title": "How Google helped destroy adoption of RSS feeds (2023)",
-        "link": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-        "pubDate": "2026-08-01T18:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "NetBSD 11.0",
-        "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-        "pubDate": "2026-08-01T17:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
-        "link": "https://kaisel.dev/",
-        "pubDate": "2026-08-01T16:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "Pgtestdb's template cloning approach to testing is fast",
-        "link": "https://brandur.org/fragments/pgtestdb",
-        "pubDate": "2026-08-01T16:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga",
-        "link": "https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe",
-        "pubDate": "2026-08-01T15:46",
         "feedId": "hn"
       }
     ]
@@ -110,45 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "wiff",
-        "link": "https://wezfurlong.org/wiff/",
-        "pubDate": "2026-08-01T13:27",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Apple Screen Sharing Pre-Auth RCE",
-        "link": "https://warez.sl0p.foo/apple-screensharing-rce/",
-        "pubDate": "2026-08-01T19:39",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Test the Email Verification Protocol with an origin trial",
-        "link": "https://developer.chrome.com/blog/email-verification-protocol-origin-trial",
-        "pubDate": "2026-08-01T12:34",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Elevators",
-        "link": "https://john.fun/elevators",
-        "pubDate": "2026-08-01T05:49",
-        "feedId": "lobsters"
-      },
-      {
         "title": "But can your calculator run Linux?",
         "link": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
         "pubDate": "2026-08-01T19:44",
         "feedId": "lobsters"
       },
       {
-        "title": "LLMs won't break symmetric crypto",
-        "link": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-        "pubDate": "2026-08-01T21:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Ruby Central's Destructive Legacy",
-        "link": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
-        "pubDate": "2026-07-31T14:47",
+        "title": "wiff",
+        "link": "https://wezfurlong.org/wiff/",
+        "pubDate": "2026-08-01T13:27",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why I forked rand",
-        "link": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
-        "pubDate": "2026-07-31T15:02",
+        "title": "Apple Screen Sharing Pre-Auth RCE",
+        "link": "https://warez.sl0p.foo/apple-screensharing-rce/",
+        "pubDate": "2026-08-01T19:39",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A week in Matrix",
+        "link": "https://piegames.de/dumps/a-week-in-matrix/",
+        "pubDate": "2026-08-01T23:19",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +146,45 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Norway's first adventure games",
-        "link": "https://spillhistorie.no/2025/09/11/norways-first-adventure-games-part-1/",
-        "pubDate": "2026-08-01T09:02",
+        "title": "Test the Email Verification Protocol with an origin trial",
+        "link": "https://developer.chrome.com/blog/email-verification-protocol-origin-trial",
+        "pubDate": "2026-08-01T12:34",
         "feedId": "lobsters"
       },
       {
-        "title": "Arch Linux disables AUR package adoption",
-        "link": "https://lwn.net/Articles/1086489/",
-        "pubDate": "2026-07-31T22:03",
+        "title": "LLMs won't break symmetric crypto",
+        "link": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+        "pubDate": "2026-08-01T21:11",
         "feedId": "lobsters"
       },
       {
-        "title": "Accepting a messy git history",
-        "link": "https://beza1e1.tuxen.de/git_two_users.html",
-        "pubDate": "2026-07-31T18:27",
+        "title": "Elevators",
+        "link": "https://john.fun/elevators",
+        "pubDate": "2026-08-01T05:49",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Ruby Central's Destructive Legacy",
+        "link": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
+        "pubDate": "2026-07-31T14:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why I forked rand",
+        "link": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
+        "pubDate": "2026-07-31T15:02",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What Naur got wrong from The concept of mind",
+        "link": "https://tssm.neocities.org/what-naur-got-wrong-from-the-concept-of-mind",
+        "pubDate": "2026-08-01T18:39",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "European Search Perspective",
+        "link": "https://www.eu-searchperspective.com/",
+        "pubDate": "2026-08-01T23:03",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Scoop: Saudi crown prince raises concerns over Trump's plans for massive Iran strikes",
+        "link": "https://www.axios.com/2026/08/01/saudi-crown-prince-trump-iran-attacks",
+        "pubDate": "2026-08-01T23:49",
+        "feedId": "axios"
+      },
+      {
         "title": "Tillis says Blanche won't be confirmed as AG amid Trump fund fight",
         "link": "https://www.axios.com/2026/08/01/blanche-tillis-trump-anti-weaponization-fund",
         "pubDate": "2026-08-01T14:14",
@@ -369,12 +375,6 @@
         "title": "Inside Trump's Senate playbook",
         "link": "https://www.axios.com/2026/07/30/trump-senate-republicans-midterms-save-act",
         "pubDate": "2026-07-30T23:44",
-        "feedId": "axios"
-      },
-      {
-        "title": "Anthropic says three Claude models reached real-world systems during cyber tests",
-        "link": "https://www.axios.com/2026/07/30/anthropic-mythos-security-testing",
-        "pubDate": "2026-07-30T23:00",
         "feedId": "axios"
       }
     ]
