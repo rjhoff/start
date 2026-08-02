@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+        "link": "https://github.com/wie-project/kakehashi",
+        "pubDate": "2026-08-02T16:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+        "link": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
+        "pubDate": "2026-08-02T16:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "How the words we teach English language learners changed",
+        "link": "https://pudding.cool/2026/07/essential-words/",
+        "pubDate": "2026-08-02T15:41",
+        "feedId": "hn"
+      },
+      {
         "title": "A Rant About “Technology” (2005)",
         "link": "https://www.ursulakleguin.com/a-rant-about-technology",
         "pubDate": "2026-08-02T14:51",
@@ -30,12 +48,6 @@
         "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
         "link": "https://meshdiff.com/",
         "pubDate": "2026-08-02T11:34",
-        "feedId": "hn"
-      },
-      {
-        "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
-        "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
-        "pubDate": "2026-08-02T11:24",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
         "pubDate": "2026-08-02T09:06",
         "feedId": "hn"
-      },
-      {
-        "title": "ESP32-C3 SuperMini antenna modification",
-        "link": "https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/",
-        "pubDate": "2026-08-02T06:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-        "link": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-        "pubDate": "2026-08-02T04:21",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "NetBSD 11.0 released",
-        "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-        "pubDate": "2026-08-01T17:57",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
         "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "pubDate": "2026-08-02T10:31",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "NetBSD 11.0 released",
+        "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+        "pubDate": "2026-08-01T17:57",
         "feedId": "lobsters"
       },
       {
@@ -128,9 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "An old-new take on argument parsing in Rust",
-        "link": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
-        "pubDate": "2026-08-01T19:31",
+        "title": "I'm (mostly) picking models on speed now, not intelligence",
+        "link": "https://martinalderson.com/posts/speed-vs-intelligence/",
+        "pubDate": "2026-08-02T13:49",
         "feedId": "lobsters"
       },
       {
@@ -146,27 +146,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "An old-new take on argument parsing in Rust",
+        "link": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
+        "pubDate": "2026-08-01T19:31",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Postmortem for Lean Kernel Soundness Bug #14576",
         "link": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
         "pubDate": "2026-08-01T21:51",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I'm (mostly) picking models on speed now, not intelligence",
-        "link": "https://martinalderson.com/posts/speed-vs-intelligence/",
-        "pubDate": "2026-08-02T13:49",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Guarded methods in OCaml",
-        "link": "https://xvw.lol/en/articles/oop-refl.html",
-        "pubDate": "2026-08-02T13:03",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "But can your calculator run Linux?",
-        "link": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
-        "pubDate": "2026-08-01T19:44",
         "feedId": "lobsters"
       },
       {
@@ -176,9 +164,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "But can your calculator run Linux?",
+        "link": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+        "pubDate": "2026-08-01T19:44",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Ten advances in mathematics and theoretical computer science",
         "link": "https://openai.com/index/ten-advances-in-mathematics/",
         "pubDate": "2026-08-02T08:15",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Guarded methods in OCaml",
+        "link": "https://xvw.lol/en/articles/oop-refl.html",
+        "pubDate": "2026-08-02T13:03",
         "feedId": "lobsters"
       },
       {
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Rep. Max Miller not dropping out after domestic abuse allegations",
+        "link": "https://www.axios.com/2026/08/02/max-miller-moreno-abuse-allegations",
+        "pubDate": "2026-08-02T16:55",
+        "feedId": "axios"
+      },
+      {
         "title": "The pre-Trump GOP is coming for Vance ahead of 2028",
         "link": "https://www.axios.com/2026/08/02/vance-wsj-trump-rubio-2028",
         "pubDate": "2026-08-02T15:15",
@@ -369,12 +375,6 @@
         "title": "Exclusive: FBI gets voter's IP address in new fraud probe tactic",
         "link": "https://www.axios.com/2026/07/31/fbi-voter-ip-address-investigation",
         "pubDate": "2026-07-31T09:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "How extreme weather is shaping tomorrow's electric grid",
-        "link": "https://www.axios.com/2026/07/31/us-electric-grid-extreme-weather",
-        "pubDate": "2026-07-31T09:15",
         "feedId": "axios"
       }
     ]
