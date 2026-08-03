@@ -3,9 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "Apple engineer says he was fired after refusing to send cust. device IDs to AT&T",
-        "link": "https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic",
-        "pubDate": "2026-08-03T03:00",
+        "title": "Don't be a meat proxy",
+        "link": "https://gruhn.me/blog/2026-08-03/",
+        "pubDate": "2026-08-03T06:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "More German than many Germans",
+        "link": "https://mertbulan.com/more-german-than-many-germans/",
+        "pubDate": "2026-08-03T06:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI migrated legacy COBOL programs to Java, bugs included",
+        "link": "https://arxiv.org/abs/2607.28271",
+        "pubDate": "2026-08-03T03:06",
         "feedId": "hn"
       },
       {
@@ -39,45 +51,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
-        "link": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
-        "pubDate": "2026-08-03T00:12",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
-        "link": "https://github.com/pg83/shitty",
-        "pubDate": "2026-08-02T23:05",
-        "feedId": "hn"
-      },
-      {
         "title": "The Computational Theory of Mind (2015)",
         "link": "https://plato.stanford.edu/entries/computational-mind/",
         "pubDate": "2026-08-02T22:35",
         "feedId": "hn"
       },
       {
-        "title": "Californians' data deletion requests, DROP, become enforceable Aug. 1",
-        "link": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/",
-        "pubDate": "2026-08-02T22:16",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Mu – Tools for Agents",
-        "link": "https://github.com/micro/mu",
-        "pubDate": "2026-08-02T22:06",
-        "feedId": "hn"
-      },
-      {
         "title": "Show HN: Make your Framework 12 sound like a creaky door",
         "link": "https://github.com/ArcaEge/creakwork12",
         "pubDate": "2026-08-02T20:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "TinyNES Review – A Super Niche NES Console",
-        "link": "https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/",
-        "pubDate": "2026-08-02T20:01",
         "feedId": "hn"
       },
       {
@@ -91,6 +73,24 @@
         "link": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
         "pubDate": "2026-08-02T18:59",
         "feedId": "hn"
+      },
+      {
+        "title": "The myth of Snow Leopard",
+        "link": "https://www.rubenerd.au/the-myth-of-snow-leopard/",
+        "pubDate": "2026-08-02T18:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+        "link": "https://github.com/graham33/nixos-dgx-spark",
+        "pubDate": "2026-08-02T17:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+        "link": "https://github.com/wie-project/kakehashi",
+        "pubDate": "2026-08-02T16:26",
+        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "I'm (mostly) picking models on speed now, not intelligence",
-        "link": "https://martinalderson.com/posts/speed-vs-intelligence/",
-        "pubDate": "2026-08-02T13:49",
+        "title": "Your JSON Is Lying to You",
+        "link": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
+        "pubDate": "2026-08-03T01:40",
         "feedId": "lobsters"
       },
       {
-        "title": "Atom is better than RSS, in ways that matter",
-        "link": "https://chrismorgan.info/atom%3Erss",
-        "pubDate": "2026-08-02T04:40",
+        "title": "I'm (mostly) picking models on speed now, not intelligence",
+        "link": "https://martinalderson.com/posts/speed-vs-intelligence/",
+        "pubDate": "2026-08-02T13:49",
         "feedId": "lobsters"
       },
       {
@@ -116,9 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "sizeof is surprisingly difficult to parse in c",
-        "link": "https://sebsite.pw/w/20260802-sizeof.html",
-        "pubDate": "2026-08-02T06:01",
+        "title": "Atom is better than RSS, in ways that matter",
+        "link": "https://chrismorgan.info/atom%3Erss",
+        "pubDate": "2026-08-02T04:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "9front \"THIS WAS SUPPOSED TO BE FUN\" Released",
+        "link": "https://9front.org/releases/2026/08/02/0/",
+        "pubDate": "2026-08-03T04:34",
         "feedId": "lobsters"
       },
       {
@@ -134,21 +140,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "sizeof is surprisingly difficult to parse in c",
+        "link": "https://sebsite.pw/w/20260802-sizeof.html",
+        "pubDate": "2026-08-02T06:01",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
         "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "pubDate": "2026-08-02T10:31",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Your JSON Is Lying to You",
-        "link": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
-        "pubDate": "2026-08-03T01:40",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Guarded methods in OCaml",
-        "link": "https://xvw.lol/en/articles/oop-refl.html",
-        "pubDate": "2026-08-02T13:03",
         "feedId": "lobsters"
       },
       {
@@ -158,21 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "NetBSD 11.0 released",
-        "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-        "pubDate": "2026-08-01T17:57",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "CP/M-386: CP/M for 386 protected mode, derived from CP/M-68K",
-        "link": "https://github.com/johnsonjh/cpm386",
-        "pubDate": "2026-08-02T22:30",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "EPIPE on write might mean you're doing it wrong",
-        "link": "https://rachelbythebay.com/w/2026/07/09/pipe/",
-        "pubDate": "2026-08-02T08:35",
+        "title": "Guarded methods in OCaml",
+        "link": "https://xvw.lol/en/articles/oop-refl.html",
+        "pubDate": "2026-08-02T13:03",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Resigning from Arch Linux",
-        "link": "https://linderud.dev/blog/resigning-from-arch-linux/",
-        "pubDate": "2026-08-01T22:47",
+        "title": "CP/M-386: CP/M for 386 protected mode, derived from CP/M-68K",
+        "link": "https://github.com/johnsonjh/cpm386",
+        "pubDate": "2026-08-02T22:30",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "NetBSD 11.0 released",
+        "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+        "pubDate": "2026-08-01T17:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Anxiety",
+        "link": "https://olivia.science/anxiety/",
+        "pubDate": "2026-08-03T00:13",
         "feedId": "lobsters"
       }
     ]
