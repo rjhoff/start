@@ -3,21 +3,57 @@
     "id": "hn",
     "items": [
       {
+        "title": "Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days",
+        "link": "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/",
+        "pubDate": "2026-08-03T15:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why does Mail app contact iCloud when sending a non-iCloud email?",
+        "link": "https://lapcatsoftware.com/articles/2026/8/2.html",
+        "pubDate": "2026-08-03T14:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Devtools must be open source",
+        "link": "https://blog.exe.dev/devtools-must-be-open-source",
+        "pubDate": "2026-08-03T14:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "Utah produced more power from solar than any other source in May, a new first",
+        "link": "https://www.sltrib.com/news/environment/2026/08/03/utah-sets-solar-power-record/",
+        "pubDate": "2026-08-03T14:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "Andy Pavlo Joins ClickHouse to Establish ClickHouse Labs",
+        "link": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+        "pubDate": "2026-08-03T14:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+        "link": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+        "pubDate": "2026-08-03T13:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",
+        "link": "https://dmarcguard.io/blog/spf-record-syntax/",
+        "pubDate": "2026-08-03T13:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "Wind and solar overtake fossil fuels in Germany for the first time",
+        "link": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
+        "pubDate": "2026-08-03T13:13",
+        "feedId": "hn"
+      },
+      {
         "title": "Critical CVE issued for hallucinated SQLite vulnerability",
         "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
         "pubDate": "2026-08-03T11:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "9front \"This Was Supposed to Be Fun\" Released",
-        "link": "https://9front.org/releases/2026/08/02/0/",
-        "pubDate": "2026-08-03T11:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "ICE Collected Nearly 1M People's DNA Last Year–Including Young Children",
-        "link": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
-        "pubDate": "2026-08-03T11:16",
         "feedId": "hn"
       },
       {
@@ -45,12 +81,6 @@
         "feedId": "hn"
       },
       {
-        "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
-        "link": "https://github.com/mohamed--abdel-maksoud/pisiguard",
-        "pubDate": "2026-08-03T08:54",
-        "feedId": "hn"
-      },
-      {
         "title": "The true power of regular expressions (2012)",
         "link": "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html",
         "pubDate": "2026-08-03T08:47",
@@ -60,36 +90,6 @@
         "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
         "link": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
         "pubDate": "2026-08-03T08:34",
-        "feedId": "hn"
-      },
-      {
-        "title": "Bonsai: Janestreet's UI Library",
-        "link": "https://github.com/janestreet/bonsai",
-        "pubDate": "2026-08-03T08:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "Octane – React's programming model, compiled",
-        "link": "https://octanejs.dev",
-        "pubDate": "2026-08-03T08:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "Rust project goals: Immobile types and guaranteed destructors",
-        "link": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
-        "pubDate": "2026-08-03T06:42",
-        "feedId": "hn"
-      },
-      {
-        "title": "Don't be a meat proxy",
-        "link": "https://gruhn.me/blog/2026-08-03/",
-        "pubDate": "2026-08-03T06:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "Situational Awareness and the Impending Stock Market Volatility",
-        "link": "https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/",
-        "pubDate": "2026-08-03T06:17",
         "feedId": "hn"
       }
     ]
@@ -110,6 +110,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "help wanted",
+        "link": "https://lake.computer/blog/help-wanted/",
+        "pubDate": "2026-08-03T14:20",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Kill the Cookie Banner",
+        "link": "https://killthecookiebanner.eu/",
+        "pubDate": "2026-08-03T13:31",
+        "feedId": "lobsters"
+      },
+      {
         "title": "9front \"THIS WAS SUPPOSED TO BE FUN\" Released",
         "link": "https://9front.org/releases/2026/08/02/0/",
         "pubDate": "2026-08-03T04:34",
@@ -122,15 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I'm (mostly) picking models on speed now, not intelligence",
-        "link": "https://martinalderson.com/posts/speed-vs-intelligence/",
-        "pubDate": "2026-08-02T13:49",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Faster floating point math with Rust’s new API",
-        "link": "https://pythonspeed.com/articles/faster-float-math-rust/",
-        "pubDate": "2026-08-02T20:27",
+        "title": "Rust Project Goals: Immobile types and guaranteed destructors",
+        "link": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+        "pubDate": "2026-08-03T11:13",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +146,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Faster floating point math with Rust’s new API",
+        "link": "https://pythonspeed.com/articles/faster-float-math-rust/",
+        "pubDate": "2026-08-02T20:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I'm (mostly) picking models on speed now, not intelligence",
+        "link": "https://martinalderson.com/posts/speed-vs-intelligence/",
+        "pubDate": "2026-08-02T13:49",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Practical Memory Safety",
         "link": "https://ohadravid.github.io/posts/2026-08-unsafe-water/",
         "pubDate": "2026-08-03T07:02",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Going Backward",
+        "link": "https://antonz.org/going-backward/",
+        "pubDate": "2026-08-03T13:01",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Where's your website?",
-        "link": "https://www.arscyni.cc/file/warez_your_website.html",
-        "pubDate": "2026-08-02T11:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-        "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-        "pubDate": "2026-08-02T10:31",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "sizeof is surprisingly difficult to parse in c",
-        "link": "https://sebsite.pw/w/20260802-sizeof.html",
-        "pubDate": "2026-08-02T06:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Controlling Your Environment Makes You Happy (2000)",
-        "link": "https://www.joelonsoftware.com/2000/04/10/controlling-your-environment-makes-you-happy/",
-        "pubDate": "2026-08-02T21:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How fast is C++26’s std::hive?",
-        "link": "https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/",
-        "pubDate": "2026-08-02T18:28",
+        "title": "Wireguard For Plan 9",
+        "link": "http://shithub.us/moody/wg/HEAD/info.html",
+        "pubDate": "2026-08-03T14:03",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana",
+        "link": "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/",
+        "pubDate": "2026-08-03T14:41",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Trump wants the power to stop the public from suing polluters",
+        "link": "https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/",
+        "pubDate": "2026-08-03T13:33",
+        "feedId": "arstechnica"
+      },
       {
         "title": "How headlights got brighter, whiter, and more blinding after dark",
         "link": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/",
@@ -269,18 +281,6 @@
         "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
         "pubDate": "2026-07-31T20:21",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
-        "link": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
-        "pubDate": "2026-07-31T19:04",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
-        "link": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
-        "pubDate": "2026-07-31T18:11",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,9 +288,15 @@
     "id": "axios",
     "items": [
       {
-        "title": "Blanche kills Trump fund but leaves legal loose ends",
+        "title": "White House finalizes AI framework behind closed doors",
+        "link": "https://www.axios.com/2026/08/03/white-house-finalizes-ai-framework-behind-closed-doors",
+        "pubDate": "2026-08-03T15:28",
+        "feedId": "axios"
+      },
+      {
+        "title": "Blanche poised for confirmation vote after he kills Trump's fund",
         "link": "https://www.axios.com/2026/08/03/trump-anti-weaponization-fund-blanche",
-        "pubDate": "2026-08-03T13:06",
+        "pubDate": "2026-08-03T14:40",
         "feedId": "axios"
       },
       {
@@ -369,12 +375,6 @@
         "title": "AI's manifesto war",
         "link": "https://www.axios.com/2026/08/02/ai-manifesto-open-weight-models",
         "pubDate": "2026-08-02T12:21",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump cancels Iran attack, citing progress in negotiations",
-        "link": "https://www.axios.com/2026/08/02/trump-iran-attack-cancelled",
-        "pubDate": "2026-08-02T03:40",
         "feedId": "axios"
       }
     ]
