@@ -3,15 +3,33 @@
     "id": "hn",
     "items": [
       {
+        "title": "LLMs reward expertise",
+        "link": "https://www.seangoedecke.com/llms-reward-expertise/",
+        "pubDate": "2026-08-03T21:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
+        "link": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+        "pubDate": "2026-08-03T20:02",
+        "feedId": "hn"
+      },
+      {
         "title": "DDoS against Norwegian government IT infrastructure – status",
         "link": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
         "pubDate": "2026-08-03T19:56",
         "feedId": "hn"
       },
       {
-        "title": "The Dunning-Kruger Effect Is Probably Not Real",
+        "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
         "link": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
         "pubDate": "2026-08-03T19:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer",
+        "link": "https://github.com/SwagSoftware/KisakCOD",
+        "pubDate": "2026-08-03T18:58",
         "feedId": "hn"
       },
       {
@@ -73,24 +91,6 @@
         "link": "https://note.com/hirorohi03/n/n047a8c5f7f8b?hl=en",
         "pubDate": "2026-08-03T16:07",
         "feedId": "hn"
-      },
-      {
-        "title": "Devtools must be open source",
-        "link": "https://blog.exe.dev/devtools-must-be-open-source",
-        "pubDate": "2026-08-03T14:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
-        "link": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
-        "pubDate": "2026-08-03T14:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-        "link": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-        "pubDate": "2026-08-03T13:34",
-        "feedId": "hn"
       }
     ]
   },
@@ -116,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Your JSON Is Lying to You",
-        "link": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
-        "pubDate": "2026-08-03T01:40",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Rust Project Goals: Immobile types and guaranteed destructors",
         "link": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
         "pubDate": "2026-08-03T11:13",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Your JSON Is Lying to You",
+        "link": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
+        "pubDate": "2026-08-03T01:40",
         "feedId": "lobsters"
       },
       {
@@ -140,6 +140,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "SQLite Critical CVEs or LLM Slop?",
+        "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+        "pubDate": "2026-08-03T16:51",
+        "feedId": "lobsters"
+      },
+      {
         "title": "What are you doing this week?",
         "link": "https://lobste.rs/s/foxgva/what_are_you_doing_this_week",
         "pubDate": "2026-08-03T15:41",
@@ -152,15 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "SQLite Critical CVEs or LLM Slop?",
-        "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-        "pubDate": "2026-08-03T16:51",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-        "link": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
-        "pubDate": "2026-08-03T17:35",
+        "title": "Twenty Years of Pandoc",
+        "link": "https://pandoc.org/twenty-years-of-pandoc.html",
+        "pubDate": "2026-08-03T19:44",
         "feedId": "lobsters"
       },
       {
@@ -170,15 +170,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Faster floating point math with Rust’s new API",
-        "link": "https://pythonspeed.com/articles/faster-float-math-rust/",
-        "pubDate": "2026-08-02T20:27",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Retries don't fix eventual consistency",
-        "link": "https://var0.xyz/posts/retries-dont-fix-eventual-consistency.html",
-        "pubDate": "2026-08-03T08:36",
+        "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+        "link": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+        "pubDate": "2026-08-03T17:35",
         "feedId": "lobsters"
       },
       {
@@ -186,12 +180,36 @@
         "link": "https://antonz.org/going-backward/",
         "pubDate": "2026-08-03T13:01",
         "feedId": "lobsters"
+      },
+      {
+        "title": "The Future of GNOME Boxes",
+        "link": "https://blogs.gnome.org/feborges/future-of-boxes/",
+        "pubDate": "2026-08-03T17:16",
+        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Research roundup: 6 cool science stories we almost missed",
+        "link": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
+        "pubDate": "2026-08-03T20:13",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
+        "link": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
+        "pubDate": "2026-08-03T19:21",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+        "link": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+        "pubDate": "2026-08-03T19:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
         "link": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
@@ -263,30 +281,18 @@
         "link": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
         "pubDate": "2026-07-31T21:51",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Google plans to exempt sanctioned nations from Android developer verification",
-        "link": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
-        "pubDate": "2026-07-31T21:35",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Reddit keeps its strange DMCA fight over Google search results alive",
-        "link": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
-        "pubDate": "2026-07-31T21:19",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Claude published malicious code to the Internet and attacked 3 real companies",
-        "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
-        "pubDate": "2026-07-31T20:39",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "\"People are pissed\": House Democrats mull whether to push Max Miller expulsion",
+        "link": "https://www.axios.com/2026/08/03/max-miller-expel-congress-democrats-allegations",
+        "pubDate": "2026-08-03T21:46",
+        "feedId": "axios"
+      },
       {
         "title": "Ethics panel urges censure of Rep. Chuck Edwards over sexual harassment violation",
         "link": "https://www.axios.com/2026/08/03/chuck-edwards-house-ethics-sexual-harassment",
@@ -369,12 +375,6 @@
         "title": "Exclusive: Newsom shows fundraising muscle for state parties",
         "link": "https://www.axios.com/2026/08/02/newsom-fundraising-democrats-2028",
         "pubDate": "2026-08-02T21:45",
-        "feedId": "axios"
-      },
-      {
-        "title": "Ossoff: The next thing, or  \"Great White Hype\" for Dems?",
-        "link": "https://www.axios.com/2026/08/02/jon-ossoff-georgia-hype-2028-election",
-        "pubDate": "2026-08-02T21:30",
         "feedId": "axios"
       }
     ]
