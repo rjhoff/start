@@ -3,15 +3,51 @@
     "id": "hn",
     "items": [
       {
-        "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
-        "link": "https://github.com/pg83/shitty",
-        "pubDate": "2026-08-02T23:05",
+        "title": "Apple engineer says he was fired after refusing to send cust. device IDs to AT&T",
+        "link": "https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic",
+        "pubDate": "2026-08-03T03:00",
         "feedId": "hn"
       },
       {
-        "title": "AI poster wins Ohio State Fair contest",
-        "link": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
-        "pubDate": "2026-08-02T22:43",
+        "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+        "link": "https://qwen.ai/blog?id=qwen3.8",
+        "pubDate": "2026-08-03T02:16",
+        "feedId": "hn"
+      },
+      {
+        "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
+        "link": "https://www.rfc-editor.org/rfc/rfc9851.html",
+        "pubDate": "2026-08-03T01:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Isopolis – Isometric pixel map of SF",
+        "link": "https://sf.isopolis.city/",
+        "pubDate": "2026-08-03T00:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+        "link": "https://github.com/johnsonjh/cpm386",
+        "pubDate": "2026-08-03T00:38",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: ssh ssh.place",
+        "link": "https://ssh.place",
+        "pubDate": "2026-08-03T00:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+        "link": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+        "pubDate": "2026-08-03T00:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
+        "link": "https://github.com/pg83/shitty",
+        "pubDate": "2026-08-02T23:05",
         "feedId": "hn"
       },
       {
@@ -33,27 +69,9 @@
         "feedId": "hn"
       },
       {
-        "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
-        "link": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
-        "pubDate": "2026-08-02T20:44",
-        "feedId": "hn"
-      },
-      {
         "title": "Show HN: Make your Framework 12 sound like a creaky door",
         "link": "https://github.com/ArcaEge/creakwork12",
         "pubDate": "2026-08-02T20:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "Sharing an X11 Server Across Hosts with FamilyWild",
-        "link": "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/",
-        "pubDate": "2026-08-02T20:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Let the machines in",
-        "link": "https://blog.semenzin.com/let-the-machines-in/",
-        "pubDate": "2026-08-02T20:17",
         "feedId": "hn"
       },
       {
@@ -63,33 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
-        "link": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
-        "pubDate": "2026-08-02T19:19",
+        "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+        "link": "https://frogs.vaguespac.es/",
+        "pubDate": "2026-08-02T19:42",
         "feedId": "hn"
       },
       {
-        "title": "The Myth of Snow Leopard",
-        "link": "https://www.rubenerd.au/the-myth-of-snow-leopard/",
-        "pubDate": "2026-08-02T18:21",
-        "feedId": "hn"
-      },
-      {
-        "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
-        "link": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
-        "pubDate": "2026-08-02T17:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
-        "link": "https://github.com/graham33/nixos-dgx-spark",
-        "pubDate": "2026-08-02T17:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-        "link": "https://github.com/wie-project/kakehashi",
-        "pubDate": "2026-08-02T16:26",
+        "title": "SwiftUI After 7 Years",
+        "link": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
+        "pubDate": "2026-08-02T18:59",
         "feedId": "hn"
       }
     ]
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "sizeof is surprisingly difficult to parse in c",
-        "link": "https://sebsite.pw/w/20260802-sizeof.html",
-        "pubDate": "2026-08-02T06:01",
+        "title": "Faster floating point math with Rust’s new API",
+        "link": "https://pythonspeed.com/articles/faster-float-math-rust/",
+        "pubDate": "2026-08-02T20:27",
         "feedId": "lobsters"
       },
       {
-        "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-        "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-        "pubDate": "2026-08-02T10:31",
+        "title": "sizeof is surprisingly difficult to parse in c",
+        "link": "https://sebsite.pw/w/20260802-sizeof.html",
+        "pubDate": "2026-08-02T06:01",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Faster floating point math with Rust’s new API",
-        "link": "https://pythonspeed.com/articles/faster-float-math-rust/",
-        "pubDate": "2026-08-02T20:27",
+        "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+        "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+        "pubDate": "2026-08-02T10:31",
         "feedId": "lobsters"
       },
       {
-        "title": "How fast is C++26’s std::hive?",
-        "link": "https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/",
-        "pubDate": "2026-08-02T18:28",
+        "title": "Your JSON Is Lying to You",
+        "link": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
+        "pubDate": "2026-08-03T01:40",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +152,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "How fast is C++26’s std::hive?",
+        "link": "https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/",
+        "pubDate": "2026-08-02T18:28",
+        "feedId": "lobsters"
+      },
+      {
         "title": "NetBSD 11.0 released",
         "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
         "pubDate": "2026-08-01T17:57",
         "feedId": "lobsters"
       },
       {
-        "title": "Resigning from Arch Linux",
-        "link": "https://linderud.dev/blog/resigning-from-arch-linux/",
-        "pubDate": "2026-08-01T22:47",
+        "title": "CP/M-386: CP/M for 386 protected mode, derived from CP/M-68K",
+        "link": "https://github.com/johnsonjh/cpm386",
+        "pubDate": "2026-08-02T22:30",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Mathematics Without Mathematicians",
-        "link": "https://borretti.me/article/mathematics-without-mathematicians",
-        "pubDate": "2026-08-02T09:30",
+        "title": "Controlling Your Environment Makes You Happy (2000)",
+        "link": "https://www.joelonsoftware.com/2000/04/10/controlling-your-environment-makes-you-happy/",
+        "pubDate": "2026-08-02T21:10",
         "feedId": "lobsters"
       },
       {
-        "title": "The rooting, firmware analysis and hardcoded, reset-persistent credentials of the TP-Link TL-841N",
-        "link": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
-        "pubDate": "2026-08-02T18:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "An old-new take on argument parsing in Rust",
-        "link": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
-        "pubDate": "2026-08-01T19:31",
+        "title": "Resigning from Arch Linux",
+        "link": "https://linderud.dev/blog/resigning-from-arch-linux/",
+        "pubDate": "2026-08-01T22:47",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "U.S. wildfire season exceeds 10-year average as 99 large fires burn",
+        "link": "https://www.axios.com/2026/08/03/us-wildfire-season-large-fires-10-year-average",
+        "pubDate": "2026-08-03T00:12",
+        "feedId": "axios"
+      },
+      {
         "title": "Rep. Max Miller not dropping out after domestic abuse allegations",
         "link": "https://www.axios.com/2026/08/02/max-miller-moreno-abuse-allegations",
         "pubDate": "2026-08-02T23:03",
@@ -369,12 +375,6 @@
         "title": "Fed rates dissenters make their case for higher rates",
         "link": "https://www.axios.com/2026/07/31/fed-rates-dissenters-policy",
         "pubDate": "2026-07-31T16:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "The issue CEOs can't afford to ignore",
-        "link": "https://www.axios.com/2026/07/31/ceos-affordability-pol",
-        "pubDate": "2026-07-31T09:40",
         "feedId": "axios"
       }
     ]
