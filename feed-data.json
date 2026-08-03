@@ -3,15 +3,69 @@
     "id": "hn",
     "items": [
       {
-        "title": "Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days",
-        "link": "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/",
-        "pubDate": "2026-08-03T15:31",
+        "title": "Leaked Flock Guide Shows How It Teaches Cops to Promote Its Tech",
+        "link": "https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/",
+        "pubDate": "2026-08-03T17:27",
         "feedId": "hn"
       },
       {
-        "title": "Why does Mail app contact iCloud when sending a non-iCloud email?",
-        "link": "https://lapcatsoftware.com/articles/2026/8/2.html",
-        "pubDate": "2026-08-03T14:29",
+        "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
+        "link": "https://blog.cloudflare.com/billable-usage-api/",
+        "pubDate": "2026-08-03T17:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+        "link": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+        "pubDate": "2026-08-03T17:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+        "link": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+        "pubDate": "2026-08-03T17:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "Use Task Runners for Common Coding Tasks",
+        "link": "https://hamvocke.com/blog/task-runners/",
+        "pubDate": "2026-08-03T16:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "SearXNG in Rust",
+        "link": "https://github.com/MikeLuu99/searxng-rust",
+        "pubDate": "2026-08-03T16:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+        "link": "https://hoplite.sh",
+        "pubDate": "2026-08-03T16:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ten advances in mathematics and theoretical computer science",
+        "link": "https://openai.com/index/ten-advances-in-mathematics/",
+        "pubDate": "2026-08-03T16:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+        "link": "https://armature.tech/",
+        "pubDate": "2026-08-03T16:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "Explanation of INT8 ConvRot (FP8 is no longer needed)",
+        "link": "https://note.com/hirorohi03/n/n047a8c5f7f8b?hl=en",
+        "pubDate": "2026-08-03T16:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "Taylor Farms has rewritten its cyclospora statement four times in sixteen days",
+        "link": "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/",
+        "pubDate": "2026-08-03T15:31",
         "feedId": "hn"
       },
       {
@@ -21,13 +75,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Utah produced more power from solar than any other source in May, a new first",
-        "link": "https://www.sltrib.com/news/environment/2026/08/03/utah-sets-solar-power-record/",
-        "pubDate": "2026-08-03T14:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "Andy Pavlo Joins ClickHouse to Establish ClickHouse Labs",
+        "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
         "link": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
         "pubDate": "2026-08-03T14:09",
         "feedId": "hn"
@@ -43,54 +91,6 @@
         "link": "https://dmarcguard.io/blog/spf-record-syntax/",
         "pubDate": "2026-08-03T13:34",
         "feedId": "hn"
-      },
-      {
-        "title": "Wind and solar overtake fossil fuels in Germany for the first time",
-        "link": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
-        "pubDate": "2026-08-03T13:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "Critical CVE issued for hallucinated SQLite vulnerability",
-        "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-        "pubDate": "2026-08-03T11:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "AirLLM 70B inference with single 4GB GPU",
-        "link": "https://github.com/lyogavin/airllm",
-        "pubDate": "2026-08-03T11:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-        "link": "https://github.com/garagehq/nightcrawler/",
-        "pubDate": "2026-08-03T11:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-        "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-        "pubDate": "2026-08-03T09:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "What DMARC Protects You From, and What It Does Not",
-        "link": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
-        "pubDate": "2026-08-03T09:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "The true power of regular expressions (2012)",
-        "link": "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html",
-        "pubDate": "2026-08-03T08:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
-        "link": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
-        "pubDate": "2026-08-03T08:34",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,9 +104,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Your JSON Is Lying to You",
-        "link": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
-        "pubDate": "2026-08-03T01:40",
+        "title": "Kill the Cookie Banner",
+        "link": "https://killthecookiebanner.eu/",
+        "pubDate": "2026-08-03T13:31",
         "feedId": "lobsters"
       },
       {
@@ -116,9 +116,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Kill the Cookie Banner",
-        "link": "https://killthecookiebanner.eu/",
-        "pubDate": "2026-08-03T13:31",
+        "title": "Your JSON Is Lying to You",
+        "link": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
+        "pubDate": "2026-08-03T01:40",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +140,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Retries don't fix eventual consistency",
-        "link": "https://var0.xyz/posts/retries-dont-fix-eventual-consistency.html",
-        "pubDate": "2026-08-03T08:36",
+        "title": "Reliability Lessons From SQLite",
+        "link": "https://www.youtube.com/watch?v=V_qzqY1bb7I",
+        "pubDate": "2026-08-03T16:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/foxgva/what_are_you_doing_this_week",
+        "pubDate": "2026-08-03T15:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Wireguard For Plan 9",
+        "link": "http://shithub.us/moody/wg/HEAD/info.html",
+        "pubDate": "2026-08-03T14:03",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +164,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Going Backward",
+        "link": "https://antonz.org/going-backward/",
+        "pubDate": "2026-08-03T13:01",
+        "feedId": "lobsters"
+      },
+      {
         "title": "I'm (mostly) picking models on speed now, not intelligence",
         "link": "https://martinalderson.com/posts/speed-vs-intelligence/",
         "pubDate": "2026-08-02T13:49",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Retries don't fix eventual consistency",
+        "link": "https://var0.xyz/posts/retries-dont-fix-eventual-consistency.html",
+        "pubDate": "2026-08-03T08:36",
         "feedId": "lobsters"
       },
       {
@@ -162,36 +186,18 @@
         "link": "https://ohadravid.github.io/posts/2026-08-unsafe-water/",
         "pubDate": "2026-08-03T07:02",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Going Backward",
-        "link": "https://antonz.org/going-backward/",
-        "pubDate": "2026-08-03T13:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Getting Started with Google Wave (2010)",
-        "link": "https://www.youtube.com/watch?v=eKUAqNGVwX0",
-        "pubDate": "2026-08-02T17:25",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Atom is better than RSS, in ways that matter",
-        "link": "https://chrismorgan.info/atom%3Erss",
-        "pubDate": "2026-08-02T04:40",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Wireguard For Plan 9",
-        "link": "http://shithub.us/moody/wg/HEAD/info.html",
-        "pubDate": "2026-08-03T14:03",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
+        "link": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
+        "pubDate": "2026-08-03T16:10",
+        "feedId": "arstechnica"
+      },
       {
         "title": "SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana",
         "link": "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/",
@@ -275,18 +281,36 @@
         "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
         "pubDate": "2026-07-31T20:39",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
-        "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
-        "pubDate": "2026-07-31T20:21",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Ethics panel urges censure of Rep. Chuck Edwards over sexual harassment violation",
+        "link": "https://www.axios.com/2026/08/03/chuck-edwards-house-ethics-sexual-harassment",
+        "pubDate": "2026-08-03T18:09",
+        "feedId": "axios"
+      },
+      {
+        "title": "Cyclospora outbreak causes first two deaths",
+        "link": "https://www.axios.com/2026/08/03/cyclospora-outbreak-deaths-illness-symptoms",
+        "pubDate": "2026-08-03T17:48",
+        "feedId": "axios"
+      },
+      {
+        "title": "The message beneath the yen intervention",
+        "link": "https://www.axios.com/2026/08/03/yen-japan-treasury-bessent",
+        "pubDate": "2026-08-03T16:11",
+        "feedId": "axios"
+      },
+      {
+        "title": "What happens if the Fed holds fewer policy meetings",
+        "link": "https://www.axios.com/2026/08/03/warsh-fed-policy-meetings",
+        "pubDate": "2026-08-03T15:58",
+        "feedId": "axios"
+      },
       {
         "title": "White House finalizes AI framework behind closed doors",
         "link": "https://www.axios.com/2026/08/03/white-house-finalizes-ai-framework-behind-closed-doors",
@@ -351,30 +375,6 @@
         "title": "Ossoff: The next thing, or  \"Great White Hype\" for Dems?",
         "link": "https://www.axios.com/2026/08/02/jon-ossoff-georgia-hype-2028-election",
         "pubDate": "2026-08-02T21:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "The pre-Trump GOP is coming for Vance ahead of 2028",
-        "link": "https://www.axios.com/2026/08/02/vance-wsj-trump-rubio-2028",
-        "pubDate": "2026-08-02T15:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"Growing pressure\" as Nancy Guthrie search passes six months",
-        "link": "https://www.axios.com/2026/08/02/nancy-guthrie-search-six-months",
-        "pubDate": "2026-08-02T13:29",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump's final act begins",
-        "link": "https://www.axios.com/2026/08/02/trump-gop-control-midterms-investigations",
-        "pubDate": "2026-08-02T12:59",
-        "feedId": "axios"
-      },
-      {
-        "title": "AI's manifesto war",
-        "link": "https://www.axios.com/2026/08/02/ai-manifesto-open-weight-models",
-        "pubDate": "2026-08-02T12:21",
         "feedId": "axios"
       }
     ]
