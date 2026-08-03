@@ -3,93 +3,93 @@
     "id": "hn",
     "items": [
       {
+        "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+        "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+        "pubDate": "2026-08-03T11:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "9front \"This Was Supposed to Be Fun\" Released",
+        "link": "https://9front.org/releases/2026/08/02/0/",
+        "pubDate": "2026-08-03T11:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "ICE Collected Nearly 1M People's DNA Last Year–Including Young Children",
+        "link": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
+        "pubDate": "2026-08-03T11:16",
+        "feedId": "hn"
+      },
+      {
+        "title": "AirLLM 70B inference with single 4GB GPU",
+        "link": "https://github.com/lyogavin/airllm",
+        "pubDate": "2026-08-03T11:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+        "link": "https://github.com/garagehq/nightcrawler/",
+        "pubDate": "2026-08-03T11:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+        "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+        "pubDate": "2026-08-03T09:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "What DMARC Protects You From, and What It Does Not",
+        "link": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
+        "pubDate": "2026-08-03T09:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+        "link": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+        "pubDate": "2026-08-03T08:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "The true power of regular expressions (2012)",
+        "link": "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html",
+        "pubDate": "2026-08-03T08:47",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+        "link": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
+        "pubDate": "2026-08-03T08:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "Bonsai: Janestreet's UI Library",
+        "link": "https://github.com/janestreet/bonsai",
+        "pubDate": "2026-08-03T08:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Octane – React's programming model, compiled",
+        "link": "https://octanejs.dev",
+        "pubDate": "2026-08-03T08:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Rust project goals: Immobile types and guaranteed destructors",
+        "link": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+        "pubDate": "2026-08-03T06:42",
+        "feedId": "hn"
+      },
+      {
         "title": "Don't be a meat proxy",
         "link": "https://gruhn.me/blog/2026-08-03/",
         "pubDate": "2026-08-03T06:28",
         "feedId": "hn"
       },
       {
-        "title": "More German than many Germans",
-        "link": "https://mertbulan.com/more-german-than-many-germans/",
-        "pubDate": "2026-08-03T06:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI migrated legacy COBOL programs to Java, bugs included",
-        "link": "https://arxiv.org/abs/2607.28271",
-        "pubDate": "2026-08-03T03:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-        "link": "https://qwen.ai/blog?id=qwen3.8",
-        "pubDate": "2026-08-03T02:16",
-        "feedId": "hn"
-      },
-      {
-        "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
-        "link": "https://www.rfc-editor.org/rfc/rfc9851.html",
-        "pubDate": "2026-08-03T01:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Isopolis – Isometric pixel map of SF",
-        "link": "https://sf.isopolis.city/",
-        "pubDate": "2026-08-03T00:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
-        "link": "https://github.com/johnsonjh/cpm386",
-        "pubDate": "2026-08-03T00:38",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: ssh ssh.place",
-        "link": "https://ssh.place",
-        "pubDate": "2026-08-03T00:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Computational Theory of Mind (2015)",
-        "link": "https://plato.stanford.edu/entries/computational-mind/",
-        "pubDate": "2026-08-02T22:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Make your Framework 12 sound like a creaky door",
-        "link": "https://github.com/ArcaEge/creakwork12",
-        "pubDate": "2026-08-02T20:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-        "link": "https://frogs.vaguespac.es/",
-        "pubDate": "2026-08-02T19:42",
-        "feedId": "hn"
-      },
-      {
-        "title": "SwiftUI After 7 Years",
-        "link": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
-        "pubDate": "2026-08-02T18:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "The myth of Snow Leopard",
-        "link": "https://www.rubenerd.au/the-myth-of-snow-leopard/",
-        "pubDate": "2026-08-02T18:21",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
-        "link": "https://github.com/graham33/nixos-dgx-spark",
-        "pubDate": "2026-08-02T17:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-        "link": "https://github.com/wie-project/kakehashi",
-        "pubDate": "2026-08-02T16:26",
+        "title": "Situational Awareness and the Impending Stock Market Volatility",
+        "link": "https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/",
+        "pubDate": "2026-08-03T06:17",
         "feedId": "hn"
       }
     ]
@@ -98,9 +98,27 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "Don't be a meat proxy",
+        "link": "https://gruhn.me/blog/2026-08-03/",
+        "pubDate": "2026-08-03T07:10",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Your JSON Is Lying to You",
         "link": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
         "pubDate": "2026-08-03T01:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "9front \"THIS WAS SUPPOSED TO BE FUN\" Released",
+        "link": "https://9front.org/releases/2026/08/02/0/",
+        "pubDate": "2026-08-03T04:34",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Don't Take the Black Pill (Text Adaptation)",
+        "link": "https://andrewkelley.me/post/dont-take-black-pill.html",
+        "pubDate": "2026-08-03T10:20",
         "feedId": "lobsters"
       },
       {
@@ -116,15 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Atom is better than RSS, in ways that matter",
-        "link": "https://chrismorgan.info/atom%3Erss",
-        "pubDate": "2026-08-02T04:40",
+        "title": "Retries don't fix eventual consistency",
+        "link": "https://var0.xyz/posts/retries-dont-fix-eventual-consistency.html",
+        "pubDate": "2026-08-03T08:36",
         "feedId": "lobsters"
       },
       {
-        "title": "9front \"THIS WAS SUPPOSED TO BE FUN\" Released",
-        "link": "https://9front.org/releases/2026/08/02/0/",
-        "pubDate": "2026-08-03T04:34",
+        "title": "Practical Memory Safety",
+        "link": "https://ohadravid.github.io/posts/2026-08-unsafe-water/",
+        "pubDate": "2026-08-03T07:02",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +152,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Where's your website?",
-        "link": "https://www.arscyni.cc/file/warez_your_website.html",
-        "pubDate": "2026-08-02T11:44",
+        "title": "Atom is better than RSS, in ways that matter",
+        "link": "https://chrismorgan.info/atom%3Erss",
+        "pubDate": "2026-08-02T04:40",
         "feedId": "lobsters"
       },
       {
-        "title": "sizeof is surprisingly difficult to parse in c",
-        "link": "https://sebsite.pw/w/20260802-sizeof.html",
-        "pubDate": "2026-08-02T06:01",
+        "title": "Where's your website?",
+        "link": "https://www.arscyni.cc/file/warez_your_website.html",
+        "pubDate": "2026-08-02T11:44",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +170,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How fast is C++26’s std::hive?",
-        "link": "https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/",
-        "pubDate": "2026-08-02T18:28",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Guarded methods in OCaml",
-        "link": "https://xvw.lol/en/articles/oop-refl.html",
-        "pubDate": "2026-08-02T13:03",
+        "title": "sizeof is surprisingly difficult to parse in c",
+        "link": "https://sebsite.pw/w/20260802-sizeof.html",
+        "pubDate": "2026-08-02T06:01",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "CP/M-386: CP/M for 386 protected mode, derived from CP/M-68K",
-        "link": "https://github.com/johnsonjh/cpm386",
-        "pubDate": "2026-08-02T22:30",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "NetBSD 11.0 released",
-        "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-        "pubDate": "2026-08-01T17:57",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Anxiety",
-        "link": "https://olivia.science/anxiety/",
-        "pubDate": "2026-08-03T00:13",
+        "title": "How fast is C++26’s std::hive?",
+        "link": "https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/",
+        "pubDate": "2026-08-02T18:28",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "How headlights got brighter, whiter, and more blinding after dark",
+        "link": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/",
+        "pubDate": "2026-08-03T11:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
         "link": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
@@ -275,18 +281,48 @@
         "link": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
         "pubDate": "2026-07-31T18:11",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Researchers devise a full-color night vision goggle",
-        "link": "https://arstechnica.com/science/2026/07/see-the-heat-an-infrared-imaging-system-that-outputs-in-color/",
-        "pubDate": "2026-07-31T17:58",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Blanche kills Trump fund but leaves legal loose ends",
+        "link": "https://www.axios.com/2026/08/03/trump-anti-weaponization-fund-blanche",
+        "pubDate": "2026-08-03T13:06",
+        "feedId": "axios"
+      },
+      {
+        "title": "New Yorker: China races to own the industries of the future",
+        "link": "https://www.axios.com/2026/08/03/new-yorker-evan-osnos-china-us-industrial-race",
+        "pubDate": "2026-08-03T10:03",
+        "feedId": "axios"
+      },
+      {
+        "title": "Medicaid's work requirement crunch arrives",
+        "link": "https://www.axios.com/2026/08/03/medicaid-work-eligibility-requirement-rules-patients",
+        "pubDate": "2026-08-03T09:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "How America is adapting to climate extremes",
+        "link": "https://www.axios.com/2026/08/03/us-climate-change-adaptation-extreme-weather",
+        "pubDate": "2026-08-03T09:15",
+        "feedId": "axios"
+      },
+      {
+        "title": "Democrats lack a leader right now — and might not get one until 2028",
+        "link": "https://www.axios.com/2026/08/03/democrats-leader-2028-president-aoc-bernie-sanders",
+        "pubDate": "2026-08-03T09:10",
+        "feedId": "axios"
+      },
+      {
+        "title": "Energy Dept. draws fire for slow pace of Venezuelan oil deals",
+        "link": "https://www.axios.com/2026/08/03/energy-department-venezuela-oil-deals",
+        "pubDate": "2026-08-03T09:00",
+        "feedId": "axios"
+      },
       {
         "title": "U.S. wildfire season exceeds 10-year average as 99 large fires burn",
         "link": "https://www.axios.com/2026/08/03/us-wildfire-season-large-fires-10-year-average",
@@ -339,42 +375,6 @@
         "title": "Trump cancels Iran attack, citing progress in negotiations",
         "link": "https://www.axios.com/2026/08/02/trump-iran-attack-cancelled",
         "pubDate": "2026-08-02T03:40",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Saudi crown prince raises concerns over Trump's plans for massive Iran strikes",
-        "link": "https://www.axios.com/2026/08/01/saudi-crown-prince-trump-iran-attacks",
-        "pubDate": "2026-08-01T23:49",
-        "feedId": "axios"
-      },
-      {
-        "title": "Tillis says Blanche won't be confirmed as AG amid Trump fund fight",
-        "link": "https://www.axios.com/2026/08/01/blanche-tillis-trump-anti-weaponization-fund",
-        "pubDate": "2026-08-01T14:14",
-        "feedId": "axios"
-      },
-      {
-        "title": "DeepSeek's new bargain model accelerates AI's race to zero",
-        "link": "https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war",
-        "pubDate": "2026-08-01T13:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump considering strikes on Iranian energy targets within days",
-        "link": "https://www.axios.com/2026/07/31/trump-iran-strikes-energy-infrastructure-war",
-        "pubDate": "2026-07-31T22:51",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump's comments reignite Blanche confirmation fight",
-        "link": "https://www.axios.com/2026/07/31/trump-blanche-doj-anti-weaponization-fund-dead",
-        "pubDate": "2026-07-31T21:11",
-        "feedId": "axios"
-      },
-      {
-        "title": "Fed rates dissenters make their case for higher rates",
-        "link": "https://www.axios.com/2026/07/31/fed-rates-dissenters-policy",
-        "pubDate": "2026-07-31T16:10",
         "feedId": "axios"
       }
     ]
