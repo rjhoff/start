@@ -3,33 +3,39 @@
     "id": "hn",
     "items": [
       {
-        "title": "Gaza's Deadly Soil",
-        "link": "https://www.nybooks.com/online/2026/07/22/gazas-deadly-soil/",
-        "pubDate": "2026-08-04T18:07",
+        "title": "Stephen Wolfram's Wife Has Died",
+        "link": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+        "pubDate": "2026-08-04T18:51",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: cMCP, deny an AI agent's tool call and get a signed receipt",
-        "link": "https://github.com/agentrust-io/cmcp",
+        "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+        "link": "https://edotenv.com/",
+        "pubDate": "2026-08-04T18:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "Waymo – Dallas Open to All",
+        "link": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+        "pubDate": "2026-08-04T18:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Web security is too hard",
+        "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
+        "pubDate": "2026-08-04T18:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Blackmail Fail (2013)",
+        "link": "https://gwern.net/blackmail",
+        "pubDate": "2026-08-04T18:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why some people mow a lawn better than others",
+        "link": "https://pudding.cool/2026/06/mow/",
         "pubDate": "2026-08-04T18:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Judgment Reservoir",
-        "link": "https://shannph.com/writing/the-judgment-reservoir/",
-        "pubDate": "2026-08-04T18:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "Haters",
-        "link": "https://www.paulgraham.com/fh.html",
-        "pubDate": "2026-08-04T18:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI Data Centers Are Driving Up Power Bills – This Map Shows Where",
-        "link": "https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where",
-        "pubDate": "2026-08-04T17:57",
         "feedId": "hn"
       },
       {
@@ -45,9 +51,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Dataset: Dead mental health startups, 2000-2026, coded on 18 fields",
-        "link": "https://mentalium.me/en/research/mental-health-startup-graveyard-dataset/",
-        "pubDate": "2026-08-04T17:30",
+        "title": "What's Behind the Sharp Drop in Labor Force Participation?",
+        "link": "https://www.stlouisfed.org/on-the-economy/2026/aug/what-is-behind-sharp-drop-labor-force-participation",
+        "pubDate": "2026-08-04T17:37",
         "feedId": "hn"
       },
       {
@@ -57,27 +63,15 @@
         "feedId": "hn"
       },
       {
-        "title": "All of Winona Police Department's Flock cameras cut down and stolen",
-        "link": "https://www.valleynewslive.com/2026/08/04/every-flock-camera-winona-minnesota-cut-down-stolen-coordinated-theft/",
-        "pubDate": "2026-08-04T17:00",
-        "feedId": "hn"
-      },
-      {
         "title": "Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead",
         "link": "https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead",
         "pubDate": "2026-08-04T17:00",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: SIEMatic, a fair-sourced observability and security platform",
-        "link": "https://github.com/mcindi/siematic",
-        "pubDate": "2026-08-04T16:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Knowledge Chipper: An Agentic Coding Story",
-        "link": "https://jg.gg/2026/08/04/the-knowledge-chipper/",
-        "pubDate": "2026-08-04T16:43",
+        "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+        "link": "https://mistral.ai/news/shieldstral/",
+        "pubDate": "2026-08-04T16:36",
         "feedId": "hn"
       },
       {
@@ -87,9 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-        "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-        "pubDate": "2026-08-04T15:37",
+        "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+        "link": "https://arxiv.org/abs/2602.16763",
+        "pubDate": "2026-08-04T16:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "Perspec 1.0",
+        "link": "https://adriansieber.com/announcing-perspec-1-0/",
+        "pubDate": "2026-08-04T15:40",
         "feedId": "hn"
       }
     ]
@@ -110,6 +110,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Liquid Glass effect for GNU/Emacs",
+        "link": "https://github.com/larrasket/emacs-liquid-glass",
+        "pubDate": "2026-08-04T17:43",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Kill the Cookie Banner",
         "link": "https://killthecookiebanner.eu/",
         "pubDate": "2026-08-03T13:31",
@@ -119,6 +125,18 @@
         "title": "IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows",
         "link": "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/",
         "pubDate": "2026-08-04T13:20",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Security is Hard, Y’all",
+        "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
+        "pubDate": "2026-08-04T18:31",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "FFmpeg 9.0",
+        "link": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+        "pubDate": "2026-08-04T10:51",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +152,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "FFmpeg 9.0",
-        "link": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
-        "pubDate": "2026-08-04T10:51",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Twenty Years of Pandoc",
         "link": "https://pandoc.org/twenty-years-of-pandoc.html",
         "pubDate": "2026-08-03T19:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Enabling the next iteration of the borrow checker on nightly",
+        "link": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
+        "pubDate": "2026-08-04T17:45",
         "feedId": "lobsters"
       },
       {
@@ -152,39 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Don't be a meat proxy",
-        "link": "https://gruhn.me/blog/2026-08-03/",
-        "pubDate": "2026-08-03T07:10",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Lisp in 99 Lines of C and How to Write One Yourself",
         "link": "https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf",
         "pubDate": "2026-08-04T08:36",
         "feedId": "lobsters"
       },
       {
-        "title": "help wanted",
-        "link": "https://lake.computer/blog/help-wanted/",
-        "pubDate": "2026-08-03T14:20",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Future of GNOME Boxes",
-        "link": "https://blogs.gnome.org/feborges/future-of-boxes/",
-        "pubDate": "2026-08-03T17:16",
+        "title": "Don't be a meat proxy",
+        "link": "https://gruhn.me/blog/2026-08-03/",
+        "pubDate": "2026-08-03T07:10",
         "feedId": "lobsters"
       },
       {
         "title": "ShieldFont",
         "link": "https://shieldfont.org/",
         "pubDate": "2026-08-04T06:05",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Liquid Glass effect for GNU/Emacs",
-        "link": "https://github.com/larrasket/emacs-liquid-glass",
-        "pubDate": "2026-08-04T17:43",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "White House plans to keep AI framework under wraps",
+        "link": "https://www.axios.com/2026/08/04/white-house-ai-framework-under-wraps",
+        "pubDate": "2026-08-04T18:26",
+        "feedId": "axios"
+      },
+      {
+        "title": "The number of states targeted in cyberattacks on water systems has jumped to 12",
+        "link": "https://www.axios.com/2026/08/04/water-cyberattacks-us-iran",
+        "pubDate": "2026-08-04T17:57",
+        "feedId": "axios"
+      },
+      {
         "title": "OpenAI to pay $3.2M to settle DOJ worker discrimination case",
         "link": "https://www.axios.com/2026/08/04/trump-doj-openai-hiring-settlement",
         "pubDate": "2026-08-04T17:25",
@@ -363,18 +375,6 @@
         "title": "Ethics panel urges censure of Rep. Chuck Edwards over sexual harassment violation",
         "link": "https://www.axios.com/2026/08/03/chuck-edwards-house-ethics-sexual-harassment",
         "pubDate": "2026-08-03T20:01",
-        "feedId": "axios"
-      },
-      {
-        "title": "Cyclospora outbreak causes first two deaths",
-        "link": "https://www.axios.com/2026/08/03/cyclospora-outbreak-deaths-illness-symptoms",
-        "pubDate": "2026-08-03T17:48",
-        "feedId": "axios"
-      },
-      {
-        "title": "The message beneath the yen intervention",
-        "link": "https://www.axios.com/2026/08/03/yen-japan-treasury-bessent",
-        "pubDate": "2026-08-03T16:11",
         "feedId": "axios"
       }
     ]
