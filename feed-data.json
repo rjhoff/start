@@ -3,9 +3,39 @@
     "id": "hn",
     "items": [
       {
-        "title": "Why did we wait so long for the bicycle? (2019)",
-        "link": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
-        "pubDate": "2026-08-03T23:44",
+        "title": "The US is not a democracy but an oligarchy, study concludes (2014)",
+        "link": "https://www.upi.com/Top_News/US/2014/04/16/The-US-is-not-a-democracy-but-an-oligarchy-study-concludes/2761397680051/",
+        "pubDate": "2026-08-04T09:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "FFmpeg 9.0",
+        "link": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+        "pubDate": "2026-08-04T09:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
+        "link": "https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal",
+        "pubDate": "2026-08-04T09:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "You don't need React: creating a minimal UI library in Vanilla JavaScript",
+        "link": "https://pedroth.github.io/?p=post/NoNeedReact",
+        "pubDate": "2026-08-04T08:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "CollectWise (YC F24) Is Hiring",
+        "link": "https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer",
+        "pubDate": "2026-08-04T07:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Harness Engineering for Self-Improvement",
+        "link": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+        "pubDate": "2026-08-04T06:17",
         "feedId": "hn"
       },
       {
@@ -30,18 +60,6 @@
         "title": "LLMs reward expertise",
         "link": "https://www.seangoedecke.com/llms-reward-expertise/",
         "pubDate": "2026-08-03T21:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
-        "link": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
-        "pubDate": "2026-08-03T19:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "KisakCOD – Open-source reimplementation of Call of Duty 4 Multiplayer",
-        "link": "https://github.com/SwagSoftware/KisakCOD",
-        "pubDate": "2026-08-03T18:58",
         "feedId": "hn"
       },
       {
@@ -73,24 +91,6 @@
         "link": "https://openai.com/index/ten-advances-in-mathematics/",
         "pubDate": "2026-08-03T16:27",
         "feedId": "hn"
-      },
-      {
-        "title": "Twenty Years of Pandoc",
-        "link": "https://pandoc.org/twenty-years-of-pandoc.html",
-        "pubDate": "2026-08-03T15:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ask HN: Who is hiring? (August 2026)",
-        "link": "https://news.ycombinator.com/item?id=49156683",
-        "pubDate": "2026-08-03T15:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ask HN: Who wants to be hired? (August 2026)",
-        "link": "https://news.ycombinator.com/item?id=49156682",
-        "pubDate": "2026-08-03T15:00",
-        "feedId": "hn"
       }
     ]
   },
@@ -101,6 +101,18 @@
         "title": "Kill the Cookie Banner",
         "link": "https://killthecookiebanner.eu/",
         "pubDate": "2026-08-03T13:31",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Soppo - Go, with the features it's missing",
+        "link": "https://soppolang.dev/",
+        "pubDate": "2026-08-04T05:58",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Twenty Years of Pandoc",
+        "link": "https://pandoc.org/twenty-years-of-pandoc.html",
+        "pubDate": "2026-08-03T19:44",
         "feedId": "lobsters"
       },
       {
@@ -116,39 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Twenty Years of Pandoc",
-        "link": "https://pandoc.org/twenty-years-of-pandoc.html",
-        "pubDate": "2026-08-03T19:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Rust Project Goals: Immobile types and guaranteed destructors",
-        "link": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
-        "pubDate": "2026-08-03T11:13",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Don't Take the Black Pill (Text Adaptation)",
-        "link": "https://andrewkelley.me/post/dont-take-black-pill.html",
-        "pubDate": "2026-08-03T10:20",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "SQLite Critical CVEs or LLM Slop?",
-        "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-        "pubDate": "2026-08-03T16:51",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Your JSON Is Lying to You",
-        "link": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
-        "pubDate": "2026-08-03T01:40",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "9front \"THIS WAS SUPPOSED TO BE FUN\" Released",
-        "link": "https://9front.org/releases/2026/08/02/0/",
-        "pubDate": "2026-08-03T04:34",
+        "title": "ShieldFont",
+        "link": "https://shieldfont.org/",
+        "pubDate": "2026-08-04T06:05",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +140,51 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Rust Project Goals: Immobile types and guaranteed destructors",
+        "link": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+        "pubDate": "2026-08-03T11:13",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "SQLite Critical CVEs or LLM Slop?",
+        "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+        "pubDate": "2026-08-03T16:51",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Reliability Lessons From SQLite",
         "link": "https://www.youtube.com/watch?v=V_qzqY1bb7I",
         "pubDate": "2026-08-03T16:27",
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/foxgva/what_are_you_doing_this_week",
-        "pubDate": "2026-08-03T15:41",
+        "title": "Don't Take the Black Pill (Text Adaptation)",
+        "link": "https://andrewkelley.me/post/dont-take-black-pill.html",
+        "pubDate": "2026-08-03T10:20",
         "feedId": "lobsters"
       },
       {
-        "title": "Going Backward",
-        "link": "https://antonz.org/going-backward/",
-        "pubDate": "2026-08-03T13:01",
+        "title": "Tests for a PDF ·",
+        "link": "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
+        "pubDate": "2026-08-04T10:23",
         "feedId": "lobsters"
       },
       {
-        "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-        "link": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
-        "pubDate": "2026-08-03T22:04",
+        "title": "9front \"THIS WAS SUPPOSED TO BE FUN\" Released",
+        "link": "https://9front.org/releases/2026/08/02/0/",
+        "pubDate": "2026-08-03T04:34",
         "feedId": "lobsters"
       },
       {
-        "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-        "link": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
-        "pubDate": "2026-08-03T17:35",
+        "title": "Your JSON Is Lying to You",
+        "link": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
+        "pubDate": "2026-08-03T01:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Bibliograph: A Prototypical AppView for Books",
+        "link": "https://discourse.atmosphere.community/t/bibliograph-a-prototypical-appview-for-books/1047",
+        "pubDate": "2026-08-04T08:17",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,30 @@
     "id": "axios",
     "items": [
       {
+        "title": "Reliably red Ohio suddenly a red-hot mess for GOP",
+        "link": "https://www.axios.com/2026/08/04/ohio-gop-mess-2026-elections",
+        "pubDate": "2026-08-04T09:10",
+        "feedId": "axios"
+      },
+      {
+        "title": "Exclusive: College students want ethical AI",
+        "link": "https://www.axios.com/2026/08/04/college-ai-use-kogod-american-university",
+        "pubDate": "2026-08-04T09:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "Poll: Talarico has slim lead over Paxton in Texas Senate race",
+        "link": "https://www.axios.com/2026/08/04/poll-talarico-has-slim-lead-over-paxton-in-texas-senate-race",
+        "pubDate": "2026-08-04T09:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "Wall Street finds new edge behind Trump's presidential paywall",
+        "link": "https://www.axios.com/2026/08/04/trump-truth-social-feed-trades",
+        "pubDate": "2026-08-04T09:00",
+        "feedId": "axios"
+      },
+      {
         "title": "Scoop: Ex-GOP Rep. Jim Renacci mulls House comeback bid if Max Miller drops out",
         "link": "https://www.axios.com/2026/08/04/max-miller-jim-renacci-ohio-trump-republicans",
         "pubDate": "2026-08-04T03:40",
@@ -351,30 +375,6 @@
         "title": "New Yorker: China races to own the industries of the future",
         "link": "https://www.axios.com/2026/08/03/new-yorker-evan-osnos-china-us-industrial-race",
         "pubDate": "2026-08-03T10:03",
-        "feedId": "axios"
-      },
-      {
-        "title": "Medicaid's work requirement crunch arrives",
-        "link": "https://www.axios.com/2026/08/03/medicaid-work-eligibility-requirement-rules-patients",
-        "pubDate": "2026-08-03T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "How America is adapting to climate extremes",
-        "link": "https://www.axios.com/2026/08/03/us-climate-change-adaptation-extreme-weather",
-        "pubDate": "2026-08-03T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Democrats lack a leader right now — and might not get one until 2028",
-        "link": "https://www.axios.com/2026/08/03/democrats-leader-2028-president-aoc-bernie-sanders",
-        "pubDate": "2026-08-03T09:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "Energy Dept. draws fire for slow pace of Venezuelan oil deals",
-        "link": "https://www.axios.com/2026/08/03/energy-department-venezuela-oil-deals",
-        "pubDate": "2026-08-03T09:00",
         "feedId": "axios"
       }
     ]
