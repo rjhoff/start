@@ -3,21 +3,21 @@
     "id": "hn",
     "items": [
       {
+        "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+        "link": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
+        "pubDate": "2026-08-03T22:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "ZX Spectrum System Tour: Text Mode",
+        "link": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
+        "pubDate": "2026-08-03T21:39",
+        "feedId": "hn"
+      },
+      {
         "title": "LLMs reward expertise",
         "link": "https://www.seangoedecke.com/llms-reward-expertise/",
         "pubDate": "2026-08-03T21:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
-        "link": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
-        "pubDate": "2026-08-03T20:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "DDoS against Norwegian government IT infrastructure – status",
-        "link": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
-        "pubDate": "2026-08-03T19:56",
         "feedId": "hn"
       },
       {
@@ -87,9 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Explanation of INT8 ConvRot (FP8 is no longer needed)",
-        "link": "https://note.com/hirorohi03/n/n047a8c5f7f8b?hl=en",
-        "pubDate": "2026-08-03T16:07",
+        "title": "What's the largest software project AI can complete on its own?",
+        "link": "https://epoch.ai/MirrorCode",
+        "pubDate": "2026-08-03T16:16",
         "feedId": "hn"
       }
     ]
@@ -122,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Your JSON Is Lying to You",
-        "link": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
-        "pubDate": "2026-08-03T01:40",
+        "title": "SQLite Critical CVEs or LLM Slop?",
+        "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+        "pubDate": "2026-08-03T16:51",
         "feedId": "lobsters"
       },
       {
-        "title": "9front \"THIS WAS SUPPOSED TO BE FUN\" Released",
-        "link": "https://9front.org/releases/2026/08/02/0/",
-        "pubDate": "2026-08-03T04:34",
+        "title": "Your JSON Is Lying to You",
+        "link": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
+        "pubDate": "2026-08-03T01:40",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "SQLite Critical CVEs or LLM Slop?",
-        "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-        "pubDate": "2026-08-03T16:51",
+        "title": "9front \"THIS WAS SUPPOSED TO BE FUN\" Released",
+        "link": "https://9front.org/releases/2026/08/02/0/",
+        "pubDate": "2026-08-03T04:34",
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/foxgva/what_are_you_doing_this_week",
-        "pubDate": "2026-08-03T15:41",
+        "title": "Twenty Years of Pandoc",
+        "link": "https://pandoc.org/twenty-years-of-pandoc.html",
+        "pubDate": "2026-08-03T19:44",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Twenty Years of Pandoc",
-        "link": "https://pandoc.org/twenty-years-of-pandoc.html",
-        "pubDate": "2026-08-03T19:44",
+        "title": "The Future of GNOME Boxes",
+        "link": "https://blogs.gnome.org/feborges/future-of-boxes/",
+        "pubDate": "2026-08-03T17:16",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/foxgva/what_are_you_doing_this_week",
+        "pubDate": "2026-08-03T15:41",
         "feedId": "lobsters"
       },
       {
@@ -180,18 +186,18 @@
         "link": "https://antonz.org/going-backward/",
         "pubDate": "2026-08-03T13:01",
         "feedId": "lobsters"
-      },
-      {
-        "title": "The Future of GNOME Boxes",
-        "link": "https://blogs.gnome.org/feborges/future-of-boxes/",
-        "pubDate": "2026-08-03T17:16",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+        "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+        "pubDate": "2026-08-03T22:11",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Research roundup: 6 cool science stories we almost missed",
         "link": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
@@ -274,12 +280,6 @@
         "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
         "link": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
         "pubDate": "2026-07-31T22:17",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Doctors took a look at man's painful shoulder—they found the joint was missing",
-        "link": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
-        "pubDate": "2026-07-31T21:51",
         "feedId": "arstechnica"
       }
     ]
