@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "Why did we wait so long for the bicycle? (2019)",
+        "link": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
+        "pubDate": "2026-08-03T23:44",
+        "feedId": "hn"
+      },
+      {
+        "title": "There Will Come Soft Rains (1950) [pdf]",
+        "link": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+        "pubDate": "2026-08-03T23:24",
+        "feedId": "hn"
+      },
+      {
         "title": "Windows XP 2002 for the Itanium: Unbridled rage",
         "link": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
         "pubDate": "2026-08-03T22:04",
@@ -27,21 +39,9 @@
         "feedId": "hn"
       },
       {
-        "title": "KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer",
+        "title": "KisakCOD – Open-source reimplementation of Call of Duty 4 Multiplayer",
         "link": "https://github.com/SwagSoftware/KisakCOD",
         "pubDate": "2026-08-03T18:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "ZX Spectrum System Tour: Sound",
-        "link": "https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/",
-        "pubDate": "2026-08-03T18:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
-        "link": "https://blog.cloudflare.com/billable-usage-api/",
-        "pubDate": "2026-08-03T17:18",
         "feedId": "hn"
       },
       {
@@ -57,15 +57,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Use Task Runners for Common Coding Tasks",
-        "link": "https://hamvocke.com/blog/task-runners/",
-        "pubDate": "2026-08-03T16:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "SearXNG in Rust",
-        "link": "https://github.com/MikeLuu99/searxng-rust",
-        "pubDate": "2026-08-03T16:41",
+        "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+        "link": "https://github.com/leonickson1/Swiftlet",
+        "pubDate": "2026-08-03T16:54",
         "feedId": "hn"
       },
       {
@@ -81,15 +75,21 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
-        "link": "https://armature.tech/",
-        "pubDate": "2026-08-03T16:17",
+        "title": "Twenty Years of Pandoc",
+        "link": "https://pandoc.org/twenty-years-of-pandoc.html",
+        "pubDate": "2026-08-03T15:04",
         "feedId": "hn"
       },
       {
-        "title": "What's the largest software project AI can complete on its own?",
-        "link": "https://epoch.ai/MirrorCode",
-        "pubDate": "2026-08-03T16:16",
+        "title": "Ask HN: Who is hiring? (August 2026)",
+        "link": "https://news.ycombinator.com/item?id=49156683",
+        "pubDate": "2026-08-03T15:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ask HN: Who wants to be hired? (August 2026)",
+        "link": "https://news.ycombinator.com/item?id=49156682",
+        "pubDate": "2026-08-03T15:00",
         "feedId": "hn"
       }
     ]
@@ -116,9 +116,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Twenty Years of Pandoc",
+        "link": "https://pandoc.org/twenty-years-of-pandoc.html",
+        "pubDate": "2026-08-03T19:44",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Rust Project Goals: Immobile types and guaranteed destructors",
         "link": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
         "pubDate": "2026-08-03T11:13",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Don't Take the Black Pill (Text Adaptation)",
+        "link": "https://andrewkelley.me/post/dont-take-black-pill.html",
+        "pubDate": "2026-08-03T10:20",
         "feedId": "lobsters"
       },
       {
@@ -134,27 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Don't Take the Black Pill (Text Adaptation)",
-        "link": "https://andrewkelley.me/post/dont-take-black-pill.html",
-        "pubDate": "2026-08-03T10:20",
-        "feedId": "lobsters"
-      },
-      {
         "title": "9front \"THIS WAS SUPPOSED TO BE FUN\" Released",
         "link": "https://9front.org/releases/2026/08/02/0/",
         "pubDate": "2026-08-03T04:34",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Twenty Years of Pandoc",
-        "link": "https://pandoc.org/twenty-years-of-pandoc.html",
-        "pubDate": "2026-08-03T19:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Reliability Lessons From SQLite",
-        "link": "https://www.youtube.com/watch?v=V_qzqY1bb7I",
-        "pubDate": "2026-08-03T16:27",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +158,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Reliability Lessons From SQLite",
+        "link": "https://www.youtube.com/watch?v=V_qzqY1bb7I",
+        "pubDate": "2026-08-03T16:27",
+        "feedId": "lobsters"
+      },
+      {
         "title": "What are you doing this week?",
         "link": "https://lobste.rs/s/foxgva/what_are_you_doing_this_week",
         "pubDate": "2026-08-03T15:41",
         "feedId": "lobsters"
       },
       {
-        "title": "Wireguard For Plan 9",
-        "link": "http://shithub.us/moody/wg/HEAD/info.html",
-        "pubDate": "2026-08-03T14:03",
+        "title": "Going Backward",
+        "link": "https://antonz.org/going-backward/",
+        "pubDate": "2026-08-03T13:01",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+        "link": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
+        "pubDate": "2026-08-03T22:04",
         "feedId": "lobsters"
       },
       {
         "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
         "link": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
         "pubDate": "2026-08-03T17:35",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Going Backward",
-        "link": "https://antonz.org/going-backward/",
-        "pubDate": "2026-08-03T13:01",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,30 @@
     "id": "axios",
     "items": [
       {
+        "title": "Scoop: Ex-GOP Rep. Jim Renacci mulls House comeback bid if Max Miller drops out",
+        "link": "https://www.axios.com/2026/08/04/max-miller-jim-renacci-ohio-trump-republicans",
+        "pubDate": "2026-08-04T03:40",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: Trump tells Max Miller his candidacy is in trouble",
+        "link": "https://www.axios.com/2026/08/04/trump-max-miller-moreno-election-house",
+        "pubDate": "2026-08-04T00:56",
+        "feedId": "axios"
+      },
+      {
+        "title": "Blanche poised for confirmation vote after he kills Trump's fund",
+        "link": "https://www.axios.com/2026/08/03/trump-anti-weaponization-fund-blanche",
+        "pubDate": "2026-08-04T00:47",
+        "feedId": "axios"
+      },
+      {
+        "title": "Exclusive: House Democratic Women's Caucus calls on Chuck Edwards to resign",
+        "link": "https://www.axios.com/2026/08/04/chuck-edwards-democratic-women-caucus-resign-ethics",
+        "pubDate": "2026-08-04T00:31",
+        "feedId": "axios"
+      },
+      {
         "title": "\"People are pissed\": House Democrats mull whether to push Max Miller expulsion",
         "link": "https://www.axios.com/2026/08/03/max-miller-expel-congress-democrats-allegations",
         "pubDate": "2026-08-03T21:46",
@@ -324,12 +348,6 @@
         "feedId": "axios"
       },
       {
-        "title": "Blanche poised for confirmation vote after he kills Trump's fund",
-        "link": "https://www.axios.com/2026/08/03/trump-anti-weaponization-fund-blanche",
-        "pubDate": "2026-08-03T14:40",
-        "feedId": "axios"
-      },
-      {
         "title": "New Yorker: China races to own the industries of the future",
         "link": "https://www.axios.com/2026/08/03/new-yorker-evan-osnos-china-us-industrial-race",
         "pubDate": "2026-08-03T10:03",
@@ -357,24 +375,6 @@
         "title": "Energy Dept. draws fire for slow pace of Venezuelan oil deals",
         "link": "https://www.axios.com/2026/08/03/energy-department-venezuela-oil-deals",
         "pubDate": "2026-08-03T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "U.S. wildfire season exceeds 10-year average as 99 large fires burn",
-        "link": "https://www.axios.com/2026/08/03/us-wildfire-season-large-fires-10-year-average",
-        "pubDate": "2026-08-03T00:12",
-        "feedId": "axios"
-      },
-      {
-        "title": "Rep. Max Miller not dropping out after domestic abuse allegations",
-        "link": "https://www.axios.com/2026/08/02/max-miller-moreno-abuse-allegations",
-        "pubDate": "2026-08-02T23:03",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: Newsom shows fundraising muscle for state parties",
-        "link": "https://www.axios.com/2026/08/02/newsom-fundraising-democrats-2028",
-        "pubDate": "2026-08-02T21:45",
         "feedId": "axios"
       }
     ]
