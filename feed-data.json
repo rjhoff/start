@@ -3,7 +3,25 @@
     "id": "hn",
     "items": [
       {
-        "title": "Stephen Wolfram's Wife Has Died",
+        "title": "Third-party cyber evaluations involving OpenAI models",
+        "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+        "pubDate": "2026-08-04T21:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
+        "link": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
+        "pubDate": "2026-08-04T21:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Oxide Computer raises $445M (SEC Form D)",
+        "link": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
+        "pubDate": "2026-08-04T20:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
         "link": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
         "pubDate": "2026-08-04T18:51",
         "feedId": "hn"
@@ -21,7 +39,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Web security is too hard",
+        "title": "Web Security is Too Hard",
         "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
         "pubDate": "2026-08-04T18:29",
         "feedId": "hn"
@@ -51,12 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "What's Behind the Sharp Drop in Labor Force Participation?",
-        "link": "https://www.stlouisfed.org/on-the-economy/2026/aug/what-is-behind-sharp-drop-labor-force-participation",
-        "pubDate": "2026-08-04T17:37",
-        "feedId": "hn"
-      },
-      {
         "title": "The Warp Agent CLI",
         "link": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
         "pubDate": "2026-08-04T17:08",
@@ -79,18 +91,6 @@
         "link": "https://github.com/MariaDB/server/pull/4262",
         "pubDate": "2026-08-04T16:21",
         "feedId": "hn"
-      },
-      {
-        "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-        "link": "https://arxiv.org/abs/2602.16763",
-        "pubDate": "2026-08-04T16:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "Perspec 1.0",
-        "link": "https://adriansieber.com/announcing-perspec-1-0/",
-        "pubDate": "2026-08-04T15:40",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,15 +110,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Security is Hard, Y’all",
+        "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
+        "pubDate": "2026-08-04T18:31",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Liquid Glass effect for GNU/Emacs",
         "link": "https://github.com/larrasket/emacs-liquid-glass",
         "pubDate": "2026-08-04T17:43",
         "feedId": "lobsters"
       },
       {
-        "title": "Kill the Cookie Banner",
-        "link": "https://killthecookiebanner.eu/",
-        "pubDate": "2026-08-03T13:31",
+        "title": "Enabling the next iteration of the borrow checker on nightly",
+        "link": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
+        "pubDate": "2026-08-04T17:45",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "FFmpeg 9.0",
+        "link": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+        "pubDate": "2026-08-04T10:51",
         "feedId": "lobsters"
       },
       {
@@ -128,15 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Security is Hard, Y’all",
-        "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
-        "pubDate": "2026-08-04T18:31",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "FFmpeg 9.0",
-        "link": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
-        "pubDate": "2026-08-04T10:51",
+        "title": "Kill the Cookie Banner",
+        "link": "https://killthecookiebanner.eu/",
+        "pubDate": "2026-08-03T13:31",
         "feedId": "lobsters"
       },
       {
@@ -152,21 +158,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "The Nix sandbox is a hidden input",
+        "link": "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input",
+        "pubDate": "2026-08-04T13:02",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Twenty Years of Pandoc",
         "link": "https://pandoc.org/twenty-years-of-pandoc.html",
         "pubDate": "2026-08-03T19:44",
         "feedId": "lobsters"
       },
       {
-        "title": "Enabling the next iteration of the borrow checker on nightly",
-        "link": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
-        "pubDate": "2026-08-04T17:45",
+        "title": "Taming the Steam arm64 client (on pmOS)",
+        "link": "https://blog.drakulix.de/taming-the-steam-arm64-client-on-pmos/",
+        "pubDate": "2026-08-04T17:06",
         "feedId": "lobsters"
       },
       {
-        "title": "The Nix sandbox is a hidden input",
-        "link": "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input",
-        "pubDate": "2026-08-04T13:02",
+        "title": "nixpkgs has a due-process problem",
+        "link": "https://domenkozar.com/2026/08/04/nixpkgs-has-a-due-process-problem/",
+        "pubDate": "2026-08-04T20:44",
         "feedId": "lobsters"
       },
       {
@@ -174,24 +186,18 @@
         "link": "https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf",
         "pubDate": "2026-08-04T08:36",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Don't be a meat proxy",
-        "link": "https://gruhn.me/blog/2026-08-03/",
-        "pubDate": "2026-08-03T07:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "ShieldFont",
-        "link": "https://shieldfont.org/",
-        "pubDate": "2026-08-04T06:05",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Texas halts data center connections to power grid amid overwhelming demand",
+        "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+        "pubDate": "2026-08-04T20:34",
+        "feedId": "arstechnica"
+      },
       {
         "title": "China is Tesla's cash cow, but for how much longer?",
         "link": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
@@ -275,18 +281,36 @@
         "link": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/",
         "pubDate": "2026-08-03T11:00",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
-        "link": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
-        "pubDate": "2026-08-01T18:20",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Max Miller doubles down on staying in Ohio House race",
+        "link": "https://www.axios.com/2026/08/04/max-miller-trump-campaign-decision",
+        "pubDate": "2026-08-04T21:55",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: Inside Trump's AI framework",
+        "link": "https://www.axios.com/2026/08/04/trump-ai-framework-open-models",
+        "pubDate": "2026-08-04T21:14",
+        "feedId": "axios"
+      },
+      {
+        "title": "U.K. government reports OpenAI, Anthropic models attempted to hack companies",
+        "link": "https://www.axios.com/2026/08/04/anthropic-openai-uk-ai-security-institute",
+        "pubDate": "2026-08-04T21:01",
+        "feedId": "axios"
+      },
+      {
+        "title": "Miller calls for his own ethics probe following abuse allegations",
+        "link": "https://www.axios.com/2026/08/04/max-miller-ethics-probe-allegations",
+        "pubDate": "2026-08-04T20:43",
+        "feedId": "axios"
+      },
       {
         "title": "White House plans to keep AI framework under wraps",
         "link": "https://www.axios.com/2026/08/04/white-house-ai-framework-under-wraps",
@@ -303,12 +327,6 @@
         "title": "OpenAI to pay $3.2M to settle DOJ worker discrimination case",
         "link": "https://www.axios.com/2026/08/04/trump-doj-openai-hiring-settlement",
         "pubDate": "2026-08-04T17:25",
-        "feedId": "axios"
-      },
-      {
-        "title": "Miller calls for his own ethics probe following abuse allegations",
-        "link": "https://www.axios.com/2026/08/04/max-miller-ethics-probe-allegations",
-        "pubDate": "2026-08-04T17:11",
         "feedId": "axios"
       },
       {
@@ -357,24 +375,6 @@
         "title": "Blanche poised for confirmation vote after he kills Trump's fund",
         "link": "https://www.axios.com/2026/08/03/trump-anti-weaponization-fund-blanche",
         "pubDate": "2026-08-04T00:47",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: House Democratic Women's Caucus calls on Chuck Edwards to resign",
-        "link": "https://www.axios.com/2026/08/04/chuck-edwards-democratic-women-caucus-resign-ethics",
-        "pubDate": "2026-08-04T00:31",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"People are pissed\": House Democrats mull whether to push Max Miller expulsion",
-        "link": "https://www.axios.com/2026/08/03/max-miller-expel-congress-democrats-allegations",
-        "pubDate": "2026-08-03T21:46",
-        "feedId": "axios"
-      },
-      {
-        "title": "Ethics panel urges censure of Rep. Chuck Edwards over sexual harassment violation",
-        "link": "https://www.axios.com/2026/08/03/chuck-edwards-house-ethics-sexual-harassment",
-        "pubDate": "2026-08-03T20:01",
         "feedId": "axios"
       }
     ]
