@@ -3,6 +3,30 @@
     "id": "hn",
     "items": [
       {
+        "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+        "link": "https://toneyalexander.github.io/inclusive-color-space/",
+        "pubDate": "2026-08-04T15:16",
+        "feedId": "hn"
+      },
+      {
+        "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
+        "link": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
+        "pubDate": "2026-08-04T15:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "Agent skills that bring team coding standards to Claude Code and Codex",
+        "link": "https://github.com/tikalk/adlc-team-skills",
+        "pubDate": "2026-08-04T14:38",
+        "feedId": "hn"
+      },
+      {
+        "title": "Germany Records Historic 12B KWh Solar Feed-In in July 2026",
+        "link": "https://solarquarter.com/2026/08/03/germany-records-historic-12-billion-kwh-solar-feed-in-in-july-2026/",
+        "pubDate": "2026-08-04T13:43",
+        "feedId": "hn"
+      },
+      {
         "title": "Xbox goes down. You can't play games you own on disc",
         "link": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
         "pubDate": "2026-08-04T12:01",
@@ -33,21 +57,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Nobel Disease",
-        "link": "https://en.wikipedia.org/wiki/Nobel_disease",
-        "pubDate": "2026-08-04T11:08",
-        "feedId": "hn"
-      },
-      {
         "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
         "link": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
         "pubDate": "2026-08-04T11:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "Safe Lock-free Primitives with iceoryx2's ByteAtomic",
-        "link": "https://ekxide.io/blog/byte-wise-atomic-wrapper-to-prevent-ub/",
-        "pubDate": "2026-08-04T10:35",
         "feedId": "hn"
       },
       {
@@ -75,21 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Homebench – Benchmark local LLMs for speed, memory, and quality",
-        "link": "https://github.com/david-g-3654/homebench",
-        "pubDate": "2026-08-04T09:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "An Honest Review of AI Programming",
-        "link": "https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/",
-        "pubDate": "2026-08-04T09:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "FFmpeg 9.0",
-        "link": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
-        "pubDate": "2026-08-04T09:30",
+        "title": "\"Clean\" Code, Horrible Performance (2023)",
+        "link": "https://www.computerenhance.com/p/clean-code-horrible-performance",
+        "pubDate": "2026-08-04T09:52",
         "feedId": "hn"
       }
     ]
@@ -110,15 +110,39 @@
         "feedId": "lobsters"
       },
       {
+        "title": "BorrowSanitizer",
+        "link": "https://borrowsanitizer.com/",
+        "pubDate": "2026-08-04T07:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows",
+        "link": "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/",
+        "pubDate": "2026-08-04T13:20",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Twenty Years of Pandoc",
         "link": "https://pandoc.org/twenty-years-of-pandoc.html",
         "pubDate": "2026-08-03T19:44",
         "feedId": "lobsters"
       },
       {
+        "title": "The Lua community needs to learn to move on",
+        "link": "https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/",
+        "pubDate": "2026-08-04T15:20",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Tests for a PDF",
         "link": "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
         "pubDate": "2026-08-04T10:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "FFmpeg 9.0",
+        "link": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+        "pubDate": "2026-08-04T10:51",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +170,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "BorrowSanitizer",
-        "link": "https://borrowsanitizer.com/",
-        "pubDate": "2026-08-04T07:29",
+        "title": "Lisp in 99 Lines of C and How to Write One Yourself",
+        "link": "https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf",
+        "pubDate": "2026-08-04T08:36",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Rust Project Goals: Immobile types and guaranteed destructors",
-        "link": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
-        "pubDate": "2026-08-03T11:13",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "SQLite Critical CVEs or LLM Slop?",
-        "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-        "pubDate": "2026-08-03T16:51",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Don't Take the Black Pill (Text Adaptation)",
-        "link": "https://andrewkelley.me/post/dont-take-black-pill.html",
-        "pubDate": "2026-08-03T10:20",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "9front \"THIS WAS SUPPOSED TO BE FUN\" Released",
-        "link": "https://9front.org/releases/2026/08/02/0/",
-        "pubDate": "2026-08-03T04:34",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Content Management for Halo 2 and Beyond(2005)",
-        "link": "https://nikon.bungie.org/misc/gdc2005_mnoguchi/",
-        "pubDate": "2026-08-04T10:32",
+        "title": "The Nix sandbox is a hidden input",
+        "link": "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input",
+        "pubDate": "2026-08-04T13:02",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware",
+        "link": "https://arstechnica.com/cars/2026/08/2027-chevrolet-corvette-grand-sport-x-proves-code-is-as-important-as-hardware/",
+        "pubDate": "2026-08-04T14:45",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
+        "link": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
+        "pubDate": "2026-08-04T13:38",
+        "feedId": "arstechnica"
+      },
       {
         "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
         "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
@@ -268,18 +280,6 @@
         "title": "Defcon's new badge is a security key you can see inside",
         "link": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
         "pubDate": "2026-08-01T10:05",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "How fruit flies chase invisible ribbons of smell to get to their source",
-        "link": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
-        "pubDate": "2026-08-01T10:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
-        "link": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
-        "pubDate": "2026-07-31T22:17",
         "feedId": "arstechnica"
       }
     ]
