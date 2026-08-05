@@ -3,9 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
-        "link": "https://www.asiae.co.kr/en/article/2026080416131786841",
-        "pubDate": "2026-08-05T01:34",
+        "title": "The sale of Electronic Arts has been finalized",
+        "link": "https://www.bbc.com/news/articles/cjejyl34345o",
+        "pubDate": "2026-08-05T04:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+        "link": "https://arxiv.org/abs/2607.29377",
+        "pubDate": "2026-08-05T04:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "An SLM trained on $8 ESP32-S3",
+        "link": "https://github.com/Carloscodix/qapla",
+        "pubDate": "2026-08-05T04:07",
         "feedId": "hn"
       },
       {
@@ -15,13 +27,13 @@
         "feedId": "hn"
       },
       {
-        "title": "Bugtraq Is Back",
+        "title": "Bugtraq is back",
         "link": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
         "pubDate": "2026-08-05T00:05",
         "feedId": "hn"
       },
       {
-        "title": "Flowise Is Shutting Down",
+        "title": "Flowise is shutting down",
         "link": "https://flowiseai.com/sunset",
         "pubDate": "2026-08-05T00:02",
         "feedId": "hn"
@@ -36,18 +48,6 @@
         "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
         "link": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
         "pubDate": "2026-08-04T23:31",
-        "feedId": "hn"
-      },
-      {
-        "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
-        "link": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
-        "pubDate": "2026-08-04T23:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "FIPS 140-3 is not a security guarantee, and auditors know it",
-        "link": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
-        "pubDate": "2026-08-04T23:21",
         "feedId": "hn"
       },
       {
@@ -87,9 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Cloudflare Wallets: the programmable wallet for the agentic Internet",
-        "link": "https://blog.cloudflare.com/wallets/",
-        "pubDate": "2026-08-04T21:31",
+        "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+        "link": "https://twitter.com/gwern/status/2084739205071343837",
+        "pubDate": "2026-08-04T20:48",
         "feedId": "hn"
       }
     ]
@@ -110,15 +110,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Liquid Glass effect for GNU/Emacs",
-        "link": "https://github.com/larrasket/emacs-liquid-glass",
-        "pubDate": "2026-08-04T17:43",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Enabling the next iteration of the borrow checker on nightly",
         "link": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
         "pubDate": "2026-08-04T17:45",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Born Against, or why hobby programming communities are aggressively against LLM usage",
+        "link": "https://blog.fogus.me/llm/born-against.html",
+        "pubDate": "2026-08-04T20:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Liquid Glass effect for GNU/Emacs",
+        "link": "https://github.com/larrasket/emacs-liquid-glass",
+        "pubDate": "2026-08-04T17:43",
         "feedId": "lobsters"
       },
       {
@@ -128,9 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Born Against, or why hobby programming communities are aggressively against LLM usage",
-        "link": "https://blog.fogus.me/llm/born-against.html",
-        "pubDate": "2026-08-04T20:24",
+        "title": "we finally learned to center a div, then browsers added sidebars",
+        "link": "https://seg6.space/posts/center-div/",
+        "pubDate": "2026-08-04T22:21",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "irken: A tiny hackable full-featured IRC client",
+        "link": "https://codeberg.org/dlowe/irken",
+        "pubDate": "2026-08-04T20:30",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "irken: A tiny hackable full-featured IRC client",
-        "link": "https://codeberg.org/dlowe/irken",
-        "pubDate": "2026-08-04T20:30",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Tests for a PDF",
-        "link": "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
-        "pubDate": "2026-08-04T10:23",
+        "title": "designing a query system",
+        "link": "https://bal-e.org/speed/krabby/2026/query-system-design/",
+        "pubDate": "2026-08-04T21:40",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Kill the Cookie Banner",
-        "link": "https://killthecookiebanner.eu/",
-        "pubDate": "2026-08-03T13:31",
+        "title": "Tests for a PDF",
+        "link": "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
+        "pubDate": "2026-08-04T10:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Nehir: a tiling window manager for macOS",
+        "link": "https://github.com/apphane-dev/nehir",
+        "pubDate": "2026-08-05T02:25",
         "feedId": "lobsters"
       },
       {
         "title": "BorrowSanitizer",
         "link": "https://borrowsanitizer.com/",
         "pubDate": "2026-08-04T07:29",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "we finally learned to center a div, then browsers added sidebars",
-        "link": "https://seg6.space/posts/center-div/",
-        "pubDate": "2026-08-04T22:21",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "designing a query system",
-        "link": "https://bal-e.org/speed/krabby/2026/query-system-design/",
-        "pubDate": "2026-08-04T21:40",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Progressive Will Lawrence wins key Michigan House primary in blow to Dem leaders",
+        "link": "https://www.axios.com/2026/08/05/michigan-7th-district-will-lawrence-maasdam-brink",
+        "pubDate": "2026-08-05T03:31",
+        "feedId": "axios"
+      },
+      {
         "title": "U.S. nears Hormuz deal, aiming for Wednesday announcement",
         "link": "https://www.axios.com/2026/08/05/us-iran-strait-of-hormuz-deal-nears",
         "pubDate": "2026-08-05T02:00",
@@ -368,12 +374,6 @@
       {
         "title": "Exclusive: College students want ethical AI",
         "link": "https://www.axios.com/2026/08/04/college-ai-use-kogod-american-university",
-        "pubDate": "2026-08-04T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Poll: Talarico has slim lead over Paxton in Texas Senate race",
-        "link": "https://www.axios.com/2026/08/04/poll-talarico-has-slim-lead-over-paxton-in-texas-senate-race",
         "pubDate": "2026-08-04T09:00",
         "feedId": "axios"
       }
