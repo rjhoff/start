@@ -3,6 +3,54 @@
     "id": "hn",
     "items": [
       {
+        "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+        "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+        "pubDate": "2026-08-05T19:47",
+        "feedId": "hn"
+      },
+      {
+        "title": "Muse Code and Muse Spark 1.2",
+        "link": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+        "pubDate": "2026-08-05T19:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "Sula: A Gemini protocol server written in Scryer Prolog",
+        "link": "https://sagredo.dev/projects/sula/",
+        "pubDate": "2026-08-05T18:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "Zed DeltaDB",
+        "link": "https://zed.dev/deltadb",
+        "pubDate": "2026-08-05T18:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "What happens if you put work into the second dimension?",
+        "link": "https://norbertkozsir.com/posts/work-in-the-second-dimension/",
+        "pubDate": "2026-08-05T18:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Born Against, or why hobby programming communities are against LLM usage",
+        "link": "https://blog.fogus.me/llm/born-against.html",
+        "pubDate": "2026-08-05T18:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+        "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+        "pubDate": "2026-08-05T18:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+        "link": "https://arxiv.org/abs/2510.01395",
+        "pubDate": "2026-08-05T18:17",
+        "feedId": "hn"
+      },
+      {
         "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
         "link": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
         "pubDate": "2026-08-05T17:23",
@@ -15,9 +63,9 @@
         "feedId": "hn"
       },
       {
-        "title": "I'm Scared a Stranger Will Call My Novel AI, So I Built GitHub for Words",
-        "link": "https://dylan.blog/2026/08/03/im-scared-a-stranger-will.html",
-        "pubDate": "2026-08-05T16:58",
+        "title": "Celld: Self-hosted, distributed Durable Objects",
+        "link": "https://github.com/denoland/celld",
+        "pubDate": "2026-08-05T16:50",
         "feedId": "hn"
       },
       {
@@ -27,69 +75,21 @@
         "feedId": "hn"
       },
       {
-        "title": "Why I'm leaving OpenAI to build telepathy",
+        "title": "I’m leaving OpenAI to build telepathy",
         "link": "https://naomibashkansky.com/blog/telepathy/",
         "pubDate": "2026-08-05T16:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "Stop sending me your errors",
+        "link": "https://kramkow.ski/article/2026/08/05/stop_sending_me_your_errors.html",
+        "pubDate": "2026-08-05T16:35",
         "feedId": "hn"
       },
       {
         "title": "Discovery Loop",
         "link": "https://www.discoveryloop.com/",
         "pubDate": "2026-08-05T16:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "Jeff Dean Leaving Google",
-        "link": "https://twitter.com/JeffDean/status/2085034604172603724",
-        "pubDate": "2026-08-05T16:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "The next chapter of our AI momentum",
-        "link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-        "pubDate": "2026-08-05T16:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Valley of Webhooks",
-        "link": "https://weli.dev/blog/the-valley-of-webhooks/",
-        "pubDate": "2026-08-05T15:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "Qwen 3.0 Image Pro",
-        "link": "https://www.qwencloud.com/models/qwen-image-3.0-pro",
-        "pubDate": "2026-08-05T14:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "Oracle Just Halved Its Always Free ARM Limits",
-        "link": "https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/",
-        "pubDate": "2026-08-05T14:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and You",
-        "link": "https://sightlessscribbles.com/disability-dongle/",
-        "pubDate": "2026-08-05T14:38",
-        "feedId": "hn"
-      },
-      {
-        "title": "Aristotle quotes on virtue, knowledge, and happiness",
-        "link": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
-        "pubDate": "2026-08-05T14:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field",
-        "link": "https://rubinobservatory.org/news/rubin-new-window-cosmos-field",
-        "pubDate": "2026-08-05T14:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "Intelligence Is Not the Main Bottleneck",
-        "link": "https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck",
-        "pubDate": "2026-08-05T14:04",
         "feedId": "hn"
       }
     ]
@@ -110,12 +110,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Security is Hard, Y’all",
-        "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
-        "pubDate": "2026-08-04T18:31",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Faster Than Ninja",
         "link": "https://build2.org/blog/faster-than-ninja.xhtml",
         "pubDate": "2026-08-05T10:37",
@@ -128,15 +122,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Born Against, or why hobby programming communities are aggressively against LLM usage",
-        "link": "https://blog.fogus.me/llm/born-against.html",
-        "pubDate": "2026-08-04T20:24",
+        "title": "Security is Hard, Y’all",
+        "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
+        "pubDate": "2026-08-04T18:31",
         "feedId": "lobsters"
       },
       {
         "title": "Painting with Gaussians",
         "link": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
         "pubDate": "2026-08-05T13:33",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Born Against, or why hobby programming communities are aggressively against LLM usage",
+        "link": "https://blog.fogus.me/llm/born-against.html",
+        "pubDate": "2026-08-04T20:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "C++26: #embed",
+        "link": "https://www.sandordargo.com/blog/2026/08/05/cpp26-embed",
+        "pubDate": "2026-08-05T16:28",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "irken: A tiny hackable full-featured IRC client",
-        "link": "https://codeberg.org/dlowe/irken",
-        "pubDate": "2026-08-04T20:30",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Liquid Glass effect for GNU/Emacs",
-        "link": "https://github.com/larrasket/emacs-liquid-glass",
-        "pubDate": "2026-08-04T17:43",
+        "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and you",
+        "link": "https://sightlessscribbles.com/disability-dongle/",
+        "pubDate": "2026-08-05T18:29",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "designing a query system",
-        "link": "https://bal-e.org/speed/krabby/2026/query-system-design/",
-        "pubDate": "2026-08-04T21:40",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Why the Legendary Erdős Problems Are Falling to AI",
         "link": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
         "pubDate": "2026-08-05T16:54",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "irken: A tiny hackable full-featured IRC client",
+        "link": "https://codeberg.org/dlowe/irken",
+        "pubDate": "2026-08-04T20:30",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,42 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Hank Green found the AI problem that YouTube labels can’t catch",
+        "link": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
+        "pubDate": "2026-08-05T19:51",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "SpaceX claims Starlink Mobile will be better than AT&T, T-Mobile, and Verizon",
+        "link": "https://arstechnica.com/tech-policy/2026/08/spacex-claims-starlink-mobile-will-be-better-than-att-t-mobile-and-verizon/",
+        "pubDate": "2026-08-05T19:38",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "This Atlantic hurricane season is looking like a dud, but there will be a price to pay",
+        "link": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
+        "pubDate": "2026-08-05T19:19",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google's AI shakeup: DeepMind's Hassabis steps aside, senior scientists depart",
+        "link": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
+        "pubDate": "2026-08-05T19:05",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Review: Spider-Man: Brand New Day reminds us that superhero movies can be good",
+        "link": "https://arstechnica.com/culture/2026/08/review-spider-man-brand-new-day-reminds-us-that-superhero-movies-can-be-good/",
+        "pubDate": "2026-08-05T18:27",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Weeks into explosive diarrhea outbreak, sluggish CDC plans response team",
+        "link": "https://arstechnica.com/health/2026/08/report-cdc-finally-plans-formal-response-team-for-explosive-diarrhea-outbreak/",
+        "pubDate": "2026-08-05T18:11",
+        "feedId": "arstechnica"
+      },
       {
         "title": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
         "link": "https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/",
@@ -245,48 +281,18 @@
         "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
         "pubDate": "2026-08-04T20:34",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "China is Tesla's cash cow, but for how much longer?",
-        "link": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
-        "pubDate": "2026-08-04T17:34",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "The Pixel 11's \"glow\" feature is actually called HiLight—here's what it does",
-        "link": "https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/",
-        "pubDate": "2026-08-04T16:11",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Tom DeLay helped create TV ownership cap—he says Trump FCC has no authority to repeal it",
-        "link": "https://arstechnica.com/tech-policy/2026/08/can-trump-fcc-repeal-39-tv-ownership-cap-republican-who-wrote-cap-into-law-says-no/",
-        "pubDate": "2026-08-04T15:51",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Trump admin \"aware\" of deaths in explosive diarrhea outbreak, delays reporting",
-        "link": "https://arstechnica.com/health/2026/08/trump-admin-aware-of-deaths-in-explosive-diarrhea-outbreak-delays-reporting/",
-        "pubDate": "2026-08-04T15:06",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware",
-        "link": "https://arstechnica.com/cars/2026/08/2027-chevrolet-corvette-grand-sport-x-proves-code-is-as-important-as-hardware/",
-        "pubDate": "2026-08-04T14:45",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
-        "link": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
-        "pubDate": "2026-08-04T13:38",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Senate confirms Schwartz for CDC director",
+        "link": "https://www.axios.com/2026/08/05/senate-confirms-cdc-director",
+        "pubDate": "2026-08-05T19:23",
+        "feedId": "axios"
+      },
       {
         "title": "DOJ's voter roll crusade hits a courthouse wall",
         "link": "https://www.axios.com/2026/08/05/trump-doj-voter-roll-lawsuits-fail",
@@ -369,12 +375,6 @@
         "title": "Establishment Democrats notch rare win as Wesley Bell fends off DSA-backed Cori Bush",
         "link": "https://www.axios.com/2026/08/05/wesley-bell-cori-bush-dsa-aipac-missouri-st-louis",
         "pubDate": "2026-08-05T01:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "Man arrested near Trump golf course after gun found in car",
-        "link": "https://www.axios.com/2026/08/05/trump-golf-course-arrest-la",
-        "pubDate": "2026-08-05T00:49",
         "feedId": "axios"
       }
     ]
