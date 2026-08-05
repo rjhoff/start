@@ -1,8 +1,98 @@
 {
   "hn": {
     "id": "hn",
-    "error": "socket hang up",
-    "items": []
+    "items": [
+      {
+        "title": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
+        "link": "https://www.asiae.co.kr/en/article/2026080416131786841",
+        "pubDate": "2026-08-05T01:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+        "link": "https://arxiv.org/abs/2603.04221",
+        "pubDate": "2026-08-05T00:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "Bugtraq Is Back",
+        "link": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
+        "pubDate": "2026-08-05T00:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "Flowise Is Shutting Down",
+        "link": "https://flowiseai.com/sunset",
+        "pubDate": "2026-08-05T00:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "Eight Myths on Software Engineering and GenAI",
+        "link": "https://queue.acm.org/detail.cfm?id=3807963",
+        "pubDate": "2026-08-04T23:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+        "link": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+        "pubDate": "2026-08-04T23:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+        "link": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+        "pubDate": "2026-08-04T23:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "FIPS 140-3 is not a security guarantee, and auditors know it",
+        "link": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
+        "pubDate": "2026-08-04T23:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "libexpat now funded by the City of Munich for up to 6 months",
+        "link": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+        "pubDate": "2026-08-04T23:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: SIMD Viterbi Decoder in Rust",
+        "link": "https://github.com/brian-armstrong/fec",
+        "pubDate": "2026-08-04T22:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "We finally learned to center a div, then browsers added sidebars",
+        "link": "https://seg6.space/posts/center-div/",
+        "pubDate": "2026-08-04T22:24",
+        "feedId": "hn"
+      },
+      {
+        "title": "Pi's Minimalism Is Its Advantage",
+        "link": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+        "pubDate": "2026-08-04T22:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+        "link": "https://techascent.com/blog/just-ducking-around.html",
+        "pubDate": "2026-08-04T22:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+        "link": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+        "pubDate": "2026-08-04T22:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Cloudflare Wallets: the programmable wallet for the agentic Internet",
+        "link": "https://blog.cloudflare.com/wallets/",
+        "pubDate": "2026-08-04T21:31",
+        "feedId": "hn"
+      }
+    ]
   },
   "lobsters": {
     "id": "lobsters",
@@ -20,12 +110,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Soppo - Go, with the features it's missing",
-        "link": "https://soppolang.dev/",
-        "pubDate": "2026-08-04T05:58",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Liquid Glass effect for GNU/Emacs",
         "link": "https://github.com/larrasket/emacs-liquid-glass",
         "pubDate": "2026-08-04T17:43",
@@ -35,6 +119,18 @@
         "title": "Enabling the next iteration of the borrow checker on nightly",
         "link": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
         "pubDate": "2026-08-04T17:45",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Soppo - Go, with the features it's missing",
+        "link": "https://soppolang.dev/",
+        "pubDate": "2026-08-04T05:58",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Born Against, or why hobby programming communities are aggressively against LLM usage",
+        "link": "https://blog.fogus.me/llm/born-against.html",
+        "pubDate": "2026-08-04T20:24",
         "feedId": "lobsters"
       },
       {
@@ -50,15 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Tests for a PDF",
-        "link": "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
-        "pubDate": "2026-08-04T10:23",
+        "title": "irken: A tiny hackable full-featured IRC client",
+        "link": "https://codeberg.org/dlowe/irken",
+        "pubDate": "2026-08-04T20:30",
         "feedId": "lobsters"
       },
       {
-        "title": "Born Against, or why hobby programming communities are aggressively against LLM usage",
-        "link": "https://blog.fogus.me/llm/born-against.html",
-        "pubDate": "2026-08-04T20:24",
+        "title": "Tests for a PDF",
+        "link": "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
+        "pubDate": "2026-08-04T10:23",
         "feedId": "lobsters"
       },
       {
@@ -80,15 +176,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Taming the Steam arm64 client (on pmOS)",
-        "link": "https://blog.drakulix.de/taming-the-steam-arm64-client-on-pmos/",
-        "pubDate": "2026-08-04T17:06",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Twenty Years of Pandoc",
-        "link": "https://pandoc.org/twenty-years-of-pandoc.html",
-        "pubDate": "2026-08-03T19:44",
+        "title": "we finally learned to center a div, then browsers added sidebars",
+        "link": "https://seg6.space/posts/center-div/",
+        "pubDate": "2026-08-04T22:21",
         "feedId": "lobsters"
       },
       {
@@ -198,6 +288,24 @@
     "id": "axios",
     "items": [
       {
+        "title": "U.S. nears Hormuz deal, aiming for Wednesday announcement",
+        "link": "https://www.axios.com/2026/08/05/us-iran-strait-of-hormuz-deal-nears",
+        "pubDate": "2026-08-05T02:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "Establishment Democrats notch rare win as Wesley Bell fends off DSA-backed Cori Bush",
+        "link": "https://www.axios.com/2026/08/05/wesley-bell-cori-bush-dsa-aipac-missouri-st-louis",
+        "pubDate": "2026-08-05T01:10",
+        "feedId": "axios"
+      },
+      {
+        "title": "Man arrested near Trump golf course after gun found in car",
+        "link": "https://www.axios.com/2026/08/05/trump-golf-course-arrest-la",
+        "pubDate": "2026-08-05T00:49",
+        "feedId": "axios"
+      },
+      {
         "title": "Congressional Black Caucus plays hardball with Jeffries-skeptic DSA Democrats",
         "link": "https://www.axios.com/2026/08/04/hakeem-jeffries-black-caucus-rabb-kiros-avila-chevalier",
         "pubDate": "2026-08-04T23:29",
@@ -267,24 +375,6 @@
         "title": "Poll: Talarico has slim lead over Paxton in Texas Senate race",
         "link": "https://www.axios.com/2026/08/04/poll-talarico-has-slim-lead-over-paxton-in-texas-senate-race",
         "pubDate": "2026-08-04T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Wall Street finds new edge behind Trump's presidential paywall",
-        "link": "https://www.axios.com/2026/08/04/trump-truth-social-feed-trades",
-        "pubDate": "2026-08-04T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Ex-GOP Rep. Jim Renacci mulls House comeback bid if Max Miller drops out",
-        "link": "https://www.axios.com/2026/08/04/max-miller-jim-renacci-ohio-trump-republicans",
-        "pubDate": "2026-08-04T03:40",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Trump tells Max Miller his candidacy is in trouble",
-        "link": "https://www.axios.com/2026/08/04/trump-max-miller-moreno-election-house",
-        "pubDate": "2026-08-04T00:56",
         "feedId": "axios"
       }
     ]
