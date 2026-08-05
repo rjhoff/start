@@ -3,6 +3,30 @@
     "id": "hn",
     "items": [
       {
+        "title": "Polling shows a growing political reckoning is coming for data centers",
+        "link": "https://www.politico.com/news/2026/07/21/poll-data-centers-democrats-moratorium-01001799",
+        "pubDate": "2026-08-05T11:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+        "link": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+        "pubDate": "2026-08-05T11:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "Position: LLMs Can't Jump",
+        "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+        "pubDate": "2026-08-05T11:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Helsinki Hacker News Meetup",
+        "link": "https://calpaterson.com/helsinki-hn.html",
+        "pubDate": "2026-08-05T09:15",
+        "feedId": "hn"
+      },
+      {
         "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
         "link": "https://arxiv.org/abs/2607.29377",
         "pubDate": "2026-08-05T04:36",
@@ -15,21 +39,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
-        "link": "https://arxiv.org/abs/2603.04221",
-        "pubDate": "2026-08-05T00:10",
-        "feedId": "hn"
-      },
-      {
         "title": "Bugtraq is back",
         "link": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
         "pubDate": "2026-08-05T00:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "Flowise is shutting down",
-        "link": "https://flowiseai.com/sunset",
-        "pubDate": "2026-08-05T00:02",
         "feedId": "hn"
       },
       {
@@ -78,18 +90,6 @@
         "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
         "link": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
         "pubDate": "2026-08-04T22:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
-        "link": "https://deepgrove.ai/maple-preview",
-        "pubDate": "2026-08-04T19:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-        "link": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-        "pubDate": "2026-08-04T18:51",
         "feedId": "hn"
       }
     ]
@@ -140,15 +140,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Soppo - Go, with the features it's missing",
-        "link": "https://soppolang.dev/",
-        "pubDate": "2026-08-04T05:58",
-        "feedId": "lobsters"
-      },
-      {
         "title": "irken: A tiny hackable full-featured IRC client",
         "link": "https://codeberg.org/dlowe/irken",
         "pubDate": "2026-08-04T20:30",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Faster Than Ninja",
+        "link": "https://build2.org/blog/faster-than-ninja.xhtml",
+        "pubDate": "2026-08-05T10:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Soppo - Go, with the features it's missing",
+        "link": "https://soppolang.dev/",
+        "pubDate": "2026-08-04T05:58",
         "feedId": "lobsters"
       },
       {
@@ -164,6 +170,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Amélie (2023)",
+        "link": "https://www.maxhaesslein.de/visual/objects/amelie/",
+        "pubDate": "2026-08-04T23:55",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Gödel, Escher, Elisp: The Beauty of Macros",
         "link": "https://www.chiply.dev/post-elisp-macros-are-beautiful",
         "pubDate": "2026-08-05T01:00",
@@ -174,24 +186,18 @@
         "link": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
         "pubDate": "2026-08-04T10:51",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Nehir: a tiling window manager for macOS",
-        "link": "https://github.com/apphane-dev/nehir",
-        "pubDate": "2026-08-05T02:25",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Tests for a PDF",
-        "link": "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
-        "pubDate": "2026-08-04T10:23",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Pushing the limits: Infinite Machine's Olto is barely a bicycle",
+        "link": "https://arstechnica.com/cars/2026/08/pushing-the-limits-infinite-machines-olto-is-barely-a-bicycle/",
+        "pubDate": "2026-08-05T11:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Senators demand crackdown on wildfire \"prediction markets\"",
         "link": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
@@ -275,18 +281,30 @@
         "link": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
         "pubDate": "2026-08-03T16:10",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana",
-        "link": "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/",
-        "pubDate": "2026-08-03T14:41",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "House Democrats pack 2026 target list with more Trump-won seats",
+        "link": "https://www.axios.com/2026/08/05/2026-midterms-democrats-map-trump-districts",
+        "pubDate": "2026-08-05T10:45",
+        "feedId": "axios"
+      },
+      {
+        "title": "Rep. Chuck Edwards drops re-election bid after censure recommendation",
+        "link": "https://www.axios.com/2026/08/05/chuck-edwards-reelection-censure-harassment",
+        "pubDate": "2026-08-05T09:45",
+        "feedId": "axios"
+      },
+      {
+        "title": "Investors can't stop believing",
+        "link": "https://www.axios.com/2026/08/05/ai-stocks-sp-500-high",
+        "pubDate": "2026-08-05T09:40",
+        "feedId": "axios"
+      },
       {
         "title": "Fauci's legal woes could deter scientists from government service",
         "link": "https://www.axios.com/2026/08/05/fauci-scientists-government-health",
@@ -303,12 +321,6 @@
         "title": "We're headed toward the first true AI election",
         "link": "https://www.axios.com/2026/08/05/ai-election-bots-simulated-voters-2026-2028",
         "pubDate": "2026-08-05T09:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "Rep. Chuck Edwards drops re-election bid after censure recommendation",
-        "link": "https://www.axios.com/2026/08/05/chuck-edwards-reelection-censure-harassment",
-        "pubDate": "2026-08-05T09:11",
         "feedId": "axios"
       },
       {
@@ -363,18 +375,6 @@
         "title": "Scoop: Inside Trump's AI framework",
         "link": "https://www.axios.com/2026/08/04/trump-ai-framework-open-models",
         "pubDate": "2026-08-04T21:14",
-        "feedId": "axios"
-      },
-      {
-        "title": "U.K. government reports OpenAI, Anthropic models attempted to hack companies",
-        "link": "https://www.axios.com/2026/08/04/anthropic-openai-uk-ai-security-institute",
-        "pubDate": "2026-08-04T21:01",
-        "feedId": "axios"
-      },
-      {
-        "title": "Miller calls for his own ethics probe following abuse allegations",
-        "link": "https://www.axios.com/2026/08/04/max-miller-ethics-probe-allegations",
-        "pubDate": "2026-08-04T20:43",
         "feedId": "axios"
       }
     ]
