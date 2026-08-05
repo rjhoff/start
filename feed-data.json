@@ -1,98 +1,8 @@
 {
   "hn": {
     "id": "hn",
-    "items": [
-      {
-        "title": "Third-party cyber evaluations involving OpenAI models",
-        "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
-        "pubDate": "2026-08-04T21:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
-        "link": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
-        "pubDate": "2026-08-04T21:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "Oxide Computer raises $445M (SEC Form D)",
-        "link": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
-        "pubDate": "2026-08-04T20:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-        "link": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-        "pubDate": "2026-08-04T18:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
-        "link": "https://edotenv.com/",
-        "pubDate": "2026-08-04T18:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "Waymo – Dallas Open to All",
-        "link": "https://waymo.com/blog/shorts/dallas-open-to-all/",
-        "pubDate": "2026-08-04T18:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "Web Security is Too Hard",
-        "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
-        "pubDate": "2026-08-04T18:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "Blackmail Fail (2013)",
-        "link": "https://gwern.net/blackmail",
-        "pubDate": "2026-08-04T18:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why some people mow a lawn better than others",
-        "link": "https://pudding.cool/2026/06/mow/",
-        "pubDate": "2026-08-04T18:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hop.earth – OpenStreetMap based car racing game",
-        "link": "https://hop.earth/?server=lkhr7&route=fQ5nuu9R",
-        "pubDate": "2026-08-04T17:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "Vlt 1.0 and Hosted Package Registries",
-        "link": "https://www.vlt.io/blog/1-0",
-        "pubDate": "2026-08-04T17:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Warp Agent CLI",
-        "link": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
-        "pubDate": "2026-08-04T17:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead",
-        "link": "https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead",
-        "pubDate": "2026-08-04T17:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-        "link": "https://mistral.ai/news/shieldstral/",
-        "pubDate": "2026-08-04T16:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "MariaDB: Promote getting to 10k GitHub stars in server log and client prompt",
-        "link": "https://github.com/MariaDB/server/pull/4262",
-        "pubDate": "2026-08-04T16:21",
-        "feedId": "hn"
-      }
-    ]
+    "error": "socket hang up",
+    "items": []
   },
   "lobsters": {
     "id": "lobsters",
@@ -104,15 +14,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Soppo - Go, with the features it's missing",
-        "link": "https://soppolang.dev/",
-        "pubDate": "2026-08-04T05:58",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Security is Hard, Y’all",
         "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
         "pubDate": "2026-08-04T18:31",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Soppo - Go, with the features it's missing",
+        "link": "https://soppolang.dev/",
+        "pubDate": "2026-08-04T05:58",
         "feedId": "lobsters"
       },
       {
@@ -128,9 +38,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "The Nix sandbox is a hidden input",
+        "link": "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input",
+        "pubDate": "2026-08-04T13:02",
+        "feedId": "lobsters"
+      },
+      {
         "title": "FFmpeg 9.0",
         "link": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
         "pubDate": "2026-08-04T10:51",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Tests for a PDF",
+        "link": "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
+        "pubDate": "2026-08-04T10:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Born Against, or why hobby programming communities are aggressively against LLM usage",
+        "link": "https://blog.fogus.me/llm/born-against.html",
+        "pubDate": "2026-08-04T20:24",
         "feedId": "lobsters"
       },
       {
@@ -146,27 +74,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Tests for a PDF",
-        "link": "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
-        "pubDate": "2026-08-04T10:23",
-        "feedId": "lobsters"
-      },
-      {
         "title": "BorrowSanitizer",
         "link": "https://borrowsanitizer.com/",
         "pubDate": "2026-08-04T07:29",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Nix sandbox is a hidden input",
-        "link": "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input",
-        "pubDate": "2026-08-04T13:02",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Twenty Years of Pandoc",
-        "link": "https://pandoc.org/twenty-years-of-pandoc.html",
-        "pubDate": "2026-08-03T19:44",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +86,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "nixpkgs has a due-process problem",
-        "link": "https://domenkozar.com/2026/08/04/nixpkgs-has-a-due-process-problem/",
-        "pubDate": "2026-08-04T20:44",
+        "title": "Twenty Years of Pandoc",
+        "link": "https://pandoc.org/twenty-years-of-pandoc.html",
+        "pubDate": "2026-08-03T19:44",
         "feedId": "lobsters"
       },
       {
-        "title": "Lisp in 99 Lines of C and How to Write One Yourself",
-        "link": "https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf",
-        "pubDate": "2026-08-04T08:36",
+        "title": "designing a query system",
+        "link": "https://bal-e.org/speed/krabby/2026/query-system-design/",
+        "pubDate": "2026-08-04T21:40",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +102,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Senators demand crackdown on wildfire \"prediction markets\"",
+        "link": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
+        "pubDate": "2026-08-04T21:52",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Trump killed the Digital Equity Act, but US was forced to bring part of it back",
+        "link": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
+        "pubDate": "2026-08-04T21:27",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Texas halts data center connections to power grid amid overwhelming demand",
         "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
@@ -269,18 +191,6 @@
         "link": "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/",
         "pubDate": "2026-08-03T14:41",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Trump wants the power to stop the public from suing polluters",
-        "link": "https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/",
-        "pubDate": "2026-08-03T13:33",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "How headlights got brighter, whiter, and more blinding after dark",
-        "link": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/",
-        "pubDate": "2026-08-03T11:00",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,9 +198,15 @@
     "id": "axios",
     "items": [
       {
+        "title": "Congressional Black Caucus plays hardball with Jeffries-skeptic DSA Democrats",
+        "link": "https://www.axios.com/2026/08/04/hakeem-jeffries-black-caucus-rabb-kiros-avila-chevalier",
+        "pubDate": "2026-08-04T23:29",
+        "feedId": "axios"
+      },
+      {
         "title": "Max Miller doubles down on staying in Ohio House race",
         "link": "https://www.axios.com/2026/08/04/max-miller-trump-campaign-decision",
-        "pubDate": "2026-08-04T21:55",
+        "pubDate": "2026-08-04T22:11",
         "feedId": "axios"
       },
       {
@@ -369,12 +285,6 @@
         "title": "Scoop: Trump tells Max Miller his candidacy is in trouble",
         "link": "https://www.axios.com/2026/08/04/trump-max-miller-moreno-election-house",
         "pubDate": "2026-08-04T00:56",
-        "feedId": "axios"
-      },
-      {
-        "title": "Blanche poised for confirmation vote after he kills Trump's fund",
-        "link": "https://www.axios.com/2026/08/03/trump-anti-weaponization-fund-blanche",
-        "pubDate": "2026-08-04T00:47",
         "feedId": "axios"
       }
     ]
