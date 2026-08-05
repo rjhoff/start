@@ -3,12 +3,6 @@
     "id": "hn",
     "items": [
       {
-        "title": "The sale of Electronic Arts has been finalized",
-        "link": "https://www.bbc.com/news/articles/cjejyl34345o",
-        "pubDate": "2026-08-05T04:51",
-        "feedId": "hn"
-      },
-      {
         "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
         "link": "https://arxiv.org/abs/2607.29377",
         "pubDate": "2026-08-05T04:36",
@@ -87,9 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
-        "link": "https://twitter.com/gwern/status/2084739205071343837",
-        "pubDate": "2026-08-04T20:48",
+        "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
+        "link": "https://deepgrove.ai/maple-preview",
+        "pubDate": "2026-08-04T19:44",
+        "feedId": "hn"
+      },
+      {
+        "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+        "link": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+        "pubDate": "2026-08-04T18:51",
         "feedId": "hn"
       }
     ]
@@ -98,9 +98,9 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "The Lua community needs to learn to move on",
-        "link": "https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/",
-        "pubDate": "2026-08-04T15:20",
+        "title": "rust-lang/rust is adopting an LLM policy",
+        "link": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+        "pubDate": "2026-08-05T06:55",
         "feedId": "lobsters"
       },
       {
@@ -110,9 +110,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Enabling the next iteration of the borrow checker on nightly",
-        "link": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
-        "pubDate": "2026-08-04T17:45",
+        "title": "The Lua community needs to learn to move on",
+        "link": "https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/",
+        "pubDate": "2026-08-04T15:20",
         "feedId": "lobsters"
       },
       {
@@ -122,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Liquid Glass effect for GNU/Emacs",
-        "link": "https://github.com/larrasket/emacs-liquid-glass",
-        "pubDate": "2026-08-04T17:43",
+        "title": "Enabling the next iteration of the borrow checker on nightly",
+        "link": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
+        "pubDate": "2026-08-04T17:45",
         "feedId": "lobsters"
       },
       {
-        "title": "Soppo - Go, with the features it's missing",
-        "link": "https://soppolang.dev/",
-        "pubDate": "2026-08-04T05:58",
+        "title": "Liquid Glass effect for GNU/Emacs",
+        "link": "https://github.com/larrasket/emacs-liquid-glass",
+        "pubDate": "2026-08-04T17:43",
         "feedId": "lobsters"
       },
       {
@@ -140,21 +140,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Soppo - Go, with the features it's missing",
+        "link": "https://soppolang.dev/",
+        "pubDate": "2026-08-04T05:58",
+        "feedId": "lobsters"
+      },
+      {
         "title": "irken: A tiny hackable full-featured IRC client",
         "link": "https://codeberg.org/dlowe/irken",
         "pubDate": "2026-08-04T20:30",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Nix sandbox is a hidden input",
-        "link": "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input",
-        "pubDate": "2026-08-04T13:02",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "FFmpeg 9.0",
-        "link": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
-        "pubDate": "2026-08-04T10:51",
         "feedId": "lobsters"
       },
       {
@@ -164,15 +158,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows",
-        "link": "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/",
-        "pubDate": "2026-08-04T13:20",
+        "title": "The Nix sandbox is a hidden input",
+        "link": "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input",
+        "pubDate": "2026-08-04T13:02",
         "feedId": "lobsters"
       },
       {
-        "title": "Tests for a PDF",
-        "link": "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
-        "pubDate": "2026-08-04T10:23",
+        "title": "Gödel, Escher, Elisp: The Beauty of Macros",
+        "link": "https://www.chiply.dev/post-elisp-macros-are-beautiful",
+        "pubDate": "2026-08-05T01:00",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "FFmpeg 9.0",
+        "link": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+        "pubDate": "2026-08-04T10:51",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "BorrowSanitizer",
-        "link": "https://borrowsanitizer.com/",
-        "pubDate": "2026-08-04T07:29",
+        "title": "Tests for a PDF",
+        "link": "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
+        "pubDate": "2026-08-04T10:23",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,30 @@
     "id": "axios",
     "items": [
       {
+        "title": "Fauci's legal woes could deter scientists from government service",
+        "link": "https://www.axios.com/2026/08/05/fauci-scientists-government-health",
+        "pubDate": "2026-08-05T09:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump's golden age reality check",
+        "link": "https://www.axios.com/2026/08/05/gdp-growth-trump-golden-age-predictions",
+        "pubDate": "2026-08-05T09:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "We're headed toward the first true AI election",
+        "link": "https://www.axios.com/2026/08/05/ai-election-bots-simulated-voters-2026-2028",
+        "pubDate": "2026-08-05T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "Rep. Chuck Edwards drops re-election bid after censure recommendation",
+        "link": "https://www.axios.com/2026/08/05/chuck-edwards-reelection-censure-harassment",
+        "pubDate": "2026-08-05T09:11",
+        "feedId": "axios"
+      },
+      {
         "title": "Progressive Will Lawrence wins key Michigan House primary in blow to Dem leaders",
         "link": "https://www.axios.com/2026/08/05/michigan-7th-district-will-lawrence-maasdam-brink",
         "pubDate": "2026-08-05T03:31",
@@ -312,6 +336,12 @@
         "feedId": "axios"
       },
       {
+        "title": "Scoop: Inside Hegseth's classified plea for more defense funds",
+        "link": "https://www.axios.com/2026/08/04/hegseth-defense-funding-reconciliation",
+        "pubDate": "2026-08-04T23:32",
+        "feedId": "axios"
+      },
+      {
         "title": "Congressional Black Caucus plays hardball with Jeffries-skeptic DSA Democrats",
         "link": "https://www.axios.com/2026/08/04/hakeem-jeffries-black-caucus-rabb-kiros-avila-chevalier",
         "pubDate": "2026-08-04T23:29",
@@ -321,6 +351,12 @@
         "title": "Max Miller doubles down on staying in Ohio House race",
         "link": "https://www.axios.com/2026/08/04/max-miller-trump-campaign-decision",
         "pubDate": "2026-08-04T22:11",
+        "feedId": "axios"
+      },
+      {
+        "title": "Susan Collins opposes Todd Blanche for attorney general",
+        "link": "https://www.axios.com/2026/08/04/todd-blanche-attorney-general-senate-republicans-susan-collins",
+        "pubDate": "2026-08-04T21:39",
         "feedId": "axios"
       },
       {
@@ -339,42 +375,6 @@
         "title": "Miller calls for his own ethics probe following abuse allegations",
         "link": "https://www.axios.com/2026/08/04/max-miller-ethics-probe-allegations",
         "pubDate": "2026-08-04T20:43",
-        "feedId": "axios"
-      },
-      {
-        "title": "White House plans to keep AI framework under wraps",
-        "link": "https://www.axios.com/2026/08/04/white-house-ai-framework-under-wraps",
-        "pubDate": "2026-08-04T18:26",
-        "feedId": "axios"
-      },
-      {
-        "title": "The number of states targeted in cyberattacks on water systems has jumped to 12",
-        "link": "https://www.axios.com/2026/08/04/water-cyberattacks-us-iran",
-        "pubDate": "2026-08-04T17:57",
-        "feedId": "axios"
-      },
-      {
-        "title": "OpenAI to pay $3.2M to settle DOJ worker discrimination case",
-        "link": "https://www.axios.com/2026/08/04/trump-doj-openai-hiring-settlement",
-        "pubDate": "2026-08-04T17:25",
-        "feedId": "axios"
-      },
-      {
-        "title": "The comeback of a rate-sensitive America",
-        "link": "https://www.axios.com/2026/08/04/manufacturing-construction-labor-rates",
-        "pubDate": "2026-08-04T15:58",
-        "feedId": "axios"
-      },
-      {
-        "title": "Reliably red Ohio suddenly a red-hot mess for GOP",
-        "link": "https://www.axios.com/2026/08/04/ohio-gop-mess-2026-elections",
-        "pubDate": "2026-08-04T09:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: College students want ethical AI",
-        "link": "https://www.axios.com/2026/08/04/college-ai-use-kogod-american-university",
-        "pubDate": "2026-08-04T09:00",
         "feedId": "axios"
       }
     ]
