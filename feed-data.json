@@ -3,39 +3,57 @@
     "id": "hn",
     "items": [
       {
+        "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+        "link": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+        "pubDate": "2026-08-05T17:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "Phishers are hijacking legitimate cloud infrastructure",
+        "link": "https://securelist.com/cloud-platforms-in-phishing/120832/",
+        "pubDate": "2026-08-05T17:20",
+        "feedId": "hn"
+      },
+      {
+        "title": "I'm Scared a Stranger Will Call My Novel AI, So I Built GitHub for Words",
+        "link": "https://dylan.blog/2026/08/03/im-scared-a-stranger-will.html",
+        "pubDate": "2026-08-05T16:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+        "link": "https://www.hyperprobe.co",
+        "pubDate": "2026-08-05T16:47",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why I'm leaving OpenAI to build telepathy",
+        "link": "https://naomibashkansky.com/blog/telepathy/",
+        "pubDate": "2026-08-05T16:45",
+        "feedId": "hn"
+      },
+      {
         "title": "Discovery Loop",
         "link": "https://www.discoveryloop.com/",
         "pubDate": "2026-08-05T16:19",
         "feedId": "hn"
       },
       {
-        "title": "Google DeepMind CEO Demis Hassabis is stepping down",
-        "link": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+        "title": "Jeff Dean Leaving Google",
+        "link": "https://twitter.com/JeffDean/status/2085034604172603724",
+        "pubDate": "2026-08-05T16:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "The next chapter of our AI momentum",
+        "link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
         "pubDate": "2026-08-05T16:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "Jeff Dean leaving Alphabet",
-        "link": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html",
-        "pubDate": "2026-08-05T16:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "Fed's Kashkari says 'now is the time to start slowly moving' rates up",
-        "link": "https://www.cnbc.com/2026/08/05/feds-kashkari-says-now-is-the-time-to-start-slowly-moving-rates-up.html",
-        "pubDate": "2026-08-05T15:24",
         "feedId": "hn"
       },
       {
         "title": "The Valley of Webhooks",
         "link": "https://weli.dev/blog/the-valley-of-webhooks/",
         "pubDate": "2026-08-05T15:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search",
-        "link": "https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/",
-        "pubDate": "2026-08-05T15:20",
         "feedId": "hn"
       },
       {
@@ -73,24 +91,6 @@
         "link": "https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck",
         "pubDate": "2026-08-05T14:04",
         "feedId": "hn"
-      },
-      {
-        "title": "TSON – A JSON superset with immutable, hash-pinned schemas",
-        "link": "https://tson.io/",
-        "pubDate": "2026-08-05T14:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Entropy of a Markov Chain",
-        "link": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
-        "pubDate": "2026-08-05T14:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Cloudflare OS: an open platform for agents, apps, and work",
-        "link": "https://blog.cloudflare.com/cloudflare-os/",
-        "pubDate": "2026-08-05T13:58",
-        "feedId": "hn"
       }
     ]
   },
@@ -122,15 +122,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Nix Overrides That Expire Themselves",
+        "link": "https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/",
+        "pubDate": "2026-08-05T12:17",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Born Against, or why hobby programming communities are aggressively against LLM usage",
         "link": "https://blog.fogus.me/llm/born-against.html",
         "pubDate": "2026-08-04T20:24",
         "feedId": "lobsters"
       },
       {
-        "title": "Nix Overrides That Expire Themselves",
-        "link": "https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/",
-        "pubDate": "2026-08-05T12:17",
+        "title": "Painting with Gaussians",
+        "link": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
+        "pubDate": "2026-08-05T13:33",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Painting with Gaussians",
-        "link": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
-        "pubDate": "2026-08-05T13:33",
+        "title": "irken: A tiny hackable full-featured IRC client",
+        "link": "https://codeberg.org/dlowe/irken",
+        "pubDate": "2026-08-04T20:30",
         "feedId": "lobsters"
       },
       {
@@ -164,9 +170,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "irken: A tiny hackable full-featured IRC client",
-        "link": "https://codeberg.org/dlowe/irken",
-        "pubDate": "2026-08-04T20:30",
+        "title": "Stop Sending Me Your Errors",
+        "link": "https://kramkow.ski/article/2026/08/05/stop_sending_me_your_errors.html",
+        "pubDate": "2026-08-05T15:33",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Nehir: a tiling window manager for macOS",
-        "link": "https://github.com/apphane-dev/nehir",
-        "pubDate": "2026-08-05T02:25",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Soppo - Go, with the features it's missing",
-        "link": "https://soppolang.dev/",
-        "pubDate": "2026-08-04T05:58",
+        "title": "Why the Legendary Erdős Problems Are Falling to AI",
+        "link": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+        "pubDate": "2026-08-05T16:54",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,30 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
+        "link": "https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/",
+        "pubDate": "2026-08-05T17:12",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "EVgo starts building Tesla Superchargers under license",
+        "link": "https://arstechnica.com/cars/2026/08/evgo-starts-building-tesla-superchargers-under-license/",
+        "pubDate": "2026-08-05T17:00",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "D-Wave shows off its new entry in quantum computing race",
+        "link": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
+        "pubDate": "2026-08-05T16:37",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google plans to kill Assistant on your phone on September 4",
+        "link": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+        "pubDate": "2026-08-05T15:30",
+        "feedId": "arstechnica"
+      },
       {
         "title": "SpaceX spooks investors with debut earnings report",
         "link": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
@@ -257,36 +281,24 @@
         "link": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
         "pubDate": "2026-08-04T13:38",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
-        "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
-        "pubDate": "2026-08-03T22:11",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Research roundup: 6 cool science stories we almost missed",
-        "link": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
-        "pubDate": "2026-08-03T20:13",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
-        "link": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
-        "pubDate": "2026-08-03T19:21",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
-        "link": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
-        "pubDate": "2026-08-03T19:00",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "DOJ's voter roll crusade hits a courthouse wall",
+        "link": "https://www.axios.com/2026/08/05/trump-doj-voter-roll-lawsuits-fail",
+        "pubDate": "2026-08-05T17:40",
+        "feedId": "axios"
+      },
+      {
+        "title": "Employers are hiring less but paying more",
+        "link": "https://www.axios.com/2026/08/05/employment-pay-construction-adp",
+        "pubDate": "2026-08-05T16:10",
+        "feedId": "axios"
+      },
       {
         "title": "Rep. Chuck Edwards drops re-election bid after censure recommendation",
         "link": "https://www.axios.com/2026/08/05/chuck-edwards-reelection-censure-harassment",
@@ -363,18 +375,6 @@
         "title": "Man arrested near Trump golf course after gun found in car",
         "link": "https://www.axios.com/2026/08/05/trump-golf-course-arrest-la",
         "pubDate": "2026-08-05T00:49",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Inside Hegseth's classified plea for more defense funds",
-        "link": "https://www.axios.com/2026/08/04/hegseth-defense-funding-reconciliation",
-        "pubDate": "2026-08-04T23:32",
-        "feedId": "axios"
-      },
-      {
-        "title": "Congressional Black Caucus plays hardball with Jeffries-skeptic DSA Democrats",
-        "link": "https://www.axios.com/2026/08/04/hakeem-jeffries-black-caucus-rabb-kiros-avila-chevalier",
-        "pubDate": "2026-08-04T23:29",
         "feedId": "axios"
       }
     ]
