@@ -3,93 +3,93 @@
     "id": "hn",
     "items": [
       {
-        "title": "Polling shows a growing political reckoning is coming for data centers",
-        "link": "https://www.politico.com/news/2026/07/21/poll-data-centers-democrats-moratorium-01001799",
-        "pubDate": "2026-08-05T11:13",
+        "title": "Aristotle quotes on virtue, knowledge, and happiness",
+        "link": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
+        "pubDate": "2026-08-05T14:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Vocab Top – AI-powered vocabulary builder that helps you retain words",
+        "link": "https://www.vocab.top/",
+        "pubDate": "2026-08-05T14:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field",
+        "link": "https://rubinobservatory.org/news/rubin-new-window-cosmos-field",
+        "pubDate": "2026-08-05T14:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "TSON – A JSON superset with immutable, hash-pinned schemas",
+        "link": "https://tson.io/",
+        "pubDate": "2026-08-05T14:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Entropy of a Markov Chain",
+        "link": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
+        "pubDate": "2026-08-05T14:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Cloudflare OS: an open platform for agents, apps, and work",
+        "link": "https://blog.cloudflare.com/cloudflare-os/",
+        "pubDate": "2026-08-05T13:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "Silicon Valley sees AI as the solution – for everyone else",
+        "link": "https://observer.co.uk/news/science-technology/article/silicon-valley-sees-ai-as-the-solution-for-everyone-else-its-the-problem",
+        "pubDate": "2026-08-05T13:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "Not hiring junior engineers won't solve the problem you think you have",
+        "link": "https://franciscotrindade.me/blog/the-kids-are-alright/",
+        "pubDate": "2026-08-05T13:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Building an Advanced Agentic Harness",
+        "link": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
+        "pubDate": "2026-08-05T13:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "Faster Than Ninja",
+        "link": "https://build2.org/blog/faster-than-ninja.xhtml",
+        "pubDate": "2026-08-05T13:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Universities would prefer no AI",
+        "link": "https://hollisrobbinsanecdotal.substack.com/p/universities-would-prefer-not-to",
+        "pubDate": "2026-08-05T13:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "Drone carrying explosive device causes disruption at major German airport",
+        "link": "https://www.cnn.com/2026/08/05/europe/cargo-plane-leipzig-disruption-intl",
+        "pubDate": "2026-08-05T12:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+        "link": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
+        "pubDate": "2026-08-05T12:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why the Legendary Erdős Problems Are Falling to AI",
+        "link": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+        "pubDate": "2026-08-05T11:49",
         "feedId": "hn"
       },
       {
         "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
         "link": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
         "pubDate": "2026-08-05T11:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Position: LLMs Can't Jump",
-        "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-        "pubDate": "2026-08-05T11:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "Helsinki Hacker News Meetup",
-        "link": "https://calpaterson.com/helsinki-hn.html",
-        "pubDate": "2026-08-05T09:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-        "link": "https://arxiv.org/abs/2607.29377",
-        "pubDate": "2026-08-05T04:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "An SLM trained on $8 ESP32-S3",
-        "link": "https://github.com/Carloscodix/qapla",
-        "pubDate": "2026-08-05T04:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "Bugtraq is back",
-        "link": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
-        "pubDate": "2026-08-05T00:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "Eight Myths on Software Engineering and GenAI",
-        "link": "https://queue.acm.org/detail.cfm?id=3807963",
-        "pubDate": "2026-08-04T23:50",
-        "feedId": "hn"
-      },
-      {
-        "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
-        "link": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
-        "pubDate": "2026-08-04T23:31",
-        "feedId": "hn"
-      },
-      {
-        "title": "libexpat now funded by the City of Munich for up to 6 months",
-        "link": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-        "pubDate": "2026-08-04T23:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: SIMD Viterbi Decoder in Rust",
-        "link": "https://github.com/brian-armstrong/fec",
-        "pubDate": "2026-08-04T22:37",
-        "feedId": "hn"
-      },
-      {
-        "title": "We finally learned to center a div, then browsers added sidebars",
-        "link": "https://seg6.space/posts/center-div/",
-        "pubDate": "2026-08-04T22:24",
-        "feedId": "hn"
-      },
-      {
-        "title": "Pi's Minimalism Is Its Advantage",
-        "link": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-        "pubDate": "2026-08-04T22:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
-        "link": "https://techascent.com/blog/just-ducking-around.html",
-        "pubDate": "2026-08-04T22:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-        "link": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-        "pubDate": "2026-08-04T22:01",
         "feedId": "hn"
       }
     ]
@@ -110,39 +110,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Lua community needs to learn to move on",
-        "link": "https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/",
-        "pubDate": "2026-08-04T15:20",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Born Against, or why hobby programming communities are aggressively against LLM usage",
         "link": "https://blog.fogus.me/llm/born-against.html",
         "pubDate": "2026-08-04T20:24",
         "feedId": "lobsters"
       },
       {
-        "title": "Enabling the next iteration of the borrow checker on nightly",
-        "link": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
-        "pubDate": "2026-08-04T17:45",
+        "title": "Offensive Internet Posture",
+        "link": "https://bruceediger.com/posts/offensive-machine/",
+        "pubDate": "2026-08-05T12:34",
         "feedId": "lobsters"
       },
       {
-        "title": "Liquid Glass effect for GNU/Emacs",
-        "link": "https://github.com/larrasket/emacs-liquid-glass",
-        "pubDate": "2026-08-04T17:43",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "we finally learned to center a div, then browsers added sidebars",
-        "link": "https://seg6.space/posts/center-div/",
-        "pubDate": "2026-08-04T22:21",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "irken: A tiny hackable full-featured IRC client",
-        "link": "https://codeberg.org/dlowe/irken",
-        "pubDate": "2026-08-04T20:30",
+        "title": "The Lua community needs to learn to move on",
+        "link": "https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/",
+        "pubDate": "2026-08-04T15:20",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +134,45 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Enabling the next iteration of the borrow checker on nightly",
+        "link": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
+        "pubDate": "2026-08-04T17:45",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Nix Overrides That Expire Themselves",
+        "link": "https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/",
+        "pubDate": "2026-08-05T12:17",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "we finally learned to center a div, then browsers added sidebars",
+        "link": "https://seg6.space/posts/center-div/",
+        "pubDate": "2026-08-04T22:21",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Liquid Glass effect for GNU/Emacs",
+        "link": "https://github.com/larrasket/emacs-liquid-glass",
+        "pubDate": "2026-08-04T17:43",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "irken: A tiny hackable full-featured IRC client",
+        "link": "https://codeberg.org/dlowe/irken",
+        "pubDate": "2026-08-04T20:30",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Soppo - Go, with the features it's missing",
         "link": "https://soppolang.dev/",
         "pubDate": "2026-08-04T05:58",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Painting with Gaussians",
+        "link": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
+        "pubDate": "2026-08-05T13:33",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Nix sandbox is a hidden input",
-        "link": "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input",
-        "pubDate": "2026-08-04T13:02",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Amélie (2023)",
-        "link": "https://www.maxhaesslein.de/visual/objects/amelie/",
-        "pubDate": "2026-08-04T23:55",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Gödel, Escher, Elisp: The Beauty of Macros",
-        "link": "https://www.chiply.dev/post-elisp-macros-are-beautiful",
-        "pubDate": "2026-08-05T01:00",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "FFmpeg 9.0",
-        "link": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
-        "pubDate": "2026-08-04T10:51",
+        "title": "\"Five-Point Haskell\": Unconditional Election via Parametricity",
+        "link": "https://blog.jle.im/entry/five-point-haskell-part-2-unconditional-election.html",
+        "pubDate": "2026-08-05T11:04",
         "feedId": "lobsters"
       }
     ]
@@ -199,13 +199,13 @@
         "feedId": "arstechnica"
       },
       {
-        "title": "Senators demand crackdown on wildfire \"prediction markets\"",
+        "title": "Senators demand crackdown on wildfire \"prediction market\" bets",
         "link": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
         "pubDate": "2026-08-04T21:52",
         "feedId": "arstechnica"
       },
       {
-        "title": "Trump killed the Digital Equity Act, but US was forced to bring part of it back",
+        "title": "Trump killed the Digital Equity Act but US was forced to bring part of it back",
         "link": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
         "pubDate": "2026-08-04T21:27",
         "feedId": "arstechnica"
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "Left turn in Michigan: Tuesday's primary takeaways",
+        "link": "https://www.axios.com/2026/08/05/democrats-senate-michigan-el-sayed-stevens",
+        "pubDate": "2026-08-05T14:12",
+        "feedId": "axios"
+      },
+      {
+        "title": "Three Michigan races put the progressive movement's reach on display",
+        "link": "https://www.axios.com/2026/08/05/michigan-elections-dsa-wfp-uaw-progressives-win",
+        "pubDate": "2026-08-05T12:54",
+        "feedId": "axios"
+      },
+      {
         "title": "House Democrats pack 2026 target list with more Trump-won seats",
         "link": "https://www.axios.com/2026/08/05/2026-midterms-democrats-map-trump-districts",
         "pubDate": "2026-08-05T10:45",
@@ -363,18 +375,6 @@
         "title": "Max Miller doubles down on staying in Ohio House race",
         "link": "https://www.axios.com/2026/08/04/max-miller-trump-campaign-decision",
         "pubDate": "2026-08-04T22:11",
-        "feedId": "axios"
-      },
-      {
-        "title": "Susan Collins opposes Todd Blanche for attorney general",
-        "link": "https://www.axios.com/2026/08/04/todd-blanche-attorney-general-senate-republicans-susan-collins",
-        "pubDate": "2026-08-04T21:39",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Inside Trump's AI framework",
-        "link": "https://www.axios.com/2026/08/04/trump-ai-framework-open-models",
-        "pubDate": "2026-08-04T21:14",
         "feedId": "axios"
       }
     ]
