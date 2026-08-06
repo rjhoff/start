@@ -3,21 +3,45 @@
     "id": "hn",
     "items": [
       {
-        "title": "How Americans View Capitalism, Socialism and Free Enterprise",
-        "link": "https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx",
-        "pubDate": "2026-08-06T11:27",
+        "title": "Former Federal Prosecutors to Senate: Stop Confirming Election Deniers as Judges",
+        "link": "https://abovethelaw.com/2026/08/former-federal-prosecutors-to-senate-stop-confirming-election-deniers-to-the-federal-bench/",
+        "pubDate": "2026-08-06T14:25",
         "feedId": "hn"
       },
       {
-        "title": "What I love about Django",
-        "link": "https://buttondown.com/blog/what-i-love-about-django",
-        "pubDate": "2026-08-06T07:34",
+        "title": "Degrees of Wealth",
+        "link": "https://jaapgrolleman.com/degrees-of-wealth/",
+        "pubDate": "2026-08-06T14:23",
         "feedId": "hn"
       },
       {
-        "title": "Let's all meet up in the Y2K",
-        "link": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
-        "pubDate": "2026-08-06T06:43",
+        "title": "DeepSeek planning to significantly raise prices",
+        "link": "https://platform.deepseek.com/usage",
+        "pubDate": "2026-08-06T14:16",
+        "feedId": "hn"
+      },
+      {
+        "title": "I added a real-time chat to my blog, people used it to attack me",
+        "link": "https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/",
+        "pubDate": "2026-08-06T13:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+        "link": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+        "pubDate": "2026-08-06T11:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: demake – one source project compiles to any retro game console ROM",
+        "link": "https://geosona.com/demake/",
+        "pubDate": "2026-08-06T11:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "Mario Meets Pareto",
+        "link": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+        "pubDate": "2026-08-06T11:24",
         "feedId": "hn"
       },
       {
@@ -30,12 +54,6 @@
         "title": "Crime Pays but Botany Doesn't",
         "link": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
         "pubDate": "2026-08-06T04:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nashville uses eminent domain to block data center near zoo",
-        "link": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
-        "pubDate": "2026-08-06T02:15",
         "feedId": "hn"
       },
       {
@@ -57,12 +75,6 @@
         "feedId": "hn"
       },
       {
-        "title": "I'm switching my phone from Android to Linux",
-        "link": "https://runarcn.no/android-to-linux/",
-        "pubDate": "2026-08-05T19:50",
-        "feedId": "hn"
-      },
-      {
         "title": "Muse Code and Muse Spark 1.2",
         "link": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
         "pubDate": "2026-08-05T19:15",
@@ -79,18 +91,6 @@
         "link": "https://blog.fogus.me/llm/born-against.html",
         "pubDate": "2026-08-05T18:37",
         "feedId": "hn"
-      },
-      {
-        "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-        "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-        "pubDate": "2026-08-05T18:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-        "link": "https://arxiv.org/abs/2510.01395",
-        "pubDate": "2026-08-05T18:17",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,27 +98,15 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
+        "link": "https://bobdahacker.com/blog/tldv-hack",
+        "pubDate": "2026-08-06T11:22",
+        "feedId": "lobsters"
+      },
+      {
         "title": "jujutsu 0.44.0",
         "link": "https://github.com/jj-vcs/jj/releases/tag/v0.44.0",
         "pubDate": "2026-08-06T09:03",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "rust-lang/rust is adopting an LLM policy",
-        "link": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
-        "pubDate": "2026-08-05T06:55",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Offensive Internet Posture",
-        "link": "https://bruceediger.com/posts/offensive-machine/",
-        "pubDate": "2026-08-05T12:34",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and you",
-        "link": "https://sightlessscribbles.com/disability-dongle/",
-        "pubDate": "2026-08-05T18:29",
         "feedId": "lobsters"
       },
       {
@@ -128,9 +116,39 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A Vision for Cargo",
-        "link": "https://epage.github.io/blog/2026/08/cargo-vision/",
-        "pubDate": "2026-08-05T20:45",
+        "title": "python string literals are kinda funny",
+        "link": "https://sebsite.pw/w/20260806-pystrings.html",
+        "pubDate": "2026-08-06T04:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Offensive Internet Posture",
+        "link": "https://bruceediger.com/posts/offensive-machine/",
+        "pubDate": "2026-08-05T12:34",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "rust-lang/rust is adopting an LLM policy",
+        "link": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+        "pubDate": "2026-08-05T06:55",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The following is a valid DOS COM executable",
+        "link": "https://oldbytes.space/@gloriouscow/117045701876951834",
+        "pubDate": "2026-08-06T11:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Setup a simple web server with bozohttpd on NetBSD",
+        "link": "https://bozo.httpd.rocks/",
+        "pubDate": "2026-08-06T12:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and you",
+        "link": "https://sightlessscribbles.com/disability-dongle/",
+        "pubDate": "2026-08-05T18:29",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "python string literals are kinda funny",
-        "link": "https://sebsite.pw/w/20260806-pystrings.html",
-        "pubDate": "2026-08-06T04:44",
+        "title": "A Vision for Cargo",
+        "link": "https://epage.github.io/blog/2026/08/cargo-vision/",
+        "pubDate": "2026-08-05T20:45",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "On building scalable control planes",
-        "link": "https://www.allthingsdistributed.com/2026/08/on-building-scalable-control-planes.html",
-        "pubDate": "2026-08-06T05:41",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Painting with Gaussians",
-        "link": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
-        "pubDate": "2026-08-05T13:33",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Nix Overrides That Expire Themselves",
-        "link": "https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/",
-        "pubDate": "2026-08-05T12:17",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "C++26: #embed",
-        "link": "https://www.sandordargo.com/blog/2026/08/05/cpp26-embed",
-        "pubDate": "2026-08-05T16:28",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Symbolics OpenGenera to go free for non-commercial use",
         "link": "https://hachyderm.io/@gmpalter/117044268951603975",
         "pubDate": "2026-08-05T22:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How to Make a Nintendo 64 Game in 2026",
+        "link": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
+        "pubDate": "2026-08-06T13:23",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Ford picks \"Fathom\" for its affordable truck name, starts at $28,350",
+        "link": "https://arstechnica.com/cars/2026/08/ford-picks-fathom-for-its-affordable-truck-name-starts-at-28350/",
+        "pubDate": "2026-08-06T13:00",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "AI isn’t enough to protect social media communities from AI",
+        "link": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
+        "pubDate": "2026-08-06T11:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
         "link": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
@@ -269,24 +281,18 @@
         "link": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
         "pubDate": "2026-08-05T16:37",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Google plans to kill Assistant on your phone on September 4",
-        "link": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
-        "pubDate": "2026-08-05T15:30",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "SpaceX spooks investors with debut earnings report",
-        "link": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
-        "pubDate": "2026-08-05T13:59",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Senate panel holds Fauci in contempt over refusal to answer COVID-19 questions",
+        "link": "https://www.axios.com/2026/08/06/anthony-fauci-covid-senate-contempt",
+        "pubDate": "2026-08-06T13:50",
+        "feedId": "axios"
+      },
       {
         "title": "Welcome to the singularity: AI's architects say the next era of human history is here",
         "link": "https://www.axios.com/2026/08/06/ai-singularity-intelligence-explosion",
@@ -369,12 +375,6 @@
         "title": "Employers are hiring less but paying more",
         "link": "https://www.axios.com/2026/08/05/employment-pay-construction-adp",
         "pubDate": "2026-08-05T16:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "Rep. Chuck Edwards drops re-election bid after censure recommendation",
-        "link": "https://www.axios.com/2026/08/05/chuck-edwards-reelection-censure-harassment",
-        "pubDate": "2026-08-05T15:57",
         "feedId": "axios"
       }
     ]
