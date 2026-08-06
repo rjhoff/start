@@ -3,21 +3,21 @@
     "id": "hn",
     "items": [
       {
+        "title": "What I love about Django",
+        "link": "https://buttondown.com/blog/what-i-love-about-django",
+        "pubDate": "2026-08-06T07:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "Let's all meet up in the Y2K",
+        "link": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
+        "pubDate": "2026-08-06T06:43",
+        "feedId": "hn"
+      },
+      {
         "title": "Crime Pays but Botany Doesn't",
         "link": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
         "pubDate": "2026-08-06T04:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ship Safe, an open source security scanner for coding agents",
-        "link": "https://github.com/asamassekou10/ship-safe",
-        "pubDate": "2026-08-06T04:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
-        "link": "https://github.com/pradipta/wallfacer",
-        "pubDate": "2026-08-06T03:52",
         "feedId": "hn"
       },
       {
@@ -36,12 +36,6 @@
         "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
         "link": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
         "pubDate": "2026-08-05T21:24",
-        "feedId": "hn"
-      },
-      {
-        "title": "I'll be stepping back from leading product for X",
-        "link": "https://twitter.com/nikitabier/status/2085105586966827343/",
-        "pubDate": "2026-08-05T21:15",
         "feedId": "hn"
       },
       {
@@ -91,6 +85,12 @@
         "link": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
         "pubDate": "2026-08-05T17:23",
         "feedId": "hn"
+      },
+      {
+        "title": "Celld: Self-hosted, distributed Durable Objects",
+        "link": "https://github.com/denoland/celld",
+        "pubDate": "2026-08-05T16:50",
+        "feedId": "hn"
       }
     ]
   },
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Faster Than Ninja",
-        "link": "https://build2.org/blog/faster-than-ninja.xhtml",
-        "pubDate": "2026-08-05T10:37",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and you",
         "link": "https://sightlessscribbles.com/disability-dongle/",
         "pubDate": "2026-08-05T18:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Faster Than Ninja",
+        "link": "https://build2.org/blog/faster-than-ninja.xhtml",
+        "pubDate": "2026-08-05T10:37",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +134,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Painting with Gaussians",
-        "link": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
-        "pubDate": "2026-08-05T13:33",
-        "feedId": "lobsters"
-      },
-      {
         "title": "I Built a Blog and Forgot to Write",
         "link": "https://benjcal.space/blog/i-built-a-blog-and-forgot-to-write/",
         "pubDate": "2026-08-05T20:07",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "python string literals are kinda funny",
+        "link": "https://sebsite.pw/w/20260806-pystrings.html",
+        "pubDate": "2026-08-06T04:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Painting with Gaussians",
+        "link": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
+        "pubDate": "2026-08-05T13:33",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Security is Hard, Y’all",
-        "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
-        "pubDate": "2026-08-04T18:31",
+        "title": "i wonder if you could make a useful DOS executable with just emoji",
+        "link": "https://oldbytes.space/@gloriouscow/117044736309312697",
+        "pubDate": "2026-08-06T08:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "On building scalable control planes",
+        "link": "https://www.allthingsdistributed.com/2026/08/on-building-scalable-control-planes.html",
+        "pubDate": "2026-08-06T05:41",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Born Against, or why hobby programming communities are aggressively against LLM usage",
-        "link": "https://blog.fogus.me/llm/born-against.html",
-        "pubDate": "2026-08-04T20:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Stop Sending Me Your Errors",
-        "link": "https://kramkow.ski/article/2026/08/05/stop_sending_me_your_errors.html",
-        "pubDate": "2026-08-05T15:33",
+        "title": "Security is Hard, Y’all",
+        "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
+        "pubDate": "2026-08-04T18:31",
         "feedId": "lobsters"
       },
       {
         "title": "Symbolics OpenGenera to go free for non-commercial use",
         "link": "https://hachyderm.io/@gmpalter/117044268951603975",
         "pubDate": "2026-08-05T22:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Lua community needs to learn to move on",
-        "link": "https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/",
-        "pubDate": "2026-08-04T15:20",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,30 @@
     "id": "axios",
     "items": [
       {
+        "title": "Schumer's path to the majority runs through his Democratic critics",
+        "link": "https://www.axios.com/2026/08/06/schumer-senate-midterms-progressives",
+        "pubDate": "2026-08-06T09:25",
+        "feedId": "axios"
+      },
+      {
+        "title": "\"Entrapment\": Trump's immigration delays fuel jump in ICE arrest targets",
+        "link": "https://www.axios.com/2026/08/06/trump-immigration-approvals-ice-arrests",
+        "pubDate": "2026-08-06T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "Climate change is fueling wildfire risk — and anxiety",
+        "link": "https://www.axios.com/2026/08/06/climate-change-fueling-wildfire-risk-anxiety",
+        "pubDate": "2026-08-06T09:15",
+        "feedId": "axios"
+      },
+      {
+        "title": "House GOP scandals expand Democrats' 2026 map",
+        "link": "https://www.axios.com/2026/08/06/max-miller-chuck-edwards-ogles-mills-2026",
+        "pubDate": "2026-08-06T08:50",
+        "feedId": "axios"
+      },
+      {
         "title": "How OpenAI's agents broke out of testing to hack Hugging Face",
         "link": "https://www.axios.com/2026/08/06/openai-hugging-face-black-hat",
         "pubDate": "2026-08-06T01:24",
@@ -351,30 +375,6 @@
         "title": "Rep. Thanedar loses to socialist McKinney in Democratic primary for congress",
         "link": "https://www.axios.com/local/detroit/2026/08/05/donavan-mckinney-defeats-shri-thanedar-in-michigans-13th-district-democratic-primary",
         "pubDate": "2026-08-05T15:06",
-        "feedId": "axios"
-      },
-      {
-        "title": "Three Michigan races put the progressive movement's reach on display",
-        "link": "https://www.axios.com/2026/08/05/michigan-elections-dsa-wfp-uaw-progressives-win",
-        "pubDate": "2026-08-05T15:01",
-        "feedId": "axios"
-      },
-      {
-        "title": "Left turn in Michigan: Tuesday's primary takeaways",
-        "link": "https://www.axios.com/2026/08/05/democrats-senate-michigan-el-sayed-stevens",
-        "pubDate": "2026-08-05T14:12",
-        "feedId": "axios"
-      },
-      {
-        "title": "House Democrats pack 2026 target list with more Trump-won seats",
-        "link": "https://www.axios.com/2026/08/05/2026-midterms-democrats-map-trump-districts",
-        "pubDate": "2026-08-05T10:45",
-        "feedId": "axios"
-      },
-      {
-        "title": "Investors can't stop believing",
-        "link": "https://www.axios.com/2026/08/05/ai-stocks-sp-500-high",
-        "pubDate": "2026-08-05T09:40",
         "feedId": "axios"
       }
     ]
