@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "How Americans View Capitalism, Socialism and Free Enterprise",
+        "link": "https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx",
+        "pubDate": "2026-08-06T11:27",
+        "feedId": "hn"
+      },
+      {
         "title": "What I love about Django",
         "link": "https://buttondown.com/blog/what-i-love-about-django",
         "pubDate": "2026-08-06T07:34",
@@ -12,6 +18,12 @@
         "title": "Let's all meet up in the Y2K",
         "link": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
         "pubDate": "2026-08-06T06:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
+        "link": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
+        "pubDate": "2026-08-06T06:24",
         "feedId": "hn"
       },
       {
@@ -79,24 +91,18 @@
         "link": "https://arxiv.org/abs/2510.01395",
         "pubDate": "2026-08-05T18:17",
         "feedId": "hn"
-      },
-      {
-        "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-        "link": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-        "pubDate": "2026-08-05T17:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "Celld: Self-hosted, distributed Durable Objects",
-        "link": "https://github.com/denoland/celld",
-        "pubDate": "2026-08-05T16:50",
-        "feedId": "hn"
       }
     ]
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "jujutsu 0.44.0",
+        "link": "https://github.com/jj-vcs/jj/releases/tag/v0.44.0",
+        "pubDate": "2026-08-06T09:03",
+        "feedId": "lobsters"
+      },
       {
         "title": "rust-lang/rust is adopting an LLM policy",
         "link": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
@@ -116,9 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Faster Than Ninja",
-        "link": "https://build2.org/blog/faster-than-ninja.xhtml",
-        "pubDate": "2026-08-05T10:37",
+        "title": "i wonder if you could make a useful DOS executable with just emoji",
+        "link": "https://oldbytes.space/@gloriouscow/117044736309312697",
+        "pubDate": "2026-08-06T08:11",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +140,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "python string literals are kinda funny",
+        "link": "https://sebsite.pw/w/20260806-pystrings.html",
+        "pubDate": "2026-08-06T04:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Faster Than Ninja",
+        "link": "https://build2.org/blog/faster-than-ninja.xhtml",
+        "pubDate": "2026-08-05T10:37",
+        "feedId": "lobsters"
+      },
+      {
         "title": "I Built a Blog and Forgot to Write",
         "link": "https://benjcal.space/blog/i-built-a-blog-and-forgot-to-write/",
         "pubDate": "2026-08-05T20:07",
         "feedId": "lobsters"
       },
       {
-        "title": "python string literals are kinda funny",
-        "link": "https://sebsite.pw/w/20260806-pystrings.html",
-        "pubDate": "2026-08-06T04:44",
+        "title": "On building scalable control planes",
+        "link": "https://www.allthingsdistributed.com/2026/08/on-building-scalable-control-planes.html",
+        "pubDate": "2026-08-06T05:41",
         "feedId": "lobsters"
       },
       {
@@ -158,27 +176,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "i wonder if you could make a useful DOS executable with just emoji",
-        "link": "https://oldbytes.space/@gloriouscow/117044736309312697",
-        "pubDate": "2026-08-06T08:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "On building scalable control planes",
-        "link": "https://www.allthingsdistributed.com/2026/08/on-building-scalable-control-planes.html",
-        "pubDate": "2026-08-06T05:41",
-        "feedId": "lobsters"
-      },
-      {
         "title": "C++26: #embed",
         "link": "https://www.sandordargo.com/blog/2026/08/05/cpp26-embed",
         "pubDate": "2026-08-05T16:28",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Security is Hard, Y’all",
-        "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
-        "pubDate": "2026-08-04T18:31",
         "feedId": "lobsters"
       },
       {
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Welcome to the singularity: AI's architects say the next era of human history is here",
+        "link": "https://www.axios.com/2026/08/06/ai-singularity-intelligence-explosion",
+        "pubDate": "2026-08-06T09:48",
+        "feedId": "axios"
+      },
+      {
         "title": "Schumer's path to the majority runs through his Democratic critics",
         "link": "https://www.axios.com/2026/08/06/schumer-senate-midterms-progressives",
         "pubDate": "2026-08-06T09:25",
@@ -369,12 +375,6 @@
         "title": "Rep. Chuck Edwards drops re-election bid after censure recommendation",
         "link": "https://www.axios.com/2026/08/05/chuck-edwards-reelection-censure-harassment",
         "pubDate": "2026-08-05T15:57",
-        "feedId": "axios"
-      },
-      {
-        "title": "Rep. Thanedar loses to socialist McKinney in Democratic primary for congress",
-        "link": "https://www.axios.com/local/detroit/2026/08/05/donavan-mckinney-defeats-shri-thanedar-in-michigans-13th-district-democratic-primary",
-        "pubDate": "2026-08-05T15:06",
         "feedId": "axios"
       }
     ]
