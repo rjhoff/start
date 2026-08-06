@@ -3,15 +3,27 @@
     "id": "hn",
     "items": [
       {
-        "title": "Nashville uses eminent domain to block data center near zoo",
-        "link": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
-        "pubDate": "2026-08-06T02:15",
+        "title": "Crime Pays but Botany Doesn't",
+        "link": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+        "pubDate": "2026-08-06T04:46",
         "feedId": "hn"
       },
       {
-        "title": "LLMs won't break symmetric crypto",
-        "link": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-        "pubDate": "2026-08-06T01:39",
+        "title": "Ship Safe, an open source security scanner for coding agents",
+        "link": "https://github.com/asamassekou10/ship-safe",
+        "pubDate": "2026-08-06T04:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
+        "link": "https://github.com/pradipta/wallfacer",
+        "pubDate": "2026-08-06T03:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nashville uses eminent domain to block data center near zoo",
+        "link": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+        "pubDate": "2026-08-06T02:15",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
         "pubDate": "2026-08-05T17:23",
         "feedId": "hn"
-      },
-      {
-        "title": "Celld: Self-hosted, distributed Durable Objects",
-        "link": "https://github.com/denoland/celld",
-        "pubDate": "2026-08-05T16:50",
-        "feedId": "hn"
-      },
-      {
-        "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
-        "link": "https://www.hyperprobe.co",
-        "pubDate": "2026-08-05T16:47",
-        "feedId": "hn"
       }
     ]
   },
@@ -122,15 +122,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Painting with Gaussians",
-        "link": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
-        "pubDate": "2026-08-05T13:33",
+        "title": "A Vision for Cargo",
+        "link": "https://epage.github.io/blog/2026/08/cargo-vision/",
+        "pubDate": "2026-08-05T20:45",
         "feedId": "lobsters"
       },
       {
-        "title": "Nix Overrides That Expire Themselves",
-        "link": "https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/",
-        "pubDate": "2026-08-05T12:17",
+        "title": "GNU Hurd news 2026-q2",
+        "link": "https://www.gnu.org/software/hurd/news/2026-q2.html",
+        "pubDate": "2026-08-06T01:45",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Painting with Gaussians",
+        "link": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
+        "pubDate": "2026-08-05T13:33",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Security is Hard, Y’all",
-        "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
-        "pubDate": "2026-08-04T18:31",
+        "title": "Nix Overrides That Expire Themselves",
+        "link": "https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/",
+        "pubDate": "2026-08-05T12:17",
         "feedId": "lobsters"
       },
       {
-        "title": "A Vision for Cargo",
-        "link": "https://epage.github.io/blog/2026/08/cargo-vision/",
-        "pubDate": "2026-08-05T20:45",
+        "title": "Security is Hard, Y’all",
+        "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
+        "pubDate": "2026-08-04T18:31",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "GNU Hurd news 2026-q2",
-        "link": "https://www.gnu.org/software/hurd/news/2026-q2.html",
-        "pubDate": "2026-08-06T01:45",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Stop Sending Me Your Errors",
         "link": "https://kramkow.ski/article/2026/08/05/stop_sending_me_your_errors.html",
         "pubDate": "2026-08-05T15:33",
         "feedId": "lobsters"
       },
       {
-        "title": "The Lua community needs to learn to move on",
-        "link": "https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/",
-        "pubDate": "2026-08-04T15:20",
+        "title": "Symbolics OpenGenera to go free for non-commercial use",
+        "link": "https://hachyderm.io/@gmpalter/117044268951603975",
+        "pubDate": "2026-08-05T22:23",
         "feedId": "lobsters"
       },
       {
-        "title": "Enabling the next iteration of the borrow checker on nightly",
-        "link": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
-        "pubDate": "2026-08-04T17:45",
+        "title": "The Lua community needs to learn to move on",
+        "link": "https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/",
+        "pubDate": "2026-08-04T15:20",
         "feedId": "lobsters"
       }
     ]
