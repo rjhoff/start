@@ -3,9 +3,15 @@
     "id": "hn",
     "items": [
       {
-        "title": "Another Corner of the Internet Has Been Ruined",
-        "link": "https://www.freeformatter.com/",
-        "pubDate": "2026-08-07T15:16",
+        "title": "The AI Billboards Are Killing SF",
+        "link": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/",
+        "pubDate": "2026-08-07T16:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "An all-sky map of half a million supermassive black holes",
+        "link": "https://www.sdss.org/black-hole-mapper-release-20/",
+        "pubDate": "2026-08-07T15:24",
         "feedId": "hn"
       },
       {
@@ -15,7 +21,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Software is about people, not code",
+        "title": "Software is about people, not code (2020)",
         "link": "https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/",
         "pubDate": "2026-08-07T14:55",
         "feedId": "hn"
@@ -30,12 +36,6 @@
         "title": "USA Today Co., partners with Palantir to analyze audience data",
         "link": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
         "pubDate": "2026-08-07T14:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
-        "link": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
-        "pubDate": "2026-08-07T12:42",
         "feedId": "hn"
       },
       {
@@ -158,6 +158,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "How a device finds encrypted DNS by itself",
+        "link": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
+        "pubDate": "2026-08-07T14:02",
+        "feedId": "lobsters"
+      },
+      {
         "title": "i wonder if you could make a useful DOS executable with just emoji",
         "link": "https://oldbytes.space/@gloriouscow/117044736309312697",
         "pubDate": "2026-08-06T08:11",
@@ -167,12 +173,6 @@
         "title": "jujutsu 0.44.0",
         "link": "https://github.com/jj-vcs/jj/releases/tag/v0.44.0",
         "pubDate": "2026-08-06T09:03",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How a device finds encrypted DNS by itself",
-        "link": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
-        "pubDate": "2026-08-07T14:02",
         "feedId": "lobsters"
       },
       {
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Summer jobs report is a double whammy for workers",
+        "link": "https://www.axios.com/2026/08/07/bls-jobs-report-rates-july",
+        "pubDate": "2026-08-07T15:55",
+        "feedId": "axios"
+      },
+      {
         "title": "Sen. Cassidy throws Blanche a lifeline for attorney general nomination",
         "link": "https://www.axios.com/2026/08/07/cassidy-blanche-attorney-general",
         "pubDate": "2026-08-07T15:23",
@@ -369,12 +375,6 @@
         "title": "Trump targets birth tourism and citizenship in new executive orders",
         "link": "https://www.axios.com/2026/08/06/trump-birth-tourism-birthright-citizenship",
         "pubDate": "2026-08-06T19:39",
-        "feedId": "axios"
-      },
-      {
-        "title": "McConnell discharged from rehab center, Senate return still unclear",
-        "link": "https://www.axios.com/2026/08/06/mcconnell-discharged-rehab-center-health",
-        "pubDate": "2026-08-06T19:28",
         "feedId": "axios"
       }
     ]
