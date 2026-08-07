@@ -3,9 +3,15 @@
     "id": "hn",
     "items": [
       {
-        "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
-        "link": "https://zenodo.org/records/21359923",
-        "pubDate": "2026-08-06T22:50",
+        "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
+        "link": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
+        "pubDate": "2026-08-07T00:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
+        "link": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
+        "pubDate": "2026-08-06T23:30",
         "feedId": "hn"
       },
       {
@@ -15,19 +21,13 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
-        "link": "https://github.com/mattdeeds/pokeemerald-rp2350",
-        "pubDate": "2026-08-06T21:49",
-        "feedId": "hn"
-      },
-      {
         "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
         "link": "https://www.aleksagordic.com/blog/vllm",
         "pubDate": "2026-08-06T21:30",
         "feedId": "hn"
       },
       {
-        "title": "Bioengineered chewing gum may offer a way to fight microbes linked to cancers",
+        "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
         "link": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
         "pubDate": "2026-08-06T21:18",
         "feedId": "hn"
@@ -57,21 +57,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
-        "link": "https://artificialanalysis.ai/?intelligence=agentic-index",
-        "pubDate": "2026-08-06T18:44",
-        "feedId": "hn"
-      },
-      {
         "title": "My phone detects going on a run as “someone snatching my phone and running off”",
         "link": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
         "pubDate": "2026-08-06T18:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Federal Communications Commission scraps limit on broadcast TV ownership",
-        "link": "https://www.nbcnews.com/business/media/federal-communications-commission-scraps-limit-broadcast-tv-ownership-rcna587641",
-        "pubDate": "2026-08-06T18:22",
         "feedId": "hn"
       },
       {
@@ -90,6 +78,18 @@
         "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
         "link": "https://github.com/CopilotKit/channels-sdk",
         "pubDate": "2026-08-06T16:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+        "link": "https://provenmetal.com",
+        "pubDate": "2026-08-06T15:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "GitHub Actions and Pages are experiencing degraded availability",
+        "link": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+        "pubDate": "2026-08-06T15:49",
         "feedId": "hn"
       }
     ]
@@ -122,57 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "python string literals are kinda funny",
-        "link": "https://sebsite.pw/w/20260806-pystrings.html",
-        "pubDate": "2026-08-06T04:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Setup a simple web server with bozohttpd on NetBSD",
-        "link": "https://bozo.httpd.rocks/",
-        "pubDate": "2026-08-06T12:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Taste Is All That's Left",
-        "link": "https://notashelf.dev/posts/taste-is-all-thats-left",
-        "pubDate": "2026-08-06T13:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The following is a valid DOS COM executable",
-        "link": "https://oldbytes.space/@gloriouscow/117045701876951834",
-        "pubDate": "2026-08-06T11:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "schrodingers-toctou: The binary you run is not the program you wrote",
-        "link": "https://github.com/xoreaxeaxeax/schrodingers-toctou",
-        "pubDate": "2026-08-06T15:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How to Make a Nintendo 64 Game in 2026",
-        "link": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
-        "pubDate": "2026-08-06T13:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Offensive Internet Posture",
-        "link": "https://bruceediger.com/posts/offensive-machine/",
-        "pubDate": "2026-08-05T12:34",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Zapscape - Guest to host escape in KVM/x86",
-        "link": "https://github.com/V4bel/Zapscape",
-        "pubDate": "2026-08-06T17:31",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A Vision for Cargo",
-        "link": "https://epage.github.io/blog/2026/08/cargo-vision/",
-        "pubDate": "2026-08-05T20:45",
+        "title": "I got a 1998 CD-ROM world atlas running on Windows 11",
+        "link": "https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i",
+        "pubDate": "2026-08-07T00:36",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +134,57 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Setup a simple web server with bozohttpd on NetBSD",
+        "link": "https://bozo.httpd.rocks/",
+        "pubDate": "2026-08-06T12:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "python string literals are kinda funny",
+        "link": "https://sebsite.pw/w/20260806-pystrings.html",
+        "pubDate": "2026-08-06T04:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "the web server deployment model breaks at hobby scale",
+        "link": "https://w.on-t.work/web-deployment-model",
+        "pubDate": "2026-08-06T21:33",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A shell exclamation mark is not for yelling. Be lazy",
+        "link": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+        "pubDate": "2026-08-07T01:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The following is a valid DOS COM executable",
+        "link": "https://oldbytes.space/@gloriouscow/117045701876951834",
+        "pubDate": "2026-08-06T11:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How to Make a Nintendo 64 Game in 2026",
+        "link": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
+        "pubDate": "2026-08-06T13:23",
+        "feedId": "lobsters"
+      },
+      {
         "title": "celld — Durable Objects, self-hosted",
         "link": "https://celld.dev/",
         "pubDate": "2026-08-06T22:21",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "cl-forth: Forth 2012 Standard in CL",
+        "link": "https://github.com/gmpalter/cl-forth",
+        "pubDate": "2026-08-06T19:01",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Offensive Internet Posture",
+        "link": "https://bruceediger.com/posts/offensive-machine/",
+        "pubDate": "2026-08-05T12:34",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
+        "link": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
+        "pubDate": "2026-08-06T22:20",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
         "link": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",
@@ -275,12 +281,6 @@
         "link": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
         "pubDate": "2026-08-05T21:03",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-        "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-        "pubDate": "2026-08-05T20:47",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -321,6 +321,12 @@
         "title": "AI designs new virus not found in nature",
         "link": "https://www.axios.com/2026/08/06/ai-virus-designed-bacteria-viruses",
         "pubDate": "2026-08-06T21:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "FCC votes to lift broadcast ownership cap",
+        "link": "https://www.axios.com/2026/08/06/fcc-broadcast-ownership-cap-vote",
+        "pubDate": "2026-08-06T20:40",
         "feedId": "axios"
       },
       {
@@ -369,12 +375,6 @@
         "title": "Schumer's path to the majority runs through his Democratic critics",
         "link": "https://www.axios.com/2026/08/06/schumer-senate-midterms-progressives",
         "pubDate": "2026-08-06T09:25",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"Entrapment\": Trump's immigration delays fuel jump in ICE arrest targets",
-        "link": "https://www.axios.com/2026/08/06/trump-immigration-approvals-ice-arrests",
-        "pubDate": "2026-08-06T09:20",
         "feedId": "axios"
       }
     ]
