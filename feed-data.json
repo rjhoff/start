@@ -3,15 +3,27 @@
     "id": "hn",
     "items": [
       {
-        "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
-        "link": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
+        "title": "Framework discloses data breach via Metabase 0-day",
+        "link": "https://community.frame.work/t/framework-data-breach-discussion/83939",
+        "pubDate": "2026-08-07T05:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+        "link": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+        "pubDate": "2026-08-07T00:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+        "link": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
         "pubDate": "2026-08-07T00:06",
         "feedId": "hn"
       },
       {
-        "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
-        "link": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
-        "pubDate": "2026-08-06T23:30",
+        "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
+        "link": "https://zenodo.org/records/21359923",
+        "pubDate": "2026-08-06T22:50",
         "feedId": "hn"
       },
       {
@@ -33,6 +45,12 @@
         "feedId": "hn"
       },
       {
+        "title": "What is a product?",
+        "link": "https://roge.onwrite.app/what-is-a-product",
+        "pubDate": "2026-08-06T21:16",
+        "feedId": "hn"
+      },
+      {
         "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
         "link": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
         "pubDate": "2026-08-06T20:23",
@@ -48,12 +66,6 @@
         "title": "Herdr is joining Y Combinator. The runtime stays open",
         "link": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
         "pubDate": "2026-08-06T19:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "Can you reverse engineer an ASIC?",
-        "link": "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
-        "pubDate": "2026-08-06T19:07",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://github.com/CopilotKit/channels-sdk",
         "pubDate": "2026-08-06T16:05",
         "feedId": "hn"
-      },
-      {
-        "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
-        "link": "https://provenmetal.com",
-        "pubDate": "2026-08-06T15:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "GitHub Actions and Pages are experiencing degraded availability",
-        "link": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-        "pubDate": "2026-08-06T15:49",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,6 +110,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "A shell exclamation mark is not for yelling. Be lazy",
+        "link": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+        "pubDate": "2026-08-07T01:18",
+        "feedId": "lobsters"
+      },
+      {
         "title": "jujutsu 0.44.0",
         "link": "https://github.com/jj-vcs/jj/releases/tag/v0.44.0",
         "pubDate": "2026-08-06T09:03",
@@ -122,9 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I got a 1998 CD-ROM world atlas running on Windows 11",
-        "link": "https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i",
-        "pubDate": "2026-08-07T00:36",
+        "title": "Taste Is All That's Left",
+        "link": "https://notashelf.dev/posts/taste-is-all-thats-left",
+        "pubDate": "2026-08-06T13:22",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +140,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "the web server deployment model breaks at hobby scale",
+        "link": "https://w.on-t.work/web-deployment-model",
+        "pubDate": "2026-08-06T21:33",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Setup a simple web server with bozohttpd on NetBSD",
         "link": "https://bozo.httpd.rocks/",
         "pubDate": "2026-08-06T12:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I got a 1998 CD-ROM world atlas running on Windows 11",
+        "link": "https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i",
+        "pubDate": "2026-08-07T00:36",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "the web server deployment model breaks at hobby scale",
-        "link": "https://w.on-t.work/web-deployment-model",
-        "pubDate": "2026-08-06T21:33",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A shell exclamation mark is not for yelling. Be lazy",
-        "link": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-        "pubDate": "2026-08-07T01:18",
+        "title": "How to Make a Nintendo 64 Game in 2026",
+        "link": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
+        "pubDate": "2026-08-06T13:23",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How to Make a Nintendo 64 Game in 2026",
-        "link": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
-        "pubDate": "2026-08-06T13:23",
+        "title": "AI-generated vulnerability patches require human review",
+        "link": "https://1password.com/blog/why-ai-generated-patches-still-require-human-review",
+        "pubDate": "2026-08-06T22:37",
         "feedId": "lobsters"
       },
       {
         "title": "celld — Durable Objects, self-hosted",
         "link": "https://celld.dev/",
         "pubDate": "2026-08-06T22:21",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "cl-forth: Forth 2012 Standard in CL",
-        "link": "https://github.com/gmpalter/cl-forth",
-        "pubDate": "2026-08-06T19:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Offensive Internet Posture",
-        "link": "https://bruceediger.com/posts/offensive-machine/",
-        "pubDate": "2026-08-05T12:34",
         "feedId": "lobsters"
       }
     ]
