@@ -9,6 +9,12 @@
         "feedId": "hn"
       },
       {
+        "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+        "link": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+        "pubDate": "2026-08-07T20:25",
+        "feedId": "hn"
+      },
+      {
         "title": "App Store Rejection of the Week: Dark Hours",
         "link": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
         "pubDate": "2026-08-07T18:59",
@@ -24,12 +30,6 @@
         "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
         "link": "https://ancientlibrary.net/",
         "pubDate": "2026-08-07T18:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "Databricks drove down AI coding spend 70%",
-        "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-        "pubDate": "2026-08-07T18:25",
         "feedId": "hn"
       },
       {
@@ -122,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
-        "link": "https://bobdahacker.com/blog/tldv-hack",
-        "pubDate": "2026-08-06T11:22",
-        "feedId": "lobsters"
-      },
-      {
         "title": "PS3 emulation is fast on ARM now",
         "link": "https://www.youtube.com/watch?v=-aI_XEwmKFk",
         "pubDate": "2026-08-07T17:50",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
+        "link": "https://bobdahacker.com/blog/tldv-hack",
+        "pubDate": "2026-08-06T11:22",
         "feedId": "lobsters"
       },
       {
@@ -152,6 +152,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
+        "link": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+        "pubDate": "2026-08-07T21:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Software Understanding in the Sciences is Really Uneven",
+        "link": "https://lobste.rs/s/rn8uva/software_understanding_sciences_is",
+        "pubDate": "2026-08-07T15:24",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Some ways to navigate through 'git blame' over time in GNU Emacs",
         "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsGitBlameOverTime",
         "pubDate": "2026-08-07T08:25",
@@ -161,12 +173,6 @@
         "title": "How a device finds encrypted DNS by itself",
         "link": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
         "pubDate": "2026-08-07T14:02",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Software Understanding in the Sciences is Really Uneven",
-        "link": "https://lobste.rs/s/rn8uva/software_understanding_sciences_is",
-        "pubDate": "2026-08-07T15:24",
         "feedId": "lobsters"
       },
       {
@@ -180,18 +186,18 @@
         "link": "https://w.on-t.work/web-deployment-model",
         "pubDate": "2026-08-06T21:33",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Super Mario Derivations",
-        "link": "https://fzakaria.com/2026/08/05/super-mario-derivations",
-        "pubDate": "2026-08-06T22:27",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Europe's free satellite service just made it easier to track wildfires",
+        "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+        "pubDate": "2026-08-07T21:48",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
         "link": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
@@ -274,12 +280,6 @@
         "title": "Remembering the pre-Google web, when search was an experiment",
         "link": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
         "pubDate": "2026-08-07T11:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
-        "link": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
-        "pubDate": "2026-08-06T22:20",
         "feedId": "arstechnica"
       }
     ]
