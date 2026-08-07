@@ -3,33 +3,57 @@
     "id": "hn",
     "items": [
       {
-        "title": "Bulldozers Plow Through Big Bend National Park, Sparking Fury in Texas",
-        "link": "https://www.newsweek.com/bulldozers-plow-through-big-bend-national-park-sparking-fury-in-texas-12295668",
-        "pubDate": "2026-08-07T10:33",
+        "title": "U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower",
+        "link": "https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7",
+        "pubDate": "2026-08-07T13:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI psychosis is the new leadership blind spot",
+        "link": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
+        "pubDate": "2026-08-07T13:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "The web server deployment model breaks at hobby scale",
+        "link": "https://w.on-t.work/web-deployment-model",
+        "pubDate": "2026-08-07T13:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "Radical Study Suggests Life on Earth Arose Twice",
+        "link": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+        "pubDate": "2026-08-07T12:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
+        "link": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
+        "pubDate": "2026-08-07T12:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Wyzer Programming Language",
+        "link": "https://github.com/Wyzer-Lang/wyzer",
+        "pubDate": "2026-08-07T12:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+        "link": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+        "pubDate": "2026-08-07T11:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+        "link": "https://blog.cloudflare.com/kitesurf/",
+        "pubDate": "2026-08-07T10:42",
         "feedId": "hn"
       },
       {
         "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
         "link": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
         "pubDate": "2026-08-07T10:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Certo – An open source platform to deliver Open Badges",
-        "link": "https://github.com/schroedinger-Hat/certo",
-        "pubDate": "2026-08-07T09:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "Framework discloses data breach via Metabase 0-day",
-        "link": "https://community.frame.work/t/framework-data-breach-discussion/83939",
-        "pubDate": "2026-08-07T05:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-        "link": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
-        "pubDate": "2026-08-07T00:37",
         "feedId": "hn"
       },
       {
@@ -42,12 +66,6 @@
         "title": "Welcoming the Nepalese Government to Have I Been Pwned",
         "link": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
         "pubDate": "2026-08-06T21:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-        "link": "https://www.aleksagordic.com/blog/vllm",
-        "pubDate": "2026-08-06T21:30",
         "feedId": "hn"
       },
       {
@@ -69,27 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Quake – 30th Anniversary Update",
-        "link": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
-        "pubDate": "2026-08-06T20:21",
-        "feedId": "hn"
-      },
-      {
         "title": "Herdr is joining Y Combinator. The runtime stays open",
         "link": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
         "pubDate": "2026-08-06T19:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "My phone detects going on a run as “someone snatching my phone and running off”",
-        "link": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
-        "pubDate": "2026-08-06T18:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-        "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-        "pubDate": "2026-08-06T17:02",
         "feedId": "hn"
       }
     ]
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
-        "link": "https://bobdahacker.com/blog/tldv-hack",
-        "pubDate": "2026-08-06T11:22",
-        "feedId": "lobsters"
-      },
-      {
         "title": "A shell exclamation mark is not for yelling. Be lazy",
         "link": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
         "pubDate": "2026-08-07T01:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
+        "link": "https://bobdahacker.com/blog/tldv-hack",
+        "pubDate": "2026-08-06T11:22",
         "feedId": "lobsters"
       },
       {
@@ -122,15 +122,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend",
+        "pubDate": "2026-08-07T09:38",
+        "feedId": "lobsters"
+      },
+      {
         "title": "From constraint models to playable puzzle games",
         "link": "https://zayenz.se/blog/post/constraint-generated-puzzle-games/",
         "pubDate": "2026-08-07T10:54",
         "feedId": "lobsters"
       },
       {
-        "title": "I got a 1998 CD-ROM world atlas running on Windows 11",
-        "link": "https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i",
-        "pubDate": "2026-08-07T00:36",
+        "title": "Some ways to navigate through 'git blame' over time in GNU Emacs",
+        "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsGitBlameOverTime",
+        "pubDate": "2026-08-07T08:25",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend",
-        "pubDate": "2026-08-07T09:38",
+        "title": "I got a 1998 CD-ROM world atlas running on Windows 11",
+        "link": "https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i",
+        "pubDate": "2026-08-07T00:36",
         "feedId": "lobsters"
       },
       {
@@ -161,12 +167,6 @@
         "title": "jujutsu 0.44.0",
         "link": "https://github.com/jj-vcs/jj/releases/tag/v0.44.0",
         "pubDate": "2026-08-06T09:03",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Some ways to navigate through 'git blame' over time in GNU Emacs",
-        "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsGitBlameOverTime",
-        "pubDate": "2026-08-07T08:25",
         "feedId": "lobsters"
       },
       {
@@ -192,6 +192,24 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+        "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+        "pubDate": "2026-08-07T13:29",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "The world's biggest solar telescope caught vortexes on the Sun's surface",
+        "link": "https://arstechnica.com/science/2026/08/the-worlds-biggest-solar-telescope-caught-vortexes-on-the-suns-surface/",
+        "pubDate": "2026-08-07T13:20",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Trump is losing his war on wind power",
+        "link": "https://arstechnica.com/science/2026/08/trump-is-losing-his-war-on-wind-power/",
+        "pubDate": "2026-08-07T12:58",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Remembering the pre-Google web, when search was an experiment",
         "link": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
@@ -262,24 +280,6 @@
         "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
         "link": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
         "pubDate": "2026-08-06T16:15",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Ford picks \"Fathom\" for its affordable truck name, starts at $28,350",
-        "link": "https://arstechnica.com/cars/2026/08/ford-picks-fathom-for-its-affordable-truck-name-starts-at-28350/",
-        "pubDate": "2026-08-06T13:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "AI isn’t enough to protect social media communities from AI",
-        "link": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
-        "pubDate": "2026-08-06T11:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
-        "link": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
-        "pubDate": "2026-08-05T22:35",
         "feedId": "arstechnica"
       }
     ]
