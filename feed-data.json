@@ -3,9 +3,27 @@
     "id": "hn",
     "items": [
       {
-        "title": "ICE will release body cam video only when seen in the agency's 'best interests'",
-        "link": "https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57",
-        "pubDate": "2026-08-07T18:15",
+        "title": "App Store Rejection of the Week: Dark Hours",
+        "link": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
+        "pubDate": "2026-08-07T18:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "Psychological Warfare in Reverse Engineering",
+        "link": "https://github.com/xoreaxeaxeax/repsych",
+        "pubDate": "2026-08-07T18:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+        "link": "https://ancientlibrary.net/",
+        "pubDate": "2026-08-07T18:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "Databricks drove down AI coding spend 70%",
+        "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+        "pubDate": "2026-08-07T18:25",
         "feedId": "hn"
       },
       {
@@ -15,15 +33,15 @@
         "feedId": "hn"
       },
       {
-        "title": "The End of No Code",
-        "link": "https://blog.exe.dev/the-end-of-no-code",
-        "pubDate": "2026-08-07T17:59",
-        "feedId": "hn"
-      },
-      {
         "title": "DeepSeek V4 Flash 0731",
         "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
         "pubDate": "2026-08-07T17:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5",
+        "link": "https://theclaudyssey.com/",
+        "pubDate": "2026-08-07T17:55",
         "feedId": "hn"
       },
       {
@@ -57,39 +75,21 @@
         "feedId": "hn"
       },
       {
-        "title": "99% of My Website Traffic Is Bots",
+        "title": "A year of fighting scrapers on my 1.5 million-page website",
         "link": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
         "pubDate": "2026-08-07T14:51",
         "feedId": "hn"
       },
       {
-        "title": "USA Today Co., partners with Palantir to analyze audience data",
-        "link": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
-        "pubDate": "2026-08-07T14:02",
+        "title": "Radical Study Suggests Life on Earth Arose Twice",
+        "link": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+        "pubDate": "2026-08-07T12:45",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Wyzer Programming Language",
-        "link": "https://github.com/Wyzer-Lang/wyzer",
-        "pubDate": "2026-08-07T12:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
-        "link": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-        "pubDate": "2026-08-07T11:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
-        "link": "https://textlog.cc/about",
-        "pubDate": "2026-08-07T10:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
-        "link": "https://blog.cloudflare.com/kitesurf/",
-        "pubDate": "2026-08-07T10:42",
+        "title": "What happens if an entire class of workers loses faith in their careers",
+        "link": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+        "pubDate": "2026-08-07T12:42",
         "feedId": "hn"
       }
     ]
@@ -104,9 +104,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
-        "link": "https://bobdahacker.com/blog/tldv-hack",
-        "pubDate": "2026-08-06T11:22",
+        "title": "Am I the problem? Interviewing another team to find out",
+        "link": "https://www.macchaffee.com/blog/2026/am-i-the-problem/",
+        "pubDate": "2026-08-07T19:27",
         "feedId": "lobsters"
       },
       {
@@ -119,6 +119,12 @@
         "title": "What are you doing this weekend?",
         "link": "https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend",
         "pubDate": "2026-08-07T09:38",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
+        "link": "https://bobdahacker.com/blog/tldv-hack",
+        "pubDate": "2026-08-06T11:22",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +152,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "the web server deployment model breaks at hobby scale",
-        "link": "https://w.on-t.work/web-deployment-model",
-        "pubDate": "2026-08-06T21:33",
+        "title": "PS3 emulation is fast on ARM now",
+        "link": "https://www.youtube.com/watch?v=-aI_XEwmKFk",
+        "pubDate": "2026-08-07T17:50",
         "feedId": "lobsters"
       },
       {
-        "title": "Super Mario Derivations",
-        "link": "https://fzakaria.com/2026/08/05/super-mario-derivations",
-        "pubDate": "2026-08-06T22:27",
+        "title": "Software Understanding in the Sciences is Really Uneven",
+        "link": "https://lobste.rs/s/rn8uva/software_understanding_sciences_is",
+        "pubDate": "2026-08-07T15:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "the web server deployment model breaks at hobby scale",
+        "link": "https://w.on-t.work/web-deployment-model",
+        "pubDate": "2026-08-06T21:33",
         "feedId": "lobsters"
       },
       {
@@ -164,21 +176,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "i wonder if you could make a useful DOS executable with just emoji",
-        "link": "https://oldbytes.space/@gloriouscow/117044736309312697",
-        "pubDate": "2026-08-06T08:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "jujutsu 0.44.0",
-        "link": "https://github.com/jj-vcs/jj/releases/tag/v0.44.0",
-        "pubDate": "2026-08-06T09:03",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers",
-        "link": "https://blog.cloudflare.com/kitesurf/",
-        "pubDate": "2026-08-07T07:16",
+        "title": "Super Mario Derivations",
+        "link": "https://fzakaria.com/2026/08/05/super-mario-derivations",
+        "pubDate": "2026-08-06T22:27",
         "feedId": "lobsters"
       },
       {
@@ -192,6 +192,36 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
+        "link": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
+        "pubDate": "2026-08-07T18:00",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "DOGE's wild, unverifiable savings claims discredited in US government report",
+        "link": "https://arstechnica.com/tech-policy/2026/08/doges-inflated-wall-of-receipts-96-of-grant-savings-unverifiable-gao-says/",
+        "pubDate": "2026-08-07T17:51",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+        "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+        "pubDate": "2026-08-07T17:36",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "How snails engineer their slime",
+        "link": "https://arstechnica.com/science/2026/08/how-snails-engineer-their-slime/",
+        "pubDate": "2026-08-07T17:25",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Volkswagen plans to win America back with a pickup, report says",
+        "link": "https://arstechnica.com/cars/2026/08/volkswagen-plans-to-win-america-back-with-a-pickup-report-says/",
+        "pubDate": "2026-08-07T17:13",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Report: White House drafting executive order linking vaccines and autism",
         "link": "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/",
@@ -250,36 +280,6 @@
         "title": "Suno hopes to go legit with watermarks for AI-generated music",
         "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
         "pubDate": "2026-08-06T20:17",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Anthropic will design its own hardware to power Claude",
-        "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-        "pubDate": "2026-08-06T20:03",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Large genome models used to design new viruses",
-        "link": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
-        "pubDate": "2026-08-06T19:04",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident",
-        "link": "https://arstechnica.com/space/2026/08/blue-origin-narrowing-in-on-root-cause-of-catastrophic-rocket-accident/",
-        "pubDate": "2026-08-06T18:20",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Parasitic zombie-ant fungus thrives in mosses, too",
-        "link": "https://arstechnica.com/science/2026/08/parasitic-zombie-fungus-thrives-in-mosses-too/",
-        "pubDate": "2026-08-06T17:13",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Trump FCC kills TV ownership cap, claiming authority over limit set by Congress",
-        "link": "https://arstechnica.com/tech-policy/2026/08/trump-fcc-kills-tv-ownership-cap-claiming-authority-over-limit-set-by-congress/",
-        "pubDate": "2026-08-06T16:40",
         "feedId": "arstechnica"
       }
     ]
