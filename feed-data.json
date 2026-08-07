@@ -3,27 +3,33 @@
     "id": "hn",
     "items": [
       {
-        "title": "U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower",
-        "link": "https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7",
-        "pubDate": "2026-08-07T13:39",
+        "title": "Another Corner of the Internet Has Been Ruined",
+        "link": "https://www.freeformatter.com/",
+        "pubDate": "2026-08-07T15:16",
         "feedId": "hn"
       },
       {
-        "title": "AI psychosis is the new leadership blind spot",
-        "link": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
-        "pubDate": "2026-08-07T13:27",
+        "title": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
+        "link": "https://www.youtube.com/watch?v=UufMqwyO7pY",
+        "pubDate": "2026-08-07T14:55",
         "feedId": "hn"
       },
       {
-        "title": "The web server deployment model breaks at hobby scale",
-        "link": "https://w.on-t.work/web-deployment-model",
-        "pubDate": "2026-08-07T13:15",
+        "title": "Software is about people, not code",
+        "link": "https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/",
+        "pubDate": "2026-08-07T14:55",
         "feedId": "hn"
       },
       {
-        "title": "Radical Study Suggests Life on Earth Arose Twice",
-        "link": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
-        "pubDate": "2026-08-07T12:45",
+        "title": "99% of My Website Traffic Is Bots",
+        "link": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+        "pubDate": "2026-08-07T14:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "USA Today Co., partners with Palantir to analyze audience data",
+        "link": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
+        "pubDate": "2026-08-07T14:02",
         "feedId": "hn"
       },
       {
@@ -42,6 +48,12 @@
         "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
         "link": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
         "pubDate": "2026-08-07T11:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+        "link": "https://textlog.cc/about",
+        "pubDate": "2026-08-07T10:52",
         "feedId": "hn"
       },
       {
@@ -75,21 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "What is a product?",
-        "link": "https://roge.onwrite.app/what-is-a-product",
-        "pubDate": "2026-08-06T21:16",
-        "feedId": "hn"
-      },
-      {
         "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
         "link": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
         "pubDate": "2026-08-06T20:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "Herdr is joining Y Combinator. The runtime stays open",
-        "link": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
-        "pubDate": "2026-08-06T19:14",
         "feedId": "hn"
       }
     ]
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Zig's Io.Threaded is Neat",
-        "link": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
-        "pubDate": "2026-08-06T20:12",
-        "feedId": "lobsters"
-      },
-      {
         "title": "I'm leaving OpenAI to build Jurassic Park",
         "link": "https://taylor.town/leaving-openai",
         "pubDate": "2026-08-07T04:26",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Zig's Io.Threaded is Neat",
+        "link": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+        "pubDate": "2026-08-06T20:12",
         "feedId": "lobsters"
       },
       {
@@ -170,6 +170,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "How a device finds encrypted DNS by itself",
+        "link": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
+        "pubDate": "2026-08-07T14:02",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Taste Is All That's Left",
         "link": "https://notashelf.dev/posts/taste-is-all-thats-left",
         "pubDate": "2026-08-06T13:22",
@@ -180,18 +186,24 @@
         "link": "https://blog.cloudflare.com/kitesurf/",
         "pubDate": "2026-08-07T07:16",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Setup a simple web server with bozohttpd on NetBSD",
-        "link": "https://bozo.httpd.rocks/",
-        "pubDate": "2026-08-06T12:44",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Report: White House drafting executive order linking vaccines and autism",
+        "link": "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/",
+        "pubDate": "2026-08-07T14:41",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "AI chatbots have failed people in crisis. Can that be fixed?",
+        "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
+        "pubDate": "2026-08-07T13:49",
+        "feedId": "arstechnica"
+      },
       {
         "title": "ByteDance trains massive AI model in bid to rival Anthropic",
         "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
@@ -269,24 +281,18 @@
         "link": "https://arstechnica.com/tech-policy/2026/08/trump-fcc-kills-tv-ownership-cap-claiming-authority-over-limit-set-by-congress/",
         "pubDate": "2026-08-06T16:40",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Moderna's mRNA flu shot earns FDA approval after rollercoaster review",
-        "link": "https://arstechnica.com/health/2026/08/modernas-mrna-flu-shot-earns-fda-approval-after-rollercoaster-review/",
-        "pubDate": "2026-08-06T16:31",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
-        "link": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
-        "pubDate": "2026-08-06T16:15",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Sen. Cassidy throws Blanche a lifeline for attorney general nomination",
+        "link": "https://www.axios.com/2026/08/07/cassidy-blanche-attorney-general",
+        "pubDate": "2026-08-07T15:23",
+        "feedId": "axios"
+      },
       {
         "title": "Murkowski will oppose Blanche, threatening his confirmation",
         "link": "https://www.axios.com/2026/08/07/blanche-murkowski-ag-senate-confirmation",
@@ -369,12 +375,6 @@
         "title": "McConnell discharged from rehab center, Senate return still unclear",
         "link": "https://www.axios.com/2026/08/06/mcconnell-discharged-rehab-center-health",
         "pubDate": "2026-08-06T19:28",
-        "feedId": "axios"
-      },
-      {
-        "title": "Jan. 6 prosecutions are over, but the fight lingers",
-        "link": "https://www.axios.com/2026/08/06/jan-6-cases-oath-keepers-proud-boys",
-        "pubDate": "2026-08-06T19:08",
         "feedId": "axios"
       }
     ]
