@@ -3,9 +3,27 @@
     "id": "hn",
     "items": [
       {
-        "title": "The AI Billboards Are Killing SF",
-        "link": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/",
-        "pubDate": "2026-08-07T16:32",
+        "title": "Tax cuts for the wealthy only benefit the rich (2023)",
+        "link": "https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics",
+        "pubDate": "2026-08-07T16:44",
+        "feedId": "hn"
+      },
+      {
+        "title": "Responding to the next frontier of critical cyber capabilities",
+        "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+        "pubDate": "2026-08-07T16:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "This Mine Predicts Major Wars. It's Opening Again",
+        "link": "https://www.bloomberg.com/graphics/2026-opinion-australia-tungsten-mine-us-war-defense-china/",
+        "pubDate": "2026-08-07T16:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "Adults over 65 will outnumber children by 2029",
+        "link": "https://eco3min.fr/en/us-children-vs-adults-65-and-older/",
+        "pubDate": "2026-08-07T15:57",
         "feedId": "hn"
       },
       {
@@ -15,14 +33,14 @@
         "feedId": "hn"
       },
       {
-        "title": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
-        "link": "https://www.youtube.com/watch?v=UufMqwyO7pY",
-        "pubDate": "2026-08-07T14:55",
+        "title": "Möbius-Strip Crosswords",
+        "link": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
+        "pubDate": "2026-08-07T15:10",
         "feedId": "hn"
       },
       {
-        "title": "Software is about people, not code (2020)",
-        "link": "https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/",
+        "title": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
+        "link": "https://www.youtube.com/watch?v=UufMqwyO7pY",
         "pubDate": "2026-08-07T14:55",
         "feedId": "hn"
       },
@@ -73,24 +91,6 @@
         "link": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
         "pubDate": "2026-08-07T00:06",
         "feedId": "hn"
-      },
-      {
-        "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-        "link": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-        "pubDate": "2026-08-06T21:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-        "pubDate": "2026-08-06T21:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-        "link": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-        "pubDate": "2026-08-06T20:23",
-        "feedId": "hn"
       }
     ]
   },
@@ -116,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Zig's Io.Threaded is Neat",
-        "link": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
-        "pubDate": "2026-08-06T20:12",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What are you doing this weekend?",
         "link": "https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend",
         "pubDate": "2026-08-07T09:38",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Zig's Io.Threaded is Neat",
+        "link": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+        "pubDate": "2026-08-06T20:12",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "the web server deployment model breaks at hobby scale",
-        "link": "https://w.on-t.work/web-deployment-model",
-        "pubDate": "2026-08-06T21:33",
+        "title": "How a device finds encrypted DNS by itself",
+        "link": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
+        "pubDate": "2026-08-07T14:02",
         "feedId": "lobsters"
       },
       {
-        "title": "I got a 1998 CD-ROM world atlas running on Windows 11",
-        "link": "https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i",
-        "pubDate": "2026-08-07T00:36",
+        "title": "the web server deployment model breaks at hobby scale",
+        "link": "https://w.on-t.work/web-deployment-model",
+        "pubDate": "2026-08-06T21:33",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How a device finds encrypted DNS by itself",
-        "link": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
-        "pubDate": "2026-08-07T14:02",
+        "title": "I got a 1998 CD-ROM world atlas running on Windows 11",
+        "link": "https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i",
+        "pubDate": "2026-08-07T00:36",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Taste Is All That's Left",
-        "link": "https://notashelf.dev/posts/taste-is-all-thats-left",
-        "pubDate": "2026-08-06T13:22",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers",
         "link": "https://blog.cloudflare.com/kitesurf/",
         "pubDate": "2026-08-07T07:16",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Taste Is All That's Left",
+        "link": "https://notashelf.dev/posts/taste-is-all-thats-left",
+        "pubDate": "2026-08-06T13:22",
         "feedId": "lobsters"
       }
     ]
