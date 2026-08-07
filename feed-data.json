@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "Chasa",
+        "link": "https://chasa.io/",
+        "pubDate": "2026-08-07T20:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "Mykhailo Fedorov reveals struggle to secure Patriot missiles and Western support",
+        "link": "https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support",
+        "pubDate": "2026-08-07T19:38",
+        "feedId": "hn"
+      },
+      {
         "title": "App Store Rejection of the Week: Dark Hours",
         "link": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
         "pubDate": "2026-08-07T18:59",
@@ -39,12 +51,6 @@
         "feedId": "hn"
       },
       {
-        "title": "The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5",
-        "link": "https://theclaudyssey.com/",
-        "pubDate": "2026-08-07T17:55",
-        "feedId": "hn"
-      },
-      {
         "title": "Oracle bans AI-generated code from OpenJDK",
         "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
         "pubDate": "2026-08-07T17:36",
@@ -54,12 +60,6 @@
         "title": "Responding to the next frontier of critical cyber capabilities",
         "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
         "pubDate": "2026-08-07T16:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "This Mine Predicts Major Wars. It's Opening Again",
-        "link": "https://www.bloomberg.com/graphics/2026-opinion-australia-tungsten-mine-us-war-defense-china/",
-        "pubDate": "2026-08-07T16:14",
         "feedId": "hn"
       },
       {
@@ -98,27 +98,27 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "A shell exclamation mark is not for yelling. Be lazy",
-        "link": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-        "pubDate": "2026-08-07T01:18",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Am I the problem? Interviewing another team to find out",
         "link": "https://www.macchaffee.com/blog/2026/am-i-the-problem/",
         "pubDate": "2026-08-07T19:27",
         "feedId": "lobsters"
       },
       {
-        "title": "I'm leaving OpenAI to build Jurassic Park",
-        "link": "https://taylor.town/leaving-openai",
-        "pubDate": "2026-08-07T04:26",
+        "title": "A shell exclamation mark is not for yelling. Be lazy",
+        "link": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+        "pubDate": "2026-08-07T01:18",
         "feedId": "lobsters"
       },
       {
         "title": "What are you doing this weekend?",
         "link": "https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend",
         "pubDate": "2026-08-07T09:38",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I'm leaving OpenAI to build Jurassic Park",
+        "link": "https://taylor.town/leaving-openai",
+        "pubDate": "2026-08-07T04:26",
         "feedId": "lobsters"
       },
       {
@@ -140,6 +140,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "PS3 emulation is fast on ARM now",
+        "link": "https://www.youtube.com/watch?v=-aI_XEwmKFk",
+        "pubDate": "2026-08-07T17:50",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Some ways to navigate through 'git blame' over time in GNU Emacs",
         "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsGitBlameOverTime",
         "pubDate": "2026-08-07T08:25",
@@ -152,27 +158,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "PS3 emulation is fast on ARM now",
-        "link": "https://www.youtube.com/watch?v=-aI_XEwmKFk",
-        "pubDate": "2026-08-07T17:50",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Software Understanding in the Sciences is Really Uneven",
         "link": "https://lobste.rs/s/rn8uva/software_understanding_sciences_is",
         "pubDate": "2026-08-07T15:24",
         "feedId": "lobsters"
       },
       {
-        "title": "the web server deployment model breaks at hobby scale",
-        "link": "https://w.on-t.work/web-deployment-model",
-        "pubDate": "2026-08-06T21:33",
-        "feedId": "lobsters"
-      },
-      {
         "title": "I got a 1998 CD-ROM world atlas running on Windows 11",
         "link": "https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i",
         "pubDate": "2026-08-07T00:36",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "the web server deployment model breaks at hobby scale",
+        "link": "https://w.on-t.work/web-deployment-model",
+        "pubDate": "2026-08-06T21:33",
         "feedId": "lobsters"
       },
       {
@@ -192,6 +192,24 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
+        "link": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
+        "pubDate": "2026-08-07T21:09",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+        "link": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
+        "pubDate": "2026-08-07T19:49",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
+        "link": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
+        "pubDate": "2026-08-07T19:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
         "link": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
@@ -262,24 +280,6 @@
         "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
         "link": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
         "pubDate": "2026-08-06T22:20",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
-        "link": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",
-        "pubDate": "2026-08-06T22:01",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
-        "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-x-isnt-done-suing-advertisers-asks-court-to-revive-boycott-case/",
-        "pubDate": "2026-08-06T20:29",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Suno hopes to go legit with watermarks for AI-generated music",
-        "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
-        "pubDate": "2026-08-06T20:17",
         "feedId": "arstechnica"
       }
     ]
