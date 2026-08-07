@@ -3,15 +3,9 @@
     "id": "hn",
     "items": [
       {
-        "title": "Chasa",
-        "link": "https://chasa.io/",
-        "pubDate": "2026-08-07T20:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "Mykhailo Fedorov reveals struggle to secure Patriot missiles and Western support",
-        "link": "https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support",
-        "pubDate": "2026-08-07T19:38",
+        "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+        "link": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+        "pubDate": "2026-08-07T21:19",
         "feedId": "hn"
       },
       {
@@ -21,7 +15,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Psychological Warfare in Reverse Engineering",
+        "title": "Psychological Warfare in Reverse Engineering (2015)",
         "link": "https://github.com/xoreaxeaxeax/repsych",
         "pubDate": "2026-08-07T18:51",
         "feedId": "hn"
@@ -91,6 +85,12 @@
         "link": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
         "pubDate": "2026-08-07T12:42",
         "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Wyzer Programming Language",
+        "link": "https://github.com/Wyzer-Lang/wyzer",
+        "pubDate": "2026-08-07T12:28",
+        "feedId": "hn"
       }
     ]
   },
@@ -128,9 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Zig's Io.Threaded is Neat",
-        "link": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
-        "pubDate": "2026-08-06T20:12",
+        "title": "PS3 emulation is fast on ARM now",
+        "link": "https://www.youtube.com/watch?v=-aI_XEwmKFk",
+        "pubDate": "2026-08-07T17:50",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "PS3 emulation is fast on ARM now",
-        "link": "https://www.youtube.com/watch?v=-aI_XEwmKFk",
-        "pubDate": "2026-08-07T17:50",
+        "title": "Zig's Io.Threaded is Neat",
+        "link": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+        "pubDate": "2026-08-06T20:12",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Assembly Hall of Shame: Racing to the bottom of CPU performance",
+        "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+        "pubDate": "2026-08-07T20:29",
         "feedId": "lobsters"
       },
       {
@@ -179,12 +185,6 @@
         "title": "Super Mario Derivations",
         "link": "https://fzakaria.com/2026/08/05/super-mario-derivations",
         "pubDate": "2026-08-06T22:27",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "AI & The University",
-        "link": "https://www.youtube.com/watch?v=ZUk2TKZIo7s",
-        "pubDate": "2026-08-07T14:44",
         "feedId": "lobsters"
       }
     ]
