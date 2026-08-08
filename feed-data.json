@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "Hardware backdoors in some x86 CPUs",
+        "link": "https://github.com/xoreaxeaxeax/rosenbridge",
+        "pubDate": "2026-08-08T07:04",
+        "feedId": "hn"
+      },
+      {
         "title": "Mythos social engineering AISI INC-2026-07-28-01",
         "link": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
         "pubDate": "2026-08-08T03:41",
@@ -85,12 +91,6 @@
         "link": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
         "pubDate": "2026-08-07T15:10",
         "feedId": "hn"
-      },
-      {
-        "title": "Radical Study Suggests Life on Earth Arose Twice",
-        "link": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
-        "pubDate": "2026-08-07T12:45",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,27 +98,27 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Am I the problem? Interviewing another team to find out",
-        "link": "https://www.macchaffee.com/blog/2026/am-i-the-problem/",
-        "pubDate": "2026-08-07T19:27",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The Nixpkgs core team has disbanded",
         "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
         "pubDate": "2026-08-08T02:33",
         "feedId": "lobsters"
       },
       {
-        "title": "PS3 emulation is fast on ARM now",
-        "link": "https://www.youtube.com/watch?v=-aI_XEwmKFk",
-        "pubDate": "2026-08-07T17:50",
+        "title": "Am I the problem? Interviewing another team to find out",
+        "link": "https://www.macchaffee.com/blog/2026/am-i-the-problem/",
+        "pubDate": "2026-08-07T19:27",
         "feedId": "lobsters"
       },
       {
         "title": "Assembly Hall of Shame: Racing to the bottom of CPU performance",
         "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
         "pubDate": "2026-08-07T20:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "PS3 emulation is fast on ARM now",
+        "link": "https://www.youtube.com/watch?v=-aI_XEwmKFk",
+        "pubDate": "2026-08-07T17:50",
         "feedId": "lobsters"
       },
       {
@@ -158,6 +158,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "‘Farewell, Etaoin Shrdlu’",
+        "link": "https://archive.org/details/FarewellEtaoinShrdlu",
+        "pubDate": "2026-08-08T04:45",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Zig's Io.Threaded is Neat",
         "link": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
         "pubDate": "2026-08-06T20:12",
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "BasicSync: A simple app for running Syncthing on Android",
-        "link": "https://github.com/chenxiaolong/BasicSync",
-        "pubDate": "2026-08-08T00:52",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
-        "link": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
-        "pubDate": "2026-08-07T21:22",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Domain-specific hyperspecialization (for SAT)",
         "link": "https://c.mov/lymphosat/",
         "pubDate": "2026-08-07T19:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "BasicSync: A simple app for running Syncthing on Android",
+        "link": "https://github.com/chenxiaolong/BasicSync",
+        "pubDate": "2026-08-08T00:52",
         "feedId": "lobsters"
       }
     ]
