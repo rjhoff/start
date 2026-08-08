@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "Sensitive Info Goes into 'No Reply' Emails Constantly. This Guy Sees It All",
+        "link": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/",
+        "pubDate": "2026-08-08T14:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "Don't use your phone while you poop",
+        "link": "https://nate.spot/no-phone-while-poop/",
+        "pubDate": "2026-08-08T14:05",
+        "feedId": "hn"
+      },
+      {
         "title": "Gentoo bugzilla closed due AI bot scraper overload",
         "link": "https://social.treehouse.systems/@mgorny/117058483039362779",
         "pubDate": "2026-08-08T13:55",
@@ -27,7 +39,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+        "title": "Timeline of the OpenAI accidental attack against Hugging Face",
         "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
         "pubDate": "2026-08-08T10:57",
         "feedId": "hn"
@@ -39,9 +51,9 @@
         "feedId": "hn"
       },
       {
-        "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
-        "link": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
-        "pubDate": "2026-08-08T10:07",
+        "title": "US Military's cyber command unit grapples with cluster of deaths by suicide",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+        "pubDate": "2026-08-08T10:04",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://genesisopenmodels.anl.gov/",
         "pubDate": "2026-08-07T22:24",
         "feedId": "hn"
-      },
-      {
-        "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
-        "link": "https://ancientlibrary.net/",
-        "pubDate": "2026-08-07T18:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "Managing AI Coding Costs at Scale",
-        "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-        "pubDate": "2026-08-07T18:25",
-        "feedId": "hn"
       }
     ]
   },
@@ -116,6 +116,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "some software talks i like",
+        "link": "https://char.lt/blog/2026/08/talks-i-like/",
+        "pubDate": "2026-08-08T13:48",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Assembly Hall of Shame: Racing to the bottom of CPU performance",
         "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
         "pubDate": "2026-08-07T20:29",
@@ -131,12 +137,6 @@
         "title": "Program images and portable Scheme backends for Jolt",
         "link": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
         "pubDate": "2026-08-08T14:12",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "some software talks i like",
-        "link": "https://char.lt/blog/2026/08/talks-i-like/",
-        "pubDate": "2026-08-08T13:48",
         "feedId": "lobsters"
       },
       {
@@ -158,6 +158,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer",
+        "link": "https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/",
+        "pubDate": "2026-08-08T06:53",
+        "feedId": "lobsters"
+      },
+      {
         "title": "I'm leaving OpenAI to build Jurassic Park",
         "link": "https://taylor.town/leaving-openai",
         "pubDate": "2026-08-07T04:26",
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer",
-        "link": "https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/",
-        "pubDate": "2026-08-08T06:53",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Amiga August 2026 Update",
-        "link": "https://amiga.com/news/20260804-amiga-update",
-        "pubDate": "2026-08-08T13:43",
+        "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
+        "link": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+        "pubDate": "2026-08-07T21:22",
         "feedId": "lobsters"
       }
     ]
