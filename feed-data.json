@@ -45,6 +45,12 @@
         "feedId": "hn"
       },
       {
+        "title": "Message your other Claude Code sessions",
+        "link": "https://code.claude.com/docs/en/cross-session-messaging",
+        "pubDate": "2026-08-08T15:34",
+        "feedId": "hn"
+      },
+      {
         "title": "\"Code was never the hard part\" is an insult to all programmers",
         "link": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
         "pubDate": "2026-08-08T14:32",
@@ -84,12 +90,6 @@
         "title": "Timeline of the OpenAI accidental attack against Hugging Face",
         "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
         "pubDate": "2026-08-08T10:57",
-        "feedId": "hn"
-      },
-      {
-        "title": "US Military's cyber command unit grapples with cluster of deaths by suicide",
-        "link": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
-        "pubDate": "2026-08-08T10:04",
         "feedId": "hn"
       }
     ]
@@ -134,12 +134,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Enabling the next iteration of the borrow checker on nightly",
-        "link": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/",
-        "pubDate": "2026-08-08T15:34",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Program images and portable Scheme backends for Jolt",
         "link": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
         "pubDate": "2026-08-08T14:12",
@@ -158,6 +152,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Revision Prompting improves industrial LLM processes",
+        "link": "https://revisionprompting.info/",
+        "pubDate": "2026-08-08T20:20",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Soar package manager",
         "link": "https://soar.qaidvoid.dev/",
         "pubDate": "2026-08-08T16:51",
@@ -170,6 +170,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "OpenSSH Key Structure Guide",
+        "link": "https://sshref.dev/",
+        "pubDate": "2026-08-08T18:22",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Some Moral and Technical Consequences of Automation (1960)",
         "link": "https://www.cs.umd.edu/users/gasarch/BLOGPAPERS/moral.pdf",
         "pubDate": "2026-08-08T17:49",
@@ -179,12 +185,6 @@
         "title": "Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer",
         "link": "https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/",
         "pubDate": "2026-08-08T06:53",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "OpenSSH Key Structure Guide",
-        "link": "https://sshref.dev/",
-        "pubDate": "2026-08-08T18:22",
         "feedId": "lobsters"
       }
     ]
