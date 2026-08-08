@@ -3,27 +3,9 @@
     "id": "hn",
     "items": [
       {
-        "title": "A Tome of Forbidden Technologies",
-        "link": "https://ecosophia.net/a-tome-of-forbidden-technologies/",
-        "pubDate": "2026-08-08T12:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "The USSR in 100 Photographs",
-        "link": "https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html",
-        "pubDate": "2026-08-08T12:07",
-        "feedId": "hn"
-      },
-      {
         "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
         "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
         "pubDate": "2026-08-08T10:57",
-        "feedId": "hn"
-      },
-      {
-        "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
-        "link": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
-        "pubDate": "2026-08-08T10:16",
         "feedId": "hn"
       },
       {
@@ -91,6 +73,24 @@
         "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
         "pubDate": "2026-08-07T18:01",
         "feedId": "hn"
+      },
+      {
+        "title": "DeepSeek V4 Flash 0731",
+        "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
+        "pubDate": "2026-08-07T17:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "Oracle bans AI-generated code from OpenJDK",
+        "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+        "pubDate": "2026-08-07T17:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "Responding to the next frontier of critical cyber capabilities",
+        "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+        "pubDate": "2026-08-07T16:39",
+        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "The Nixpkgs core team has disbanded",
-        "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-        "pubDate": "2026-08-08T02:33",
-        "feedId": "lobsters"
-      },
-      {
         "title": "They don’t make ’em like Sublime Text anymore",
         "link": "https://dbushell.com/2026/08/07/sublime-text/",
         "pubDate": "2026-08-08T08:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Nixpkgs core team has disbanded",
+        "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+        "pubDate": "2026-08-08T02:33",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A shell exclamation mark is not for yelling. Be lazy",
-        "link": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-        "pubDate": "2026-08-07T01:18",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Software Understanding in the Sciences is Really Uneven",
         "link": "https://lobste.rs/s/rn8uva/software_understanding_sciences_is",
         "pubDate": "2026-08-07T15:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A shell exclamation mark is not for yelling. Be lazy",
+        "link": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+        "pubDate": "2026-08-07T01:18",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "From constraint models to playable puzzle games",
-        "link": "https://zayenz.se/blog/post/constraint-generated-puzzle-games/",
-        "pubDate": "2026-08-07T10:54",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer",
         "link": "https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/",
         "pubDate": "2026-08-08T06:53",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "From constraint models to playable puzzle games",
+        "link": "https://zayenz.se/blog/post/constraint-generated-puzzle-games/",
+        "pubDate": "2026-08-07T10:54",
         "feedId": "lobsters"
       },
       {
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "Senate passes stopgap to avert pre-election shutdown",
+        "link": "https://www.axios.com/2026/08/08/senate-government-funding-shutdown-stopgap",
+        "pubDate": "2026-08-08T13:04",
+        "feedId": "axios"
+      },
+      {
+        "title": "Simplify: How to exponentially improve work, life",
+        "link": "https://www.axios.com/2026/08/08/simplify-book-axios-smart-brevity",
+        "pubDate": "2026-08-08T12:53",
+        "feedId": "axios"
+      },
+      {
         "title": "Suspected AI use is the entertainment industry's scarlet letter",
         "link": "https://www.axios.com/2026/08/08/generative-ai-accusations-hank-green-jerry-falade",
         "pubDate": "2026-08-08T10:00",
@@ -363,18 +375,6 @@
         "title": "Inside the GOP's mad dash to recess finish line",
         "link": "https://www.axios.com/2026/08/06/senate-republicans-save-act-clarity-hemp-august-recess",
         "pubDate": "2026-08-06T23:40",
-        "feedId": "axios"
-      },
-      {
-        "title": "Cyberattacks expose deeper vulnerabilities in U.S. water systems",
-        "link": "https://www.axios.com/2026/08/06/us-drinking-water-cyberattacks-climate-change-risks",
-        "pubDate": "2026-08-06T22:25",
-        "feedId": "axios"
-      },
-      {
-        "title": "Author of DNC's 2024 \"autopsy\" says he concluded Gaza war hurt Harris",
-        "link": "https://www.axios.com/2026/08/06/dnc-2024-autopsy-author-gaza",
-        "pubDate": "2026-08-06T22:21",
         "feedId": "axios"
       }
     ]
