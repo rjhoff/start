@@ -9,12 +9,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Mythos social engineering AISI INC-2026-07-28-01",
-        "link": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
-        "pubDate": "2026-08-08T03:41",
-        "feedId": "hn"
-      },
-      {
         "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
         "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
         "pubDate": "2026-08-08T01:49",
@@ -91,6 +85,12 @@
         "link": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
         "pubDate": "2026-08-07T15:10",
         "feedId": "hn"
+      },
+      {
+        "title": "Radical Study Suggests Life on Earth Arose Twice",
+        "link": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+        "pubDate": "2026-08-07T12:45",
+        "feedId": "hn"
       }
     ]
   },
@@ -116,9 +116,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "They don’t make ’em like Sublime Text anymore",
+        "link": "https://dbushell.com/2026/08/07/sublime-text/",
+        "pubDate": "2026-08-08T08:57",
+        "feedId": "lobsters"
+      },
+      {
         "title": "PS3 emulation is fast on ARM now",
         "link": "https://www.youtube.com/watch?v=-aI_XEwmKFk",
         "pubDate": "2026-08-07T17:50",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "‘Farewell, Etaoin Shrdlu’",
+        "link": "https://archive.org/details/FarewellEtaoinShrdlu",
+        "pubDate": "2026-08-08T04:45",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Software Understanding in the Sciences is Really Uneven",
-        "link": "https://lobste.rs/s/rn8uva/software_understanding_sciences_is",
-        "pubDate": "2026-08-07T15:24",
-        "feedId": "lobsters"
-      },
-      {
         "title": "I'm leaving OpenAI to build Jurassic Park",
         "link": "https://taylor.town/leaving-openai",
         "pubDate": "2026-08-07T04:26",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Software Understanding in the Sciences is Really Uneven",
+        "link": "https://lobste.rs/s/rn8uva/software_understanding_sciences_is",
+        "pubDate": "2026-08-07T15:24",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +164,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
-        "link": "https://bobdahacker.com/blog/tldv-hack",
-        "pubDate": "2026-08-06T11:22",
+        "title": "Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer",
+        "link": "https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/",
+        "pubDate": "2026-08-08T06:53",
         "feedId": "lobsters"
       },
       {
-        "title": "‘Farewell, Etaoin Shrdlu’",
-        "link": "https://archive.org/details/FarewellEtaoinShrdlu",
-        "pubDate": "2026-08-08T04:45",
+        "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
+        "link": "https://bobdahacker.com/blog/tldv-hack",
+        "pubDate": "2026-08-06T11:22",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer",
-        "link": "https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/",
-        "pubDate": "2026-08-08T06:53",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Domain-specific hyperspecialization (for SAT)",
         "link": "https://c.mov/lymphosat/",
         "pubDate": "2026-08-07T19:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "BasicSync: A simple app for running Syncthing on Android",
-        "link": "https://github.com/chenxiaolong/BasicSync",
-        "pubDate": "2026-08-08T00:52",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,24 @@
     "id": "axios",
     "items": [
       {
+        "title": "Suspected AI use is the entertainment industry's scarlet letter",
+        "link": "https://www.axios.com/2026/08/08/generative-ai-accusations-hank-green-jerry-falade",
+        "pubDate": "2026-08-08T10:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "Synagogues build a new security playbook as antisemitic attacks intensify",
+        "link": "https://www.axios.com/2026/08/08/synagogues-security-teams-jews",
+        "pubDate": "2026-08-08T09:40",
+        "feedId": "axios"
+      },
+      {
+        "title": "Senate confirms Todd Blanche as attorney general",
+        "link": "https://www.axios.com/2026/08/08/todd-blanche-trump-attorney-general-confirmed",
+        "pubDate": "2026-08-08T09:31",
+        "feedId": "axios"
+      },
+      {
         "title": "White House revives unprecedented effort to remove Fed governor Lisa Cook",
         "link": "https://www.axios.com/2026/08/07/trump-white-house-fed-cook",
         "pubDate": "2026-08-07T18:40",
@@ -357,24 +375,6 @@
         "title": "Author of DNC's 2024 \"autopsy\" says he concluded Gaza war hurt Harris",
         "link": "https://www.axios.com/2026/08/06/dnc-2024-autopsy-author-gaza",
         "pubDate": "2026-08-06T22:21",
-        "feedId": "axios"
-      },
-      {
-        "title": "Senate panel holds Fauci in contempt over refusal to answer COVID-19 questions",
-        "link": "https://www.axios.com/2026/08/06/anthony-fauci-covid-senate-contempt",
-        "pubDate": "2026-08-06T21:07",
-        "feedId": "axios"
-      },
-      {
-        "title": "AI designs new virus not found in nature",
-        "link": "https://www.axios.com/2026/08/06/ai-virus-designed-bacteria-viruses",
-        "pubDate": "2026-08-06T21:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "FCC votes to lift broadcast ownership cap",
-        "link": "https://www.axios.com/2026/08/06/fcc-broadcast-ownership-cap-vote",
-        "pubDate": "2026-08-06T20:40",
         "feedId": "axios"
       }
     ]
