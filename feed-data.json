@@ -9,6 +9,18 @@
         "feedId": "hn"
       },
       {
+        "title": "TinySol, a tiny solitaire game for DOS",
+        "link": "https://classicbits.net/coding-and-software/my-software/monosol/",
+        "pubDate": "2026-08-08T17:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
+        "link": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
+        "pubDate": "2026-08-08T17:27",
+        "feedId": "hn"
+      },
+      {
         "title": "LinkedIn Feed Blocker",
         "link": "https://github.com/andrewpollack/linkedin-feed-blocker",
         "pubDate": "2026-08-08T16:49",
@@ -79,18 +91,6 @@
         "link": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
         "pubDate": "2026-08-08T10:04",
         "feedId": "hn"
-      },
-      {
-        "title": "Europe's free satellite service just made it easier to track wildfires",
-        "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
-        "pubDate": "2026-08-08T09:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
-        "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-        "pubDate": "2026-08-08T09:18",
-        "feedId": "hn"
       }
     ]
   },
@@ -122,15 +122,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Enabling the next iteration of the borrow checker on nightly",
-        "link": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/",
-        "pubDate": "2026-08-08T15:34",
+        "title": "robot.villas – RSS-to-Mastodon Bridge",
+        "link": "https://robot.villas",
+        "pubDate": "2026-08-08T18:18",
         "feedId": "lobsters"
       },
       {
-        "title": "Assembly Hall of Shame: Racing to the bottom of CPU performance",
-        "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-        "pubDate": "2026-08-07T20:29",
+        "title": "Amiga August 2026 Update",
+        "link": "https://amiga.com/news/20260804-amiga-update",
+        "pubDate": "2026-08-08T13:43",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Enabling the next iteration of the borrow checker on nightly",
+        "link": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/",
+        "pubDate": "2026-08-08T15:34",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Amiga August 2026 Update",
-        "link": "https://amiga.com/news/20260804-amiga-update",
-        "pubDate": "2026-08-08T13:43",
+        "title": "Assembly Hall of Shame: Racing to the bottom of CPU performance",
+        "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+        "pubDate": "2026-08-07T20:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "‘Farewell, Etaoin Shrdlu’",
+        "link": "https://archive.org/details/FarewellEtaoinShrdlu",
+        "pubDate": "2026-08-08T04:45",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +170,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "‘Farewell, Etaoin Shrdlu’",
-        "link": "https://archive.org/details/FarewellEtaoinShrdlu",
-        "pubDate": "2026-08-08T04:45",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "robot.villas – RSS-to-Mastodon Bridge",
-        "link": "https://robot.villas",
-        "pubDate": "2026-08-08T18:18",
+        "title": "Some Moral and Technical Consequences of Automation (1960)",
+        "link": "https://www.cs.umd.edu/users/gasarch/BLOGPAPERS/moral.pdf",
+        "pubDate": "2026-08-08T17:49",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Some Moral and Technical Consequences of Automation (1960)",
-        "link": "https://www.cs.umd.edu/users/gasarch/BLOGPAPERS/moral.pdf",
-        "pubDate": "2026-08-08T17:49",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Software Understanding in the Sciences is Really Uneven",
-        "link": "https://lobste.rs/s/rn8uva/software_understanding_sciences_is",
-        "pubDate": "2026-08-07T15:24",
+        "title": "OpenSSH Key Structure Guide",
+        "link": "https://sshref.dev/",
+        "pubDate": "2026-08-08T18:22",
         "feedId": "lobsters"
       }
     ]
