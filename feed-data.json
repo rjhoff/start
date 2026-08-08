@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "Mythos social engineering AISI INC-2026-07-28-01",
+        "link": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+        "pubDate": "2026-08-08T03:41",
+        "feedId": "hn"
+      },
+      {
         "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
         "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
         "pubDate": "2026-08-08T01:49",
@@ -12,6 +18,12 @@
         "title": "The Nixpkgs core team has disbanded",
         "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
         "pubDate": "2026-08-08T01:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Modern C++ Build Tools for Module Feature",
+        "link": "https://github.com/mcpp-community/mcpp",
+        "pubDate": "2026-08-08T00:30",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
         "pubDate": "2026-08-07T15:10",
         "feedId": "hn"
-      },
-      {
-        "title": "A year of fighting scrapers on my 1.5 million-page website",
-        "link": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
-        "pubDate": "2026-08-07T14:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "Radical Study Suggests Life on Earth Arose Twice",
-        "link": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
-        "pubDate": "2026-08-07T12:45",
-        "feedId": "hn"
       }
     ]
   },
@@ -101,6 +101,12 @@
         "title": "Am I the problem? Interviewing another team to find out",
         "link": "https://www.macchaffee.com/blog/2026/am-i-the-problem/",
         "pubDate": "2026-08-07T19:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Nixpkgs core team has disbanded",
+        "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+        "pubDate": "2026-08-08T02:33",
         "feedId": "lobsters"
       },
       {
@@ -134,21 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Nixpkgs core team has disbanded",
-        "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-        "pubDate": "2026-08-08T02:33",
+        "title": "Software Understanding in the Sciences is Really Uneven",
+        "link": "https://lobste.rs/s/rn8uva/software_understanding_sciences_is",
+        "pubDate": "2026-08-07T15:24",
         "feedId": "lobsters"
       },
       {
         "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
         "link": "https://bobdahacker.com/blog/tldv-hack",
         "pubDate": "2026-08-06T11:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Software Understanding in the Sciences is Really Uneven",
-        "link": "https://lobste.rs/s/rn8uva/software_understanding_sciences_is",
-        "pubDate": "2026-08-07T15:24",
         "feedId": "lobsters"
       },
       {
