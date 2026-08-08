@@ -3,15 +3,39 @@
     "id": "hn",
     "items": [
       {
+        "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+        "link": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+        "pubDate": "2026-08-08T18:09",
+        "feedId": "hn"
+      },
+      {
         "title": "LinkedIn Feed Blocker",
         "link": "https://github.com/andrewpollack/linkedin-feed-blocker",
         "pubDate": "2026-08-08T16:49",
         "feedId": "hn"
       },
       {
+        "title": "Wireblast a 100 Gbps packet generator in Go using AF_XDP",
+        "link": "https://toonk.io/index.html",
+        "pubDate": "2026-08-08T16:07",
+        "feedId": "hn"
+      },
+      {
         "title": "Fastmail offers EU data region",
         "link": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
         "pubDate": "2026-08-08T16:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Can Intel finally beat ARM on performance per Watt?",
+        "link": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
+        "pubDate": "2026-08-08T16:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "\"Code was never the hard part\" is an insult to all programmers",
+        "link": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+        "pubDate": "2026-08-08T14:32",
         "feedId": "hn"
       },
       {
@@ -51,12 +75,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
-        "link": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
-        "pubDate": "2026-08-08T10:16",
-        "feedId": "hn"
-      },
-      {
         "title": "US Military's cyber command unit grapples with cluster of deaths by suicide",
         "link": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
         "pubDate": "2026-08-08T10:04",
@@ -73,24 +91,6 @@
         "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
         "pubDate": "2026-08-08T09:18",
         "feedId": "hn"
-      },
-      {
-        "title": "Hardware backdoors in some x86 CPUs",
-        "link": "https://github.com/xoreaxeaxeax/rosenbridge",
-        "pubDate": "2026-08-08T07:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
-        "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
-        "pubDate": "2026-08-08T01:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-        "link": "https://genesisopenmodels.anl.gov/",
-        "pubDate": "2026-08-07T22:24",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "The Nixpkgs core team has disbanded",
-        "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-        "pubDate": "2026-08-08T02:33",
-        "feedId": "lobsters"
-      },
-      {
         "title": "some software talks i like",
         "link": "https://char.lt/blog/2026/08/talks-i-like/",
         "pubDate": "2026-08-08T13:48",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Nixpkgs core team has disbanded",
+        "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+        "pubDate": "2026-08-08T02:33",
         "feedId": "lobsters"
       },
       {
@@ -140,27 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "PS3 emulation is fast on ARM now",
-        "link": "https://www.youtube.com/watch?v=-aI_XEwmKFk",
-        "pubDate": "2026-08-07T17:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer",
-        "link": "https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/",
-        "pubDate": "2026-08-08T06:53",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "‘Farewell, Etaoin Shrdlu’",
-        "link": "https://archive.org/details/FarewellEtaoinShrdlu",
-        "pubDate": "2026-08-08T04:45",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Software Understanding in the Sciences is Really Uneven",
-        "link": "https://lobste.rs/s/rn8uva/software_understanding_sciences_is",
-        "pubDate": "2026-08-07T15:24",
+        "title": "Amiga August 2026 Update",
+        "link": "https://amiga.com/news/20260804-amiga-update",
+        "pubDate": "2026-08-08T13:43",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +152,39 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Amiga August 2026 Update",
-        "link": "https://amiga.com/news/20260804-amiga-update",
-        "pubDate": "2026-08-08T13:43",
+        "title": "PS3 emulation is fast on ARM now",
+        "link": "https://www.youtube.com/watch?v=-aI_XEwmKFk",
+        "pubDate": "2026-08-07T17:50",
         "feedId": "lobsters"
       },
       {
-        "title": "A shell exclamation mark is not for yelling. Be lazy",
-        "link": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-        "pubDate": "2026-08-07T01:18",
+        "title": "‘Farewell, Etaoin Shrdlu’",
+        "link": "https://archive.org/details/FarewellEtaoinShrdlu",
+        "pubDate": "2026-08-08T04:45",
         "feedId": "lobsters"
       },
       {
-        "title": "I'm leaving OpenAI to build Jurassic Park",
-        "link": "https://taylor.town/leaving-openai",
-        "pubDate": "2026-08-07T04:26",
+        "title": "robot.villas – RSS-to-Mastodon Bridge",
+        "link": "https://robot.villas",
+        "pubDate": "2026-08-08T18:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer",
+        "link": "https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/",
+        "pubDate": "2026-08-08T06:53",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Some Moral and Technical Consequences of Automation (1960)",
+        "link": "https://www.cs.umd.edu/users/gasarch/BLOGPAPERS/moral.pdf",
+        "pubDate": "2026-08-08T17:49",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Software Understanding in the Sciences is Really Uneven",
+        "link": "https://lobste.rs/s/rn8uva/software_understanding_sciences_is",
+        "pubDate": "2026-08-07T15:24",
         "feedId": "lobsters"
       }
     ]
