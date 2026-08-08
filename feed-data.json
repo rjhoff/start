@@ -21,12 +21,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Working on Economics with Fable 5",
-        "link": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
-        "pubDate": "2026-08-07T22:29",
-        "feedId": "hn"
-      },
-      {
         "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
         "link": "https://genesisopenmodels.anl.gov/",
         "pubDate": "2026-08-07T22:24",
@@ -91,6 +85,12 @@
         "link": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
         "pubDate": "2026-08-07T15:10",
         "feedId": "hn"
+      },
+      {
+        "title": "Radical Study Suggests Life on Earth Arose Twice",
+        "link": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+        "pubDate": "2026-08-07T12:45",
+        "feedId": "hn"
       }
     ]
   },
@@ -116,15 +116,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Assembly Hall of Shame: Racing to the bottom of CPU performance",
+        "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+        "pubDate": "2026-08-07T20:29",
+        "feedId": "lobsters"
+      },
+      {
         "title": "A shell exclamation mark is not for yelling. Be lazy",
         "link": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
         "pubDate": "2026-08-07T01:18",
         "feedId": "lobsters"
       },
       {
-        "title": "Assembly Hall of Shame: Racing to the bottom of CPU performance",
-        "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-        "pubDate": "2026-08-07T20:29",
+        "title": "Software Understanding in the Sciences is Really Uneven",
+        "link": "https://lobste.rs/s/rn8uva/software_understanding_sciences_is",
+        "pubDate": "2026-08-07T15:24",
         "feedId": "lobsters"
       },
       {
@@ -137,12 +143,6 @@
         "title": "I'm leaving OpenAI to build Jurassic Park",
         "link": "https://taylor.town/leaving-openai",
         "pubDate": "2026-08-07T04:26",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Software Understanding in the Sciences is Really Uneven",
-        "link": "https://lobste.rs/s/rn8uva/software_understanding_sciences_is",
-        "pubDate": "2026-08-07T15:24",
         "feedId": "lobsters"
       },
       {
@@ -170,6 +170,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Domain-specific hyperspecialization (for SAT)",
+        "link": "https://c.mov/lymphosat/",
+        "pubDate": "2026-08-07T19:44",
+        "feedId": "lobsters"
+      },
+      {
         "title": "REpsych: Psychological warfare in reverse engineering",
         "link": "https://github.com/xoreaxeaxeax/repsych",
         "pubDate": "2026-08-07T20:45",
@@ -179,12 +185,6 @@
         "title": "I got a 1998 CD-ROM world atlas running on Windows 11",
         "link": "https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i",
         "pubDate": "2026-08-07T00:36",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Some ways to navigate through 'git blame' over time in GNU Emacs",
-        "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsGitBlameOverTime",
-        "pubDate": "2026-08-07T08:25",
         "feedId": "lobsters"
       }
     ]
