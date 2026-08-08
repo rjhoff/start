@@ -63,7 +63,7 @@
         "feedId": "hn"
       },
       {
-        "title": "\"Code was never the hard part\" is an insult to all programmers",
+        "title": "“Code was never the hard part” is an insult to all programmers",
         "link": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
         "pubDate": "2026-08-08T14:32",
         "feedId": "hn"
@@ -110,6 +110,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "\"Code was never the hard part\" is an insult to all programmers",
+        "link": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+        "pubDate": "2026-08-08T19:23",
+        "feedId": "lobsters"
+      },
+      {
         "title": "They don’t make ’em like Sublime Text anymore",
         "link": "https://dbushell.com/2026/08/07/sublime-text/",
         "pubDate": "2026-08-08T08:57",
@@ -122,39 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "\"Code was never the hard part\" is an insult to all programmers",
-        "link": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-        "pubDate": "2026-08-08T19:23",
-        "feedId": "lobsters"
-      },
-      {
         "title": "robot.villas – RSS-to-Mastodon Bridge",
         "link": "https://robot.villas",
         "pubDate": "2026-08-08T18:18",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Amiga August 2026 Update",
-        "link": "https://amiga.com/news/20260804-amiga-update",
-        "pubDate": "2026-08-08T13:43",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Soar package manager",
-        "link": "https://soar.qaidvoid.dev/",
-        "pubDate": "2026-08-08T16:51",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Program images and portable Scheme backends for Jolt",
-        "link": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
-        "pubDate": "2026-08-08T14:12",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Object Model in Livelymerge",
-        "link": "https://www.inkandswitch.com/livelymerge/notebook/lm-03/",
-        "pubDate": "2026-08-08T20:46",
         "feedId": "lobsters"
       },
       {
@@ -164,9 +140,39 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Soar package manager",
+        "link": "https://soar.qaidvoid.dev/",
+        "pubDate": "2026-08-08T16:51",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Amiga August 2026 Update",
+        "link": "https://amiga.com/news/20260804-amiga-update",
+        "pubDate": "2026-08-08T13:43",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Object Model in Livelymerge",
+        "link": "https://www.inkandswitch.com/livelymerge/notebook/lm-03/",
+        "pubDate": "2026-08-08T20:46",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Program images and portable Scheme backends for Jolt",
+        "link": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
+        "pubDate": "2026-08-08T14:12",
+        "feedId": "lobsters"
+      },
+      {
         "title": "‘Farewell, Etaoin Shrdlu’",
         "link": "https://archive.org/details/FarewellEtaoinShrdlu",
         "pubDate": "2026-08-08T04:45",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "faaah (Filesystem As An AI Handler)",
+        "link": "https://github.com/sebastiancarlos/faaah",
+        "pubDate": "2026-08-08T23:07",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "PS3 emulation is fast on ARM now",
-        "link": "https://www.youtube.com/watch?v=-aI_XEwmKFk",
-        "pubDate": "2026-08-07T17:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Revision Prompting improves industrial LLM processes",
-        "link": "https://revisionprompting.info/",
-        "pubDate": "2026-08-08T20:20",
+        "title": "OpenSSH Key Structure Guide",
+        "link": "https://sshref.dev/",
+        "pubDate": "2026-08-08T18:22",
         "feedId": "lobsters"
       }
     ]
