@@ -3,21 +3,45 @@
     "id": "hn",
     "items": [
       {
+        "title": "Gentoo bugzilla closed due AI bot scraper overload",
+        "link": "https://social.treehouse.systems/@mgorny/117058483039362779",
+        "pubDate": "2026-08-08T13:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Voyager 1 FDS Computer Emulator",
+        "link": "https://zaneham.github.io/voyager-fds-emulator/",
+        "pubDate": "2026-08-08T13:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "A domain can now say it is for sale, in DNS",
+        "link": "https://specification.website/spec/foundations/for-sale-dns/",
+        "pubDate": "2026-08-08T13:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
+        "link": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
+        "pubDate": "2026-08-08T12:31",
+        "feedId": "hn"
+      },
+      {
         "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
         "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
         "pubDate": "2026-08-08T10:57",
         "feedId": "hn"
       },
       {
-        "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
-        "link": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
-        "pubDate": "2026-08-08T10:07",
+        "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+        "link": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+        "pubDate": "2026-08-08T10:16",
         "feedId": "hn"
       },
       {
-        "title": "US Military's Cyber Command Unit Grapples with Cluster of Deaths by Suicide",
-        "link": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
-        "pubDate": "2026-08-08T10:04",
+        "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+        "link": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+        "pubDate": "2026-08-08T10:07",
         "feedId": "hn"
       },
       {
@@ -67,42 +91,12 @@
         "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
         "pubDate": "2026-08-07T18:25",
         "feedId": "hn"
-      },
-      {
-        "title": "Assembly Hall of Shame",
-        "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-        "pubDate": "2026-08-07T18:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "DeepSeek V4 Flash 0731",
-        "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
-        "pubDate": "2026-08-07T17:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "Oracle bans AI-generated code from OpenJDK",
-        "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-        "pubDate": "2026-08-07T17:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "Responding to the next frontier of critical cyber capabilities",
-        "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-        "pubDate": "2026-08-07T16:39",
-        "feedId": "hn"
       }
     ]
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
-      {
-        "title": "They don’t make ’em like Sublime Text anymore",
-        "link": "https://dbushell.com/2026/08/07/sublime-text/",
-        "pubDate": "2026-08-08T08:57",
-        "feedId": "lobsters"
-      },
       {
         "title": "The Nixpkgs core team has disbanded",
         "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
@@ -116,6 +110,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "They don’t make ’em like Sublime Text anymore",
+        "link": "https://dbushell.com/2026/08/07/sublime-text/",
+        "pubDate": "2026-08-08T08:57",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Assembly Hall of Shame: Racing to the bottom of CPU performance",
         "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
         "pubDate": "2026-08-07T20:29",
@@ -125,6 +125,18 @@
         "title": "PS3 emulation is fast on ARM now",
         "link": "https://www.youtube.com/watch?v=-aI_XEwmKFk",
         "pubDate": "2026-08-07T17:50",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Program images and portable Scheme backends for Jolt",
+        "link": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
+        "pubDate": "2026-08-08T14:12",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "some software talks i like",
+        "link": "https://char.lt/blog/2026/08/talks-i-like/",
+        "pubDate": "2026-08-08T13:48",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer",
-        "link": "https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/",
-        "pubDate": "2026-08-08T06:53",
-        "feedId": "lobsters"
-      },
-      {
         "title": "From constraint models to playable puzzle games",
         "link": "https://zayenz.se/blog/post/constraint-generated-puzzle-games/",
         "pubDate": "2026-08-07T10:54",
         "feedId": "lobsters"
       },
       {
-        "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
-        "link": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
-        "pubDate": "2026-08-07T21:22",
+        "title": "Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer",
+        "link": "https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/",
+        "pubDate": "2026-08-08T06:53",
         "feedId": "lobsters"
       },
       {
-        "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
-        "link": "https://bobdahacker.com/blog/tldv-hack",
-        "pubDate": "2026-08-06T11:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Zig's Io.Threaded is Neat",
-        "link": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
-        "pubDate": "2026-08-06T20:12",
+        "title": "Amiga August 2026 Update",
+        "link": "https://amiga.com/news/20260804-amiga-update",
+        "pubDate": "2026-08-08T13:43",
         "feedId": "lobsters"
       }
     ]
