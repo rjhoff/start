@@ -3,21 +3,21 @@
     "id": "hn",
     "items": [
       {
+        "title": "Should AI labs be treated like the owners of dangerous animals?",
+        "link": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+        "pubDate": "2026-08-08T00:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+        "link": "https://genesisopenmodels.anl.gov/",
+        "pubDate": "2026-08-07T22:24",
+        "feedId": "hn"
+      },
+      {
         "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
         "link": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
         "pubDate": "2026-08-07T21:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-        "link": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-        "pubDate": "2026-08-07T20:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "App Store Rejection of the Week: Dark Hours",
-        "link": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
-        "pubDate": "2026-08-07T18:59",
         "feedId": "hn"
       },
       {
@@ -30,6 +30,12 @@
         "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
         "link": "https://ancientlibrary.net/",
         "pubDate": "2026-08-07T18:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "Managing AI Coding Costs at Scale",
+        "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+        "pubDate": "2026-08-07T18:25",
         "feedId": "hn"
       },
       {
@@ -85,12 +91,6 @@
         "link": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
         "pubDate": "2026-08-07T12:42",
         "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Wyzer Programming Language",
-        "link": "https://github.com/Wyzer-Lang/wyzer",
-        "pubDate": "2026-08-07T12:28",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,6 +110,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "PS3 emulation is fast on ARM now",
+        "link": "https://www.youtube.com/watch?v=-aI_XEwmKFk",
+        "pubDate": "2026-08-07T17:50",
+        "feedId": "lobsters"
+      },
+      {
         "title": "What are you doing this weekend?",
         "link": "https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend",
         "pubDate": "2026-08-07T09:38",
@@ -122,15 +128,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "PS3 emulation is fast on ARM now",
-        "link": "https://www.youtube.com/watch?v=-aI_XEwmKFk",
-        "pubDate": "2026-08-07T17:50",
+        "title": "Assembly Hall of Shame: Racing to the bottom of CPU performance",
+        "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+        "pubDate": "2026-08-07T20:29",
         "feedId": "lobsters"
       },
       {
         "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
         "link": "https://bobdahacker.com/blog/tldv-hack",
         "pubDate": "2026-08-06T11:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Software Understanding in the Sciences is Really Uneven",
+        "link": "https://lobste.rs/s/rn8uva/software_understanding_sciences_is",
+        "pubDate": "2026-08-07T15:24",
         "feedId": "lobsters"
       },
       {
@@ -146,21 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Assembly Hall of Shame: Racing to the bottom of CPU performance",
-        "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-        "pubDate": "2026-08-07T20:29",
-        "feedId": "lobsters"
-      },
-      {
         "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
         "link": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
         "pubDate": "2026-08-07T21:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Software Understanding in the Sciences is Really Uneven",
-        "link": "https://lobste.rs/s/rn8uva/software_understanding_sciences_is",
-        "pubDate": "2026-08-07T15:24",
         "feedId": "lobsters"
       },
       {
