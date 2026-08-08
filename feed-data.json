@@ -9,7 +9,7 @@
         "feedId": "hn"
       },
       {
-        "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+        "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
         "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
         "pubDate": "2026-08-08T01:49",
         "feedId": "hn"
@@ -128,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Software Understanding in the Sciences is Really Uneven",
-        "link": "https://lobste.rs/s/rn8uva/software_understanding_sciences_is",
-        "pubDate": "2026-08-07T15:24",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What are you doing this weekend?",
         "link": "https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend",
         "pubDate": "2026-08-07T09:38",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Software Understanding in the Sciences is Really Uneven",
+        "link": "https://lobste.rs/s/rn8uva/software_understanding_sciences_is",
+        "pubDate": "2026-08-07T15:24",
         "feedId": "lobsters"
       },
       {
@@ -146,21 +146,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
-        "link": "https://bobdahacker.com/blog/tldv-hack",
-        "pubDate": "2026-08-06T11:22",
-        "feedId": "lobsters"
-      },
-      {
         "title": "From constraint models to playable puzzle games",
         "link": "https://zayenz.se/blog/post/constraint-generated-puzzle-games/",
         "pubDate": "2026-08-07T10:54",
         "feedId": "lobsters"
       },
       {
+        "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
+        "link": "https://bobdahacker.com/blog/tldv-hack",
+        "pubDate": "2026-08-06T11:22",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Zig's Io.Threaded is Neat",
         "link": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
         "pubDate": "2026-08-06T20:12",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer",
+        "link": "https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/",
+        "pubDate": "2026-08-08T06:53",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "BasicSync: A simple app for running Syncthing on Android",
+        "link": "https://github.com/chenxiaolong/BasicSync",
+        "pubDate": "2026-08-08T00:52",
         "feedId": "lobsters"
       },
       {
@@ -173,18 +185,6 @@
         "title": "Domain-specific hyperspecialization (for SAT)",
         "link": "https://c.mov/lymphosat/",
         "pubDate": "2026-08-07T19:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "REpsych: Psychological warfare in reverse engineering",
-        "link": "https://github.com/xoreaxeaxeax/repsych",
-        "pubDate": "2026-08-07T20:45",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I got a 1998 CD-ROM world atlas running on Windows 11",
-        "link": "https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i",
-        "pubDate": "2026-08-07T00:36",
         "feedId": "lobsters"
       }
     ]
