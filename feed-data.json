@@ -3,6 +3,54 @@
     "id": "hn",
     "items": [
       {
+        "title": "A Tome of Forbidden Technologies",
+        "link": "https://ecosophia.net/a-tome-of-forbidden-technologies/",
+        "pubDate": "2026-08-08T12:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "The USSR in 100 Photographs",
+        "link": "https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html",
+        "pubDate": "2026-08-08T12:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+        "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+        "pubDate": "2026-08-08T10:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
+        "link": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
+        "pubDate": "2026-08-08T10:16",
+        "feedId": "hn"
+      },
+      {
+        "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+        "link": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+        "pubDate": "2026-08-08T10:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "US Military's Cyber Command Unit Grapples with Cluster of Deaths by Suicide",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+        "pubDate": "2026-08-08T10:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Europe's free satellite service just made it easier to track wildfires",
+        "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+        "pubDate": "2026-08-08T09:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+        "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+        "pubDate": "2026-08-08T09:18",
+        "feedId": "hn"
+      },
+      {
         "title": "Hardware backdoors in some x86 CPUs",
         "link": "https://github.com/xoreaxeaxeax/rosenbridge",
         "pubDate": "2026-08-08T07:04",
@@ -27,18 +75,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
-        "link": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
-        "pubDate": "2026-08-07T21:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "Psychological Warfare in Reverse Engineering (2015)",
-        "link": "https://github.com/xoreaxeaxeax/repsych",
-        "pubDate": "2026-08-07T18:51",
-        "feedId": "hn"
-      },
-      {
         "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
         "link": "https://ancientlibrary.net/",
         "pubDate": "2026-08-07T18:51",
@@ -55,42 +91,6 @@
         "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
         "pubDate": "2026-08-07T18:01",
         "feedId": "hn"
-      },
-      {
-        "title": "DeepSeek V4 Flash 0731",
-        "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
-        "pubDate": "2026-08-07T17:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "Oracle bans AI-generated code from OpenJDK",
-        "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-        "pubDate": "2026-08-07T17:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "Responding to the next frontier of critical cyber capabilities",
-        "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-        "pubDate": "2026-08-07T16:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "An all-sky map of half a million supermassive black holes",
-        "link": "https://www.sdss.org/black-hole-mapper-release-20/",
-        "pubDate": "2026-08-07T15:24",
-        "feedId": "hn"
-      },
-      {
-        "title": "Möbius-Strip Crosswords",
-        "link": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
-        "pubDate": "2026-08-07T15:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "Radical Study Suggests Life on Earth Arose Twice",
-        "link": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
-        "pubDate": "2026-08-07T12:45",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,6 +104,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "They don’t make ’em like Sublime Text anymore",
+        "link": "https://dbushell.com/2026/08/07/sublime-text/",
+        "pubDate": "2026-08-08T08:57",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Am I the problem? Interviewing another team to find out",
         "link": "https://www.macchaffee.com/blog/2026/am-i-the-problem/",
         "pubDate": "2026-08-07T19:27",
@@ -113,12 +119,6 @@
         "title": "Assembly Hall of Shame: Racing to the bottom of CPU performance",
         "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
         "pubDate": "2026-08-07T20:29",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "They don’t make ’em like Sublime Text anymore",
-        "link": "https://dbushell.com/2026/08/07/sublime-text/",
-        "pubDate": "2026-08-08T08:57",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend",
-        "pubDate": "2026-08-07T09:38",
+        "title": "Software Understanding in the Sciences is Really Uneven",
+        "link": "https://lobste.rs/s/rn8uva/software_understanding_sciences_is",
+        "pubDate": "2026-08-07T15:24",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Software Understanding in the Sciences is Really Uneven",
-        "link": "https://lobste.rs/s/rn8uva/software_understanding_sciences_is",
-        "pubDate": "2026-08-07T15:24",
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend",
+        "pubDate": "2026-08-07T09:38",
         "feedId": "lobsters"
       },
       {
@@ -170,6 +170,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
+        "link": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+        "pubDate": "2026-08-07T21:22",
+        "feedId": "lobsters"
+      },
+      {
         "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
         "link": "https://bobdahacker.com/blog/tldv-hack",
         "pubDate": "2026-08-06T11:22",
@@ -180,18 +186,24 @@
         "link": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
         "pubDate": "2026-08-06T20:12",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Domain-specific hyperspecialization (for SAT)",
-        "link": "https://c.mov/lymphosat/",
-        "pubDate": "2026-08-07T19:44",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+        "link": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+        "pubDate": "2026-08-08T11:30",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+        "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+        "pubDate": "2026-08-08T11:05",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Europe's free satellite service just made it easier to track wildfires",
         "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
@@ -268,18 +280,6 @@
         "title": "The world's biggest solar telescope caught vortexes on the Sun's surface",
         "link": "https://arstechnica.com/science/2026/08/the-worlds-biggest-solar-telescope-caught-vortexes-on-the-suns-surface/",
         "pubDate": "2026-08-07T13:20",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Trump is losing his war on wind power",
-        "link": "https://arstechnica.com/science/2026/08/trump-is-losing-his-war-on-wind-power/",
-        "pubDate": "2026-08-07T12:58",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Remembering the pre-Google web, when search was an experiment",
-        "link": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
-        "pubDate": "2026-08-07T11:00",
         "feedId": "arstechnica"
       }
     ]
