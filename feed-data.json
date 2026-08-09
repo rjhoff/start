@@ -128,15 +128,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "my server is a phone now",
+        "link": "https://seg6.space/posts/phone-server/",
+        "pubDate": "2026-08-09T03:39",
+        "feedId": "lobsters"
+      },
+      {
         "title": "robot.villas – RSS-to-Mastodon Bridge",
         "link": "https://robot.villas",
         "pubDate": "2026-08-08T18:18",
         "feedId": "lobsters"
       },
       {
-        "title": "my server is a phone now",
-        "link": "https://seg6.space/posts/phone-server/",
-        "pubDate": "2026-08-09T03:39",
+        "title": "Multistack Concatenative Programming Languages",
+        "link": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
+        "pubDate": "2026-08-08T21:11",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Am I the problem? Interviewing another team to find out",
-        "link": "https://www.macchaffee.com/blog/2026/am-i-the-problem/",
-        "pubDate": "2026-08-07T19:27",
+        "title": "Triton: DirectX 11 driver for QEMU",
+        "link": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+        "pubDate": "2026-08-09T02:37",
         "feedId": "lobsters"
       },
       {
-        "title": "Multistack Concatenative Programming Languages",
-        "link": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
-        "pubDate": "2026-08-08T21:11",
+        "title": "Am I the problem? Interviewing another team to find out",
+        "link": "https://www.macchaffee.com/blog/2026/am-i-the-problem/",
+        "pubDate": "2026-08-07T19:27",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Tracking down a Zsh history data loss bug",
+        "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+        "pubDate": "2026-08-09T08:16",
+        "feedId": "lobsters"
+      },
+      {
         "title": "OpenSSH Key Structure Guide",
         "link": "https://sshref.dev/",
         "pubDate": "2026-08-08T18:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The FastLanes Unified Transport Layout",
-        "link": "https://blog.dave.tf/post/fastlanes-utl/",
-        "pubDate": "2026-08-08T23:56",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Object Model in Livelymerge",
-        "link": "https://www.inkandswitch.com/livelymerge/notebook/lm-03/",
-        "pubDate": "2026-08-08T20:46",
         "feedId": "lobsters"
       }
     ]
