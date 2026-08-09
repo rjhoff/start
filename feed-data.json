@@ -3,9 +3,15 @@
     "id": "hn",
     "items": [
       {
-        "title": "Tech sucks: You have to vote with your wallet, or nothing will change",
-        "link": "https://82mhz.net/posts/2026/08/tech-sucks-you-have-to-vote-with-your-wallet-or-nothing-will-change/",
-        "pubDate": "2026-08-09T15:55",
+        "title": "Banksy works cost public almost £150k",
+        "link": "https://www.bbc.co.uk/news/articles/cx2vnny7j5zo",
+        "pubDate": "2026-08-09T16:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "FCC moves to ban Lidar-equipped foreign drones from US",
+        "link": "https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows",
+        "pubDate": "2026-08-09T16:24",
         "feedId": "hn"
       },
       {
@@ -15,9 +21,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)",
-        "link": "https://alexanderwanyoike.github.io/vibez/",
-        "pubDate": "2026-08-09T15:31",
+        "title": "Criminal Deception in Silicon Valley",
+        "link": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
+        "pubDate": "2026-08-09T15:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+        "link": "https://github.com/eighttrigrams/us-vs-them",
+        "pubDate": "2026-08-09T15:25",
         "feedId": "hn"
       },
       {
@@ -45,6 +57,24 @@
         "feedId": "hn"
       },
       {
+        "title": "Cool URIs Don't Change (1998)",
+        "link": "https://www.w3.org/Provider/Style/URI",
+        "pubDate": "2026-08-09T14:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Today's cities on a globe of Earth's tectonic past and future",
+        "link": "https://douwe.com/projects/tectonic_globe",
+        "pubDate": "2026-08-09T14:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "A partial digestion of the HRT counterexample",
+        "link": "https://terrytao.wordpress.com/2026/08/06/a-partial-digestion-of-the-hrt-counterexample/",
+        "pubDate": "2026-08-09T14:09",
+        "feedId": "hn"
+      },
+      {
         "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
         "link": "https://kibotronics.net/unlisted/lilly-machines/",
         "pubDate": "2026-08-09T13:47",
@@ -61,36 +91,6 @@
         "link": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
         "pubDate": "2026-08-09T12:43",
         "feedId": "hn"
-      },
-      {
-        "title": "Reviving a four year old reMarkable 2",
-        "link": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
-        "pubDate": "2026-08-09T11:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
-        "link": "https://halfhill.com/byte/1998-12_alpha.html",
-        "pubDate": "2026-08-09T10:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Airy – Free, fast, and simple voice content creation",
-        "link": "https://airy.so",
-        "pubDate": "2026-08-09T09:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "There Are Magic Hexagons of Every Order",
-        "link": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
-        "pubDate": "2026-08-09T07:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
-        "link": "https://github.com/jmarshall23/msword",
-        "pubDate": "2026-08-09T05:23",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Tracking down a Zsh history data loss bug",
-        "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
-        "pubDate": "2026-08-09T08:16",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Who Should Pay For Source Code Availability?",
         "link": "https://kristoff.it/blog/source-code-availability/",
         "pubDate": "2026-08-09T13:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Tracking down a Zsh history data loss bug",
+        "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+        "pubDate": "2026-08-09T08:16",
         "feedId": "lobsters"
       },
       {
@@ -122,6 +122,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Mea Culpa - Dark Hours",
+        "link": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+        "pubDate": "2026-08-09T15:44",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Rails is done",
         "link": "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
         "pubDate": "2026-08-09T07:14",
@@ -131,6 +137,12 @@
         "title": "some software talks i like",
         "link": "https://char.lt/blog/2026/08/talks-i-like/",
         "pubDate": "2026-08-08T13:48",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Relying on Go",
+        "link": "https://antonz.org/relying-on-go/",
+        "pubDate": "2026-08-09T14:43",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +164,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Mea Culpa - Dark Hours",
-        "link": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-        "pubDate": "2026-08-09T15:44",
+        "title": "3G at last",
+        "link": "https://nickvsnetworking.com/3g-at-last/",
+        "pubDate": "2026-08-09T14:07",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I think the vibecoding tag has gotten out of hand",
+        "link": "https://lobste.rs/s/he9j7y/i_think_vibecoding_tag_has_gotten_out_hand",
+        "pubDate": "2026-08-09T15:37",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "3G at last",
-        "link": "https://nickvsnetworking.com/3g-at-last/",
-        "pubDate": "2026-08-09T14:07",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Port the Enlightenment desktop environment to NetBSD",
-        "link": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
-        "pubDate": "2026-08-09T06:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Nixpkgs core team has disbanded",
-        "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-        "pubDate": "2026-08-08T02:33",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Triton: DirectX 11 driver for QEMU",
-        "link": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-        "pubDate": "2026-08-09T02:37",
+        "title": "On Arch Linux scripts and hooks",
+        "link": "https://devblog.archlinux.page/2026/on-scripts-and-hooks/",
+        "pubDate": "2026-08-09T14:46",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump to Axios: \"We are low keying it\" with Iran",
+        "link": "https://www.axios.com/2026/08/09/trump-iran-interview",
+        "pubDate": "2026-08-09T16:55",
+        "feedId": "axios"
+      },
+      {
         "title": "AOC is keeping two very big options open for 2028",
         "link": "https://www.axios.com/2026/08/09/aoc-2028-president-schumer-senate",
         "pubDate": "2026-08-09T14:25",
@@ -369,12 +375,6 @@
         "title": "Exclusive: GOP plans socialism telethon at midterm convention",
         "link": "https://www.axios.com/2026/08/07/gop-midterm-convention-gameplan",
         "pubDate": "2026-08-07T09:27",
-        "feedId": "axios"
-      },
-      {
-        "title": "Voters face uneven AI deepfake protections",
-        "link": "https://www.axios.com/2026/08/07/election-ai-deepfake-rules-states",
-        "pubDate": "2026-08-07T09:15",
         "feedId": "axios"
       }
     ]
