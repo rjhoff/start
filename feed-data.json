@@ -3,6 +3,54 @@
     "id": "hn",
     "items": [
       {
+        "title": "Tech sucks: You have to vote with your wallet, or nothing will change",
+        "link": "https://82mhz.net/posts/2026/08/tech-sucks-you-have-to-vote-with-your-wallet-or-nothing-will-change/",
+        "pubDate": "2026-08-09T15:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Every fast write moves work somewhere else",
+        "link": "https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/",
+        "pubDate": "2026-08-09T15:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)",
+        "link": "https://alexanderwanyoike.github.io/vibez/",
+        "pubDate": "2026-08-09T15:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "Taxi drivers rarely die of Alzheimer's",
+        "link": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+        "pubDate": "2026-08-09T15:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "Silicon Valley misreads science fiction and undermines democracy",
+        "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+        "pubDate": "2026-08-09T15:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+        "link": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
+        "pubDate": "2026-08-09T15:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone",
+        "link": "https://www.techeblog.com/tom-stanton-supersonic-trebuchet/",
+        "pubDate": "2026-08-09T15:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
+        "link": "https://kibotronics.net/unlisted/lilly-machines/",
+        "pubDate": "2026-08-09T13:47",
+        "feedId": "hn"
+      },
+      {
         "title": "Mea Culpa – Dark Hours",
         "link": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
         "pubDate": "2026-08-09T13:20",
@@ -15,33 +63,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Why Wall Street Is Ignoring Big Tech's Debt",
-        "link": "https://www.youtube.com/watch?v=NufJ7g63KSY",
-        "pubDate": "2026-08-09T12:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "70% of AI revenue comes from OpenAI and Anthropic",
-        "link": "https://www.youtube.com/watch?v=68X8yEatepQ",
-        "pubDate": "2026-08-09T11:56",
-        "feedId": "hn"
-      },
-      {
         "title": "Reviving a four year old reMarkable 2",
         "link": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
         "pubDate": "2026-08-09T11:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "Everything You Do Is Being Recorded",
-        "link": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
-        "pubDate": "2026-08-09T11:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "CSS: The bomb inside your inbox",
-        "link": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
-        "pubDate": "2026-08-09T10:17",
         "feedId": "hn"
       },
       {
@@ -67,30 +91,6 @@
         "link": "https://github.com/jmarshall23/msword",
         "pubDate": "2026-08-09T05:23",
         "feedId": "hn"
-      },
-      {
-        "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
-        "link": "http://longbets.org/601/",
-        "pubDate": "2026-08-09T04:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-        "link": "https://marketnow.site/",
-        "pubDate": "2026-08-09T03:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "TheoremDB – A public workspace for machine mathematics",
-        "link": "https://theoremdb.org/",
-        "pubDate": "2026-08-09T01:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
-        "link": "https://os8088.com/",
-        "pubDate": "2026-08-08T23:37",
-        "feedId": "hn"
       }
     ]
   },
@@ -101,6 +101,12 @@
         "title": "Tracking down a Zsh history data loss bug",
         "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
         "pubDate": "2026-08-09T08:16",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Who Should Pay For Source Code Availability?",
+        "link": "https://kristoff.it/blog/source-code-availability/",
+        "pubDate": "2026-08-09T13:42",
         "feedId": "lobsters"
       },
       {
@@ -140,21 +146,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What Software is Made Of (2015)",
-        "link": "https://siderea.dreamwidth.org/1219758.html",
-        "pubDate": "2026-08-09T12:26",
-        "feedId": "lobsters"
-      },
-      {
         "title": "ddisasm: A fast and accurate disassembler",
         "link": "https://github.com/GrammaTech/ddisasm",
         "pubDate": "2026-08-09T11:28",
         "feedId": "lobsters"
       },
       {
-        "title": "Triton: DirectX 11 driver for QEMU",
-        "link": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-        "pubDate": "2026-08-09T02:37",
+        "title": "Mea Culpa - Dark Hours",
+        "link": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+        "pubDate": "2026-08-09T15:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What Software is Made Of (2015)",
+        "link": "https://siderea.dreamwidth.org/1219758.html",
+        "pubDate": "2026-08-09T12:26",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "3G at last",
+        "link": "https://nickvsnetworking.com/3g-at-last/",
+        "pubDate": "2026-08-09T14:07",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Port the Enlightenment desktop environment to NetBSD",
+        "link": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
+        "pubDate": "2026-08-09T06:50",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Systemd Dynamic Users (2020)",
-        "link": "https://ethulhu.co.uk/systemd-dynamicuser",
-        "pubDate": "2026-08-08T18:52",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Who Should Pay For Source Code Availability?",
-        "link": "https://kristoff.it/blog/source-code-availability/",
-        "pubDate": "2026-08-09T13:42",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Multistack Concatenative Programming Languages",
-        "link": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
-        "pubDate": "2026-08-08T21:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Port the Enlightenment desktop environment to NetBSD",
-        "link": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
-        "pubDate": "2026-08-09T06:50",
+        "title": "Triton: DirectX 11 driver for QEMU",
+        "link": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+        "pubDate": "2026-08-09T02:37",
         "feedId": "lobsters"
       }
     ]
