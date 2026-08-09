@@ -3,21 +3,27 @@
     "id": "hn",
     "items": [
       {
+        "title": "ChatGPT starts blocking direct requests to copy an author's style",
+        "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+        "pubDate": "2026-08-09T02:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "The phone book that led us to Assad's spy chief in hiding",
+        "link": "https://www.bbc.com/news/articles/c4gyrzn8p94o",
+        "pubDate": "2026-08-09T01:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "TheoremDB · A public workspace for machine mathematics",
+        "link": "https://theoremdb.org/",
+        "pubDate": "2026-08-09T01:23",
+        "feedId": "hn"
+      },
+      {
         "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
         "link": "https://os8088.com/",
         "pubDate": "2026-08-08T23:37",
-        "feedId": "hn"
-      },
-      {
-        "title": "Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal",
-        "link": "https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal",
-        "pubDate": "2026-08-08T23:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "Depression has tripled in the last 15 years. Arthur Brooks about the cause",
-        "link": "https://bigthink.com/series/full-interview/meaning-crisis-brooks/",
-        "pubDate": "2026-08-08T23:09",
         "feedId": "hn"
       },
       {
@@ -48,12 +54,6 @@
         "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
         "link": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
         "pubDate": "2026-08-08T21:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]",
-        "link": "https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf",
-        "pubDate": "2026-08-08T20:37",
         "feedId": "hn"
       },
       {
@@ -116,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "They don’t make ’em like Sublime Text anymore",
-        "link": "https://dbushell.com/2026/08/07/sublime-text/",
-        "pubDate": "2026-08-08T08:57",
-        "feedId": "lobsters"
-      },
-      {
         "title": "robot.villas – RSS-to-Mastodon Bridge",
         "link": "https://robot.villas",
         "pubDate": "2026-08-08T18:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "They don’t make ’em like Sublime Text anymore",
+        "link": "https://dbushell.com/2026/08/07/sublime-text/",
+        "pubDate": "2026-08-08T08:57",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Soar package manager",
-        "link": "https://soar.qaidvoid.dev/",
-        "pubDate": "2026-08-08T16:51",
+        "title": "Dithered QR codes",
+        "link": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+        "pubDate": "2026-08-09T02:28",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Object Model in Livelymerge",
-        "link": "https://www.inkandswitch.com/livelymerge/notebook/lm-03/",
-        "pubDate": "2026-08-08T20:46",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Amiga August 2026 Update",
-        "link": "https://amiga.com/news/20260804-amiga-update",
-        "pubDate": "2026-08-08T13:43",
+        "title": "Counting the days, revisited",
+        "link": "https://dotat.at/@/2026-08-09-rata-die.html",
+        "pubDate": "2026-08-09T02:32",
         "feedId": "lobsters"
       },
       {
@@ -164,9 +158,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Program images and portable Scheme backends for Jolt",
-        "link": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
-        "pubDate": "2026-08-08T14:12",
+        "title": "Soar package manager",
+        "link": "https://soar.qaidvoid.dev/",
+        "pubDate": "2026-08-08T16:51",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Object Model in Livelymerge",
+        "link": "https://www.inkandswitch.com/livelymerge/notebook/lm-03/",
+        "pubDate": "2026-08-08T20:46",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The FastLanes Unified Transport Layout",
+        "link": "https://blog.dave.tf/post/fastlanes-utl/",
+        "pubDate": "2026-08-08T23:56",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Revision Prompting improves industrial LLM processes",
-        "link": "https://revisionprompting.info/",
-        "pubDate": "2026-08-08T20:20",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The FastLanes Unified Transport Layout",
-        "link": "https://blog.dave.tf/post/fastlanes-utl/",
-        "pubDate": "2026-08-08T23:56",
+        "title": "Amiga August 2026 Update",
+        "link": "https://amiga.com/news/20260804-amiga-update",
+        "pubDate": "2026-08-08T13:43",
         "feedId": "lobsters"
       }
     ]
