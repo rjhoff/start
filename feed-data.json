@@ -3,9 +3,27 @@
     "id": "hn",
     "items": [
       {
-        "title": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-        "link": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-        "pubDate": "2026-08-09T11:46",
+        "title": "Mea Culpa – Dark Hours",
+        "link": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+        "pubDate": "2026-08-09T13:20",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+        "link": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
+        "pubDate": "2026-08-09T12:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why Wall Street Is Ignoring Big Tech's Debt",
+        "link": "https://www.youtube.com/watch?v=NufJ7g63KSY",
+        "pubDate": "2026-08-09T12:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "70% of AI revenue comes from OpenAI and Anthropic",
+        "link": "https://www.youtube.com/watch?v=68X8yEatepQ",
+        "pubDate": "2026-08-09T11:56",
         "feedId": "hn"
       },
       {
@@ -39,12 +57,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-        "link": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
-        "pubDate": "2026-08-09T08:00",
-        "feedId": "hn"
-      },
-      {
         "title": "There Are Magic Hexagons of Every Order",
         "link": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
         "pubDate": "2026-08-09T07:19",
@@ -63,12 +75,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Why MySpace fans want it back as relaunch hinted",
-        "link": "https://www.bbc.com/news/articles/c4g64152v71o",
-        "pubDate": "2026-08-09T04:24",
-        "feedId": "hn"
-      },
-      {
         "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
         "link": "https://marketnow.site/",
         "pubDate": "2026-08-09T03:13",
@@ -78,12 +84,6 @@
         "title": "TheoremDB – A public workspace for machine mathematics",
         "link": "https://theoremdb.org/",
         "pubDate": "2026-08-09T01:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "Melatonin impairs morning cognition in healthy young adults (2023)",
-        "link": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
-        "pubDate": "2026-08-09T00:59",
         "feedId": "hn"
       },
       {
@@ -104,27 +104,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "\"Code was never the hard part\" is an insult to all programmers",
-        "link": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-        "pubDate": "2026-08-08T19:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "some software talks i like",
-        "link": "https://char.lt/blog/2026/08/talks-i-like/",
-        "pubDate": "2026-08-08T13:48",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Dithered QR codes",
         "link": "https://www.andrewt.net/dithered-qr-codes/wtf/",
         "pubDate": "2026-08-09T02:28",
         "feedId": "lobsters"
       },
       {
+        "title": "\"Code was never the hard part\" is an insult to all programmers",
+        "link": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+        "pubDate": "2026-08-08T19:23",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Rails is done",
         "link": "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
         "pubDate": "2026-08-09T07:14",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "some software talks i like",
+        "link": "https://char.lt/blog/2026/08/talks-i-like/",
+        "pubDate": "2026-08-08T13:48",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Nixpkgs core team has disbanded",
-        "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-        "pubDate": "2026-08-08T02:33",
+        "title": "What Software is Made Of (2015)",
+        "link": "https://siderea.dreamwidth.org/1219758.html",
+        "pubDate": "2026-08-09T12:26",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "ddisasm: A fast and accurate disassembler",
+        "link": "https://github.com/GrammaTech/ddisasm",
+        "pubDate": "2026-08-09T11:28",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Multistack Concatenative Programming Languages",
-        "link": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
-        "pubDate": "2026-08-08T21:11",
+        "title": "The Nixpkgs core team has disbanded",
+        "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+        "pubDate": "2026-08-08T02:33",
         "feedId": "lobsters"
       },
       {
@@ -164,21 +170,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "robot.villas – RSS-to-Mastodon Bridge",
-        "link": "https://robot.villas",
-        "pubDate": "2026-08-08T18:18",
+        "title": "Who Should Pay For Source Code Availability?",
+        "link": "https://kristoff.it/blog/source-code-availability/",
+        "pubDate": "2026-08-09T13:42",
         "feedId": "lobsters"
       },
       {
-        "title": "They don’t make ’em like Sublime Text anymore",
-        "link": "https://dbushell.com/2026/08/07/sublime-text/",
-        "pubDate": "2026-08-08T08:57",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The FastLanes Unified Transport Layout",
-        "link": "https://blog.dave.tf/post/fastlanes-utl/",
-        "pubDate": "2026-08-08T23:56",
+        "title": "Multistack Concatenative Programming Languages",
+        "link": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
+        "pubDate": "2026-08-08T21:11",
         "feedId": "lobsters"
       },
       {
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "AOC is keeping two very big options open for 2028",
+        "link": "https://www.axios.com/2026/08/09/aoc-2028-president-schumer-senate",
+        "pubDate": "2026-08-09T14:25",
+        "feedId": "axios"
+      },
+      {
         "title": "Six weeks is all you get in the age of post-processable velocity",
         "link": "https://www.axios.com/2026/08/09/post-processable-velocity-ai-capability-simplify",
         "pubDate": "2026-08-09T10:00",
@@ -369,12 +375,6 @@
         "title": "Voters face uneven AI deepfake protections",
         "link": "https://www.axios.com/2026/08/07/election-ai-deepfake-rules-states",
         "pubDate": "2026-08-07T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"No escape:\" Inside Rubio's Cuba pressure campaign",
-        "link": "https://www.axios.com/2026/08/07/marco-rubio-cuba-pressure-campaign",
-        "pubDate": "2026-08-07T09:10",
         "feedId": "axios"
       }
     ]
