@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
+        "link": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
+        "pubDate": "2026-08-09T11:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "Reviving a four year old reMarkable 2",
+        "link": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
+        "pubDate": "2026-08-09T11:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Everything You Do Is Being Recorded",
+        "link": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+        "pubDate": "2026-08-09T11:30",
+        "feedId": "hn"
+      },
+      {
         "title": "CSS: The bomb inside your inbox",
         "link": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
         "pubDate": "2026-08-09T10:17",
@@ -12,6 +30,12 @@
         "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
         "link": "https://halfhill.com/byte/1998-12_alpha.html",
         "pubDate": "2026-08-09T10:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Airy – Free, fast, and simple voice content creation",
+        "link": "https://airy.so",
+        "pubDate": "2026-08-09T09:29",
         "feedId": "hn"
       },
       {
@@ -45,21 +69,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
-        "link": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
-        "pubDate": "2026-08-09T03:26",
-        "feedId": "hn"
-      },
-      {
         "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
         "link": "https://marketnow.site/",
         "pubDate": "2026-08-09T03:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "Incentives are for losers",
-        "link": "https://www.experimental-history.com/p/incentives-are-for-losers",
-        "pubDate": "2026-08-09T01:49",
         "feedId": "hn"
       },
       {
@@ -78,18 +90,6 @@
         "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
         "link": "https://os8088.com/",
         "pubDate": "2026-08-08T23:37",
-        "feedId": "hn"
-      },
-      {
-        "title": "Dithered QR Codes",
-        "link": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-        "pubDate": "2026-08-08T23:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "My server is a phone now",
-        "link": "https://seg6.space/posts/phone-server/",
-        "pubDate": "2026-08-08T22:49",
         "feedId": "hn"
       }
     ]
@@ -122,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Counting the days, revisited",
-        "link": "https://dotat.at/@/2026-08-09-rata-die.html",
-        "pubDate": "2026-08-09T02:32",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Rails is done",
         "link": "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
         "pubDate": "2026-08-09T07:14",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Counting the days, revisited",
+        "link": "https://dotat.at/@/2026-08-09-rata-die.html",
+        "pubDate": "2026-08-09T02:32",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Multistack Concatenative Programming Languages",
-        "link": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
-        "pubDate": "2026-08-08T21:11",
+        "title": "Triton: DirectX 11 driver for QEMU",
+        "link": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+        "pubDate": "2026-08-09T02:37",
         "feedId": "lobsters"
       },
       {
-        "title": "robot.villas – RSS-to-Mastodon Bridge",
-        "link": "https://robot.villas",
-        "pubDate": "2026-08-08T18:18",
+        "title": "Multistack Concatenative Programming Languages",
+        "link": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
+        "pubDate": "2026-08-08T21:11",
         "feedId": "lobsters"
       },
       {
@@ -164,15 +164,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "They don’t make ’em like Sublime Text anymore",
-        "link": "https://dbushell.com/2026/08/07/sublime-text/",
-        "pubDate": "2026-08-08T08:57",
+        "title": "robot.villas – RSS-to-Mastodon Bridge",
+        "link": "https://robot.villas",
+        "pubDate": "2026-08-08T18:18",
         "feedId": "lobsters"
       },
       {
-        "title": "Triton: DirectX 11 driver for QEMU",
-        "link": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-        "pubDate": "2026-08-09T02:37",
+        "title": "They don’t make ’em like Sublime Text anymore",
+        "link": "https://dbushell.com/2026/08/07/sublime-text/",
+        "pubDate": "2026-08-08T08:57",
         "feedId": "lobsters"
       },
       {
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
+        "link": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
+        "pubDate": "2026-08-09T11:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
         "link": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
@@ -274,12 +280,6 @@
         "title": "ByteDance trains massive AI model in bid to rival Anthropic",
         "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
         "pubDate": "2026-08-07T13:29",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "The world's biggest solar telescope caught vortexes on the Sun's surface",
-        "link": "https://arstechnica.com/science/2026/08/the-worlds-biggest-solar-telescope-caught-vortexes-on-the-suns-surface/",
-        "pubDate": "2026-08-07T13:20",
         "feedId": "arstechnica"
       }
     ]
