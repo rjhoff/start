@@ -3,6 +3,48 @@
     "id": "hn",
     "items": [
       {
+        "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
+        "link": "https://os8088.com/",
+        "pubDate": "2026-08-08T23:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal",
+        "link": "https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal",
+        "pubDate": "2026-08-08T23:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "Depression has tripled in the last 15 years. Arthur Brooks about the cause",
+        "link": "https://bigthink.com/series/full-interview/meaning-crisis-brooks/",
+        "pubDate": "2026-08-08T23:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Dithered QR Codes",
+        "link": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+        "pubDate": "2026-08-08T23:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "My server is a phone now",
+        "link": "https://seg6.space/posts/phone-server/",
+        "pubDate": "2026-08-08T22:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "Should you stop cracking your knuckles?",
+        "link": "https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles",
+        "pubDate": "2026-08-08T22:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
+        "link": "https://shopify.engineering/scaling-inventory-reservations",
+        "pubDate": "2026-08-08T22:32",
+        "feedId": "hn"
+      },
+      {
         "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
         "link": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
         "pubDate": "2026-08-08T21:07",
@@ -21,7 +63,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+        "title": "Danish high schoolers will have to verbally defend written assignments",
         "link": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
         "pubDate": "2026-08-08T18:09",
         "feedId": "hn"
@@ -30,18 +72,6 @@
         "title": "TinySol, a tiny solitaire game for DOS",
         "link": "https://classicbits.net/coding-and-software/my-software/monosol/",
         "pubDate": "2026-08-08T17:42",
-        "feedId": "hn"
-      },
-      {
-        "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
-        "link": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
-        "pubDate": "2026-08-08T17:27",
-        "feedId": "hn"
-      },
-      {
-        "title": "LinkedIn Feed Blocker",
-        "link": "https://github.com/andrewpollack/linkedin-feed-blocker",
-        "pubDate": "2026-08-08T16:49",
         "feedId": "hn"
       },
       {
@@ -60,36 +90,6 @@
         "title": "Message your other Claude Code sessions",
         "link": "https://code.claude.com/docs/en/cross-session-messaging",
         "pubDate": "2026-08-08T15:34",
-        "feedId": "hn"
-      },
-      {
-        "title": "“Code was never the hard part” is an insult to all programmers",
-        "link": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-        "pubDate": "2026-08-08T14:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "Triton: DirectX 11 Driver for QEMU",
-        "link": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-        "pubDate": "2026-08-08T13:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "Voyager 1 FDS Computer Emulator",
-        "link": "https://zaneham.github.io/voyager-fds-emulator/",
-        "pubDate": "2026-08-08T13:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "A domain can now say it is for sale, in DNS",
-        "link": "https://specification.website/spec/foundations/for-sale-dns/",
-        "pubDate": "2026-08-08T13:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
-        "link": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
-        "pubDate": "2026-08-08T12:31",
         "feedId": "hn"
       }
     ]
@@ -122,21 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Am I the problem? Interviewing another team to find out",
-        "link": "https://www.macchaffee.com/blog/2026/am-i-the-problem/",
-        "pubDate": "2026-08-07T19:27",
-        "feedId": "lobsters"
-      },
-      {
         "title": "robot.villas – RSS-to-Mastodon Bridge",
         "link": "https://robot.villas",
         "pubDate": "2026-08-08T18:18",
         "feedId": "lobsters"
       },
       {
-        "title": "Systemd Dynamic Users (2020)",
-        "link": "https://ethulhu.co.uk/systemd-dynamicuser",
-        "pubDate": "2026-08-08T18:52",
+        "title": "Am I the problem? Interviewing another team to find out",
+        "link": "https://www.macchaffee.com/blog/2026/am-i-the-problem/",
+        "pubDate": "2026-08-07T19:27",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Amiga August 2026 Update",
-        "link": "https://amiga.com/news/20260804-amiga-update",
-        "pubDate": "2026-08-08T13:43",
+        "title": "Systemd Dynamic Users (2020)",
+        "link": "https://ethulhu.co.uk/systemd-dynamicuser",
+        "pubDate": "2026-08-08T18:52",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +152,39 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Program images and portable Scheme backends for Jolt",
-        "link": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
-        "pubDate": "2026-08-08T14:12",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "‘Farewell, Etaoin Shrdlu’",
-        "link": "https://archive.org/details/FarewellEtaoinShrdlu",
-        "pubDate": "2026-08-08T04:45",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "faaah (Filesystem As An AI Handler)",
-        "link": "https://github.com/sebastiancarlos/faaah",
-        "pubDate": "2026-08-08T23:07",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Assembly Hall of Shame: Racing to the bottom of CPU performance",
-        "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-        "pubDate": "2026-08-07T20:29",
+        "title": "Amiga August 2026 Update",
+        "link": "https://amiga.com/news/20260804-amiga-update",
+        "pubDate": "2026-08-08T13:43",
         "feedId": "lobsters"
       },
       {
         "title": "OpenSSH Key Structure Guide",
         "link": "https://sshref.dev/",
         "pubDate": "2026-08-08T18:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Program images and portable Scheme backends for Jolt",
+        "link": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
+        "pubDate": "2026-08-08T14:12",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Multistack Concatenative Programming Languages",
+        "link": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
+        "pubDate": "2026-08-08T21:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Revision Prompting improves industrial LLM processes",
+        "link": "https://revisionprompting.info/",
+        "pubDate": "2026-08-08T20:20",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The FastLanes Unified Transport Layout",
+        "link": "https://blog.dave.tf/post/fastlanes-utl/",
+        "pubDate": "2026-08-08T23:56",
         "feedId": "lobsters"
       }
     ]
