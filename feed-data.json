@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+        "link": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
+        "pubDate": "2026-08-09T08:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "There Are Magic Hexagons of Every Order",
+        "link": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+        "pubDate": "2026-08-09T07:19",
+        "feedId": "hn"
+      },
+      {
         "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
         "link": "https://github.com/jmarshall23/msword",
         "pubDate": "2026-08-09T05:23",
@@ -79,18 +91,6 @@
         "link": "https://shopify.engineering/scaling-inventory-reservations",
         "pubDate": "2026-08-08T22:32",
         "feedId": "hn"
-      },
-      {
-        "title": "Open-source interactive map for the Aug 12 total solar eclipse",
-        "link": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
-        "pubDate": "2026-08-08T19:38",
-        "feedId": "hn"
-      },
-      {
-        "title": "Fastmail offers EU data region",
-        "link": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-        "pubDate": "2026-08-08T16:04",
-        "feedId": "hn"
       }
     ]
   },
@@ -116,15 +116,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "The Nixpkgs core team has disbanded",
+        "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+        "pubDate": "2026-08-08T02:33",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Counting the days, revisited",
         "link": "https://dotat.at/@/2026-08-09-rata-die.html",
         "pubDate": "2026-08-09T02:32",
         "feedId": "lobsters"
       },
       {
-        "title": "The Nixpkgs core team has disbanded",
-        "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-        "pubDate": "2026-08-08T02:33",
+        "title": "Tracking down a Zsh history data loss bug",
+        "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+        "pubDate": "2026-08-09T08:16",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "robot.villas – RSS-to-Mastodon Bridge",
-        "link": "https://robot.villas",
-        "pubDate": "2026-08-08T18:18",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Multistack Concatenative Programming Languages",
         "link": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
         "pubDate": "2026-08-08T21:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "robot.villas – RSS-to-Mastodon Bridge",
+        "link": "https://robot.villas",
+        "pubDate": "2026-08-08T18:18",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Rails is done",
+        "link": "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
+        "pubDate": "2026-08-09T07:14",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Soar package manager",
         "link": "https://soar.qaidvoid.dev/",
         "pubDate": "2026-08-08T16:51",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Tracking down a Zsh history data loss bug",
-        "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
-        "pubDate": "2026-08-09T08:16",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "OpenSSH Key Structure Guide",
-        "link": "https://sshref.dev/",
-        "pubDate": "2026-08-08T18:22",
         "feedId": "lobsters"
       }
     ]
