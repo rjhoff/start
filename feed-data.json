@@ -3,9 +3,69 @@
     "id": "hn",
     "items": [
       {
-        "title": "A zero-dependency, ultra-lightweight database time machine for SQLite",
-        "link": "https://github.com/nsrht/time-travel-sqlite-debugger",
-        "pubDate": "2026-08-09T18:59",
+        "title": "Is it all just vapourware?",
+        "link": "https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware",
+        "pubDate": "2026-08-09T21:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
+        "link": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
+        "pubDate": "2026-08-09T21:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "New Zealand lost its music media, and what we're building to replace it",
+        "link": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+        "pubDate": "2026-08-09T20:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "Archival Resource Key (Ark) Alliance",
+        "link": "https://arks.org/",
+        "pubDate": "2026-08-09T20:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Hacker's Renaissance",
+        "link": "https://phrack.org/issues/72/19#article",
+        "pubDate": "2026-08-09T20:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "How not to turn ideologically crazy",
+        "link": "https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn",
+        "pubDate": "2026-08-09T20:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Alphabet Soup, a multiplayer game, build the longest word to win",
+        "link": "https://alphabetsoup.club",
+        "pubDate": "2026-08-09T20:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "Deletes all instances of Microsoft's GDID and prevents minting of new ones",
+        "link": "https://github.com/yegors/deGDID",
+        "pubDate": "2026-08-09T20:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "The tragedy of the commons, AI edition",
+        "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+        "pubDate": "2026-08-09T19:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
+        "link": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
+        "pubDate": "2026-08-09T19:20",
+        "feedId": "hn"
+      },
+      {
+        "title": "How I use LLMs to learn complex topics",
+        "link": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+        "pubDate": "2026-08-09T19:16",
         "feedId": "hn"
       },
       {
@@ -21,75 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "If experience is the goal, then you always win",
-        "link": "https://www.startingfromnix.com/p/if-experience-is-the-goal-then-you",
-        "pubDate": "2026-08-09T18:42",
+        "title": "I Made Tinnitus My Friend (Then It Disappeared)",
+        "link": "https://mynoise.net/vlog.php?ep=20260803",
+        "pubDate": "2026-08-09T18:41",
         "feedId": "hn"
       },
       {
         "title": "OpenChamber: An Agentic Development Environment",
         "link": "https://openchamber.dev/",
         "pubDate": "2026-08-09T17:27",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ask HN: What are you working on? (August 2026)",
-        "link": "https://news.ycombinator.com/item?id=49233423",
-        "pubDate": "2026-08-09T17:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon",
-        "link": "https://frequal.com/aptera/ProductionImminent.html",
-        "pubDate": "2026-08-09T17:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
-        "link": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
-        "pubDate": "2026-08-09T17:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "FCC moves to ban Lidar-equipped foreign drones from US",
-        "link": "https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows",
-        "pubDate": "2026-08-09T16:24",
-        "feedId": "hn"
-      },
-      {
-        "title": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
-        "link": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/",
-        "pubDate": "2026-08-09T16:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "UnYOLO: Agent credential broker and policy engine for your GitHub account",
-        "link": "https://unyolo.io/",
-        "pubDate": "2026-08-09T15:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "Every fast write moves work somewhere else",
-        "link": "https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/",
-        "pubDate": "2026-08-09T15:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "Analyzing data from Silicon Valley ventures and founders prosecuted for fraud",
-        "link": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
-        "pubDate": "2026-08-09T15:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-        "link": "https://github.com/eighttrigrams/us-vs-them",
-        "pubDate": "2026-08-09T15:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "Silicon Valley misreads science fiction and undermines democracy",
-        "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-        "pubDate": "2026-08-09T15:18",
         "feedId": "hn"
       }
     ]
@@ -116,6 +116,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "IRC technology news from the first half of 2026",
+        "link": "https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/",
+        "pubDate": "2026-08-09T17:41",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Relying on Go",
         "link": "https://antonz.org/relying-on-go/",
         "pubDate": "2026-08-09T14:43",
@@ -125,12 +131,6 @@
         "title": "Dithered QR codes",
         "link": "https://www.andrewt.net/dithered-qr-codes/wtf/",
         "pubDate": "2026-08-09T02:28",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "IRC technology news from the first half of 2026",
-        "link": "https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/",
-        "pubDate": "2026-08-09T17:41",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "some software talks i like",
-        "link": "https://char.lt/blog/2026/08/talks-i-like/",
-        "pubDate": "2026-08-08T13:48",
-        "feedId": "lobsters"
-      },
-      {
         "title": "I think the vibecoding tag has gotten out of hand",
         "link": "https://lobste.rs/s/he9j7y/i_think_vibecoding_tag_has_gotten_out_hand",
         "pubDate": "2026-08-09T15:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "some software talks i like",
+        "link": "https://char.lt/blog/2026/08/talks-i-like/",
+        "pubDate": "2026-08-08T13:48",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "ddisasm: A fast and accurate disassembler",
-        "link": "https://github.com/GrammaTech/ddisasm",
-        "pubDate": "2026-08-09T11:28",
+        "title": "Port the Enlightenment desktop environment to NetBSD",
+        "link": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
+        "pubDate": "2026-08-09T06:50",
         "feedId": "lobsters"
       },
       {
-        "title": "What Software is Made Of (2015)",
-        "link": "https://siderea.dreamwidth.org/1219758.html",
-        "pubDate": "2026-08-09T12:26",
+        "title": "Getting off the Modernization Treadmill",
+        "link": "https://www.youtube.com/watch?v=vRJVw8Di-4s",
+        "pubDate": "2026-08-09T15:32",
         "feedId": "lobsters"
       }
     ]
