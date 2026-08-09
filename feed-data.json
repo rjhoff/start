@@ -27,9 +27,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Illinois just told every operating system to start reporting your kid's age",
-        "link": "https://itsfoss.com/news/illinois-age-verification-bill/",
-        "pubDate": "2026-08-09T04:03",
+        "title": "Why MySpace fans want it back as relaunch hinted",
+        "link": "https://www.bbc.com/news/articles/c4g64152v71o",
+        "pubDate": "2026-08-09T04:24",
         "feedId": "hn"
       },
       {
@@ -98,21 +98,33 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "some software talks i like",
-        "link": "https://char.lt/blog/2026/08/talks-i-like/",
-        "pubDate": "2026-08-08T13:48",
-        "feedId": "lobsters"
-      },
-      {
         "title": "\"Code was never the hard part\" is an insult to all programmers",
         "link": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
         "pubDate": "2026-08-08T19:23",
         "feedId": "lobsters"
       },
       {
+        "title": "Tracking down a Zsh history data loss bug",
+        "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+        "pubDate": "2026-08-09T08:16",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "some software talks i like",
+        "link": "https://char.lt/blog/2026/08/talks-i-like/",
+        "pubDate": "2026-08-08T13:48",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Dithered QR codes",
         "link": "https://www.andrewt.net/dithered-qr-codes/wtf/",
         "pubDate": "2026-08-09T02:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "my server is a phone now",
+        "link": "https://seg6.space/posts/phone-server/",
+        "pubDate": "2026-08-09T03:39",
         "feedId": "lobsters"
       },
       {
@@ -128,15 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Tracking down a Zsh history data loss bug",
-        "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
-        "pubDate": "2026-08-09T08:16",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "my server is a phone now",
-        "link": "https://seg6.space/posts/phone-server/",
-        "pubDate": "2026-08-09T03:39",
+        "title": "Rails is done",
+        "link": "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
+        "pubDate": "2026-08-09T07:14",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "They don’t make ’em like Sublime Text anymore",
-        "link": "https://dbushell.com/2026/08/07/sublime-text/",
-        "pubDate": "2026-08-08T08:57",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Systemd Dynamic Users (2020)",
         "link": "https://ethulhu.co.uk/systemd-dynamicuser",
         "pubDate": "2026-08-08T18:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "They don’t make ’em like Sublime Text anymore",
+        "link": "https://dbushell.com/2026/08/07/sublime-text/",
+        "pubDate": "2026-08-08T08:57",
         "feedId": "lobsters"
       },
       {
@@ -173,12 +179,6 @@
         "title": "Am I the problem? Interviewing another team to find out",
         "link": "https://www.macchaffee.com/blog/2026/am-i-the-problem/",
         "pubDate": "2026-08-07T19:27",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Rails is done",
-        "link": "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
-        "pubDate": "2026-08-09T07:14",
         "feedId": "lobsters"
       },
       {
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Six weeks is all you get in the age of post-processable velocity",
+        "link": "https://www.axios.com/2026/08/09/post-processable-velocity-ai-capability-simplify",
+        "pubDate": "2026-08-09T10:00",
+        "feedId": "axios"
+      },
+      {
         "title": "GOP may be stuck with Rep. Max Miller in Ohio",
         "link": "https://www.axios.com/2026/08/09/ohio-gop-max-miller-7th-district-moreno-2026",
         "pubDate": "2026-08-09T06:43",
@@ -369,12 +375,6 @@
         "title": "\"No escape:\" Inside Rubio's Cuba pressure campaign",
         "link": "https://www.axios.com/2026/08/07/marco-rubio-cuba-pressure-campaign",
         "pubDate": "2026-08-07T09:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "Why Max Miller is staying in (for now)",
-        "link": "https://www.axios.com/2026/08/06/max-miller-republicans-bernie-moreno-trump-ohio",
-        "pubDate": "2026-08-06T23:41",
         "feedId": "axios"
       }
     ]
