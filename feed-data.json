@@ -9,9 +9,9 @@
         "feedId": "hn"
       },
       {
-        "title": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-        "link": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
-        "pubDate": "2026-08-09T21:01",
+        "title": "Tuxedo No. 2 – Cocktail recipes",
+        "link": "https://tuxedono2.com",
+        "pubDate": "2026-08-09T20:48",
         "feedId": "hn"
       },
       {
@@ -21,7 +21,13 @@
         "feedId": "hn"
       },
       {
-        "title": "Archival Resource Key (Ark) Alliance",
+        "title": "The climate benefits of retiring an operational combustion engine vehicle",
+        "link": "https://www.science.org/doi/10.1126/science.adv5441",
+        "pubDate": "2026-08-09T20:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "Archival Resource Key (ARK) Alliance",
         "link": "https://arks.org/",
         "pubDate": "2026-08-09T20:28",
         "feedId": "hn"
@@ -33,7 +39,7 @@
         "feedId": "hn"
       },
       {
-        "title": "How not to turn ideologically crazy",
+        "title": "The main way I've seen people turn ideologically crazy (2025)",
         "link": "https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn",
         "pubDate": "2026-08-09T20:15",
         "feedId": "hn"
@@ -57,6 +63,12 @@
         "feedId": "hn"
       },
       {
+        "title": "Two wheels, a few tradeoffs, and gas prices",
+        "link": "https://blog.raed.dev/posts/motocycle/",
+        "pubDate": "2026-08-09T19:41",
+        "feedId": "hn"
+      },
+      {
         "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
         "link": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
         "pubDate": "2026-08-09T19:20",
@@ -69,19 +81,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Plug-In Solar Panels Starting to Sprout in U.S. Backyards",
-        "link": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html",
-        "pubDate": "2026-08-09T18:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "Saying No",
-        "link": "https://rozumem.xyz/posts/19",
-        "pubDate": "2026-08-09T18:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "I Made Tinnitus My Friend (Then It Disappeared)",
+        "title": "I made tinnitus my friend, then it disappeared [video]",
         "link": "https://mynoise.net/vlog.php?ep=20260803",
         "pubDate": "2026-08-09T18:41",
         "feedId": "hn"
@@ -134,6 +134,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "I think the vibecoding tag has gotten out of hand",
+        "link": "https://lobste.rs/s/he9j7y/i_think_vibecoding_tag_has_gotten_out_hand",
+        "pubDate": "2026-08-09T15:37",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Rails is done",
         "link": "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
         "pubDate": "2026-08-09T07:14",
@@ -143,12 +149,6 @@
         "title": "\"Code was never the hard part\" is an insult to all programmers",
         "link": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
         "pubDate": "2026-08-08T19:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I think the vibecoding tag has gotten out of hand",
-        "link": "https://lobste.rs/s/he9j7y/i_think_vibecoding_tag_has_gotten_out_hand",
-        "pubDate": "2026-08-09T15:37",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Getting off the Modernization Treadmill",
-        "link": "https://www.youtube.com/watch?v=vRJVw8Di-4s",
-        "pubDate": "2026-08-09T15:32",
+        "title": "I got an email about resistance",
+        "link": "https://www.seangoedecke.com/i-got-an-email-about-resistance/",
+        "pubDate": "2026-08-09T22:14",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "Bernie's revolution gets a test run for 2028 in Michigan and Wisconsin",
+        "link": "https://www.axios.com/2026/08/09/democrats-populists-michigan-wisconsin-2028-test",
+        "pubDate": "2026-08-09T21:50",
+        "feedId": "axios"
+      },
+      {
+        "title": "Pro-science group urges Mark Kelly to run for president in 2028",
+        "link": "https://www.axios.com/2026/08/09/group-promoting-science-urges-kelly-to-run-for-president",
+        "pubDate": "2026-08-09T21:40",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump to Axios: \"We are low keying it\" with Iran",
         "link": "https://www.axios.com/2026/08/09/trump-iran-interview",
         "pubDate": "2026-08-09T16:55",
@@ -297,12 +309,6 @@
         "title": "AOC is keeping two very big options open for 2028",
         "link": "https://www.axios.com/2026/08/09/aoc-2028-president-schumer-senate",
         "pubDate": "2026-08-09T14:25",
-        "feedId": "axios"
-      },
-      {
-        "title": "Six weeks is all you get in the age of post-processable velocity",
-        "link": "https://www.axios.com/2026/08/09/post-processable-velocity-ai-capability-simplify",
-        "pubDate": "2026-08-09T10:00",
         "feedId": "axios"
       },
       {
@@ -369,12 +375,6 @@
         "title": "Trump won't drop war, tariffs or monuments to save the GOP",
         "link": "https://www.axios.com/2026/08/07/trump-iran-war-tariffs-monuments-unpopular",
         "pubDate": "2026-08-07T09:34",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: GOP plans socialism telethon at midterm convention",
-        "link": "https://www.axios.com/2026/08/07/gop-midterm-convention-gameplan",
-        "pubDate": "2026-08-07T09:27",
         "feedId": "axios"
       }
     ]
