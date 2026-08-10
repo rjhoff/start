@@ -3,9 +3,15 @@
     "id": "hn",
     "items": [
       {
-        "title": "Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)",
-        "link": "https://www.nber.org/papers/w35560",
-        "pubDate": "2026-08-10T04:06",
+        "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+        "link": "https://www.docker.com/products/docker-sandboxes/",
+        "pubDate": "2026-08-10T06:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Philippines' big offshoring industry is growing despite AI",
+        "link": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
+        "pubDate": "2026-08-10T04:35",
         "feedId": "hn"
       },
       {
@@ -45,12 +51,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Japanese court overturns Red RAW video patent",
-        "link": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
-        "pubDate": "2026-08-10T00:36",
-        "feedId": "hn"
-      },
-      {
         "title": "The Ambition Project",
         "link": "https://www.betonit.ai/p/the-ambition-project",
         "pubDate": "2026-08-09T23:36",
@@ -81,15 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "OpenChamber: An Agentic Development Environment",
-        "link": "https://openchamber.dev/",
-        "pubDate": "2026-08-09T17:27",
+        "title": "I made tinnitus my friend, then it disappeared [video]",
+        "link": "https://mynoise.net/vlog.php?ep=20260803",
+        "pubDate": "2026-08-09T18:41",
         "feedId": "hn"
       },
       {
-        "title": "Ask HN: What are you working on? (August 2026)",
-        "link": "https://news.ycombinator.com/item?id=49233423",
-        "pubDate": "2026-08-09T17:23",
+        "title": "OpenChamber: An Agentic Development Environment",
+        "link": "https://openchamber.dev/",
+        "pubDate": "2026-08-09T17:27",
         "feedId": "hn"
       }
     ]
@@ -110,6 +110,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "nixpkgs-multiverse: every version that ever existed",
+        "link": "https://fzakaria.com/2026/08/09/nixpkgs-multiverse-every-version-that-ever-existed",
+        "pubDate": "2026-08-09T23:06",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Mea Culpa - Dark Hours",
         "link": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
         "pubDate": "2026-08-09T15:44",
@@ -122,9 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "nixpkgs-multiverse: every version that ever existed",
-        "link": "https://fzakaria.com/2026/08/09/nixpkgs-multiverse-every-version-that-ever-existed",
-        "pubDate": "2026-08-09T23:06",
+        "title": "Toggles Considered Harmful",
+        "link": "https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/",
+        "pubDate": "2026-08-10T08:04",
         "feedId": "lobsters"
       },
       {
@@ -152,27 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Rails is done",
-        "link": "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
-        "pubDate": "2026-08-09T07:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "\"Code was never the hard part\" is an insult to all programmers",
-        "link": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-        "pubDate": "2026-08-08T19:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "my server is a phone now",
-        "link": "https://seg6.space/posts/phone-server/",
-        "pubDate": "2026-08-09T03:39",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "SQLite with a Fine-Toothed Comb (2016)",
-        "link": "https://blog.regehr.org/archives/1292",
-        "pubDate": "2026-08-09T22:07",
+        "title": "Light/Dark/System Theme Setting Design",
+        "link": "https://vale.rocks/micros/20260810-0330",
+        "pubDate": "2026-08-10T07:43",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Commit message test plans",
-        "link": "https://blog.waleedkhan.name/commit-message-test-plans/",
-        "pubDate": "2026-08-09T18:38",
+        "title": "IBM i (OS/400) The Database Operating System",
+        "link": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
+        "pubDate": "2026-08-10T04:13",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Undo/redo systems and collaborative editing (2024)",
+        "link": "https://dev.to/isaachagoel/you-dont-know-undoredo-4hol",
+        "pubDate": "2026-08-10T03:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Rails is done",
+        "link": "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
+        "pubDate": "2026-08-09T07:14",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "Exclusive: Sanders calls for AI development pause",
+        "link": "https://www.axios.com/2026/08/10/sanders-ai-development-pause",
+        "pubDate": "2026-08-10T09:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "How Kevin Warsh is rewiring the Fed",
+        "link": "https://www.axios.com/2026/08/10/kevin-warsh-fed-economy-rates-ai",
+        "pubDate": "2026-08-10T09:00",
+        "feedId": "axios"
+      },
+      {
         "title": "Bernie's revolution gets a test run for 2028 in Michigan and Wisconsin",
         "link": "https://www.axios.com/2026/08/09/democrats-populists-michigan-wisconsin-2028-test",
         "pubDate": "2026-08-09T21:50",
@@ -363,18 +375,6 @@
         "title": "Sen. Cassidy throws Blanche a lifeline for attorney general nomination",
         "link": "https://www.axios.com/2026/08/07/cassidy-blanche-attorney-general",
         "pubDate": "2026-08-07T15:23",
-        "feedId": "axios"
-      },
-      {
-        "title": "Murkowski will oppose Blanche, threatening his confirmation",
-        "link": "https://www.axios.com/2026/08/07/blanche-murkowski-ag-senate-confirmation",
-        "pubDate": "2026-08-07T11:06",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump won't drop war, tariffs or monuments to save the GOP",
-        "link": "https://www.axios.com/2026/08/07/trump-iran-war-tariffs-monuments-unpopular",
-        "pubDate": "2026-08-07T09:34",
         "feedId": "axios"
       }
     ]
