@@ -3,6 +3,42 @@
     "id": "hn",
     "items": [
       {
+        "title": "Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)",
+        "link": "https://www.nber.org/papers/w35560",
+        "pubDate": "2026-08-10T04:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Auto mode is now the default in Claude Code",
+        "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
+        "pubDate": "2026-08-10T03:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+        "link": "https://www.whodunnitai.com/",
+        "pubDate": "2026-08-10T03:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+        "link": "https://github.com/shinyquagsire23/Klepton",
+        "pubDate": "2026-08-10T03:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "Turn satellite imagery into a paper globe you fold yourself",
+        "link": "https://foldingglobes.com/",
+        "pubDate": "2026-08-10T02:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "What Happened to HackerOne?",
+        "link": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+        "pubDate": "2026-08-10T02:23",
+        "feedId": "hn"
+      },
+      {
         "title": "How We Pushed CDC into Postgres",
         "link": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
         "pubDate": "2026-08-10T01:01",
@@ -15,21 +51,9 @@
         "feedId": "hn"
       },
       {
-        "title": "To Recruit Teachers, School Districts Are Building Homes",
-        "link": "https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html",
-        "pubDate": "2026-08-09T22:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-        "link": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
-        "pubDate": "2026-08-09T21:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "Georgia police officers fired after Flock camera misuse",
-        "link": "https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/",
-        "pubDate": "2026-08-09T21:20",
+        "title": "The Ambition Project",
+        "link": "https://www.betonit.ai/p/the-ambition-project",
+        "pubDate": "2026-08-09T23:36",
         "feedId": "hn"
       },
       {
@@ -45,18 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "The Hacker's Renaissance",
-        "link": "https://phrack.org/issues/72/19#article",
-        "pubDate": "2026-08-09T20:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Alphabet Soup, a multiplayer game, build the longest word to win",
-        "link": "https://alphabetsoup.club",
-        "pubDate": "2026-08-09T20:15",
-        "feedId": "hn"
-      },
-      {
         "title": "The tragedy of the commons, AI edition",
         "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
         "pubDate": "2026-08-09T19:43",
@@ -69,12 +81,6 @@
         "feedId": "hn"
       },
       {
-        "title": "I made tinnitus my friend, then it disappeared [video]",
-        "link": "https://mynoise.net/vlog.php?ep=20260803",
-        "pubDate": "2026-08-09T18:41",
-        "feedId": "hn"
-      },
-      {
         "title": "OpenChamber: An Agentic Development Environment",
         "link": "https://openchamber.dev/",
         "pubDate": "2026-08-09T17:27",
@@ -84,12 +90,6 @@
         "title": "Ask HN: What are you working on? (August 2026)",
         "link": "https://news.ycombinator.com/item?id=49233423",
         "pubDate": "2026-08-09T17:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-        "link": "https://github.com/eighttrigrams/us-vs-them",
-        "pubDate": "2026-08-09T15:25",
         "feedId": "hn"
       }
     ]
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Mea Culpa - Dark Hours",
-        "link": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-        "pubDate": "2026-08-09T15:44",
-        "feedId": "lobsters"
-      },
-      {
         "title": "IRC technology news from the first half of 2026",
         "link": "https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/",
         "pubDate": "2026-08-09T17:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Mea Culpa - Dark Hours",
+        "link": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+        "pubDate": "2026-08-09T15:44",
         "feedId": "lobsters"
       },
       {
@@ -122,9 +122,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "nixpkgs-multiverse: every version that ever existed",
+        "link": "https://fzakaria.com/2026/08/09/nixpkgs-multiverse-every-version-that-ever-existed",
+        "pubDate": "2026-08-09T23:06",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Relying on Go",
         "link": "https://antonz.org/relying-on-go/",
         "pubDate": "2026-08-09T14:43",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I got an email about resistance",
+        "link": "https://www.seangoedecke.com/i-got-an-email-about-resistance/",
+        "pubDate": "2026-08-09T22:14",
         "feedId": "lobsters"
       },
       {
@@ -140,18 +152,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "nixpkgs-multiverse: every version that ever existed",
-        "link": "https://fzakaria.com/2026/08/09/nixpkgs-multiverse-every-version-that-ever-existed",
-        "pubDate": "2026-08-09T23:06",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I got an email about resistance",
-        "link": "https://www.seangoedecke.com/i-got-an-email-about-resistance/",
-        "pubDate": "2026-08-09T22:14",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Rails is done",
         "link": "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
         "pubDate": "2026-08-09T07:14",
@@ -164,27 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "SQLite with a Fine-Toothed Comb (2016)",
-        "link": "https://blog.regehr.org/archives/1292",
-        "pubDate": "2026-08-09T22:07",
-        "feedId": "lobsters"
-      },
-      {
         "title": "my server is a phone now",
         "link": "https://seg6.space/posts/phone-server/",
         "pubDate": "2026-08-09T03:39",
         "feedId": "lobsters"
       },
       {
-        "title": "Commit message test plans",
-        "link": "https://blog.waleedkhan.name/commit-message-test-plans/",
-        "pubDate": "2026-08-09T18:38",
+        "title": "SQLite with a Fine-Toothed Comb (2016)",
+        "link": "https://blog.regehr.org/archives/1292",
+        "pubDate": "2026-08-09T22:07",
         "feedId": "lobsters"
       },
       {
-        "title": "some software talks i like",
-        "link": "https://char.lt/blog/2026/08/talks-i-like/",
-        "pubDate": "2026-08-08T13:48",
+        "title": "Profile-guided optimization in Go",
+        "link": "https://lemire.me/blog/2026/08/09/profile-guided-optimization-in-go/",
+        "pubDate": "2026-08-10T00:58",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Commit message test plans",
+        "link": "https://blog.waleedkhan.name/commit-message-test-plans/",
+        "pubDate": "2026-08-09T18:38",
         "feedId": "lobsters"
       }
     ]
