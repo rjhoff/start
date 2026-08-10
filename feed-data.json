@@ -3,9 +3,33 @@
     "id": "hn",
     "items": [
       {
-        "title": "Is it all just vapourware?",
-        "link": "https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware",
-        "pubDate": "2026-08-09T21:03",
+        "title": "How We Pushed CDC into Postgres",
+        "link": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+        "pubDate": "2026-08-10T01:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Japanese court overturns Red RAW video patent",
+        "link": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
+        "pubDate": "2026-08-10T00:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "To Recruit Teachers, School Districts Are Building Homes",
+        "link": "https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html",
+        "pubDate": "2026-08-09T22:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
+        "link": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
+        "pubDate": "2026-08-09T21:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "Georgia police officers fired after Flock camera misuse",
+        "link": "https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/",
+        "pubDate": "2026-08-09T21:20",
         "feedId": "hn"
       },
       {
@@ -21,27 +45,9 @@
         "feedId": "hn"
       },
       {
-        "title": "The climate benefits of retiring an operational combustion engine vehicle",
-        "link": "https://www.science.org/doi/10.1126/science.adv5441",
-        "pubDate": "2026-08-09T20:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "Archival Resource Key (ARK) Alliance",
-        "link": "https://arks.org/",
-        "pubDate": "2026-08-09T20:28",
-        "feedId": "hn"
-      },
-      {
         "title": "The Hacker's Renaissance",
         "link": "https://phrack.org/issues/72/19#article",
         "pubDate": "2026-08-09T20:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "The main way I've seen people turn ideologically crazy (2025)",
-        "link": "https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn",
-        "pubDate": "2026-08-09T20:15",
         "feedId": "hn"
       },
       {
@@ -51,27 +57,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Deletes all instances of Microsoft's GDID and prevents minting of new ones",
-        "link": "https://github.com/yegors/deGDID",
-        "pubDate": "2026-08-09T20:06",
-        "feedId": "hn"
-      },
-      {
         "title": "The tragedy of the commons, AI edition",
         "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
         "pubDate": "2026-08-09T19:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "Two wheels, a few tradeoffs, and gas prices",
-        "link": "https://blog.raed.dev/posts/motocycle/",
-        "pubDate": "2026-08-09T19:41",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
-        "link": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
-        "pubDate": "2026-08-09T19:20",
         "feedId": "hn"
       },
       {
@@ -91,6 +79,18 @@
         "link": "https://openchamber.dev/",
         "pubDate": "2026-08-09T17:27",
         "feedId": "hn"
+      },
+      {
+        "title": "Ask HN: What are you working on? (August 2026)",
+        "link": "https://news.ycombinator.com/item?id=49233423",
+        "pubDate": "2026-08-09T17:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+        "link": "https://github.com/eighttrigrams/us-vs-them",
+        "pubDate": "2026-08-09T15:25",
+        "feedId": "hn"
       }
     ]
   },
@@ -104,12 +104,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Tracking down a Zsh history data loss bug",
-        "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
-        "pubDate": "2026-08-09T08:16",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Mea Culpa - Dark Hours",
         "link": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
         "pubDate": "2026-08-09T15:44",
@@ -119,6 +113,12 @@
         "title": "IRC technology news from the first half of 2026",
         "link": "https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/",
         "pubDate": "2026-08-09T17:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Tracking down a Zsh history data loss bug",
+        "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+        "pubDate": "2026-08-09T08:16",
         "feedId": "lobsters"
       },
       {
@@ -140,6 +140,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "nixpkgs-multiverse: every version that ever existed",
+        "link": "https://fzakaria.com/2026/08/09/nixpkgs-multiverse-every-version-that-ever-existed",
+        "pubDate": "2026-08-09T23:06",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I got an email about resistance",
+        "link": "https://www.seangoedecke.com/i-got-an-email-about-resistance/",
+        "pubDate": "2026-08-09T22:14",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Rails is done",
         "link": "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
         "pubDate": "2026-08-09T07:14",
@@ -152,9 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "some software talks i like",
-        "link": "https://char.lt/blog/2026/08/talks-i-like/",
-        "pubDate": "2026-08-08T13:48",
+        "title": "SQLite with a Fine-Toothed Comb (2016)",
+        "link": "https://blog.regehr.org/archives/1292",
+        "pubDate": "2026-08-09T22:07",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Counting the days, revisited",
-        "link": "https://dotat.at/@/2026-08-09-rata-die.html",
-        "pubDate": "2026-08-09T02:32",
+        "title": "Commit message test plans",
+        "link": "https://blog.waleedkhan.name/commit-message-test-plans/",
+        "pubDate": "2026-08-09T18:38",
         "feedId": "lobsters"
       },
       {
-        "title": "3G at last",
-        "link": "https://nickvsnetworking.com/3g-at-last/",
-        "pubDate": "2026-08-09T14:07",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Port the Enlightenment desktop environment to NetBSD",
-        "link": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
-        "pubDate": "2026-08-09T06:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I got an email about resistance",
-        "link": "https://www.seangoedecke.com/i-got-an-email-about-resistance/",
-        "pubDate": "2026-08-09T22:14",
+        "title": "some software talks i like",
+        "link": "https://char.lt/blog/2026/08/talks-i-like/",
+        "pubDate": "2026-08-08T13:48",
         "feedId": "lobsters"
       }
     ]
@@ -300,7 +300,7 @@
         "feedId": "axios"
       },
       {
-        "title": "Trump to Axios: \"We are low keying it\" with Iran",
+        "title": "Trump to Axios: \"We are low-keying it\" with Iran",
         "link": "https://www.axios.com/2026/08/09/trump-iran-interview",
         "pubDate": "2026-08-09T16:55",
         "feedId": "axios"
