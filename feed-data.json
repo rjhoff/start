@@ -3,15 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-        "link": "https://www.docker.com/products/docker-sandboxes/",
-        "pubDate": "2026-08-10T06:02",
+        "title": "Meta Muse Glimmer – open weights 30B local coding model",
+        "link": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+        "pubDate": "2026-08-10T10:10",
         "feedId": "hn"
       },
       {
-        "title": "The Philippines' big offshoring industry is growing despite AI",
-        "link": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
-        "pubDate": "2026-08-10T04:35",
+        "title": "Implant – an extension to VS Code that exposes its APIs to coding agents",
+        "link": "https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant",
+        "pubDate": "2026-08-10T09:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+        "link": "https://www.docker.com/products/docker-sandboxes/",
+        "pubDate": "2026-08-10T06:02",
         "feedId": "hn"
       },
       {
@@ -85,18 +91,18 @@
         "link": "https://mynoise.net/vlog.php?ep=20260803",
         "pubDate": "2026-08-09T18:41",
         "feedId": "hn"
-      },
-      {
-        "title": "OpenChamber: An Agentic Development Environment",
-        "link": "https://openchamber.dev/",
-        "pubDate": "2026-08-09T17:27",
-        "feedId": "hn"
       }
     ]
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "Toggles Considered Harmful",
+        "link": "https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/",
+        "pubDate": "2026-08-10T08:04",
+        "feedId": "lobsters"
+      },
       {
         "title": "Who Should Pay For Source Code Availability?",
         "link": "https://kristoff.it/blog/source-code-availability/",
@@ -128,12 +134,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Toggles Considered Harmful",
-        "link": "https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/",
-        "pubDate": "2026-08-10T08:04",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Relying on Go",
         "link": "https://antonz.org/relying-on-go/",
         "pubDate": "2026-08-09T14:43",
@@ -143,6 +143,18 @@
         "title": "I got an email about resistance",
         "link": "https://www.seangoedecke.com/i-got-an-email-about-resistance/",
         "pubDate": "2026-08-09T22:14",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Light/Dark/System Theme Setting Design",
+        "link": "https://vale.rocks/micros/20260810-0330",
+        "pubDate": "2026-08-10T07:43",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How do programming languages impact token efficiency and correctness?",
+        "link": "https://danluu.com/pl-tokens/",
+        "pubDate": "2026-08-10T07:47",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +170,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Light/Dark/System Theme Setting Design",
-        "link": "https://vale.rocks/micros/20260810-0330",
-        "pubDate": "2026-08-10T07:43",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Profile-guided optimization in Go",
-        "link": "https://lemire.me/blog/2026/08/09/profile-guided-optimization-in-go/",
-        "pubDate": "2026-08-10T00:58",
+        "title": "Firefox Containers Preview",
+        "link": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+        "pubDate": "2026-08-10T09:37",
         "feedId": "lobsters"
       },
       {
@@ -179,12 +185,6 @@
         "title": "Undo/redo systems and collaborative editing (2024)",
         "link": "https://dev.to/isaachagoel/you-dont-know-undoredo-4hol",
         "pubDate": "2026-08-10T03:40",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Rails is done",
-        "link": "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
-        "pubDate": "2026-08-09T07:14",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "The Fed's new chapter runs through Walmart's ex-CEO",
+        "link": "https://www.axios.com/2026/08/10/federal-reserve-kevin-warsh-doug-mcmillon-walmart",
+        "pubDate": "2026-08-10T10:31",
+        "feedId": "axios"
+      },
+      {
+        "title": "Zuckerberg: AI's biggest risk is one entity with too much control",
+        "link": "https://www.axios.com/2026/08/10/zuckerberg-ai-manifesto-meta",
+        "pubDate": "2026-08-10T10:03",
+        "feedId": "axios"
+      },
+      {
         "title": "Exclusive: Sanders calls for AI development pause",
         "link": "https://www.axios.com/2026/08/10/sanders-ai-development-pause",
         "pubDate": "2026-08-10T09:00",
@@ -363,18 +375,6 @@
         "title": "White House revives unprecedented effort to remove Fed governor Lisa Cook",
         "link": "https://www.axios.com/2026/08/07/trump-white-house-fed-cook",
         "pubDate": "2026-08-07T18:40",
-        "feedId": "axios"
-      },
-      {
-        "title": "Summer jobs report is a double whammy for workers",
-        "link": "https://www.axios.com/2026/08/07/bls-jobs-report-rates-july",
-        "pubDate": "2026-08-07T15:55",
-        "feedId": "axios"
-      },
-      {
-        "title": "Sen. Cassidy throws Blanche a lifeline for attorney general nomination",
-        "link": "https://www.axios.com/2026/08/07/cassidy-blanche-attorney-general",
-        "pubDate": "2026-08-07T15:23",
         "feedId": "axios"
       }
     ]
