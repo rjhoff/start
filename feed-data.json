@@ -3,9 +3,39 @@
     "id": "hn",
     "items": [
       {
-        "title": "DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years",
-        "link": "https://twitter.com/thdxr/status/2086599224674681242",
-        "pubDate": "2026-08-10T12:24",
+        "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+        "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+        "pubDate": "2026-08-10T14:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "China is now the world's greatest oil power",
+        "link": "https://www.economist.com/finance-and-economics/2026/08/09/china-is-now-the-worlds-great-oil-power",
+        "pubDate": "2026-08-10T13:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "Mistral Patent for \"Code implemented tool calls\"",
+        "link": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+        "pubDate": "2026-08-10T13:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Defending my own brain against enshittification",
+        "link": "https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/",
+        "pubDate": "2026-08-10T13:20",
+        "feedId": "hn"
+      },
+      {
+        "title": "50k Boat Names",
+        "link": "https://www.beautifulpublicdata.com/boat-names/",
+        "pubDate": "2026-08-10T12:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+        "link": "https://bobdahacker.com/blog/tldv-hack",
+        "pubDate": "2026-08-10T12:26",
         "feedId": "hn"
       },
       {
@@ -27,18 +57,6 @@
         "feedId": "hn"
       },
       {
-        "title": "A 'bananas' order for 5000 obscure book titles fuels suspicion",
-        "link": "https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/",
-        "pubDate": "2026-08-10T11:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "Meta's new open-weight model targets local agentic AI",
-        "link": "https://twitter.com/finkd/status/2086754845218726027",
-        "pubDate": "2026-08-10T10:55",
-        "feedId": "hn"
-      },
-      {
         "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
         "link": "https://ethw.org/Milestones:Parametron,_1954",
         "pubDate": "2026-08-10T10:29",
@@ -54,12 +72,6 @@
         "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
         "link": "https://www.docker.com/products/docker-sandboxes/",
         "pubDate": "2026-08-10T06:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "Auto mode is now the default in Claude Code",
-        "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
-        "pubDate": "2026-08-10T03:50",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
         "pubDate": "2026-08-10T02:23",
         "feedId": "hn"
-      },
-      {
-        "title": "How We Pushed CDC into Postgres",
-        "link": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-        "pubDate": "2026-08-10T01:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tuxedo No. 2 – Cocktail recipes",
-        "link": "https://tuxedono2.com",
-        "pubDate": "2026-08-09T20:48",
-        "feedId": "hn"
       }
     ]
   },
@@ -101,6 +101,12 @@
         "title": "Toggles Considered Harmful",
         "link": "https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/",
         "pubDate": "2026-08-10T08:04",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Firefox Containers Preview",
+        "link": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+        "pubDate": "2026-08-10T09:37",
         "feedId": "lobsters"
       },
       {
@@ -122,9 +128,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Firefox Containers Preview",
-        "link": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
-        "pubDate": "2026-08-10T09:37",
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/3qwloh/what_are_you_doing_this_week",
+        "pubDate": "2026-08-10T11:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Django is moving to an annual release cycle",
+        "link": "https://www.djangoproject.com/weblog/2026/aug/10/annual-release-cycle/",
+        "pubDate": "2026-08-10T12:46",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Fast Haskell Scripts on GitHub Actions",
+        "link": "https://abhinavsarkar.net/posts/fast-haskell-scripts-on-github-actions/",
+        "pubDate": "2026-08-10T11:21",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Fast Haskell Scripts on GitHub Actions",
-        "link": "https://abhinavsarkar.net/posts/fast-haskell-scripts-on-github-actions/",
-        "pubDate": "2026-08-10T11:21",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Relying on Go",
-        "link": "https://antonz.org/relying-on-go/",
-        "pubDate": "2026-08-09T14:43",
+        "title": "Easy Sandboxing on Linux with Bubblewrap",
+        "link": "https://bxt.rs/blog/easy-sandboxing-on-linux-with-bubblewrap/",
+        "pubDate": "2026-08-10T10:37",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +176,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Relying on Go",
+        "link": "https://antonz.org/relying-on-go/",
+        "pubDate": "2026-08-09T14:43",
+        "feedId": "lobsters"
+      },
+      {
         "title": "IBM i (OS/400) The Database Operating System",
         "link": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
         "pubDate": "2026-08-10T04:13",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I got an email about resistance",
-        "link": "https://www.seangoedecke.com/i-got-an-email-about-resistance/",
-        "pubDate": "2026-08-09T22:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/3qwloh/what_are_you_doing_this_week",
-        "pubDate": "2026-08-10T11:41",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Undo/redo systems and collaborative editing (2024)",
-        "link": "https://dev.to/isaachagoel/you-dont-know-undoredo-4hol",
-        "pubDate": "2026-08-10T03:40",
         "feedId": "lobsters"
       }
     ]
@@ -294,12 +294,6 @@
         "feedId": "axios"
       },
       {
-        "title": "The Fed's new chapter runs through Walmart's ex-CEO",
-        "link": "https://www.axios.com/2026/08/10/federal-reserve-kevin-warsh-doug-mcmillon-walmart",
-        "pubDate": "2026-08-10T10:31",
-        "feedId": "axios"
-      },
-      {
         "title": "Zuckerberg: AI's biggest risk is one entity with too much control",
         "link": "https://www.axios.com/2026/08/10/zuckerberg-ai-manifesto-meta",
         "pubDate": "2026-08-10T10:03",
@@ -375,6 +369,12 @@
         "title": "Senate confirms Todd Blanche as attorney general",
         "link": "https://www.axios.com/2026/08/08/todd-blanche-trump-attorney-general-confirmed",
         "pubDate": "2026-08-08T09:31",
+        "feedId": "axios"
+      },
+      {
+        "title": "White House revives unprecedented effort to remove Fed governor Lisa Cook",
+        "link": "https://www.axios.com/2026/08/07/trump-white-house-fed-cook",
+        "pubDate": "2026-08-07T18:40",
         "feedId": "axios"
       }
     ]
