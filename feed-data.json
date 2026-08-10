@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "Rust SIMD on the GPU",
+        "link": "https://www.vectorware.com/blog/simd-on-gpu/",
+        "pubDate": "2026-08-10T18:12",
+        "feedId": "hn"
+      },
+      {
         "title": "Security Vulnerability in Pioneer Rekordbox",
         "link": "https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/",
         "pubDate": "2026-08-10T18:11",
@@ -18,12 +24,6 @@
         "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
         "link": "https://www.stoaexchange.com",
         "pubDate": "2026-08-10T16:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why Addresses Have Numbers",
-        "link": "https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html",
-        "pubDate": "2026-08-10T16:12",
         "feedId": "hn"
       },
       {
@@ -81,15 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
-        "link": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
-        "pubDate": "2026-08-10T14:56",
-        "feedId": "hn"
-      },
-      {
         "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
         "link": "https://openai.com/index/responsible-ai-infrastructure-texas/",
         "pubDate": "2026-08-10T14:38",
+        "feedId": "hn"
+      },
+      {
+        "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+        "link": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+        "pubDate": "2026-08-10T14:20",
         "feedId": "hn"
       }
     ]
@@ -104,27 +104,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Firefox Containers Preview",
-        "link": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
-        "pubDate": "2026-08-10T09:37",
-        "feedId": "lobsters"
-      },
-      {
         "title": "GitHub Actions needs OIDC audience constraints",
         "link": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
         "pubDate": "2026-08-10T13:30",
         "feedId": "lobsters"
       },
       {
-        "title": "Django is moving to an annual release cycle",
-        "link": "https://www.djangoproject.com/weblog/2026/aug/10/annual-release-cycle/",
-        "pubDate": "2026-08-10T12:46",
+        "title": "Firefox Containers Preview",
+        "link": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+        "pubDate": "2026-08-10T09:37",
         "feedId": "lobsters"
       },
       {
         "title": "a pure css implementation of some sunlight streaming in through the window",
         "link": "https://github.com/jackyzha0/sunlit",
         "pubDate": "2026-08-10T15:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Django is moving to an annual release cycle",
+        "link": "https://www.djangoproject.com/weblog/2026/aug/10/annual-release-cycle/",
+        "pubDate": "2026-08-10T12:46",
         "feedId": "lobsters"
       },
       {
@@ -146,6 +146,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Fast Haskell Scripts on GitHub Actions",
+        "link": "https://abhinavsarkar.net/posts/fast-haskell-scripts-on-github-actions/",
+        "pubDate": "2026-08-10T11:21",
+        "feedId": "lobsters"
+      },
+      {
         "title": "nixpkgs-multiverse: every version that ever existed",
         "link": "https://fzakaria.com/2026/08/09/nixpkgs-multiverse-every-version-that-ever-existed",
         "pubDate": "2026-08-09T23:06",
@@ -158,21 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Fast Haskell Scripts on GitHub Actions",
-        "link": "https://abhinavsarkar.net/posts/fast-haskell-scripts-on-github-actions/",
-        "pubDate": "2026-08-10T11:21",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Who Should Pay For Source Code Availability?",
         "link": "https://kristoff.it/blog/source-code-availability/",
         "pubDate": "2026-08-09T13:42",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Easy Sandboxing on Linux with Bubblewrap",
-        "link": "https://bxt.rs/blog/easy-sandboxing-on-linux-with-bubblewrap/",
-        "pubDate": "2026-08-10T10:37",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Light/Dark/System Theme Setting Design",
-        "link": "https://vale.rocks/micros/20260810-0330",
-        "pubDate": "2026-08-10T07:43",
+        "title": "Easy Sandboxing on Linux with Bubblewrap",
+        "link": "https://bxt.rs/blog/easy-sandboxing-on-linux-with-bubblewrap/",
+        "pubDate": "2026-08-10T10:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "an ambiguity in c89 which will never be fixed",
+        "link": "https://sebsite.pw/w/20260810-c89ambiguity.html",
+        "pubDate": "2026-08-10T07:56",
         "feedId": "lobsters"
       }
     ]
@@ -288,15 +288,27 @@
     "id": "axios",
     "items": [
       {
-        "title": "Trump executive order would split up MMR vaccine",
-        "link": "https://www.axios.com/2026/08/10/trump-order-split-up-mmr-vaccine",
-        "pubDate": "2026-08-10T18:19",
+        "title": "AOC joins thousands of women putting fertility on ice",
+        "link": "https://www.axios.com/2026/08/10/aoc-egg-freezing-women-fertility",
+        "pubDate": "2026-08-10T19:48",
         "feedId": "axios"
       },
       {
-        "title": "Meta, other tech companies denied appeal over addiction lawsuits",
+        "title": "Scoop: U.S. brokers secret deal on clandestine Syrian nuclear site",
+        "link": "https://www.axios.com/2026/08/10/syria-nuclear-israel-turkey-iaea",
+        "pubDate": "2026-08-10T19:25",
+        "feedId": "axios"
+      },
+      {
+        "title": "Meta, others lose appeal to drop thousands of social media addiction lawsuits",
         "link": "https://www.axios.com/2026/08/10/social-media-addiction-lawsuits-meta-tiktok",
-        "pubDate": "2026-08-10T18:09",
+        "pubDate": "2026-08-10T19:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump executive order would split up MMR vaccine",
+        "link": "https://www.axios.com/2026/08/10/trump-order-split-up-mmr-vaccine",
+        "pubDate": "2026-08-10T18:19",
         "feedId": "axios"
       },
       {
@@ -363,18 +375,6 @@
         "title": "Senate passes stopgap to avert pre-election shutdown",
         "link": "https://www.axios.com/2026/08/08/senate-government-funding-shutdown-stopgap",
         "pubDate": "2026-08-08T13:04",
-        "feedId": "axios"
-      },
-      {
-        "title": "Simplify: How to exponentially improve work, life",
-        "link": "https://www.axios.com/2026/08/08/simplify-book-axios-smart-brevity",
-        "pubDate": "2026-08-08T12:53",
-        "feedId": "axios"
-      },
-      {
-        "title": "Suspected AI use is the entertainment industry's scarlet letter",
-        "link": "https://www.axios.com/2026/08/08/generative-ai-accusations-hank-green-jerry-falade",
-        "pubDate": "2026-08-08T10:00",
         "feedId": "axios"
       }
     ]
