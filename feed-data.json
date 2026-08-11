@@ -3,15 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "France to ban unsolicited telemarketing calls",
-        "link": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
-        "pubDate": "2026-08-11T08:15",
+        "title": "Panic of 1873",
+        "link": "https://en.wikipedia.org/wiki/Panic_of_1873",
+        "pubDate": "2026-08-11T10:26",
         "feedId": "hn"
       },
       {
-        "title": "The Water Footprint of AI",
-        "link": "https://doi.org/10.1016/j.watres.2026.125866",
-        "pubDate": "2026-08-11T07:00",
+        "title": "Closing Canario Terminal source code",
+        "link": "https://rapha.land/closing-canario-terminal-source-code/",
+        "pubDate": "2026-08-11T08:16",
+        "feedId": "hn"
+      },
+      {
+        "title": "France to ban unsolicited telemarketing calls",
+        "link": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
+        "pubDate": "2026-08-11T08:15",
         "feedId": "hn"
       },
       {
@@ -85,12 +91,6 @@
         "link": "https://cactuscompute.com/needle",
         "pubDate": "2026-08-10T17:22",
         "feedId": "hn"
-      },
-      {
-        "title": "What's the best programming language for coding agents?",
-        "link": "http://danluu.com/pl-tokens/",
-        "pubDate": "2026-08-10T16:28",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,21 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "A researcher bought noreply.net. Companies started sending him secrets",
-        "link": "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/",
-        "pubDate": "2026-08-10T16:47",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Chicken Scheme 6.0 released",
         "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
         "pubDate": "2026-08-11T00:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Reviewing code is a skill",
+        "link": "https://typesanitizer.com/blog/code-review.html",
+        "pubDate": "2026-08-11T05:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A researcher bought noreply.net. Companies started sending him secrets",
+        "link": "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/",
+        "pubDate": "2026-08-10T16:47",
         "feedId": "lobsters"
       },
       {
@@ -122,27 +128,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Reviewing code is a skill",
-        "link": "https://typesanitizer.com/blog/code-review.html",
-        "pubDate": "2026-08-11T05:37",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Firefox Containers Preview",
         "link": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
         "pubDate": "2026-08-10T09:37",
         "feedId": "lobsters"
       },
       {
-        "title": "a pure css implementation of some sunlight streaming in through the window",
-        "link": "https://github.com/jackyzha0/sunlit",
-        "pubDate": "2026-08-10T15:29",
-        "feedId": "lobsters"
-      },
-      {
         "title": "No, local models will not win",
         "link": "https://www.seangoedecke.com/local-models-will-not-win/",
         "pubDate": "2026-08-11T03:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "There's a dungeon under this blog",
+        "link": "https://blog.lvmbdv.dev/posts/theres-a-dungeon-under-this-blog/",
+        "pubDate": "2026-08-11T09:02",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "a pure css implementation of some sunlight streaming in through the window",
+        "link": "https://github.com/jackyzha0/sunlit",
+        "pubDate": "2026-08-10T15:29",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "an ambiguity in c89 which will never be fixed",
-        "link": "https://sebsite.pw/w/20260810-c89ambiguity.html",
-        "pubDate": "2026-08-10T07:56",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Watch out for cache read costs",
         "link": "https://martinalderson.com/posts/watch-out-for-cache-read-costs/",
         "pubDate": "2026-08-10T22:33",
         "feedId": "lobsters"
       },
       {
-        "title": "How do programming languages impact token efficiency and correctness?",
-        "link": "https://danluu.com/pl-tokens/",
-        "pubDate": "2026-08-10T07:47",
+        "title": "an ambiguity in c89 which will never be fixed",
+        "link": "https://sebsite.pw/w/20260810-c89ambiguity.html",
+        "pubDate": "2026-08-10T07:56",
         "feedId": "lobsters"
       },
       {
-        "title": "Remaking Party House",
-        "link": "https://herecomesthemoon.net/2026/08/remaking-party-house/",
-        "pubDate": "2026-08-10T20:29",
+        "title": "Bevy's Sixth Birthday",
+        "link": "https://bevy.org/news/bevys-sixth-birthday/",
+        "pubDate": "2026-08-11T03:36",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Why \"chipflation\" is here to stay",
+        "link": "https://www.axios.com/2026/08/11/chips-memory-inflation-ai",
+        "pubDate": "2026-08-11T11:20",
+        "feedId": "axios"
+      },
+      {
         "title": "\"Not helpful\": White House winces over conservatives bashing AOC for egg freezing",
         "link": "https://www.axios.com/2026/08/11/aoc-egg-freezing-white-house",
         "pubDate": "2026-08-11T09:25",
@@ -297,12 +303,6 @@
         "title": "Homicides fall 17% in big U.S. cities as the post-pandemic crime decline continues",
         "link": "https://www.axios.com/2026/08/11/big-city-homicides-decline-2026",
         "pubDate": "2026-08-11T09:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "Why \"chipflation\" is here to stay",
-        "link": "https://www.axios.com/2026/08/11/chips-memory-inflation-ai",
-        "pubDate": "2026-08-11T09:10",
         "feedId": "axios"
       },
       {
