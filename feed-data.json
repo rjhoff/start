@@ -3,27 +3,33 @@
     "id": "hn",
     "items": [
       {
-        "title": "Nvidia Nemotron 3.5 lightning and Nemo Switchyard",
-        "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-        "pubDate": "2026-08-11T19:35",
+        "title": "AI Is Solving CTF Challenges in Minutes",
+        "link": "https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes",
+        "pubDate": "2026-08-11T21:13",
         "feedId": "hn"
       },
       {
-        "title": "The whole of PyTorch on one page",
-        "link": "https://tensor.khalilli.ai/blog/part-0-the-map/",
-        "pubDate": "2026-08-11T19:05",
+        "title": "The brain may be about to have its Ozempic moment",
+        "link": "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
+        "pubDate": "2026-08-11T20:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Compression is prediction",
+        "link": "https://ngrok.com/blog/compression-is-prediction",
+        "pubDate": "2026-08-11T19:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+        "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+        "pubDate": "2026-08-11T19:35",
         "feedId": "hn"
       },
       {
         "title": "Making holograms with a pen plotter",
         "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
         "pubDate": "2026-08-11T18:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Tradeoffs Facing Japan's Economy",
-        "link": "https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/",
-        "pubDate": "2026-08-11T18:47",
         "feedId": "hn"
       },
       {
@@ -39,15 +45,15 @@
         "feedId": "hn"
       },
       {
-        "title": "CSS properties you should know for better text designs",
-        "link": "https://master.dev/blog/typographic-css-tricks/",
-        "pubDate": "2026-08-11T17:16",
+        "title": "Grok Bot",
+        "link": "https://x.ai/bot",
+        "pubDate": "2026-08-11T17:23",
         "feedId": "hn"
       },
       {
-        "title": "Go is an ideal language for AI-assisted software engineering",
-        "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-        "pubDate": "2026-08-11T16:57",
+        "title": "CSS properties you should know for better text designs",
+        "link": "https://master.dev/blog/typographic-css-tricks/",
+        "pubDate": "2026-08-11T17:16",
         "feedId": "hn"
       },
       {
@@ -85,12 +91,6 @@
         "link": "https://writemd.app/",
         "pubDate": "2026-08-11T13:30",
         "feedId": "hn"
-      },
-      {
-        "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-        "link": "https://stolen-thoughts.com/",
-        "pubDate": "2026-08-11T13:22",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,15 +110,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Chicken Scheme 6.0 released",
-        "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
-        "pubDate": "2026-08-11T00:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Briar is in maintenance mode",
-        "link": "https://briarproject.org/news/2026-maintenance-mode/",
-        "pubDate": "2026-08-11T12:22",
+        "title": "My Anti AI computer",
+        "link": "https://punkx.org/jackdoe/home.html",
+        "pubDate": "2026-08-11T17:31",
         "feedId": "lobsters"
       },
       {
@@ -128,21 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "My Anti AI computer",
-        "link": "https://punkx.org/jackdoe/home.html",
-        "pubDate": "2026-08-11T17:31",
+        "title": "Briar is in maintenance mode",
+        "link": "https://briarproject.org/news/2026-maintenance-mode/",
+        "pubDate": "2026-08-11T12:22",
         "feedId": "lobsters"
       },
       {
-        "title": "No, local models will not win",
-        "link": "https://www.seangoedecke.com/local-models-will-not-win/",
-        "pubDate": "2026-08-11T03:27",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A researcher bought noreply.net. Companies started sending him secrets",
-        "link": "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/",
-        "pubDate": "2026-08-10T16:47",
+        "title": "Chicken Scheme 6.0 released",
+        "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
+        "pubDate": "2026-08-11T00:24",
         "feedId": "lobsters"
       },
       {
@@ -164,9 +152,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Bevy's Sixth Birthday",
-        "link": "https://bevy.org/news/bevys-sixth-birthday/",
-        "pubDate": "2026-08-11T03:36",
+        "title": "Compression is prediction",
+        "link": "https://ngrok.com/blog/compression-is-prediction",
+        "pubDate": "2026-08-11T19:35",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "No, local models will not win",
+        "link": "https://www.seangoedecke.com/local-models-will-not-win/",
+        "pubDate": "2026-08-11T03:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A researcher bought noreply.net. Companies started sending him secrets",
+        "link": "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/",
+        "pubDate": "2026-08-10T16:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A noob learns FFT",
+        "link": "https://entropicthoughts.com/fft",
+        "pubDate": "2026-08-11T12:41",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "GitHub Actions needs OIDC audience constraints",
-        "link": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
-        "pubDate": "2026-08-10T13:30",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A noob learns FFT",
-        "link": "https://entropicthoughts.com/fft",
-        "pubDate": "2026-08-11T12:41",
+        "title": "Mojo 1.0 is here",
+        "link": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+        "pubDate": "2026-08-11T16:59",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
+        "link": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
+        "pubDate": "2026-08-11T20:27",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+        "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+        "pubDate": "2026-08-11T19:48",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Used EV buying guide: The $30,000 edition",
         "link": "https://arstechnica.com/cars/2026/08/used-ev-buying-guide-the-30000-edition/",
@@ -269,24 +281,24 @@
         "link": "https://arstechnica.com/gadgets/2026/08/zuckerbergs-super-yacht-stood-by-while-stranded-boaters-looked-for-help/",
         "pubDate": "2026-08-10T20:01",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Has Ford got cheap car fever? A $25K crossover is supposedly on the way.",
-        "link": "https://arstechnica.com/cars/2026/08/has-ford-got-cheap-car-fever-allegedly-a-25k-crossover-is-on-the-way/",
-        "pubDate": "2026-08-10T17:07",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Taylor Farms recalls jalapeño products for Salmonella amid Cyclospora outbreak",
-        "link": "https://arstechnica.com/health/2026/08/taylor-farms-recalls-jalapeno-products-for-salmonella-amid-cyclospora-outbreak/",
-        "pubDate": "2026-08-10T16:37",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Trump admin cuts Medicaid funds for youth trans care",
+        "link": "https://www.axios.com/2026/08/11/trump-medicaid-youth-transgender-health-care",
+        "pubDate": "2026-08-11T21:39",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump's secret plane switch: How Air Force One protects the president from threats",
+        "link": "https://www.axios.com/2026/08/11/trump-air-force-one-security-secret-plane-switch",
+        "pubDate": "2026-08-11T18:40",
+        "feedId": "axios"
+      },
       {
         "title": "Trump's DOJ lays groundwork for subpoena fights with a Democratic Congress",
         "link": "https://www.axios.com/2026/08/11/trump-doj-executive-privilege-democratic-probes",
@@ -363,18 +375,6 @@
         "title": "AOC joins thousands of women putting fertility on ice",
         "link": "https://www.axios.com/2026/08/10/aoc-egg-freezing-women-fertility",
         "pubDate": "2026-08-10T19:48",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: U.S. brokers secret deal on clandestine Syrian nuclear site",
-        "link": "https://www.axios.com/2026/08/10/syria-nuclear-israel-turkey-iaea",
-        "pubDate": "2026-08-10T19:25",
-        "feedId": "axios"
-      },
-      {
-        "title": "Meta, others lose appeal to drop thousands of social media addiction lawsuits",
-        "link": "https://www.axios.com/2026/08/10/social-media-addiction-lawsuits-meta-tiktok",
-        "pubDate": "2026-08-10T19:20",
         "feedId": "axios"
       }
     ]
