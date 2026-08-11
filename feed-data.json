@@ -27,21 +27,9 @@
         "feedId": "hn"
       },
       {
-        "title": "The US tried to stop cartel money-laundering; devastated mom-and-pop businesses",
-        "link": "https://www.theguardian.com/us-news/2026/aug/11/us-mexico-border-area-money-transfer-rule-change-small-businesses",
-        "pubDate": "2026-08-11T14:27",
-        "feedId": "hn"
-      },
-      {
         "title": "Manus will return to operating as an independent company",
         "link": "https://manus.im/blog/a-note-to-our-users",
         "pubDate": "2026-08-11T14:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "Flock wanted to tap dashcams in rideshare vechicles to add to surveillance data",
-        "link": "https://flowingdata.com/2026/08/10/flock-wanted-to-tap-dashcams-in-rideshare-vechicles-to-add-to-surveillance-data/",
-        "pubDate": "2026-08-11T14:04",
         "feedId": "hn"
       },
       {
@@ -54,6 +42,12 @@
         "title": "$580M undersea cable rerouted to avoid the grave of Dobby the House Elf",
         "link": "https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site",
         "pubDate": "2026-08-11T13:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Write.md, a free, open-source, themeable Markdown editor for macOS",
+        "link": "https://writemd.app/",
+        "pubDate": "2026-08-11T13:30",
         "feedId": "hn"
       },
       {
@@ -91,6 +85,12 @@
         "link": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
         "pubDate": "2026-08-11T08:15",
         "feedId": "hn"
+      },
+      {
+        "title": "Recycle – Floppydisks",
+        "link": "https://www.floppydisk.com/recycle",
+        "pubDate": "2026-08-11T02:01",
+        "feedId": "hn"
       }
     ]
   },
@@ -113,6 +113,12 @@
         "title": "Briar is in maintenance mode",
         "link": "https://briarproject.org/news/2026-maintenance-mode/",
         "pubDate": "2026-08-11T12:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "GNOME Shell Design Dreams",
+        "link": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
+        "pubDate": "2026-08-11T14:08",
         "feedId": "lobsters"
       },
       {
@@ -152,6 +158,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "A noob learns FFT",
+        "link": "https://entropicthoughts.com/fft",
+        "pubDate": "2026-08-11T12:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Performance impact of Alignment",
+        "link": "https://eme64.github.io/blog/2026/01/12/Alignment-Performance.html",
+        "pubDate": "2026-08-11T16:00",
+        "feedId": "lobsters"
+      },
+      {
         "title": "a pure css implementation of some sunlight streaming in through the window",
         "link": "https://github.com/jackyzha0/sunlit",
         "pubDate": "2026-08-10T15:29",
@@ -164,27 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A noob learns FFT",
-        "link": "https://entropicthoughts.com/fft",
-        "pubDate": "2026-08-11T12:41",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Bevy's Sixth Birthday",
         "link": "https://bevy.org/news/bevys-sixth-birthday/",
         "pubDate": "2026-08-11T03:36",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Breaking up (lines) is hard to do",
-        "link": "https://www.b-list.org/weblog/2026/aug/10/newlines/",
-        "pubDate": "2026-08-10T21:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "GNOME Shell Design Dreams",
-        "link": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
-        "pubDate": "2026-08-11T14:08",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump's DOJ lays groundwork for subpoena fights with a Democratic Congress",
+        "link": "https://www.axios.com/2026/08/11/trump-doj-executive-privilege-democratic-probes",
+        "pubDate": "2026-08-11T16:46",
+        "feedId": "axios"
+      },
+      {
+        "title": "U.S. economy's K-shaped gap narrows",
+        "link": "https://www.axios.com/2026/08/11/spending-growth-income",
+        "pubDate": "2026-08-11T16:01",
+        "feedId": "axios"
+      },
+      {
         "title": "Why \"chipflation\" is here to stay",
         "link": "https://www.axios.com/2026/08/11/chips-memory-inflation-ai",
         "pubDate": "2026-08-11T11:20",
@@ -363,18 +375,6 @@
         "title": "The U.S. just had its hottest month on record",
         "link": "https://www.axios.com/2026/08/10/july-2026-hottest-month",
         "pubDate": "2026-08-10T16:48",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump's new White House counsel could soon face a subpoena fight",
-        "link": "https://www.axios.com/2026/08/10/will-scharf-white-house-counsel-midterms",
-        "pubDate": "2026-08-10T11:50",
-        "feedId": "axios"
-      },
-      {
-        "title": "Zuckerberg: AI's biggest risk is one entity with too much control",
-        "link": "https://www.axios.com/2026/08/10/zuckerberg-ai-manifesto-meta",
-        "pubDate": "2026-08-10T10:03",
         "feedId": "axios"
       }
     ]
