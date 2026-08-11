@@ -3,21 +3,51 @@
     "id": "hn",
     "items": [
       {
-        "title": "How Claude marks AI-generated content",
-        "link": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-        "pubDate": "2026-08-10T21:36",
+        "title": "US President hid in catering cart for secret flight in Turkey amid Iran threat",
+        "link": "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return",
+        "pubDate": "2026-08-11T03:08",
         "feedId": "hn"
       },
       {
-        "title": "We cut a 40-day financial integration down to 5 days using Google Anti",
-        "link": "https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313",
-        "pubDate": "2026-08-10T21:27",
+        "title": "Hyperspace",
+        "link": "https://hypercritical.co/hyperspace/",
+        "pubDate": "2026-08-11T02:04",
         "feedId": "hn"
       },
       {
-        "title": "Amazon backs power plant that may become top source of US climate pollution",
-        "link": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
-        "pubDate": "2026-08-10T21:26",
+        "title": "Recycle – Floppydisks",
+        "link": "https://www.floppydisk.com/recycle",
+        "pubDate": "2026-08-11T02:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Antirez/h3.c: MiniMax H3 inference engine for Mac computers",
+        "link": "https://github.com/antirez/h3.c",
+        "pubDate": "2026-08-11T01:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "Chicken Scheme 6.0",
+        "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
+        "pubDate": "2026-08-11T00:24",
+        "feedId": "hn"
+      },
+      {
+        "title": "The UK's War on Anonymity Has Come to America",
+        "link": "https://www.effort.news/uk-lobby",
+        "pubDate": "2026-08-10T23:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+        "link": "https://everycube.alen.is/",
+        "pubDate": "2026-08-10T23:16",
+        "feedId": "hn"
+      },
+      {
+        "title": "World Train Map – 1247 train routes around the world",
+        "link": "https://worldtrainmap.com/",
+        "pubDate": "2026-08-10T22:42",
         "feedId": "hn"
       },
       {
@@ -30,12 +60,6 @@
         "title": "Stop Killing Games: It's time to sue Sony, join us",
         "link": "https://www.massaschadeconsument.nl/collectieve-acties/playstation/",
         "pubDate": "2026-08-10T20:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification",
-        "link": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
-        "pubDate": "2026-08-10T20:20",
         "feedId": "hn"
       },
       {
@@ -57,39 +81,15 @@
         "feedId": "hn"
       },
       {
+        "title": "What's the best programming language for coding agents?",
+        "link": "http://danluu.com/pl-tokens/",
+        "pubDate": "2026-08-10T16:28",
+        "feedId": "hn"
+      },
+      {
         "title": "Exploiting System Management Mode with a very long interrupt",
         "link": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
         "pubDate": "2026-08-10T16:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Back to the Future of Handwriting Recognition (2016)",
-        "link": "https://jackschaedler.github.io/handwriting-recognition/",
-        "pubDate": "2026-08-10T15:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "Extreme 220GHz+Broadband Silicon Capacitor X2SC 0201M 22nF BV11",
-        "link": "https://pim.murata.com/asset/pim4/siliconCapacitor/SICAP_X2SC422522_PDF_SILICONCAPACITOR",
-        "pubDate": "2026-08-10T15:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",
-        "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive",
-        "pubDate": "2026-08-10T15:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
-        "link": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
-        "pubDate": "2026-08-10T15:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
-        "link": "https://openai.com/index/responsible-ai-infrastructure-texas/",
-        "pubDate": "2026-08-10T14:38",
         "feedId": "hn"
       }
     ]
@@ -128,21 +128,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Django is moving to an annual release cycle",
-        "link": "https://www.djangoproject.com/weblog/2026/aug/10/annual-release-cycle/",
-        "pubDate": "2026-08-10T12:46",
-        "feedId": "lobsters"
-      },
-      {
         "title": "We're not done with point clouds",
         "link": "https://claytonwramsey.com/blog/mvt/",
         "pubDate": "2026-08-10T18:21",
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/3qwloh/what_are_you_doing_this_week",
-        "pubDate": "2026-08-10T11:41",
+        "title": "Django is moving to an annual release cycle",
+        "link": "https://www.djangoproject.com/weblog/2026/aug/10/annual-release-cycle/",
+        "pubDate": "2026-08-10T12:46",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Chicken Scheme 6.0 released",
+        "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
+        "pubDate": "2026-08-11T00:24",
         "feedId": "lobsters"
       },
       {
@@ -158,27 +158,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Watch out for cache read costs",
+        "link": "https://martinalderson.com/posts/watch-out-for-cache-read-costs/",
+        "pubDate": "2026-08-10T22:33",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/3qwloh/what_are_you_doing_this_week",
+        "pubDate": "2026-08-10T11:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The mathematical beauty of hyperbezier curves",
+        "link": "https://linebender.org/blog/hyperbezier/",
+        "pubDate": "2026-08-10T18:31",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Fast Haskell Scripts on GitHub Actions",
         "link": "https://abhinavsarkar.net/posts/fast-haskell-scripts-on-github-actions/",
         "pubDate": "2026-08-10T11:21",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "IRC technology news from the first half of 2026",
-        "link": "https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/",
-        "pubDate": "2026-08-09T17:41",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "nixpkgs-multiverse: every version that ever existed",
-        "link": "https://fzakaria.com/2026/08/09/nixpkgs-multiverse-every-version-that-ever-existed",
-        "pubDate": "2026-08-09T23:06",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Restricting trait implementability and field mutability",
-        "link": "https://blog.rust-lang.org/inside-rust/2026/08/10/call-for-testing-impl-and-mut-restrictions/",
-        "pubDate": "2026-08-10T18:39",
         "feedId": "lobsters"
       },
       {
@@ -192,6 +192,42 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
+        "link": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
+        "pubDate": "2026-08-10T22:23",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+        "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+        "pubDate": "2026-08-10T22:13",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Trump signs bonkers order that cuts vaccines, promotes ones that don't exist",
+        "link": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/",
+        "pubDate": "2026-08-10T21:42",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Developer Cold Iron Studios shuts down cloud version of $60 game with no refunds",
+        "link": "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
+        "pubDate": "2026-08-10T21:26",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Amazon backs power plant that may become top source of US climate pollution",
+        "link": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
+        "pubDate": "2026-08-10T20:45",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Zuckerberg’s superyacht ignored emergency channel, failed to aid stranded boat",
+        "link": "https://arstechnica.com/gadgets/2026/08/zuckerbergs-super-yacht-stood-by-while-stranded-boaters-looked-for-help/",
+        "pubDate": "2026-08-10T20:01",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Has Ford got cheap car fever? A $25K crossover is supposedly on the way.",
         "link": "https://arstechnica.com/cars/2026/08/has-ford-got-cheap-car-fever-allegedly-a-25k-crossover-is-on-the-way/",
@@ -244,42 +280,6 @@
         "title": "Peer review is overwhelmed—can it survive in the AI era?",
         "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
         "pubDate": "2026-08-10T11:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
-        "link": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
-        "pubDate": "2026-08-09T11:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
-        "link": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
-        "pubDate": "2026-08-08T11:30",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
-        "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-        "pubDate": "2026-08-08T11:05",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Europe's free satellite service just made it easier to track wildfires",
-        "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
-        "pubDate": "2026-08-07T21:48",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
-        "link": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
-        "pubDate": "2026-08-07T21:09",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
-        "link": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
-        "pubDate": "2026-08-07T19:49",
         "feedId": "arstechnica"
       }
     ]
