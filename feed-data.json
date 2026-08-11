@@ -3,15 +3,9 @@
     "id": "hn",
     "items": [
       {
-        "title": "Updated GPG Key for Signing Firefox and Thunderbird Releases",
-        "link": "https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/",
-        "pubDate": "2026-08-11T04:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why My Father Is Wrong: A Defense of Guitar Hero",
-        "link": "https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/",
-        "pubDate": "2026-08-11T03:52",
+        "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
+        "link": "https://github.com/activeing123/mcptoon",
+        "pubDate": "2026-08-11T05:26",
         "feedId": "hn"
       },
       {
@@ -39,6 +33,12 @@
         "feedId": "hn"
       },
       {
+        "title": "The UK's war on anonymity has come to America",
+        "link": "https://www.effort.news/uk-lobby",
+        "pubDate": "2026-08-10T23:45",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
         "link": "https://everycube.alen.is/",
         "pubDate": "2026-08-10T23:16",
@@ -48,6 +48,18 @@
         "title": "World Train Map – 1247 train routes around the world",
         "link": "https://worldtrainmap.com/",
         "pubDate": "2026-08-10T22:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "As AI eats the web, the internet’s collective memory is disappearing",
+        "link": "https://thewalrus.ca/google-search-is-dying/",
+        "pubDate": "2026-08-10T22:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "How Claude marks AI-generated content",
+        "link": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+        "pubDate": "2026-08-10T21:36",
         "feedId": "hn"
       },
       {
@@ -63,33 +75,21 @@
         "feedId": "hn"
       },
       {
+        "title": "Learning more about Claude's mathematical capabilities",
+        "link": "https://www.anthropic.com/research/riemann-zeta",
+        "pubDate": "2026-08-10T17:41",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
         "link": "https://cactuscompute.com/needle",
         "pubDate": "2026-08-10T17:22",
         "feedId": "hn"
       },
       {
-        "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
-        "link": "https://www.stoaexchange.com",
-        "pubDate": "2026-08-10T16:35",
-        "feedId": "hn"
-      },
-      {
         "title": "What's the best programming language for coding agents?",
         "link": "http://danluu.com/pl-tokens/",
         "pubDate": "2026-08-10T16:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "Exploiting System Management Mode with a very long interrupt",
-        "link": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
-        "pubDate": "2026-08-10T16:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
-        "link": "https://openai.com/index/responsible-ai-infrastructure-texas/",
-        "pubDate": "2026-08-10T14:38",
         "feedId": "hn"
       }
     ]
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Firefox Containers Preview",
-        "link": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
-        "pubDate": "2026-08-10T09:37",
-        "feedId": "lobsters"
-      },
-      {
         "title": "A researcher bought noreply.net. Companies started sending him secrets",
         "link": "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/",
         "pubDate": "2026-08-10T16:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Firefox Containers Preview",
+        "link": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+        "pubDate": "2026-08-10T09:37",
         "feedId": "lobsters"
       },
       {
@@ -128,33 +128,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "We're not done with point clouds",
-        "link": "https://claytonwramsey.com/blog/mvt/",
-        "pubDate": "2026-08-10T18:21",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Chicken Scheme 6.0 released",
         "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
         "pubDate": "2026-08-11T00:24",
         "feedId": "lobsters"
       },
       {
+        "title": "We're not done with point clouds",
+        "link": "https://claytonwramsey.com/blog/mvt/",
+        "pubDate": "2026-08-10T18:21",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Django is moving to an annual release cycle",
         "link": "https://www.djangoproject.com/weblog/2026/aug/10/annual-release-cycle/",
         "pubDate": "2026-08-10T12:46",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "an ambiguity in c89 which will never be fixed",
-        "link": "https://sebsite.pw/w/20260810-c89ambiguity.html",
-        "pubDate": "2026-08-10T07:56",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Remaking Party House",
-        "link": "https://herecomesthemoon.net/2026/08/remaking-party-house/",
-        "pubDate": "2026-08-10T20:29",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +158,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "an ambiguity in c89 which will never be fixed",
+        "link": "https://sebsite.pw/w/20260810-c89ambiguity.html",
+        "pubDate": "2026-08-10T07:56",
+        "feedId": "lobsters"
+      },
+      {
         "title": "How do programming languages impact token efficiency and correctness?",
         "link": "https://danluu.com/pl-tokens/",
         "pubDate": "2026-08-10T07:47",
         "feedId": "lobsters"
       },
       {
-        "title": "The mathematical beauty of hyperbezier curves",
-        "link": "https://linebender.org/blog/hyperbezier/",
-        "pubDate": "2026-08-10T18:31",
+        "title": "Remaking Party House",
+        "link": "https://herecomesthemoon.net/2026/08/remaking-party-house/",
+        "pubDate": "2026-08-10T20:29",
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/3qwloh/what_are_you_doing_this_week",
-        "pubDate": "2026-08-10T11:41",
+        "title": "No, local models will not win",
+        "link": "https://www.seangoedecke.com/local-models-will-not-win/",
+        "pubDate": "2026-08-11T03:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "More than two thirds of the zeros of the Riemann zeta function lie on the critical line",
+        "link": "https://www.anthropic.com/research/riemann-zeta",
+        "pubDate": "2026-08-11T01:49",
         "feedId": "lobsters"
       }
     ]
