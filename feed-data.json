@@ -9,6 +9,12 @@
         "feedId": "hn"
       },
       {
+        "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
+        "link": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
+        "pubDate": "2026-08-11T21:54",
+        "feedId": "hn"
+      },
+      {
         "title": "Suzanne: AI tool for designing and manufacturing physical products",
         "link": "https://www.suzanne3d.com/",
         "pubDate": "2026-08-11T21:28",
@@ -18,18 +24,6 @@
         "title": "Emergent Introspective Awareness in Large Language Models",
         "link": "https://arxiv.org/abs/2601.01828",
         "pubDate": "2026-08-11T21:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "The 19th-Century Family Fortunes Funding Degrowth",
-        "link": "https://www.effort.news/p4ne",
-        "pubDate": "2026-08-11T20:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "The brain may be about to have its Ozempic moment",
-        "link": "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
-        "pubDate": "2026-08-11T20:01",
         "feedId": "hn"
       },
       {
@@ -54,6 +48,12 @@
         "title": "How we used to get jobs: A newspaper classifieds story",
         "link": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
         "pubDate": "2026-08-11T18:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ethical Cold Outreach",
+        "link": "https://blog.val.town/ethical-cold-outreach",
+        "pubDate": "2026-08-11T18:06",
         "feedId": "hn"
       },
       {
@@ -104,6 +104,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "My Anti AI computer",
+        "link": "https://punkx.org/jackdoe/home.html",
+        "pubDate": "2026-08-11T17:31",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Reviewing code is a skill",
+        "link": "https://typesanitizer.com/blog/code-review.html",
+        "pubDate": "2026-08-11T05:37",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Briar is in maintenance mode",
         "link": "https://briarproject.org/news/2026-maintenance-mode/",
         "pubDate": "2026-08-11T12:22",
@@ -122,9 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Making [etched] holograms with a pen plotter",
-        "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-        "pubDate": "2026-08-11T12:13",
+        "title": "There's a dungeon under this blog",
+        "link": "https://blog.lvmbdv.dev/posts/theres-a-dungeon-under-this-blog/",
+        "pubDate": "2026-08-11T09:02",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +146,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Making [etched] holograms with a pen plotter",
+        "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+        "pubDate": "2026-08-11T12:13",
+        "feedId": "lobsters"
+      },
+      {
         "title": "msword: Port of Microsoft Word 1.1a to x64",
         "link": "https://github.com/jmarshall23/msword",
         "pubDate": "2026-08-11T14:20",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "No, local models will not win",
+        "link": "https://www.seangoedecke.com/local-models-will-not-win/",
+        "pubDate": "2026-08-11T03:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Mojo 1.0 is here",
+        "link": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+        "pubDate": "2026-08-11T16:59",
         "feedId": "lobsters"
       },
       {
@@ -152,39 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Performance impact of Alignment",
-        "link": "https://eme64.github.io/blog/2026/01/12/Alignment-Performance.html",
-        "pubDate": "2026-08-11T16:00",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Bevy's Sixth Birthday",
         "link": "https://bevy.org/news/bevys-sixth-birthday/",
         "pubDate": "2026-08-11T03:36",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "GitHub Actions needs OIDC audience constraints",
-        "link": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
-        "pubDate": "2026-08-10T13:30",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Odd Comments and Strange Doings in Unix",
-        "link": "https://9p.io/who/dmr/odd.html",
-        "pubDate": "2026-08-11T03:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "a pure css implementation of some sunlight streaming in through the window",
-        "link": "https://github.com/jackyzha0/sunlit",
-        "pubDate": "2026-08-10T15:29",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Toggles Considered Harmful",
-        "link": "https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/",
-        "pubDate": "2026-08-10T08:04",
         "feedId": "lobsters"
       }
     ]
@@ -300,6 +300,12 @@
         "feedId": "axios"
       },
       {
+        "title": "Scoop: Senate GOP super PAC doubles down on Michigan",
+        "link": "https://www.axios.com/2026/08/11/michigan-senate-abdul-el-sayed-gop-super-pac",
+        "pubDate": "2026-08-11T21:56",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump admin cuts Medicaid funds for youth trans care",
         "link": "https://www.axios.com/2026/08/11/trump-medicaid-youth-transgender-health-care",
         "pubDate": "2026-08-11T21:39",
@@ -369,12 +375,6 @@
         "title": "Food safety crisis deepens for Taylor Farms with salmonella outbreak",
         "link": "https://www.axios.com/2026/08/10/salmonella-outbreak-food-safety-taylor-farms",
         "pubDate": "2026-08-10T22:19",
-        "feedId": "axios"
-      },
-      {
-        "title": "Congress' disappearing town halls",
-        "link": "https://www.axios.com/2026/08/10/house-republicans-congress-town-halls",
-        "pubDate": "2026-08-10T22:11",
         "feedId": "axios"
       }
     ]
