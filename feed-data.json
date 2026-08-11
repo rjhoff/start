@@ -3,15 +3,57 @@
     "id": "hn",
     "items": [
       {
+        "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
+        "link": "https://github.com/TheRealYT/git-knife",
+        "pubDate": "2026-08-11T15:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+        "link": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+        "pubDate": "2026-08-11T14:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "Launch HN: Keet (YC S24) – An app to create video courses on anything",
+        "link": "https://www.trykeet.com/",
+        "pubDate": "2026-08-11T14:48",
+        "feedId": "hn"
+      },
+      {
+        "title": "Federal vendor with $50M in contracts leaves portal broken for a month",
+        "link": "https://www.propublica.org/article/foia-requests-responses",
+        "pubDate": "2026-08-11T14:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "The US tried to stop cartel money-laundering; devastated mom-and-pop businesses",
+        "link": "https://www.theguardian.com/us-news/2026/aug/11/us-mexico-border-area-money-transfer-rule-change-small-businesses",
+        "pubDate": "2026-08-11T14:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "Manus will return to operating as an independent company",
+        "link": "https://manus.im/blog/a-note-to-our-users",
+        "pubDate": "2026-08-11T14:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "Flock wanted to tap dashcams in rideshare vechicles to add to surveillance data",
+        "link": "https://flowingdata.com/2026/08/10/flock-wanted-to-tap-dashcams-in-rideshare-vechicles-to-add-to-surveillance-data/",
+        "pubDate": "2026-08-11T14:04",
+        "feedId": "hn"
+      },
+      {
         "title": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
         "link": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
         "pubDate": "2026-08-11T14:03",
         "feedId": "hn"
       },
       {
-        "title": "New Orleans is using AI to triage 911 calls in case of backlog",
-        "link": "https://consumerrights.wiki/w/User:Louis/New_Orleans_AI_911_call_triage",
-        "pubDate": "2026-08-11T13:52",
+        "title": "$580M undersea cable rerouted to avoid the grave of Dobby the House Elf",
+        "link": "https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site",
+        "pubDate": "2026-08-11T13:42",
         "feedId": "hn"
       },
       {
@@ -21,15 +63,15 @@
         "feedId": "hn"
       },
       {
-        "title": "England set to be one of the first countries to eliminate hepatitis C",
-        "link": "https://www.bbc.com/news/articles/c75gk620r22o",
-        "pubDate": "2026-08-11T12:41",
+        "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+        "link": "https://stolen-thoughts.com/",
+        "pubDate": "2026-08-11T13:22",
         "feedId": "hn"
       },
       {
-        "title": "How to organize Claude Code for product work",
-        "link": "https://www.theaithinker.com/p/how-to-organize-claude-code-for-product",
-        "pubDate": "2026-08-11T11:02",
+        "title": "England set to be one of the first countries to eliminate hepatitis C",
+        "link": "https://www.bbc.com/news/articles/c75gk620r22o",
+        "pubDate": "2026-08-11T12:41",
         "feedId": "hn"
       },
       {
@@ -45,51 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Closing Canario Terminal source code",
-        "link": "https://rapha.land/closing-canario-terminal-source-code/",
-        "pubDate": "2026-08-11T08:16",
-        "feedId": "hn"
-      },
-      {
         "title": "France to ban unsolicited telemarketing calls",
         "link": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
         "pubDate": "2026-08-11T08:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "Recycle – Floppydisks",
-        "link": "https://www.floppydisk.com/recycle",
-        "pubDate": "2026-08-11T02:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
-        "link": "https://github.com/antirez/h3.c",
-        "pubDate": "2026-08-11T01:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "Chicken Scheme 6.0",
-        "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
-        "pubDate": "2026-08-11T00:24",
-        "feedId": "hn"
-      },
-      {
-        "title": "The UK's war on anonymity has come to America",
-        "link": "https://www.effort.news/uk-lobby",
-        "pubDate": "2026-08-10T23:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
-        "link": "https://everycube.alen.is/",
-        "pubDate": "2026-08-10T23:16",
-        "feedId": "hn"
-      },
-      {
-        "title": "As AI eats the web, the internet’s collective memory is disappearing",
-        "link": "https://thewalrus.ca/google-search-is-dying/",
-        "pubDate": "2026-08-10T22:36",
         "feedId": "hn"
       }
     ]
@@ -110,6 +110,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Briar is in maintenance mode",
+        "link": "https://briarproject.org/news/2026-maintenance-mode/",
+        "pubDate": "2026-08-11T12:22",
+        "feedId": "lobsters"
+      },
+      {
         "title": "There's a dungeon under this blog",
         "link": "https://blog.lvmbdv.dev/posts/theres-a-dungeon-under-this-blog/",
         "pubDate": "2026-08-11T09:02",
@@ -122,21 +128,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Briar is in maintenance mode",
-        "link": "https://briarproject.org/news/2026-maintenance-mode/",
-        "pubDate": "2026-08-11T12:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "GitHub Actions needs OIDC audience constraints",
-        "link": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
-        "pubDate": "2026-08-10T13:30",
+        "title": "Making [etched] holograms with a pen plotter",
+        "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+        "pubDate": "2026-08-11T12:13",
         "feedId": "lobsters"
       },
       {
         "title": "No, local models will not win",
         "link": "https://www.seangoedecke.com/local-models-will-not-win/",
         "pubDate": "2026-08-11T03:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "GitHub Actions needs OIDC audience constraints",
+        "link": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
+        "pubDate": "2026-08-10T13:30",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A noob learns FFT",
-        "link": "https://entropicthoughts.com/fft",
-        "pubDate": "2026-08-11T12:41",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Firefox Containers Preview",
         "link": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
         "pubDate": "2026-08-10T09:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A noob learns FFT",
+        "link": "https://entropicthoughts.com/fft",
+        "pubDate": "2026-08-11T12:41",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Making [etched] holograms with a pen plotter",
-        "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-        "pubDate": "2026-08-11T12:13",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "We're not done with point clouds",
-        "link": "https://claytonwramsey.com/blog/mvt/",
-        "pubDate": "2026-08-10T18:21",
+        "title": "GNOME Shell Design Dreams",
+        "link": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
+        "pubDate": "2026-08-11T14:08",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Trump to give Republicans a 3-1 FCC majority, isn't filling empty Democratic seat",
+        "link": "https://arstechnica.com/tech-policy/2026/08/trump-to-give-republicans-a-3-1-fcc-majority-isnt-filling-empty-democratic-seat/",
+        "pubDate": "2026-08-11T15:28",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "New surveillance tech links your phone to your license plate",
+        "link": "https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/",
+        "pubDate": "2026-08-11T13:15",
+        "feedId": "arstechnica"
+      },
       {
         "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
         "link": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
@@ -268,18 +280,6 @@
         "title": "Dogs can tell if you're scared or sad",
         "link": "https://arstechnica.com/science/2026/08/dogs-can-tell-if-youre-scared-or-sad/",
         "pubDate": "2026-08-10T15:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "2026 Subaru Outback review: Great interior, refined drive, divisive looks",
-        "link": "https://arstechnica.com/cars/2026/08/2026-subaru-outback-limited-review-boxy-outside-almost-premium-inside/",
-        "pubDate": "2026-08-10T14:49",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "A researcher bought noreply.net. Companies started sending him secrets.",
-        "link": "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/",
-        "pubDate": "2026-08-10T14:25",
         "feedId": "arstechnica"
       }
     ]
