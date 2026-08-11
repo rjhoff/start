@@ -3,25 +3,55 @@
     "id": "hn",
     "items": [
       {
-        "title": "We Used to Get Jobs",
+        "title": "Nvidia Nemotron 3.5 lightning and Nemo Switchyard",
+        "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+        "pubDate": "2026-08-11T19:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "The whole of PyTorch on one page",
+        "link": "https://tensor.khalilli.ai/blog/part-0-the-map/",
+        "pubDate": "2026-08-11T19:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "Making holograms with a pen plotter",
+        "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+        "pubDate": "2026-08-11T18:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Tradeoffs Facing Japan's Economy",
+        "link": "https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/",
+        "pubDate": "2026-08-11T18:47",
+        "feedId": "hn"
+      },
+      {
+        "title": "How we used to get jobs: A newspaper classifieds story",
         "link": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
         "pubDate": "2026-08-11T18:09",
         "feedId": "hn"
       },
       {
-        "title": "OpenSSH 10.5 released, AI assistance now welcome",
+        "title": "OpenSSH 10.5/10.5p1",
         "link": "https://www.openssh.org/releasenotes.html#10.5",
         "pubDate": "2026-08-11T17:49",
         "feedId": "hn"
       },
       {
-        "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
+        "title": "CSS properties you should know for better text designs",
+        "link": "https://master.dev/blog/typographic-css-tricks/",
+        "pubDate": "2026-08-11T17:16",
+        "feedId": "hn"
+      },
+      {
+        "title": "Go is an ideal language for AI-assisted software engineering",
         "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
         "pubDate": "2026-08-11T16:57",
         "feedId": "hn"
       },
       {
-        "title": "Mojo 1.0 Is Here",
+        "title": "Mojo 1.0",
         "link": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
         "pubDate": "2026-08-11T16:56",
         "feedId": "hn"
@@ -33,7 +63,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+        "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
         "link": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
         "pubDate": "2026-08-11T14:50",
         "feedId": "hn"
@@ -45,51 +75,21 @@
         "feedId": "hn"
       },
       {
-        "title": "Federal vendor with $50M in contracts leaves portal broken for a month",
-        "link": "https://www.propublica.org/article/foia-requests-responses",
-        "pubDate": "2026-08-11T14:32",
-        "feedId": "hn"
-      },
-      {
         "title": "Manus will return to operating as an independent company",
         "link": "https://manus.im/blog/a-note-to-our-users",
         "pubDate": "2026-08-11T14:14",
         "feedId": "hn"
       },
       {
-        "title": "Nvidia Nemotron 3.5 Lightning",
-        "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
-        "pubDate": "2026-08-11T13:26",
+        "title": "Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS",
+        "link": "https://writemd.app/",
+        "pubDate": "2026-08-11T13:30",
         "feedId": "hn"
       },
       {
         "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
         "link": "https://stolen-thoughts.com/",
         "pubDate": "2026-08-11T13:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "England set to be one of the first countries to eliminate hepatitis C",
-        "link": "https://www.bbc.com/news/articles/c75gk620r22o",
-        "pubDate": "2026-08-11T12:41",
-        "feedId": "hn"
-      },
-      {
-        "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
-        "link": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
-        "pubDate": "2026-08-11T10:40",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nvidia's Risky Business",
-        "link": "https://stratechery.com/2026/nvidias-risky-business/",
-        "pubDate": "2026-08-11T10:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "France to ban unsolicited telemarketing calls",
-        "link": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
-        "pubDate": "2026-08-11T08:15",
         "feedId": "hn"
       }
     ]
@@ -110,6 +110,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Chicken Scheme 6.0 released",
+        "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
+        "pubDate": "2026-08-11T00:24",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Briar is in maintenance mode",
         "link": "https://briarproject.org/news/2026-maintenance-mode/",
         "pubDate": "2026-08-11T12:22",
@@ -122,9 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Chicken Scheme 6.0 released",
-        "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
-        "pubDate": "2026-08-11T00:24",
+        "title": "My Anti AI computer",
+        "link": "https://punkx.org/jackdoe/home.html",
+        "pubDate": "2026-08-11T17:31",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "My Anti AI computer",
-        "link": "https://punkx.org/jackdoe/home.html",
-        "pubDate": "2026-08-11T17:31",
+        "title": "The fastest double-to-string algorithm you’ve never heard of",
+        "link": "https://vitaut.net/posts/2026/yy-dtoa/",
+        "pubDate": "2026-08-11T16:42",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Bevy's Sixth Birthday",
-        "link": "https://bevy.org/news/bevys-sixth-birthday/",
-        "pubDate": "2026-08-11T03:36",
+        "title": "msword: Port of Microsoft Word 1.1a to x64",
+        "link": "https://github.com/jmarshall23/msword",
+        "pubDate": "2026-08-11T14:20",
         "feedId": "lobsters"
       },
       {
-        "title": "The fastest double-to-string algorithm you’ve never heard of",
-        "link": "https://vitaut.net/posts/2026/yy-dtoa/",
-        "pubDate": "2026-08-11T16:42",
+        "title": "Bevy's Sixth Birthday",
+        "link": "https://bevy.org/news/bevys-sixth-birthday/",
+        "pubDate": "2026-08-11T03:36",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "msword: Port of Microsoft Word 1.1a to x64",
-        "link": "https://github.com/jmarshall23/msword",
-        "pubDate": "2026-08-11T14:20",
-        "feedId": "lobsters"
-      },
-      {
         "title": "GitHub Actions needs OIDC audience constraints",
         "link": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
         "pubDate": "2026-08-10T13:30",
         "feedId": "lobsters"
       },
       {
-        "title": "Toggles Considered Harmful",
-        "link": "https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/",
-        "pubDate": "2026-08-10T08:04",
+        "title": "A noob learns FFT",
+        "link": "https://entropicthoughts.com/fft",
+        "pubDate": "2026-08-11T12:41",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Used EV buying guide: The $30,000 edition",
+        "link": "https://arstechnica.com/cars/2026/08/used-ev-buying-guide-the-30000-edition/",
+        "pubDate": "2026-08-11T18:31",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Less than 2.5% of Taylor Farms' recalled lettuce went to Taco Bells",
         "link": "https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells/",
@@ -229,7 +235,7 @@
         "feedId": "arstechnica"
       },
       {
-        "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
+        "title": "Live now: Ross Scott discusses the Stop Killing Games movement",
         "link": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
         "pubDate": "2026-08-10T22:23",
         "feedId": "arstechnica"
@@ -275,12 +281,6 @@
         "link": "https://arstechnica.com/health/2026/08/taylor-farms-recalls-jalapeno-products-for-salmonella-amid-cyclospora-outbreak/",
         "pubDate": "2026-08-10T16:37",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Valve slowly expands SteamOS support on non-Valve hardware",
-        "link": "https://arstechnica.com/gaming/2026/08/valve-slowly-expands-steamos-support-on-non-valve-hardware/",
-        "pubDate": "2026-08-10T16:01",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -291,6 +291,18 @@
         "title": "Trump's DOJ lays groundwork for subpoena fights with a Democratic Congress",
         "link": "https://www.axios.com/2026/08/11/trump-doj-executive-privilege-democratic-probes",
         "pubDate": "2026-08-11T18:28",
+        "feedId": "axios"
+      },
+      {
+        "title": "Tech giants are pushing for a new AI agent incident reporting framework",
+        "link": "https://www.axios.com/2026/08/11/open-source-security-ai-agent-reporting",
+        "pubDate": "2026-08-11T17:31",
+        "feedId": "axios"
+      },
+      {
+        "title": "Security leaders are stuck in decision paralysis over AI-enabled cyberattacks",
+        "link": "https://www.axios.com/2026/08/11/ai-cybersecurity-hackers-enterprise-software",
+        "pubDate": "2026-08-11T17:27",
         "feedId": "axios"
       },
       {
@@ -363,18 +375,6 @@
         "title": "Meta, others lose appeal to drop thousands of social media addiction lawsuits",
         "link": "https://www.axios.com/2026/08/10/social-media-addiction-lawsuits-meta-tiktok",
         "pubDate": "2026-08-10T19:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "OpenAI introduces a new cyber model amid fears of AI cyberattacks",
-        "link": "https://www.axios.com/2026/08/10/openai-gpt-astra-restrictions-safety-hacking-defenders",
-        "pubDate": "2026-08-10T17:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "The U.S. just had its hottest month on record",
-        "link": "https://www.axios.com/2026/08/10/july-2026-hottest-month",
-        "pubDate": "2026-08-10T16:48",
         "feedId": "axios"
       }
     ]
