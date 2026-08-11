@@ -3,21 +3,45 @@
     "id": "hn",
     "items": [
       {
-        "title": "OpenAI's Only Ethicist Reportedly Left Last Month",
-        "link": "https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883",
-        "pubDate": "2026-08-11T12:23",
+        "title": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
+        "link": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
+        "pubDate": "2026-08-11T14:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "New Orleans is using AI to triage 911 calls in case of backlog",
+        "link": "https://consumerrights.wiki/w/User:Louis/New_Orleans_AI_911_call_triage",
+        "pubDate": "2026-08-11T13:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nvidia Nemotron 3.5 Lightning",
+        "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+        "pubDate": "2026-08-11T13:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "England set to be one of the first countries to eliminate hepatitis C",
+        "link": "https://www.bbc.com/news/articles/c75gk620r22o",
+        "pubDate": "2026-08-11T12:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "How to organize Claude Code for product work",
+        "link": "https://www.theaithinker.com/p/how-to-organize-claude-code-for-product",
+        "pubDate": "2026-08-11T11:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
+        "link": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+        "pubDate": "2026-08-11T10:40",
         "feedId": "hn"
       },
       {
         "title": "Nvidia's Risky Business",
         "link": "https://stratechery.com/2026/nvidias-risky-business/",
         "pubDate": "2026-08-11T10:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "More than 10 firms pay up to $100k a month for access to Truth Social posts",
-        "link": "https://www.bbc.com/news/articles/ce3q5nxpgk1o",
-        "pubDate": "2026-08-11T09:57",
         "feedId": "hn"
       },
       {
@@ -30,12 +54,6 @@
         "title": "France to ban unsolicited telemarketing calls",
         "link": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
         "pubDate": "2026-08-11T08:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
-        "link": "https://github.com/activeing123/mcptoon",
-        "pubDate": "2026-08-11T05:26",
         "feedId": "hn"
       },
       {
@@ -73,24 +91,6 @@
         "link": "https://thewalrus.ca/google-search-is-dying/",
         "pubDate": "2026-08-10T22:36",
         "feedId": "hn"
-      },
-      {
-        "title": "How Claude marks AI-generated content",
-        "link": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-        "pubDate": "2026-08-10T21:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "Confessions of a Long-Distance Sailor",
-        "link": "https://arachnoid.com/lutusp/sailbook.html",
-        "pubDate": "2026-08-10T20:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "Rust SIMD on the GPU",
-        "link": "https://www.vectorware.com/blog/simd-on-gpu/",
-        "pubDate": "2026-08-10T18:12",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Chicken Scheme 6.0 released",
-        "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
-        "pubDate": "2026-08-11T00:24",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Reviewing code is a skill",
         "link": "https://typesanitizer.com/blog/code-review.html",
         "pubDate": "2026-08-11T05:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Chicken Scheme 6.0 released",
+        "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
+        "pubDate": "2026-08-11T00:24",
         "feedId": "lobsters"
       },
       {
@@ -122,27 +122,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Briar is in maintenance mode",
+        "link": "https://briarproject.org/news/2026-maintenance-mode/",
+        "pubDate": "2026-08-11T12:22",
+        "feedId": "lobsters"
+      },
+      {
         "title": "GitHub Actions needs OIDC audience constraints",
         "link": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
         "pubDate": "2026-08-10T13:30",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Toggles Considered Harmful",
-        "link": "https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/",
-        "pubDate": "2026-08-10T08:04",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Firefox Containers Preview",
-        "link": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
-        "pubDate": "2026-08-10T09:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "a pure css implementation of some sunlight streaming in through the window",
-        "link": "https://github.com/jackyzha0/sunlit",
-        "pubDate": "2026-08-10T15:29",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +140,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "We're not done with point clouds",
-        "link": "https://claytonwramsey.com/blog/mvt/",
-        "pubDate": "2026-08-10T18:21",
+        "title": "Toggles Considered Harmful",
+        "link": "https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/",
+        "pubDate": "2026-08-10T08:04",
         "feedId": "lobsters"
       },
       {
-        "title": "Breaking up (lines) is hard to do",
-        "link": "https://www.b-list.org/weblog/2026/aug/10/newlines/",
-        "pubDate": "2026-08-10T21:32",
+        "title": "a pure css implementation of some sunlight streaming in through the window",
+        "link": "https://github.com/jackyzha0/sunlit",
+        "pubDate": "2026-08-10T15:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A noob learns FFT",
+        "link": "https://entropicthoughts.com/fft",
+        "pubDate": "2026-08-11T12:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Firefox Containers Preview",
+        "link": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+        "pubDate": "2026-08-10T09:37",
         "feedId": "lobsters"
       },
       {
@@ -170,9 +170,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Watch out for cache read costs",
-        "link": "https://martinalderson.com/posts/watch-out-for-cache-read-costs/",
-        "pubDate": "2026-08-10T22:33",
+        "title": "Breaking up (lines) is hard to do",
+        "link": "https://www.b-list.org/weblog/2026/aug/10/newlines/",
+        "pubDate": "2026-08-10T21:32",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A noob learns FFT",
-        "link": "https://entropicthoughts.com/fft",
-        "pubDate": "2026-08-11T12:41",
+        "title": "We're not done with point clouds",
+        "link": "https://claytonwramsey.com/blog/mvt/",
+        "pubDate": "2026-08-10T18:21",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
+        "link": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
+        "pubDate": "2026-08-11T11:30",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
         "link": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
@@ -274,12 +280,6 @@
         "title": "A researcher bought noreply.net. Companies started sending him secrets.",
         "link": "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/",
         "pubDate": "2026-08-10T14:25",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Peer review is overwhelmed—can it survive in the AI era?",
-        "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
-        "pubDate": "2026-08-10T11:00",
         "feedId": "arstechnica"
       }
     ]
