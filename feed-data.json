@@ -3,6 +3,30 @@
     "id": "hn",
     "items": [
       {
+        "title": "We Used to Get Jobs",
+        "link": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+        "pubDate": "2026-08-11T18:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "OpenSSH 10.5 released, AI assistance now welcome",
+        "link": "https://www.openssh.org/releasenotes.html#10.5",
+        "pubDate": "2026-08-11T17:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
+        "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+        "pubDate": "2026-08-11T16:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "Mojo 1.0 Is Here",
+        "link": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+        "pubDate": "2026-08-11T16:56",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
         "link": "https://github.com/TheRealYT/git-knife",
         "pubDate": "2026-08-11T15:09",
@@ -30,24 +54,6 @@
         "title": "Manus will return to operating as an independent company",
         "link": "https://manus.im/blog/a-note-to-our-users",
         "pubDate": "2026-08-11T14:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
-        "link": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
-        "pubDate": "2026-08-11T14:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "$580M undersea cable rerouted to avoid the grave of Dobby the House Elf",
-        "link": "https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site",
-        "pubDate": "2026-08-11T13:42",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Write.md, a free, open-source, themeable Markdown editor for macOS",
-        "link": "https://writemd.app/",
-        "pubDate": "2026-08-11T13:30",
         "feedId": "hn"
       },
       {
@@ -85,12 +91,6 @@
         "link": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
         "pubDate": "2026-08-11T08:15",
         "feedId": "hn"
-      },
-      {
-        "title": "Recycle – Floppydisks",
-        "link": "https://www.floppydisk.com/recycle",
-        "pubDate": "2026-08-11T02:01",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Reviewing code is a skill",
-        "link": "https://typesanitizer.com/blog/code-review.html",
-        "pubDate": "2026-08-11T05:37",
+        "title": "GNOME Shell Design Dreams",
+        "link": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
+        "pubDate": "2026-08-11T14:08",
         "feedId": "lobsters"
       },
       {
-        "title": "Chicken Scheme 6.0 released",
-        "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
-        "pubDate": "2026-08-11T00:24",
+        "title": "Reviewing code is a skill",
+        "link": "https://typesanitizer.com/blog/code-review.html",
+        "pubDate": "2026-08-11T05:37",
         "feedId": "lobsters"
       },
       {
@@ -116,15 +116,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "GNOME Shell Design Dreams",
-        "link": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
-        "pubDate": "2026-08-11T14:08",
-        "feedId": "lobsters"
-      },
-      {
         "title": "There's a dungeon under this blog",
         "link": "https://blog.lvmbdv.dev/posts/theres-a-dungeon-under-this-blog/",
         "pubDate": "2026-08-11T09:02",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Chicken Scheme 6.0 released",
+        "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
+        "pubDate": "2026-08-11T00:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "No, local models will not win",
+        "link": "https://www.seangoedecke.com/local-models-will-not-win/",
+        "pubDate": "2026-08-11T03:27",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +140,39 @@
         "feedId": "lobsters"
       },
       {
+        "title": "My Anti AI computer",
+        "link": "https://punkx.org/jackdoe/home.html",
+        "pubDate": "2026-08-11T17:31",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Making [etched] holograms with a pen plotter",
         "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
         "pubDate": "2026-08-11T12:13",
         "feedId": "lobsters"
       },
       {
-        "title": "No, local models will not win",
-        "link": "https://www.seangoedecke.com/local-models-will-not-win/",
-        "pubDate": "2026-08-11T03:27",
+        "title": "Bevy's Sixth Birthday",
+        "link": "https://bevy.org/news/bevys-sixth-birthday/",
+        "pubDate": "2026-08-11T03:36",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The fastest double-to-string algorithm you’ve never heard of",
+        "link": "https://vitaut.net/posts/2026/yy-dtoa/",
+        "pubDate": "2026-08-11T16:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Performance impact of Alignment",
+        "link": "https://eme64.github.io/blog/2026/01/12/Alignment-Performance.html",
+        "pubDate": "2026-08-11T16:00",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "msword: Port of Microsoft Word 1.1a to x64",
+        "link": "https://github.com/jmarshall23/msword",
+        "pubDate": "2026-08-11T14:20",
         "feedId": "lobsters"
       },
       {
@@ -156,42 +186,30 @@
         "link": "https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/",
         "pubDate": "2026-08-10T08:04",
         "feedId": "lobsters"
-      },
-      {
-        "title": "A noob learns FFT",
-        "link": "https://entropicthoughts.com/fft",
-        "pubDate": "2026-08-11T12:41",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Performance impact of Alignment",
-        "link": "https://eme64.github.io/blog/2026/01/12/Alignment-Performance.html",
-        "pubDate": "2026-08-11T16:00",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "a pure css implementation of some sunlight streaming in through the window",
-        "link": "https://github.com/jackyzha0/sunlit",
-        "pubDate": "2026-08-10T15:29",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Firefox Containers Preview",
-        "link": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
-        "pubDate": "2026-08-10T09:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Bevy's Sixth Birthday",
-        "link": "https://bevy.org/news/bevys-sixth-birthday/",
-        "pubDate": "2026-08-11T03:36",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Less than 2.5% of Taylor Farms' recalled lettuce went to Taco Bells",
+        "link": "https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells/",
+        "pubDate": "2026-08-11T18:00",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Tracking extreme heat by the hour makes climate change seem even worse",
+        "link": "https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/",
+        "pubDate": "2026-08-11T16:26",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "A Google insider spills the tea on how the company forsook its founding ideals",
+        "link": "https://arstechnica.com/gadgets/2026/08/a-google-insider-spills-the-tea-on-how-the-company-forsook-its-founding-ideals/",
+        "pubDate": "2026-08-11T16:07",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Trump to give Republicans a 3-1 FCC majority, isn't filling empty Democratic seat",
         "link": "https://arstechnica.com/tech-policy/2026/08/trump-to-give-republicans-a-3-1-fcc-majority-isnt-filling-empty-democratic-seat/",
@@ -263,24 +281,6 @@
         "link": "https://arstechnica.com/gaming/2026/08/valve-slowly-expands-steamos-support-on-non-valve-hardware/",
         "pubDate": "2026-08-10T16:01",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Following Epic loss, Google has started hosting rival app stores in the Play Store",
-        "link": "https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/",
-        "pubDate": "2026-08-10T15:44",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "One of China's workhorse rockets just exploded in flight",
-        "link": "https://arstechnica.com/space/2026/08/one-of-chinas-workhorse-rockets-just-exploded-in-flight/",
-        "pubDate": "2026-08-10T15:05",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Dogs can tell if you're scared or sad",
-        "link": "https://arstechnica.com/science/2026/08/dogs-can-tell-if-youre-scared-or-sad/",
-        "pubDate": "2026-08-10T15:00",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -290,7 +290,7 @@
       {
         "title": "Trump's DOJ lays groundwork for subpoena fights with a Democratic Congress",
         "link": "https://www.axios.com/2026/08/11/trump-doj-executive-privilege-democratic-probes",
-        "pubDate": "2026-08-11T16:46",
+        "pubDate": "2026-08-11T18:28",
         "feedId": "axios"
       },
       {
