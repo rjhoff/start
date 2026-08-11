@@ -3,9 +3,15 @@
     "id": "hn",
     "items": [
       {
-        "title": "US President hid in catering cart for secret flight in Turkey amid Iran threat",
-        "link": "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return",
-        "pubDate": "2026-08-11T03:08",
+        "title": "Updated GPG Key for Signing Firefox and Thunderbird Releases",
+        "link": "https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/",
+        "pubDate": "2026-08-11T04:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why My Father Is Wrong: A Defense of Guitar Hero",
+        "link": "https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/",
+        "pubDate": "2026-08-11T03:52",
         "feedId": "hn"
       },
       {
@@ -21,7 +27,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Antirez/h3.c: MiniMax H3 inference engine for Mac computers",
+        "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
         "link": "https://github.com/antirez/h3.c",
         "pubDate": "2026-08-11T01:22",
         "feedId": "hn"
@@ -30,12 +36,6 @@
         "title": "Chicken Scheme 6.0",
         "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
         "pubDate": "2026-08-11T00:24",
-        "feedId": "hn"
-      },
-      {
-        "title": "The UK's War on Anonymity Has Come to America",
-        "link": "https://www.effort.news/uk-lobby",
-        "pubDate": "2026-08-10T23:45",
         "feedId": "hn"
       },
       {
@@ -54,12 +54,6 @@
         "title": "Confessions of a Long-Distance Sailor",
         "link": "https://arachnoid.com/lutusp/sailbook.html",
         "pubDate": "2026-08-10T20:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "Stop Killing Games: It's time to sue Sony, join us",
-        "link": "https://www.massaschadeconsument.nl/collectieve-acties/playstation/",
-        "pubDate": "2026-08-10T20:47",
         "feedId": "hn"
       },
       {
@@ -90,6 +84,12 @@
         "title": "Exploiting System Management Mode with a very long interrupt",
         "link": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
         "pubDate": "2026-08-10T16:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+        "link": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+        "pubDate": "2026-08-10T14:38",
         "feedId": "hn"
       }
     ]
@@ -134,21 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Django is moving to an annual release cycle",
-        "link": "https://www.djangoproject.com/weblog/2026/aug/10/annual-release-cycle/",
-        "pubDate": "2026-08-10T12:46",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Chicken Scheme 6.0 released",
         "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
         "pubDate": "2026-08-11T00:24",
         "feedId": "lobsters"
       },
       {
-        "title": "How do programming languages impact token efficiency and correctness?",
-        "link": "https://danluu.com/pl-tokens/",
-        "pubDate": "2026-08-10T07:47",
+        "title": "Django is moving to an annual release cycle",
+        "link": "https://www.djangoproject.com/weblog/2026/aug/10/annual-release-cycle/",
+        "pubDate": "2026-08-10T12:46",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +152,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Remaking Party House",
+        "link": "https://herecomesthemoon.net/2026/08/remaking-party-house/",
+        "pubDate": "2026-08-10T20:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Breaking up (lines) is hard to do",
+        "link": "https://www.b-list.org/weblog/2026/aug/10/newlines/",
+        "pubDate": "2026-08-10T21:32",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Watch out for cache read costs",
         "link": "https://martinalderson.com/posts/watch-out-for-cache-read-costs/",
         "pubDate": "2026-08-10T22:33",
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/3qwloh/what_are_you_doing_this_week",
-        "pubDate": "2026-08-10T11:41",
+        "title": "How do programming languages impact token efficiency and correctness?",
+        "link": "https://danluu.com/pl-tokens/",
+        "pubDate": "2026-08-10T07:47",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Fast Haskell Scripts on GitHub Actions",
-        "link": "https://abhinavsarkar.net/posts/fast-haskell-scripts-on-github-actions/",
-        "pubDate": "2026-08-10T11:21",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Dark mode toggles: two states are enough",
-        "link": "https://lea.verou.me/blog/2026/dark-mode-toggles/",
-        "pubDate": "2026-08-10T18:09",
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/3qwloh/what_are_you_doing_this_week",
+        "pubDate": "2026-08-10T11:41",
         "feedId": "lobsters"
       }
     ]
