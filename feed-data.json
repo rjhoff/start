@@ -9,6 +9,12 @@
         "feedId": "hn"
       },
       {
+        "title": "The Water Footprint of AI",
+        "link": "https://doi.org/10.1016/j.watres.2026.125866",
+        "pubDate": "2026-08-11T07:00",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
         "link": "https://github.com/activeing123/mcptoon",
         "pubDate": "2026-08-11T05:26",
@@ -85,12 +91,6 @@
         "link": "http://danluu.com/pl-tokens/",
         "pubDate": "2026-08-10T16:28",
         "feedId": "hn"
-      },
-      {
-        "title": "Exploiting System Management Mode with a very long interrupt",
-        "link": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
-        "pubDate": "2026-08-10T16:03",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,21 +98,9 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Toggles Considered Harmful",
-        "link": "https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/",
-        "pubDate": "2026-08-10T08:04",
-        "feedId": "lobsters"
-      },
-      {
         "title": "A researcher bought noreply.net. Companies started sending him secrets",
         "link": "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/",
         "pubDate": "2026-08-10T16:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "GitHub Actions needs OIDC audience constraints",
-        "link": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
-        "pubDate": "2026-08-10T13:30",
         "feedId": "lobsters"
       },
       {
@@ -122,9 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Firefox Containers Preview",
-        "link": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
-        "pubDate": "2026-08-10T09:37",
+        "title": "Toggles Considered Harmful",
+        "link": "https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/",
+        "pubDate": "2026-08-10T08:04",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "GitHub Actions needs OIDC audience constraints",
+        "link": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
+        "pubDate": "2026-08-10T13:30",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +128,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Firefox Containers Preview",
+        "link": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+        "pubDate": "2026-08-10T09:37",
+        "feedId": "lobsters"
+      },
+      {
         "title": "a pure css implementation of some sunlight streaming in through the window",
         "link": "https://github.com/jackyzha0/sunlit",
         "pubDate": "2026-08-10T15:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "No, local models will not win",
+        "link": "https://www.seangoedecke.com/local-models-will-not-win/",
+        "pubDate": "2026-08-11T03:27",
         "feedId": "lobsters"
       },
       {
@@ -155,12 +161,6 @@
         "title": "Django is moving to an annual release cycle",
         "link": "https://www.djangoproject.com/weblog/2026/aug/10/annual-release-cycle/",
         "pubDate": "2026-08-10T12:46",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "No, local models will not win",
-        "link": "https://www.seangoedecke.com/local-models-will-not-win/",
-        "pubDate": "2026-08-11T03:27",
         "feedId": "lobsters"
       },
       {
@@ -288,6 +288,36 @@
     "id": "axios",
     "items": [
       {
+        "title": "\"Not helpful\": White House winces over conservatives bashing AOC for egg freezing",
+        "link": "https://www.axios.com/2026/08/11/aoc-egg-freezing-white-house",
+        "pubDate": "2026-08-11T09:25",
+        "feedId": "axios"
+      },
+      {
+        "title": "Homicides fall 17% in big U.S. cities as the post-pandemic crime decline continues",
+        "link": "https://www.axios.com/2026/08/11/big-city-homicides-decline-2026",
+        "pubDate": "2026-08-11T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "Why \"chipflation\" is here to stay",
+        "link": "https://www.axios.com/2026/08/11/chips-memory-inflation-ai",
+        "pubDate": "2026-08-11T09:10",
+        "feedId": "axios"
+      },
+      {
+        "title": "Tenacious AI agents expose dark side of machine autonomy",
+        "link": "https://www.axios.com/2026/08/11/ai-agents-rogue-autonomy-hugging-face",
+        "pubDate": "2026-08-11T09:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "AI could help unlock more oil — and emissions",
+        "link": "https://www.axios.com/2026/08/11/ai-oil-gas-emissions-increase",
+        "pubDate": "2026-08-11T09:00",
+        "feedId": "axios"
+      },
+      {
         "title": "Food safety crisis deepens for Taylor Farms with salmonella outbreak",
         "link": "https://www.axios.com/2026/08/10/salmonella-outbreak-food-safety-taylor-farms",
         "pubDate": "2026-08-10T22:19",
@@ -345,36 +375,6 @@
         "title": "Zuckerberg: AI's biggest risk is one entity with too much control",
         "link": "https://www.axios.com/2026/08/10/zuckerberg-ai-manifesto-meta",
         "pubDate": "2026-08-10T10:03",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: Sanders calls for AI development pause",
-        "link": "https://www.axios.com/2026/08/10/sanders-ai-development-pause",
-        "pubDate": "2026-08-10T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "How Kevin Warsh is rewiring the Fed",
-        "link": "https://www.axios.com/2026/08/10/kevin-warsh-fed-economy-rates-ai",
-        "pubDate": "2026-08-10T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Bernie's revolution gets a test run for 2028 in Michigan and Wisconsin",
-        "link": "https://www.axios.com/2026/08/09/democrats-populists-michigan-wisconsin-2028-test",
-        "pubDate": "2026-08-09T21:50",
-        "feedId": "axios"
-      },
-      {
-        "title": "Pro-science group urges Mark Kelly to run for president in 2028",
-        "link": "https://www.axios.com/2026/08/09/group-promoting-science-urges-kelly-to-run-for-president",
-        "pubDate": "2026-08-09T21:40",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump to Axios: \"We are low-keying it\" with Iran",
-        "link": "https://www.axios.com/2026/08/09/trump-iran-interview",
-        "pubDate": "2026-08-09T16:55",
         "feedId": "axios"
       }
     ]
