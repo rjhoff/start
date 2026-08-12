@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+        "link": "https://woxi.ad-si.com",
+        "pubDate": "2026-08-12T10:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tim Gowers: What sort of maths are LLMs good at?",
+        "link": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+        "pubDate": "2026-08-12T10:04",
+        "feedId": "hn"
+      },
+      {
         "title": "Facebook is paying controversial creators to produce rage-bait content",
         "link": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
         "pubDate": "2026-08-12T09:35",
@@ -79,18 +91,6 @@
         "link": "https://x.ai/bot",
         "pubDate": "2026-08-11T17:23",
         "feedId": "hn"
-      },
-      {
-        "title": "Go is an ideal language for AI-assisted software engineering",
-        "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-        "pubDate": "2026-08-11T16:57",
-        "feedId": "hn"
-      },
-      {
-        "title": "Mojo 1.0",
-        "link": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-        "pubDate": "2026-08-11T16:56",
-        "feedId": "hn"
       }
     ]
   },
@@ -101,6 +101,12 @@
         "title": "GNOME Shell Design Dreams",
         "link": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
         "pubDate": "2026-08-11T14:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Analyzing My Lobsters Submissions",
+        "link": "https://abhinavsarkar.net/notes/2026-lobsters-submissions/",
+        "pubDate": "2026-08-12T08:53",
         "feedId": "lobsters"
       },
       {
@@ -122,12 +128,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Briar is in maintenance mode",
-        "link": "https://briarproject.org/news/2026-maintenance-mode/",
-        "pubDate": "2026-08-11T12:22",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Introducing Automatic Key Verification",
         "link": "https://signal.org/blog/automatic-key-verification/",
         "pubDate": "2026-08-12T07:10",
@@ -140,9 +140,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Briar is in maintenance mode",
+        "link": "https://briarproject.org/news/2026-maintenance-mode/",
+        "pubDate": "2026-08-11T12:22",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The fastest double-to-string algorithm you’ve never heard of",
         "link": "https://vitaut.net/posts/2026/yy-dtoa/",
         "pubDate": "2026-08-11T16:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Guide to (not) fucking up QR codes",
+        "link": "https://infosec.exchange/@rebane2001/117078420917152774",
+        "pubDate": "2026-08-12T11:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
+        "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+        "pubDate": "2026-08-12T05:20",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
-        "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-        "pubDate": "2026-08-12T05:20",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Making [etched] holograms with a pen plotter",
         "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
         "pubDate": "2026-08-11T12:13",
         "feedId": "lobsters"
       },
       {
-        "title": "Analyzing My Lobsters Submissions",
-        "link": "https://abhinavsarkar.net/notes/2026-lobsters-submissions/",
-        "pubDate": "2026-08-12T08:53",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Chicken Scheme 6.0 released",
-        "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
-        "pubDate": "2026-08-11T00:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "RangeFrom, Part 1․․",
-        "link": "https://erk.dev/2026/08/12/rangefrom-part-1",
-        "pubDate": "2026-08-12T02:52",
+        "title": "Tail-Call Interpreters in Rust",
+        "link": "https://lordgoati.us/blog/tail-call/",
+        "pubDate": "2026-08-12T06:31",
         "feedId": "lobsters"
       }
     ]
