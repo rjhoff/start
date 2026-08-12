@@ -3,9 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
-        "link": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
-        "pubDate": "2026-08-12T21:45",
+        "title": "Show HN: A marketplace where AI agents buy services from AI agents",
+        "link": "https://aaas-marketplace-1089237826218.asia-northeast1.run.app",
+        "pubDate": "2026-08-12T23:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "I built a browser-native SysEx librarian for 80s/90s synthesizers",
+        "link": "https://bipluk.com/",
+        "pubDate": "2026-08-12T22:47",
+        "feedId": "hn"
+      },
+      {
+        "title": "Process as a Proxy for Motivation",
+        "link": "https://bengodfrey.dev/blog/process/",
+        "pubDate": "2026-08-12T22:01",
         "feedId": "hn"
       },
       {
@@ -45,12 +57,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Glaciers on the Climate Dashboard",
-        "link": "https://climate.metoffice.cloud/glaciers.html",
-        "pubDate": "2026-08-12T16:38",
-        "feedId": "hn"
-      },
-      {
         "title": "Lovable raises $400M Series C",
         "link": "https://lovable.dev/blog/series-c",
         "pubDate": "2026-08-12T16:20",
@@ -84,12 +90,6 @@
         "title": "GiveCampus (YC S15) Is Hiring Engineering Managers",
         "link": "https://job-boards.greenhouse.io/givecampus/jobs/4112793009",
         "pubDate": "2026-08-12T14:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "Pixel 11 Pro Fold",
-        "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
-        "pubDate": "2026-08-12T14:52",
         "feedId": "hn"
       }
     ]
@@ -146,27 +146,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Mindful coding: Purpose and intention",
-        "link": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
-        "pubDate": "2026-08-12T12:59",
-        "feedId": "lobsters"
-      },
-      {
         "title": "A critical review of Xilem in 2026",
         "link": "https://hackmd.io/@s_haMSbyTAOWfoXc1aYNUg/Hka74gCwZg",
         "pubDate": "2026-08-12T18:20",
         "feedId": "lobsters"
       },
       {
-        "title": "On AI Coding and Its Discontents",
-        "link": "https://calnewport.com/on-ai-coding-and-its-discontents/",
-        "pubDate": "2026-08-12T08:43",
+        "title": "Mindful coding: Purpose and intention",
+        "link": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
+        "pubDate": "2026-08-12T12:59",
         "feedId": "lobsters"
       },
       {
         "title": "Why tiny JPEGs look different in Chrome",
         "link": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
         "pubDate": "2026-08-12T17:59",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "On AI Coding and Its Discontents",
+        "link": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+        "pubDate": "2026-08-12T08:43",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Compression is prediction",
-        "link": "https://ngrok.com/blog/compression-is-prediction",
-        "pubDate": "2026-08-11T19:35",
+        "title": "Tabs, Spaces, Hand Tools, and Seat Belts",
+        "link": "https://newsletter.powderworks.dev/p/tabs-spaces-hand-tools-and-seat-belts",
+        "pubDate": "2026-08-12T18:20",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
+        "link": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
+        "pubDate": "2026-08-12T22:31",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "The web’s newest weapon against AI scrapers is a font",
+        "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+        "pubDate": "2026-08-12T22:02",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Terabytes of credentials leaked in massive supply-chain attack",
         "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
@@ -268,18 +280,6 @@
         "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
         "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
         "pubDate": "2026-08-12T00:08",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it's idiotic",
-        "link": "https://arstechnica.com/health/2026/08/trump-wants-big-pharma-to-split-mmr-vaccine-big-pharma-thinks-its-idiotic/",
-        "pubDate": "2026-08-11T22:31",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Russian drones found near vital European offshore gas site, get blown up",
-        "link": "https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/",
-        "pubDate": "2026-08-11T21:20",
         "feedId": "arstechnica"
       }
     ]
