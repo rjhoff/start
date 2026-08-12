@@ -3,13 +3,19 @@
     "id": "hn",
     "items": [
       {
-        "title": "Zed: Delta",
+        "title": "Building Security Agents That Cannot Escape Their Trust Boundary",
+        "link": "https://cynative.com/blog/agent-trust-boundaries/",
+        "pubDate": "2026-08-12T19:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Delta",
         "link": "https://zed.dev/blog/introducing-delta",
         "pubDate": "2026-08-12T18:19",
         "feedId": "hn"
       },
       {
-        "title": "Your key to success isn't more luck or hard work",
+        "title": "People who grew up with high economic connectedness earn more",
         "link": "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/",
         "pubDate": "2026-08-12T18:17",
         "feedId": "hn"
@@ -39,15 +45,15 @@
         "feedId": "hn"
       },
       {
-        "title": "We just raised $400M in Series C",
+        "title": "Lovable raises $400M Series C",
         "link": "https://lovable.dev/blog/series-c",
         "pubDate": "2026-08-12T16:20",
         "feedId": "hn"
       },
       {
-        "title": "Bike Bureau: Report Bike Lane Obstructions",
-        "link": "https://loudbicycle.com/bb",
-        "pubDate": "2026-08-12T16:20",
+        "title": "Pixel Watch 5",
+        "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
+        "pubDate": "2026-08-12T16:14",
         "feedId": "hn"
       },
       {
@@ -75,21 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Hax – a minimalist, terminal-native coding agent written in C",
-        "link": "https://usehax.dev/",
-        "pubDate": "2026-08-12T14:43",
+        "title": "Pixel 11 Pro Fold",
+        "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
+        "pubDate": "2026-08-12T14:52",
         "feedId": "hn"
       },
       {
         "title": "License plate reader searches should require a warrant",
         "link": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
         "pubDate": "2026-08-12T14:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-        "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-        "pubDate": "2026-08-12T14:22",
         "feedId": "hn"
       }
     ]
@@ -122,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Analyzing My Lobsters Submissions",
-        "link": "https://abhinavsarkar.net/notes/2026-lobsters-submissions/",
-        "pubDate": "2026-08-12T08:53",
+        "title": "My Homelab Got Hacked - A Postmortem",
+        "link": "https://phunky.cafe/my-homelab-got-hacked/",
+        "pubDate": "2026-08-12T15:50",
         "feedId": "lobsters"
       },
       {
-        "title": "Mindful coding: Purpose and intention",
-        "link": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
-        "pubDate": "2026-08-12T12:59",
+        "title": "Analyzing My Lobsters Submissions",
+        "link": "https://abhinavsarkar.net/notes/2026-lobsters-submissions/",
+        "pubDate": "2026-08-12T08:53",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Introducing Automatic Key Verification",
-        "link": "https://signal.org/blog/automatic-key-verification/",
-        "pubDate": "2026-08-12T07:10",
+        "title": "Mindful coding: Purpose and intention",
+        "link": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
+        "pubDate": "2026-08-12T12:59",
         "feedId": "lobsters"
       },
       {
-        "title": "My Homelab Got Hacked - A Postmortem",
-        "link": "https://phunky.cafe/my-homelab-got-hacked/",
-        "pubDate": "2026-08-12T15:50",
+        "title": "Introducing Automatic Key Verification",
+        "link": "https://signal.org/blog/automatic-key-verification/",
+        "pubDate": "2026-08-12T07:10",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why tiny JPEGs look different in Chrome",
-        "link": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-        "pubDate": "2026-08-12T17:59",
-        "feedId": "lobsters"
-      },
-      {
         "title": "On AI Coding and Its Discontents",
         "link": "https://calnewport.com/on-ai-coding-and-its-discontents/",
         "pubDate": "2026-08-12T08:43",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why tiny JPEGs look different in Chrome",
+        "link": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+        "pubDate": "2026-08-12T17:59",
         "feedId": "lobsters"
       },
       {
@@ -290,7 +290,7 @@
       {
         "title": "Karoline Leavitt stepping down as White House press secretary",
         "link": "https://www.axios.com/2026/08/12/trump-karoline-leavitt-white-house-press",
-        "pubDate": "2026-08-12T19:47",
+        "pubDate": "2026-08-12T20:10",
         "feedId": "axios"
       },
       {
