@@ -1,8 +1,98 @@
 {
   "hn": {
     "id": "hn",
-    "error": "Request timed out after 10000ms",
-    "items": []
+    "items": [
+      {
+        "title": "Grok 4.6",
+        "link": "https://x.ai/news/grok-4-6",
+        "pubDate": "2026-08-12T15:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "Qwen/Qwen3.8-2.4T-A95B",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+        "pubDate": "2026-08-12T15:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "GiveCampus (YC S15) Is Hiring Engineering Managers",
+        "link": "https://job-boards.greenhouse.io/givecampus/jobs/4112793009",
+        "pubDate": "2026-08-12T14:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Hax – a minimalist, terminal-native coding agent written in C",
+        "link": "https://usehax.dev/",
+        "pubDate": "2026-08-12T14:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "License plate reader searches should require a warrant",
+        "link": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
+        "pubDate": "2026-08-12T14:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+        "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+        "pubDate": "2026-08-12T14:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tim King, AmigaDOS developer, has died",
+        "link": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+        "pubDate": "2026-08-12T14:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "German advocacy group lodges criminal complaint over Meta AI glasses",
+        "link": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/",
+        "pubDate": "2026-08-12T14:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+        "link": "https://knownagents.com/insights",
+        "pubDate": "2026-08-12T14:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why Tiny JPEGs Look Different in Chrome",
+        "link": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+        "pubDate": "2026-08-12T14:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "My Agent Setup",
+        "link": "https://chad.cm/posts/2026-8-11-my-agent-setup",
+        "pubDate": "2026-08-12T13:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "Automatic1111 for Apple metal, 40% speed up sd1.5",
+        "link": "https://therad.ninja/from-8-10-seconds-to-3-7-teaching-automatic1111-to-speak-metal-on-an-m3-pro/",
+        "pubDate": "2026-08-12T13:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Meteor shower, planet alignment, eclipse kit",
+        "link": "https://lifesprites.com/share/0ACA25",
+        "pubDate": "2026-08-12T13:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Commodore 8-Bit 5¼\" Disk Images",
+        "link": "https://www.masswerk.at/nowgobang/2026/commodore-disk-images",
+        "pubDate": "2026-08-12T13:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI is removing the middle class of software engineering",
+        "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+        "pubDate": "2026-08-12T13:20",
+        "feedId": "hn"
+      }
+    ]
   },
   "lobsters": {
     "id": "lobsters",
@@ -26,9 +116,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Mindful coding: Purpose and intention",
+        "link": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
+        "pubDate": "2026-08-12T12:59",
+        "feedId": "lobsters"
+      },
+      {
         "title": "GNOME Shell Design Dreams",
         "link": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
         "pubDate": "2026-08-11T14:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I'm done using AI",
+        "link": "https://brettcodes.com/im-done-using-ai/",
+        "pubDate": "2026-08-12T13:09",
         "feedId": "lobsters"
       },
       {
@@ -44,9 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Mindful coding: Purpose and intention",
-        "link": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
-        "pubDate": "2026-08-12T12:59",
+        "title": "fearless_simd v0.7: 64-bit integers, improved generics, SSE2, and upcoming v1.0",
+        "link": "https://linebender.org/blog/fearless-simd-0-7/",
+        "pubDate": "2026-08-12T13:15",
         "feedId": "lobsters"
       },
       {
@@ -56,33 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Making a game on a custom bytecode VM in 7 days and 3kB",
-        "link": "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb",
-        "pubDate": "2026-08-12T03:00",
-        "feedId": "lobsters"
-      },
-      {
         "title": "C++26: std::indirect",
         "link": "https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect",
         "pubDate": "2026-08-12T06:45",
         "feedId": "lobsters"
       },
       {
-        "title": "Reviewing code is a skill",
-        "link": "https://typesanitizer.com/blog/code-review.html",
-        "pubDate": "2026-08-11T05:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "fearless_simd v0.7: 64-bit integers, improved generics, SSE2, and upcoming v1.0",
-        "link": "https://linebender.org/blog/fearless-simd-0-7/",
-        "pubDate": "2026-08-12T13:15",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
-        "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-        "pubDate": "2026-08-12T05:20",
+        "title": "Making a game on a custom bytecode VM in 7 days and 3kB",
+        "link": "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb",
+        "pubDate": "2026-08-12T03:00",
         "feedId": "lobsters"
       },
       {
@@ -92,9 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I'm done using AI",
-        "link": "https://brettcodes.com/im-done-using-ai/",
-        "pubDate": "2026-08-12T13:09",
+        "title": "Tail-Call Interpreters in Rust",
+        "link": "https://lordgoati.us/blog/tail-call/",
+        "pubDate": "2026-08-12T06:31",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
+        "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+        "pubDate": "2026-08-12T05:20",
         "feedId": "lobsters"
       }
     ]
@@ -102,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Booksellers suspect AI firms are buying and then destroying rare books",
+        "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
+        "pubDate": "2026-08-12T15:19",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
         "link": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
@@ -184,12 +280,6 @@
         "title": "A Google insider spills the tea on how the company forsook its founding ideals",
         "link": "https://arstechnica.com/gadgets/2026/08/a-google-insider-spills-the-tea-on-how-the-company-forsook-its-founding-ideals/",
         "pubDate": "2026-08-11T16:07",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Trump to give Republicans a 3-1 FCC majority, isn't filling empty Democratic seat",
-        "link": "https://arstechnica.com/tech-policy/2026/08/trump-to-give-republicans-a-3-1-fcc-majority-isnt-filling-empty-democratic-seat/",
-        "pubDate": "2026-08-11T15:28",
         "feedId": "arstechnica"
       }
     ]
