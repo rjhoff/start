@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "llama.cpp",
+        "link": "https://llama.app",
+        "pubDate": "2026-08-12T04:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "Dropbox is an obvious PE Target?",
+        "link": "https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/",
+        "pubDate": "2026-08-12T04:30",
+        "feedId": "hn"
+      },
+      {
         "title": "The Human Is the Loop",
         "link": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
         "pubDate": "2026-08-12T02:15",
@@ -79,18 +91,6 @@
         "link": "https://master.dev/blog/typographic-css-tricks/",
         "pubDate": "2026-08-11T17:16",
         "feedId": "hn"
-      },
-      {
-        "title": "Go is an ideal language for AI-assisted software engineering",
-        "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-        "pubDate": "2026-08-11T16:57",
-        "feedId": "hn"
-      },
-      {
-        "title": "Mojo 1.0",
-        "link": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-        "pubDate": "2026-08-11T16:56",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Reviewing code is a skill",
-        "link": "https://typesanitizer.com/blog/code-review.html",
-        "pubDate": "2026-08-11T05:37",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Text Watermarking for Non-Academics",
         "link": "https://blog.gaborkoos.com/posts/2026-08-12-Text-Watermarking-for-Non-Academics/",
         "pubDate": "2026-08-12T00:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Reviewing code is a skill",
+        "link": "https://typesanitizer.com/blog/code-review.html",
+        "pubDate": "2026-08-11T05:37",
         "feedId": "lobsters"
       },
       {
@@ -122,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Compression is prediction",
-        "link": "https://ngrok.com/blog/compression-is-prediction",
-        "pubDate": "2026-08-11T19:35",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Briar is in maintenance mode",
         "link": "https://briarproject.org/news/2026-maintenance-mode/",
         "pubDate": "2026-08-11T12:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Compression is prediction",
+        "link": "https://ngrok.com/blog/compression-is-prediction",
+        "pubDate": "2026-08-11T19:35",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +146,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Making a game on a custom bytecode VM in 7 days and 3kB",
+        "link": "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb",
+        "pubDate": "2026-08-12T03:00",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Chicken Scheme 6.0 released",
         "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
         "pubDate": "2026-08-11T00:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Who's Hiring? - Not-A-Coder Edition - Aug 2026",
+        "link": "https://lobste.rs/s/cnoaqr/who_s_hiring_not_coder_edition_aug_2026",
+        "pubDate": "2026-08-11T23:46",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Mojo 1.0 is here",
-        "link": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-        "pubDate": "2026-08-11T16:59",
-        "feedId": "lobsters"
-      },
-      {
         "title": "A noob learns FFT",
         "link": "https://entropicthoughts.com/fft",
         "pubDate": "2026-08-11T12:41",
         "feedId": "lobsters"
       },
       {
-        "title": "Making a game on a custom bytecode VM in 7 days and 3kB",
-        "link": "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb",
-        "pubDate": "2026-08-12T03:00",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "No, local models will not win",
-        "link": "https://www.seangoedecke.com/local-models-will-not-win/",
-        "pubDate": "2026-08-11T03:27",
+        "title": "Mojo 1.0 is here",
+        "link": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+        "pubDate": "2026-08-11T16:59",
         "feedId": "lobsters"
       }
     ]
