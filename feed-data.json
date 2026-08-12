@@ -9,7 +9,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Your Key to Success Isn't More Luck or Hard Work",
+        "title": "Your key to success isn't more luck or hard work",
         "link": "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/",
         "pubDate": "2026-08-12T18:17",
         "feedId": "hn"
@@ -21,7 +21,7 @@
         "feedId": "hn"
       },
       {
-        "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
+        "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
         "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
         "pubDate": "2026-08-12T16:54",
         "feedId": "hn"
@@ -39,18 +39,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Qwen3.8-2.4T",
-        "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
-        "pubDate": "2026-08-12T16:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Wednesday, August 12: GitHub, Incident with Pull Requests and Issues",
-        "link": "https://www.githubstatus.com/incidents/76t89hbfb09h",
-        "pubDate": "2026-08-12T16:22",
-        "feedId": "hn"
-      },
-      {
         "title": "We just raised $400M in Series C",
         "link": "https://lovable.dev/blog/series-c",
         "pubDate": "2026-08-12T16:20",
@@ -63,19 +51,19 @@
         "feedId": "hn"
       },
       {
-        "title": "Pixel Watch 5",
-        "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
-        "pubDate": "2026-08-12T16:14",
-        "feedId": "hn"
-      },
-      {
         "title": "DeepSeek V4 Pro 0813",
         "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
         "pubDate": "2026-08-12T16:04",
         "feedId": "hn"
       },
       {
-        "title": "Qwen/Qwen3.8-2.4T-A95B",
+        "title": "Grok 4.6",
+        "link": "https://x.ai/news/grok-4-6",
+        "pubDate": "2026-08-12T15:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "Qwen3.8-2.4T",
         "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
         "pubDate": "2026-08-12T15:01",
         "feedId": "hn"
@@ -90,6 +78,18 @@
         "title": "Hax – a minimalist, terminal-native coding agent written in C",
         "link": "https://usehax.dev/",
         "pubDate": "2026-08-12T14:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "License plate reader searches should require a warrant",
+        "link": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
+        "pubDate": "2026-08-12T14:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+        "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+        "pubDate": "2026-08-12T14:22",
         "feedId": "hn"
       }
     ]
@@ -116,15 +116,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "I'm done using AI",
+        "link": "https://brettcodes.com/im-done-using-ai/",
+        "pubDate": "2026-08-12T13:09",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Analyzing My Lobsters Submissions",
         "link": "https://abhinavsarkar.net/notes/2026-lobsters-submissions/",
         "pubDate": "2026-08-12T08:53",
         "feedId": "lobsters"
       },
       {
-        "title": "I'm done using AI",
-        "link": "https://brettcodes.com/im-done-using-ai/",
-        "pubDate": "2026-08-12T13:09",
+        "title": "Mindful coding: Purpose and intention",
+        "link": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
+        "pubDate": "2026-08-12T12:59",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +146,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Mindful coding: Purpose and intention",
-        "link": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
-        "pubDate": "2026-08-12T12:59",
-        "feedId": "lobsters"
-      },
-      {
         "title": "My Homelab Got Hacked - A Postmortem",
         "link": "https://phunky.cafe/my-homelab-got-hacked/",
         "pubDate": "2026-08-12T15:50",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A critical review of Xilem in 2026",
+        "link": "https://hackmd.io/@s_haMSbyTAOWfoXc1aYNUg/Hka74gCwZg",
+        "pubDate": "2026-08-12T18:20",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why tiny JPEGs look different in Chrome",
+        "link": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+        "pubDate": "2026-08-12T17:59",
         "feedId": "lobsters"
       },
       {
@@ -173,18 +185,6 @@
         "title": "C++26: std::indirect",
         "link": "https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect",
         "pubDate": "2026-08-12T06:45",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "My Anti AI computer",
-        "link": "https://punkx.org/jackdoe/home.html",
-        "pubDate": "2026-08-11T17:31",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why tiny JPEGs look different in Chrome",
-        "link": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-        "pubDate": "2026-08-12T17:59",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Karoline Leavitt stepping down as White House press secretary",
+        "link": "https://www.axios.com/2026/08/12/trump-karoline-leavitt-white-house-press",
+        "pubDate": "2026-08-12T19:47",
+        "feedId": "axios"
+      },
+      {
         "title": "ICE plans to put electric-shock gloves on officers' hands",
         "link": "https://www.axios.com/2026/08/12/ice-electric-shock-gloves-millions",
         "pubDate": "2026-08-12T17:54",
@@ -369,12 +375,6 @@
         "title": "Trump admin cuts Medicaid funds for youth trans care",
         "link": "https://www.axios.com/2026/08/11/trump-medicaid-youth-transgender-health-care",
         "pubDate": "2026-08-11T21:39",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump's secret plane switch: How Air Force One protects the president from threats",
-        "link": "https://www.axios.com/2026/08/11/trump-air-force-one-security-secret-plane-switch",
-        "pubDate": "2026-08-11T18:40",
         "feedId": "axios"
       }
     ]
