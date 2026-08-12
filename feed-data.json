@@ -1,112 +1,22 @@
 {
   "hn": {
     "id": "hn",
-    "items": [
-      {
-        "title": "Grok 4.6",
-        "link": "https://x.ai/news/grok-4-6",
-        "pubDate": "2026-08-12T15:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "Qwen/Qwen3.8-2.4T-A95B",
-        "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-        "pubDate": "2026-08-12T15:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "GiveCampus (YC S15) Is Hiring Engineering Managers",
-        "link": "https://job-boards.greenhouse.io/givecampus/jobs/4112793009",
-        "pubDate": "2026-08-12T14:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hax – a minimalist, terminal-native coding agent written in C",
-        "link": "https://usehax.dev/",
-        "pubDate": "2026-08-12T14:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "License plate reader searches should require a warrant",
-        "link": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
-        "pubDate": "2026-08-12T14:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-        "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-        "pubDate": "2026-08-12T14:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tim King, AmigaDOS developer, has died",
-        "link": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-        "pubDate": "2026-08-12T14:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "German advocacy group lodges criminal complaint over Meta AI glasses",
-        "link": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/",
-        "pubDate": "2026-08-12T14:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-        "link": "https://knownagents.com/insights",
-        "pubDate": "2026-08-12T14:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why Tiny JPEGs Look Different in Chrome",
-        "link": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-        "pubDate": "2026-08-12T14:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "My Agent Setup",
-        "link": "https://chad.cm/posts/2026-8-11-my-agent-setup",
-        "pubDate": "2026-08-12T13:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "Automatic1111 for Apple metal, 40% speed up sd1.5",
-        "link": "https://therad.ninja/from-8-10-seconds-to-3-7-teaching-automatic1111-to-speak-metal-on-an-m3-pro/",
-        "pubDate": "2026-08-12T13:41",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Meteor shower, planet alignment, eclipse kit",
-        "link": "https://lifesprites.com/share/0ACA25",
-        "pubDate": "2026-08-12T13:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "Commodore 8-Bit 5¼\" Disk Images",
-        "link": "https://www.masswerk.at/nowgobang/2026/commodore-disk-images",
-        "pubDate": "2026-08-12T13:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI is removing the middle class of software engineering",
-        "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-        "pubDate": "2026-08-12T13:20",
-        "feedId": "hn"
-      }
-    ]
+    "error": "Request timed out after 10000ms",
+    "items": []
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
       {
-        "title": "Guide to (not) fucking up QR codes",
-        "link": "https://infosec.exchange/@rebane2001/117078420917152774",
-        "pubDate": "2026-08-12T11:27",
-        "feedId": "lobsters"
-      },
-      {
         "title": "I hate packaging my software for Linux",
         "link": "https://getfresh.dev/docs/blog/packaging-for-linux/",
         "pubDate": "2026-08-12T12:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Guide to (not) fucking up QR codes",
+        "link": "https://infosec.exchange/@rebane2001/117078420917152774",
+        "pubDate": "2026-08-12T11:27",
         "feedId": "lobsters"
       },
       {
@@ -116,15 +26,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Mindful coding: Purpose and intention",
-        "link": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
-        "pubDate": "2026-08-12T12:59",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "GNOME Shell Design Dreams",
-        "link": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
-        "pubDate": "2026-08-11T14:08",
+        "title": "How Tailscale helped find the SQLite WAL-Reset bug",
+        "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+        "pubDate": "2026-08-12T15:01",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +38,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Introducing Automatic Key Verification",
-        "link": "https://signal.org/blog/automatic-key-verification/",
-        "pubDate": "2026-08-12T07:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Compression is prediction",
-        "link": "https://ngrok.com/blog/compression-is-prediction",
-        "pubDate": "2026-08-11T19:35",
+        "title": "Mindful coding: Purpose and intention",
+        "link": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
+        "pubDate": "2026-08-12T12:59",
         "feedId": "lobsters"
       },
       {
@@ -152,21 +50,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "My Anti AI computer",
-        "link": "https://punkx.org/jackdoe/home.html",
-        "pubDate": "2026-08-11T17:31",
+        "title": "Introducing Automatic Key Verification",
+        "link": "https://signal.org/blog/automatic-key-verification/",
+        "pubDate": "2026-08-12T07:10",
         "feedId": "lobsters"
       },
       {
-        "title": "C++26: std::indirect",
-        "link": "https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect",
-        "pubDate": "2026-08-12T06:45",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Making a game on a custom bytecode VM in 7 days and 3kB",
-        "link": "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb",
-        "pubDate": "2026-08-12T03:00",
+        "title": "GNOME Shell Design Dreams",
+        "link": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
+        "pubDate": "2026-08-11T14:08",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +68,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Tail-Call Interpreters in Rust",
-        "link": "https://lordgoati.us/blog/tail-call/",
-        "pubDate": "2026-08-12T06:31",
+        "title": "My Homelab Got Hacked - A Postmortem",
+        "link": "https://phunky.cafe/my-homelab-got-hacked/",
+        "pubDate": "2026-08-12T15:50",
         "feedId": "lobsters"
       },
       {
-        "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
-        "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-        "pubDate": "2026-08-12T05:20",
+        "title": "Compression is prediction",
+        "link": "https://ngrok.com/blog/compression-is-prediction",
+        "pubDate": "2026-08-11T19:35",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "C++26: std::indirect",
+        "link": "https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect",
+        "pubDate": "2026-08-12T06:45",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "My Anti AI computer",
+        "link": "https://punkx.org/jackdoe/home.html",
+        "pubDate": "2026-08-11T17:31",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Making a game on a custom bytecode VM in 7 days and 3kB",
+        "link": "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb",
+        "pubDate": "2026-08-12T03:00",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +102,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "US tries to override New York gambling laws, orders Kalshi to keep operating",
+        "link": "https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/",
+        "pubDate": "2026-08-12T16:33",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Booksellers suspect AI firms are buying and then destroying rare books",
         "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
@@ -274,12 +190,6 @@
         "title": "Tracking extreme heat by the hour makes climate change seem even worse",
         "link": "https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/",
         "pubDate": "2026-08-11T16:26",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "A Google insider spills the tea on how the company forsook its founding ideals",
-        "link": "https://arstechnica.com/gadgets/2026/08/a-google-insider-spills-the-tea-on-how-the-company-forsook-its-founding-ideals/",
-        "pubDate": "2026-08-11T16:07",
         "feedId": "arstechnica"
       }
     ]
