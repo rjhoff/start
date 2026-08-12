@@ -3,21 +3,27 @@
     "id": "hn",
     "items": [
       {
-        "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
-        "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
-        "pubDate": "2026-08-12T00:58",
+        "title": "The Human Is the Loop",
+        "link": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+        "pubDate": "2026-08-12T02:15",
         "feedId": "hn"
       },
       {
-        "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
-        "link": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
-        "pubDate": "2026-08-12T00:17",
+        "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+        "link": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+        "pubDate": "2026-08-12T02:05",
         "feedId": "hn"
       },
       {
-        "title": "US hires over 2k video gamers as air traffic controllers",
-        "link": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
-        "pubDate": "2026-08-11T23:26",
+        "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
+        "link": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
+        "pubDate": "2026-08-12T01:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "New Bedford police officer accused of using Flock cameras to track ex-partner",
+        "link": "https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/",
+        "pubDate": "2026-08-12T01:42",
         "feedId": "hn"
       },
       {
@@ -30,12 +36,6 @@
         "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
         "link": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
         "pubDate": "2026-08-11T21:54",
-        "feedId": "hn"
-      },
-      {
-        "title": "Suzanne: AI tool for designing and manufacturing physical products",
-        "link": "https://www.suzanne3d.com/",
-        "pubDate": "2026-08-11T21:28",
         "feedId": "hn"
       },
       {
@@ -69,12 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "OpenSSH 10.5/10.5p1",
-        "link": "https://www.openssh.org/releasenotes.html#10.5",
-        "pubDate": "2026-08-11T17:49",
-        "feedId": "hn"
-      },
-      {
         "title": "Grok Bot",
         "link": "https://x.ai/bot",
         "pubDate": "2026-08-11T17:23",
@@ -87,9 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "RSI Simulator",
-        "link": "https://www.paradigm.xyz/writing/rsi-simulator",
-        "pubDate": "2026-08-11T17:01",
+        "title": "Go is an ideal language for AI-assisted software engineering",
+        "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+        "pubDate": "2026-08-11T16:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "Mojo 1.0",
+        "link": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+        "pubDate": "2026-08-11T16:56",
         "feedId": "hn"
       }
     ]
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "My Anti AI computer",
-        "link": "https://punkx.org/jackdoe/home.html",
-        "pubDate": "2026-08-11T17:31",
+        "title": "Text Watermarking for Non-Academics",
+        "link": "https://blog.gaborkoos.com/posts/2026-08-12-Text-Watermarking-for-Non-Academics/",
+        "pubDate": "2026-08-12T00:29",
         "feedId": "lobsters"
       },
       {
-        "title": "Briar is in maintenance mode",
-        "link": "https://briarproject.org/news/2026-maintenance-mode/",
-        "pubDate": "2026-08-11T12:22",
+        "title": "My Anti AI computer",
+        "link": "https://punkx.org/jackdoe/home.html",
+        "pubDate": "2026-08-11T17:31",
         "feedId": "lobsters"
       },
       {
@@ -128,27 +128,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Briar is in maintenance mode",
+        "link": "https://briarproject.org/news/2026-maintenance-mode/",
+        "pubDate": "2026-08-11T12:22",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The fastest double-to-string algorithm you’ve never heard of",
         "link": "https://vitaut.net/posts/2026/yy-dtoa/",
         "pubDate": "2026-08-11T16:42",
         "feedId": "lobsters"
       },
       {
-        "title": "Chicken Scheme 6.0 released",
-        "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
-        "pubDate": "2026-08-11T00:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Text Watermarking for Non-Academics",
-        "link": "https://blog.gaborkoos.com/posts/2026-08-12-Text-Watermarking-for-Non-Academics/",
-        "pubDate": "2026-08-12T00:29",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Making [etched] holograms with a pen plotter",
         "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
         "pubDate": "2026-08-11T12:13",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Chicken Scheme 6.0 released",
+        "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
+        "pubDate": "2026-08-11T00:24",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "No, local models will not win",
-        "link": "https://www.seangoedecke.com/local-models-will-not-win/",
-        "pubDate": "2026-08-11T03:27",
-        "feedId": "lobsters"
-      },
-      {
         "title": "A noob learns FFT",
         "link": "https://entropicthoughts.com/fft",
         "pubDate": "2026-08-11T12:41",
         "feedId": "lobsters"
       },
       {
-        "title": "Bevy's Sixth Birthday",
-        "link": "https://bevy.org/news/bevys-sixth-birthday/",
-        "pubDate": "2026-08-11T03:36",
+        "title": "Making a game on a custom bytecode VM in 7 days and 3kB",
+        "link": "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb",
+        "pubDate": "2026-08-12T03:00",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "No, local models will not win",
+        "link": "https://www.seangoedecke.com/local-models-will-not-win/",
+        "pubDate": "2026-08-11T03:27",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Rep. John Larson ouster makes 2026 a record year for Democratic primary losses",
+        "link": "https://www.axios.com/2026/08/12/john-larson-luke-bronin-connecticut-primary",
+        "pubDate": "2026-08-12T02:02",
+        "feedId": "axios"
+      },
+      {
         "title": "It's official: Amy Klobuchar is Democrats' pick to succeed Gov. Tim Walz",
         "link": "https://www.axios.com/local/twin-cities/2026/08/12/klobuchar-minnesota-democratic-primary-governor",
         "pubDate": "2026-08-12T01:35",
@@ -369,12 +375,6 @@
         "title": "Homicides fall 17% in big U.S. cities as the post-pandemic crime decline continues",
         "link": "https://www.axios.com/2026/08/11/big-city-homicides-decline-2026",
         "pubDate": "2026-08-11T09:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "Tenacious AI agents expose dark side of machine autonomy",
-        "link": "https://www.axios.com/2026/08/11/ai-agents-rogue-autonomy-hugging-face",
-        "pubDate": "2026-08-11T09:00",
         "feedId": "axios"
       }
     ]
