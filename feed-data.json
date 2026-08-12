@@ -3,13 +3,31 @@
     "id": "hn",
     "items": [
       {
+        "title": "Facebook ads are so hard to block that uBlock Origin stopped filtering them",
+        "link": "https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/",
+        "pubDate": "2026-08-12T12:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "2026 Eclipse Webcams",
+        "link": "https://jonty.github.io/2026_eclipse_webcams/",
+        "pubDate": "2026-08-12T11:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "Delphi 13 Community Edition Is Now Available",
+        "link": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+        "pubDate": "2026-08-12T11:13",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
         "link": "https://woxi.ad-si.com",
         "pubDate": "2026-08-12T10:06",
         "feedId": "hn"
       },
       {
-        "title": "Tim Gowers: What sort of maths are LLMs good at?",
+        "title": "What sort of maths are LLMs good at?",
         "link": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
         "pubDate": "2026-08-12T10:04",
         "feedId": "hn"
@@ -18,12 +36,6 @@
         "title": "Facebook is paying controversial creators to produce rage-bait content",
         "link": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
         "pubDate": "2026-08-12T09:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "Dutch Train Map Simulator",
-        "link": "https://spoorkaart.zaza.dev",
-        "pubDate": "2026-08-12T09:09",
         "feedId": "hn"
       },
       {
@@ -45,21 +57,21 @@
         "feedId": "hn"
       },
       {
-        "title": "DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio",
-        "link": "https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/",
-        "pubDate": "2026-08-12T03:27",
-        "feedId": "hn"
-      },
-      {
         "title": "The Human Is the Loop",
         "link": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
         "pubDate": "2026-08-12T02:15",
         "feedId": "hn"
       },
       {
-        "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
-        "link": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
-        "pubDate": "2026-08-12T01:45",
+        "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
+        "link": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
+        "pubDate": "2026-08-12T00:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "US hires over 2k video gamers as air traffic controllers",
+        "link": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
+        "pubDate": "2026-08-11T23:26",
         "feedId": "hn"
       },
       {
@@ -75,21 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-        "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-        "pubDate": "2026-08-11T19:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "Making holograms with a pen plotter",
-        "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-        "pubDate": "2026-08-11T18:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "Grok Bot",
-        "link": "https://x.ai/bot",
-        "pubDate": "2026-08-11T17:23",
+        "title": "Bluesky's active user base is shrinking as its focus expands beyond the app",
+        "link": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
+        "pubDate": "2026-08-11T19:45",
         "feedId": "hn"
       }
     ]
@@ -97,6 +97,12 @@
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "Guide to (not) fucking up QR codes",
+        "link": "https://infosec.exchange/@rebane2001/117078420917152774",
+        "pubDate": "2026-08-12T11:27",
+        "feedId": "lobsters"
+      },
       {
         "title": "GNOME Shell Design Dreams",
         "link": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
@@ -122,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Reviewing code is a skill",
-        "link": "https://typesanitizer.com/blog/code-review.html",
-        "pubDate": "2026-08-11T05:37",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Introducing Automatic Key Verification",
         "link": "https://signal.org/blog/automatic-key-verification/",
         "pubDate": "2026-08-12T07:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Reviewing code is a skill",
+        "link": "https://typesanitizer.com/blog/code-review.html",
+        "pubDate": "2026-08-11T05:37",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Briar is in maintenance mode",
-        "link": "https://briarproject.org/news/2026-maintenance-mode/",
-        "pubDate": "2026-08-11T12:22",
+        "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
+        "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+        "pubDate": "2026-08-12T05:20",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I hate packaging my software for Linux",
+        "link": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+        "pubDate": "2026-08-12T12:40",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Guide to (not) fucking up QR codes",
-        "link": "https://infosec.exchange/@rebane2001/117078420917152774",
-        "pubDate": "2026-08-12T11:27",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
-        "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-        "pubDate": "2026-08-12T05:20",
+        "title": "Briar is in maintenance mode",
+        "link": "https://briarproject.org/news/2026-maintenance-mode/",
+        "pubDate": "2026-08-11T12:22",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Who's Hiring? - Not-A-Coder Edition - Aug 2026",
-        "link": "https://lobste.rs/s/cnoaqr/who_s_hiring_not_coder_edition_aug_2026",
-        "pubDate": "2026-08-11T23:46",
+        "title": "Deadbugz: Currently Active MCP Supply-Chain Campaign",
+        "link": "https://www.pillar.security/blog/deadbugz-currently-active-mcp-supply-chain-campaign",
+        "pubDate": "2026-08-12T11:29",
         "feedId": "lobsters"
       },
       {
-        "title": "Making [etched] holograms with a pen plotter",
-        "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-        "pubDate": "2026-08-11T12:13",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Tail-Call Interpreters in Rust",
-        "link": "https://lordgoati.us/blog/tail-call/",
-        "pubDate": "2026-08-12T06:31",
+        "title": "On AI Coding and Its Discontents",
+        "link": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+        "pubDate": "2026-08-12T08:43",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Did poop enable the evolution of complex animals?",
+        "link": "https://arstechnica.com/science/2026/08/feces-fueled-a-flurry-of-evolution-during-the-cambrian-study-suggests/",
+        "pubDate": "2026-08-12T12:34",
+        "feedId": "arstechnica"
+      },
       {
         "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
         "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
@@ -275,18 +281,18 @@
         "link": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
         "pubDate": "2026-08-10T22:23",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
-        "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
-        "pubDate": "2026-08-10T22:13",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Socialist fever breaks: Takeaways from Crowley's win",
+        "link": "https://www.axios.com/2026/08/12/wisconsin-primary-crowley-hong-socialist-takeaways",
+        "pubDate": "2026-08-12T12:43",
+        "feedId": "axios"
+      },
       {
         "title": "AI brings savings to clinical trials: study",
         "link": "https://www.axios.com/2026/08/12/ai-clinical-trials-cost-savings",
@@ -369,12 +375,6 @@
         "title": "Tech giants are pushing for a new AI agent incident reporting framework",
         "link": "https://www.axios.com/2026/08/11/open-source-security-ai-agent-reporting",
         "pubDate": "2026-08-11T17:31",
-        "feedId": "axios"
-      },
-      {
-        "title": "Security leaders are stuck in decision paralysis over AI-enabled cyberattacks",
-        "link": "https://www.axios.com/2026/08/11/ai-cybersecurity-hackers-enterprise-software",
-        "pubDate": "2026-08-11T17:27",
         "feedId": "axios"
       }
     ]
