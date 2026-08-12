@@ -1,8 +1,98 @@
 {
   "hn": {
     "id": "hn",
-    "error": "Request timed out after 10000ms",
-    "items": []
+    "items": [
+      {
+        "title": "Zed: Delta",
+        "link": "https://zed.dev/blog/introducing-delta",
+        "pubDate": "2026-08-12T18:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "Your Key to Success Isn't More Luck or Hard Work",
+        "link": "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/",
+        "pubDate": "2026-08-12T18:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
+        "link": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
+        "pubDate": "2026-08-12T17:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
+        "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+        "pubDate": "2026-08-12T16:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+        "link": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+        "pubDate": "2026-08-12T16:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "Glaciers on the Climate Dashboard",
+        "link": "https://climate.metoffice.cloud/glaciers.html",
+        "pubDate": "2026-08-12T16:38",
+        "feedId": "hn"
+      },
+      {
+        "title": "Qwen3.8-2.4T",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
+        "pubDate": "2026-08-12T16:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "Wednesday, August 12: GitHub, Incident with Pull Requests and Issues",
+        "link": "https://www.githubstatus.com/incidents/76t89hbfb09h",
+        "pubDate": "2026-08-12T16:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "We just raised $400M in Series C",
+        "link": "https://lovable.dev/blog/series-c",
+        "pubDate": "2026-08-12T16:20",
+        "feedId": "hn"
+      },
+      {
+        "title": "Bike Bureau: Report Bike Lane Obstructions",
+        "link": "https://loudbicycle.com/bb",
+        "pubDate": "2026-08-12T16:20",
+        "feedId": "hn"
+      },
+      {
+        "title": "Pixel Watch 5",
+        "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
+        "pubDate": "2026-08-12T16:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "DeepSeek V4 Pro 0813",
+        "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+        "pubDate": "2026-08-12T16:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Qwen/Qwen3.8-2.4T-A95B",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+        "pubDate": "2026-08-12T15:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "GiveCampus (YC S15) Is Hiring Engineering Managers",
+        "link": "https://job-boards.greenhouse.io/givecampus/jobs/4112793009",
+        "pubDate": "2026-08-12T14:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Hax – a minimalist, terminal-native coding agent written in C",
+        "link": "https://usehax.dev/",
+        "pubDate": "2026-08-12T14:43",
+        "feedId": "hn"
+      }
+    ]
   },
   "lobsters": {
     "id": "lobsters",
@@ -20,27 +110,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Analyzing My Lobsters Submissions",
-        "link": "https://abhinavsarkar.net/notes/2026-lobsters-submissions/",
-        "pubDate": "2026-08-12T08:53",
-        "feedId": "lobsters"
-      },
-      {
         "title": "How Tailscale helped find the SQLite WAL-Reset bug",
         "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
         "pubDate": "2026-08-12T15:01",
         "feedId": "lobsters"
       },
       {
-        "title": "I'm done using AI",
-        "link": "https://brettcodes.com/im-done-using-ai/",
-        "pubDate": "2026-08-12T13:09",
+        "title": "Analyzing My Lobsters Submissions",
+        "link": "https://abhinavsarkar.net/notes/2026-lobsters-submissions/",
+        "pubDate": "2026-08-12T08:53",
         "feedId": "lobsters"
       },
       {
-        "title": "Mindful coding: Purpose and intention",
-        "link": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
-        "pubDate": "2026-08-12T12:59",
+        "title": "I'm done using AI",
+        "link": "https://brettcodes.com/im-done-using-ai/",
+        "pubDate": "2026-08-12T13:09",
         "feedId": "lobsters"
       },
       {
@@ -56,9 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "GNOME Shell Design Dreams",
-        "link": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
-        "pubDate": "2026-08-11T14:08",
+        "title": "Mindful coding: Purpose and intention",
+        "link": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
+        "pubDate": "2026-08-12T12:59",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "My Homelab Got Hacked - A Postmortem",
+        "link": "https://phunky.cafe/my-homelab-got-hacked/",
+        "pubDate": "2026-08-12T15:50",
         "feedId": "lobsters"
       },
       {
@@ -68,9 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "My Homelab Got Hacked - A Postmortem",
-        "link": "https://phunky.cafe/my-homelab-got-hacked/",
-        "pubDate": "2026-08-12T15:50",
+        "title": "GNOME Shell Design Dreams",
+        "link": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
+        "pubDate": "2026-08-11T14:08",
         "feedId": "lobsters"
       },
       {
@@ -92,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Making a game on a custom bytecode VM in 7 days and 3kB",
-        "link": "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb",
-        "pubDate": "2026-08-12T03:00",
+        "title": "Why tiny JPEGs look different in Chrome",
+        "link": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+        "pubDate": "2026-08-12T17:59",
         "feedId": "lobsters"
       }
     ]
@@ -102,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Two hydrogen-burning engines powered this car to a new land speed record",
+        "link": "https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/",
+        "pubDate": "2026-08-12T17:01",
+        "feedId": "arstechnica"
+      },
       {
         "title": "US tries to override New York gambling laws, orders Kalshi to keep operating",
         "link": "https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/",
@@ -185,18 +281,18 @@
         "link": "https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells/",
         "pubDate": "2026-08-11T18:00",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Tracking extreme heat by the hour makes climate change seem even worse",
-        "link": "https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/",
-        "pubDate": "2026-08-11T16:26",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "ICE plans to put electric-shock gloves on officers' hands",
+        "link": "https://www.axios.com/2026/08/12/ice-electric-shock-gloves-millions",
+        "pubDate": "2026-08-12T17:54",
+        "feedId": "axios"
+      },
       {
         "title": "Diesel desperation is mounting globally",
         "link": "https://www.axios.com/2026/08/12/diesel-prices-iran-russia-ukraine",
@@ -279,12 +375,6 @@
         "title": "Trump's secret plane switch: How Air Force One protects the president from threats",
         "link": "https://www.axios.com/2026/08/11/trump-air-force-one-security-secret-plane-switch",
         "pubDate": "2026-08-11T18:40",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump's DOJ lays groundwork for subpoena fights with a Democratic Congress",
-        "link": "https://www.axios.com/2026/08/11/trump-doj-executive-privilege-democratic-probes",
-        "pubDate": "2026-08-11T18:28",
         "feedId": "axios"
       }
     ]
