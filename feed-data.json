@@ -1,98 +1,8 @@
 {
   "hn": {
     "id": "hn",
-    "items": [
-      {
-        "title": "Facebook ads are so hard to block that uBlock Origin stopped filtering them",
-        "link": "https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/",
-        "pubDate": "2026-08-12T12:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "2026 Eclipse Webcams",
-        "link": "https://jonty.github.io/2026_eclipse_webcams/",
-        "pubDate": "2026-08-12T11:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "Delphi 13 Community Edition Is Now Available",
-        "link": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
-        "pubDate": "2026-08-12T11:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-        "link": "https://woxi.ad-si.com",
-        "pubDate": "2026-08-12T10:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "What sort of maths are LLMs good at?",
-        "link": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-        "pubDate": "2026-08-12T10:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "Facebook is paying controversial creators to produce rage-bait content",
-        "link": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
-        "pubDate": "2026-08-12T09:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-        "link": "https://discoveredmaterials.com/research/",
-        "pubDate": "2026-08-12T07:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "LinkedIn CringeBot 3000",
-        "link": "https://www.cringebot3000.com/",
-        "pubDate": "2026-08-12T06:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "llama.cpp",
-        "link": "https://llama.app",
-        "pubDate": "2026-08-12T04:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Human Is the Loop",
-        "link": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
-        "pubDate": "2026-08-12T02:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
-        "link": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
-        "pubDate": "2026-08-12T00:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "US hires over 2k video gamers as air traffic controllers",
-        "link": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
-        "pubDate": "2026-08-11T23:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "WorldClaw Agentic 3D open-world generation at scale",
-        "link": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-        "pubDate": "2026-08-11T21:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "Compression is prediction",
-        "link": "https://ngrok.com/blog/compression-is-prediction",
-        "pubDate": "2026-08-11T19:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "Bluesky's active user base is shrinking as its focus expands beyond the app",
-        "link": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
-        "pubDate": "2026-08-11T19:45",
-        "feedId": "hn"
-      }
-    ]
+    "error": "Request timed out after 10000ms",
+    "items": []
   },
   "lobsters": {
     "id": "lobsters",
@@ -104,9 +14,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "GNOME Shell Design Dreams",
-        "link": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
-        "pubDate": "2026-08-11T14:08",
+        "title": "I hate packaging my software for Linux",
+        "link": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+        "pubDate": "2026-08-12T12:40",
         "feedId": "lobsters"
       },
       {
@@ -116,15 +26,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "My Anti AI computer",
-        "link": "https://punkx.org/jackdoe/home.html",
-        "pubDate": "2026-08-11T17:31",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Compression is prediction",
-        "link": "https://ngrok.com/blog/compression-is-prediction",
-        "pubDate": "2026-08-11T19:35",
+        "title": "GNOME Shell Design Dreams",
+        "link": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
+        "pubDate": "2026-08-11T14:08",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +38,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Reviewing code is a skill",
-        "link": "https://typesanitizer.com/blog/code-review.html",
-        "pubDate": "2026-08-11T05:37",
+        "title": "Compression is prediction",
+        "link": "https://ngrok.com/blog/compression-is-prediction",
+        "pubDate": "2026-08-11T19:35",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Mindful coding: Purpose and intention",
+        "link": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
+        "pubDate": "2026-08-12T12:59",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "My Anti AI computer",
+        "link": "https://punkx.org/jackdoe/home.html",
+        "pubDate": "2026-08-11T17:31",
         "feedId": "lobsters"
       },
       {
@@ -146,39 +62,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
-        "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-        "pubDate": "2026-08-12T05:20",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I hate packaging my software for Linux",
-        "link": "https://getfresh.dev/docs/blog/packaging-for-linux/",
-        "pubDate": "2026-08-12T12:40",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The fastest double-to-string algorithm you’ve never heard of",
-        "link": "https://vitaut.net/posts/2026/yy-dtoa/",
-        "pubDate": "2026-08-11T16:42",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Briar is in maintenance mode",
-        "link": "https://briarproject.org/news/2026-maintenance-mode/",
-        "pubDate": "2026-08-11T12:22",
-        "feedId": "lobsters"
-      },
-      {
         "title": "C++26: std::indirect",
         "link": "https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect",
         "pubDate": "2026-08-12T06:45",
         "feedId": "lobsters"
       },
       {
-        "title": "Deadbugz: Currently Active MCP Supply-Chain Campaign",
-        "link": "https://www.pillar.security/blog/deadbugz-currently-active-mcp-supply-chain-campaign",
-        "pubDate": "2026-08-12T11:29",
+        "title": "Reviewing code is a skill",
+        "link": "https://typesanitizer.com/blog/code-review.html",
+        "pubDate": "2026-08-11T05:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "fearless_simd v0.7: 64-bit integers, improved generics, SSE2, and upcoming v1.0",
+        "link": "https://linebender.org/blog/fearless-simd-0-7/",
+        "pubDate": "2026-08-12T13:15",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
+        "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+        "pubDate": "2026-08-12T05:20",
         "feedId": "lobsters"
       },
       {
@@ -186,12 +90,36 @@
         "link": "https://calnewport.com/on-ai-coding-and-its-discontents/",
         "pubDate": "2026-08-12T08:43",
         "feedId": "lobsters"
+      },
+      {
+        "title": "I'm done using AI",
+        "link": "https://brettcodes.com/im-done-using-ai/",
+        "pubDate": "2026-08-12T13:09",
+        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
+        "link": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
+        "pubDate": "2026-08-12T14:00",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Researchers found a way to hijack devices through Zoom screen sharing",
+        "link": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
+        "pubDate": "2026-08-12T13:37",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Formula E finds a new home on Disney+, ESPN+",
+        "link": "https://arstechnica.com/cars/2026/08/formula-e-finds-a-new-home-on-disney-espn/",
+        "pubDate": "2026-08-12T13:35",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Did poop enable the evolution of complex animals?",
         "link": "https://arstechnica.com/science/2026/08/feces-fueled-a-flurry-of-evolution-during-the-cambrian-study-suggests/",
@@ -263,30 +191,18 @@
         "link": "https://arstechnica.com/tech-policy/2026/08/trump-to-give-republicans-a-3-1-fcc-majority-isnt-filling-empty-democratic-seat/",
         "pubDate": "2026-08-11T15:28",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "New surveillance tech links your phone to your license plate",
-        "link": "https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/",
-        "pubDate": "2026-08-11T13:15",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
-        "link": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
-        "pubDate": "2026-08-11T11:30",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Live now: Ross Scott discusses the Stop Killing Games movement",
-        "link": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
-        "pubDate": "2026-08-10T22:23",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Diesel desperation is mounting globally",
+        "link": "https://www.axios.com/2026/08/12/diesel-prices-iran-russia-ukraine",
+        "pubDate": "2026-08-12T13:28",
+        "feedId": "axios"
+      },
       {
         "title": "Socialist fever breaks: Takeaways from Crowley's win",
         "link": "https://www.axios.com/2026/08/12/wisconsin-primary-crowley-hong-socialist-takeaways",
@@ -369,12 +285,6 @@
         "title": "Trump's DOJ lays groundwork for subpoena fights with a Democratic Congress",
         "link": "https://www.axios.com/2026/08/11/trump-doj-executive-privilege-democratic-probes",
         "pubDate": "2026-08-11T18:28",
-        "feedId": "axios"
-      },
-      {
-        "title": "Tech giants are pushing for a new AI agent incident reporting framework",
-        "link": "https://www.axios.com/2026/08/11/open-source-security-ai-agent-reporting",
-        "pubDate": "2026-08-11T17:31",
         "feedId": "axios"
       }
     ]
