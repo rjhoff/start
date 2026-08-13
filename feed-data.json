@@ -9,12 +9,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Celld: Self-hosted, distributed Durable Objects",
-        "link": "https://celld.dev/",
-        "pubDate": "2026-08-13T04:37",
-        "feedId": "hn"
-      },
-      {
         "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
         "link": "https://sharktastica.co.uk/articles/pc-fxt-45",
         "pubDate": "2026-08-12T23:50",
@@ -91,6 +85,12 @@
         "link": "https://x.ai/news/grok-4-6",
         "pubDate": "2026-08-12T15:32",
         "feedId": "hn"
+      },
+      {
+        "title": "Qwen3.8-2.4T",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+        "pubDate": "2026-08-12T15:01",
+        "feedId": "hn"
       }
     ]
   },
@@ -152,9 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "fearless_simd v0.7: 64-bit integers, improved generics, SSE2, and upcoming v1.0",
-        "link": "https://linebender.org/blog/fearless-simd-0-7/",
-        "pubDate": "2026-08-12T13:15",
+        "title": "Mindful coding: Purpose and intention",
+        "link": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
+        "pubDate": "2026-08-12T12:59",
         "feedId": "lobsters"
       },
       {
@@ -164,9 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Mindful coding: Purpose and intention",
-        "link": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
-        "pubDate": "2026-08-12T12:59",
+        "title": "fearless_simd v0.7: 64-bit integers, improved generics, SSE2, and upcoming v1.0",
+        "link": "https://linebender.org/blog/fearless-simd-0-7/",
+        "pubDate": "2026-08-12T13:15",
         "feedId": "lobsters"
       },
       {
@@ -288,6 +288,24 @@
     "id": "axios",
     "items": [
       {
+        "title": "Pollsters missed again in Wisconsin. Here's why.",
+        "link": "https://www.axios.com/2026/08/13/pollsters-missed-again-in-wisconsin-heres-why",
+        "pubDate": "2026-08-13T09:58",
+        "feedId": "axios"
+      },
+      {
+        "title": "Youth poll: Thumbs down on everything",
+        "link": "https://www.axios.com/2026/08/13/youth-poll-thumbs-down-on-everything",
+        "pubDate": "2026-08-13T09:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "Older Democrats walloped by midterms anti-establishment revolt",
+        "link": "https://www.axios.com/2026/08/13/democrats-old-age-larson-bronin-young-primaries",
+        "pubDate": "2026-08-13T09:10",
+        "feedId": "axios"
+      },
+      {
         "title": "Why House Dems may go easy on one of GOP's most vulnerable members",
         "link": "https://www.axios.com/2026/08/12/mike-lawler-2026-midterms-new-york-democrats",
         "pubDate": "2026-08-12T22:18",
@@ -357,24 +375,6 @@
         "title": "\"Woke 1 was crazy\": AOC seeks do-over on 2020-era rhetoric",
         "link": "https://www.axios.com/2026/08/12/aoc-democratic-socialists-2028",
         "pubDate": "2026-08-12T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Rep. John Larson ouster makes 2026 a record year for Democratic primary losses",
-        "link": "https://www.axios.com/2026/08/12/john-larson-luke-bronin-connecticut-primary",
-        "pubDate": "2026-08-12T02:02",
-        "feedId": "axios"
-      },
-      {
-        "title": "It's official: Amy Klobuchar is Democrats' pick to succeed Gov. Tim Walz",
-        "link": "https://www.axios.com/local/twin-cities/2026/08/12/klobuchar-minnesota-democratic-primary-governor",
-        "pubDate": "2026-08-12T01:35",
-        "feedId": "axios"
-      },
-      {
-        "title": "South Carolina GOP Senate primary heads to a runoff",
-        "link": "https://www.axios.com/2026/08/12/south-carolina-gop-senate-graham-primary-runoff",
-        "pubDate": "2026-08-12T01:05",
         "feedId": "axios"
       }
     ]
