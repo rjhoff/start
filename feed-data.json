@@ -9,25 +9,19 @@
         "feedId": "hn"
       },
       {
-        "title": "McDonald's Built a 515-Page Dossier on Me. It Says I'll Never Stop Eating There",
+        "title": "I requested a copy of my data from McDonald’s loyalty program",
         "link": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
         "pubDate": "2026-08-13T14:37",
         "feedId": "hn"
       },
       {
-        "title": "Flock Safety changes system defaults in response to criticisms",
-        "link": "https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency",
-        "pubDate": "2026-08-13T14:37",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kubernetes on Oxide: How Customer Needs Shaped Our Integrations",
+        "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
         "link": "https://oxide.computer/blog/kubernetes-on-oxide",
         "pubDate": "2026-08-13T14:26",
         "feedId": "hn"
       },
       {
-        "title": "Graduate Student Proves a Quantum Uncertainty Principle for Fractals",
+        "title": "Graduate student proves a quantum uncertainty principle for fractals",
         "link": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
         "pubDate": "2026-08-13T14:22",
         "feedId": "hn"
@@ -45,15 +39,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
+        "title": "Heart aerospace completes first flight of largest electric aircraft",
         "link": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
         "pubDate": "2026-08-13T14:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "Build a Stratum 1 PTP Grandmaster on a Budget",
-        "link": "https://opscode.io/posts/ptp-grandmaster-cm4-sr1723u10/",
-        "pubDate": "2026-08-13T14:08",
         "feedId": "hn"
       },
       {
@@ -75,21 +63,33 @@
         "feedId": "hn"
       },
       {
-        "title": "Anthropic: Introducing The Conceptual Reasoning Index",
-        "link": "https://alignment.anthropic.com/2026/conceptual-reasoning-index/",
-        "pubDate": "2026-08-13T13:48",
+        "title": "Ordinary Abundance",
+        "link": "https://ordinaryabundance.com/",
+        "pubDate": "2026-08-13T13:39",
         "feedId": "hn"
       },
       {
-        "title": "I Built a 500k-Domain Search Engine for Makers in a Weekend for $10",
+        "title": "I built a 500k-domain search engine for makers in a weekend for $10",
         "link": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
         "pubDate": "2026-08-13T13:36",
         "feedId": "hn"
       },
       {
-        "title": "AI agents lie, cheat and steal. That is putting off users",
-        "link": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
-        "pubDate": "2026-08-13T13:28",
+        "title": "Nine PBS could lose 70 years of archives after cloud vendor goes defunct",
+        "link": "https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation",
+        "pubDate": "2026-08-13T13:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "Choosing an AI model: one prompt, 11 models, different results",
+        "link": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+        "pubDate": "2026-08-13T13:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "DeepSeek Harness developer preview",
+        "link": "https://deepseek.com/harness/en/",
+        "pubDate": "2026-08-13T12:58",
         "feedId": "hn"
       }
     ]
@@ -116,6 +116,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "EuroZig",
+        "link": "http://eurozig.eu/",
+        "pubDate": "2026-08-13T16:24",
+        "feedId": "lobsters"
+      },
+      {
         "title": "I hate packaging my software for Linux",
         "link": "https://getfresh.dev/docs/blog/packaging-for-linux/",
         "pubDate": "2026-08-12T12:40",
@@ -128,21 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "My Homelab Got Hacked - A Postmortem",
-        "link": "https://phunky.cafe/my-homelab-got-hacked/",
-        "pubDate": "2026-08-12T15:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Guide to (not) fucking up QR codes",
-        "link": "https://infosec.exchange/@rebane2001/117078420917152774",
-        "pubDate": "2026-08-12T11:27",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "On Hacking",
-        "link": "https://stallman.org/articles/on-hacking.html",
-        "pubDate": "2026-08-13T07:51",
+        "title": "What’s new in Flutter 3.47",
+        "link": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+        "pubDate": "2026-08-13T10:46",
         "feedId": "lobsters"
       },
       {
@@ -152,21 +146,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What’s new in Flutter 3.47",
-        "link": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
-        "pubDate": "2026-08-13T10:46",
+        "title": "My Homelab Got Hacked - A Postmortem",
+        "link": "https://phunky.cafe/my-homelab-got-hacked/",
+        "pubDate": "2026-08-12T15:50",
         "feedId": "lobsters"
       },
       {
-        "title": "I'm done using AI",
-        "link": "https://brettcodes.com/im-done-using-ai/",
-        "pubDate": "2026-08-12T13:09",
+        "title": "AI is removing the middle class of software engineering",
+        "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+        "pubDate": "2026-08-13T14:03",
         "feedId": "lobsters"
       },
       {
-        "title": "A critical review of Xilem in 2026",
-        "link": "https://hackmd.io/@s_haMSbyTAOWfoXc1aYNUg/Hka74gCwZg",
-        "pubDate": "2026-08-12T18:20",
+        "title": "Guide to (not) fucking up QR codes",
+        "link": "https://infosec.exchange/@rebane2001/117078420917152774",
+        "pubDate": "2026-08-12T11:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Let Them Write RFCs",
+        "link": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
+        "pubDate": "2026-08-13T10:48",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "On Hacking",
+        "link": "https://stallman.org/articles/on-hacking.html",
+        "pubDate": "2026-08-13T07:51",
         "feedId": "lobsters"
       },
       {
@@ -179,12 +185,6 @@
         "title": "Why vibe code in Lisp?",
         "link": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
         "pubDate": "2026-08-13T09:33",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Mindful coding: Purpose and intention",
-        "link": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
-        "pubDate": "2026-08-12T12:59",
         "feedId": "lobsters"
       }
     ]
