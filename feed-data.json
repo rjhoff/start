@@ -146,6 +146,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Why vibe code in Lisp?",
+        "link": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+        "pubDate": "2026-08-13T09:33",
+        "feedId": "lobsters"
+      },
+      {
         "title": "A critical review of Xilem in 2026",
         "link": "https://hackmd.io/@s_haMSbyTAOWfoXc1aYNUg/Hka74gCwZg",
         "pubDate": "2026-08-12T18:20",
@@ -158,6 +164,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "beszel",
+        "link": "https://github.com/henrygd/beszel",
+        "pubDate": "2026-08-13T03:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Tabs, Spaces, Hand Tools, and Seat Belts",
+        "link": "https://newsletter.powderworks.dev/p/tabs-spaces-hand-tools-and-seat-belts",
+        "pubDate": "2026-08-12T18:20",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Why tiny JPEGs look different in Chrome",
         "link": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
         "pubDate": "2026-08-12T17:59",
@@ -167,24 +185,6 @@
         "title": "fearless_simd v0.7: 64-bit integers, improved generics, SSE2, and upcoming v1.0",
         "link": "https://linebender.org/blog/fearless-simd-0-7/",
         "pubDate": "2026-08-12T13:15",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Analyzing My Lobsters Submissions",
-        "link": "https://abhinavsarkar.net/notes/2026-lobsters-submissions/",
-        "pubDate": "2026-08-12T08:53",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Introducing Automatic Key Verification",
-        "link": "https://signal.org/blog/automatic-key-verification/",
-        "pubDate": "2026-08-12T07:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "On AI Coding and Its Discontents",
-        "link": "https://calnewport.com/on-ai-coding-and-its-discontents/",
-        "pubDate": "2026-08-12T08:43",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "Maggie Haberman says 70% of Trump's attention goes to monuments, renovations and legacy",
+        "link": "https://www.axios.com/2026/08/13/trump-haberman-legacy-projects-behind-the-curtain",
+        "pubDate": "2026-08-13T10:37",
+        "feedId": "axios"
+      },
+      {
+        "title": "Musk and Zuckerberg claw back into AI race with new model momentum",
+        "link": "https://www.axios.com/2026/08/13/grok-elon-musk-ai-zuckerberg-and-meta",
+        "pubDate": "2026-08-13T10:00",
+        "feedId": "axios"
+      },
+      {
         "title": "Pollsters missed again in Wisconsin. Here's why.",
         "link": "https://www.axios.com/2026/08/13/pollsters-missed-again-in-wisconsin-heres-why",
         "pubDate": "2026-08-13T09:58",
@@ -363,18 +375,6 @@
         "title": "Anthropic's text watermarks signal new front in AI detection",
         "link": "https://www.axios.com/2026/08/12/anthropic-claude-watermarks-ai-detection",
         "pubDate": "2026-08-12T09:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "Moderate Crowley narrowly beats democratic socialist Hong in Wisconsin",
-        "link": "https://www.axios.com/2026/08/12/wisconsin-democratic-governor-primary-hong-crowley",
-        "pubDate": "2026-08-12T09:14",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"Woke 1 was crazy\": AOC seeks do-over on 2020-era rhetoric",
-        "link": "https://www.axios.com/2026/08/12/aoc-democratic-socialists-2028",
-        "pubDate": "2026-08-12T09:00",
         "feedId": "axios"
       }
     ]
