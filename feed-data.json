@@ -3,7 +3,13 @@
     "id": "hn",
     "items": [
       {
-        "title": "How Gödel's Proof Works",
+        "title": "NP-Overrated",
+        "link": "https://gruhn.me/blog/2026-08-13/",
+        "pubDate": "2026-08-13T20:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "How Gödel's Proof Works (2020)",
         "link": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
         "pubDate": "2026-08-13T19:44",
         "feedId": "hn"
@@ -27,18 +33,6 @@
         "feedId": "hn"
       },
       {
-        "title": "HN: Xenon, open source dashboard for a second screen, tablet or phone",
-        "link": "https://xenon-app.com/",
-        "pubDate": "2026-08-13T18:38",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI Is Threatening Natural Resources for Billions",
-        "link": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/",
-        "pubDate": "2026-08-13T18:28",
-        "feedId": "hn"
-      },
-      {
         "title": "Accelerating GPT-5.6 Sol Ultrafast",
         "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
         "pubDate": "2026-08-13T18:10",
@@ -48,12 +42,6 @@
         "title": "How Compaction Works in Pi",
         "link": "https://earendil.com/posts/compaction-in-pi/",
         "pubDate": "2026-08-13T17:57",
-        "feedId": "hn"
-      },
-      {
-        "title": "Solid 2.0 RC: The Big <Reveal>",
-        "link": "https://www.solidjs.com/blog/solid-2-0-rc-the-big-reveal",
-        "pubDate": "2026-08-13T17:53",
         "feedId": "hn"
       },
       {
@@ -90,6 +78,18 @@
         "title": "Tocharian Online",
         "link": "https://lrc.la.utexas.edu/eieol/tokol/0",
         "pubDate": "2026-08-13T17:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "Mistral OCR 4.1",
+        "link": "https://docs.mistral.ai/models/ocr-4-1",
+        "pubDate": "2026-08-13T17:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "GoAccess – Open-source real-time log analyzer and interactive viewer",
+        "link": "https://goaccess.io/",
+        "pubDate": "2026-08-13T16:22",
         "feedId": "hn"
       }
     ]
@@ -128,6 +128,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Unlocking _everything_ on the CPU with DRAM scrambling",
+        "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+        "pubDate": "2026-08-13T16:06",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Does anyone run Postgres without PgBouncer?",
         "link": "https://brandur.org/fragments/postgres-without-pgbouncer",
         "pubDate": "2026-08-13T03:08",
@@ -140,21 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I hate packaging my software for Linux",
-        "link": "https://getfresh.dev/docs/blog/packaging-for-linux/",
-        "pubDate": "2026-08-12T12:40",
-        "feedId": "lobsters"
-      },
-      {
         "title": "How Tailscale helped find the SQLite WAL-Reset bug",
         "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
         "pubDate": "2026-08-12T15:01",
         "feedId": "lobsters"
       },
       {
-        "title": "Unlocking _everything_ on the CPU with DRAM scrambling",
-        "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-        "pubDate": "2026-08-13T16:06",
+        "title": "I hate packaging my software for Linux",
+        "link": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+        "pubDate": "2026-08-12T12:40",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A \"secure-ish\" Pi setup with permission, sandbox, and auto-review",
-        "link": "https://ptgamr.substack.com/p/a-pi-setup-with-permission-sandbox",
-        "pubDate": "2026-08-13T11:11",
-        "feedId": "lobsters"
-      },
-      {
         "title": "On Hacking",
         "link": "https://stallman.org/articles/on-hacking.html",
         "pubDate": "2026-08-13T07:51",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A \"secure-ish\" Pi setup with permission, sandbox, and auto-review",
+        "link": "https://ptgamr.substack.com/p/a-pi-setup-with-permission-sandbox",
+        "pubDate": "2026-08-13T11:11",
         "feedId": "lobsters"
       }
     ]
@@ -288,15 +288,15 @@
     "id": "axios",
     "items": [
       {
-        "title": "Kushner plans to visit Israel next week for Gaza talks",
-        "link": "https://www.axios.com/2026/08/13/kushner-israel-gaza-netanyahu",
-        "pubDate": "2026-08-13T20:02",
+        "title": "Kennedy Center board restores Trump's name, testing judge",
+        "link": "https://www.axios.com/2026/08/13/trump-kennedy-center-name-board-court-order",
+        "pubDate": "2026-08-13T21:36",
         "feedId": "axios"
       },
       {
-        "title": "Kennedy Center board restores Trump's name, testing judge",
-        "link": "https://www.axios.com/2026/08/13/trump-kennedy-center-name-board-court-order",
-        "pubDate": "2026-08-13T19:32",
+        "title": "Kushner plans to visit Israel next week for Gaza talks",
+        "link": "https://www.axios.com/2026/08/13/kushner-israel-gaza-netanyahu",
+        "pubDate": "2026-08-13T21:14",
         "feedId": "axios"
       },
       {
