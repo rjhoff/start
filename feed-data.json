@@ -3,9 +3,33 @@
     "id": "hn",
     "items": [
       {
-        "title": "Show HN: A marketplace where AI agents buy services from AI agents",
-        "link": "https://aaas-marketplace-1089237826218.asia-northeast1.run.app",
-        "pubDate": "2026-08-12T23:07",
+        "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+        "link": "https://www.ballet.dev/",
+        "pubDate": "2026-08-13T00:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+        "link": "https://sharktastica.co.uk/articles/pc-fxt-45",
+        "pubDate": "2026-08-12T23:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "What's New in Flutter 3.47",
+        "link": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+        "pubDate": "2026-08-12T23:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "Build Wide, Ship Narrow",
+        "link": "https://adapt.com/blog/build-wide-ship-narrow",
+        "pubDate": "2026-08-12T23:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Principia Mathematica is modern and insightful",
+        "link": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+        "pubDate": "2026-08-12T23:26",
         "feedId": "hn"
       },
       {
@@ -21,15 +45,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Breaking the WAL",
-        "link": "https://antithesis.com/blog/2026/wal-reset-bug/",
-        "pubDate": "2026-08-12T20:00",
+        "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
+        "link": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
+        "pubDate": "2026-08-12T21:45",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Programmable timer web app (for gym workouts or stretching sessions)",
-        "link": "https://timer.jotaen.net",
-        "pubDate": "2026-08-12T18:27",
+        "title": "Breaking the WAL",
+        "link": "https://antithesis.com/blog/2026/wal-reset-bug/",
+        "pubDate": "2026-08-12T20:00",
         "feedId": "hn"
       },
       {
@@ -42,12 +66,6 @@
         "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
         "link": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
         "pubDate": "2026-08-12T17:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-        "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-        "pubDate": "2026-08-12T16:54",
         "feedId": "hn"
       },
       {
@@ -72,24 +90,6 @@
         "title": "DeepSeek V4 Pro 0813",
         "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
         "pubDate": "2026-08-12T16:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "Grok 4.6",
-        "link": "https://x.ai/news/grok-4-6",
-        "pubDate": "2026-08-12T15:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "Qwen3.8-2.4T",
-        "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-        "pubDate": "2026-08-12T15:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "GiveCampus (YC S15) Is Hiring Engineering Managers",
-        "link": "https://job-boards.greenhouse.io/givecampus/jobs/4112793009",
-        "pubDate": "2026-08-12T14:55",
         "feedId": "hn"
       }
     ]
@@ -116,21 +116,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I'm done using AI",
-        "link": "https://brettcodes.com/im-done-using-ai/",
-        "pubDate": "2026-08-12T13:09",
-        "feedId": "lobsters"
-      },
-      {
         "title": "My Homelab Got Hacked - A Postmortem",
         "link": "https://phunky.cafe/my-homelab-got-hacked/",
         "pubDate": "2026-08-12T15:50",
         "feedId": "lobsters"
       },
       {
-        "title": "Analyzing My Lobsters Submissions",
-        "link": "https://abhinavsarkar.net/notes/2026-lobsters-submissions/",
-        "pubDate": "2026-08-12T08:53",
+        "title": "I'm done using AI",
+        "link": "https://brettcodes.com/im-done-using-ai/",
+        "pubDate": "2026-08-12T13:09",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "GitHub Stacks in Jujutsu",
+        "link": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
+        "pubDate": "2026-08-13T00:55",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A critical review of Xilem in 2026",
+        "link": "https://hackmd.io/@s_haMSbyTAOWfoXc1aYNUg/Hka74gCwZg",
+        "pubDate": "2026-08-12T18:20",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Introducing Automatic Key Verification",
-        "link": "https://signal.org/blog/automatic-key-verification/",
-        "pubDate": "2026-08-12T07:10",
+        "title": "Analyzing My Lobsters Submissions",
+        "link": "https://abhinavsarkar.net/notes/2026-lobsters-submissions/",
+        "pubDate": "2026-08-12T08:53",
         "feedId": "lobsters"
       },
       {
-        "title": "A critical review of Xilem in 2026",
-        "link": "https://hackmd.io/@s_haMSbyTAOWfoXc1aYNUg/Hka74gCwZg",
-        "pubDate": "2026-08-12T18:20",
+        "title": "Introducing Automatic Key Verification",
+        "link": "https://signal.org/blog/automatic-key-verification/",
+        "pubDate": "2026-08-12T07:10",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "GNOME Shell Design Dreams",
-        "link": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
-        "pubDate": "2026-08-11T14:08",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "C++26: std::indirect",
-        "link": "https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect",
-        "pubDate": "2026-08-12T06:45",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Tabs, Spaces, Hand Tools, and Seat Belts",
         "link": "https://newsletter.powderworks.dev/p/tabs-spaces-hand-tools-and-seat-belts",
         "pubDate": "2026-08-12T18:20",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "GNOME Shell Design Dreams",
+        "link": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
+        "pubDate": "2026-08-11T14:08",
         "feedId": "lobsters"
       }
     ]
@@ -294,6 +294,12 @@
         "feedId": "axios"
       },
       {
+        "title": "Congressional campaign stars",
+        "link": "https://www.axios.com/2026/08/12/congress-august-recesss-campaign-trail-midterms-bernie-sanders",
+        "pubDate": "2026-08-12T22:17",
+        "feedId": "axios"
+      },
+      {
         "title": "Karoline Leavitt stepping down as White House press secretary",
         "link": "https://www.axios.com/2026/08/12/trump-karoline-leavitt-white-house-press",
         "pubDate": "2026-08-12T20:10",
@@ -369,12 +375,6 @@
         "title": "The House Democratic money machine is coming for GOP Rep. Max Miller",
         "link": "https://www.axios.com/2026/08/11/max-miller-ohio-brian-poindexter-democrats-2026",
         "pubDate": "2026-08-11T21:57",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Senate GOP super PAC doubles down on Michigan",
-        "link": "https://www.axios.com/2026/08/11/michigan-senate-abdul-el-sayed-gop-super-pac",
-        "pubDate": "2026-08-11T21:56",
         "feedId": "axios"
       }
     ]
