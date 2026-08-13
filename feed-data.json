@@ -69,12 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "JDK 27 G1/Parallel/Serial GC Changes",
-        "link": "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html",
-        "pubDate": "2026-08-13T17:22",
-        "feedId": "hn"
-      },
-      {
         "title": "Tocharian Online",
         "link": "https://lrc.la.utexas.edu/eieol/tokol/0",
         "pubDate": "2026-08-13T17:15",
@@ -87,9 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "GoAccess – Open-source real-time log analyzer and interactive viewer",
-        "link": "https://goaccess.io/",
+        "title": "AI At Home Part 1: A Box Of Scraps",
+        "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
         "pubDate": "2026-08-13T16:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "Text AI watermarks will always be trivial to remove",
+        "link": "https://www.seangoedecke.com/text-ai-watermarks/",
+        "pubDate": "2026-08-13T15:07",
         "feedId": "hn"
       }
     ]
@@ -104,21 +104,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "EuroZig",
-        "link": "http://eurozig.eu/",
-        "pubDate": "2026-08-13T16:24",
-        "feedId": "lobsters"
-      },
-      {
         "title": "I want extern \"fil-c\"",
         "link": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
         "pubDate": "2026-08-13T17:43",
         "feedId": "lobsters"
       },
       {
-        "title": "GitHub Stacks in Jujutsu",
-        "link": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
-        "pubDate": "2026-08-13T00:55",
+        "title": "EuroZig",
+        "link": "http://eurozig.eu/",
+        "pubDate": "2026-08-13T16:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Unlocking _everything_ on the CPU with DRAM scrambling",
+        "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+        "pubDate": "2026-08-13T16:06",
         "feedId": "lobsters"
       },
       {
@@ -128,9 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Unlocking _everything_ on the CPU with DRAM scrambling",
-        "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-        "pubDate": "2026-08-13T16:06",
+        "title": "GitHub Stacks in Jujutsu",
+        "link": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
+        "pubDate": "2026-08-13T00:55",
         "feedId": "lobsters"
       },
       {
@@ -146,6 +146,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "SQLite: How it works, by Richard Hipp (2024)",
+        "link": "https://www.youtube.com/watch?v=ZSKLA81tBis",
+        "pubDate": "2026-08-13T11:56",
+        "feedId": "lobsters"
+      },
+      {
         "title": "How Tailscale helped find the SQLite WAL-Reset bug",
         "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
         "pubDate": "2026-08-12T15:01",
@@ -158,15 +164,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "SQLite: How it works, by Richard Hipp (2024)",
-        "link": "https://www.youtube.com/watch?v=ZSKLA81tBis",
-        "pubDate": "2026-08-13T11:56",
-        "feedId": "lobsters"
-      },
-      {
         "title": "C3 0.8.3 Feature flags",
         "link": "https://c3-lang.org/blog/c3_0_8_3_feature_flags/",
         "pubDate": "2026-08-13T19:07",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Let Them Write RFCs",
+        "link": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
+        "pubDate": "2026-08-13T10:48",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "On Hacking",
-        "link": "https://stallman.org/articles/on-hacking.html",
-        "pubDate": "2026-08-13T07:51",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A \"secure-ish\" Pi setup with permission, sandbox, and auto-review",
-        "link": "https://ptgamr.substack.com/p/a-pi-setup-with-permission-sandbox",
-        "pubDate": "2026-08-13T11:11",
+        "title": "A preview of Roc 0.1.0",
+        "link": "https://youtu.be/a7qEOtkkDb8",
+        "pubDate": "2026-08-13T21:08",
         "feedId": "lobsters"
       }
     ]
@@ -288,15 +288,27 @@
     "id": "axios",
     "items": [
       {
-        "title": "Kennedy Center board restores Trump's name, testing judge",
-        "link": "https://www.axios.com/2026/08/13/trump-kennedy-center-name-board-court-order",
-        "pubDate": "2026-08-13T21:36",
+        "title": "\"Rubio Realizing\" memes become a White House birthday gift",
+        "link": "https://www.axios.com/2026/08/13/marco-rubio-memes-birthday-gift",
+        "pubDate": "2026-08-13T22:51",
         "feedId": "axios"
       },
       {
-        "title": "Kushner plans to visit Israel next week for Gaza talks",
+        "title": "\"It is despicable\": House Democrats rage over Republican stock trading \"set-up\"",
+        "link": "https://www.axios.com/2026/08/13/republicans-insider-congress-stock-trading-ads",
+        "pubDate": "2026-08-13T21:51",
+        "feedId": "axios"
+      },
+      {
+        "title": "Kushner set to visit Israel, Egypt next week for Gaza talks",
         "link": "https://www.axios.com/2026/08/13/kushner-israel-gaza-netanyahu",
-        "pubDate": "2026-08-13T21:14",
+        "pubDate": "2026-08-13T21:44",
+        "feedId": "axios"
+      },
+      {
+        "title": "Kennedy Center board restores Trump's name, testing judge",
+        "link": "https://www.axios.com/2026/08/13/trump-kennedy-center-name-board-court-order",
+        "pubDate": "2026-08-13T21:36",
         "feedId": "axios"
       },
       {
@@ -363,18 +375,6 @@
         "title": "ICE plans to put electric-shock gloves on officers' hands",
         "link": "https://www.axios.com/2026/08/12/ice-electric-shock-gloves-millions",
         "pubDate": "2026-08-12T17:54",
-        "feedId": "axios"
-      },
-      {
-        "title": "Quantifying the AI boom crowding-out effect",
-        "link": "https://www.axios.com/2026/08/12/ai-boom-goldman-sachs",
-        "pubDate": "2026-08-12T16:12",
-        "feedId": "axios"
-      },
-      {
-        "title": "Diesel desperation is mounting globally",
-        "link": "https://www.axios.com/2026/08/12/diesel-prices-iran-russia-ukraine",
-        "pubDate": "2026-08-12T13:28",
         "feedId": "axios"
       }
     ]
