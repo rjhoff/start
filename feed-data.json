@@ -3,9 +3,57 @@
     "id": "hn",
     "items": [
       {
+        "title": "How Gödel's Proof Works",
+        "link": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+        "pubDate": "2026-08-13T19:44",
+        "feedId": "hn"
+      },
+      {
+        "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+        "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+        "pubDate": "2026-08-13T19:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "Understanding is the new bottleneck",
+        "link": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+        "pubDate": "2026-08-13T18:47",
+        "feedId": "hn"
+      },
+      {
+        "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+        "link": "https://github.com/systemd/systemd/issues/40262",
+        "pubDate": "2026-08-13T18:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "HN: Xenon, open source dashboard for a second screen, tablet or phone",
+        "link": "https://xenon-app.com/",
+        "pubDate": "2026-08-13T18:38",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI Is Threatening Natural Resources for Billions",
+        "link": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/",
+        "pubDate": "2026-08-13T18:28",
+        "feedId": "hn"
+      },
+      {
         "title": "Accelerating GPT-5.6 Sol Ultrafast",
         "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
         "pubDate": "2026-08-13T18:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "How Compaction Works in Pi",
+        "link": "https://earendil.com/posts/compaction-in-pi/",
+        "pubDate": "2026-08-13T17:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "Solid 2.0 RC: The Big <Reveal>",
+        "link": "https://www.solidjs.com/blog/solid-2-0-rc-the-big-reveal",
+        "pubDate": "2026-08-13T17:53",
         "feedId": "hn"
       },
       {
@@ -43,54 +91,6 @@
         "link": "https://lrc.la.utexas.edu/eieol/tokol/0",
         "pubDate": "2026-08-13T17:15",
         "feedId": "hn"
-      },
-      {
-        "title": "Mistral OCR 4.1",
-        "link": "https://docs.mistral.ai/models/ocr-4-1",
-        "pubDate": "2026-08-13T17:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "GoAccess – Open-source real-time log analyzer and interactive viewer",
-        "link": "https://goaccess.io/",
-        "pubDate": "2026-08-13T16:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI At Home Part 1: A Box Of Scraps",
-        "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-        "pubDate": "2026-08-13T16:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "I requested a copy of my data from McDonald’s loyalty program",
-        "link": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
-        "pubDate": "2026-08-13T14:37",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
-        "link": "https://oxide.computer/blog/kubernetes-on-oxide",
-        "pubDate": "2026-08-13T14:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Graduate student proves a quantum uncertainty principle for fractals",
-        "link": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
-        "pubDate": "2026-08-13T14:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "Spaghettifying DRAM",
-        "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-        "pubDate": "2026-08-13T14:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
-        "link": "https://github.com/fellowgeek/mcp-memory",
-        "pubDate": "2026-08-13T13:57",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,9 +110,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "I want extern \"fil-c\"",
+        "link": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
+        "pubDate": "2026-08-13T17:43",
+        "feedId": "lobsters"
+      },
+      {
         "title": "GitHub Stacks in Jujutsu",
         "link": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
         "pubDate": "2026-08-13T00:55",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "AI is removing the middle class of software engineering",
+        "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+        "pubDate": "2026-08-13T14:03",
         "feedId": "lobsters"
       },
       {
@@ -128,12 +140,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "AI is removing the middle class of software engineering",
-        "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-        "pubDate": "2026-08-13T14:03",
-        "feedId": "lobsters"
-      },
-      {
         "title": "I hate packaging my software for Linux",
         "link": "https://getfresh.dev/docs/blog/packaging-for-linux/",
         "pubDate": "2026-08-12T12:40",
@@ -146,9 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I want extern \"fil-c\"",
-        "link": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
-        "pubDate": "2026-08-13T17:43",
+        "title": "Unlocking _everything_ on the CPU with DRAM scrambling",
+        "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+        "pubDate": "2026-08-13T16:06",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Unlocking _everything_ on the CPU with DRAM scrambling",
-        "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-        "pubDate": "2026-08-13T16:06",
+        "title": "C3 0.8.3 Feature flags",
+        "link": "https://c3-lang.org/blog/c3_0_8_3_feature_flags/",
+        "pubDate": "2026-08-13T19:07",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Guide to (not) fucking up QR codes",
-        "link": "https://infosec.exchange/@rebane2001/117078420917152774",
-        "pubDate": "2026-08-12T11:27",
+        "title": "A \"secure-ish\" Pi setup with permission, sandbox, and auto-review",
+        "link": "https://ptgamr.substack.com/p/a-pi-setup-with-permission-sandbox",
+        "pubDate": "2026-08-13T11:11",
         "feedId": "lobsters"
       },
       {
-        "title": "Why vibe code in Lisp?",
-        "link": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
-        "pubDate": "2026-08-13T09:33",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Let Them Write RFCs",
-        "link": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
-        "pubDate": "2026-08-13T10:48",
+        "title": "On Hacking",
+        "link": "https://stallman.org/articles/on-hacking.html",
+        "pubDate": "2026-08-13T07:51",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,48 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+        "link": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+        "pubDate": "2026-08-13T19:38",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
+        "link": "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
+        "pubDate": "2026-08-13T19:12",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
+        "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
+        "pubDate": "2026-08-13T18:31",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
+        "link": "https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/",
+        "pubDate": "2026-08-13T18:10",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Pet owners say smart pet feeder outage led to furry ones going unfed",
+        "link": "https://arstechnica.com/gadgets/2026/08/pet-owners-say-smart-pet-feeder-outage-led-to-furry-ones-going-unfed/",
+        "pubDate": "2026-08-13T17:53",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "The new Instagram logo is the perfect embodiment of AI slop",
+        "link": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+        "pubDate": "2026-08-13T17:32",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+        "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+        "pubDate": "2026-08-13T17:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Rivian's 2027 changes include its No. 1 most-requested feature",
         "link": "https://arstechnica.com/cars/2026/08/rivian-tweaks-its-r1-range-for-model-year-2027/",
@@ -239,48 +281,6 @@
         "link": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
         "pubDate": "2026-08-12T21:13",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-        "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-        "pubDate": "2026-08-12T21:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
-        "link": "https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/",
-        "pubDate": "2026-08-12T20:20",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
-        "link": "https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/",
-        "pubDate": "2026-08-12T19:40",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Two hydrogen-burning engines powered this car to a new land speed record",
-        "link": "https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/",
-        "pubDate": "2026-08-12T17:01",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "US tries to override New York gambling laws, orders Kalshi to keep operating",
-        "link": "https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/",
-        "pubDate": "2026-08-12T16:33",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Booksellers suspect AI firms are buying and then destroying rare books",
-        "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
-        "pubDate": "2026-08-12T15:19",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
-        "link": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
-        "pubDate": "2026-08-12T14:00",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,9 +288,15 @@
     "id": "axios",
     "items": [
       {
-        "title": "Trump-allied Kennedy Center board votes to put his name back on building",
+        "title": "Kushner plans to visit Israel next week for Gaza talks",
+        "link": "https://www.axios.com/2026/08/13/kushner-israel-gaza-netanyahu",
+        "pubDate": "2026-08-13T20:02",
+        "feedId": "axios"
+      },
+      {
+        "title": "Kennedy Center board restores Trump's name, testing judge",
         "link": "https://www.axios.com/2026/08/13/trump-kennedy-center-name-board-court-order",
-        "pubDate": "2026-08-13T18:45",
+        "pubDate": "2026-08-13T19:32",
         "feedId": "axios"
       },
       {
@@ -369,12 +375,6 @@
         "title": "Diesel desperation is mounting globally",
         "link": "https://www.axios.com/2026/08/12/diesel-prices-iran-russia-ukraine",
         "pubDate": "2026-08-12T13:28",
-        "feedId": "axios"
-      },
-      {
-        "title": "Socialist fever breaks: Takeaways from Crowley's win",
-        "link": "https://www.axios.com/2026/08/12/wisconsin-primary-crowley-hong-socialist-takeaways",
-        "pubDate": "2026-08-12T12:43",
         "feedId": "axios"
       }
     ]
