@@ -3,21 +3,39 @@
     "id": "hn",
     "items": [
       {
+        "title": "Text AI watermarks will always be trivial to remove",
+        "link": "https://www.seangoedecke.com/text-ai-watermarks/",
+        "pubDate": "2026-08-13T15:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "McDonald's Built a 515-Page Dossier on Me. It Says I'll Never Stop Eating There",
+        "link": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
+        "pubDate": "2026-08-13T14:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "Flock Safety changes system defaults in response to criticisms",
+        "link": "https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency",
+        "pubDate": "2026-08-13T14:37",
+        "feedId": "hn"
+      },
+      {
         "title": "Kubernetes on Oxide: How Customer Needs Shaped Our Integrations",
         "link": "https://oxide.computer/blog/kubernetes-on-oxide",
         "pubDate": "2026-08-13T14:26",
         "feedId": "hn"
       },
       {
-        "title": "US vs. UK Baby Names 2025: The Biggest Top Differences Visualized",
-        "link": "https://namedaisy.com/blog/us-vs-uk-top-100-baby-names-2025",
-        "pubDate": "2026-08-13T14:23",
-        "feedId": "hn"
-      },
-      {
         "title": "Graduate Student Proves a Quantum Uncertainty Principle for Fractals",
         "link": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
         "pubDate": "2026-08-13T14:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
+        "link": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
+        "pubDate": "2026-08-13T14:18",
         "feedId": "hn"
       },
       {
@@ -30,6 +48,12 @@
         "title": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
         "link": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
         "pubDate": "2026-08-13T14:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "Build a Stratum 1 PTP Grandmaster on a Budget",
+        "link": "https://opscode.io/posts/ptp-grandmaster-cm4-sr1723u10/",
+        "pubDate": "2026-08-13T14:08",
         "feedId": "hn"
       },
       {
@@ -67,30 +91,6 @@
         "link": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
         "pubDate": "2026-08-13T13:28",
         "feedId": "hn"
-      },
-      {
-        "title": "Why Are Rivers So Mathematical?",
-        "link": "https://www.quantamagazine.org/why-are-rivers-so-mathematical-20260810/",
-        "pubDate": "2026-08-13T13:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "Choosing an AI model: one prompt, 11 models, different results",
-        "link": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-        "pubDate": "2026-08-13T13:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "My Rules for Using Spreadsheets",
-        "link": "https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/",
-        "pubDate": "2026-08-13T13:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "DeepSeek Harness",
-        "link": "https://github.com/deepseek-ai/deepseek-harness",
-        "pubDate": "2026-08-13T12:58",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,6 +110,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Does anyone run Postgres without PgBouncer?",
+        "link": "https://brandur.org/fragments/postgres-without-pgbouncer",
+        "pubDate": "2026-08-13T03:08",
+        "feedId": "lobsters"
+      },
+      {
         "title": "I hate packaging my software for Linux",
         "link": "https://getfresh.dev/docs/blog/packaging-for-linux/",
         "pubDate": "2026-08-12T12:40",
@@ -119,12 +125,6 @@
         "title": "How Tailscale helped find the SQLite WAL-Reset bug",
         "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
         "pubDate": "2026-08-12T15:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Does anyone run Postgres without PgBouncer?",
-        "link": "https://brandur.org/fragments/postgres-without-pgbouncer",
-        "pubDate": "2026-08-13T03:08",
         "feedId": "lobsters"
       },
       {
@@ -140,6 +140,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "On Hacking",
+        "link": "https://stallman.org/articles/on-hacking.html",
+        "pubDate": "2026-08-13T07:51",
+        "feedId": "lobsters"
+      },
+      {
         "title": "SQLite: How it works, by Richard Hipp (2024)",
         "link": "https://www.youtube.com/watch?v=ZSKLA81tBis",
         "pubDate": "2026-08-13T11:56",
@@ -149,12 +155,6 @@
         "title": "What’s new in Flutter 3.47",
         "link": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
         "pubDate": "2026-08-13T10:46",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "On Hacking",
-        "link": "https://stallman.org/articles/on-hacking.html",
-        "pubDate": "2026-08-13T07:51",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why vibe code in Lisp?",
-        "link": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
-        "pubDate": "2026-08-13T09:33",
-        "feedId": "lobsters"
-      },
-      {
         "title": "A \"secure-ish\" Pi setup with permission, sandbox, and auto-review",
         "link": "https://ptgamr.substack.com/p/a-pi-setup-with-permission-sandbox",
         "pubDate": "2026-08-13T11:11",
         "feedId": "lobsters"
       },
       {
-        "title": "Digitizing super 8 film yourself",
-        "link": "https://nibblestew.blogspot.com/2026/08/digitizing-super-8-film-yourself.html",
-        "pubDate": "2026-08-13T11:09",
+        "title": "Why vibe code in Lisp?",
+        "link": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+        "pubDate": "2026-08-13T09:33",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Mindful coding: Purpose and intention",
+        "link": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
+        "pubDate": "2026-08-12T12:59",
         "feedId": "lobsters"
       }
     ]
@@ -193,7 +193,25 @@
     "id": "arstechnica",
     "items": [
       {
-        "title": "Claude's new Scarlet Letter watermark is invisible — for now",
+        "title": "Rivian's 2027 changes include its No. 1 most-requested feature",
+        "link": "https://arstechnica.com/cars/2026/08/rivian-tweaks-its-r1-range-for-model-year-2027/",
+        "pubDate": "2026-08-13T14:00",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Anthropic could be worth $2 trillion when it goes public",
+        "link": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
+        "pubDate": "2026-08-13T13:58",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
+        "link": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
+        "pubDate": "2026-08-13T13:48",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Claude's new Scarlet Letter watermark is invisible—for now",
         "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
         "pubDate": "2026-08-13T11:10",
         "feedId": "arstechnica"
@@ -263,30 +281,24 @@
         "link": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
         "pubDate": "2026-08-12T14:00",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Researchers found a way to hijack devices through Zoom screen sharing",
-        "link": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
-        "pubDate": "2026-08-12T13:37",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Formula E finds a new home on Disney+, ESPN+",
-        "link": "https://arstechnica.com/cars/2026/08/formula-e-finds-a-new-home-on-disney-espn/",
-        "pubDate": "2026-08-12T13:35",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Did poop enable the evolution of complex animals?",
-        "link": "https://arstechnica.com/science/2026/08/feces-fueled-a-flurry-of-evolution-during-the-cambrian-study-suggests/",
-        "pubDate": "2026-08-12T12:34",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Older Democrats walloped by midterms anti-establishment revolt",
+        "link": "https://www.axios.com/2026/08/13/democrats-old-age-larson-bronin-young-primaries",
+        "pubDate": "2026-08-13T15:34",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump's White House remodel tab keeps growing",
+        "link": "https://www.axios.com/2026/08/13/trump-white-house-projects-cost",
+        "pubDate": "2026-08-13T15:01",
+        "feedId": "axios"
+      },
       {
         "title": "Maggie Haberman says 70% of Trump's attention goes to monuments, renovations and legacy",
         "link": "https://www.axios.com/2026/08/13/trump-haberman-legacy-projects-behind-the-curtain",
@@ -309,12 +321,6 @@
         "title": "Youth poll: Thumbs down on everything",
         "link": "https://www.axios.com/2026/08/13/youth-poll-thumbs-down-on-everything",
         "pubDate": "2026-08-13T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Older Democrats walloped by midterms anti-establishment revolt",
-        "link": "https://www.axios.com/2026/08/13/democrats-old-age-larson-bronin-young-primaries",
-        "pubDate": "2026-08-13T09:10",
         "feedId": "axios"
       },
       {
@@ -369,12 +375,6 @@
         "title": "AI brings savings to clinical trials: study",
         "link": "https://www.axios.com/2026/08/12/ai-clinical-trials-cost-savings",
         "pubDate": "2026-08-12T09:40",
-        "feedId": "axios"
-      },
-      {
-        "title": "Anthropic's text watermarks signal new front in AI detection",
-        "link": "https://www.axios.com/2026/08/12/anthropic-claude-watermarks-ai-detection",
-        "pubDate": "2026-08-12T09:20",
         "feedId": "axios"
       }
     ]
