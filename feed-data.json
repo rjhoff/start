@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "US conducted mass spying campaign against leftwing and anti-ICE protesters",
+        "link": "https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters",
+        "pubDate": "2026-08-14T02:39",
+        "feedId": "hn"
+      },
+      {
         "title": "Bluesky Protocol Services",
         "link": "https://atproto.com/blog/introducing-bluesky-protocol-services",
         "pubDate": "2026-08-14T00:14",
@@ -21,13 +27,7 @@
         "feedId": "hn"
       },
       {
-        "title": "How AI text watermarking works",
-        "link": "https://declaude.org/watermarking/",
-        "pubDate": "2026-08-13T23:16",
-        "feedId": "hn"
-      },
-      {
-        "title": "NP-Overrated",
+        "title": "NP-overrated",
         "link": "https://gruhn.me/blog/2026-08-13/",
         "pubDate": "2026-08-13T20:14",
         "feedId": "hn"
@@ -134,39 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Does anyone run Postgres without PgBouncer?",
-        "link": "https://brandur.org/fragments/postgres-without-pgbouncer",
-        "pubDate": "2026-08-13T03:08",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What’s new in Flutter 3.47",
-        "link": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
-        "pubDate": "2026-08-13T10:46",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "C3 0.8.3 Feature flags",
-        "link": "https://c3-lang.org/blog/c3_0_8_3_feature_flags/",
-        "pubDate": "2026-08-13T19:07",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "SQLite: How it works, by Richard Hipp (2024)",
-        "link": "https://www.youtube.com/watch?v=ZSKLA81tBis",
-        "pubDate": "2026-08-13T11:56",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Let's not call it \"tech debt,\" it's just \"mess\"",
         "link": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
         "pubDate": "2026-08-13T23:09",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How Tailscale helped find the SQLite WAL-Reset bug",
-        "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-        "pubDate": "2026-08-12T15:01",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +146,45 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I hate packaging my software for Linux",
-        "link": "https://getfresh.dev/docs/blog/packaging-for-linux/",
-        "pubDate": "2026-08-12T12:40",
+        "title": "Does anyone run Postgres without PgBouncer?",
+        "link": "https://brandur.org/fragments/postgres-without-pgbouncer",
+        "pubDate": "2026-08-13T03:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "C3 0.8.3 Feature flags",
+        "link": "https://c3-lang.org/blog/c3_0_8_3_feature_flags/",
+        "pubDate": "2026-08-13T19:07",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What’s new in Flutter 3.47",
+        "link": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+        "pubDate": "2026-08-13T10:46",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "SQLite: How it works, by Richard Hipp (2024)",
+        "link": "https://www.youtube.com/watch?v=ZSKLA81tBis",
+        "pubDate": "2026-08-13T11:56",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How Tailscale helped find the SQLite WAL-Reset bug",
+        "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+        "pubDate": "2026-08-12T15:01",
         "feedId": "lobsters"
       },
       {
         "title": "Let Them Write RFCs",
         "link": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
         "pubDate": "2026-08-13T10:48",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I hate packaging my software for Linux",
+        "link": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+        "pubDate": "2026-08-12T12:40",
         "feedId": "lobsters"
       }
     ]
@@ -294,6 +294,12 @@
         "feedId": "axios"
       },
       {
+        "title": "Scoop: Trump team tells GOP to lean in on health care",
+        "link": "https://www.axios.com/2026/08/13/midterms-senate-health-care-republicans-trump",
+        "pubDate": "2026-08-13T22:03",
+        "feedId": "axios"
+      },
+      {
         "title": "\"It is despicable\": House Democrats rage over Republican stock trading \"set-up\"",
         "link": "https://www.axios.com/2026/08/13/republicans-insider-congress-stock-trading-ads",
         "pubDate": "2026-08-13T21:51",
@@ -309,6 +315,12 @@
         "title": "Kennedy Center board restores Trump's name, testing judge",
         "link": "https://www.axios.com/2026/08/13/trump-kennedy-center-name-board-court-order",
         "pubDate": "2026-08-13T21:36",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump wins legal battle to keep cheap imports subject to tariffs",
+        "link": "https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
+        "pubDate": "2026-08-13T19:44",
         "feedId": "axios"
       },
       {
@@ -363,18 +375,6 @@
         "title": "Karoline Leavitt stepping down as White House press secretary",
         "link": "https://www.axios.com/2026/08/12/trump-karoline-leavitt-white-house-press",
         "pubDate": "2026-08-12T20:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump's ballroom costs are rising. What we know about the secret underground bunker",
-        "link": "https://www.axios.com/2026/08/12/trumps-ballroom-costs-are-rising-what-we-know-about-the-secret-underground-bunker",
-        "pubDate": "2026-08-12T20:02",
-        "feedId": "axios"
-      },
-      {
-        "title": "ICE plans to put electric-shock gloves on officers' hands",
-        "link": "https://www.axios.com/2026/08/12/ice-electric-shock-gloves-millions",
-        "pubDate": "2026-08-12T17:54",
         "feedId": "axios"
       }
     ]
