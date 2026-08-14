@@ -3,6 +3,42 @@
     "id": "hn",
     "items": [
       {
+        "title": "In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half",
+        "link": "https://e360.yale.edu/digest/australia-home-batteries",
+        "pubDate": "2026-08-14T14:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+        "link": "https://hashagent.pages.dev/",
+        "pubDate": "2026-08-14T12:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP",
+        "link": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
+        "pubDate": "2026-08-14T12:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "The TEMU-Fication of Software, Digital Goods and Services",
+        "link": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
+        "pubDate": "2026-08-14T12:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "WhatCable: Know what your USB-C cable can do",
+        "link": "https://www.whatcable.uk/",
+        "pubDate": "2026-08-14T11:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ntfy – open-source Push to Mobile",
+        "link": "https://ntfy.sh/",
+        "pubDate": "2026-08-14T10:35",
+        "feedId": "hn"
+      },
+      {
         "title": "Why does Opus 5 feel worse to work with?",
         "link": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
         "pubDate": "2026-08-14T10:12",
@@ -39,27 +75,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Blog about things you don't understand yet",
-        "link": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
-        "pubDate": "2026-08-13T23:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-        "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-        "pubDate": "2026-08-13T19:25",
-        "feedId": "hn"
-      },
-      {
         "title": "Understanding is the new bottleneck",
         "link": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
         "pubDate": "2026-08-13T18:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
-        "link": "https://github.com/systemd/systemd/issues/40262",
-        "pubDate": "2026-08-13T18:41",
         "feedId": "hn"
       },
       {
@@ -72,24 +90,6 @@
         "title": "Accelerating GPT-5.6 Sol Ultrafast",
         "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
         "pubDate": "2026-08-13T18:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "How Compaction Works in Pi",
-        "link": "https://earendil.com/posts/compaction-in-pi/",
-        "pubDate": "2026-08-13T17:57",
-        "feedId": "hn"
-      },
-      {
-        "title": "Where did the old web go? We followed 657,607 links to find out",
-        "link": "https://0.mk/blog/link-rot",
-        "pubDate": "2026-08-13T17:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "Choose Boring Technology (2015)",
-        "link": "https://mcfunley.com/choose-boring-technology",
-        "pubDate": "2026-08-13T17:48",
         "feedId": "hn"
       }
     ]
@@ -116,9 +116,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "python's pre-declared constants are kinda weird",
-        "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
-        "pubDate": "2026-08-13T05:28",
+        "title": "Curl Performance",
+        "link": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
+        "pubDate": "2026-08-14T11:33",
         "feedId": "lobsters"
       },
       {
@@ -128,15 +128,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Unlocking _everything_ on the CPU with DRAM scrambling",
-        "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-        "pubDate": "2026-08-13T16:06",
+        "title": "python's pre-declared constants are kinda weird",
+        "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
+        "pubDate": "2026-08-13T05:28",
         "feedId": "lobsters"
       },
       {
         "title": "The Art of CHIP-8",
         "link": "https://beyondloom.com/blog/artofchip8.html",
         "pubDate": "2026-08-14T09:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Unlocking _everything_ on the CPU with DRAM scrambling",
+        "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+        "pubDate": "2026-08-13T16:06",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "SlopScan: Displays a \"slop score\" when viewing public git repositories",
+        "link": "https://addons.mozilla.org/en-US/firefox/addon/slopscan/",
+        "pubDate": "2026-08-14T09:43",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Curl Performance",
-        "link": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
-        "pubDate": "2026-08-14T11:33",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "SlopScan: Displays a \"slop score\" when viewing public git repositories",
-        "link": "https://addons.mozilla.org/en-US/firefox/addon/slopscan/",
-        "pubDate": "2026-08-14T09:43",
+        "title": "Computing graph dominators",
+        "link": "https://neugierig.org/software/blog/2026/08/dominators.html",
+        "pubDate": "2026-08-14T10:00",
         "feedId": "lobsters"
       },
       {
@@ -173,12 +179,6 @@
         "title": "A preview of Roc 0.1.0",
         "link": "https://youtu.be/a7qEOtkkDb8",
         "pubDate": "2026-08-13T21:08",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Computing graph dominators",
-        "link": "https://neugierig.org/software/blog/2026/08/dominators.html",
-        "pubDate": "2026-08-14T10:00",
         "feedId": "lobsters"
       },
       {
