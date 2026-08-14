@@ -3,6 +3,36 @@
     "id": "hn",
     "items": [
       {
+        "title": "For the love of god stop using CPU limits in Kubernetes",
+        "link": "https://github.com/inevolin/k8s-cpu-limits-analyzed",
+        "pubDate": "2026-08-14T10:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why does Opus 5 feel worse to work with?",
+        "link": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+        "pubDate": "2026-08-14T10:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "Major oil slick washes up on Iran coast after Hormuz ship strike",
+        "link": "https://www.bbc.com/news/articles/cr7kpdkg13zo",
+        "pubDate": "2026-08-14T10:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "I want extern \"fil-C\"",
+        "link": "https://www.domenkozar.com/2026/08/13/i-want-extern-fil-c/",
+        "pubDate": "2026-08-14T10:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "DeepSeek peak/off-peak pricing update",
+        "link": "https://api-docs.deepseek.com/news/news260813/",
+        "pubDate": "2026-08-14T09:55",
+        "feedId": "hn"
+      },
+      {
         "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
         "link": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
         "pubDate": "2026-08-14T06:09",
@@ -30,18 +60,6 @@
         "title": "Blog about things you don't understand yet",
         "link": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
         "pubDate": "2026-08-13T23:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "NP-overrated",
-        "link": "https://gruhn.me/blog/2026-08-13/",
-        "pubDate": "2026-08-13T20:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "How Gödel's Proof Works (2020)",
-        "link": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
-        "pubDate": "2026-08-13T19:44",
         "feedId": "hn"
       },
       {
@@ -73,24 +91,6 @@
         "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
         "pubDate": "2026-08-13T18:10",
         "feedId": "hn"
-      },
-      {
-        "title": "How Compaction Works in Pi",
-        "link": "https://earendil.com/posts/compaction-in-pi/",
-        "pubDate": "2026-08-13T17:57",
-        "feedId": "hn"
-      },
-      {
-        "title": "Where did the old web go? We followed 657,607 links to find out",
-        "link": "https://0.mk/blog/link-rot",
-        "pubDate": "2026-08-13T17:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "Choose Boring Technology (2015)",
-        "link": "https://mcfunley.com/choose-boring-technology",
-        "pubDate": "2026-08-13T17:48",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Unlocking _everything_ on the CPU with DRAM scrambling",
-        "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-        "pubDate": "2026-08-13T16:06",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Let's not call it \"tech debt,\" it's just \"mess\"",
         "link": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
         "pubDate": "2026-08-13T23:09",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Unlocking _everything_ on the CPU with DRAM scrambling",
+        "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+        "pubDate": "2026-08-13T16:06",
         "feedId": "lobsters"
       },
       {
@@ -134,6 +134,24 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Comments in the code vs PR description",
+        "link": "https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607",
+        "pubDate": "2026-08-14T09:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Art of CHIP-8",
+        "link": "https://beyondloom.com/blog/artofchip8.html",
+        "pubDate": "2026-08-14T09:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "OxiSH: SSH server written in Rust",
+        "link": "https://github.com/djc/oxish",
+        "pubDate": "2026-08-13T18:23",
+        "feedId": "lobsters"
+      },
+      {
         "title": "A preview of Roc 0.1.0",
         "link": "https://youtu.be/a7qEOtkkDb8",
         "pubDate": "2026-08-13T21:08",
@@ -146,15 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "OxiSH: SSH server written in Rust",
-        "link": "https://github.com/djc/oxish",
-        "pubDate": "2026-08-13T18:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "C3 0.8.3 Feature flags",
-        "link": "https://c3-lang.org/blog/c3_0_8_3_feature_flags/",
-        "pubDate": "2026-08-13T19:07",
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend",
+        "pubDate": "2026-08-14T10:39",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Does anyone run Postgres without PgBouncer?",
-        "link": "https://brandur.org/fragments/postgres-without-pgbouncer",
-        "pubDate": "2026-08-13T03:08",
+        "title": "C3 0.8.3 Feature flags",
+        "link": "https://c3-lang.org/blog/c3_0_8_3_feature_flags/",
+        "pubDate": "2026-08-13T19:07",
         "feedId": "lobsters"
       },
       {
-        "title": "Let Them Write RFCs",
-        "link": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
-        "pubDate": "2026-08-13T10:48",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What’s new in Flutter 3.47",
-        "link": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
-        "pubDate": "2026-08-13T10:46",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The SvelteKit 3 Release Candidate is here",
-        "link": "https://svelte.dev/blog/sveltekit-3-release-candidate",
-        "pubDate": "2026-08-13T19:08",
+        "title": "I Made the World's First \"Link Compressor\"",
+        "link": "https://www.youtube.com/watch?v=TOr1Vvji6jA",
+        "pubDate": "2026-08-14T07:27",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Organic-looking brake assemblies debut on new Czinger 21C Spyder",
+        "link": "https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder/",
+        "pubDate": "2026-08-14T07:01",
+        "feedId": "arstechnica"
+      },
       {
         "title": "US wait times for cancer surgeries are getting longer and longer",
         "link": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
@@ -275,18 +281,54 @@
         "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
         "pubDate": "2026-08-12T22:02",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Terabytes of credentials leaked in massive supply-chain attack",
-        "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-        "pubDate": "2026-08-12T21:43",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "OpenAI sheds senior execs in pre-IPO refresh",
+        "link": "https://www.axios.com/2026/08/14/openai-executive-greg-brockman-ipo",
+        "pubDate": "2026-08-14T09:28",
+        "feedId": "axios"
+      },
+      {
+        "title": "America has more majority-minority rural counties than urban and suburban ones",
+        "link": "https://www.axios.com/2026/08/14/majority-minority-rural-america-black-latino",
+        "pubDate": "2026-08-14T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "Data center backlash echoes fossil-fuel politics",
+        "link": "https://www.axios.com/2026/08/14/data-center-backlash-fossil-fuel-protests",
+        "pubDate": "2026-08-14T09:15",
+        "feedId": "axios"
+      },
+      {
+        "title": "AI scrambles the political map",
+        "link": "https://www.axios.com/2026/08/14/ai-scrambles-political-map",
+        "pubDate": "2026-08-14T09:15",
+        "feedId": "axios"
+      },
+      {
+        "title": "GOP finds its next progressive target in Minnesota",
+        "link": "https://www.axios.com/2026/08/14/gop-progressive-target-flanagan-minnesota",
+        "pubDate": "2026-08-14T09:10",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: Key W.H. national security aide Andy Baker is departing",
+        "link": "https://www.axios.com/2026/08/14/andy-baker-national-security-needham-sims",
+        "pubDate": "2026-08-14T09:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump stops short of endorsing Bibi as his campaign falters",
+        "link": "https://www.axios.com/2026/08/14/trump-netanyahu-israel-election-endorsement",
+        "pubDate": "2026-08-14T09:00",
+        "feedId": "axios"
+      },
       {
         "title": "\"Rubio Realizing\" memes become a White House birthday gift",
         "link": "https://www.axios.com/2026/08/13/marco-rubio-memes-birthday-gift",
@@ -333,48 +375,6 @@
         "title": "Trump's White House remodel tab keeps growing",
         "link": "https://www.axios.com/2026/08/13/trump-white-house-projects-cost",
         "pubDate": "2026-08-13T15:01",
-        "feedId": "axios"
-      },
-      {
-        "title": "Maggie Haberman says 70% of Trump's attention goes to monuments, renovations and legacy",
-        "link": "https://www.axios.com/2026/08/13/trump-haberman-legacy-projects-behind-the-curtain",
-        "pubDate": "2026-08-13T10:37",
-        "feedId": "axios"
-      },
-      {
-        "title": "Musk and Zuckerberg claw back into AI race with new model momentum",
-        "link": "https://www.axios.com/2026/08/13/grok-elon-musk-ai-zuckerberg-and-meta",
-        "pubDate": "2026-08-13T10:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Pollsters missed again in Wisconsin. Here's why.",
-        "link": "https://www.axios.com/2026/08/13/pollsters-missed-again-in-wisconsin-heres-why",
-        "pubDate": "2026-08-13T09:58",
-        "feedId": "axios"
-      },
-      {
-        "title": "Youth poll: Thumbs down on everything",
-        "link": "https://www.axios.com/2026/08/13/youth-poll-thumbs-down-on-everything",
-        "pubDate": "2026-08-13T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Why House Dems may go easy on one of GOP's most vulnerable members",
-        "link": "https://www.axios.com/2026/08/12/mike-lawler-2026-midterms-new-york-democrats",
-        "pubDate": "2026-08-12T22:18",
-        "feedId": "axios"
-      },
-      {
-        "title": "Congressional campaign stars",
-        "link": "https://www.axios.com/2026/08/12/congress-august-recesss-campaign-trail-midterms-bernie-sanders",
-        "pubDate": "2026-08-12T22:17",
-        "feedId": "axios"
-      },
-      {
-        "title": "Karoline Leavitt stepping down as White House press secretary",
-        "link": "https://www.axios.com/2026/08/12/trump-karoline-leavitt-white-house-press",
-        "pubDate": "2026-08-12T20:10",
         "feedId": "axios"
       }
     ]
