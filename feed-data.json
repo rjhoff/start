@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "Everything is about to \"go dark\"",
+        "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+        "pubDate": "2026-08-14T20:52",
+        "feedId": "hn"
+      },
+      {
         "title": "Study links coffee consumption to metabolic health and sex hormones",
         "link": "https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones",
         "pubDate": "2026-08-14T20:46",
@@ -21,24 +27,6 @@
         "feedId": "hn"
       },
       {
-        "title": "CEO who fired 900 people on Zoom just before Christmas wants his job back",
-        "link": "https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo",
-        "pubDate": "2026-08-14T19:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "Anthropic Risk August 2026 [pdf]",
-        "link": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
-        "pubDate": "2026-08-14T19:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
-        "link": "https://www.aletheionagi.com",
-        "pubDate": "2026-08-14T19:28",
-        "feedId": "hn"
-      },
-      {
         "title": "What You Gain by Building Your Own Game Engine",
         "link": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
         "pubDate": "2026-08-14T19:20",
@@ -51,9 +39,27 @@
         "feedId": "hn"
       },
       {
+        "title": "Firefox is now the last major browser that still supports uBlock Origin",
+        "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+        "pubDate": "2026-08-14T19:03",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: Mole – Deep research agent for your terminal",
         "link": "https://github.com/lajosdeme/mole",
         "pubDate": "2026-08-14T18:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "The American sports plutocracy",
+        "link": "https://www.derekthompson.org/p/the-american-sports-plutocracy-is",
+        "pubDate": "2026-08-14T18:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Every fucking website: 2026 edition",
+        "link": "https://op.tngl.io/every-fucking-website/",
+        "pubDate": "2026-08-14T18:27",
         "feedId": "hn"
       },
       {
@@ -81,12 +87,6 @@
         "feedId": "hn"
       },
       {
-        "title": "France's top court blocks social media ban for under-15s",
-        "link": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
-        "pubDate": "2026-08-14T16:06",
-        "feedId": "hn"
-      },
-      {
         "title": "AI by Hand",
         "link": "https://www.byhand.ai/",
         "pubDate": "2026-08-14T15:58",
@@ -98,15 +98,21 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "ActivityPub Won by Being Boring",
+        "link": "https://o.ee/blog/activitypub-won-by-being-boring/",
+        "pubDate": "2026-08-14T18:44",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Curl Performance",
         "link": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
         "pubDate": "2026-08-14T11:33",
         "feedId": "lobsters"
       },
       {
-        "title": "The Art of CHIP-8",
-        "link": "https://beyondloom.com/blog/artofchip8.html",
-        "pubDate": "2026-08-14T09:10",
+        "title": "RISC-V: They Should Have Known Better",
+        "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+        "pubDate": "2026-08-14T19:12",
         "feedId": "lobsters"
       },
       {
@@ -116,9 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "ActivityPub Won by Being Boring",
-        "link": "https://o.ee/blog/activitypub-won-by-being-boring/",
-        "pubDate": "2026-08-14T18:44",
+        "title": "The Art of CHIP-8",
+        "link": "https://beyondloom.com/blog/artofchip8.html",
+        "pubDate": "2026-08-14T09:10",
         "feedId": "lobsters"
       },
       {
@@ -140,27 +146,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Thunderbird’s Desktop Calendar Visual Redesign",
+        "link": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
+        "pubDate": "2026-08-14T17:03",
+        "feedId": "lobsters"
+      },
+      {
         "title": "There Is Still No Silver Bullet",
         "link": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
         "pubDate": "2026-08-14T15:18",
         "feedId": "lobsters"
       },
       {
-        "title": "RISC-V: They Should Have Known Better",
-        "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-        "pubDate": "2026-08-14T19:12",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Comments in the code vs PR description",
         "link": "https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607",
         "pubDate": "2026-08-14T09:52",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Thunderbird’s Desktop Calendar Visual Redesign",
-        "link": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
-        "pubDate": "2026-08-14T17:03",
         "feedId": "lobsters"
       },
       {
@@ -354,6 +354,12 @@
         "feedId": "axios"
       },
       {
+        "title": "A convergence of biological risks",
+        "link": "https://www.axios.com/2026/08/14/biological-threats-ai-lab-research",
+        "pubDate": "2026-08-14T09:00",
+        "feedId": "axios"
+      },
+      {
         "title": "Scoop: Key W.H. national security aide Andy Baker is departing",
         "link": "https://www.axios.com/2026/08/14/andy-baker-national-security-needham-sims",
         "pubDate": "2026-08-14T09:00",
@@ -369,12 +375,6 @@
         "title": "\"Rubio Realizing\" memes become a White House birthday gift",
         "link": "https://www.axios.com/2026/08/13/marco-rubio-memes-birthday-gift",
         "pubDate": "2026-08-13T22:51",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Trump team tells GOP to lean in on health care",
-        "link": "https://www.axios.com/2026/08/13/midterms-senate-health-care-republicans-trump",
-        "pubDate": "2026-08-13T22:03",
         "feedId": "axios"
       }
     ]
