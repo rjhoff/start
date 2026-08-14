@@ -3,9 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+        "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+        "link": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+        "pubDate": "2026-08-14T06:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
         "link": "https://z.ai/blog/glm-5.3",
         "pubDate": "2026-08-14T05:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
+        "link": "https://github.com/JustVugg/lumabri",
+        "pubDate": "2026-08-14T00:47",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://mcfunley.com/choose-boring-technology",
         "pubDate": "2026-08-13T17:48",
         "feedId": "hn"
-      },
-      {
-        "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
-        "link": "https://donkeybas.com/",
-        "pubDate": "2026-08-13T17:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "Gemini 3.7 Flash",
-        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-        "pubDate": "2026-08-13T17:23",
-        "feedId": "hn"
       }
     ]
   },
@@ -116,6 +116,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Let's not call it \"tech debt,\" it's just \"mess\"",
+        "link": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
+        "pubDate": "2026-08-13T23:09",
+        "feedId": "lobsters"
+      },
+      {
         "title": "EuroZig",
         "link": "http://eurozig.eu/",
         "pubDate": "2026-08-13T16:24",
@@ -128,9 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Let's not call it \"tech debt,\" it's just \"mess\"",
-        "link": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
-        "pubDate": "2026-08-13T23:09",
+        "title": "A preview of Roc 0.1.0",
+        "link": "https://youtu.be/a7qEOtkkDb8",
+        "pubDate": "2026-08-13T21:08",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A preview of Roc 0.1.0",
-        "link": "https://youtu.be/a7qEOtkkDb8",
-        "pubDate": "2026-08-13T21:08",
+        "title": "OxiSH: SSH server written in Rust",
+        "link": "https://github.com/djc/oxish",
+        "pubDate": "2026-08-13T18:23",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What’s new in Flutter 3.47",
-        "link": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
-        "pubDate": "2026-08-13T10:46",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Let Them Write RFCs",
         "link": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
         "pubDate": "2026-08-13T10:48",
         "feedId": "lobsters"
       },
       {
-        "title": "SQLite: How it works, by Richard Hipp (2024)",
-        "link": "https://www.youtube.com/watch?v=ZSKLA81tBis",
-        "pubDate": "2026-08-13T11:56",
+        "title": "What’s new in Flutter 3.47",
+        "link": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+        "pubDate": "2026-08-13T10:46",
         "feedId": "lobsters"
       },
       {
-        "title": "Write for people",
-        "link": "https://newsletter.vickiboykis.com/archive/write-for-people/",
-        "pubDate": "2026-08-14T00:06",
+        "title": "The SvelteKit 3 Release Candidate is here",
+        "link": "https://svelte.dev/blog/sveltekit-3-release-candidate",
+        "pubDate": "2026-08-13T19:08",
         "feedId": "lobsters"
       }
     ]
