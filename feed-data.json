@@ -3,6 +3,72 @@
     "id": "hn",
     "items": [
       {
+        "title": "Introducing Toast 1",
+        "link": "https://www.mixedbread.com/blog/toast-1",
+        "pubDate": "2026-08-14T15:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "Unsloth Qwen3.8-27B GGUF files",
+        "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+        "pubDate": "2026-08-14T15:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Qwen3.8-27B",
+        "link": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
+        "pubDate": "2026-08-14T15:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "Seven books I keep close because I love them",
+        "link": "https://blog.plover.com/2026/08/02/",
+        "pubDate": "2026-08-14T15:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "Self-hosted web push Cloudflare Worker, works on iOS",
+        "link": "https://kukuroo.cc/",
+        "pubDate": "2026-08-14T15:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "Qwen 3.8 27B is out: open weights, best local dense model yet",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+        "pubDate": "2026-08-14T15:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+        "link": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+        "pubDate": "2026-08-14T14:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "Every Fucking Website",
+        "link": "https://lxe.github.io/everywebsite/",
+        "pubDate": "2026-08-14T14:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+        "link": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+        "pubDate": "2026-08-14T14:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+        "link": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+        "pubDate": "2026-08-14T14:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
+        "link": "https://apimart.ai/register?aff=yScTCM",
+        "pubDate": "2026-08-14T14:14",
+        "feedId": "hn"
+      },
+      {
         "title": "In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half",
         "link": "https://e360.yale.edu/digest/australia-home-batteries",
         "pubDate": "2026-08-14T14:07",
@@ -25,78 +91,18 @@
         "link": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
         "pubDate": "2026-08-14T12:00",
         "feedId": "hn"
-      },
-      {
-        "title": "WhatCable: Know what your USB-C cable can do",
-        "link": "https://www.whatcable.uk/",
-        "pubDate": "2026-08-14T11:41",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ntfy – open-source Push to Mobile",
-        "link": "https://ntfy.sh/",
-        "pubDate": "2026-08-14T10:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why does Opus 5 feel worse to work with?",
-        "link": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-        "pubDate": "2026-08-14T10:12",
-        "feedId": "hn"
-      },
-      {
-        "title": "DeepSeek peak/off-peak pricing update",
-        "link": "https://api-docs.deepseek.com/news/news260813/",
-        "pubDate": "2026-08-14T09:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
-        "link": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
-        "pubDate": "2026-08-14T06:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-        "link": "https://z.ai/blog/glm-5.3",
-        "pubDate": "2026-08-14T05:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
-        "link": "https://github.com/JustVugg/lumabri",
-        "pubDate": "2026-08-14T00:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "Bluesky Protocol Services",
-        "link": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-        "pubDate": "2026-08-14T00:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "Understanding is the new bottleneck",
-        "link": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-        "pubDate": "2026-08-13T18:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hello, me. It's been a while",
-        "link": "https://themech.net/2026/08/hello-me-its-been-a-while/",
-        "pubDate": "2026-08-13T18:37",
-        "feedId": "hn"
-      },
-      {
-        "title": "Accelerating GPT-5.6 Sol Ultrafast",
-        "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-        "pubDate": "2026-08-13T18:10",
-        "feedId": "hn"
       }
     ]
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "Curl Performance",
+        "link": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
+        "pubDate": "2026-08-14T11:33",
+        "feedId": "lobsters"
+      },
       {
         "title": "I want extern \"fil-c\"",
         "link": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
@@ -110,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Comments in the code vs PR description",
-        "link": "https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607",
-        "pubDate": "2026-08-14T09:52",
+        "title": "The Art of CHIP-8",
+        "link": "https://beyondloom.com/blog/artofchip8.html",
+        "pubDate": "2026-08-14T09:10",
         "feedId": "lobsters"
       },
       {
-        "title": "Curl Performance",
-        "link": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
-        "pubDate": "2026-08-14T11:33",
+        "title": "Comments in the code vs PR description",
+        "link": "https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607",
+        "pubDate": "2026-08-14T09:52",
         "feedId": "lobsters"
       },
       {
@@ -128,15 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "python's pre-declared constants are kinda weird",
-        "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
-        "pubDate": "2026-08-13T05:28",
+        "title": "SlopScan: Displays a \"slop score\" when viewing public git repositories",
+        "link": "https://addons.mozilla.org/en-US/firefox/addon/slopscan/",
+        "pubDate": "2026-08-14T09:43",
         "feedId": "lobsters"
       },
       {
-        "title": "The Art of CHIP-8",
-        "link": "https://beyondloom.com/blog/artofchip8.html",
-        "pubDate": "2026-08-14T09:10",
+        "title": "python's pre-declared constants are kinda weird",
+        "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
+        "pubDate": "2026-08-13T05:28",
         "feedId": "lobsters"
       },
       {
@@ -146,21 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "SlopScan: Displays a \"slop score\" when viewing public git repositories",
-        "link": "https://addons.mozilla.org/en-US/firefox/addon/slopscan/",
-        "pubDate": "2026-08-14T09:43",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "AI is removing the middle class of software engineering",
-        "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-        "pubDate": "2026-08-13T14:03",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "EuroZig",
-        "link": "http://eurozig.eu/",
-        "pubDate": "2026-08-13T16:24",
+        "title": "OxiSH: SSH server written in Rust",
+        "link": "https://github.com/djc/oxish",
+        "pubDate": "2026-08-13T18:23",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "OxiSH: SSH server written in Rust",
-        "link": "https://github.com/djc/oxish",
-        "pubDate": "2026-08-13T18:23",
+        "title": "EuroZig",
+        "link": "http://eurozig.eu/",
+        "pubDate": "2026-08-13T16:24",
         "feedId": "lobsters"
       },
       {
-        "title": "A preview of Roc 0.1.0",
-        "link": "https://youtu.be/a7qEOtkkDb8",
-        "pubDate": "2026-08-13T21:08",
+        "title": "AI is removing the middle class of software engineering",
+        "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+        "pubDate": "2026-08-13T14:03",
         "feedId": "lobsters"
       },
       {
-        "title": "Logging into a Linux machine from a flip phone over Bluetooth (2020)",
-        "link": "https://www.youtube.com/watch?v=eETHOyuSiMA",
-        "pubDate": "2026-08-14T04:08",
+        "title": "Introducing Bluesky Protocol Services",
+        "link": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+        "pubDate": "2026-08-14T10:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I Made the World's First \"Link Compressor\"",
+        "link": "https://www.youtube.com/watch?v=TOr1Vvji6jA",
+        "pubDate": "2026-08-14T07:27",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+        "pubDate": "2026-08-14T14:27",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
         "link": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/",
@@ -275,18 +281,18 @@
         "link": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
         "pubDate": "2026-08-13T13:48",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Claude's new Scarlet Letter watermark is invisible—for now",
-        "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-        "pubDate": "2026-08-13T11:10",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Luigi Mangione pleads guilty to stalking UnitedHealthcare CEO",
+        "link": "https://www.axios.com/2026/08/14/luigi-mangione-plea-trial-brian-thompson-case",
+        "pubDate": "2026-08-14T15:43",
+        "feedId": "axios"
+      },
       {
         "title": "OpenAI sheds senior execs in pre-IPO refresh",
         "link": "https://www.axios.com/2026/08/14/openai-executive-greg-brockman-ipo",
@@ -369,12 +375,6 @@
         "title": "Older Democrats walloped by midterms anti-establishment revolt",
         "link": "https://www.axios.com/2026/08/13/democrats-old-age-larson-bronin-young-primaries",
         "pubDate": "2026-08-13T15:34",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump's White House remodel tab keeps growing",
-        "link": "https://www.axios.com/2026/08/13/trump-white-house-projects-cost",
-        "pubDate": "2026-08-13T15:01",
         "feedId": "axios"
       }
     ]
