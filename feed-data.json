@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "New Lower and Upper Bounds for the Grothendieck Constant",
+        "link": "https://arxiv.org/abs/2608.11158",
+        "pubDate": "2026-08-14T19:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "Anthropic Risk August 2026 [pdf]",
+        "link": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
+        "pubDate": "2026-08-14T19:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
+        "link": "https://www.aletheionagi.com",
+        "pubDate": "2026-08-14T19:28",
+        "feedId": "hn"
+      },
+      {
         "title": "Z.ai Security Disclosure",
         "link": "https://cvd.z.ai",
         "pubDate": "2026-08-14T19:22",
@@ -12,6 +30,18 @@
         "title": "How Claude's text watermarking works",
         "link": "https://www.anthropic.com/news/claude-text-watermark",
         "pubDate": "2026-08-14T19:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "High-Performance Array-Backed LRU Hash Table",
+        "link": "https://github.com/adanil-code/LRUHashTable",
+        "pubDate": "2026-08-14T19:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "Open WireGuard Endpoints",
+        "link": "https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html",
+        "pubDate": "2026-08-14T19:05",
         "feedId": "hn"
       },
       {
@@ -61,36 +91,6 @@
         "link": "https://www.byhand.ai/",
         "pubDate": "2026-08-14T15:58",
         "feedId": "hn"
-      },
-      {
-        "title": "Google is making private AI practical with homomorphic encryption",
-        "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-        "pubDate": "2026-08-14T15:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "Introducing Toast 1",
-        "link": "https://www.mixedbread.com/blog/toast-1",
-        "pubDate": "2026-08-14T15:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "Seven books I keep close because I love them",
-        "link": "https://blog.plover.com/2026/08/02/",
-        "pubDate": "2026-08-14T15:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Self-hosted web push Cloudflare Worker, works on iOS",
-        "link": "https://kukuroo.cc/",
-        "pubDate": "2026-08-14T15:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Qwen 3.8 27B",
-        "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-        "pubDate": "2026-08-14T15:00",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,9 +110,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Let's not call it \"tech debt,\" it's just \"mess\"",
-        "link": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
-        "pubDate": "2026-08-13T23:09",
+        "title": "SlopScan: Displays a \"slop score\" when viewing public git repositories",
+        "link": "https://addons.mozilla.org/en-US/firefox/addon/slopscan/",
+        "pubDate": "2026-08-14T09:43",
         "feedId": "lobsters"
       },
       {
@@ -122,15 +122,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "SlopScan: Displays a \"slop score\" when viewing public git repositories",
-        "link": "https://addons.mozilla.org/en-US/firefox/addon/slopscan/",
-        "pubDate": "2026-08-14T09:43",
+        "title": "Let's not call it \"tech debt,\" it's just \"mess\"",
+        "link": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
+        "pubDate": "2026-08-13T23:09",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "ActivityPub Won by Being Boring",
+        "link": "https://o.ee/blog/activitypub-won-by-being-boring/",
+        "pubDate": "2026-08-14T18:44",
         "feedId": "lobsters"
       },
       {
         "title": "I want extern \"fil-c\"",
         "link": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
         "pubDate": "2026-08-13T17:43",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "RISC-V: They Should Have Known Better",
+        "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+        "pubDate": "2026-08-14T19:12",
         "feedId": "lobsters"
       },
       {
@@ -146,12 +158,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "ActivityPub Won by Being Boring",
-        "link": "https://o.ee/blog/activitypub-won-by-being-boring/",
-        "pubDate": "2026-08-14T18:44",
-        "feedId": "lobsters"
-      },
-      {
         "title": "python's pre-declared constants are kinda weird",
         "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
         "pubDate": "2026-08-13T05:28",
@@ -161,12 +167,6 @@
         "title": "Unlocking _everything_ on the CPU with DRAM scrambling",
         "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
         "pubDate": "2026-08-13T16:06",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "OxiSH: SSH server written in Rust",
-        "link": "https://github.com/djc/oxish",
-        "pubDate": "2026-08-13T18:23",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "AI is removing the middle class of software engineering",
-        "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-        "pubDate": "2026-08-13T14:03",
+        "title": "OxiSH: SSH server written in Rust",
+        "link": "https://github.com/djc/oxish",
+        "pubDate": "2026-08-13T18:23",
         "feedId": "lobsters"
       }
     ]
@@ -290,7 +290,7 @@
       {
         "title": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln",
         "link": "https://www.axios.com/2026/08/14/trump-uss-abraham-lincoln-deployment-middle-east",
-        "pubDate": "2026-08-14T19:30",
+        "pubDate": "2026-08-14T20:19",
         "feedId": "axios"
       },
       {
