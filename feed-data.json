@@ -3,6 +3,30 @@
     "id": "hn",
     "items": [
       {
+        "title": "Bluesky Protocol Services",
+        "link": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+        "pubDate": "2026-08-14T00:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "SparrowMap – Cameras that watch government vehicles",
+        "link": "https://sparrowmap.com/",
+        "pubDate": "2026-08-14T00:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "Blog about things you don't understand yet",
+        "link": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
+        "pubDate": "2026-08-13T23:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "How AI text watermarking works",
+        "link": "https://declaude.org/watermarking/",
+        "pubDate": "2026-08-13T23:16",
+        "feedId": "hn"
+      },
+      {
         "title": "NP-Overrated",
         "link": "https://gruhn.me/blog/2026-08-13/",
         "pubDate": "2026-08-13T20:14",
@@ -30,6 +54,12 @@
         "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
         "link": "https://github.com/systemd/systemd/issues/40262",
         "pubDate": "2026-08-13T18:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "Hello, me. It's been a while",
+        "link": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+        "pubDate": "2026-08-13T18:37",
         "feedId": "hn"
       },
       {
@@ -61,36 +91,6 @@
         "link": "https://donkeybas.com/",
         "pubDate": "2026-08-13T17:45",
         "feedId": "hn"
-      },
-      {
-        "title": "Gemini 3.7 Flash",
-        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-        "pubDate": "2026-08-13T17:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tocharian Online",
-        "link": "https://lrc.la.utexas.edu/eieol/tokol/0",
-        "pubDate": "2026-08-13T17:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "Mistral OCR 4.1",
-        "link": "https://docs.mistral.ai/models/ocr-4-1",
-        "pubDate": "2026-08-13T17:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI At Home Part 1: A Box Of Scraps",
-        "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-        "pubDate": "2026-08-13T16:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "Text AI watermarks will always be trivial to remove",
-        "link": "https://www.seangoedecke.com/text-ai-watermarks/",
-        "pubDate": "2026-08-13T15:07",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "python's pre-declared constants are kinda weird",
-        "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
-        "pubDate": "2026-08-13T05:28",
-        "feedId": "lobsters"
-      },
-      {
         "title": "I want extern \"fil-c\"",
         "link": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
         "pubDate": "2026-08-13T17:43",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "python's pre-declared constants are kinda weird",
+        "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
+        "pubDate": "2026-08-13T05:28",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +146,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "C3 0.8.3 Feature flags",
+        "link": "https://c3-lang.org/blog/c3_0_8_3_feature_flags/",
+        "pubDate": "2026-08-13T19:07",
+        "feedId": "lobsters"
+      },
+      {
         "title": "SQLite: How it works, by Richard Hipp (2024)",
         "link": "https://www.youtube.com/watch?v=ZSKLA81tBis",
         "pubDate": "2026-08-13T11:56",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Let's not call it \"tech debt,\" it's just \"mess\"",
+        "link": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
+        "pubDate": "2026-08-13T23:09",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +170,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I hate packaging my software for Linux",
-        "link": "https://getfresh.dev/docs/blog/packaging-for-linux/",
-        "pubDate": "2026-08-12T12:40",
+        "title": "A preview of Roc 0.1.0",
+        "link": "https://youtu.be/a7qEOtkkDb8",
+        "pubDate": "2026-08-13T21:08",
         "feedId": "lobsters"
       },
       {
-        "title": "C3 0.8.3 Feature flags",
-        "link": "https://c3-lang.org/blog/c3_0_8_3_feature_flags/",
-        "pubDate": "2026-08-13T19:07",
+        "title": "I hate packaging my software for Linux",
+        "link": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+        "pubDate": "2026-08-12T12:40",
         "feedId": "lobsters"
       },
       {
@@ -174,24 +186,18 @@
         "link": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
         "pubDate": "2026-08-13T10:48",
         "feedId": "lobsters"
-      },
-      {
-        "title": "My Homelab Got Hacked - A Postmortem",
-        "link": "https://phunky.cafe/my-homelab-got-hacked/",
-        "pubDate": "2026-08-12T15:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A preview of Roc 0.1.0",
-        "link": "https://youtu.be/a7qEOtkkDb8",
-        "pubDate": "2026-08-13T21:08",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "US wait times for cancer surgeries are getting longer and longer",
+        "link": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
+        "pubDate": "2026-08-13T22:17",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
         "link": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
@@ -274,12 +280,6 @@
         "title": "Terabytes of credentials leaked in massive supply-chain attack",
         "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
         "pubDate": "2026-08-12T21:43",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
-        "link": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
-        "pubDate": "2026-08-12T21:13",
         "feedId": "arstechnica"
       }
     ]
