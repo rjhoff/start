@@ -3,21 +3,15 @@
     "id": "hn",
     "items": [
       {
-        "title": "US conducted mass spying campaign against leftwing and anti-ICE protesters",
-        "link": "https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters",
-        "pubDate": "2026-08-14T02:39",
+        "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+        "link": "https://z.ai/blog/glm-5.3",
+        "pubDate": "2026-08-14T05:19",
         "feedId": "hn"
       },
       {
         "title": "Bluesky Protocol Services",
         "link": "https://atproto.com/blog/introducing-bluesky-protocol-services",
         "pubDate": "2026-08-14T00:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "SparrowMap – Cameras that watch government vehicles",
-        "link": "https://sparrowmap.com/",
-        "pubDate": "2026-08-14T00:10",
         "feedId": "hn"
       },
       {
@@ -91,6 +85,12 @@
         "link": "https://donkeybas.com/",
         "pubDate": "2026-08-13T17:45",
         "feedId": "hn"
+      },
+      {
+        "title": "Gemini 3.7 Flash",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+        "pubDate": "2026-08-13T17:23",
+        "feedId": "hn"
       }
     ]
   },
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "EuroZig",
-        "link": "http://eurozig.eu/",
-        "pubDate": "2026-08-13T16:24",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Unlocking _everything_ on the CPU with DRAM scrambling",
         "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
         "pubDate": "2026-08-13T16:06",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "EuroZig",
+        "link": "http://eurozig.eu/",
+        "pubDate": "2026-08-13T16:24",
         "feedId": "lobsters"
       },
       {
@@ -128,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "GitHub Stacks in Jujutsu",
-        "link": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
-        "pubDate": "2026-08-13T00:55",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Let's not call it \"tech debt,\" it's just \"mess\"",
         "link": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
         "pubDate": "2026-08-13T23:09",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "GitHub Stacks in Jujutsu",
+        "link": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
+        "pubDate": "2026-08-13T00:55",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +146,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Does anyone run Postgres without PgBouncer?",
-        "link": "https://brandur.org/fragments/postgres-without-pgbouncer",
-        "pubDate": "2026-08-13T03:08",
-        "feedId": "lobsters"
-      },
-      {
         "title": "C3 0.8.3 Feature flags",
         "link": "https://c3-lang.org/blog/c3_0_8_3_feature_flags/",
         "pubDate": "2026-08-13T19:07",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Logging into a Linux machine from a flip phone over Bluetooth (2020)",
+        "link": "https://www.youtube.com/watch?v=eETHOyuSiMA",
+        "pubDate": "2026-08-14T04:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Does anyone run Postgres without PgBouncer?",
+        "link": "https://brandur.org/fragments/postgres-without-pgbouncer",
+        "pubDate": "2026-08-13T03:08",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "SQLite: How it works, by Richard Hipp (2024)",
-        "link": "https://www.youtube.com/watch?v=ZSKLA81tBis",
-        "pubDate": "2026-08-13T11:56",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How Tailscale helped find the SQLite WAL-Reset bug",
-        "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-        "pubDate": "2026-08-12T15:01",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Let Them Write RFCs",
         "link": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
         "pubDate": "2026-08-13T10:48",
         "feedId": "lobsters"
       },
       {
-        "title": "I hate packaging my software for Linux",
-        "link": "https://getfresh.dev/docs/blog/packaging-for-linux/",
-        "pubDate": "2026-08-12T12:40",
+        "title": "SQLite: How it works, by Richard Hipp (2024)",
+        "link": "https://www.youtube.com/watch?v=ZSKLA81tBis",
+        "pubDate": "2026-08-13T11:56",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Write for people",
+        "link": "https://newsletter.vickiboykis.com/archive/write-for-people/",
+        "pubDate": "2026-08-14T00:06",
         "feedId": "lobsters"
       }
     ]
