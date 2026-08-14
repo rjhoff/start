@@ -3,13 +3,49 @@
     "id": "hn",
     "items": [
       {
+        "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+        "link": "https://arxiv.org/abs/2608.12700",
+        "pubDate": "2026-08-14T16:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "Discrete Fourier Transform by Hand",
+        "link": "https://www.byhand.ai/p/28-discrete-fourier-transform",
+        "pubDate": "2026-08-14T16:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "Count Binface receives over a quarter of votes in Clacton by-election",
+        "link": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+        "pubDate": "2026-08-14T16:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+        "link": "https://luacad.ad-si.com",
+        "pubDate": "2026-08-14T16:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Qdrant Output Connector",
+        "link": "https://opencrawling.org/blog/introducing-qdrant-output-connector.html",
+        "pubDate": "2026-08-14T16:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "Maximizing the value of your Claude Code sessions",
+        "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+        "pubDate": "2026-08-14T16:15",
+        "feedId": "hn"
+      },
+      {
         "title": "RustDesk now supports true unattended remote access on Wayland",
         "link": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
         "pubDate": "2026-08-14T16:12",
         "feedId": "hn"
       },
       {
-        "title": "France blocks social media ban because it would require adults to prove age",
+        "title": "France's top court blocks social media ban for under-15s",
         "link": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
         "pubDate": "2026-08-14T16:06",
         "feedId": "hn"
@@ -21,9 +57,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Online SNMP MIB database - upload/view your own MIBs",
-        "link": "https://mib-viewer.com/",
-        "pubDate": "2026-08-14T15:49",
+        "title": "AI by Hand",
+        "link": "https://www.byhand.ai/",
+        "pubDate": "2026-08-14T15:58",
         "feedId": "hn"
       },
       {
@@ -33,15 +69,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Google Is Making Private AI Practical with Homomorphic Encryption",
+        "title": "Google is making private AI practical with homomorphic encryption",
         "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
         "pubDate": "2026-08-14T15:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
-        "link": "https://github.com/NanoNets/Graft",
-        "pubDate": "2026-08-14T15:22",
         "feedId": "hn"
       },
       {
@@ -57,39 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Qwen3.8-27B",
-        "link": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
-        "pubDate": "2026-08-14T15:03",
-        "feedId": "hn"
-      },
-      {
         "title": "Seven books I keep close because I love them",
         "link": "https://blog.plover.com/2026/08/02/",
         "pubDate": "2026-08-14T15:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Self-hosted web push Cloudflare Worker, works on iOS",
-        "link": "https://kukuroo.cc/",
-        "pubDate": "2026-08-14T15:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Qwen 3.8 27B is out: open weights, best local dense model yet",
-        "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-        "pubDate": "2026-08-14T15:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Earth.nullschool.net",
-        "link": "https://earth.nullschool.net/",
-        "pubDate": "2026-08-14T14:42",
-        "feedId": "hn"
-      },
-      {
-        "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-        "link": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-        "pubDate": "2026-08-14T14:34",
         "feedId": "hn"
       }
     ]
@@ -104,21 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I want extern \"fil-c\"",
-        "link": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
-        "pubDate": "2026-08-13T17:43",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Let's not call it \"tech debt,\" it's just \"mess\"",
         "link": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
         "pubDate": "2026-08-13T23:09",
         "feedId": "lobsters"
       },
       {
-        "title": "Comments in the code vs PR description",
-        "link": "https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607",
-        "pubDate": "2026-08-14T09:52",
+        "title": "I want extern \"fil-c\"",
+        "link": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
+        "pubDate": "2026-08-13T17:43",
         "feedId": "lobsters"
       },
       {
@@ -131,6 +125,12 @@
         "title": "SlopScan: Displays a \"slop score\" when viewing public git repositories",
         "link": "https://addons.mozilla.org/en-US/firefox/addon/slopscan/",
         "pubDate": "2026-08-14T09:43",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Comments in the code vs PR description",
+        "link": "https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607",
+        "pubDate": "2026-08-14T09:52",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I Made the World's First \"Link Compressor\"",
-        "link": "https://www.youtube.com/watch?v=TOr1Vvji6jA",
-        "pubDate": "2026-08-14T07:27",
+        "title": "There Is Still No Silver Bullet",
+        "link": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
+        "pubDate": "2026-08-14T15:18",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "Americans' wanderlust hits new heights",
+        "link": "https://www.axios.com/2026/08/14/americans-overseas-european-travel-boom",
+        "pubDate": "2026-08-14T17:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "Dorm rooms are tiny. The dorm decor economy is not.",
+        "link": "https://www.axios.com/2026/08/14/college-dorm-decor-economy",
+        "pubDate": "2026-08-14T17:15",
+        "feedId": "axios"
+      },
+      {
         "title": "Retail sales slump in July",
         "link": "https://www.axios.com/2026/08/14/retail-sales-amazon-world-cup",
         "pubDate": "2026-08-14T16:15",
@@ -363,18 +375,6 @@
         "title": "\"It is despicable\": House Democrats rage over Republican stock trading \"set-up\"",
         "link": "https://www.axios.com/2026/08/13/republicans-insider-congress-stock-trading-ads",
         "pubDate": "2026-08-13T21:51",
-        "feedId": "axios"
-      },
-      {
-        "title": "Kushner set to visit Israel, Egypt next week for Gaza talks",
-        "link": "https://www.axios.com/2026/08/13/kushner-israel-gaza-netanyahu",
-        "pubDate": "2026-08-13T21:44",
-        "feedId": "axios"
-      },
-      {
-        "title": "Kennedy Center board restores Trump's name, testing judge",
-        "link": "https://www.axios.com/2026/08/13/trump-kennedy-center-name-board-court-order",
-        "pubDate": "2026-08-13T21:36",
         "feedId": "axios"
       }
     ]
