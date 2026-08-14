@@ -3,15 +3,27 @@
     "id": "hn",
     "items": [
       {
-        "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-        "link": "https://arxiv.org/abs/2608.12700",
-        "pubDate": "2026-08-14T16:57",
+        "title": "Z.ai Security Disclosure",
+        "link": "https://cvd.z.ai",
+        "pubDate": "2026-08-14T19:22",
         "feedId": "hn"
       },
       {
-        "title": "Discrete Fourier Transform by Hand",
-        "link": "https://www.byhand.ai/p/28-discrete-fourier-transform",
-        "pubDate": "2026-08-14T16:52",
+        "title": "How Claude's text watermarking works",
+        "link": "https://www.anthropic.com/news/claude-text-watermark",
+        "pubDate": "2026-08-14T19:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Mole – Deep research agent for your terminal",
+        "link": "https://github.com/lajosdeme/mole",
+        "pubDate": "2026-08-14T18:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+        "link": "https://arxiv.org/abs/2608.12700",
+        "pubDate": "2026-08-14T16:57",
         "feedId": "hn"
       },
       {
@@ -24,12 +36,6 @@
         "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
         "link": "https://luacad.ad-si.com",
         "pubDate": "2026-08-14T16:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Qdrant Output Connector",
-        "link": "https://opencrawling.org/blog/introducing-qdrant-output-connector.html",
-        "pubDate": "2026-08-14T16:35",
         "feedId": "hn"
       },
       {
@@ -51,21 +57,9 @@
         "feedId": "hn"
       },
       {
-        "title": "RayforceDB – a pure C analytics database with a Lisp-like syntax",
-        "link": "https://rayforcedb.com/",
-        "pubDate": "2026-08-14T16:02",
-        "feedId": "hn"
-      },
-      {
         "title": "AI by Hand",
         "link": "https://www.byhand.ai/",
         "pubDate": "2026-08-14T15:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "\"Solving a largely imaginary user goal\"",
-        "link": "https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/",
-        "pubDate": "2026-08-14T15:48",
         "feedId": "hn"
       },
       {
@@ -81,15 +75,21 @@
         "feedId": "hn"
       },
       {
-        "title": "Unsloth Qwen3.8-27B GGUF files",
-        "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-        "pubDate": "2026-08-14T15:04",
-        "feedId": "hn"
-      },
-      {
         "title": "Seven books I keep close because I love them",
         "link": "https://blog.plover.com/2026/08/02/",
         "pubDate": "2026-08-14T15:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "Self-hosted web push Cloudflare Worker, works on iOS",
+        "link": "https://kukuroo.cc/",
+        "pubDate": "2026-08-14T15:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "Qwen 3.8 27B",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+        "pubDate": "2026-08-14T15:00",
         "feedId": "hn"
       }
     ]
@@ -104,21 +104,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "The Art of CHIP-8",
+        "link": "https://beyondloom.com/blog/artofchip8.html",
+        "pubDate": "2026-08-14T09:10",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Let's not call it \"tech debt,\" it's just \"mess\"",
         "link": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
         "pubDate": "2026-08-13T23:09",
         "feedId": "lobsters"
       },
       {
-        "title": "I want extern \"fil-c\"",
-        "link": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
-        "pubDate": "2026-08-13T17:43",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Art of CHIP-8",
-        "link": "https://beyondloom.com/blog/artofchip8.html",
-        "pubDate": "2026-08-14T09:10",
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend",
+        "pubDate": "2026-08-14T10:39",
         "feedId": "lobsters"
       },
       {
@@ -128,15 +128,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "I want extern \"fil-c\"",
+        "link": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
+        "pubDate": "2026-08-13T17:43",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Comments in the code vs PR description",
         "link": "https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607",
         "pubDate": "2026-08-14T09:52",
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend",
-        "pubDate": "2026-08-14T10:39",
+        "title": "There Is Still No Silver Bullet",
+        "link": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
+        "pubDate": "2026-08-14T15:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "ActivityPub Won by Being Boring",
+        "link": "https://o.ee/blog/activitypub-won-by-being-boring/",
+        "pubDate": "2026-08-14T18:44",
         "feedId": "lobsters"
       },
       {
@@ -158,6 +170,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Thunderbird’s Desktop Calendar Visual Redesign",
+        "link": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
+        "pubDate": "2026-08-14T17:03",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Computing graph dominators",
         "link": "https://neugierig.org/software/blog/2026/08/dominators.html",
         "pubDate": "2026-08-14T10:00",
@@ -168,30 +186,48 @@
         "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
         "pubDate": "2026-08-13T14:03",
         "feedId": "lobsters"
-      },
-      {
-        "title": "EuroZig",
-        "link": "http://eurozig.eu/",
-        "pubDate": "2026-08-13T16:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Introducing Bluesky Protocol Services",
-        "link": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-        "pubDate": "2026-08-14T10:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "There Is Still No Silver Bullet",
-        "link": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
-        "pubDate": "2026-08-14T15:18",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+        "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+        "pubDate": "2026-08-14T18:32",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
+        "link": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+        "pubDate": "2026-08-14T18:00",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+        "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+        "pubDate": "2026-08-14T17:26",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
+        "link": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
+        "pubDate": "2026-08-14T17:13",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+        "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+        "pubDate": "2026-08-14T17:03",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Policy experts: Europe stuck between \"rock and a hard place\" on launch",
+        "link": "https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/",
+        "pubDate": "2026-08-14T16:29",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Ars Live recap: How can we stop publishers from killing their own games?",
         "link": "https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games/",
@@ -245,48 +281,24 @@
         "link": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
         "pubDate": "2026-08-13T22:17",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
-        "link": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
-        "pubDate": "2026-08-13T19:38",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
-        "link": "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
-        "pubDate": "2026-08-13T19:12",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
-        "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
-        "pubDate": "2026-08-13T18:31",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
-        "link": "https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/",
-        "pubDate": "2026-08-13T18:10",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Pet owners say smart pet feeder outage led to furry ones going unfed",
-        "link": "https://arstechnica.com/gadgets/2026/08/pet-owners-say-smart-pet-feeder-outage-led-to-furry-ones-going-unfed/",
-        "pubDate": "2026-08-13T17:53",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "The new Instagram logo is the perfect embodiment of AI slop",
-        "link": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
-        "pubDate": "2026-08-13T17:32",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln",
+        "link": "https://www.axios.com/2026/08/14/trump-uss-abraham-lincoln-deployment-middle-east",
+        "pubDate": "2026-08-14T19:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "Luigi Mangione pleads guilty to stalking UnitedHealthcare CEO, admits killing him",
+        "link": "https://www.axios.com/2026/08/14/luigi-mangione-plea-trial-brian-thompson-case",
+        "pubDate": "2026-08-14T19:15",
+        "feedId": "axios"
+      },
       {
         "title": "Americans' wanderlust hits new heights",
         "link": "https://www.axios.com/2026/08/14/americans-overseas-european-travel-boom",
@@ -303,12 +315,6 @@
         "title": "Retail sales slump in July",
         "link": "https://www.axios.com/2026/08/14/retail-sales-amazon-world-cup",
         "pubDate": "2026-08-14T16:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Luigi Mangione pleads guilty to stalking UnitedHealthcare CEO",
-        "link": "https://www.axios.com/2026/08/14/luigi-mangione-plea-trial-brian-thompson-case",
-        "pubDate": "2026-08-14T16:04",
         "feedId": "axios"
       },
       {
@@ -369,12 +375,6 @@
         "title": "Scoop: Trump team tells GOP to lean in on health care",
         "link": "https://www.axios.com/2026/08/13/midterms-senate-health-care-republicans-trump",
         "pubDate": "2026-08-13T22:03",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"It is despicable\": House Democrats rage over Republican stock trading \"set-up\"",
-        "link": "https://www.axios.com/2026/08/13/republicans-insider-congress-stock-trading-ads",
-        "pubDate": "2026-08-13T21:51",
         "feedId": "axios"
       }
     ]
