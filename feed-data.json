@@ -9,6 +9,12 @@
         "feedId": "hn"
       },
       {
+        "title": "OpenAI rolling out ads for Europe later this month",
+        "link": "https://openai.com/policies/eu-privacy-policy-preview/",
+        "pubDate": "2026-08-15T10:52",
+        "feedId": "hn"
+      },
+      {
         "title": "Debian has begun voting on the future of AI/LLM contributions",
         "link": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
         "pubDate": "2026-08-15T09:20",
@@ -18,12 +24,6 @@
         "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
         "link": "https://uecker.codeberg.page/2026-07-14.html",
         "pubDate": "2026-08-15T07:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-        "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-        "pubDate": "2026-08-15T07:31",
         "feedId": "hn"
       },
       {
@@ -116,6 +116,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Flirt: GitHub and Mailing List backends",
+        "link": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
+        "pubDate": "2026-08-15T12:37",
+        "feedId": "lobsters"
+      },
+      {
         "title": "ActivityPub Won by Being Boring",
         "link": "https://o.ee/blog/activitypub-won-by-being-boring/",
         "pubDate": "2026-08-14T18:44",
@@ -128,45 +134,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Thunderbird’s Desktop Calendar Visual Redesign",
-        "link": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
-        "pubDate": "2026-08-14T17:03",
-        "feedId": "lobsters"
-      },
-      {
         "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP",
         "link": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
         "pubDate": "2026-08-14T19:05",
         "feedId": "lobsters"
       },
       {
-        "title": "Curl Performance",
-        "link": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
-        "pubDate": "2026-08-14T11:33",
+        "title": "Thunderbird’s Desktop Calendar Visual Redesign",
+        "link": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
+        "pubDate": "2026-08-14T17:03",
         "feedId": "lobsters"
       },
       {
-        "title": "What You Gain by Building Your Own Game Engine",
-        "link": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
-        "pubDate": "2026-08-14T22:04",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "There Is Still No Silver Bullet",
-        "link": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
-        "pubDate": "2026-08-14T15:18",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Art of CHIP-8",
-        "link": "https://beyondloom.com/blog/artofchip8.html",
-        "pubDate": "2026-08-14T09:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "RVA23 vs ARMv9 a Small Experiment",
-        "link": "https://gist.github.com/camel-cdr/3a7aed17e017e8cab675ad696c7d14af",
-        "pubDate": "2026-08-15T00:42",
+        "title": "Everything is about to “go dark”",
+        "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+        "pubDate": "2026-08-15T12:50",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +158,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "SlopScan: Displays a \"slop score\" when viewing public git repositories",
-        "link": "https://addons.mozilla.org/en-US/firefox/addon/slopscan/",
-        "pubDate": "2026-08-14T09:43",
+        "title": "What You Gain by Building Your Own Game Engine",
+        "link": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
+        "pubDate": "2026-08-14T22:04",
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend",
-        "pubDate": "2026-08-14T10:39",
+        "title": "The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software (2005)",
+        "link": "http://www.gotw.ca/publications/concurrency-ddj.htm",
+        "pubDate": "2026-08-15T10:31",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How Is Compression Prediction?",
+        "link": "https://lukefleed.xyz/posts/compression/",
+        "pubDate": "2026-08-15T13:01",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Curl Performance",
+        "link": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
+        "pubDate": "2026-08-14T11:33",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "There Is Still No Silver Bullet",
+        "link": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
+        "pubDate": "2026-08-14T15:18",
         "feedId": "lobsters"
       }
     ]
