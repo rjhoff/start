@@ -3,15 +3,39 @@
     "id": "hn",
     "items": [
       {
-        "title": "Everything is about to \"go dark\"",
-        "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-        "pubDate": "2026-08-14T20:52",
+        "title": "Jane Street suffers $15B hit after meltdown at Situational Awareness",
+        "link": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697",
+        "pubDate": "2026-08-14T23:40",
         "feedId": "hn"
       },
       {
-        "title": "Study links coffee consumption to metabolic health and sex hormones",
-        "link": "https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones",
-        "pubDate": "2026-08-14T20:46",
+        "title": "The case for overhauling American science",
+        "link": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
+        "pubDate": "2026-08-14T23:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "Stop sending me huge PRs; a rant",
+        "link": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
+        "pubDate": "2026-08-14T22:48",
+        "feedId": "hn"
+      },
+      {
+        "title": "RISC-V: They should have known better",
+        "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+        "pubDate": "2026-08-14T22:38",
+        "feedId": "hn"
+      },
+      {
+        "title": "eigendrum",
+        "link": "https://eigendrum.com/#p=circle",
+        "pubDate": "2026-08-14T22:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "Going Dark, and the era of law enforcement hacking",
+        "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+        "pubDate": "2026-08-14T20:52",
         "feedId": "hn"
       },
       {
@@ -24,18 +48,6 @@
         "title": "New Lower and Upper Bounds for the Grothendieck Constant",
         "link": "https://arxiv.org/abs/2608.11158",
         "pubDate": "2026-08-14T19:41",
-        "feedId": "hn"
-      },
-      {
-        "title": "What You Gain by Building Your Own Game Engine",
-        "link": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
-        "pubDate": "2026-08-14T19:20",
-        "feedId": "hn"
-      },
-      {
-        "title": "Open WireGuard Endpoints",
-        "link": "https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html",
-        "pubDate": "2026-08-14T19:05",
         "feedId": "hn"
       },
       {
@@ -54,18 +66,6 @@
         "title": "The American sports plutocracy",
         "link": "https://www.derekthompson.org/p/the-american-sports-plutocracy-is",
         "pubDate": "2026-08-14T18:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "Every fucking website: 2026 edition",
-        "link": "https://op.tngl.io/every-fucking-website/",
-        "pubDate": "2026-08-14T18:27",
-        "feedId": "hn"
-      },
-      {
-        "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-        "link": "https://arxiv.org/abs/2608.12700",
-        "pubDate": "2026-08-14T16:57",
         "feedId": "hn"
       },
       {
@@ -98,6 +98,12 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "RISC-V: They Should Have Known Better",
+        "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+        "pubDate": "2026-08-14T19:12",
+        "feedId": "lobsters"
+      },
+      {
         "title": "ActivityPub Won by Being Boring",
         "link": "https://o.ee/blog/activitypub-won-by-being-boring/",
         "pubDate": "2026-08-14T18:44",
@@ -110,39 +116,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "RISC-V: They Should Have Known Better",
-        "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-        "pubDate": "2026-08-14T19:12",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "SlopScan: Displays a \"slop score\" when viewing public git repositories",
-        "link": "https://addons.mozilla.org/en-US/firefox/addon/slopscan/",
-        "pubDate": "2026-08-14T09:43",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The Art of CHIP-8",
         "link": "https://beyondloom.com/blog/artofchip8.html",
         "pubDate": "2026-08-14T09:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Let's not call it \"tech debt,\" it's just \"mess\"",
-        "link": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
-        "pubDate": "2026-08-13T23:09",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend",
-        "pubDate": "2026-08-14T10:39",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I want extern \"fil-c\"",
-        "link": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
-        "pubDate": "2026-08-13T17:43",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +128,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "SlopScan: Displays a \"slop score\" when viewing public git repositories",
+        "link": "https://addons.mozilla.org/en-US/firefox/addon/slopscan/",
+        "pubDate": "2026-08-14T09:43",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend",
+        "pubDate": "2026-08-14T10:39",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Let's not call it \"tech debt,\" it's just \"mess\"",
+        "link": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
+        "pubDate": "2026-08-13T23:09",
+        "feedId": "lobsters"
+      },
+      {
         "title": "There Is Still No Silver Bullet",
         "link": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
         "pubDate": "2026-08-14T15:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I want extern \"fil-c\"",
+        "link": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
+        "pubDate": "2026-08-13T17:43",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "python's pre-declared constants are kinda weird",
-        "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
-        "pubDate": "2026-08-13T05:28",
+        "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP",
+        "link": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
+        "pubDate": "2026-08-14T19:05",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "My comment section is static HTML",
+        "link": "https://jva.lol/weblog/my-comment-section-is-static-html/",
+        "pubDate": "2026-08-14T23:58",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What You Gain by Building Your Own Game Engine",
+        "link": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
+        "pubDate": "2026-08-14T22:04",
         "feedId": "lobsters"
       },
       {
         "title": "Unlocking _everything_ on the CPU with DRAM scrambling",
         "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
         "pubDate": "2026-08-13T16:06",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Computing graph dominators",
-        "link": "https://neugierig.org/software/blog/2026/08/dominators.html",
-        "pubDate": "2026-08-14T10:00",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "OxiSH: SSH server written in Rust",
-        "link": "https://github.com/djc/oxish",
-        "pubDate": "2026-08-13T18:23",
         "feedId": "lobsters"
       }
     ]
