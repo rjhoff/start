@@ -9,9 +9,33 @@
         "feedId": "hn"
       },
       {
+        "title": "Cloudflare's AI Psychosis",
+        "link": "https://opensauce.it/cloudflare-ai-psychosis/",
+        "pubDate": "2026-08-15T14:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "Writergate: Zig I/O Interface Overhaul",
+        "link": "https://alexrios.me/blog/writergate/",
+        "pubDate": "2026-08-15T13:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Quasicrystals Animation Playground with WebXR",
+        "link": "https://hypnagogic-quasicrystals.github.io/",
+        "pubDate": "2026-08-15T13:48",
+        "feedId": "hn"
+      },
+      {
         "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
         "link": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
         "pubDate": "2026-08-15T13:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Could a computer scientist build a brain?",
+        "link": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
+        "pubDate": "2026-08-15T13:26",
         "feedId": "hn"
       },
       {
@@ -36,12 +60,6 @@
         "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
         "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
         "pubDate": "2026-08-15T12:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "Strait of Hormuz Live Traffic Tracking",
-        "link": "https://hormuz.now/",
-        "pubDate": "2026-08-15T12:54",
         "feedId": "hn"
       },
       {
@@ -73,24 +91,6 @@
         "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
         "pubDate": "2026-08-15T10:39",
         "feedId": "hn"
-      },
-      {
-        "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
-        "link": "https://uecker.codeberg.page/2026-07-14.html",
-        "pubDate": "2026-08-15T07:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-        "link": "https://chenxiachan.github.io/thoughtdag/",
-        "pubDate": "2026-08-15T04:42",
-        "feedId": "hn"
-      },
-      {
-        "title": "The other Sean Byrne doesn't exist",
-        "link": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-        "pubDate": "2026-08-15T04:18",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,15 +104,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Everything is about to “go dark”",
+        "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+        "pubDate": "2026-08-15T12:50",
+        "feedId": "lobsters"
+      },
+      {
         "title": "RISC-V: They Should Have Known Better",
         "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
         "pubDate": "2026-08-14T19:12",
         "feedId": "lobsters"
       },
       {
-        "title": "Everything is about to “go dark”",
-        "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-        "pubDate": "2026-08-15T12:50",
+        "title": "Flirt: GitHub and Mailing List backends",
+        "link": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
+        "pubDate": "2026-08-15T12:37",
         "feedId": "lobsters"
       },
       {
@@ -122,9 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Flirt: GitHub and Mailing List backends",
-        "link": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
-        "pubDate": "2026-08-15T12:37",
+        "title": "Why I remain a skeptic",
+        "link": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+        "pubDate": "2026-08-15T13:29",
         "feedId": "lobsters"
       },
       {
@@ -140,27 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why I remain a skeptic",
-        "link": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
-        "pubDate": "2026-08-15T13:29",
-        "feedId": "lobsters"
-      },
-      {
         "title": "How Is Compression Prediction?",
         "link": "https://lukefleed.xyz/posts/compression/",
         "pubDate": "2026-08-15T13:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software (2005)",
-        "link": "http://www.gotw.ca/publications/concurrency-ddj.htm",
-        "pubDate": "2026-08-15T10:31",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What You Gain by Building Your Own Game Engine",
-        "link": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
-        "pubDate": "2026-08-14T22:04",
         "feedId": "lobsters"
       },
       {
@@ -173,6 +161,18 @@
         "title": "Thunderbird’s Desktop Calendar Visual Redesign",
         "link": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
         "pubDate": "2026-08-14T17:03",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software (2005)",
+        "link": "http://www.gotw.ca/publications/concurrency-ddj.htm",
+        "pubDate": "2026-08-15T10:31",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What You Gain by Building Your Own Game Engine",
+        "link": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
+        "pubDate": "2026-08-14T22:04",
         "feedId": "lobsters"
       },
       {
