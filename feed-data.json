@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "AI Driven Testing",
+        "link": "https://app.deltix.ai",
+        "pubDate": "2026-08-15T02:42",
+        "feedId": "hn"
+      },
+      {
         "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
         "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
         "pubDate": "2026-08-15T01:14",
@@ -15,21 +21,9 @@
         "feedId": "hn"
       },
       {
-        "title": "NSA and IETF, Part 9",
-        "link": "https://blog.cr.yp.to/20260814-update.html",
-        "pubDate": "2026-08-15T00:54",
-        "feedId": "hn"
-      },
-      {
         "title": "Simplifying and Refactoring Introductory Calculus",
         "link": "https://arxiv.org/abs/1811.03459",
         "pubDate": "2026-08-15T00:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "Stop sending me huge PRs; a rant",
-        "link": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
-        "pubDate": "2026-08-14T22:48",
         "feedId": "hn"
       },
       {
@@ -42,12 +36,6 @@
         "title": "Going Dark, and the era of law enforcement hacking",
         "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
         "pubDate": "2026-08-14T20:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "Every exterior shot in The Taking of Pelham 123",
-        "link": "https://iafisher.com/2026/07/pelham-123",
-        "pubDate": "2026-08-14T20:10",
         "feedId": "hn"
       },
       {
@@ -66,6 +54,12 @@
         "title": "Show HN: Mole – Deep research agent for your terminal",
         "link": "https://github.com/lajosdeme/mole",
         "pubDate": "2026-08-14T18:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "Racket v9.3",
+        "link": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
+        "pubDate": "2026-08-14T18:14",
         "feedId": "hn"
       },
       {
@@ -91,6 +85,12 @@
         "link": "https://www.byhand.ai/",
         "pubDate": "2026-08-14T15:58",
         "feedId": "hn"
+      },
+      {
+        "title": "Google is making private AI practical with homomorphic encryption",
+        "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+        "pubDate": "2026-08-14T15:43",
+        "feedId": "hn"
       }
     ]
   },
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Curl Performance",
-        "link": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
-        "pubDate": "2026-08-14T11:33",
-        "feedId": "lobsters"
-      },
-      {
         "title": "My comment section is static HTML",
         "link": "https://jva.lol/weblog/my-comment-section-is-static-html/",
         "pubDate": "2026-08-14T23:58",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Curl Performance",
+        "link": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
+        "pubDate": "2026-08-14T11:33",
         "feedId": "lobsters"
       },
       {
@@ -140,6 +140,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "There Is Still No Silver Bullet",
+        "link": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
+        "pubDate": "2026-08-14T15:18",
+        "feedId": "lobsters"
+      },
+      {
         "title": "SlopScan: Displays a \"slop score\" when viewing public git repositories",
         "link": "https://addons.mozilla.org/en-US/firefox/addon/slopscan/",
         "pubDate": "2026-08-14T09:43",
@@ -158,9 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "There Is Still No Silver Bullet",
-        "link": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
-        "pubDate": "2026-08-14T15:18",
+        "title": "Comments in the code vs PR description",
+        "link": "https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607",
+        "pubDate": "2026-08-14T09:52",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Comments in the code vs PR description",
-        "link": "https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607",
-        "pubDate": "2026-08-14T09:52",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What You Gain by Building Your Own Game Engine",
         "link": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
         "pubDate": "2026-08-14T22:04",
         "feedId": "lobsters"
       },
       {
-        "title": "Guilt-Driven Development",
-        "link": "https://markuseliasson.se/article/guilt-driven-development",
-        "pubDate": "2026-08-14T15:54",
+        "title": "An Anecdote Against Slop Artifacts",
+        "link": "https://www.markusde.ca/pages/noslop.html",
+        "pubDate": "2026-08-14T22:51",
         "feedId": "lobsters"
       }
     ]
