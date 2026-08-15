@@ -3,21 +3,75 @@
     "id": "hn",
     "items": [
       {
+        "title": "Secondhand book sales are booming. Is it because of AI?",
+        "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+        "pubDate": "2026-08-15T14:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+        "link": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+        "pubDate": "2026-08-15T13:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Brazilian election filter in X For You timeline",
+        "link": "https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs",
+        "pubDate": "2026-08-15T13:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "388 years ago, Galileo worked out why human giants can't exist",
+        "link": "https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/",
+        "pubDate": "2026-08-15T13:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "Brain turns listening inward during REM sleep, EEG recordings suggest",
+        "link": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
+        "pubDate": "2026-08-15T13:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+        "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
+        "pubDate": "2026-08-15T12:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "Strait of Hormuz Live Traffic Tracking",
+        "link": "https://hormuz.now/",
+        "pubDate": "2026-08-15T12:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "Xorshift Generators",
+        "link": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
+        "pubDate": "2026-08-15T12:47",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Problem",
+        "link": "https://intelligence.org/the-problem/",
+        "pubDate": "2026-08-15T12:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "T3X/0 a Minimal Procedural Language",
+        "link": "https://t3x.org/t3x/0/index.html",
+        "pubDate": "2026-08-15T12:06",
+        "feedId": "hn"
+      },
+      {
         "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
         "link": "https://sankalp.bearblog.dev/autoresearch/",
         "pubDate": "2026-08-15T11:00",
         "feedId": "hn"
       },
       {
-        "title": "OpenAI rolling out ads for Europe later this month",
-        "link": "https://openai.com/policies/eu-privacy-policy-preview/",
-        "pubDate": "2026-08-15T10:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "Debian has begun voting on the future of AI/LLM contributions",
-        "link": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-        "pubDate": "2026-08-15T09:20",
+        "title": "Working with AI Feels More Like Leadership Than Coding",
+        "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+        "pubDate": "2026-08-15T10:39",
         "feedId": "hn"
       },
       {
@@ -37,60 +91,6 @@
         "link": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
         "pubDate": "2026-08-15T04:18",
         "feedId": "hn"
-      },
-      {
-        "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
-        "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-        "pubDate": "2026-08-15T01:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "Simplifying and Refactoring Introductory Calculus (2018)",
-        "link": "https://arxiv.org/abs/1811.03459",
-        "pubDate": "2026-08-15T00:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "eigendrum",
-        "link": "https://eigendrum.com/#p=circle",
-        "pubDate": "2026-08-14T22:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "Going Dark, and the era of law enforcement hacking",
-        "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-        "pubDate": "2026-08-14T20:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "Firefox is now the last major browser that still supports uBlock Origin",
-        "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-        "pubDate": "2026-08-14T19:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Racket v9.3",
-        "link": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
-        "pubDate": "2026-08-14T18:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "Maximizing the value of your Claude Code sessions",
-        "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-        "pubDate": "2026-08-14T16:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "RustDesk now supports true unattended remote access on Wayland",
-        "link": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-        "pubDate": "2026-08-14T16:12",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI by Hand",
-        "link": "https://www.byhand.ai/",
-        "pubDate": "2026-08-14T15:58",
-        "feedId": "hn"
       }
     ]
   },
@@ -107,6 +107,12 @@
         "title": "RISC-V: They Should Have Known Better",
         "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
         "pubDate": "2026-08-14T19:12",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Everything is about to “go dark”",
+        "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+        "pubDate": "2026-08-15T12:50",
         "feedId": "lobsters"
       },
       {
@@ -134,39 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP",
-        "link": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
-        "pubDate": "2026-08-14T19:05",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Thunderbird’s Desktop Calendar Visual Redesign",
-        "link": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
-        "pubDate": "2026-08-14T17:03",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Everything is about to “go dark”",
-        "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-        "pubDate": "2026-08-15T12:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "nixpkgs-multiverse: fast mode",
-        "link": "https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode",
-        "pubDate": "2026-08-15T08:53",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What You Gain by Building Your Own Game Engine",
-        "link": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
-        "pubDate": "2026-08-14T22:04",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software (2005)",
-        "link": "http://www.gotw.ca/publications/concurrency-ddj.htm",
-        "pubDate": "2026-08-15T10:31",
+        "title": "Why I remain a skeptic",
+        "link": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+        "pubDate": "2026-08-15T13:29",
         "feedId": "lobsters"
       },
       {
@@ -176,9 +152,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Curl Performance",
-        "link": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
-        "pubDate": "2026-08-14T11:33",
+        "title": "The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software (2005)",
+        "link": "http://www.gotw.ca/publications/concurrency-ddj.htm",
+        "pubDate": "2026-08-15T10:31",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What You Gain by Building Your Own Game Engine",
+        "link": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
+        "pubDate": "2026-08-14T22:04",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "nixpkgs-multiverse: fast mode",
+        "link": "https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode",
+        "pubDate": "2026-08-15T08:53",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Thunderbird’s Desktop Calendar Visual Redesign",
+        "link": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
+        "pubDate": "2026-08-14T17:03",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP",
+        "link": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
+        "pubDate": "2026-08-14T19:05",
         "feedId": "lobsters"
       },
       {
