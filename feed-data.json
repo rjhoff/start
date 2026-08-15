@@ -128,21 +128,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Curl Performance",
-        "link": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
-        "pubDate": "2026-08-14T11:33",
-        "feedId": "lobsters"
-      },
-      {
         "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP",
         "link": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
         "pubDate": "2026-08-14T19:05",
         "feedId": "lobsters"
       },
       {
-        "title": "The Art of CHIP-8",
-        "link": "https://beyondloom.com/blog/artofchip8.html",
-        "pubDate": "2026-08-14T09:10",
+        "title": "Curl Performance",
+        "link": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
+        "pubDate": "2026-08-14T11:33",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What You Gain by Building Your Own Game Engine",
+        "link": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
+        "pubDate": "2026-08-14T22:04",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What You Gain by Building Your Own Game Engine",
-        "link": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
-        "pubDate": "2026-08-14T22:04",
+        "title": "The Art of CHIP-8",
+        "link": "https://beyondloom.com/blog/artofchip8.html",
+        "pubDate": "2026-08-14T09:10",
         "feedId": "lobsters"
       },
       {
