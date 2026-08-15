@@ -3,12 +3,6 @@
     "id": "hn",
     "items": [
       {
-        "title": "\"That's not SOC 2 compliant\"",
-        "link": "https://ampcode.com/notes/thats-not-soc-2-compliant",
-        "pubDate": "2026-08-15T06:01",
-        "feedId": "hn"
-      },
-      {
         "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
         "link": "https://chenxiachan.github.io/thoughtdag/",
         "pubDate": "2026-08-15T04:42",
@@ -91,6 +85,12 @@
         "link": "https://www.byhand.ai/",
         "pubDate": "2026-08-14T15:58",
         "feedId": "hn"
+      },
+      {
+        "title": "Google is making private AI practical with homomorphic encryption",
+        "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+        "pubDate": "2026-08-14T15:43",
+        "feedId": "hn"
       }
     ]
   },
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "ActivityPub Won by Being Boring",
-        "link": "https://o.ee/blog/activitypub-won-by-being-boring/",
-        "pubDate": "2026-08-14T18:44",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Firefox is now the last major browser that still supports uBlock Origin",
         "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
         "pubDate": "2026-08-15T05:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "ActivityPub Won by Being Boring",
+        "link": "https://o.ee/blog/activitypub-won-by-being-boring/",
+        "pubDate": "2026-08-14T18:44",
         "feedId": "lobsters"
       },
       {
@@ -152,6 +152,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "What You Gain by Building Your Own Game Engine",
+        "link": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
+        "pubDate": "2026-08-14T22:04",
+        "feedId": "lobsters"
+      },
+      {
         "title": "SlopScan: Displays a \"slop score\" when viewing public git repositories",
         "link": "https://addons.mozilla.org/en-US/firefox/addon/slopscan/",
         "pubDate": "2026-08-14T09:43",
@@ -167,12 +173,6 @@
         "title": "Let's not call it \"tech debt,\" it's just \"mess\"",
         "link": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
         "pubDate": "2026-08-13T23:09",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What You Gain by Building Your Own Game Engine",
-        "link": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
-        "pubDate": "2026-08-14T22:04",
         "feedId": "lobsters"
       },
       {
