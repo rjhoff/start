@@ -27,27 +27,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Corgi kills short-lived website that ranked its female employees",
-        "link": "https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees",
-        "pubDate": "2026-08-15T00:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "The case for overhauling American science",
-        "link": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
-        "pubDate": "2026-08-14T23:11",
-        "feedId": "hn"
-      },
-      {
         "title": "Stop sending me huge PRs; a rant",
         "link": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
         "pubDate": "2026-08-14T22:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "RISC-V: They should have known better",
-        "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-        "pubDate": "2026-08-14T22:38",
         "feedId": "hn"
       },
       {
@@ -60,6 +42,12 @@
         "title": "Going Dark, and the era of law enforcement hacking",
         "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
         "pubDate": "2026-08-14T20:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "Every exterior shot in The Taking of Pelham 123",
+        "link": "https://iafisher.com/2026/07/pelham-123",
+        "pubDate": "2026-08-14T20:10",
         "feedId": "hn"
       },
       {
@@ -81,6 +69,12 @@
         "feedId": "hn"
       },
       {
+        "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+        "link": "https://luacad.ad-si.com",
+        "pubDate": "2026-08-14T16:43",
+        "feedId": "hn"
+      },
+      {
         "title": "Maximizing the value of your Claude Code sessions",
         "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
         "pubDate": "2026-08-14T16:15",
@@ -90,6 +84,12 @@
         "title": "RustDesk now supports true unattended remote access on Wayland",
         "link": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
         "pubDate": "2026-08-14T16:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI by Hand",
+        "link": "https://www.byhand.ai/",
+        "pubDate": "2026-08-14T15:58",
         "feedId": "hn"
       }
     ]
@@ -116,15 +116,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Art of CHIP-8",
-        "link": "https://beyondloom.com/blog/artofchip8.html",
-        "pubDate": "2026-08-14T09:10",
+        "title": "My comment section is static HTML",
+        "link": "https://jva.lol/weblog/my-comment-section-is-static-html/",
+        "pubDate": "2026-08-14T23:58",
         "feedId": "lobsters"
       },
       {
         "title": "Thunderbird’s Desktop Calendar Visual Redesign",
         "link": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
         "pubDate": "2026-08-14T17:03",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Art of CHIP-8",
+        "link": "https://beyondloom.com/blog/artofchip8.html",
+        "pubDate": "2026-08-14T09:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP",
+        "link": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
+        "pubDate": "2026-08-14T19:05",
         "feedId": "lobsters"
       },
       {
@@ -140,12 +152,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP",
-        "link": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
-        "pubDate": "2026-08-14T19:05",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Let's not call it \"tech debt,\" it's just \"mess\"",
         "link": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
         "pubDate": "2026-08-13T23:09",
@@ -155,12 +161,6 @@
         "title": "There Is Still No Silver Bullet",
         "link": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
         "pubDate": "2026-08-14T15:18",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "My comment section is static HTML",
-        "link": "https://jva.lol/weblog/my-comment-section-is-static-html/",
-        "pubDate": "2026-08-14T23:58",
         "feedId": "lobsters"
       },
       {
