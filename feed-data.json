@@ -3,9 +3,33 @@
     "id": "hn",
     "items": [
       {
-        "title": "Jane Street suffers $15B hit after meltdown at Situational Awareness",
-        "link": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697",
-        "pubDate": "2026-08-14T23:40",
+        "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+        "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+        "pubDate": "2026-08-15T01:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Ploopy A+ Trackball Is Here",
+        "link": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+        "pubDate": "2026-08-15T00:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "NSA and IETF, Part 9",
+        "link": "https://blog.cr.yp.to/20260814-update.html",
+        "pubDate": "2026-08-15T00:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "Simplifying and Refactoring Introductory Calculus",
+        "link": "https://arxiv.org/abs/1811.03459",
+        "pubDate": "2026-08-15T00:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "Corgi kills short-lived website that ranked its female employees",
+        "link": "https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees",
+        "pubDate": "2026-08-15T00:00",
         "feedId": "hn"
       },
       {
@@ -39,12 +63,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Every exterior shot in The Taking of Pelham 123",
-        "link": "https://iafisher.com/2026/07/pelham-123",
-        "pubDate": "2026-08-14T20:10",
-        "feedId": "hn"
-      },
-      {
         "title": "New Lower and Upper Bounds for the Grothendieck Constant",
         "link": "https://arxiv.org/abs/2608.11158",
         "pubDate": "2026-08-14T19:41",
@@ -63,18 +81,6 @@
         "feedId": "hn"
       },
       {
-        "title": "The American sports plutocracy",
-        "link": "https://www.derekthompson.org/p/the-american-sports-plutocracy-is",
-        "pubDate": "2026-08-14T18:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
-        "link": "https://luacad.ad-si.com",
-        "pubDate": "2026-08-14T16:43",
-        "feedId": "hn"
-      },
-      {
         "title": "Maximizing the value of your Claude Code sessions",
         "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
         "pubDate": "2026-08-14T16:15",
@@ -84,12 +90,6 @@
         "title": "RustDesk now supports true unattended remote access on Wayland",
         "link": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
         "pubDate": "2026-08-14T16:12",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI by Hand",
-        "link": "https://www.byhand.ai/",
-        "pubDate": "2026-08-14T15:58",
         "feedId": "hn"
       }
     ]
@@ -140,6 +140,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP",
+        "link": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
+        "pubDate": "2026-08-14T19:05",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Let's not call it \"tech debt,\" it's just \"mess\"",
         "link": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
         "pubDate": "2026-08-13T23:09",
@@ -149,6 +155,12 @@
         "title": "There Is Still No Silver Bullet",
         "link": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
         "pubDate": "2026-08-14T15:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "My comment section is static HTML",
+        "link": "https://jva.lol/weblog/my-comment-section-is-static-html/",
+        "pubDate": "2026-08-14T23:58",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP",
-        "link": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
-        "pubDate": "2026-08-14T19:05",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "My comment section is static HTML",
-        "link": "https://jva.lol/weblog/my-comment-section-is-static-html/",
-        "pubDate": "2026-08-14T23:58",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What You Gain by Building Your Own Game Engine",
         "link": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
         "pubDate": "2026-08-14T22:04",
         "feedId": "lobsters"
       },
       {
-        "title": "Unlocking _everything_ on the CPU with DRAM scrambling",
-        "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-        "pubDate": "2026-08-13T16:06",
+        "title": "Guilt-Driven Development",
+        "link": "https://markuseliasson.se/article/guilt-driven-development",
+        "pubDate": "2026-08-14T15:54",
         "feedId": "lobsters"
       }
     ]
