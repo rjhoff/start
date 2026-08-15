@@ -3,15 +3,33 @@
     "id": "hn",
     "items": [
       {
-        "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
-        "link": "https://www.nature.com/articles/d41586-026-02448-x",
-        "pubDate": "2026-08-15T16:38",
+        "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+        "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+        "pubDate": "2026-08-15T18:13",
         "feedId": "hn"
       },
       {
-        "title": "The price of a Costco hot dog has gone up",
-        "link": "https://sina.bio/posts/costco-hotdog.html",
-        "pubDate": "2026-08-15T16:01",
+        "title": "TreasuryDirect: Prepare for ID.me – Your New Way to Log In",
+        "link": "https://www.treasurydirect.gov/savings-bonds/idme-one-month/",
+        "pubDate": "2026-08-15T17:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "Europe's scorched landscapes seen from space after summer heatwaves",
+        "link": "https://www.bbc.com/news/articles/c4gxy0wqqd9o",
+        "pubDate": "2026-08-15T17:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Dutch Community Where People Live on Strips of Land in a Lake",
+        "link": "https://www.core77.com/posts/144869",
+        "pubDate": "2026-08-15T16:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
+        "link": "https://www.nature.com/articles/d41586-026-02448-x",
+        "pubDate": "2026-08-15T16:38",
         "feedId": "hn"
       },
       {
@@ -21,27 +39,21 @@
         "feedId": "hn"
       },
       {
-        "title": "AI Can Now Design Functional Viruses. Should We Worry?",
-        "link": "https://spectrum.ieee.org/ai-designed-virus",
-        "pubDate": "2026-08-15T15:32",
-        "feedId": "hn"
-      },
-      {
         "title": "A Spectre Is Haunting Unicode",
         "link": "https://www.dampfkraft.com/ghost-characters.html",
         "pubDate": "2026-08-15T14:34",
         "feedId": "hn"
       },
       {
-        "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
-        "link": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-        "pubDate": "2026-08-15T14:04",
+        "title": "Printytron – Type it. 3D Print it",
+        "link": "https://printytron.com",
+        "pubDate": "2026-08-15T14:22",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Quasicrystals Animation Playground with WebXR",
-        "link": "https://hypnagogic-quasicrystals.github.io/",
-        "pubDate": "2026-08-15T13:48",
+        "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
+        "link": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+        "pubDate": "2026-08-15T14:04",
         "feedId": "hn"
       },
       {
@@ -63,9 +75,9 @@
         "feedId": "hn"
       },
       {
-        "title": "The Problem",
-        "link": "https://intelligence.org/the-problem/",
-        "pubDate": "2026-08-15T12:14",
+        "title": "T3X/0 a Minimal Procedural Language",
+        "link": "https://t3x.org/t3x/0/index.html",
+        "pubDate": "2026-08-15T12:06",
         "feedId": "hn"
       },
       {
@@ -78,18 +90,6 @@
         "title": "Working with AI Feels More Like Leadership Than Coding",
         "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
         "pubDate": "2026-08-15T10:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
-        "link": "https://uecker.codeberg.page/2026-07-14.html",
-        "pubDate": "2026-08-15T07:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-        "link": "https://chenxiachan.github.io/thoughtdag/",
-        "pubDate": "2026-08-15T04:42",
         "feedId": "hn"
       }
     ]
@@ -122,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Flirt: GitHub and Mailing List backends",
-        "link": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
-        "pubDate": "2026-08-15T12:37",
-        "feedId": "lobsters"
-      },
-      {
         "title": "How Is Compression Prediction?",
         "link": "https://lukefleed.xyz/posts/compression/",
         "pubDate": "2026-08-15T13:01",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Flirt: GitHub and Mailing List backends",
+        "link": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
+        "pubDate": "2026-08-15T12:37",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "ActivityPub Won by Being Boring",
-        "link": "https://o.ee/blog/activitypub-won-by-being-boring/",
-        "pubDate": "2026-08-14T18:44",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Serokell’s Work on GHC: Dependent Types, Part 5",
         "link": "https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-5",
         "pubDate": "2026-08-15T10:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "ActivityPub Won by Being Boring",
+        "link": "https://o.ee/blog/activitypub-won-by-being-boring/",
+        "pubDate": "2026-08-14T18:44",
         "feedId": "lobsters"
       },
       {
@@ -161,6 +161,12 @@
         "title": "nixpkgs-multiverse: fast mode",
         "link": "https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode",
         "pubDate": "2026-08-15T08:53",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Power Relations",
+        "link": "https://corbinsimpson.com/words/power-relations.html",
+        "pubDate": "2026-08-15T18:07",
         "feedId": "lobsters"
       },
       {
@@ -179,12 +185,6 @@
         "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP",
         "link": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
         "pubDate": "2026-08-14T19:05",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Demystifying Type (and some Un-Paradoxing)",
-        "link": "https://sifter.org/~simon/journal/20260814.html",
-        "pubDate": "2026-08-15T07:09",
         "feedId": "lobsters"
       }
     ]
