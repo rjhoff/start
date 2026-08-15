@@ -3,7 +3,25 @@
     "id": "hn",
     "items": [
       {
-        "title": "AI Driven Testing",
+        "title": "\"That's not SOC 2 compliant\"",
+        "link": "https://ampcode.com/notes/thats-not-soc-2-compliant",
+        "pubDate": "2026-08-15T06:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+        "link": "https://chenxiachan.github.io/thoughtdag/",
+        "pubDate": "2026-08-15T04:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "The other Sean Byrne doesn't exist",
+        "link": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+        "pubDate": "2026-08-15T04:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Deltix – AI Driven Testing",
         "link": "https://app.deltix.ai",
         "pubDate": "2026-08-15T02:42",
         "feedId": "hn"
@@ -21,7 +39,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Simplifying and Refactoring Introductory Calculus",
+        "title": "Simplifying and Refactoring Introductory Calculus (2018)",
         "link": "https://arxiv.org/abs/1811.03459",
         "pubDate": "2026-08-15T00:15",
         "feedId": "hn"
@@ -36,12 +54,6 @@
         "title": "Going Dark, and the era of law enforcement hacking",
         "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
         "pubDate": "2026-08-14T20:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "New Lower and Upper Bounds for the Grothendieck Constant",
-        "link": "https://arxiv.org/abs/2608.11158",
-        "pubDate": "2026-08-14T19:41",
         "feedId": "hn"
       },
       {
@@ -63,12 +75,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
-        "link": "https://luacad.ad-si.com",
-        "pubDate": "2026-08-14T16:43",
-        "feedId": "hn"
-      },
-      {
         "title": "Maximizing the value of your Claude Code sessions",
         "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
         "pubDate": "2026-08-14T16:15",
@@ -84,12 +90,6 @@
         "title": "AI by Hand",
         "link": "https://www.byhand.ai/",
         "pubDate": "2026-08-14T15:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "Google is making private AI practical with homomorphic encryption",
-        "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-        "pubDate": "2026-08-14T15:43",
         "feedId": "hn"
       }
     ]
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "My comment section is static HTML",
-        "link": "https://jva.lol/weblog/my-comment-section-is-static-html/",
-        "pubDate": "2026-08-14T23:58",
+        "title": "Firefox is now the last major browser that still supports uBlock Origin",
+        "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+        "pubDate": "2026-08-15T05:08",
         "feedId": "lobsters"
       },
       {
-        "title": "Curl Performance",
-        "link": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
-        "pubDate": "2026-08-14T11:33",
+        "title": "My comment section is static HTML",
+        "link": "https://jva.lol/weblog/my-comment-section-is-static-html/",
+        "pubDate": "2026-08-14T23:58",
         "feedId": "lobsters"
       },
       {
@@ -128,15 +128,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Art of CHIP-8",
-        "link": "https://beyondloom.com/blog/artofchip8.html",
-        "pubDate": "2026-08-14T09:10",
+        "title": "Curl Performance",
+        "link": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
+        "pubDate": "2026-08-14T11:33",
         "feedId": "lobsters"
       },
       {
         "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP",
         "link": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
         "pubDate": "2026-08-14T19:05",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Art of CHIP-8",
+        "link": "https://beyondloom.com/blog/artofchip8.html",
+        "pubDate": "2026-08-14T09:10",
         "feedId": "lobsters"
       },
       {
@@ -164,6 +170,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "What You Gain by Building Your Own Game Engine",
+        "link": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
+        "pubDate": "2026-08-14T22:04",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Comments in the code vs PR description",
         "link": "https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607",
         "pubDate": "2026-08-14T09:52",
@@ -173,18 +185,6 @@
         "title": "I want extern \"fil-c\"",
         "link": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
         "pubDate": "2026-08-13T17:43",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What You Gain by Building Your Own Game Engine",
-        "link": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
-        "pubDate": "2026-08-14T22:04",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "An Anecdote Against Slop Artifacts",
-        "link": "https://www.markusde.ca/pages/noslop.html",
-        "pubDate": "2026-08-14T22:51",
         "feedId": "lobsters"
       }
     ]
