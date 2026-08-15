@@ -3,21 +3,57 @@
     "id": "hn",
     "items": [
       {
+        "title": "Cultivating a state of mind where new ideas are born",
+        "link": "https://www.henrikkarlsson.xyz/p/good-ideas",
+        "pubDate": "2026-08-15T20:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "Meta will train its AI on Newsmax, a far-right media outlet",
+        "link": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
+        "pubDate": "2026-08-15T20:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why tech bosses keep sharing their manifestos about AI",
+        "link": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+        "pubDate": "2026-08-15T19:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI in drug discovery — what it is, where we stand and the path forward",
+        "link": "https://www.nature.com/articles/s41573-026-01496-2",
+        "pubDate": "2026-08-15T19:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tess's Android Wayland Compositor",
+        "link": "https://github.com/wmww/tawc",
+        "pubDate": "2026-08-15T18:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+        "link": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
+        "pubDate": "2026-08-15T18:33",
+        "feedId": "hn"
+      },
+      {
         "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
         "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
         "pubDate": "2026-08-15T18:13",
         "feedId": "hn"
       },
       {
-        "title": "TreasuryDirect: Prepare for ID.me – Your New Way to Log In",
-        "link": "https://www.treasurydirect.gov/savings-bonds/idme-one-month/",
-        "pubDate": "2026-08-15T17:30",
+        "title": "Thunderbird's Desktop Calendar Visual Redesign",
+        "link": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
+        "pubDate": "2026-08-15T18:09",
         "feedId": "hn"
       },
       {
-        "title": "Europe's scorched landscapes seen from space after summer heatwaves",
-        "link": "https://www.bbc.com/news/articles/c4gxy0wqqd9o",
-        "pubDate": "2026-08-15T17:21",
+        "title": "BriskDB",
+        "link": "https://github.com/schapman1974/briskdb",
+        "pubDate": "2026-08-15T17:56",
         "feedId": "hn"
       },
       {
@@ -33,7 +69,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
+        "title": "Semaglutide linked to lower predicted dementia risk",
         "link": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
         "pubDate": "2026-08-15T15:58",
         "feedId": "hn"
@@ -51,45 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
+        "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
         "link": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
         "pubDate": "2026-08-15T14:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
-        "link": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-        "pubDate": "2026-08-15T13:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "Could a computer scientist build a brain?",
-        "link": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
-        "pubDate": "2026-08-15T13:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Xorshift Generators",
-        "link": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
-        "pubDate": "2026-08-15T12:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "T3X/0 a Minimal Procedural Language",
-        "link": "https://t3x.org/t3x/0/index.html",
-        "pubDate": "2026-08-15T12:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-        "link": "https://sankalp.bearblog.dev/autoresearch/",
-        "pubDate": "2026-08-15T11:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Working with AI Feels More Like Leadership Than Coding",
-        "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-        "pubDate": "2026-08-15T10:39",
         "feedId": "hn"
       }
     ]
@@ -116,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "RISC-V: They Should Have Known Better",
-        "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-        "pubDate": "2026-08-14T19:12",
-        "feedId": "lobsters"
-      },
-      {
         "title": "How Is Compression Prediction?",
         "link": "https://lukefleed.xyz/posts/compression/",
         "pubDate": "2026-08-15T13:01",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "RISC-V: They Should Have Known Better",
+        "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+        "pubDate": "2026-08-14T19:12",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "My comment section is static HTML",
-        "link": "https://jva.lol/weblog/my-comment-section-is-static-html/",
-        "pubDate": "2026-08-14T23:58",
+        "title": "Recap: Software Should Work 2026",
+        "link": "https://bencornia.com/blog/recap-software-should-work-2026",
+        "pubDate": "2026-08-15T20:01",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software (2005)",
-        "link": "http://www.gotw.ca/publications/concurrency-ddj.htm",
-        "pubDate": "2026-08-15T10:31",
+        "title": "Power Relations",
+        "link": "https://corbinsimpson.com/words/power-relations.html",
+        "pubDate": "2026-08-15T18:07",
         "feedId": "lobsters"
       },
       {
@@ -164,9 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Power Relations",
-        "link": "https://corbinsimpson.com/words/power-relations.html",
-        "pubDate": "2026-08-15T18:07",
+        "title": "The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software (2005)",
+        "link": "http://www.gotw.ca/publications/concurrency-ddj.htm",
+        "pubDate": "2026-08-15T10:31",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Thunderbird’s Desktop Calendar Visual Redesign",
-        "link": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
-        "pubDate": "2026-08-14T17:03",
+        "title": "RVA23 vs ARMv9 a Small Experiment",
+        "link": "https://gist.github.com/camel-cdr/3a7aed17e017e8cab675ad696c7d14af",
+        "pubDate": "2026-08-15T00:42",
         "feedId": "lobsters"
       },
       {
-        "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP",
-        "link": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
-        "pubDate": "2026-08-14T19:05",
+        "title": "Thunderbird’s Desktop Calendar Visual Redesign",
+        "link": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
+        "pubDate": "2026-08-14T17:03",
         "feedId": "lobsters"
       }
     ]
