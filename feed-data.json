@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "Models Are Getting Dumber on Purpose",
+        "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+        "pubDate": "2026-08-16T19:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Protobuf has LSP support. You're welcome",
+        "link": "https://buf.build/blog/protobuf-lsp",
+        "pubDate": "2026-08-16T18:48",
+        "feedId": "hn"
+      },
+      {
         "title": "MathCode, Mathematical Coding Agent",
         "link": "https://math-ai-org.github.io/mathcode/",
         "pubDate": "2026-08-16T18:17",
@@ -79,18 +91,6 @@
         "link": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
         "pubDate": "2026-08-16T12:22",
         "feedId": "hn"
-      },
-      {
-        "title": "A True Telnet BBS on a Casio Calculator",
-        "link": "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/",
-        "pubDate": "2026-08-16T12:16",
-        "feedId": "hn"
-      },
-      {
-        "title": "Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer",
-        "link": "https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer",
-        "pubDate": "2026-08-16T12:00",
-        "feedId": "hn"
       }
     ]
   },
@@ -116,6 +116,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "A Third World Embedded Engineer Responds to \"RISC-V: They Should Have Known Better\"",
+        "link": "https://rvembedded.com/blog_post/12/",
+        "pubDate": "2026-08-16T17:28",
+        "feedId": "lobsters"
+      },
+      {
         "title": "A Tour of Magit's Status Interface",
         "link": "https://heiwiper.com/posts/magit-status-tour/",
         "pubDate": "2026-08-16T10:30",
@@ -134,15 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A Third World Embedded Engineer Responds to \"RISC-V: They Should Have Known Better\"",
-        "link": "https://rvembedded.com/blog_post/12/",
-        "pubDate": "2026-08-16T17:28",
-        "feedId": "lobsters"
-      },
-      {
         "title": "People of ACM - Russ Cox",
         "link": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
         "pubDate": "2026-08-16T16:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "You can just choose how many bugs you want now",
+        "link": "https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/",
+        "pubDate": "2026-08-16T18:18",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +164,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "You can just choose how many bugs you want now",
-        "link": "https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/",
-        "pubDate": "2026-08-16T18:18",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What's missing to have reproducible builds on PyPI",
         "link": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
         "pubDate": "2026-08-16T03:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Monitoring SystemD services with Healthchecks.io",
+        "link": "https://passbe.com/2022/healthchecks-io-systemd-checks/",
+        "pubDate": "2026-08-16T11:54",
         "feedId": "lobsters"
       },
       {
@@ -179,12 +185,6 @@
         "title": "Zig Day Seattle, WA #3",
         "link": "https://zig.day/usa/seattle/3/",
         "pubDate": "2026-08-15T21:18",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Recap: Software Should Work 2026",
-        "link": "https://bencornia.com/blog/recap-software-should-work-2026",
-        "pubDate": "2026-08-15T20:01",
         "feedId": "lobsters"
       }
     ]
@@ -288,9 +288,15 @@
     "id": "axios",
     "items": [
       {
-        "title": "Kushner meets Hamas leaders to push Gaza demilitarization",
+        "title": "Inside Kushner's Hamas meeting: What comes next in Gaza",
         "link": "https://www.axios.com/2026/08/16/kushner-hamas-gaza-disarmament-egypt-israel",
-        "pubDate": "2026-08-16T15:44",
+        "pubDate": "2026-08-16T20:13",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump's views can factor into prosecutions, Attorney General Todd Blanche says",
+        "link": "https://www.axios.com/2026/08/16/todd-blanche-doj-independence-trump",
+        "pubDate": "2026-08-16T19:38",
         "feedId": "axios"
       },
       {
@@ -368,12 +374,6 @@
       {
         "title": "Data center backlash echoes fossil-fuel politics",
         "link": "https://www.axios.com/2026/08/14/data-center-backlash-fossil-fuel-protests",
-        "pubDate": "2026-08-14T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "AI scrambles the political map",
-        "link": "https://www.axios.com/2026/08/14/ai-scrambles-political-map",
         "pubDate": "2026-08-14T09:15",
         "feedId": "axios"
       }
