@@ -3,33 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "The quirky personal homepages of programming language creators",
-        "link": "https://breck.lol/plMakers.html",
-        "pubDate": "2026-08-16T04:24",
+        "title": "Show HN: Laptop is the last place your secrets are still in plaintext",
+        "link": "https://github.com/jitpass/jit",
+        "pubDate": "2026-08-16T06:55",
         "feedId": "hn"
       },
       {
-        "title": "21,000 MCP servers exposed: the protocol reaches a security inflection point",
-        "link": "https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/",
-        "pubDate": "2026-08-16T04:07",
+        "title": "Falstad Math and Physics Simulations",
+        "link": "https://www.falstad.com/mathphysics.html",
+        "pubDate": "2026-08-16T04:19",
         "feedId": "hn"
       },
       {
-        "title": "Targeted marine cloud brightening weakens subsequent El Niño",
-        "link": "https://www.science.org/doi/10.1126/sciadv.adx3012",
-        "pubDate": "2026-08-16T03:40",
-        "feedId": "hn"
-      },
-      {
-        "title": "Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb",
+        "title": "Government sponsored study on alcohol doesn't stand up to scrutiny",
         "link": "https://nntaleb.substack.com/p/have-another-drink",
         "pubDate": "2026-08-16T03:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "ProofRun – a local verification receipt for AI coding agents",
-        "link": "https://github.com/yebiguo/ProofRun",
-        "pubDate": "2026-08-16T03:22",
         "feedId": "hn"
       },
       {
@@ -87,9 +75,21 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Bribes.fyi – Compare bribes statistics department wise",
-        "link": "https://bribes.fyi/compare",
-        "pubDate": "2026-08-15T22:11",
+        "title": "Tracking down a Zsh history data loss bug",
+        "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+        "pubDate": "2026-08-15T21:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Abdominal fat predicts heart disease risk better than BMI",
+        "link": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+        "pubDate": "2026-08-15T21:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "Cultivating a state of mind where new ideas are born (2023)",
+        "link": "https://www.henrikkarlsson.xyz/p/good-ideas",
+        "pubDate": "2026-08-15T20:54",
         "feedId": "hn"
       }
     ]
@@ -140,15 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "RISC-V: They Should Have Known Better",
-        "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-        "pubDate": "2026-08-14T19:12",
+        "title": "What's missing to have reproducible builds on PyPI",
+        "link": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
+        "pubDate": "2026-08-16T03:41",
         "feedId": "lobsters"
       },
       {
-        "title": "Flirt: GitHub and Mailing List backends",
-        "link": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
-        "pubDate": "2026-08-15T12:37",
+        "title": "RISC-V: They Should Have Known Better",
+        "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+        "pubDate": "2026-08-14T19:12",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +158,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A Programming Paradigm for Spatiotemporal Composability",
-        "link": "https://github.com/cordiverse/paper/blob/main/paper.pdf",
-        "pubDate": "2026-08-15T23:11",
+        "title": "Flirt: GitHub and Mailing List backends",
+        "link": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
+        "pubDate": "2026-08-15T12:37",
         "feedId": "lobsters"
       },
       {
-        "title": "What's missing to have reproducible builds on PyPI",
-        "link": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
-        "pubDate": "2026-08-16T03:41",
+        "title": "What do you think of LazyPromise as a lightweight alternative to Effect?",
+        "link": "https://github.com/lazy-promise/lazy-promise",
+        "pubDate": "2026-08-15T23:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A Programming Paradigm for Spatiotemporal Composability",
+        "link": "https://github.com/cordiverse/paper/blob/main/paper.pdf",
+        "pubDate": "2026-08-15T23:11",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "nixpkgs-multiverse: fast mode",
-        "link": "https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode",
-        "pubDate": "2026-08-15T08:53",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Software Engineering fundamentals matter more than ever",
-        "link": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
-        "pubDate": "2026-08-16T05:21",
+        "title": "Haskell: origins, evolution, and future",
+        "link": "https://www.youtube.com/watch?v=MQeIerDsReA&t=673s",
+        "pubDate": "2026-08-16T07:17",
         "feedId": "lobsters"
       }
     ]
