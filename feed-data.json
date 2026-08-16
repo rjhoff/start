@@ -3,26 +3,80 @@
     "id": "hn",
     "items": [
       {
-        "title": "Cultivating a state of mind where new ideas are born",
+        "title": "ChatGPT lost 22 points of web share in a year",
+        "link": "https://aicharts.grok.me/c/market-share",
+        "pubDate": "2026-08-16T00:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tea5767-Radio-Tuner",
+        "link": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
+        "pubDate": "2026-08-15T23:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "Credit card debt rises to $1.26T, nearing all-time record",
+        "link": "https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/",
+        "pubDate": "2026-08-15T23:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
+        "link": "https://sugartrack-beta.vercel.app/",
+        "pubDate": "2026-08-15T22:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "Modeling and Verification of Keeta's Consensus [pdf]",
+        "link": "https://xescu.re/keeta-consensus.pdf",
+        "pubDate": "2026-08-15T21:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "Bede Liu, a digital signal processing pioneer, has died",
+        "link": "https://spectrum.ieee.org/digital-signal-processing",
+        "pubDate": "2026-08-15T21:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
+        "link": "https://en.wikipedia.org/wiki/Wow!_signal",
+        "pubDate": "2026-08-15T21:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tracking down a Zsh history data loss bug",
+        "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+        "pubDate": "2026-08-15T21:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Abdominal fat predicts heart disease risk better than BMI",
+        "link": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+        "pubDate": "2026-08-15T21:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "Cultivating a state of mind where new ideas are born (2023)",
         "link": "https://www.henrikkarlsson.xyz/p/good-ideas",
         "pubDate": "2026-08-15T20:54",
         "feedId": "hn"
       },
       {
-        "title": "Meta will train its AI on Newsmax, a far-right media outlet",
-        "link": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
-        "pubDate": "2026-08-15T20:00",
+        "title": "Humazon",
+        "link": "https://hughhowey.com/humazon/",
+        "pubDate": "2026-08-15T20:18",
         "feedId": "hn"
       },
       {
-        "title": "Why tech bosses keep sharing their manifestos about AI",
-        "link": "https://www.bbc.com/news/articles/cz97ljy91zxo",
-        "pubDate": "2026-08-15T19:30",
+        "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+        "link": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+        "pubDate": "2026-08-15T19:20",
         "feedId": "hn"
       },
       {
-        "title": "AI in drug discovery — what it is, where we stand and the path forward",
-        "link": "https://www.nature.com/articles/s41573-026-01496-2",
+        "title": "AI in drug discovery – what it is, where we stand and the path forward",
+        "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
         "pubDate": "2026-08-15T19:12",
         "feedId": "hn"
       },
@@ -37,60 +91,6 @@
         "link": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
         "pubDate": "2026-08-15T18:33",
         "feedId": "hn"
-      },
-      {
-        "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-        "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-        "pubDate": "2026-08-15T18:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "Thunderbird's Desktop Calendar Visual Redesign",
-        "link": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
-        "pubDate": "2026-08-15T18:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "BriskDB",
-        "link": "https://github.com/schapman1974/briskdb",
-        "pubDate": "2026-08-15T17:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Dutch Community Where People Live on Strips of Land in a Lake",
-        "link": "https://www.core77.com/posts/144869",
-        "pubDate": "2026-08-15T16:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
-        "link": "https://www.nature.com/articles/d41586-026-02448-x",
-        "pubDate": "2026-08-15T16:38",
-        "feedId": "hn"
-      },
-      {
-        "title": "Semaglutide linked to lower predicted dementia risk",
-        "link": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-        "pubDate": "2026-08-15T15:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "A Spectre Is Haunting Unicode",
-        "link": "https://www.dampfkraft.com/ghost-characters.html",
-        "pubDate": "2026-08-15T14:34",
-        "feedId": "hn"
-      },
-      {
-        "title": "Printytron – Type it. 3D Print it",
-        "link": "https://printytron.com",
-        "pubDate": "2026-08-15T14:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
-        "link": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-        "pubDate": "2026-08-15T14:04",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Everything is about to “go dark”",
-        "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-        "pubDate": "2026-08-15T12:50",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Why I remain a skeptic",
         "link": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
         "pubDate": "2026-08-15T13:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Everything is about to “go dark”",
+        "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+        "pubDate": "2026-08-15T12:50",
         "feedId": "lobsters"
       },
       {
@@ -128,6 +128,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Zig Day Seattle, WA #3",
+        "link": "https://zig.day/usa/seattle/3/",
+        "pubDate": "2026-08-15T21:18",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Flirt: GitHub and Mailing List backends",
         "link": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
         "pubDate": "2026-08-15T12:37",
@@ -140,9 +146,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Power Relations",
+        "link": "https://corbinsimpson.com/words/power-relations.html",
+        "pubDate": "2026-08-15T18:07",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Serokell’s Work on GHC: Dependent Types, Part 5",
         "link": "https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-5",
         "pubDate": "2026-08-15T10:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A Programming Paradigm for Spatiotemporal Composability",
+        "link": "https://github.com/cordiverse/paper/blob/main/paper.pdf",
+        "pubDate": "2026-08-15T23:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What do you think of LazyPromise as a lightweight alternative to Effect?",
+        "link": "https://github.com/lazy-promise/lazy-promise",
+        "pubDate": "2026-08-15T23:22",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +176,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Power Relations",
-        "link": "https://corbinsimpson.com/words/power-relations.html",
-        "pubDate": "2026-08-15T18:07",
+        "title": "The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software (2005)",
+        "link": "http://www.gotw.ca/publications/concurrency-ddj.htm",
+        "pubDate": "2026-08-15T10:31",
         "feedId": "lobsters"
       },
       {
@@ -162,36 +186,18 @@
         "link": "https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode",
         "pubDate": "2026-08-15T08:53",
         "feedId": "lobsters"
-      },
-      {
-        "title": "The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software (2005)",
-        "link": "http://www.gotw.ca/publications/concurrency-ddj.htm",
-        "pubDate": "2026-08-15T10:31",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What You Gain by Building Your Own Game Engine",
-        "link": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
-        "pubDate": "2026-08-14T22:04",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "RVA23 vs ARMv9 a Small Experiment",
-        "link": "https://gist.github.com/camel-cdr/3a7aed17e017e8cab675ad696c7d14af",
-        "pubDate": "2026-08-15T00:42",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Thunderbird’s Desktop Calendar Visual Redesign",
-        "link": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
-        "pubDate": "2026-08-14T17:03",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "VisionQuest trailer kicks off Disney's D23 fan event",
+        "link": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
+        "pubDate": "2026-08-15T21:21",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
         "link": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
@@ -273,12 +279,6 @@
       {
         "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
         "link": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/",
-        "pubDate": "2026-08-14T11:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
-        "link": "https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/",
         "pubDate": "2026-08-14T11:00",
         "feedId": "arstechnica"
       }
