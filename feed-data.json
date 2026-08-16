@@ -3,15 +3,33 @@
     "id": "hn",
     "items": [
       {
-        "title": "The AI Credit Resale Economy",
-        "link": "https://vectoral.com/blog/who-are-the-token-brokers",
-        "pubDate": "2026-08-16T14:44",
+        "title": "NIH is ending a key grant for budding clinical researchers",
+        "link": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
+        "pubDate": "2026-08-16T16:14",
         "feedId": "hn"
       },
       {
-        "title": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-        "link": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-        "pubDate": "2026-08-16T13:58",
+        "title": "The weekend is 100 years old",
+        "link": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
+        "pubDate": "2026-08-16T15:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+        "link": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
+        "pubDate": "2026-08-16T15:16",
+        "feedId": "hn"
+      },
+      {
+        "title": "GPS and the Lost Art of Getting Lost",
+        "link": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
+        "pubDate": "2026-08-16T14:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "The AI Credit Resale Economy",
+        "link": "https://vectoral.com/blog/who-are-the-token-brokers",
+        "pubDate": "2026-08-16T14:44",
         "feedId": "hn"
       },
       {
@@ -63,33 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Grafana agent observability for Hermes Agent",
-        "link": "https://github.com/alexander-akhmetov/grafana-agento11y-hermes",
-        "pubDate": "2026-08-16T08:40",
-        "feedId": "hn"
-      },
-      {
-        "title": "Falstad Math and Physics Simulations",
-        "link": "https://www.falstad.com/mathphysics.html",
-        "pubDate": "2026-08-16T04:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "Patterns and problems in emerging multi-agent systems",
-        "link": "https://www.anthropic.com/research/multiagent-systems",
-        "pubDate": "2026-08-16T02:12",
+        "title": "AI Coding Without the Vibes",
+        "link": "https://peterbloem.nl/blog/craft-coding",
+        "pubDate": "2026-08-16T10:31",
         "feedId": "hn"
       },
       {
         "title": "Guiding Ships with Moire Patterns (2018)",
         "link": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
         "pubDate": "2026-08-16T01:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
-        "link": "https://www.micdrop.gg/",
-        "pubDate": "2026-08-16T00:46",
         "feedId": "hn"
       }
     ]
@@ -101,6 +101,12 @@
         "title": "I thought I was building a C replacement. I was wrong",
         "link": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
         "pubDate": "2026-08-16T14:05",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Every Fucking Website",
+        "link": "https://op.tngl.io/every-fucking-website/",
+        "pubDate": "2026-08-16T16:26",
         "feedId": "lobsters"
       },
       {
@@ -119,6 +125,12 @@
         "title": "Why I remain a skeptic",
         "link": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
         "pubDate": "2026-08-15T13:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A Tour of Magit's Status Interface",
+        "link": "https://heiwiper.com/posts/magit-status-tour/",
+        "pubDate": "2026-08-16T10:30",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A Tour of Magit's Status Interface",
-        "link": "https://heiwiper.com/posts/magit-status-tour/",
-        "pubDate": "2026-08-16T10:30",
+        "title": "Recap: Software Should Work 2026",
+        "link": "https://bencornia.com/blog/recap-software-should-work-2026",
+        "pubDate": "2026-08-15T20:01",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Recap: Software Should Work 2026",
-        "link": "https://bencornia.com/blog/recap-software-should-work-2026",
-        "pubDate": "2026-08-15T20:01",
+        "title": "Software Engineering fundamentals matter more than ever",
+        "link": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+        "pubDate": "2026-08-16T05:21",
         "feedId": "lobsters"
       },
       {
         "title": "Power Relations",
         "link": "https://corbinsimpson.com/words/power-relations.html",
         "pubDate": "2026-08-15T18:07",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How Is Compression Prediction?",
-        "link": "https://lukefleed.xyz/posts/compression/",
-        "pubDate": "2026-08-15T13:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What do you think of LazyPromise as a lightweight alternative to Effect?",
-        "link": "https://github.com/lazy-promise/lazy-promise",
-        "pubDate": "2026-08-15T23:22",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Kushner meets Hamas leaders to push Gaza demilitarization",
+        "link": "https://www.axios.com/2026/08/16/kushner-hamas-gaza-disarmament-egypt-israel",
+        "pubDate": "2026-08-16T15:44",
+        "feedId": "axios"
+      },
+      {
         "title": "How AI could bring Mayo-quality health care to everyone",
         "link": "https://www.axios.com/2026/08/16/ai-mayo-clinic-health-care-fix-jim-vandehei",
         "pubDate": "2026-08-16T10:00",
@@ -369,12 +375,6 @@
         "title": "GOP finds its next progressive target in Minnesota",
         "link": "https://www.axios.com/2026/08/14/gop-progressive-target-flanagan-minnesota",
         "pubDate": "2026-08-14T09:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "A convergence of biological risks",
-        "link": "https://www.axios.com/2026/08/14/biological-threats-ai-lab-research",
-        "pubDate": "2026-08-14T09:00",
         "feedId": "axios"
       }
     ]
