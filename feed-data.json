@@ -3,6 +3,78 @@
     "id": "hn",
     "items": [
       {
+        "title": "How a Sony Veteran Is Overhauling the Company He Grew Up In",
+        "link": "https://www.wsj.com/business/media/sony-ceo-hiroki-totoki-efc8923f",
+        "pubDate": "2026-08-16T13:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "I built my own root DNS so I could stop renting names",
+        "link": "https://anthony.dev.profullstack.com/blog/013-post.html",
+        "pubDate": "2026-08-16T13:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "Firefox for iOS now has a native adblocker",
+        "link": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+        "pubDate": "2026-08-16T12:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "Is the industry ready for tokens-constrained work?",
+        "link": "https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out",
+        "pubDate": "2026-08-16T12:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "Banned Words List",
+        "link": "https://pen.org/banned-words-list/",
+        "pubDate": "2026-08-16T12:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "How Many Employees Does It Take to Reach $100M ARR Now?",
+        "link": "https://nazr.com/blog/how-many-employees-100m-arr",
+        "pubDate": "2026-08-16T12:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "Claude: System Prompts",
+        "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+        "pubDate": "2026-08-16T12:48",
+        "feedId": "hn"
+      },
+      {
+        "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+        "link": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+        "pubDate": "2026-08-16T12:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer",
+        "link": "https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer",
+        "pubDate": "2026-08-16T12:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Stripe 2.9% vs. Adyen 0.6% vs. Braintree 2.59%: 2026 Fees",
+        "link": "https://valueaddvc.com/blog/stripe-vs-adyen-vs-braintree-enterprise-payment-processing-compared-in-2026",
+        "pubDate": "2026-08-16T11:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Remove AI voice from AI writings",
+        "link": "https://unslopai.com",
+        "pubDate": "2026-08-16T11:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Grafana agent observability for Hermes Agent",
+        "link": "https://github.com/alexander-akhmetov/grafana-agento11y-hermes",
+        "pubDate": "2026-08-16T08:40",
+        "feedId": "hn"
+      },
+      {
         "title": "What happens when an LLM never sees material beyond fifth grade?",
         "link": "https://littlelearner-ll.github.io/",
         "pubDate": "2026-08-16T07:37",
@@ -15,81 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Zapping Rocks Unlocks Stimulated Geologic Hydrogen",
-        "link": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
-        "pubDate": "2026-08-16T02:36",
-        "feedId": "hn"
-      },
-      {
         "title": "Patterns and problems in emerging multi-agent systems",
         "link": "https://www.anthropic.com/research/multiagent-systems",
         "pubDate": "2026-08-16T02:12",
-        "feedId": "hn"
-      },
-      {
-        "title": "Guiding Ships with Moire Patterns",
-        "link": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
-        "pubDate": "2026-08-16T01:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
-        "link": "https://www.micdrop.gg/",
-        "pubDate": "2026-08-16T00:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "Big Pickle on SWE Atlas – Codebase QnA",
-        "link": "https://github.com/PhillipChaffee/big-pickle-swe-atlas",
-        "pubDate": "2026-08-16T00:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tea5767-Radio-Tuner",
-        "link": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
-        "pubDate": "2026-08-15T23:54",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-        "link": "https://arxiv.org/abs/2608.13122",
-        "pubDate": "2026-08-15T22:41",
-        "feedId": "hn"
-      },
-      {
-        "title": "Software Engineering fundamentals matter more",
-        "link": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
-        "pubDate": "2026-08-15T22:31",
-        "feedId": "hn"
-      },
-      {
-        "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
-        "link": "https://sugartrack-beta.vercel.app/",
-        "pubDate": "2026-08-15T22:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tracking down a Zsh history data loss bug",
-        "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
-        "pubDate": "2026-08-15T21:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "Abdominal fat predicts heart disease risk better than BMI",
-        "link": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
-        "pubDate": "2026-08-15T21:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "Cultivating a state of mind where new ideas are born (2023)",
-        "link": "https://www.henrikkarlsson.xyz/p/good-ideas",
-        "pubDate": "2026-08-15T20:54",
-        "feedId": "hn"
-      },
-      {
-        "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
-        "link": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
-        "pubDate": "2026-08-15T19:20",
         "feedId": "hn"
       }
     ]
@@ -128,9 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How Is Compression Prediction?",
-        "link": "https://lukefleed.xyz/posts/compression/",
-        "pubDate": "2026-08-15T13:01",
+        "title": "Aiki reaches recursive self-interpretation",
+        "link": "https://decuser.github.io/posts/aiki-alpha-mileston26-update/",
+        "pubDate": "2026-08-16T03:13",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Power Relations",
-        "link": "https://corbinsimpson.com/words/power-relations.html",
-        "pubDate": "2026-08-15T18:07",
+        "title": "How Is Compression Prediction?",
+        "link": "https://lukefleed.xyz/posts/compression/",
+        "pubDate": "2026-08-15T13:01",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A Tour of Magit's Status Interface",
+        "link": "https://heiwiper.com/posts/magit-status-tour/",
+        "pubDate": "2026-08-16T10:30",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +164,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Power Relations",
+        "link": "https://corbinsimpson.com/words/power-relations.html",
+        "pubDate": "2026-08-15T18:07",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Monitoring SystemD services with Healthchecks.io",
+        "link": "https://passbe.com/2022/healthchecks-io-systemd-checks/",
+        "pubDate": "2026-08-16T11:54",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Flirt: GitHub and Mailing List backends",
         "link": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
         "pubDate": "2026-08-15T12:37",
         "feedId": "lobsters"
       },
       {
-        "title": "RISC-V: They Should Have Known Better",
-        "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-        "pubDate": "2026-08-14T19:12",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Aiki reaches recursive self-interpretation",
-        "link": "https://decuser.github.io/posts/aiki-alpha-mileston26-update/",
-        "pubDate": "2026-08-16T03:13",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "On Knowledge Representation",
-        "link": "https://sifter.org/~simon/journal/20130713.h.html",
-        "pubDate": "2026-08-16T07:54",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A Programming Paradigm for Spatiotemporal Composability",
-        "link": "https://github.com/cordiverse/paper/blob/main/paper.pdf",
-        "pubDate": "2026-08-15T23:11",
+        "title": "Software Engineering fundamentals matter more than ever",
+        "link": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+        "pubDate": "2026-08-16T05:21",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+        "link": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
+        "pubDate": "2026-08-16T10:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "VisionQuest trailer kicks off Disney's D23 fan event",
         "link": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
@@ -274,12 +280,6 @@
         "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
         "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
         "pubDate": "2026-08-14T14:27",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
-        "link": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/",
-        "pubDate": "2026-08-14T11:00",
         "feedId": "arstechnica"
       }
     ]
