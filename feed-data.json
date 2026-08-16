@@ -3,15 +3,33 @@
     "id": "hn",
     "items": [
       {
-        "title": "I checked 30 frontier model cards. Here are the benchmarks labs report",
-        "link": "https://koutian.is-a.dev/benchmark-radar/?view=leaderboard",
-        "pubDate": "2026-08-16T04:02",
+        "title": "The quirky personal homepages of programming language creators",
+        "link": "https://breck.lol/plMakers.html",
+        "pubDate": "2026-08-16T04:24",
+        "feedId": "hn"
+      },
+      {
+        "title": "21,000 MCP servers exposed: the protocol reaches a security inflection point",
+        "link": "https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/",
+        "pubDate": "2026-08-16T04:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "Targeted marine cloud brightening weakens subsequent El Niño",
+        "link": "https://www.science.org/doi/10.1126/sciadv.adx3012",
+        "pubDate": "2026-08-16T03:40",
         "feedId": "hn"
       },
       {
         "title": "Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb",
         "link": "https://nntaleb.substack.com/p/have-another-drink",
         "pubDate": "2026-08-16T03:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "ProofRun – a local verification receipt for AI coding agents",
+        "link": "https://github.com/yebiguo/ProofRun",
+        "pubDate": "2026-08-16T03:22",
         "feedId": "hn"
       },
       {
@@ -72,24 +90,6 @@
         "title": "Show HN: Bribes.fyi – Compare bribes statistics department wise",
         "link": "https://bribes.fyi/compare",
         "pubDate": "2026-08-15T22:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "Bede Liu, a digital signal processing pioneer, has died",
-        "link": "https://spectrum.ieee.org/digital-signal-processing",
-        "pubDate": "2026-08-15T21:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tracking down a Zsh history data loss bug",
-        "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
-        "pubDate": "2026-08-15T21:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "Abdominal fat predicts heart disease risk better than BMI",
-        "link": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
-        "pubDate": "2026-08-15T21:14",
         "feedId": "hn"
       }
     ]
@@ -164,27 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Serokell’s Work on GHC: Dependent Types, Part 5",
-        "link": "https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-5",
-        "pubDate": "2026-08-15T10:42",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "ActivityPub Won by Being Boring",
-        "link": "https://o.ee/blog/activitypub-won-by-being-boring/",
-        "pubDate": "2026-08-14T18:44",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What's missing to have reproducible builds on PyPI",
         "link": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
         "pubDate": "2026-08-16T03:41",
         "feedId": "lobsters"
       },
       {
-        "title": "The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software (2005)",
-        "link": "http://www.gotw.ca/publications/concurrency-ddj.htm",
-        "pubDate": "2026-08-15T10:31",
+        "title": "Serokell’s Work on GHC: Dependent Types, Part 5",
+        "link": "https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-5",
+        "pubDate": "2026-08-15T10:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "nixpkgs-multiverse: fast mode",
+        "link": "https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode",
+        "pubDate": "2026-08-15T08:53",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Software Engineering fundamentals matter more than ever",
+        "link": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+        "pubDate": "2026-08-16T05:21",
         "feedId": "lobsters"
       }
     ]
