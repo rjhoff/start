@@ -3,6 +3,30 @@
     "id": "hn",
     "items": [
       {
+        "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+        "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+        "pubDate": "2026-08-16T21:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "Claude Seems Down",
+        "link": "https://news.ycombinator.com/item?id=49324078",
+        "pubDate": "2026-08-16T21:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+        "link": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+        "pubDate": "2026-08-16T21:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+        "link": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/",
+        "pubDate": "2026-08-16T21:00",
+        "feedId": "hn"
+      },
+      {
         "title": "The Case Against Formal Verification, 50 Years Later",
         "link": "https://ivan-gavran.github.io/0-social-processes-paper",
         "pubDate": "2026-08-16T20:38",
@@ -15,15 +39,9 @@
         "feedId": "hn"
       },
       {
-        "title": "ICE Shot a Journalist and Threw Him in Detention. He's Approaching 300 Days",
-        "link": "https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/",
-        "pubDate": "2026-08-16T20:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Trumps' Crypto Project Just Got One Step Closer to Becoming a Bank",
-        "link": "https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/",
-        "pubDate": "2026-08-16T19:41",
+        "title": "An open-source, candle-only crypto pump detector–looking for ML contributors",
+        "link": "https://github.com/aleks-ent/pump-dump-crypto-screener",
+        "pubDate": "2026-08-16T20:16",
         "feedId": "hn"
       },
       {
@@ -73,24 +91,6 @@
         "link": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
         "pubDate": "2026-08-16T15:16",
         "feedId": "hn"
-      },
-      {
-        "title": "GPS and the Lost Art of Getting Lost",
-        "link": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
-        "pubDate": "2026-08-16T14:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "The AI Credit Resale Economy",
-        "link": "https://vectoral.com/blog/who-are-the-token-brokers",
-        "pubDate": "2026-08-16T14:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
-        "link": "https://tasklet.ai/careers/head-of-design-engineering",
-        "pubDate": "2026-08-16T13:30",
-        "feedId": "hn"
       }
     ]
   },
@@ -116,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A Third World Embedded Engineer Responds to \"RISC-V: They Should Have Known Better\"",
-        "link": "https://rvembedded.com/blog_post/12/",
-        "pubDate": "2026-08-16T17:28",
+        "title": "A faster way to calculate the day-of-the-week",
+        "link": "https://www.benjoffe.com/fast-day-of-week",
+        "pubDate": "2026-08-16T20:52",
         "feedId": "lobsters"
       },
       {
-        "title": "A Tour of Magit's Status Interface",
-        "link": "https://heiwiper.com/posts/magit-status-tour/",
-        "pubDate": "2026-08-16T10:30",
+        "title": "A Third World Embedded Engineer Responds to \"RISC-V: They Should Have Known Better\"",
+        "link": "https://rvembedded.com/blog_post/12/",
+        "pubDate": "2026-08-16T17:28",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +134,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Firefox is now the last major browser that still supports uBlock Origin",
-        "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-        "pubDate": "2026-08-15T05:08",
-        "feedId": "lobsters"
-      },
-      {
         "title": "You can just choose how many bugs you want now",
         "link": "https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/",
         "pubDate": "2026-08-16T18:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A Tour of Magit's Status Interface",
+        "link": "https://heiwiper.com/posts/magit-status-tour/",
+        "pubDate": "2026-08-16T10:30",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Firefox is now the last major browser that still supports uBlock Origin",
+        "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+        "pubDate": "2026-08-15T05:08",
         "feedId": "lobsters"
       },
       {
@@ -164,21 +170,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A faster way to calculate the day-of-the-week",
-        "link": "https://www.benjoffe.com/fast-day-of-week",
-        "pubDate": "2026-08-16T20:52",
+        "title": "Anti-Social Media",
+        "link": "https://christianheilmann.com/2026/08/11/anti-social-media/",
+        "pubDate": "2026-08-16T17:05",
         "feedId": "lobsters"
       },
       {
         "title": "Monitoring SystemD services with Healthchecks.io",
         "link": "https://passbe.com/2022/healthchecks-io-systemd-checks/",
         "pubDate": "2026-08-16T11:54",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Anti-Social Media",
-        "link": "https://christianheilmann.com/2026/08/11/anti-social-media/",
-        "pubDate": "2026-08-16T17:05",
         "feedId": "lobsters"
       },
       {
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump tells Hegseth to cut back U.S.-South Korea drills",
+        "link": "https://www.axios.com/2026/08/16/trump-us-south-korea-military-drills-cut",
+        "pubDate": "2026-08-16T21:59",
+        "feedId": "axios"
+      },
+      {
+        "title": "How AOC is rewriting her own \"Woke 1\" history",
+        "link": "https://www.axios.com/2026/08/16/aoc-walk-back-positions-2028",
+        "pubDate": "2026-08-16T21:40",
+        "feedId": "axios"
+      },
+      {
         "title": "Inside Kushner's Hamas meeting: What comes next in Gaza",
         "link": "https://www.axios.com/2026/08/16/kushner-hamas-gaza-disarmament-egypt-israel",
         "pubDate": "2026-08-16T20:13",
@@ -363,18 +375,6 @@
         "title": "OpenAI sheds senior execs in pre-IPO refresh",
         "link": "https://www.axios.com/2026/08/14/openai-executive-greg-brockman-ipo",
         "pubDate": "2026-08-14T09:28",
-        "feedId": "axios"
-      },
-      {
-        "title": "America has more majority-minority rural counties than urban and suburban ones",
-        "link": "https://www.axios.com/2026/08/14/majority-minority-rural-america-black-latino",
-        "pubDate": "2026-08-14T09:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "Data center backlash echoes fossil-fuel politics",
-        "link": "https://www.axios.com/2026/08/14/data-center-backlash-fossil-fuel-protests",
-        "pubDate": "2026-08-14T09:15",
         "feedId": "axios"
       }
     ]
