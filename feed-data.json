@@ -3,9 +3,9 @@
     "id": "hn",
     "items": [
       {
-        "title": "Show HN: Laptop is the last place your secrets are still in plaintext",
-        "link": "https://github.com/jitpass/jit",
-        "pubDate": "2026-08-16T06:55",
+        "title": "What happens when an LLM never sees material beyond fifth grade?",
+        "link": "https://littlelearner-ll.github.io/",
+        "pubDate": "2026-08-16T07:37",
         "feedId": "hn"
       },
       {
@@ -134,15 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Power Relations",
-        "link": "https://corbinsimpson.com/words/power-relations.html",
-        "pubDate": "2026-08-15T18:07",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What's missing to have reproducible builds on PyPI",
         "link": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
         "pubDate": "2026-08-16T03:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Power Relations",
+        "link": "https://corbinsimpson.com/words/power-relations.html",
+        "pubDate": "2026-08-15T18:07",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Serokell’s Work on GHC: Dependent Types, Part 5",
-        "link": "https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-5",
-        "pubDate": "2026-08-15T10:42",
+        "title": "On Knowledge Representation",
+        "link": "https://sifter.org/~simon/journal/20130713.h.html",
+        "pubDate": "2026-08-16T07:54",
         "feedId": "lobsters"
       },
       {
-        "title": "Haskell: origins, evolution, and future",
-        "link": "https://www.youtube.com/watch?v=MQeIerDsReA&t=673s",
-        "pubDate": "2026-08-16T07:17",
+        "title": "Serokell’s Work on GHC: Dependent Types, Part 5",
+        "link": "https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-5",
+        "pubDate": "2026-08-15T10:42",
         "feedId": "lobsters"
       }
     ]
