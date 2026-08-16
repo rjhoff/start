@@ -3,6 +3,30 @@
     "id": "hn",
     "items": [
       {
+        "title": "The Case Against Formal Verification, 50 Years Later",
+        "link": "https://ivan-gavran.github.io/0-social-processes-paper",
+        "pubDate": "2026-08-16T20:38",
+        "feedId": "hn"
+      },
+      {
+        "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+        "pubDate": "2026-08-16T20:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "ICE Shot a Journalist and Threw Him in Detention. He's Approaching 300 Days",
+        "link": "https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/",
+        "pubDate": "2026-08-16T20:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Trumps' Crypto Project Just Got One Step Closer to Becoming a Bank",
+        "link": "https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/",
+        "pubDate": "2026-08-16T19:41",
+        "feedId": "hn"
+      },
+      {
         "title": "Models Are Getting Dumber on Purpose",
         "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
         "pubDate": "2026-08-16T19:04",
@@ -67,30 +91,6 @@
         "link": "https://tasklet.ai/careers/head-of-design-engineering",
         "pubDate": "2026-08-16T13:30",
         "feedId": "hn"
-      },
-      {
-        "title": "Show HN: A public AI whose memory is shared across all users",
-        "link": "https://wildstatic.com/",
-        "pubDate": "2026-08-16T13:21",
-        "feedId": "hn"
-      },
-      {
-        "title": "Firefox for iOS now has a native adblocker",
-        "link": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-        "pubDate": "2026-08-16T12:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "Claude: System Prompts",
-        "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-        "pubDate": "2026-08-16T12:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
-        "link": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
-        "pubDate": "2026-08-16T12:22",
-        "feedId": "hn"
       }
     ]
   },
@@ -128,9 +128,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "People of ACM - Russ Cox",
+        "link": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
+        "pubDate": "2026-08-16T16:23",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Firefox is now the last major browser that still supports uBlock Origin",
         "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
         "pubDate": "2026-08-15T05:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "You can just choose how many bugs you want now",
+        "link": "https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/",
+        "pubDate": "2026-08-16T18:18",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +152,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "People of ACM - Russ Cox",
-        "link": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
-        "pubDate": "2026-08-16T16:23",
+        "title": "Models Are Getting Dumber on Purpose",
+        "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+        "pubDate": "2026-08-16T20:11",
         "feedId": "lobsters"
       },
       {
-        "title": "You can just choose how many bugs you want now",
-        "link": "https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/",
-        "pubDate": "2026-08-16T18:18",
+        "title": "Human Interface Guidelines from various platforms",
+        "link": "https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/",
+        "pubDate": "2026-08-16T19:56",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A faster way to calculate the day-of-the-week",
+        "link": "https://www.benjoffe.com/fast-day-of-week",
+        "pubDate": "2026-08-16T20:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Monitoring SystemD services with Healthchecks.io",
+        "link": "https://passbe.com/2022/healthchecks-io-systemd-checks/",
+        "pubDate": "2026-08-16T11:54",
         "feedId": "lobsters"
       },
       {
@@ -161,30 +185,6 @@
         "title": "Everything is about to “go dark”",
         "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
         "pubDate": "2026-08-15T12:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What's missing to have reproducible builds on PyPI",
-        "link": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
-        "pubDate": "2026-08-16T03:41",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Monitoring SystemD services with Healthchecks.io",
-        "link": "https://passbe.com/2022/healthchecks-io-systemd-checks/",
-        "pubDate": "2026-08-16T11:54",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Haskell: origins, evolution, and future",
-        "link": "https://www.youtube.com/watch?v=MQeIerDsReA&t=673s",
-        "pubDate": "2026-08-16T07:17",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Zig Day Seattle, WA #3",
-        "link": "https://zig.day/usa/seattle/3/",
-        "pubDate": "2026-08-15T21:18",
         "feedId": "lobsters"
       }
     ]
