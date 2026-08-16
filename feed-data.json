@@ -3,39 +3,39 @@
     "id": "hn",
     "items": [
       {
-        "title": "How a Sony Veteran Is Overhauling the Company He Grew Up In",
-        "link": "https://www.wsj.com/business/media/sony-ceo-hiroki-totoki-efc8923f",
-        "pubDate": "2026-08-16T13:12",
+        "title": "The AI Credit Resale Economy",
+        "link": "https://vectoral.com/blog/who-are-the-token-brokers",
+        "pubDate": "2026-08-16T14:44",
         "feedId": "hn"
       },
       {
-        "title": "I built my own root DNS so I could stop renting names",
-        "link": "https://anthony.dev.profullstack.com/blog/013-post.html",
-        "pubDate": "2026-08-16T13:07",
+        "title": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+        "link": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+        "pubDate": "2026-08-16T13:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
+        "link": "https://tasklet.ai/careers/head-of-design-engineering",
+        "pubDate": "2026-08-16T13:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: A public AI whose memory is shared across all users",
+        "link": "https://wildstatic.com/",
+        "pubDate": "2026-08-16T13:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "A U.S. Strategy to Prevent the Creation of Mirror Life",
+        "link": "https://www.rand.org/pubs/research_reports/RRA4335-1.html",
+        "pubDate": "2026-08-16T13:09",
         "feedId": "hn"
       },
       {
         "title": "Firefox for iOS now has a native adblocker",
         "link": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
         "pubDate": "2026-08-16T12:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "Is the industry ready for tokens-constrained work?",
-        "link": "https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out",
-        "pubDate": "2026-08-16T12:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "Banned Words List",
-        "link": "https://pen.org/banned-words-list/",
-        "pubDate": "2026-08-16T12:50",
-        "feedId": "hn"
-      },
-      {
-        "title": "How Many Employees Does It Take to Reach $100M ARR Now?",
-        "link": "https://nazr.com/blog/how-many-employees-100m-arr",
-        "pubDate": "2026-08-16T12:49",
         "feedId": "hn"
       },
       {
@@ -51,33 +51,21 @@
         "feedId": "hn"
       },
       {
+        "title": "A True Telnet BBS on a Casio Calculator",
+        "link": "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/",
+        "pubDate": "2026-08-16T12:16",
+        "feedId": "hn"
+      },
+      {
         "title": "Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer",
         "link": "https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer",
         "pubDate": "2026-08-16T12:00",
         "feedId": "hn"
       },
       {
-        "title": "Stripe 2.9% vs. Adyen 0.6% vs. Braintree 2.59%: 2026 Fees",
-        "link": "https://valueaddvc.com/blog/stripe-vs-adyen-vs-braintree-enterprise-payment-processing-compared-in-2026",
-        "pubDate": "2026-08-16T11:34",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Remove AI voice from AI writings",
-        "link": "https://unslopai.com",
-        "pubDate": "2026-08-16T11:28",
-        "feedId": "hn"
-      },
-      {
         "title": "Show HN: Grafana agent observability for Hermes Agent",
         "link": "https://github.com/alexander-akhmetov/grafana-agento11y-hermes",
         "pubDate": "2026-08-16T08:40",
-        "feedId": "hn"
-      },
-      {
-        "title": "What happens when an LLM never sees material beyond fifth grade?",
-        "link": "https://littlelearner-ll.github.io/",
-        "pubDate": "2026-08-16T07:37",
         "feedId": "hn"
       },
       {
@@ -91,12 +79,36 @@
         "link": "https://www.anthropic.com/research/multiagent-systems",
         "pubDate": "2026-08-16T02:12",
         "feedId": "hn"
+      },
+      {
+        "title": "Guiding Ships with Moire Patterns (2018)",
+        "link": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
+        "pubDate": "2026-08-16T01:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+        "link": "https://www.micdrop.gg/",
+        "pubDate": "2026-08-16T00:46",
+        "feedId": "hn"
       }
     ]
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "I thought I was building a C replacement. I was wrong",
+        "link": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
+        "pubDate": "2026-08-16T14:05",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Protecting the Rust standard library from accidental breakage",
+        "link": "https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/",
+        "pubDate": "2026-08-16T13:59",
+        "feedId": "lobsters"
+      },
       {
         "title": "Firefox is now the last major browser that still supports uBlock Origin",
         "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
@@ -116,21 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Zig Day Seattle, WA #3",
-        "link": "https://zig.day/usa/seattle/3/",
-        "pubDate": "2026-08-15T21:18",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What's missing to have reproducible builds on PyPI",
         "link": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
         "pubDate": "2026-08-16T03:41",
         "feedId": "lobsters"
       },
       {
-        "title": "Aiki reaches recursive self-interpretation",
-        "link": "https://decuser.github.io/posts/aiki-alpha-mileston26-update/",
-        "pubDate": "2026-08-16T03:13",
+        "title": "Zig Day Seattle, WA #3",
+        "link": "https://zig.day/usa/seattle/3/",
+        "pubDate": "2026-08-15T21:18",
         "feedId": "lobsters"
       },
       {
@@ -140,33 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Recap: Software Should Work 2026",
-        "link": "https://bencornia.com/blog/recap-software-should-work-2026",
-        "pubDate": "2026-08-15T20:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How Is Compression Prediction?",
-        "link": "https://lukefleed.xyz/posts/compression/",
-        "pubDate": "2026-08-15T13:01",
-        "feedId": "lobsters"
-      },
-      {
         "title": "A Tour of Magit's Status Interface",
         "link": "https://heiwiper.com/posts/magit-status-tour/",
         "pubDate": "2026-08-16T10:30",
         "feedId": "lobsters"
       },
       {
-        "title": "What do you think of LazyPromise as a lightweight alternative to Effect?",
-        "link": "https://github.com/lazy-promise/lazy-promise",
-        "pubDate": "2026-08-15T23:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Power Relations",
-        "link": "https://corbinsimpson.com/words/power-relations.html",
-        "pubDate": "2026-08-15T18:07",
+        "title": "Aiki reaches recursive self-interpretation",
+        "link": "https://decuser.github.io/posts/aiki-alpha-mileston26-update/",
+        "pubDate": "2026-08-16T03:13",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Flirt: GitHub and Mailing List backends",
-        "link": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
-        "pubDate": "2026-08-15T12:37",
+        "title": "Recap: Software Should Work 2026",
+        "link": "https://bencornia.com/blog/recap-software-should-work-2026",
+        "pubDate": "2026-08-15T20:01",
         "feedId": "lobsters"
       },
       {
-        "title": "Software Engineering fundamentals matter more than ever",
-        "link": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
-        "pubDate": "2026-08-16T05:21",
+        "title": "Power Relations",
+        "link": "https://corbinsimpson.com/words/power-relations.html",
+        "pubDate": "2026-08-15T18:07",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How Is Compression Prediction?",
+        "link": "https://lukefleed.xyz/posts/compression/",
+        "pubDate": "2026-08-15T13:01",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What do you think of LazyPromise as a lightweight alternative to Effect?",
+        "link": "https://github.com/lazy-promise/lazy-promise",
+        "pubDate": "2026-08-15T23:22",
         "feedId": "lobsters"
       }
     ]
