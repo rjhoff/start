@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "MathCode, Mathematical Coding Agent",
+        "link": "https://math-ai-org.github.io/mathcode/",
+        "pubDate": "2026-08-16T18:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+        "link": "https://news.ycombinator.com/item?id=49322107",
+        "pubDate": "2026-08-16T17:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+        "link": "https://rvembedded.com/blog_post/12/",
+        "pubDate": "2026-08-16T17:01",
+        "feedId": "hn"
+      },
+      {
         "title": "NIH is ending a key grant for budding clinical researchers",
         "link": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
         "pubDate": "2026-08-16T16:14",
@@ -45,12 +63,6 @@
         "feedId": "hn"
       },
       {
-        "title": "A U.S. Strategy to Prevent the Creation of Mirror Life",
-        "link": "https://www.rand.org/pubs/research_reports/RRA4335-1.html",
-        "pubDate": "2026-08-16T13:09",
-        "feedId": "hn"
-      },
-      {
         "title": "Firefox for iOS now has a native adblocker",
         "link": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
         "pubDate": "2026-08-16T12:58",
@@ -79,18 +91,6 @@
         "link": "https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer",
         "pubDate": "2026-08-16T12:00",
         "feedId": "hn"
-      },
-      {
-        "title": "AI Coding Without the Vibes",
-        "link": "https://peterbloem.nl/blog/craft-coding",
-        "pubDate": "2026-08-16T10:31",
-        "feedId": "hn"
-      },
-      {
-        "title": "Guiding Ships with Moire Patterns (2018)",
-        "link": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
-        "pubDate": "2026-08-16T01:26",
-        "feedId": "hn"
       }
     ]
   },
@@ -116,6 +116,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "A Tour of Magit's Status Interface",
+        "link": "https://heiwiper.com/posts/magit-status-tour/",
+        "pubDate": "2026-08-16T10:30",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Firefox is now the last major browser that still supports uBlock Origin",
         "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
         "pubDate": "2026-08-15T05:08",
@@ -128,9 +134,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A Tour of Magit's Status Interface",
-        "link": "https://heiwiper.com/posts/magit-status-tour/",
-        "pubDate": "2026-08-16T10:30",
+        "title": "A Third World Embedded Engineer Responds to \"RISC-V: They Should Have Known Better\"",
+        "link": "https://rvembedded.com/blog_post/12/",
+        "pubDate": "2026-08-16T17:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "People of ACM - Russ Cox",
+        "link": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
+        "pubDate": "2026-08-16T16:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Anti-Social Media",
+        "link": "https://christianheilmann.com/2026/08/11/anti-social-media/",
+        "pubDate": "2026-08-16T17:05",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What's missing to have reproducible builds on PyPI",
-        "link": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
-        "pubDate": "2026-08-16T03:41",
+        "title": "You can just choose how many bugs you want now",
+        "link": "https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/",
+        "pubDate": "2026-08-16T18:18",
         "feedId": "lobsters"
       },
       {
-        "title": "Zig Day Seattle, WA #3",
-        "link": "https://zig.day/usa/seattle/3/",
-        "pubDate": "2026-08-15T21:18",
+        "title": "What's missing to have reproducible builds on PyPI",
+        "link": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
+        "pubDate": "2026-08-16T03:41",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +176,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Zig Day Seattle, WA #3",
+        "link": "https://zig.day/usa/seattle/3/",
+        "pubDate": "2026-08-15T21:18",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Recap: Software Should Work 2026",
         "link": "https://bencornia.com/blog/recap-software-should-work-2026",
         "pubDate": "2026-08-15T20:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Aiki reaches recursive self-interpretation",
-        "link": "https://decuser.github.io/posts/aiki-alpha-mileston26-update/",
-        "pubDate": "2026-08-16T03:13",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Monitoring SystemD services with Healthchecks.io",
-        "link": "https://passbe.com/2022/healthchecks-io-systemd-checks/",
-        "pubDate": "2026-08-16T11:54",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Software Engineering fundamentals matter more than ever",
-        "link": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
-        "pubDate": "2026-08-16T05:21",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Power Relations",
-        "link": "https://corbinsimpson.com/words/power-relations.html",
-        "pubDate": "2026-08-15T18:07",
         "feedId": "lobsters"
       }
     ]
@@ -300,6 +300,12 @@
         "feedId": "axios"
       },
       {
+        "title": "Scoop: Inside Trump's secret backchannel to Iran's Revolutionary Guard",
+        "link": "https://www.axios.com/2026/08/16/iran-backchannel-trump-gabbard-barzani-war",
+        "pubDate": "2026-08-16T09:00",
+        "feedId": "axios"
+      },
+      {
         "title": "College loses its monopoly on the American Dream",
         "link": "https://www.axios.com/2026/08/15/college-bachelors-degree-shift-ai-america",
         "pubDate": "2026-08-15T10:00",
@@ -369,12 +375,6 @@
         "title": "AI scrambles the political map",
         "link": "https://www.axios.com/2026/08/14/ai-scrambles-political-map",
         "pubDate": "2026-08-14T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "GOP finds its next progressive target in Minnesota",
-        "link": "https://www.axios.com/2026/08/14/gop-progressive-target-flanagan-minnesota",
-        "pubDate": "2026-08-14T09:10",
         "feedId": "axios"
       }
     ]
