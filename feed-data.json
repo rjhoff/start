@@ -15,12 +15,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Government sponsored study on alcohol doesn't stand up to scrutiny",
-        "link": "https://nntaleb.substack.com/p/have-another-drink",
-        "pubDate": "2026-08-16T03:23",
-        "feedId": "hn"
-      },
-      {
         "title": "Zapping Rocks Unlocks Stimulated Geologic Hydrogen",
         "link": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
         "pubDate": "2026-08-16T02:36",
@@ -91,6 +85,12 @@
         "link": "https://www.henrikkarlsson.xyz/p/good-ideas",
         "pubDate": "2026-08-15T20:54",
         "feedId": "hn"
+      },
+      {
+        "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+        "link": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+        "pubDate": "2026-08-15T19:20",
+        "feedId": "hn"
       }
     ]
   },
@@ -122,6 +122,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "What's missing to have reproducible builds on PyPI",
+        "link": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
+        "pubDate": "2026-08-16T03:41",
+        "feedId": "lobsters"
+      },
+      {
         "title": "How Is Compression Prediction?",
         "link": "https://lukefleed.xyz/posts/compression/",
         "pubDate": "2026-08-15T13:01",
@@ -131,12 +137,6 @@
         "title": "Recap: Software Should Work 2026",
         "link": "https://bencornia.com/blog/recap-software-should-work-2026",
         "pubDate": "2026-08-15T20:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What's missing to have reproducible builds on PyPI",
-        "link": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
-        "pubDate": "2026-08-16T03:41",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +152,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Aiki reaches recursive self-interpretation",
-        "link": "https://decuser.github.io/posts/aiki-alpha-mileston26-update/",
-        "pubDate": "2026-08-16T03:13",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Flirt: GitHub and Mailing List backends",
         "link": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
         "pubDate": "2026-08-15T12:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Aiki reaches recursive self-interpretation",
+        "link": "https://decuser.github.io/posts/aiki-alpha-mileston26-update/",
+        "pubDate": "2026-08-16T03:13",
         "feedId": "lobsters"
       },
       {
