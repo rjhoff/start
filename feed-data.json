@@ -3,9 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "ChatGPT lost 22 points of web share in a year",
-        "link": "https://aicharts.grok.me/c/market-share",
-        "pubDate": "2026-08-16T00:22",
+        "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+        "link": "https://www.micdrop.gg/",
+        "pubDate": "2026-08-16T00:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
+        "link": "https://waku.sh",
+        "pubDate": "2026-08-16T00:38",
+        "feedId": "hn"
+      },
+      {
+        "title": "Big Pickle on SWE Atlas – Codebase QnA",
+        "link": "https://github.com/PhillipChaffee/big-pickle-swe-atlas",
+        "pubDate": "2026-08-16T00:10",
         "feedId": "hn"
       },
       {
@@ -15,9 +27,21 @@
         "feedId": "hn"
       },
       {
-        "title": "Credit card debt rises to $1.26T, nearing all-time record",
-        "link": "https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/",
-        "pubDate": "2026-08-15T23:22",
+        "title": "Decoding smell: Study reveals how odor signals shapeshift in the wind",
+        "link": "https://www.colorado.edu/today/2026/08/10/decoding-smell-study-reveals-how-odor-signals-shapeshift-wind",
+        "pubDate": "2026-08-15T22:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+        "link": "https://arxiv.org/abs/2608.13122",
+        "pubDate": "2026-08-15T22:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "Software Engineering fundamentals matter more",
+        "link": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+        "pubDate": "2026-08-15T22:31",
         "feedId": "hn"
       },
       {
@@ -27,9 +51,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Modeling and Verification of Keeta's Consensus [pdf]",
-        "link": "https://xescu.re/keeta-consensus.pdf",
-        "pubDate": "2026-08-15T21:49",
+        "title": "Show HN: Bribes.fyi – Compare bribes statistics department wise",
+        "link": "https://bribes.fyi/compare",
+        "pubDate": "2026-08-15T22:11",
         "feedId": "hn"
       },
       {
@@ -63,33 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Humazon",
-        "link": "https://hughhowey.com/humazon/",
-        "pubDate": "2026-08-15T20:18",
-        "feedId": "hn"
-      },
-      {
         "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
         "link": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
         "pubDate": "2026-08-15T19:20",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI in drug discovery – what it is, where we stand and the path forward",
-        "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-        "pubDate": "2026-08-15T19:12",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tess's Android Wayland Compositor",
-        "link": "https://github.com/wmww/tawc",
-        "pubDate": "2026-08-15T18:34",
-        "feedId": "hn"
-      },
-      {
-        "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
-        "link": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
-        "pubDate": "2026-08-15T18:33",
         "feedId": "hn"
       }
     ]
@@ -122,21 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "RISC-V: They Should Have Known Better",
-        "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-        "pubDate": "2026-08-14T19:12",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Zig Day Seattle, WA #3",
         "link": "https://zig.day/usa/seattle/3/",
         "pubDate": "2026-08-15T21:18",
         "feedId": "lobsters"
       },
       {
-        "title": "Flirt: GitHub and Mailing List backends",
-        "link": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
-        "pubDate": "2026-08-15T12:37",
+        "title": "RISC-V: They Should Have Known Better",
+        "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+        "pubDate": "2026-08-14T19:12",
         "feedId": "lobsters"
       },
       {
@@ -146,21 +140,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Flirt: GitHub and Mailing List backends",
+        "link": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
+        "pubDate": "2026-08-15T12:37",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Power Relations",
         "link": "https://corbinsimpson.com/words/power-relations.html",
         "pubDate": "2026-08-15T18:07",
         "feedId": "lobsters"
       },
       {
-        "title": "Serokell’s Work on GHC: Dependent Types, Part 5",
-        "link": "https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-5",
-        "pubDate": "2026-08-15T10:42",
-        "feedId": "lobsters"
-      },
-      {
         "title": "A Programming Paradigm for Spatiotemporal Composability",
         "link": "https://github.com/cordiverse/paper/blob/main/paper.pdf",
         "pubDate": "2026-08-15T23:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Serokell’s Work on GHC: Dependent Types, Part 5",
+        "link": "https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-5",
+        "pubDate": "2026-08-15T10:42",
         "feedId": "lobsters"
       },
       {
