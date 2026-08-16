@@ -134,6 +134,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Haskell: origins, evolution, and future",
+        "link": "https://www.youtube.com/watch?v=MQeIerDsReA&t=673s",
+        "pubDate": "2026-08-16T07:17",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Recap: Software Should Work 2026",
         "link": "https://bencornia.com/blog/recap-software-should-work-2026",
         "pubDate": "2026-08-15T20:01",
@@ -146,9 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "RISC-V: They Should Have Known Better",
-        "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-        "pubDate": "2026-08-14T19:12",
+        "title": "What do you think of LazyPromise as a lightweight alternative to Effect?",
+        "link": "https://github.com/lazy-promise/lazy-promise",
+        "pubDate": "2026-08-15T23:22",
         "feedId": "lobsters"
       },
       {
@@ -158,21 +164,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "RISC-V: They Should Have Known Better",
+        "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+        "pubDate": "2026-08-14T19:12",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Aiki reaches recursive self-interpretation",
         "link": "https://decuser.github.io/posts/aiki-alpha-mileston26-update/",
         "pubDate": "2026-08-16T03:13",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What do you think of LazyPromise as a lightweight alternative to Effect?",
-        "link": "https://github.com/lazy-promise/lazy-promise",
-        "pubDate": "2026-08-15T23:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A Programming Paradigm for Spatiotemporal Composability",
-        "link": "https://github.com/cordiverse/paper/blob/main/paper.pdf",
-        "pubDate": "2026-08-15T23:11",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Serokell’s Work on GHC: Dependent Types, Part 5",
-        "link": "https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-5",
-        "pubDate": "2026-08-15T10:42",
+        "title": "A Programming Paradigm for Spatiotemporal Composability",
+        "link": "https://github.com/cordiverse/paper/blob/main/paper.pdf",
+        "pubDate": "2026-08-15T23:11",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "How AI could bring Mayo-quality health care to everyone",
+        "link": "https://www.axios.com/2026/08/16/ai-mayo-clinic-health-care-fix-jim-vandehei",
+        "pubDate": "2026-08-16T10:00",
+        "feedId": "axios"
+      },
+      {
         "title": "College loses its monopoly on the American Dream",
         "link": "https://www.axios.com/2026/08/15/college-bachelors-degree-shift-ai-america",
         "pubDate": "2026-08-15T10:00",
@@ -368,12 +374,6 @@
       {
         "title": "A convergence of biological risks",
         "link": "https://www.axios.com/2026/08/14/biological-threats-ai-lab-research",
-        "pubDate": "2026-08-14T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Key W.H. national security aide Andy Baker is departing",
-        "link": "https://www.axios.com/2026/08/14/andy-baker-national-security-needham-sims",
         "pubDate": "2026-08-14T09:00",
         "feedId": "axios"
       }
