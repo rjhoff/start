@@ -1,108 +1,12 @@
 {
   "hn": {
     "id": "hn",
-    "items": [
-      {
-        "title": "The Lonely Men Who Work in Patagonia, at the End of the World",
-        "link": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
-        "pubDate": "2026-08-17T18:34",
-        "feedId": "hn"
-      },
-      {
-        "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
-        "link": "https://blog.roboflow.com/roboflow-playground/",
-        "pubDate": "2026-08-17T18:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "How I Over-Engineered My Book",
-        "link": "https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/",
-        "pubDate": "2026-08-17T18:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-        "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-        "pubDate": "2026-08-17T18:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "Meta faces 'astronomical' consequences as legal fight reaches critical moment",
-        "link": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
-        "pubDate": "2026-08-17T18:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "Llama.cpp v0.1.0",
-        "link": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.0",
-        "pubDate": "2026-08-17T17:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "We Are Forking dotenvy into dotenv-ng",
-        "link": "https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/",
-        "pubDate": "2026-08-17T17:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-        "link": "https://arxiv.org/abs/2608.13759",
-        "pubDate": "2026-08-17T17:54",
-        "feedId": "hn"
-      },
-      {
-        "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-        "link": "https://artificialanalysis.ai/models/qwen3-8-27b",
-        "pubDate": "2026-08-17T17:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "Sun Clock",
-        "link": "https://sunclock.net/",
-        "pubDate": "2026-08-17T16:37",
-        "feedId": "hn"
-      },
-      {
-        "title": "Judge sets framework for Nine PBS to retrieve archival data",
-        "link": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
-        "pubDate": "2026-08-17T16:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-        "link": "https://speko.ai/",
-        "pubDate": "2026-08-17T15:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",
-        "link": "https://saggar.marginalutility.dev/",
-        "pubDate": "2026-08-17T14:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "How to put 170 atoms in an atom",
-        "link": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
-        "pubDate": "2026-08-17T14:21",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-        "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-        "pubDate": "2026-08-17T14:18",
-        "feedId": "hn"
-      }
-    ]
+    "error": "Request timed out after 10000ms",
+    "items": []
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
-      {
-        "title": "Does it make sense to switch to a Github Alternative ?",
-        "link": "https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github",
-        "pubDate": "2026-08-17T14:03",
-        "feedId": "lobsters"
-      },
       {
         "title": "GitHub has alternatives, but no replacement",
         "link": "https://lalitm.com/post/github-alternatives/",
@@ -110,9 +14,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I thought I was building a C replacement. I was wrong",
-        "link": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
-        "pubDate": "2026-08-16T14:05",
+        "title": "Does it make sense to switch to a Github Alternative ?",
+        "link": "https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github",
+        "pubDate": "2026-08-17T14:03",
         "feedId": "lobsters"
       },
       {
@@ -122,9 +26,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Passphrase-less reboots using kexec under NixOS",
-        "link": "https://www.bevuta.com/en/blog/passphraseless-reboots-using-kexec/",
-        "pubDate": "2026-08-17T09:53",
+        "title": "I thought I was building a C replacement. I was wrong",
+        "link": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
+        "pubDate": "2026-08-16T14:05",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +38,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A faster way to calculate the day-of-the-week",
-        "link": "https://www.benjoffe.com/fast-day-of-week",
-        "pubDate": "2026-08-16T20:52",
+        "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)",
+        "link": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
+        "pubDate": "2026-08-17T13:33",
         "feedId": "lobsters"
       },
       {
-        "title": "Thinking about tests: assertions and matchers",
-        "link": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
-        "pubDate": "2026-08-17T10:35",
+        "title": "AI;DR (AI; Didn’t Read)",
+        "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+        "pubDate": "2026-08-17T20:14",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Passphrase-less reboots using kexec under NixOS",
+        "link": "https://www.bevuta.com/en/blog/passphraseless-reboots-using-kexec/",
+        "pubDate": "2026-08-17T09:53",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Writing a Fast Compiler",
+        "link": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
+        "pubDate": "2026-08-17T11:13",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A faster way to calculate the day-of-the-week",
+        "link": "https://www.benjoffe.com/fast-day-of-week",
+        "pubDate": "2026-08-16T20:52",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +74,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)",
-        "link": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
-        "pubDate": "2026-08-17T13:33",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Writing a Fast Compiler",
-        "link": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
-        "pubDate": "2026-08-17T11:13",
+        "title": "Thinking about tests: assertions and matchers",
+        "link": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
+        "pubDate": "2026-08-17T10:35",
         "feedId": "lobsters"
       },
       {
@@ -176,12 +92,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Beyond WASI: Running any Rust application in the browser with BrowserPod 3.0",
-        "link": "https://labs.leaningtech.com/blog/browserpod-rust.html",
-        "pubDate": "2026-08-17T13:49",
-        "feedId": "lobsters"
-      },
-      {
         "title": "MuQSS CPU scheduler for Linux 7.2 by Con Kolivas",
         "link": "https://lore.kernel.org/lkml/CABqErrH=oQ3povVuSPhRON97v63=mB85jQmZjf443ofdYAuxxw@mail.gmail.com/",
         "pubDate": "2026-08-17T12:24",
@@ -192,6 +102,30 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
+        "link": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/",
+        "pubDate": "2026-08-17T20:23",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
+        "link": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
+        "pubDate": "2026-08-17T20:14",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+        "link": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
+        "pubDate": "2026-08-17T20:00",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Petlibro accused of “gaslighting” users over smart pet feeder outage",
+        "link": "https://arstechnica.com/gadgets/2026/08/petlibro-accused-of-gaslighting-users-over-smart-pet-feeder-outage/",
+        "pubDate": "2026-08-17T18:43",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
         "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
@@ -257,36 +191,30 @@
         "link": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
         "pubDate": "2026-08-14T18:00",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-        "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-        "pubDate": "2026-08-14T17:26",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
-        "link": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
-        "pubDate": "2026-08-14T17:13",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
-        "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
-        "pubDate": "2026-08-14T17:03",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Policy experts: Europe stuck between \"rock and a hard place\" on launch",
-        "link": "https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/",
-        "pubDate": "2026-08-14T16:29",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Kindergarten vaccine exemptions rose in 2025-2026: CDC",
+        "link": "https://www.axios.com/2026/08/17/kindergarten-vaccine-rates-fall",
+        "pubDate": "2026-08-17T21:24",
+        "feedId": "axios"
+      },
+      {
+        "title": "Middle East demands are testing America's Pacific presence",
+        "link": "https://www.axios.com/2026/08/17/us-allies-pacific-aircraft-carrier-gap",
+        "pubDate": "2026-08-17T20:10",
+        "feedId": "axios"
+      },
+      {
+        "title": "Congressional Democrats plan Oman war powers push after Trump threatens bombing",
+        "link": "https://www.axios.com/2026/08/17/trump-oman-democrats-congress-war-powers-iran",
+        "pubDate": "2026-08-17T19:32",
+        "feedId": "axios"
+      },
       {
         "title": "Big Bend border wall construction paused by Trump administration",
         "link": "https://www.axios.com/2026/08/17/trump-big-bend-border-wall-construction-paused",
@@ -357,24 +285,6 @@
         "title": "Inside Kushner's Hamas meeting: What comes next in Gaza",
         "link": "https://www.axios.com/2026/08/16/kushner-hamas-gaza-disarmament-egypt-israel",
         "pubDate": "2026-08-16T20:13",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump's views can factor into prosecutions, Attorney General Todd Blanche says",
-        "link": "https://www.axios.com/2026/08/16/todd-blanche-doj-independence-trump",
-        "pubDate": "2026-08-16T19:38",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Inside Trump's secret backchannel to Iran's Revolutionary Guard",
-        "link": "https://www.axios.com/2026/08/16/iran-backchannel-trump-gabbard-barzani-war",
-        "pubDate": "2026-08-16T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "College loses its monopoly on the American Dream",
-        "link": "https://www.axios.com/2026/08/15/college-bachelors-degree-shift-ai-america",
-        "pubDate": "2026-08-15T10:00",
         "feedId": "axios"
       }
     ]
