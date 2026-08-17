@@ -3,15 +3,9 @@
     "id": "hn",
     "items": [
       {
-        "title": "HackEurope 2026: A short rant on AI and hackathons",
-        "link": "https://duti.dev/blog/2026/spr/",
-        "pubDate": "2026-08-17T07:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "$12B of US ratepayers' money wasted on a modeling mistake in PJM",
-        "link": "https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted",
-        "pubDate": "2026-08-17T05:22",
+        "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
+        "link": "https://desktopcolors.com",
+        "pubDate": "2026-08-17T07:51",
         "feedId": "hn"
       },
       {
@@ -87,6 +81,12 @@
         "feedId": "hn"
       },
       {
+        "title": "Stripe will reportedly acquire OpenRouter for $7B+",
+        "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+        "pubDate": "2026-08-16T20:31",
+        "feedId": "hn"
+      },
+      {
         "title": "An open-source, candle-only crypto pump detector–looking for ML contributors",
         "link": "https://github.com/aleks-ent/pump-dump-crypto-screener",
         "pubDate": "2026-08-16T20:16",
@@ -122,57 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A Third World Embedded Engineer Responds to \"RISC-V: They Should Have Known Better\"",
-        "link": "https://rvembedded.com/blog_post/12/",
-        "pubDate": "2026-08-16T17:28",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "You can just choose how many bugs you want now",
-        "link": "https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/",
-        "pubDate": "2026-08-16T18:18",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "People of ACM - Russ Cox",
-        "link": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
-        "pubDate": "2026-08-16T16:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Models Are Getting Dumber on Purpose",
-        "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-        "pubDate": "2026-08-16T20:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "AI Software Development – What Does The Data Say?",
-        "link": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
-        "pubDate": "2026-08-17T00:08",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A Tour of Magit's Status Interface",
-        "link": "https://heiwiper.com/posts/magit-status-tour/",
-        "pubDate": "2026-08-16T10:30",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Pony's Arena Allocator",
-        "link": "https://www.ponylang.io/blog/2026/08/ponys-arena-allocator/",
-        "pubDate": "2026-08-16T23:48",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "SCM_RIGHTS API quirks (2019)",
-        "link": "https://gist.github.com/kentonv/bc7592af98c68ba2738f4436920868dc",
-        "pubDate": "2026-08-17T04:12",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Human Interface Guidelines from various platforms",
-        "link": "https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/",
-        "pubDate": "2026-08-16T19:56",
+        "title": "Passphrase-less reboots using kexec under NixOS",
+        "link": "https://www.bevuta.com/en/blog/passphraseless-reboots-using-kexec/",
+        "pubDate": "2026-08-17T09:53",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +134,57 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Four levels of in-place initialization",
-        "link": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
-        "pubDate": "2026-08-17T07:50",
+        "title": "A Third World Embedded Engineer Responds to \"RISC-V: They Should Have Known Better\"",
+        "link": "https://rvembedded.com/blog_post/12/",
+        "pubDate": "2026-08-16T17:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "AI Software Development – What Does The Data Say?",
+        "link": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
+        "pubDate": "2026-08-17T00:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "You can just choose how many bugs you want now",
+        "link": "https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/",
+        "pubDate": "2026-08-16T18:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Thinking about tests: assertions and matchers",
+        "link": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
+        "pubDate": "2026-08-17T10:35",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Models Are Getting Dumber on Purpose",
+        "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+        "pubDate": "2026-08-16T20:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "People of ACM - Russ Cox",
+        "link": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
+        "pubDate": "2026-08-16T16:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "SCM_RIGHTS API quirks (2019)",
+        "link": "https://gist.github.com/kentonv/bc7592af98c68ba2738f4436920868dc",
+        "pubDate": "2026-08-17T04:12",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "(What Comes) After FOSS?",
+        "link": "https://infrastructureinsights.fund/projects/what-comes-after-foss/",
+        "pubDate": "2026-08-17T07:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Vetted AI code is hard to justify",
+        "link": "https://amoffat.github.io/blog/vetting-burnout.html",
+        "pubDate": "2026-08-17T11:11",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,36 @@
     "id": "axios",
     "items": [
       {
+        "title": "Birding, silent book club, Mahjong and more: America's meetup explosion",
+        "link": "https://www.axios.com/2026/08/17/meetup-dating-gen-z-loneliness",
+        "pubDate": "2026-08-17T09:40",
+        "feedId": "axios"
+      },
+      {
+        "title": "Why prescription drug prices are plunging",
+        "link": "https://www.axios.com/2026/08/17/drug-prices-medicare-trump",
+        "pubDate": "2026-08-17T09:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "The Democratic establishment's ideas deficit",
+        "link": "https://www.axios.com/2026/08/17/democratic-establishment-socialism-third-way-2028",
+        "pubDate": "2026-08-17T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "How wildfires are changing the U.S. electric grid",
+        "link": "https://www.axios.com/2026/08/17/wildfires-electric-grid-planning-energy-infrastructure",
+        "pubDate": "2026-08-17T09:15",
+        "feedId": "axios"
+      },
+      {
+        "title": "What happens to what you share with AI",
+        "link": "https://www.axios.com/2026/08/17/secrets-share-ai-openai-meta-google-anthropic",
+        "pubDate": "2026-08-17T09:00",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump tells Hegseth to cut back U.S.-South Korea drills",
         "link": "https://www.axios.com/2026/08/16/trump-us-south-korea-military-drills-cut",
         "pubDate": "2026-08-16T21:59",
@@ -345,36 +375,6 @@
         "title": "Luigi Mangione pleads guilty to stalking UnitedHealthcare CEO, admits killing him",
         "link": "https://www.axios.com/2026/08/14/luigi-mangione-plea-trial-brian-thompson-case",
         "pubDate": "2026-08-14T19:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Americans' wanderlust hits new heights",
-        "link": "https://www.axios.com/2026/08/14/americans-overseas-european-travel-boom",
-        "pubDate": "2026-08-14T17:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Dorm rooms are tiny. The dorm decor economy is not.",
-        "link": "https://www.axios.com/2026/08/14/college-dorm-decor-economy",
-        "pubDate": "2026-08-14T17:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Retail sales slump in July",
-        "link": "https://www.axios.com/2026/08/14/retail-sales-amazon-world-cup",
-        "pubDate": "2026-08-14T16:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Consumer sentiment dips, especially among Republicans",
-        "link": "https://www.axios.com/2026/08/14/consumer-sentiment-republicans",
-        "pubDate": "2026-08-14T15:58",
-        "feedId": "axios"
-      },
-      {
-        "title": "OpenAI sheds senior execs in pre-IPO refresh",
-        "link": "https://www.axios.com/2026/08/14/openai-executive-greg-brockman-ipo",
-        "pubDate": "2026-08-14T09:28",
         "feedId": "axios"
       }
     ]
