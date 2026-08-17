@@ -3,15 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "Hayden Panetierre Dies at 36",
-        "link": "https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473",
-        "pubDate": "2026-08-17T04:02",
+        "title": "$12B of US ratepayers' money wasted on a modeling mistake in PJM",
+        "link": "https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted",
+        "pubDate": "2026-08-17T05:22",
         "feedId": "hn"
       },
       {
-        "title": "Gmail might partially be to blame for receiving emails from other Sean Conners",
-        "link": "https://boston.conman.org/2026/08/11.1",
-        "pubDate": "2026-08-17T03:21",
+        "title": "Linear Algebra Done Right – Sheldon Axler",
+        "link": "https://linear.axler.net/",
+        "pubDate": "2026-08-17T05:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "Strong gravitational lensing and microlensing of supernovae (2024)",
+        "link": "https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5",
+        "pubDate": "2026-08-17T02:55",
         "feedId": "hn"
       },
       {
@@ -45,12 +51,6 @@
         "feedId": "hn"
       },
       {
-        "title": "The federal keyword lists that canceled billions in research funding",
-        "link": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
-        "pubDate": "2026-08-17T00:14",
-        "feedId": "hn"
-      },
-      {
         "title": "Reticulum – Decentralized Mesh Network",
         "link": "https://reticulum.network/",
         "pubDate": "2026-08-16T23:59",
@@ -69,8 +69,8 @@
         "feedId": "hn"
       },
       {
-        "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-        "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+        "title": "Stripe will reportedly acquire OpenRouter for $7B+",
+        "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
         "pubDate": "2026-08-16T20:31",
         "feedId": "hn"
       },
@@ -81,7 +81,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Red queen hypothesis – a new way forward for self-improving AI",
+        "title": "Red queen hypothesis – A new way forward for self-improving AI",
         "link": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
         "pubDate": "2026-08-16T20:01",
         "feedId": "hn"
@@ -164,15 +164,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "SCM_RIGHTS API quirks (2019)",
-        "link": "https://gist.github.com/kentonv/bc7592af98c68ba2738f4436920868dc",
-        "pubDate": "2026-08-17T04:12",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Human Interface Guidelines from various platforms",
         "link": "https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/",
         "pubDate": "2026-08-16T19:56",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "SCM_RIGHTS API quirks (2019)",
+        "link": "https://gist.github.com/kentonv/bc7592af98c68ba2738f4436920868dc",
+        "pubDate": "2026-08-17T04:12",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why I remain a skeptic",
-        "link": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
-        "pubDate": "2026-08-15T13:29",
+        "title": "Anti-Social Media",
+        "link": "https://christianheilmann.com/2026/08/11/anti-social-media/",
+        "pubDate": "2026-08-16T17:05",
         "feedId": "lobsters"
       }
     ]
