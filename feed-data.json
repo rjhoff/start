@@ -3,27 +3,57 @@
     "id": "hn",
     "items": [
       {
+        "title": "The Lonely Men Who Work in Patagonia, at the End of the World",
+        "link": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
+        "pubDate": "2026-08-17T18:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
+        "link": "https://blog.roboflow.com/roboflow-playground/",
+        "pubDate": "2026-08-17T18:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "How I Over-Engineered My Book",
+        "link": "https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/",
+        "pubDate": "2026-08-17T18:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+        "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+        "pubDate": "2026-08-17T18:10",
+        "feedId": "hn"
+      },
+      {
         "title": "Meta faces 'astronomical' consequences as legal fight reaches critical moment",
         "link": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
         "pubDate": "2026-08-17T18:06",
         "feedId": "hn"
       },
       {
-        "title": "Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices",
-        "link": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
-        "pubDate": "2026-08-17T17:52",
+        "title": "Llama.cpp v0.1.0",
+        "link": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.0",
+        "pubDate": "2026-08-17T17:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "We Are Forking dotenvy into dotenv-ng",
+        "link": "https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/",
+        "pubDate": "2026-08-17T17:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+        "link": "https://arxiv.org/abs/2608.13759",
+        "pubDate": "2026-08-17T17:54",
         "feedId": "hn"
       },
       {
         "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
         "link": "https://artificialanalysis.ai/models/qwen3-8-27b",
         "pubDate": "2026-08-17T17:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "Buy Your Friends Batteries",
-        "link": "https://domenkozar.com/2026/08/17/buy-your-friends-batteries/",
-        "pubDate": "2026-08-17T16:45",
         "feedId": "hn"
       },
       {
@@ -45,12 +75,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Anthropic's War on open source AI",
-        "link": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-        "pubDate": "2026-08-17T15:24",
-        "feedId": "hn"
-      },
-      {
         "title": "Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",
         "link": "https://saggar.marginalutility.dev/",
         "pubDate": "2026-08-17T14:25",
@@ -67,30 +91,6 @@
         "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
         "pubDate": "2026-08-17T14:18",
         "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Learn Flags Quiz",
-        "link": "https://flagquizzes.com/",
-        "pubDate": "2026-08-17T14:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
-        "link": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
-        "pubDate": "2026-08-17T14:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "How to disable or avoid intrusive AI",
-        "link": "https://www.librarian.net/notoai/",
-        "pubDate": "2026-08-17T14:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ask HN: Alternatives to GitHub",
-        "link": "https://news.ycombinator.com/item?id=49331033",
-        "pubDate": "2026-08-17T13:59",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I thought I was building a C replacement. I was wrong",
-        "link": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
-        "pubDate": "2026-08-16T14:05",
+        "title": "GitHub has alternatives, but no replacement",
+        "link": "https://lalitm.com/post/github-alternatives/",
+        "pubDate": "2026-08-17T17:12",
         "feedId": "lobsters"
       },
       {
-        "title": "Passphrase-less reboots using kexec under NixOS",
-        "link": "https://www.bevuta.com/en/blog/passphraseless-reboots-using-kexec/",
-        "pubDate": "2026-08-17T09:53",
+        "title": "I thought I was building a C replacement. I was wrong",
+        "link": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
+        "pubDate": "2026-08-16T14:05",
         "feedId": "lobsters"
       },
       {
@@ -122,15 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A faster way to calculate the day-of-the-week",
-        "link": "https://www.benjoffe.com/fast-day-of-week",
-        "pubDate": "2026-08-16T20:52",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "GitHub has alternatives, but no replacement",
-        "link": "https://lalitm.com/post/github-alternatives/",
-        "pubDate": "2026-08-17T17:12",
+        "title": "Passphrase-less reboots using kexec under NixOS",
+        "link": "https://www.bevuta.com/en/blog/passphraseless-reboots-using-kexec/",
+        "pubDate": "2026-08-17T09:53",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +134,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Every Fucking Website",
-        "link": "https://op.tngl.io/every-fucking-website/",
-        "pubDate": "2026-08-16T16:26",
+        "title": "A faster way to calculate the day-of-the-week",
+        "link": "https://www.benjoffe.com/fast-day-of-week",
+        "pubDate": "2026-08-16T20:52",
         "feedId": "lobsters"
       },
       {
         "title": "Thinking about tests: assertions and matchers",
         "link": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
         "pubDate": "2026-08-17T10:35",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Every Fucking Website",
+        "link": "https://op.tngl.io/every-fucking-website/",
+        "pubDate": "2026-08-16T16:26",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Four levels of in-place initialization",
-        "link": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
-        "pubDate": "2026-08-17T07:50",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
         "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
         "pubDate": "2026-08-17T14:39",
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/5p0kgt/what_are_you_doing_this_week",
-        "pubDate": "2026-08-17T07:30",
+        "title": "Four levels of in-place initialization",
+        "link": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
+        "pubDate": "2026-08-17T07:50",
         "feedId": "lobsters"
       },
       {
-        "title": "Starting a Decompilation Project from Zero: Claude Code and 51% of a 2001 GBA Game",
-        "link": "https://gambiconf.substack.com/p/starting-a-decompilation-project",
-        "pubDate": "2026-08-17T16:10",
+        "title": "Beyond WASI: Running any Rust application in the browser with BrowserPod 3.0",
+        "link": "https://labs.leaningtech.com/blog/browserpod-rust.html",
+        "pubDate": "2026-08-17T13:49",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "MuQSS CPU scheduler for Linux 7.2 by Con Kolivas",
+        "link": "https://lore.kernel.org/lkml/CABqErrH=oQ3povVuSPhRON97v63=mB85jQmZjf443ofdYAuxxw@mail.gmail.com/",
+        "pubDate": "2026-08-17T12:24",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "Big Bend border wall construction paused by Trump administration",
+        "link": "https://www.axios.com/2026/08/17/trump-big-bend-border-wall-construction-paused",
+        "pubDate": "2026-08-17T19:01",
+        "feedId": "axios"
+      },
+      {
+        "title": "Kushner urges Netanyahu to test Hamas disarmament in Gaza",
+        "link": "https://www.axios.com/2026/08/17/kushner-netanyahu-hamas-gaza",
+        "pubDate": "2026-08-17T18:41",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump fails to undo E. Jean Carroll verdict at Supreme Court",
         "link": "https://www.axios.com/2026/08/17/supreme-court-rejects-trump-e-jean-carroll-verdict",
         "pubDate": "2026-08-17T15:22",
@@ -363,18 +375,6 @@
         "title": "College loses its monopoly on the American Dream",
         "link": "https://www.axios.com/2026/08/15/college-bachelors-degree-shift-ai-america",
         "pubDate": "2026-08-15T10:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"There's no point\": AI forces college students to rethink their major",
-        "link": "https://www.axios.com/2026/08/15/college-major-ai-skills-job-search",
-        "pubDate": "2026-08-15T09:50",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln",
-        "link": "https://www.axios.com/2026/08/14/trump-uss-abraham-lincoln-deployment-middle-east",
-        "pubDate": "2026-08-14T20:19",
         "feedId": "axios"
       }
     ]
