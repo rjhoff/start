@@ -3,6 +3,36 @@
     "id": "hn",
     "items": [
       {
+        "title": "Incident with Github.com",
+        "link": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+        "pubDate": "2026-08-17T13:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "GitHub down again? no PR access",
+        "link": "https://news.ycombinator.com/item?id=49330632",
+        "pubDate": "2026-08-17T13:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: 1667, a terminal UI for writing fiction with language models",
+        "link": "https://1667.ai/",
+        "pubDate": "2026-08-17T13:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tell HN: GitHub Is Experiencing Degraded Performance",
+        "link": "https://news.ycombinator.com/item?id=49330597",
+        "pubDate": "2026-08-17T13:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
+        "pubDate": "2026-08-17T13:24",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: Sokoban AI Solver",
         "link": "https://mkornreich.me/projects/sokoban/",
         "pubDate": "2026-08-17T13:07",
@@ -39,12 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Self hosted email continues to steeply decline",
-        "link": "https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/",
-        "pubDate": "2026-08-17T10:45",
-        "feedId": "hn"
-      },
-      {
         "title": "Pi coding agent: config folder is out of place on Linux",
         "link": "https://github.com/earendil-works/pi/issues/534",
         "pubDate": "2026-08-17T09:11",
@@ -67,30 +91,6 @@
         "link": "https://twitter.com/DarioAmodei/status/2088758816376807762",
         "pubDate": "2026-08-17T01:59",
         "feedId": "hn"
-      },
-      {
-        "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
-        "link": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
-        "pubDate": "2026-08-17T01:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "Prolly: A content-addressed ordered map built on prolly trees",
-        "link": "https://github.com/crabbuild/prolly",
-        "pubDate": "2026-08-17T01:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Rhombus 1.1 is now available",
-        "link": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
-        "pubDate": "2026-08-17T00:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "Applying a photosynthetic process to treat “dry eye”",
-        "link": "https://www.science.org/content/blog-post/taking-tip-plants-eyes",
-        "pubDate": "2026-08-17T00:35",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Every Fucking Website",
-        "link": "https://op.tngl.io/every-fucking-website/",
-        "pubDate": "2026-08-16T16:26",
-        "feedId": "lobsters"
-      },
-      {
         "title": "A faster way to calculate the day-of-the-week",
         "link": "https://www.benjoffe.com/fast-day-of-week",
         "pubDate": "2026-08-16T20:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Every Fucking Website",
+        "link": "https://op.tngl.io/every-fucking-website/",
+        "pubDate": "2026-08-16T16:26",
         "feedId": "lobsters"
       },
       {
@@ -134,27 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Thinking about tests: assertions and matchers",
-        "link": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
-        "pubDate": "2026-08-17T10:35",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Four levels of in-place initialization",
         "link": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
         "pubDate": "2026-08-17T07:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "(What Comes) After FOSS?",
-        "link": "https://infrastructureinsights.fund/projects/what-comes-after-foss/",
-        "pubDate": "2026-08-17T07:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "AI Software Development – What Does The Data Say?",
-        "link": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
-        "pubDate": "2026-08-17T00:08",
         "feedId": "lobsters"
       },
       {
@@ -164,9 +146,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Thinking about tests: assertions and matchers",
+        "link": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
+        "pubDate": "2026-08-17T10:35",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Writing a Fast Compiler",
+        "link": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
+        "pubDate": "2026-08-17T11:13",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "AI Software Development – What Does The Data Say?",
+        "link": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
+        "pubDate": "2026-08-17T00:08",
+        "feedId": "lobsters"
+      },
+      {
         "title": "MuQSS CPU scheduler for Linux 7.2 by Con Kolivas",
         "link": "https://lore.kernel.org/lkml/CABqErrH=oQ3povVuSPhRON97v63=mB85jQmZjf443ofdYAuxxw@mail.gmail.com/",
         "pubDate": "2026-08-17T12:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "(What Comes) After FOSS?",
+        "link": "https://infrastructureinsights.fund/projects/what-comes-after-foss/",
+        "pubDate": "2026-08-17T07:47",
         "feedId": "lobsters"
       },
       {
@@ -180,18 +186,18 @@
         "link": "https://stonetools.ghost.io/appleworks-apple2/",
         "pubDate": "2026-08-17T12:41",
         "feedId": "lobsters"
-      },
-      {
-        "title": "SCM_RIGHTS API quirks (2019)",
-        "link": "https://gist.github.com/kentonv/bc7592af98c68ba2738f4436920868dc",
-        "pubDate": "2026-08-17T04:12",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Meet the only known trebuchet casualty in history",
+        "link": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
+        "pubDate": "2026-08-17T13:41",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Satellite operators are in panic mode due to a worsening launch crisis",
         "link": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/",
@@ -275,18 +281,18 @@
         "link": "https://arstechnica.com/culture/2026/08/r-rated-directors-cut-of-x-files-film-restores-chris-carters-original-horror-vision/",
         "pubDate": "2026-08-14T15:18",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Taylor Farms' connections to Trump admin spurs probe into Cyclospora response",
-        "link": "https://arstechnica.com/health/2026/08/taylor-farms-connections-to-trump-admin-spurs-probe-into-cyclospora-response/",
-        "pubDate": "2026-08-14T15:03",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Trump fails to undo E. Jean Carroll verdict at Supreme Court",
+        "link": "https://www.axios.com/2026/08/17/supreme-court-rejects-trump-e-jean-carroll-verdict",
+        "pubDate": "2026-08-17T14:00",
+        "feedId": "axios"
+      },
       {
         "title": "Birding, silent book club, Mahjong and more: America's meetup explosion",
         "link": "https://www.axios.com/2026/08/17/meetup-dating-gen-z-loneliness",
@@ -369,12 +375,6 @@
         "title": "Luigi Mangione pleads guilty to stalking UnitedHealthcare CEO, admits killing him",
         "link": "https://www.axios.com/2026/08/14/luigi-mangione-plea-trial-brian-thompson-case",
         "pubDate": "2026-08-14T19:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Americans' wanderlust hits new heights",
-        "link": "https://www.axios.com/2026/08/14/americans-overseas-european-travel-boom",
-        "pubDate": "2026-08-14T17:30",
         "feedId": "axios"
       }
     ]
