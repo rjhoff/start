@@ -3,15 +3,15 @@
     "id": "hn",
     "items": [
       {
-        "title": "Gmail might partially be to blame for receiving emails from other Sean Conners",
-        "link": "https://boston.conman.org/2026/08/11.1",
-        "pubDate": "2026-08-17T03:21",
+        "title": "Hayden Panetierre Dies at 36",
+        "link": "https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473",
+        "pubDate": "2026-08-17T04:02",
         "feedId": "hn"
       },
       {
-        "title": "If Meta loses this trial, Instagram and Facebook could change forever",
-        "link": "https://www.bbc.com/news/articles/clyqpx6xk69o",
-        "pubDate": "2026-08-17T02:28",
+        "title": "Gmail might partially be to blame for receiving emails from other Sean Conners",
+        "link": "https://boston.conman.org/2026/08/11.1",
+        "pubDate": "2026-08-17T03:21",
         "feedId": "hn"
       },
       {
@@ -33,7 +33,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Applying a photosynthetic process to treat \"dry eye\"",
+        "title": "Applying a photosynthetic process to treat “dry eye”",
         "link": "https://www.science.org/content/blog-post/taking-tip-plants-eyes",
         "pubDate": "2026-08-17T00:35",
         "feedId": "hn"
@@ -158,6 +158,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "AI Software Development – What Does The Data Say?",
+        "link": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
+        "pubDate": "2026-08-17T00:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "SCM_RIGHTS API quirks (2019)",
+        "link": "https://gist.github.com/kentonv/bc7592af98c68ba2738f4436920868dc",
+        "pubDate": "2026-08-17T04:12",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Human Interface Guidelines from various platforms",
         "link": "https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/",
         "pubDate": "2026-08-16T19:56",
@@ -173,18 +185,6 @@
         "title": "Why I remain a skeptic",
         "link": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
         "pubDate": "2026-08-15T13:29",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "AI Software Development – What Does The Data Say?",
-        "link": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
-        "pubDate": "2026-08-17T00:08",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Anti-Social Media",
-        "link": "https://christianheilmann.com/2026/08/11/anti-social-media/",
-        "pubDate": "2026-08-16T17:05",
         "feedId": "lobsters"
       }
     ]
