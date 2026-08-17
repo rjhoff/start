@@ -3,33 +3,57 @@
     "id": "hn",
     "items": [
       {
+        "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+        "link": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+        "pubDate": "2026-08-17T01:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "Prolly: A content-addressed ordered map built on prolly trees",
+        "link": "https://github.com/crabbuild/prolly",
+        "pubDate": "2026-08-17T01:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Rhombus 1.1 is now available",
+        "link": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+        "pubDate": "2026-08-17T00:48",
+        "feedId": "hn"
+      },
+      {
+        "title": "Applying a photosynthetic process to treat \"dry eye\"",
+        "link": "https://www.science.org/content/blog-post/taking-tip-plants-eyes",
+        "pubDate": "2026-08-17T00:35",
+        "feedId": "hn"
+      },
+      {
         "title": "The Life and Death of Direct File [pdf]",
         "link": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
         "pubDate": "2026-08-17T00:17",
         "feedId": "hn"
       },
       {
-        "title": "Webmaster a Manifesto for Everyone",
-        "link": "https://brennan.day/webmaster-a-manifesto-for-everyone/",
-        "pubDate": "2026-08-17T00:04",
+        "title": "The federal keyword lists that canceled billions in research funding",
+        "link": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
+        "pubDate": "2026-08-17T00:14",
         "feedId": "hn"
       },
       {
-        "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-        "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-        "pubDate": "2026-08-16T21:53",
+        "title": "Reticulum – Decentralized Mesh Network",
+        "link": "https://reticulum.network/",
+        "pubDate": "2026-08-16T23:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+        "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+        "pubDate": "2026-08-16T23:45",
         "feedId": "hn"
       },
       {
         "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
         "link": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
         "pubDate": "2026-08-16T21:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Case Against Formal Verification, 50 Years Later",
-        "link": "https://ivan-gavran.github.io/0-social-processes-paper",
-        "pubDate": "2026-08-16T20:38",
         "feedId": "hn"
       },
       {
@@ -42,6 +66,12 @@
         "title": "An open-source, candle-only crypto pump detector–looking for ML contributors",
         "link": "https://github.com/aleks-ent/pump-dump-crypto-screener",
         "pubDate": "2026-08-16T20:16",
+        "feedId": "hn"
+      },
+      {
+        "title": "Red queen hypothesis – a new way forward for self-improving AI",
+        "link": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+        "pubDate": "2026-08-16T20:01",
         "feedId": "hn"
       },
       {
@@ -60,36 +90,6 @@
         "title": "MathCode, Mathematical Coding Agent",
         "link": "https://math-ai-org.github.io/mathcode/",
         "pubDate": "2026-08-16T18:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
-        "link": "https://news.ycombinator.com/item?id=49322107",
-        "pubDate": "2026-08-16T17:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
-        "link": "https://rvembedded.com/blog_post/12/",
-        "pubDate": "2026-08-16T17:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "NIH is ending a key grant for budding clinical researchers",
-        "link": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
-        "pubDate": "2026-08-16T16:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-        "link": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
-        "pubDate": "2026-08-16T15:16",
-        "feedId": "hn"
-      },
-      {
-        "title": "The AI Credit Resale Economy",
-        "link": "https://vectoral.com/blog/who-are-the-token-brokers",
-        "pubDate": "2026-08-16T14:44",
         "feedId": "hn"
       }
     ]
@@ -158,6 +158,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Human Interface Guidelines from various platforms",
+        "link": "https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/",
+        "pubDate": "2026-08-16T19:56",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Firefox is now the last major browser that still supports uBlock Origin",
         "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
         "pubDate": "2026-08-15T05:08",
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Anti-Social Media",
-        "link": "https://christianheilmann.com/2026/08/11/anti-social-media/",
-        "pubDate": "2026-08-16T17:05",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Human Interface Guidelines from various platforms",
-        "link": "https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/",
-        "pubDate": "2026-08-16T19:56",
-        "feedId": "lobsters"
-      },
-      {
         "title": "AI Software Development – What Does The Data Say?",
         "link": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
         "pubDate": "2026-08-17T00:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Anti-Social Media",
+        "link": "https://christianheilmann.com/2026/08/11/anti-social-media/",
+        "pubDate": "2026-08-16T17:05",
         "feedId": "lobsters"
       }
     ]
