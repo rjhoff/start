@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "People are worried about America's solvency",
+        "link": "https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e",
+        "pubDate": "2026-08-17T11:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "Self hosted email continues to steeply decline",
+        "link": "https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/",
+        "pubDate": "2026-08-17T10:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Marxist Case for the Technofeudal Hypothesis",
+        "link": "https://jacobin.com/2026/08/varoufakis-tech-capital-marxism-technofeudalism",
+        "pubDate": "2026-08-17T10:44",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
         "link": "https://desktopcolors.com",
         "pubDate": "2026-08-17T07:51",
@@ -18,12 +36,6 @@
         "title": "GIMP Development Update",
         "link": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
         "pubDate": "2026-08-17T03:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "Strong gravitational lensing and microlensing of supernovae (2024)",
-        "link": "https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5",
-        "pubDate": "2026-08-17T02:55",
         "feedId": "hn"
       },
       {
@@ -57,12 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "The Life and Death of Direct File [pdf]",
-        "link": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
-        "pubDate": "2026-08-17T00:17",
-        "feedId": "hn"
-      },
-      {
         "title": "Reticulum – Decentralized Mesh Network",
         "link": "https://reticulum.network/",
         "pubDate": "2026-08-16T23:59",
@@ -85,12 +91,6 @@
         "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
         "pubDate": "2026-08-16T20:31",
         "feedId": "hn"
-      },
-      {
-        "title": "An open-source, candle-only crypto pump detector–looking for ML contributors",
-        "link": "https://github.com/aleks-ent/pump-dump-crypto-screener",
-        "pubDate": "2026-08-16T20:16",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,21 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Every Fucking Website",
-        "link": "https://op.tngl.io/every-fucking-website/",
-        "pubDate": "2026-08-16T16:26",
-        "feedId": "lobsters"
-      },
-      {
         "title": "A faster way to calculate the day-of-the-week",
         "link": "https://www.benjoffe.com/fast-day-of-week",
         "pubDate": "2026-08-16T20:52",
         "feedId": "lobsters"
       },
       {
-        "title": "Protecting the Rust standard library from accidental breakage",
-        "link": "https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/",
-        "pubDate": "2026-08-16T13:59",
+        "title": "Every Fucking Website",
+        "link": "https://op.tngl.io/every-fucking-website/",
+        "pubDate": "2026-08-16T16:26",
         "feedId": "lobsters"
       },
       {
@@ -128,9 +122,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Protecting the Rust standard library from accidental breakage",
+        "link": "https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/",
+        "pubDate": "2026-08-16T13:59",
+        "feedId": "lobsters"
+      },
+      {
         "title": "What are you doing this week?",
         "link": "https://lobste.rs/s/5p0kgt/what_are_you_doing_this_week",
         "pubDate": "2026-08-17T07:30",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Thinking about tests: assertions and matchers",
+        "link": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
+        "pubDate": "2026-08-17T10:35",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "(What Comes) After FOSS?",
+        "link": "https://infrastructureinsights.fund/projects/what-comes-after-foss/",
+        "pubDate": "2026-08-17T07:47",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Thinking about tests: assertions and matchers",
-        "link": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
-        "pubDate": "2026-08-17T10:35",
+        "title": "Four levels of in-place initialization",
+        "link": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
+        "pubDate": "2026-08-17T07:50",
         "feedId": "lobsters"
       },
       {
@@ -173,18 +185,6 @@
         "title": "SCM_RIGHTS API quirks (2019)",
         "link": "https://gist.github.com/kentonv/bc7592af98c68ba2738f4436920868dc",
         "pubDate": "2026-08-17T04:12",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "(What Comes) After FOSS?",
-        "link": "https://infrastructureinsights.fund/projects/what-comes-after-foss/",
-        "pubDate": "2026-08-17T07:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Vetted AI code is hard to justify",
-        "link": "https://amoffat.github.io/blog/vetting-burnout.html",
-        "pubDate": "2026-08-17T11:11",
         "feedId": "lobsters"
       }
     ]
@@ -342,12 +342,6 @@
         "feedId": "axios"
       },
       {
-        "title": "How AI could bring Mayo-quality health care to everyone",
-        "link": "https://www.axios.com/2026/08/16/ai-mayo-clinic-health-care-fix-jim-vandehei",
-        "pubDate": "2026-08-16T10:00",
-        "feedId": "axios"
-      },
-      {
         "title": "Scoop: Inside Trump's secret backchannel to Iran's Revolutionary Guard",
         "link": "https://www.axios.com/2026/08/16/iran-backchannel-trump-gabbard-barzani-war",
         "pubDate": "2026-08-16T09:00",
@@ -375,6 +369,12 @@
         "title": "Luigi Mangione pleads guilty to stalking UnitedHealthcare CEO, admits killing him",
         "link": "https://www.axios.com/2026/08/14/luigi-mangione-plea-trial-brian-thompson-case",
         "pubDate": "2026-08-14T19:15",
+        "feedId": "axios"
+      },
+      {
+        "title": "Americans' wanderlust hits new heights",
+        "link": "https://www.axios.com/2026/08/14/americans-overseas-european-travel-boom",
+        "pubDate": "2026-08-14T17:30",
         "feedId": "axios"
       }
     ]
