@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "Gmail might partially be to blame for receiving emails from other Sean Conners",
+        "link": "https://boston.conman.org/2026/08/11.1",
+        "pubDate": "2026-08-17T03:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "If Meta loses this trial, Instagram and Facebook could change forever",
+        "link": "https://www.bbc.com/news/articles/clyqpx6xk69o",
+        "pubDate": "2026-08-17T02:28",
+        "feedId": "hn"
+      },
+      {
         "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
         "link": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
         "pubDate": "2026-08-17T01:45",
@@ -75,21 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Models Are Getting Dumber on Purpose",
-        "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-        "pubDate": "2026-08-16T19:04",
-        "feedId": "hn"
-      },
-      {
         "title": "Protobuf has LSP support. You're welcome",
         "link": "https://buf.build/blog/protobuf-lsp",
         "pubDate": "2026-08-16T18:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "MathCode, Mathematical Coding Agent",
-        "link": "https://math-ai-org.github.io/mathcode/",
-        "pubDate": "2026-08-16T18:17",
         "feedId": "hn"
       }
     ]
