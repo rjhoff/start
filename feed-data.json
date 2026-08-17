@@ -3,9 +3,39 @@
     "id": "hn",
     "items": [
       {
-        "title": "People are worried about America's solvency",
-        "link": "https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e",
-        "pubDate": "2026-08-17T11:45",
+        "title": "Show HN: Sokoban AI Solver",
+        "link": "https://mkornreich.me/projects/sokoban/",
+        "pubDate": "2026-08-17T13:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "Stripe to Buy OpenRouter for $7B",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+        "pubDate": "2026-08-17T13:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "David Sacks on X: Some thoughts on Dario's post",
+        "link": "https://twitter.com/DavidSacks/status/2089227290769080656",
+        "pubDate": "2026-08-17T12:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "Mexico Crackdown on Coastal Development Underway",
+        "link": "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/",
+        "pubDate": "2026-08-17T12:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+        "link": "https://blog.roboflow.com/openai-gpt-5-6/",
+        "pubDate": "2026-08-17T12:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Who Owns Commodore? The Retro PC Brand Still Exists, but a Lot Has Changed",
+        "link": "https://www.bgr.com/2233625/who-owns-commodore-retro-brand/",
+        "pubDate": "2026-08-17T11:55",
         "feedId": "hn"
       },
       {
@@ -15,9 +45,9 @@
         "feedId": "hn"
       },
       {
-        "title": "The Marxist Case for the Technofeudal Hypothesis",
-        "link": "https://jacobin.com/2026/08/varoufakis-tech-capital-marxism-technofeudalism",
-        "pubDate": "2026-08-17T10:44",
+        "title": "Pi coding agent: config folder is out of place on Linux",
+        "link": "https://github.com/earendil-works/pi/issues/534",
+        "pubDate": "2026-08-17T09:11",
         "feedId": "hn"
       },
       {
@@ -30,12 +60,6 @@
         "title": "Linear algebra done right",
         "link": "https://linear.axler.net/",
         "pubDate": "2026-08-17T05:21",
-        "feedId": "hn"
-      },
-      {
-        "title": "GIMP Development Update",
-        "link": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
-        "pubDate": "2026-08-17T03:08",
         "feedId": "hn"
       },
       {
@@ -67,30 +91,6 @@
         "link": "https://www.science.org/content/blog-post/taking-tip-plants-eyes",
         "pubDate": "2026-08-17T00:35",
         "feedId": "hn"
-      },
-      {
-        "title": "Reticulum – Decentralized Mesh Network",
-        "link": "https://reticulum.network/",
-        "pubDate": "2026-08-16T23:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-        "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-        "pubDate": "2026-08-16T23:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-        "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-        "pubDate": "2026-08-16T21:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "Stripe will reportedly acquire OpenRouter for $7B+",
-        "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-        "pubDate": "2026-08-16T20:31",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A faster way to calculate the day-of-the-week",
-        "link": "https://www.benjoffe.com/fast-day-of-week",
-        "pubDate": "2026-08-16T20:52",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Every Fucking Website",
         "link": "https://op.tngl.io/every-fucking-website/",
         "pubDate": "2026-08-16T16:26",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A faster way to calculate the day-of-the-week",
+        "link": "https://www.benjoffe.com/fast-day-of-week",
+        "pubDate": "2026-08-16T20:52",
         "feedId": "lobsters"
       },
       {
@@ -122,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Protecting the Rust standard library from accidental breakage",
-        "link": "https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/",
-        "pubDate": "2026-08-16T13:59",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What are you doing this week?",
         "link": "https://lobste.rs/s/5p0kgt/what_are_you_doing_this_week",
         "pubDate": "2026-08-17T07:30",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Protecting the Rust standard library from accidental breakage",
+        "link": "https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/",
+        "pubDate": "2026-08-16T13:59",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "(What Comes) After FOSS?",
-        "link": "https://infrastructureinsights.fund/projects/what-comes-after-foss/",
-        "pubDate": "2026-08-17T07:47",
+        "title": "Four levels of in-place initialization",
+        "link": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
+        "pubDate": "2026-08-17T07:50",
         "feedId": "lobsters"
       },
       {
-        "title": "A Third World Embedded Engineer Responds to \"RISC-V: They Should Have Known Better\"",
-        "link": "https://rvembedded.com/blog_post/12/",
-        "pubDate": "2026-08-16T17:28",
+        "title": "(What Comes) After FOSS?",
+        "link": "https://infrastructureinsights.fund/projects/what-comes-after-foss/",
+        "pubDate": "2026-08-17T07:47",
         "feedId": "lobsters"
       },
       {
@@ -158,27 +158,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Vetted AI code is hard to justify",
+        "link": "https://amoffat.github.io/blog/vetting-burnout.html",
+        "pubDate": "2026-08-17T11:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "MuQSS CPU scheduler for Linux 7.2 by Con Kolivas",
+        "link": "https://lore.kernel.org/lkml/CABqErrH=oQ3povVuSPhRON97v63=mB85jQmZjf443ofdYAuxxw@mail.gmail.com/",
+        "pubDate": "2026-08-17T12:24",
+        "feedId": "lobsters"
+      },
+      {
         "title": "You can just choose how many bugs you want now",
         "link": "https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/",
         "pubDate": "2026-08-16T18:18",
         "feedId": "lobsters"
       },
       {
-        "title": "Four levels of in-place initialization",
-        "link": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
-        "pubDate": "2026-08-17T07:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Models Are Getting Dumber on Purpose",
-        "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-        "pubDate": "2026-08-16T20:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "People of ACM - Russ Cox",
-        "link": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
-        "pubDate": "2026-08-16T16:23",
+        "title": "AppleWorks on the Apple II",
+        "link": "https://stonetools.ghost.io/appleworks-apple2/",
+        "pubDate": "2026-08-17T12:41",
         "feedId": "lobsters"
       },
       {
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Satellite operators are in panic mode due to a worsening launch crisis",
+        "link": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/",
+        "pubDate": "2026-08-17T11:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
         "link": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
@@ -274,12 +280,6 @@
         "title": "Taylor Farms' connections to Trump admin spurs probe into Cyclospora response",
         "link": "https://arstechnica.com/health/2026/08/taylor-farms-connections-to-trump-admin-spurs-probe-into-cyclospora-response/",
         "pubDate": "2026-08-14T15:03",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-        "pubDate": "2026-08-14T14:27",
         "feedId": "arstechnica"
       }
     ]
