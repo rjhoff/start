@@ -3,15 +3,39 @@
     "id": "hn",
     "items": [
       {
-        "title": "Code-native generation of highly programmable 3D assets (2026)",
-        "link": "https://arxiv.org/abs/2607.22738",
-        "pubDate": "2026-08-18T14:54",
+        "title": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows",
+        "pubDate": "2026-08-18T16:40",
         "feedId": "hn"
       },
       {
-        "title": "The coolest anti-surveillance tools at Defcon [video]",
-        "link": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
-        "pubDate": "2026-08-18T14:49",
+        "title": "Degraded performance for multiple models",
+        "link": "https://status.claude.com/incidents/q7txxvbsftgq",
+        "pubDate": "2026-08-18T16:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "Superpowers, Not Superintelligence",
+        "link": "https://bond.now/news/superpowers-not-superintelligence",
+        "pubDate": "2026-08-18T16:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+        "link": "https://machine0.io",
+        "pubDate": "2026-08-18T16:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
+        "link": "https://github.com/therepanic/openleetcode",
+        "pubDate": "2026-08-18T15:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "Code-native generation of highly programmable 3D assets (2026)",
+        "link": "https://arxiv.org/abs/2607.22738",
+        "pubDate": "2026-08-18T14:54",
         "feedId": "hn"
       },
       {
@@ -33,13 +57,13 @@
         "feedId": "hn"
       },
       {
-        "title": "The Amazon Tax",
+        "title": "The Amazon tax",
         "link": "https://seths.blog/2026/08/the-amazon-tax/",
         "pubDate": "2026-08-18T13:22",
         "feedId": "hn"
       },
       {
-        "title": "Fixing a Bricked Framework Laptop",
+        "title": "Fixing a bricked Framework laptop",
         "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
         "pubDate": "2026-08-18T13:18",
         "feedId": "hn"
@@ -48,12 +72,6 @@
         "title": "Composable Tests",
         "link": "https://newsletter.kentbeck.com/p/composable-tests",
         "pubDate": "2026-08-18T13:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "Deus Ex creator Warren Spector is retiring from game development",
-        "link": "https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/",
-        "pubDate": "2026-08-18T13:06",
         "feedId": "hn"
       },
       {
@@ -72,24 +90,6 @@
         "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
         "link": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
         "pubDate": "2026-08-18T12:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
-        "link": "https://twitter.com/kuberwastaken/status/2089377982536388964",
-        "pubDate": "2026-08-18T12:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "Google has acquired the data of failed US airline Spirit",
-        "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-        "pubDate": "2026-08-18T10:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "Linux 7.3 improves performance when running out of vRAM",
-        "link": "https://pixelcluster.dev/VRAM-Overcommit/",
-        "pubDate": "2026-08-18T07:51",
         "feedId": "hn"
       }
     ]
@@ -140,15 +140,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Biboumi – XMPP gateway to IRC",
+        "link": "https://biboumi.codeberg.page/doc/",
+        "pubDate": "2026-08-18T07:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Mojo is now open source",
+        "link": "https://www.modular.com/blog/mojo-open-source",
+        "pubDate": "2026-08-18T16:34",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Does it make sense to switch to a Github Alternative ?",
         "link": "https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github",
         "pubDate": "2026-08-17T14:03",
         "feedId": "lobsters"
       },
       {
-        "title": "Biboumi – XMPP gateway to IRC",
-        "link": "https://biboumi.codeberg.page/doc/",
-        "pubDate": "2026-08-18T07:37",
+        "title": "Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools",
+        "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+        "pubDate": "2026-08-18T15:07",
         "feedId": "lobsters"
       },
       {
@@ -173,18 +185,6 @@
         "title": "The benchmarkpocalypse",
         "link": "https://danluu.com/benchpocalypse/",
         "pubDate": "2026-08-18T00:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools",
-        "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-        "pubDate": "2026-08-18T15:07",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Actual Budget",
-        "link": "https://actualbudget.org/",
-        "pubDate": "2026-08-18T02:46",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "UN inspectors visit undeclared Syrian nuclear sites for first time",
+        "link": "https://www.axios.com/2026/08/18/syria-nuclear-reactors-iaea",
+        "pubDate": "2026-08-18T16:55",
+        "feedId": "axios"
+      },
+      {
         "title": "America's debt is getting more expensive",
         "link": "https://www.axios.com/2026/08/18/debt-revenue-interest-defense-spending",
         "pubDate": "2026-08-18T16:02",
@@ -369,12 +375,6 @@
         "title": "Trump fails to undo E. Jean Carroll verdict at Supreme Court",
         "link": "https://www.axios.com/2026/08/17/supreme-court-rejects-trump-e-jean-carroll-verdict",
         "pubDate": "2026-08-17T15:22",
-        "feedId": "axios"
-      },
-      {
-        "title": "Older Democrats walloped by midterms anti-establishment revolt",
-        "link": "https://www.axios.com/2026/08/13/democrats-old-age-larson-bronin-young-primaries",
-        "pubDate": "2026-08-17T15:20",
         "feedId": "axios"
       }
     ]
