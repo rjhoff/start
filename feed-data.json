@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "An Engineer's Old Cooking Trick Is Going Viral, Divides the Internet",
+        "link": "https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/",
+        "pubDate": "2026-08-18T14:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
+        "link": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
+        "pubDate": "2026-08-18T14:06",
+        "feedId": "hn"
+      },
+      {
         "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
         "link": "https://opensource.posit.co/resources/cheatsheets/polars/",
         "pubDate": "2026-08-18T13:38",
@@ -27,13 +39,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
-        "link": "https://github.com/mukundzha/avouch",
-        "pubDate": "2026-08-18T13:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kent Beck: Composable Tests",
+        "title": "Composable Tests",
         "link": "https://newsletter.kentbeck.com/p/composable-tests",
         "pubDate": "2026-08-18T13:08",
         "feedId": "hn"
@@ -75,7 +81,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Google buys crashed airline Spirit's data at auction, because AI",
+        "title": "Google buys crashed airline Spirit's data at auction",
         "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
         "pubDate": "2026-08-18T10:13",
         "feedId": "hn"
@@ -84,12 +90,6 @@
         "title": "Linux 7.3 improves performance when running out of vRAM",
         "link": "https://pixelcluster.dev/VRAM-Overcommit/",
         "pubDate": "2026-08-18T07:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "Rethinking Database Programming",
-        "link": "https://acadia.engineering/blog/rethinking-database-programming",
-        "pubDate": "2026-08-18T07:28",
         "feedId": "hn"
       }
     ]
@@ -101,6 +101,12 @@
         "title": "Rethinking Database Programming",
         "link": "https://acadia.engineering/blog/rethinking-database-programming",
         "pubDate": "2026-08-18T08:34",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How I browse the Web with uBlock (Hard Mode)",
+        "link": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
+        "pubDate": "2026-08-18T12:30",
         "feedId": "lobsters"
       },
       {
@@ -116,9 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How I browse the Web with uBlock (Hard Mode)",
-        "link": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
-        "pubDate": "2026-08-18T12:30",
+        "title": "CSS: the bomb inside your inbox",
+        "link": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
+        "pubDate": "2026-08-18T13:30",
         "feedId": "lobsters"
       },
       {
@@ -134,6 +140,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Using the railway network as a flatbed scanner",
+        "link": "https://philo.gay/linecam/",
+        "pubDate": "2026-08-18T11:42",
+        "feedId": "lobsters"
+      },
+      {
         "title": "AI;DR (AI; Didn’t Read)",
         "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
         "pubDate": "2026-08-17T20:14",
@@ -146,15 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Using the railway network as a flatbed scanner",
-        "link": "https://philo.gay/linecam/",
-        "pubDate": "2026-08-18T11:42",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "CSS: the bomb inside your inbox",
-        "link": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
-        "pubDate": "2026-08-18T13:30",
+        "title": "What software do you use daily in 2026?",
+        "link": "https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026",
+        "pubDate": "2026-08-18T14:31",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A Preview of DuckDB v2.0",
-        "link": "https://duckdb.org/2026/08/17/duckdb-20-highlights.html",
-        "pubDate": "2026-08-17T16:13",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Actual Budget",
-        "link": "https://actualbudget.org/",
-        "pubDate": "2026-08-18T02:46",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Fairphone 6 + PostmarketOS working main camera",
         "link": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
         "pubDate": "2026-08-18T12:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A Preview of DuckDB v2.0",
+        "link": "https://duckdb.org/2026/08/17/duckdb-20-highlights.html",
+        "pubDate": "2026-08-17T16:13",
         "feedId": "lobsters"
       }
     ]
