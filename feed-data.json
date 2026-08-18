@@ -1,8 +1,98 @@
 {
   "hn": {
     "id": "hn",
-    "error": "Request timed out after 10000ms",
-    "items": []
+    "items": [
+      {
+        "title": "PM Carney announces largest clean energy investment in North American history",
+        "link": "https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north",
+        "pubDate": "2026-08-18T00:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "Repair Cafe – Fix Your Broken Items",
+        "link": "https://www.repaircafe.org/",
+        "pubDate": "2026-08-17T23:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "Puppy PPE",
+        "link": "http://amosdudley.com/weblog/Designing-PPE-for-Hilde",
+        "pubDate": "2026-08-17T23:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "Flock cameras haven't improved Atlanta's crime clearance rates",
+        "link": "https://atlpresscollective.com/2026/07/28/flock-cameras-atlanta-clearance-rates/",
+        "pubDate": "2026-08-17T22:48",
+        "feedId": "hn"
+      },
+      {
+        "title": "How Bluesky draws its logo on screenshots",
+        "link": "https://timmarinin.net/2026/bluesky-screenshots/",
+        "pubDate": "2026-08-17T22:20",
+        "feedId": "hn"
+      },
+      {
+        "title": "scScript for Linux",
+        "link": "https://scapplications.com/",
+        "pubDate": "2026-08-17T22:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Quake Shareware, a CD-ROM just a little too full",
+        "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+        "pubDate": "2026-08-17T22:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Fairphone 6 and PostmarketOS working main camera",
+        "link": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+        "pubDate": "2026-08-17T22:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "How do functions like alloca allocate memory from the stack?",
+        "link": "https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617",
+        "pubDate": "2026-08-17T21:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "GPT-5.6 Sol Pricing Cut by 50%",
+        "link": "https://openrouter.ai/openai/gpt-5.6-sol",
+        "pubDate": "2026-08-17T21:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "GitHub degradation affects Cursor Origin, its new Git platform",
+        "link": "https://status.cursor.com/incidents/l9h9vrd726jv",
+        "pubDate": "2026-08-17T20:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI;DR (AI; Didn't Read)",
+        "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+        "pubDate": "2026-08-17T19:47",
+        "feedId": "hn"
+      },
+      {
+        "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
+        "link": "https://blog.roboflow.com/roboflow-playground/",
+        "pubDate": "2026-08-17T18:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+        "link": "https://arxiv.org/abs/2608.13759",
+        "pubDate": "2026-08-17T17:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "Sun Clock",
+        "link": "https://sunclock.net/",
+        "pubDate": "2026-08-17T16:37",
+        "feedId": "hn"
+      }
+    ]
   },
   "lobsters": {
     "id": "lobsters",
@@ -20,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Vetted AI code is hard to justify",
-        "link": "https://amoffat.github.io/blog/vetting-burnout.html",
-        "pubDate": "2026-08-17T11:11",
+        "title": "How Bluesky draws its logo on screenshots",
+        "link": "https://timmarinin.net/2026/bluesky-screenshots/",
+        "pubDate": "2026-08-17T21:46",
         "feedId": "lobsters"
       },
       {
-        "title": "I thought I was building a C replacement. I was wrong",
-        "link": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
-        "pubDate": "2026-08-16T14:05",
+        "title": "Vetted AI code is hard to justify",
+        "link": "https://amoffat.github.io/blog/vetting-burnout.html",
+        "pubDate": "2026-08-17T11:11",
         "feedId": "lobsters"
       },
       {
@@ -44,6 +134,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Writing a Fast Compiler",
+        "link": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
+        "pubDate": "2026-08-17T11:13",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I thought I was building a C replacement. I was wrong",
+        "link": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
+        "pubDate": "2026-08-16T14:05",
+        "feedId": "lobsters"
+      },
+      {
         "title": "AI;DR (AI; Didn’t Read)",
         "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
         "pubDate": "2026-08-17T20:14",
@@ -56,15 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Writing a Fast Compiler",
-        "link": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
-        "pubDate": "2026-08-17T11:13",
-        "feedId": "lobsters"
-      },
-      {
         "title": "A faster way to calculate the day-of-the-week",
         "link": "https://www.benjoffe.com/fast-day-of-week",
         "pubDate": "2026-08-16T20:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Quake Shareware, a CD-ROM just a little too full",
+        "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+        "pubDate": "2026-08-17T22:58",
         "feedId": "lobsters"
       },
       {
@@ -84,24 +186,24 @@
         "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
         "pubDate": "2026-08-17T14:39",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Four levels of in-place initialization",
-        "link": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
-        "pubDate": "2026-08-17T07:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "MuQSS CPU scheduler for Linux 7.2 by Con Kolivas",
-        "link": "https://lore.kernel.org/lkml/CABqErrH=oQ3povVuSPhRON97v63=mB85jQmZjf443ofdYAuxxw@mail.gmail.com/",
-        "pubDate": "2026-08-17T12:24",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
+        "link": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
+        "pubDate": "2026-08-17T22:08",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
+        "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+        "pubDate": "2026-08-17T21:18",
+        "feedId": "arstechnica"
+      },
       {
         "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
         "link": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/",
@@ -179,24 +281,18 @@
         "link": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
         "pubDate": "2026-08-15T11:09",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
-        "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
-        "pubDate": "2026-08-14T18:32",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
-        "link": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
-        "pubDate": "2026-08-14T18:00",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Congressional Democrats plan Oman war powers push after Trump threatens bombing",
+        "link": "https://www.axios.com/2026/08/17/trump-oman-democrats-congress-war-powers-iran",
+        "pubDate": "2026-08-17T23:14",
+        "feedId": "axios"
+      },
       {
         "title": "Kindergarten vaccine exemptions rose in 2025-2026: CDC",
         "link": "https://www.axios.com/2026/08/17/kindergarten-vaccine-rates-fall",
@@ -207,12 +303,6 @@
         "title": "Middle East demands are testing America's Pacific presence",
         "link": "https://www.axios.com/2026/08/17/us-allies-pacific-aircraft-carrier-gap",
         "pubDate": "2026-08-17T20:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "Congressional Democrats plan Oman war powers push after Trump threatens bombing",
-        "link": "https://www.axios.com/2026/08/17/trump-oman-democrats-congress-war-powers-iran",
-        "pubDate": "2026-08-17T19:32",
         "feedId": "axios"
       },
       {
