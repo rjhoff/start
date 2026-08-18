@@ -3,15 +3,39 @@
     "id": "hn",
     "items": [
       {
-        "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-        "link": "https://github.com/DenisSergeevitch/desktop-fly",
-        "pubDate": "2026-08-18T21:50",
+        "title": "Terry A. Davis Quotes",
+        "link": "https://en.wikiquote.org/wiki/Terry_A._Davis",
+        "pubDate": "2026-08-18T22:35",
         "feedId": "hn"
       },
       {
-        "title": "Flock impersonates journalist in order to cancel his hotel reservations",
-        "link": "https://xcancel.com/bennjordan/status/2089430236945342508",
-        "pubDate": "2026-08-18T21:48",
+        "title": "The Microsoft Rebrand Registry",
+        "link": "https://www.msrebrandregistry.com/analysis.html",
+        "pubDate": "2026-08-18T22:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Who owns the code?",
+        "link": "https://whoownsthecode.com/",
+        "pubDate": "2026-08-18T22:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "GLM-5.3 Artificial Analysis Benchmarks",
+        "link": "https://artificialanalysis.ai/models/glm-5-3",
+        "pubDate": "2026-08-18T22:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "fx :Tiny, open, native coding agent.",
+        "link": "https://fx.sh",
+        "pubDate": "2026-08-18T22:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+        "link": "https://github.com/DenisSergeevitch/desktop-fly",
+        "pubDate": "2026-08-18T21:50",
         "feedId": "hn"
       },
       {
@@ -21,19 +45,13 @@
         "feedId": "hn"
       },
       {
-        "title": "Companies promote incompetent employees to management tolimit damage they can do",
+        "title": "Companies promote incompetent employees to management to limit damage they do",
         "link": "https://lawsofsoftwareengineering.com/laws/dilbert-principle/",
         "pubDate": "2026-08-18T21:13",
         "feedId": "hn"
       },
       {
-        "title": "Find Chicago Parking Cops",
-        "link": "https://www.secondcitycitation.com",
-        "pubDate": "2026-08-18T21:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "Norway Should Buy OpenAI",
+        "title": "Norway should buy OpenAI",
         "link": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
         "pubDate": "2026-08-18T19:30",
         "feedId": "hn"
@@ -42,12 +60,6 @@
         "title": "Beware Management Consultants",
         "link": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
         "pubDate": "2026-08-18T19:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "IndieWeb Homebrew Website Club Asia Pacific: Reflections",
-        "link": "https://burgeonlab.com/blog/inaugural-hwc-ap-recap/",
-        "pubDate": "2026-08-18T19:07",
         "feedId": "hn"
       },
       {
@@ -69,27 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: macOS data protection keychain for Electron apps",
-        "link": "https://github.com/biw/keychain-store",
-        "pubDate": "2026-08-18T17:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+        "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
         "link": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
         "pubDate": "2026-08-18T17:24",
         "feedId": "hn"
       },
       {
-        "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
-        "link": "https://machine0.io",
-        "pubDate": "2026-08-18T16:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
-        "link": "https://github.com/therepanic/openleetcode",
-        "pubDate": "2026-08-18T15:30",
+        "title": "And then the men with guns tell you to do it anyway",
+        "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+        "pubDate": "2026-08-18T17:11",
         "feedId": "hn"
       }
     ]
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Quake Shareware, a CD-ROM just a little too full",
-        "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-        "pubDate": "2026-08-17T22:58",
+        "title": "Experiment in reducing target directory size on nightly",
+        "link": "https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly/",
+        "pubDate": "2026-08-18T18:39",
         "feedId": "lobsters"
       },
       {
-        "title": "AI;DR (AI; Didn’t Read)",
-        "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-        "pubDate": "2026-08-17T20:14",
+        "title": "Quake Shareware, a CD-ROM just a little too full",
+        "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+        "pubDate": "2026-08-17T22:58",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
+        "link": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
+        "pubDate": "2026-08-18T22:32",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Ukrainian drones overwhelm Russian tanks’ new active protection system—for now",
+        "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/",
+        "pubDate": "2026-08-18T22:18",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
         "link": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
@@ -269,24 +281,18 @@
         "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
         "pubDate": "2026-08-17T21:18",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
-        "link": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/",
-        "pubDate": "2026-08-17T20:23",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
-        "link": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
-        "pubDate": "2026-08-17T20:14",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Israel defends strike on Syria as U.S. frustration with Bibi grows",
+        "link": "https://www.axios.com/2026/08/18/israel-syria-turkey-strike-military-buildup",
+        "pubDate": "2026-08-18T22:26",
+        "feedId": "axios"
+      },
       {
         "title": "TPS' slow bleed leaves thousands in limbo",
         "link": "https://www.axios.com/2026/08/18/trum-tps-protections-program-uncertain-future",
@@ -369,12 +375,6 @@
         "title": "Big Bend border wall construction paused by Trump administration",
         "link": "https://www.axios.com/2026/08/17/trump-big-bend-border-wall-construction-paused",
         "pubDate": "2026-08-17T19:01",
-        "feedId": "axios"
-      },
-      {
-        "title": "House Ethics investigating Rep. Jimmy Gomez over sexual misconduct allegations",
-        "link": "https://www.axios.com/2026/08/17/ethics-investigating-jimmy-gomez-sexual-misconduct",
-        "pubDate": "2026-08-17T18:59",
         "feedId": "axios"
       }
     ]
