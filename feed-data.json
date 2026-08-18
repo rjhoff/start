@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
+        "link": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
+        "pubDate": "2026-08-18T11:27",
+        "feedId": "hn"
+      },
+      {
         "title": "Google buys crashed airline Spirit's data at auction, because AI",
         "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
         "pubDate": "2026-08-18T10:13",
@@ -85,18 +91,18 @@
         "link": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
         "pubDate": "2026-08-17T18:34",
         "feedId": "hn"
-      },
-      {
-        "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-        "link": "https://arxiv.org/abs/2608.13759",
-        "pubDate": "2026-08-17T17:54",
-        "feedId": "hn"
       }
     ]
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "Rethinking Database Programming",
+        "link": "https://acadia.engineering/blog/rethinking-database-programming",
+        "pubDate": "2026-08-18T08:34",
+        "feedId": "lobsters"
+      },
       {
         "title": "How Bluesky draws its logo on screenshots",
         "link": "https://timmarinin.net/2026/bluesky-screenshots/",
@@ -110,21 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Rethinking Database Programming",
-        "link": "https://acadia.engineering/blog/rethinking-database-programming",
-        "pubDate": "2026-08-18T08:34",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Does it make sense to switch to a Github Alternative ?",
         "link": "https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github",
         "pubDate": "2026-08-17T14:03",
         "feedId": "lobsters"
       },
       {
-        "title": "Quake Shareware, a CD-ROM just a little too full",
-        "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-        "pubDate": "2026-08-17T22:58",
+        "title": "Biboumi – XMPP gateway to IRC",
+        "link": "https://biboumi.codeberg.page/doc/",
+        "pubDate": "2026-08-18T07:37",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +134,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Quake Shareware, a CD-ROM just a little too full",
+        "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+        "pubDate": "2026-08-17T22:58",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The benchmarkpocalypse",
         "link": "https://danluu.com/benchpocalypse/",
         "pubDate": "2026-08-18T00:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+        "link": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+        "pubDate": "2026-08-17T17:54",
         "feedId": "lobsters"
       },
       {
@@ -152,33 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-        "link": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
-        "pubDate": "2026-08-17T17:54",
-        "feedId": "lobsters"
-      },
-      {
         "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)",
         "link": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
         "pubDate": "2026-08-17T13:33",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Biboumi – XMPP gateway to IRC",
-        "link": "https://biboumi.codeberg.page/doc/",
-        "pubDate": "2026-08-18T07:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Writing a Fast Compiler",
-        "link": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
-        "pubDate": "2026-08-17T11:13",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
-        "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-        "pubDate": "2026-08-17T14:39",
         "feedId": "lobsters"
       },
       {
@@ -186,12 +174,30 @@
         "link": "https://actualbudget.org/",
         "pubDate": "2026-08-18T02:46",
         "feedId": "lobsters"
+      },
+      {
+        "title": "Using the railway network as a flatbed scanner",
+        "link": "https://philo.gay/linecam/",
+        "pubDate": "2026-08-18T11:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Writing a Fast Compiler",
+        "link": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
+        "pubDate": "2026-08-17T11:13",
+        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "As temperatures get hotter, pesticides are more dangerous to farmworkers",
+        "link": "https://arstechnica.com/science/2026/08/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworkers/",
+        "pubDate": "2026-08-18T11:07",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
         "link": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
@@ -275,18 +281,18 @@
         "link": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
         "pubDate": "2026-08-15T21:21",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
-        "link": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
-        "pubDate": "2026-08-15T15:46",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Democrats enter their thirst trap era",
+        "link": "https://www.axios.com/2026/08/18/democrats-social-media-ossoff-el-sayed",
+        "pubDate": "2026-08-18T12:34",
+        "feedId": "axios"
+      },
       {
         "title": "This primary is \"like 'Florida Man' having his own election\"",
         "link": "https://www.axios.com/2026/08/18/florida-weird-primary-election-2026",
@@ -369,12 +375,6 @@
         "title": "Birding, silent book club, Mahjong and more: America's meetup explosion",
         "link": "https://www.axios.com/2026/08/17/meetup-dating-gen-z-loneliness",
         "pubDate": "2026-08-17T09:40",
-        "feedId": "axios"
-      },
-      {
-        "title": "Why prescription drug prices are plunging",
-        "link": "https://www.axios.com/2026/08/17/drug-prices-medicare-trump",
-        "pubDate": "2026-08-17T09:30",
         "feedId": "axios"
       }
     ]
