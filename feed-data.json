@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "Linux 7.3 improves performance when running out of vRAM",
+        "link": "https://pixelcluster.dev/VRAM-Overcommit/",
+        "pubDate": "2026-08-18T07:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "Rethinking Database Programming",
+        "link": "https://acadia.engineering/blog/rethinking-database-programming",
+        "pubDate": "2026-08-18T07:28",
+        "feedId": "hn"
+      },
+      {
         "title": "Exercise intensity modulates interorgan communication and is associated with",
         "link": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
         "pubDate": "2026-08-18T04:51",
@@ -27,12 +39,6 @@
         "feedId": "hn"
       },
       {
-        "title": "scScript for Linux",
-        "link": "https://scapplications.com/",
-        "pubDate": "2026-08-17T22:18",
-        "feedId": "hn"
-      },
-      {
         "title": "Quake Shareware, a CD-ROM just a little too full",
         "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
         "pubDate": "2026-08-17T22:06",
@@ -42,12 +48,6 @@
         "title": "Fairphone 6 and PostmarketOS working main camera",
         "link": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
         "pubDate": "2026-08-17T22:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "How do functions like alloca allocate memory from the stack?",
-        "link": "https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617",
-        "pubDate": "2026-08-17T21:06",
         "feedId": "hn"
       },
       {
@@ -116,6 +116,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Rethinking Database Programming",
+        "link": "https://acadia.engineering/blog/rethinking-database-programming",
+        "pubDate": "2026-08-18T08:34",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Quake Shareware, a CD-ROM just a little too full",
         "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
         "pubDate": "2026-08-17T22:58",
@@ -152,6 +158,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Biboumi – XMPP gateway to IRC",
+        "link": "https://biboumi.codeberg.page/doc/",
+        "pubDate": "2026-08-18T07:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+        "link": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+        "pubDate": "2026-08-17T17:54",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Writing a Fast Compiler",
         "link": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
         "pubDate": "2026-08-17T11:13",
@@ -164,27 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Passphrase-less reboots using kexec under NixOS",
-        "link": "https://www.bevuta.com/en/blog/passphraseless-reboots-using-kexec/",
-        "pubDate": "2026-08-17T09:53",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-        "link": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
-        "pubDate": "2026-08-17T17:54",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
         "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
         "pubDate": "2026-08-17T14:39",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Actual Budget",
-        "link": "https://actualbudget.org/",
-        "pubDate": "2026-08-18T02:46",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,30 @@
     "id": "axios",
     "items": [
       {
+        "title": "This primary is \"like 'Florida Man' having his own election\"",
+        "link": "https://www.axios.com/2026/08/18/florida-weird-primary-election-2026",
+        "pubDate": "2026-08-18T09:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "FBI data for 2025 show biggest drop in violent crime in 90 years",
+        "link": "https://www.axios.com/2026/08/18/fbi-violent-crime-drop-2025",
+        "pubDate": "2026-08-18T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "Political dirty tricks upend midterm races across the country",
+        "link": "https://www.axios.com/2026/08/18/democrats-republicans-midterms-political-shenanigans",
+        "pubDate": "2026-08-18T09:10",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump torches allies as Iran exposes limits of hard power",
+        "link": "https://www.axios.com/2026/08/18/trump-south-korea-allies-iran-war",
+        "pubDate": "2026-08-18T09:00",
+        "feedId": "axios"
+      },
+      {
         "title": "Women are missing out on the AI jobs boom",
         "link": "https://www.axios.com/2026/08/18/ai-women-jobs-hiring",
         "pubDate": "2026-08-18T07:46",
@@ -351,30 +375,6 @@
         "title": "Why prescription drug prices are plunging",
         "link": "https://www.axios.com/2026/08/17/drug-prices-medicare-trump",
         "pubDate": "2026-08-17T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "The Democratic establishment's ideas deficit",
-        "link": "https://www.axios.com/2026/08/17/democratic-establishment-socialism-third-way-2028",
-        "pubDate": "2026-08-17T09:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "How wildfires are changing the U.S. electric grid",
-        "link": "https://www.axios.com/2026/08/17/wildfires-electric-grid-planning-energy-infrastructure",
-        "pubDate": "2026-08-17T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "What happens to what you share with AI",
-        "link": "https://www.axios.com/2026/08/17/secrets-share-ai-openai-meta-google-anthropic",
-        "pubDate": "2026-08-17T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump tells Hegseth to cut back U.S.-South Korea drills",
-        "link": "https://www.axios.com/2026/08/16/trump-us-south-korea-military-drills-cut",
-        "pubDate": "2026-08-16T21:59",
         "feedId": "axios"
       }
     ]
