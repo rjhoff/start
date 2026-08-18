@@ -3,6 +3,36 @@
     "id": "hn",
     "items": [
       {
+        "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+        "link": "https://github.com/DenisSergeevitch/desktop-fly",
+        "pubDate": "2026-08-18T21:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "Flock impersonates journalist in order to cancel his hotel reservations",
+        "link": "https://xcancel.com/bennjordan/status/2089430236945342508",
+        "pubDate": "2026-08-18T21:48",
+        "feedId": "hn"
+      },
+      {
+        "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+        "link": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+        "pubDate": "2026-08-18T21:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "Companies promote incompetent employees to management tolimit damage they can do",
+        "link": "https://lawsofsoftwareengineering.com/laws/dilbert-principle/",
+        "pubDate": "2026-08-18T21:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "Find Chicago Parking Cops",
+        "link": "https://www.secondcitycitation.com",
+        "pubDate": "2026-08-18T21:08",
+        "feedId": "hn"
+      },
+      {
         "title": "Norway Should Buy OpenAI",
         "link": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
         "pubDate": "2026-08-18T19:30",
@@ -61,36 +91,6 @@
         "link": "https://github.com/therepanic/openleetcode",
         "pubDate": "2026-08-18T15:30",
         "feedId": "hn"
-      },
-      {
-        "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
-        "link": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
-        "pubDate": "2026-08-18T14:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
-        "link": "https://opensource.posit.co/resources/cheatsheets/polars/",
-        "pubDate": "2026-08-18T13:38",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Amazon tax",
-        "link": "https://seths.blog/2026/08/the-amazon-tax/",
-        "pubDate": "2026-08-18T13:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "Fixing a bricked Framework laptop",
-        "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-        "pubDate": "2026-08-18T13:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "Using the railway network as a flatbed scanner",
-        "link": "https://philo.gay/linecam/",
-        "pubDate": "2026-08-18T12:43",
-        "feedId": "hn"
       }
     ]
   },
@@ -128,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "CSS: the bomb inside your inbox",
-        "link": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
-        "pubDate": "2026-08-18T13:30",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools",
         "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
         "pubDate": "2026-08-18T15:07",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "CSS: the bomb inside your inbox",
+        "link": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
+        "pubDate": "2026-08-18T13:30",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "GitHub has alternatives, but no replacement",
-        "link": "https://lalitm.com/post/github-alternatives/",
-        "pubDate": "2026-08-17T17:12",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Kakoune code editor",
         "link": "https://kakoune.org/",
         "pubDate": "2026-08-18T18:16",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "GitHub has alternatives, but no replacement",
+        "link": "https://lalitm.com/post/github-alternatives/",
+        "pubDate": "2026-08-17T17:12",
         "feedId": "lobsters"
       },
       {
