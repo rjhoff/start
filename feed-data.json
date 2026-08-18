@@ -3,6 +3,36 @@
     "id": "hn",
     "items": [
       {
+        "title": "Deus Ex creator Warren Spector is retiring from game development",
+        "link": "https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/",
+        "pubDate": "2026-08-18T13:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Using the railway network as a flatbed scanner",
+        "link": "https://philo.gay/linecam/",
+        "pubDate": "2026-08-18T12:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Fairphone is now officially available in the United States",
+        "link": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+        "pubDate": "2026-08-18T12:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
+        "link": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
+        "pubDate": "2026-08-18T12:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+        "link": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+        "pubDate": "2026-08-18T12:22",
+        "feedId": "hn"
+      },
+      {
         "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
         "link": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
         "pubDate": "2026-08-18T11:27",
@@ -61,36 +91,6 @@
         "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
         "pubDate": "2026-08-17T22:06",
         "feedId": "hn"
-      },
-      {
-        "title": "Fairphone 6 and PostmarketOS working main camera",
-        "link": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-        "pubDate": "2026-08-17T22:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "GPT-5.6 Sol Pricing Cut by 50%",
-        "link": "https://openrouter.ai/openai/gpt-5.6-sol",
-        "pubDate": "2026-08-17T21:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-        "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-        "pubDate": "2026-08-17T20:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI;DR (AI; Didn't Read)",
-        "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-        "pubDate": "2026-08-17T19:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
-        "link": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
-        "pubDate": "2026-08-17T18:34",
-        "feedId": "hn"
       }
     ]
   },
@@ -116,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Does it make sense to switch to a Github Alternative ?",
-        "link": "https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github",
-        "pubDate": "2026-08-17T14:03",
+        "title": "How I browse the Web with uBlock (Hard Mode)",
+        "link": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
+        "pubDate": "2026-08-18T12:30",
         "feedId": "lobsters"
       },
       {
-        "title": "Biboumi – XMPP gateway to IRC",
-        "link": "https://biboumi.codeberg.page/doc/",
-        "pubDate": "2026-08-18T07:37",
+        "title": "Does it make sense to switch to a Github Alternative ?",
+        "link": "https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github",
+        "pubDate": "2026-08-17T14:03",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +140,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The benchmarkpocalypse",
-        "link": "https://danluu.com/benchpocalypse/",
-        "pubDate": "2026-08-18T00:47",
+        "title": "Biboumi – XMPP gateway to IRC",
+        "link": "https://biboumi.codeberg.page/doc/",
+        "pubDate": "2026-08-18T07:37",
         "feedId": "lobsters"
       },
       {
         "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
         "link": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
         "pubDate": "2026-08-17T17:54",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The benchmarkpocalypse",
+        "link": "https://danluu.com/benchpocalypse/",
+        "pubDate": "2026-08-18T00:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Using the railway network as a flatbed scanner",
+        "link": "https://philo.gay/linecam/",
+        "pubDate": "2026-08-18T11:42",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)",
-        "link": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
-        "pubDate": "2026-08-17T13:33",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Actual Budget",
         "link": "https://actualbudget.org/",
         "pubDate": "2026-08-18T02:46",
         "feedId": "lobsters"
       },
       {
-        "title": "Using the railway network as a flatbed scanner",
-        "link": "https://philo.gay/linecam/",
-        "pubDate": "2026-08-18T11:42",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Writing a Fast Compiler",
-        "link": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
-        "pubDate": "2026-08-17T11:13",
+        "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)",
+        "link": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
+        "pubDate": "2026-08-17T13:33",
         "feedId": "lobsters"
       }
     ]
