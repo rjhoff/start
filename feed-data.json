@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "Exercise intensity modulates interorgan communication and is associated with",
+        "link": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
+        "pubDate": "2026-08-18T04:51",
+        "feedId": "hn"
+      },
+      {
         "title": "The Benchmarkpocalypse",
         "link": "https://danluu.com/benchpocalypse/",
         "pubDate": "2026-08-18T02:11",
@@ -85,12 +91,6 @@
         "link": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
         "pubDate": "2026-08-17T17:15",
         "feedId": "hn"
-      },
-      {
-        "title": "Sun Clock",
-        "link": "https://sunclock.net/",
-        "pubDate": "2026-08-17T16:37",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "GitHub has alternatives, but no replacement",
-        "link": "https://lalitm.com/post/github-alternatives/",
-        "pubDate": "2026-08-17T17:12",
-        "feedId": "lobsters"
-      },
-      {
         "title": "How Bluesky draws its logo on screenshots",
         "link": "https://timmarinin.net/2026/bluesky-screenshots/",
         "pubDate": "2026-08-17T21:46",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "GitHub has alternatives, but no replacement",
+        "link": "https://lalitm.com/post/github-alternatives/",
+        "pubDate": "2026-08-17T17:12",
         "feedId": "lobsters"
       },
       {
@@ -122,15 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Vetted AI code is hard to justify",
-        "link": "https://amoffat.github.io/blog/vetting-burnout.html",
-        "pubDate": "2026-08-17T11:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A Preview of DuckDB v2.0",
-        "link": "https://duckdb.org/2026/08/17/duckdb-20-highlights.html",
-        "pubDate": "2026-08-17T16:13",
+        "title": "AI;DR (AI; Didn’t Read)",
+        "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+        "pubDate": "2026-08-17T20:14",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +134,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)",
-        "link": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
-        "pubDate": "2026-08-17T13:33",
+        "title": "A Preview of DuckDB v2.0",
+        "link": "https://duckdb.org/2026/08/17/duckdb-20-highlights.html",
+        "pubDate": "2026-08-17T16:13",
         "feedId": "lobsters"
       },
       {
-        "title": "AI;DR (AI; Didn’t Read)",
-        "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-        "pubDate": "2026-08-17T20:14",
+        "title": "Vetted AI code is hard to justify",
+        "link": "https://amoffat.github.io/blog/vetting-burnout.html",
+        "pubDate": "2026-08-17T11:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)",
+        "link": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
+        "pubDate": "2026-08-17T13:33",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +170,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+        "link": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+        "pubDate": "2026-08-17T17:54",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
         "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
         "pubDate": "2026-08-17T14:39",
         "feedId": "lobsters"
       },
       {
-        "title": "A faster way to calculate the day-of-the-week",
-        "link": "https://www.benjoffe.com/fast-day-of-week",
-        "pubDate": "2026-08-16T20:52",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Thinking about tests: assertions and matchers",
-        "link": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
-        "pubDate": "2026-08-17T10:35",
+        "title": "Actual Budget",
+        "link": "https://actualbudget.org/",
+        "pubDate": "2026-08-18T02:46",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Women are missing out on the AI jobs boom",
+        "link": "https://www.axios.com/2026/08/18/ai-women-jobs-hiring",
+        "pubDate": "2026-08-18T07:46",
+        "feedId": "axios"
+      },
+      {
         "title": "Congressional Democrats plan Oman war powers push after Trump threatens bombing",
         "link": "https://www.axios.com/2026/08/17/trump-oman-democrats-congress-war-powers-iran",
         "pubDate": "2026-08-17T23:14",
@@ -369,12 +375,6 @@
         "title": "Trump tells Hegseth to cut back U.S.-South Korea drills",
         "link": "https://www.axios.com/2026/08/16/trump-us-south-korea-military-drills-cut",
         "pubDate": "2026-08-16T21:59",
-        "feedId": "axios"
-      },
-      {
-        "title": "How AOC is rewriting her own \"Woke 1\" history",
-        "link": "https://www.axios.com/2026/08/16/aoc-walk-back-positions-2028",
-        "pubDate": "2026-08-16T21:40",
         "feedId": "axios"
       }
     ]
