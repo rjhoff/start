@@ -3,9 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "An Engineer's Old Cooking Trick Is Going Viral, Divides the Internet",
-        "link": "https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/",
-        "pubDate": "2026-08-18T14:40",
+        "title": "Code-native generation of highly programmable 3D assets (2026)",
+        "link": "https://arxiv.org/abs/2607.22738",
+        "pubDate": "2026-08-18T14:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "The coolest anti-surveillance tools at Defcon [video]",
+        "link": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
+        "pubDate": "2026-08-18T14:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
+        "link": "https://notactuallytreyanastasio.github.io/shoehorn/",
+        "pubDate": "2026-08-18T14:29",
         "feedId": "hn"
       },
       {
@@ -18,12 +30,6 @@
         "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
         "link": "https://opensource.posit.co/resources/cheatsheets/polars/",
         "pubDate": "2026-08-18T13:38",
-        "feedId": "hn"
-      },
-      {
-        "title": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
-        "link": "https://github.com/pitiflautico/neobrowser",
-        "pubDate": "2026-08-18T13:25",
         "feedId": "hn"
       },
       {
@@ -42,12 +48,6 @@
         "title": "Composable Tests",
         "link": "https://newsletter.kentbeck.com/p/composable-tests",
         "pubDate": "2026-08-18T13:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: A local MitM proxy to control TLS fingerprints",
-        "link": "https://github.com/ytkoka/impersonate-proxy",
-        "pubDate": "2026-08-18T13:07",
         "feedId": "hn"
       },
       {
@@ -81,7 +81,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Google buys crashed airline Spirit's data at auction",
+        "title": "Google has acquired the data of failed US airline Spirit",
         "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
         "pubDate": "2026-08-18T10:13",
         "feedId": "hn"
@@ -116,15 +116,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "GitHub has alternatives, but no replacement",
-        "link": "https://lalitm.com/post/github-alternatives/",
-        "pubDate": "2026-08-17T17:12",
+        "title": "What software do you use daily in 2026?",
+        "link": "https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026",
+        "pubDate": "2026-08-18T14:31",
         "feedId": "lobsters"
       },
       {
         "title": "CSS: the bomb inside your inbox",
         "link": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
         "pubDate": "2026-08-18T13:30",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "GitHub has alternatives, but no replacement",
+        "link": "https://lalitm.com/post/github-alternatives/",
+        "pubDate": "2026-08-17T17:12",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Using the railway network as a flatbed scanner",
+        "link": "https://philo.gay/linecam/",
+        "pubDate": "2026-08-18T11:42",
         "feedId": "lobsters"
       },
       {
@@ -140,12 +152,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Using the railway network as a flatbed scanner",
-        "link": "https://philo.gay/linecam/",
-        "pubDate": "2026-08-18T11:42",
-        "feedId": "lobsters"
-      },
-      {
         "title": "AI;DR (AI; Didn’t Read)",
         "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
         "pubDate": "2026-08-17T20:14",
@@ -155,12 +161,6 @@
         "title": "Quake Shareware, a CD-ROM just a little too full",
         "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
         "pubDate": "2026-08-17T22:58",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What software do you use daily in 2026?",
-        "link": "https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026",
-        "pubDate": "2026-08-18T14:31",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Fairphone 6 + PostmarketOS working main camera",
-        "link": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-        "pubDate": "2026-08-18T12:29",
+        "title": "Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools",
+        "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+        "pubDate": "2026-08-18T15:07",
         "feedId": "lobsters"
       },
       {
-        "title": "A Preview of DuckDB v2.0",
-        "link": "https://duckdb.org/2026/08/17/duckdb-20-highlights.html",
-        "pubDate": "2026-08-17T16:13",
+        "title": "Actual Budget",
+        "link": "https://actualbudget.org/",
+        "pubDate": "2026-08-18T02:46",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Teenage Sex and Death at Camp Miasma takes pains to deliver a slasher fan’s dream",
+        "link": "https://arstechnica.com/culture/2026/08/teenage-sex-and-death-at-camp-miasma-takes-pains-to-deliver-a-slasher-fans-dream/",
+        "pubDate": "2026-08-18T15:36",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "X-rays add new twist to narwhal's spiral tusk",
+        "link": "https://arstechnica.com/science/2026/08/x-rays-add-new-twist-to-narwhals-spiral-tusk/",
+        "pubDate": "2026-08-18T15:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
         "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
@@ -269,24 +281,18 @@
         "link": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
         "pubDate": "2026-08-17T13:41",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Satellite operators are in panic mode due to a worsening launch crisis",
-        "link": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/",
-        "pubDate": "2026-08-17T11:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
-        "link": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
-        "pubDate": "2026-08-16T10:00",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "America's debt is getting more expensive",
+        "link": "https://www.axios.com/2026/08/18/debt-revenue-interest-defense-spending",
+        "pubDate": "2026-08-18T16:02",
+        "feedId": "axios"
+      },
       {
         "title": "Democrats enter their thirst trap era",
         "link": "https://www.axios.com/2026/08/18/democrats-social-media-ossoff-el-sayed",
@@ -369,12 +375,6 @@
         "title": "Older Democrats walloped by midterms anti-establishment revolt",
         "link": "https://www.axios.com/2026/08/13/democrats-old-age-larson-bronin-young-primaries",
         "pubDate": "2026-08-17T15:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "Birding, silent book club, Mahjong and more: America's meetup explosion",
-        "link": "https://www.axios.com/2026/08/17/meetup-dating-gen-z-loneliness",
-        "pubDate": "2026-08-17T09:40",
         "feedId": "axios"
       }
     ]
