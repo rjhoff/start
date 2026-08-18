@@ -3,27 +3,15 @@
     "id": "hn",
     "items": [
       {
-        "title": "PM Carney announces largest clean energy investment in North American history",
-        "link": "https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north",
-        "pubDate": "2026-08-18T00:25",
+        "title": "Google wins bankruptcy auction for Spirit Airlines emails, chats, documents",
+        "link": "https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy",
+        "pubDate": "2026-08-18T00:29",
         "feedId": "hn"
       },
       {
         "title": "Repair Cafe – Fix Your Broken Items",
         "link": "https://www.repaircafe.org/",
         "pubDate": "2026-08-17T23:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "Puppy PPE",
-        "link": "http://amosdudley.com/weblog/Designing-PPE-for-Hilde",
-        "pubDate": "2026-08-17T23:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "Flock cameras haven't improved Atlanta's crime clearance rates",
-        "link": "https://atlpresscollective.com/2026/07/28/flock-cameras-atlanta-clearance-rates/",
-        "pubDate": "2026-08-17T22:48",
         "feedId": "hn"
       },
       {
@@ -63,6 +51,12 @@
         "feedId": "hn"
       },
       {
+        "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+        "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+        "pubDate": "2026-08-17T20:46",
+        "feedId": "hn"
+      },
+      {
         "title": "GitHub degradation affects Cursor Origin, its new Git platform",
         "link": "https://status.cursor.com/incidents/l9h9vrd726jv",
         "pubDate": "2026-08-17T20:13",
@@ -75,6 +69,18 @@
         "feedId": "hn"
       },
       {
+        "title": "India has paved the way for charging merchants a fee on UPI transactions",
+        "link": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
+        "pubDate": "2026-08-17T19:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
+        "link": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
+        "pubDate": "2026-08-17T18:34",
+        "feedId": "hn"
+      },
+      {
         "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
         "link": "https://blog.roboflow.com/roboflow-playground/",
         "pubDate": "2026-08-17T18:28",
@@ -84,12 +90,6 @@
         "title": "GPU Offload in Rust: Portable, Safe, and Fast",
         "link": "https://arxiv.org/abs/2608.13759",
         "pubDate": "2026-08-17T17:54",
-        "feedId": "hn"
-      },
-      {
-        "title": "Sun Clock",
-        "link": "https://sunclock.net/",
-        "pubDate": "2026-08-17T16:37",
         "feedId": "hn"
       }
     ]
@@ -128,6 +128,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "AI;DR (AI; Didn’t Read)",
+        "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+        "pubDate": "2026-08-17T20:14",
+        "feedId": "lobsters"
+      },
+      {
         "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)",
         "link": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
         "pubDate": "2026-08-17T13:33",
@@ -140,15 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I thought I was building a C replacement. I was wrong",
-        "link": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
-        "pubDate": "2026-08-16T14:05",
+        "title": "Quake Shareware, a CD-ROM just a little too full",
+        "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+        "pubDate": "2026-08-17T22:58",
         "feedId": "lobsters"
       },
       {
-        "title": "AI;DR (AI; Didn’t Read)",
-        "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-        "pubDate": "2026-08-17T20:14",
+        "title": "I thought I was building a C replacement. I was wrong",
+        "link": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
+        "pubDate": "2026-08-16T14:05",
         "feedId": "lobsters"
       },
       {
@@ -164,9 +170,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Quake Shareware, a CD-ROM just a little too full",
-        "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-        "pubDate": "2026-08-17T22:58",
+        "title": "Thinking about tests: assertions and matchers",
+        "link": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
+        "pubDate": "2026-08-17T10:35",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Thinking about tests: assertions and matchers",
-        "link": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
-        "pubDate": "2026-08-17T10:35",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
-        "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-        "pubDate": "2026-08-17T14:39",
+        "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+        "link": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+        "pubDate": "2026-08-17T17:54",
         "feedId": "lobsters"
       }
     ]
@@ -312,6 +312,12 @@
         "feedId": "axios"
       },
       {
+        "title": "House Ethics investigating Rep. Jimmy Gomez over sexual misconduct allegations",
+        "link": "https://www.axios.com/2026/08/17/ethics-investigating-jimmy-gomez-sexual-misconduct",
+        "pubDate": "2026-08-17T18:59",
+        "feedId": "axios"
+      },
+      {
         "title": "Kushner urges Netanyahu to test Hamas disarmament in Gaza",
         "link": "https://www.axios.com/2026/08/17/kushner-netanyahu-hamas-gaza",
         "pubDate": "2026-08-17T18:41",
@@ -369,12 +375,6 @@
         "title": "How AOC is rewriting her own \"Woke 1\" history",
         "link": "https://www.axios.com/2026/08/16/aoc-walk-back-positions-2028",
         "pubDate": "2026-08-16T21:40",
-        "feedId": "axios"
-      },
-      {
-        "title": "Inside Kushner's Hamas meeting: What comes next in Gaza",
-        "link": "https://www.axios.com/2026/08/16/kushner-hamas-gaza-disarmament-egypt-israel",
-        "pubDate": "2026-08-16T20:13",
         "feedId": "axios"
       }
     ]
