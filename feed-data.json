@@ -3,9 +3,9 @@
     "id": "hn",
     "items": [
       {
-        "title": "California's new tire efficiency rules could save drivers $1B a year",
-        "link": "https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/",
-        "pubDate": "2026-08-18T02:58",
+        "title": "What's Better Than Binary? – Advent of Computing Episode 187",
+        "link": "https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary",
+        "pubDate": "2026-08-18T02:14",
         "feedId": "hn"
       },
       {
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Does it make sense to switch to a Github Alternative ?",
-        "link": "https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github",
-        "pubDate": "2026-08-17T14:03",
-        "feedId": "lobsters"
-      },
-      {
         "title": "How Bluesky draws its logo on screenshots",
         "link": "https://timmarinin.net/2026/bluesky-screenshots/",
         "pubDate": "2026-08-17T21:46",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Does it make sense to switch to a Github Alternative ?",
+        "link": "https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github",
+        "pubDate": "2026-08-17T14:03",
         "feedId": "lobsters"
       },
       {
@@ -152,6 +152,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "The benchmarkpocalypse",
+        "link": "https://danluu.com/benchpocalypse/",
+        "pubDate": "2026-08-18T00:47",
+        "feedId": "lobsters"
+      },
+      {
         "title": "I thought I was building a C replacement. I was wrong",
         "link": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
         "pubDate": "2026-08-16T14:05",
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Every Fucking Website",
-        "link": "https://op.tngl.io/every-fucking-website/",
-        "pubDate": "2026-08-16T16:26",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-        "link": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
-        "pubDate": "2026-08-17T17:54",
+        "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+        "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+        "pubDate": "2026-08-17T14:39",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
+        "link": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
+        "pubDate": "2026-08-18T04:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
         "link": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
@@ -274,12 +280,6 @@
         "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
         "link": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
         "pubDate": "2026-08-15T15:46",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "So much solar: Digging into the list of every US power plant that went online this year",
-        "link": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
-        "pubDate": "2026-08-15T11:09",
         "feedId": "arstechnica"
       }
     ]
