@@ -3,15 +3,51 @@
     "id": "hn",
     "items": [
       {
-        "title": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows",
-        "link": "https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows",
-        "pubDate": "2026-08-18T16:40",
+        "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+        "link": "https://pantheongpu.com/",
+        "pubDate": "2026-08-18T18:47",
         "feedId": "hn"
       },
       {
-        "title": "Degraded performance for multiple models",
-        "link": "https://status.claude.com/incidents/q7txxvbsftgq",
-        "pubDate": "2026-08-18T16:28",
+        "title": "How does IKEA come up with names for its products?",
+        "link": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+        "pubDate": "2026-08-18T18:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+        "link": "https://github.com/RyanCodrai/turbovec",
+        "pubDate": "2026-08-18T18:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: macOS data protection keychain for Electron apps",
+        "link": "https://github.com/biw/keychain-store",
+        "pubDate": "2026-08-18T17:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+        "link": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+        "pubDate": "2026-08-18T17:24",
+        "feedId": "hn"
+      },
+      {
+        "title": "And then the men with guns tell you to do it anyway",
+        "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+        "pubDate": "2026-08-18T17:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "Claude Code May–August 2026 weekly limits promotion",
+        "link": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+        "pubDate": "2026-08-18T17:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows",
+        "pubDate": "2026-08-18T16:40",
         "feedId": "hn"
       },
       {
@@ -39,12 +75,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
-        "link": "https://notactuallytreyanastasio.github.io/shoehorn/",
-        "pubDate": "2026-08-18T14:29",
-        "feedId": "hn"
-      },
-      {
         "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
         "link": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
         "pubDate": "2026-08-18T14:06",
@@ -61,36 +91,6 @@
         "link": "https://seths.blog/2026/08/the-amazon-tax/",
         "pubDate": "2026-08-18T13:22",
         "feedId": "hn"
-      },
-      {
-        "title": "Fixing a bricked Framework laptop",
-        "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-        "pubDate": "2026-08-18T13:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "Composable Tests",
-        "link": "https://newsletter.kentbeck.com/p/composable-tests",
-        "pubDate": "2026-08-18T13:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "Using the railway network as a flatbed scanner",
-        "link": "https://philo.gay/linecam/",
-        "pubDate": "2026-08-18T12:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "Fairphone is now officially available in the United States",
-        "link": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
-        "pubDate": "2026-08-18T12:42",
-        "feedId": "hn"
-      },
-      {
-        "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
-        "link": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
-        "pubDate": "2026-08-18T12:23",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,21 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "How I browse the Web with uBlock (Hard Mode)",
+        "link": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
+        "pubDate": "2026-08-18T12:30",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Rethinking Database Programming",
         "link": "https://acadia.engineering/blog/rethinking-database-programming",
         "pubDate": "2026-08-18T08:34",
         "feedId": "lobsters"
       },
       {
-        "title": "How I browse the Web with uBlock (Hard Mode)",
-        "link": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
-        "pubDate": "2026-08-18T12:30",
+        "title": "Mojo is now open source",
+        "link": "https://www.modular.com/blog/mojo-open-source",
+        "pubDate": "2026-08-18T16:34",
         "feedId": "lobsters"
       },
       {
@@ -134,6 +140,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools",
+        "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+        "pubDate": "2026-08-18T15:07",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Using the railway network as a flatbed scanner",
         "link": "https://philo.gay/linecam/",
         "pubDate": "2026-08-18T11:42",
@@ -146,33 +158,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Mojo is now open source",
-        "link": "https://www.modular.com/blog/mojo-open-source",
-        "pubDate": "2026-08-18T16:34",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Does it make sense to switch to a Github Alternative ?",
         "link": "https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github",
         "pubDate": "2026-08-17T14:03",
         "feedId": "lobsters"
       },
       {
-        "title": "Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools",
-        "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-        "pubDate": "2026-08-18T15:07",
+        "title": "Quake Shareware, a CD-ROM just a little too full",
+        "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+        "pubDate": "2026-08-17T22:58",
         "feedId": "lobsters"
       },
       {
         "title": "AI;DR (AI; Didn’t Read)",
         "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
         "pubDate": "2026-08-17T20:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Quake Shareware, a CD-ROM just a little too full",
-        "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-        "pubDate": "2026-08-17T22:58",
         "feedId": "lobsters"
       },
       {
@@ -192,6 +192,30 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Peacock raises prices by 18 percent after becoming profitable",
+        "link": "https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/",
+        "pubDate": "2026-08-18T16:42",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "The United States is about to wake up to the threat from China's space program",
+        "link": "https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/",
+        "pubDate": "2026-08-18T16:30",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Fairphone's latest repairable phone is finally available in the US for $650",
+        "link": "https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/",
+        "pubDate": "2026-08-18T16:05",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Ford hopes this Hypercar will be its next Le Mans winner",
+        "link": "https://arstechnica.com/cars/2026/08/ford-hopes-this-hypercar-will-be-its-next-le-mans-winner/",
+        "pubDate": "2026-08-18T15:52",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Teenage Sex and Death at Camp Miasma takes pains to deliver a slasher fan’s dream",
         "link": "https://arstechnica.com/culture/2026/08/teenage-sex-and-death-at-camp-miasma-takes-pains-to-deliver-a-slasher-fans-dream/",
@@ -257,36 +281,24 @@
         "link": "https://arstechnica.com/gadgets/2026/08/petlibro-accused-of-gaslighting-users-over-smart-pet-feeder-outage/",
         "pubDate": "2026-08-17T18:43",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-        "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-        "pubDate": "2026-08-17T18:13",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "This sub-$7,000 sportscar might be just what the future needs",
-        "link": "https://arstechnica.com/cars/2026/08/the-opposite-of-a-hypercar-is-fun-meet-the-gasolini-ar1/",
-        "pubDate": "2026-08-17T15:01",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Nvidia discloses $21B stake in SpaceX",
-        "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
-        "pubDate": "2026-08-17T14:22",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Meet the only known trebuchet casualty in history",
-        "link": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
-        "pubDate": "2026-08-17T13:41",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "TPS' slow bleed leaves thousands in limbo",
+        "link": "https://www.axios.com/2026/08/18/trum-tps-protections-program-uncertain-future",
+        "pubDate": "2026-08-18T19:11",
+        "feedId": "axios"
+      },
+      {
+        "title": "Young adults are losing faith in AI's upside",
+        "link": "https://www.axios.com/2026/08/18/young-adults-ai-job-loss",
+        "pubDate": "2026-08-18T18:29",
+        "feedId": "axios"
+      },
       {
         "title": "UN inspectors visit undeclared Syrian nuclear sites for first time",
         "link": "https://www.axios.com/2026/08/18/syria-nuclear-reactors-iaea",
@@ -363,18 +375,6 @@
         "title": "House Ethics investigating Rep. Jimmy Gomez over sexual misconduct allegations",
         "link": "https://www.axios.com/2026/08/17/ethics-investigating-jimmy-gomez-sexual-misconduct",
         "pubDate": "2026-08-17T18:59",
-        "feedId": "axios"
-      },
-      {
-        "title": "Kushner urges Netanyahu to test Hamas disarmament in Gaza",
-        "link": "https://www.axios.com/2026/08/17/kushner-netanyahu-hamas-gaza",
-        "pubDate": "2026-08-17T18:41",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump fails to undo E. Jean Carroll verdict at Supreme Court",
-        "link": "https://www.axios.com/2026/08/17/supreme-court-rejects-trump-e-jean-carroll-verdict",
-        "pubDate": "2026-08-17T15:22",
         "feedId": "axios"
       }
     ]
