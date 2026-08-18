@@ -15,21 +15,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Argus, agentic QA for teams whose coding agents move faster than QA",
-        "link": "https://github.com/argus-testing/argus",
-        "pubDate": "2026-08-18T19:10",
-        "feedId": "hn"
-      },
-      {
         "title": "IndieWeb Homebrew Website Club Asia Pacific: Reflections",
         "link": "https://burgeonlab.com/blog/inaugural-hwc-ap-recap/",
         "pubDate": "2026-08-18T19:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
-        "link": "https://pantheongpu.com/",
-        "pubDate": "2026-08-18T18:47",
         "feedId": "hn"
       },
       {
@@ -63,12 +51,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Claude Code May–August 2026 weekly limits promotion",
-        "link": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-        "pubDate": "2026-08-18T17:02",
-        "feedId": "hn"
-      },
-      {
         "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
         "link": "https://machine0.io",
         "pubDate": "2026-08-18T16:26",
@@ -90,6 +72,24 @@
         "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
         "link": "https://opensource.posit.co/resources/cheatsheets/polars/",
         "pubDate": "2026-08-18T13:38",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Amazon tax",
+        "link": "https://seths.blog/2026/08/the-amazon-tax/",
+        "pubDate": "2026-08-18T13:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "Fixing a bricked Framework laptop",
+        "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+        "pubDate": "2026-08-18T13:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Using the railway network as a flatbed scanner",
+        "link": "https://philo.gay/linecam/",
+        "pubDate": "2026-08-18T12:43",
         "feedId": "hn"
       }
     ]
@@ -134,15 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Using the railway network as a flatbed scanner",
-        "link": "https://philo.gay/linecam/",
-        "pubDate": "2026-08-18T11:42",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools",
         "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
         "pubDate": "2026-08-18T15:07",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Using the railway network as a flatbed scanner",
+        "link": "https://philo.gay/linecam/",
+        "pubDate": "2026-08-18T11:42",
         "feedId": "lobsters"
       },
       {
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
+        "link": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
+        "pubDate": "2026-08-18T19:01",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
+        "link": "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/",
+        "pubDate": "2026-08-18T18:11",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Peacock raises prices by 18 percent after becoming profitable",
         "link": "https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/",
@@ -268,18 +280,6 @@
         "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
         "link": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
         "pubDate": "2026-08-17T20:14",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-        "link": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
-        "pubDate": "2026-08-17T20:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Petlibro accused of “gaslighting” users over smart pet feeder outage",
-        "link": "https://arstechnica.com/gadgets/2026/08/petlibro-accused-of-gaslighting-users-over-smart-pet-feeder-outage/",
-        "pubDate": "2026-08-17T18:43",
         "feedId": "arstechnica"
       }
     ]
