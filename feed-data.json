@@ -3,9 +3,39 @@
     "id": "hn",
     "items": [
       {
+        "title": "Norway Should Buy OpenAI",
+        "link": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+        "pubDate": "2026-08-18T19:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "Beware Management Consultants",
+        "link": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+        "pubDate": "2026-08-18T19:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Argus, agentic QA for teams whose coding agents move faster than QA",
+        "link": "https://github.com/argus-testing/argus",
+        "pubDate": "2026-08-18T19:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "IndieWeb Homebrew Website Club Asia Pacific: Reflections",
+        "link": "https://burgeonlab.com/blog/inaugural-hwc-ap-recap/",
+        "pubDate": "2026-08-18T19:07",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
         "link": "https://pantheongpu.com/",
         "pubDate": "2026-08-18T18:47",
+        "feedId": "hn"
+      },
+      {
+        "title": "Pacing model development in an era of cyber-critical capabilities",
+        "link": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+        "pubDate": "2026-08-18T18:14",
         "feedId": "hn"
       },
       {
@@ -33,27 +63,9 @@
         "feedId": "hn"
       },
       {
-        "title": "And then the men with guns tell you to do it anyway",
-        "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
-        "pubDate": "2026-08-18T17:11",
-        "feedId": "hn"
-      },
-      {
         "title": "Claude Code May–August 2026 weekly limits promotion",
         "link": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
         "pubDate": "2026-08-18T17:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows",
-        "link": "https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows",
-        "pubDate": "2026-08-18T16:40",
-        "feedId": "hn"
-      },
-      {
-        "title": "Superpowers, Not Superintelligence",
-        "link": "https://bond.now/news/superpowers-not-superintelligence",
-        "pubDate": "2026-08-18T16:27",
         "feedId": "hn"
       },
       {
@@ -69,12 +81,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Code-native generation of highly programmable 3D assets (2026)",
-        "link": "https://arxiv.org/abs/2607.22738",
-        "pubDate": "2026-08-18T14:54",
-        "feedId": "hn"
-      },
-      {
         "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
         "link": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
         "pubDate": "2026-08-18T14:06",
@@ -84,12 +90,6 @@
         "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
         "link": "https://opensource.posit.co/resources/cheatsheets/polars/",
         "pubDate": "2026-08-18T13:38",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Amazon tax",
-        "link": "https://seths.blog/2026/08/the-amazon-tax/",
-        "pubDate": "2026-08-18T13:22",
         "feedId": "hn"
       }
     ]
@@ -116,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How Bluesky draws its logo on screenshots",
-        "link": "https://timmarinin.net/2026/bluesky-screenshots/",
-        "pubDate": "2026-08-17T21:46",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What software do you use daily in 2026?",
         "link": "https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026",
         "pubDate": "2026-08-18T14:31",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How Bluesky draws its logo on screenshots",
+        "link": "https://timmarinin.net/2026/bluesky-screenshots/",
+        "pubDate": "2026-08-17T21:46",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "GitHub has alternatives, but no replacement",
-        "link": "https://lalitm.com/post/github-alternatives/",
-        "pubDate": "2026-08-17T17:12",
+        "title": "Using the railway network as a flatbed scanner",
+        "link": "https://philo.gay/linecam/",
+        "pubDate": "2026-08-18T11:42",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Using the railway network as a flatbed scanner",
-        "link": "https://philo.gay/linecam/",
-        "pubDate": "2026-08-18T11:42",
+        "title": "GitHub has alternatives, but no replacement",
+        "link": "https://lalitm.com/post/github-alternatives/",
+        "pubDate": "2026-08-17T17:12",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Kakoune code editor",
+        "link": "https://kakoune.org/",
+        "pubDate": "2026-08-18T18:16",
         "feedId": "lobsters"
       },
       {
@@ -164,6 +170,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+        "link": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+        "pubDate": "2026-08-17T17:54",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Quake Shareware, a CD-ROM just a little too full",
         "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
         "pubDate": "2026-08-17T22:58",
@@ -173,18 +185,6 @@
         "title": "AI;DR (AI; Didn’t Read)",
         "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
         "pubDate": "2026-08-17T20:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-        "link": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
-        "pubDate": "2026-08-17T17:54",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The benchmarkpocalypse",
-        "link": "https://danluu.com/benchpocalypse/",
-        "pubDate": "2026-08-18T00:47",
         "feedId": "lobsters"
       }
     ]
