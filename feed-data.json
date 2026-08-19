@@ -3,21 +3,69 @@
     "id": "hn",
     "items": [
       {
-        "title": "Go 1.27 Is Released",
-        "link": "https://go.dev/blog/go1.27",
-        "pubDate": "2026-08-19T18:33",
+        "title": "Pixel 11 Pro Fold feels like the end of an era",
+        "link": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+        "pubDate": "2026-08-19T19:43",
         "feedId": "hn"
       },
       {
-        "title": "The A.I. In Google's New Pixel 11 Is Not Helpful",
-        "link": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
-        "pubDate": "2026-08-19T18:32",
+        "title": "You Probably Don't Get Why Stripe Bought OpenRouter",
+        "link": "https://www.amppublic.com/research/openrouter",
+        "pubDate": "2026-08-19T19:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "From Quantum Relative Entropy to the Semiclassical Einstein Equations",
+        "link": "https://arxiv.org/abs/2510.24491",
+        "pubDate": "2026-08-19T19:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ramp Launches a Model Router",
+        "link": "https://router.com",
+        "pubDate": "2026-08-19T19:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+        "link": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+        "pubDate": "2026-08-19T19:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Police officer used Flock cameras to track estranged wife 717 times",
+        "link": "https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/",
+        "pubDate": "2026-08-19T18:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "Unsloth Dynamic 3.0 GGUFs",
+        "link": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+        "pubDate": "2026-08-19T18:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "Rules of Good Social Skills",
+        "link": "https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/",
+        "pubDate": "2026-08-19T18:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "Go 1.27",
+        "link": "https://go.dev/blog/go1.27",
+        "pubDate": "2026-08-19T18:33",
         "feedId": "hn"
       },
       {
         "title": "Introducing MicroLighter",
         "link": "https://daverupert.com/2026/08/microlighter/",
         "pubDate": "2026-08-19T18:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+        "link": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+        "pubDate": "2026-08-19T17:47",
         "feedId": "hn"
       },
       {
@@ -33,12 +81,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
-        "link": "https://demo.frugaltokens.com/",
-        "pubDate": "2026-08-19T17:07",
-        "feedId": "hn"
-      },
-      {
         "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
         "link": "https://github.com/onecli/onecli",
         "pubDate": "2026-08-19T16:29",
@@ -48,48 +90,6 @@
         "title": "Extensible Software in the age of LLMs",
         "link": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
         "pubDate": "2026-08-19T16:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "How Kubernetes Probes Work",
-        "link": "https://ngrok.com/blog/probes",
-        "pubDate": "2026-08-19T16:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
-        "link": "https://arxiv.org/abs/2503.08679",
-        "pubDate": "2026-08-19T16:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "Civic Hygiene – avoid building technologies that could be used by a police state (2013)",
-        "link": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
-        "pubDate": "2026-08-19T16:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "Remote workers report the highest well-being in study of 7,700 employees",
-        "link": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
-        "pubDate": "2026-08-19T15:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "Mathematics in the Age of AI",
-        "link": "https://arxiv.org/abs/2608.16753",
-        "pubDate": "2026-08-19T15:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
-        "link": "https://ornith.ai/ornith_1_5.html",
-        "pubDate": "2026-08-19T14:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
-        "link": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
-        "pubDate": "2026-08-19T13:33",
         "feedId": "hn"
       }
     ]
@@ -122,27 +122,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Mastodon 5.0: Laying the foundation",
-        "link": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
-        "pubDate": "2026-08-19T00:03",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Solo: a .so loader for static Linux binaries",
-        "link": "https://github.com/pg83/solo",
-        "pubDate": "2026-08-19T09:34",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Go 1.27 is released - The Go Programming Language",
+        "title": "Go 1.27 is released",
         "link": "https://go.dev/blog/go1.27",
         "pubDate": "2026-08-19T17:53",
         "feedId": "lobsters"
       },
       {
-        "title": "a filename when none exists",
-        "link": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
-        "pubDate": "2026-08-19T07:29",
+        "title": "SQLite for Everything",
+        "link": "https://joecode.com/2026-08-19-sqlite3/",
+        "pubDate": "2026-08-19T15:17",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Mastodon 5.0: Laying the foundation",
+        "link": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
+        "pubDate": "2026-08-19T00:03",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +146,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "SQLite for Everything",
-        "link": "https://joecode.com/2026-08-19-sqlite3/",
-        "pubDate": "2026-08-19T15:17",
+        "title": "Solo: a .so loader for static Linux binaries",
+        "link": "https://github.com/pg83/solo",
+        "pubDate": "2026-08-19T09:34",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "a filename when none exists",
+        "link": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
+        "pubDate": "2026-08-19T07:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Go 1.27 Release Notes",
+        "link": "https://go.dev/doc/go1.27",
+        "pubDate": "2026-08-19T18:15",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Things I want in a modern relational query language",
+        "link": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
+        "pubDate": "2026-08-19T04:44",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What software do you use daily in 2026?",
-        "link": "https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026",
-        "pubDate": "2026-08-18T14:31",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Things I want in a modern relational query language",
-        "link": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-        "pubDate": "2026-08-19T04:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Kakoune code editor",
-        "link": "https://kakoune.org/",
-        "pubDate": "2026-08-18T18:16",
+        "title": "capri: Type-safe, atomic Gleam bindings for Khepri, the modern distributed database for the BEAM",
+        "link": "https://capri.hexdocs.pm/",
+        "pubDate": "2026-08-19T17:07",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "U.S. conducting stealth operation to transport oil through Hormuz",
+        "link": "https://www.axios.com/2026/08/19/hormuz-iran-oil-gulf-trump",
+        "pubDate": "2026-08-19T19:48",
+        "feedId": "axios"
+      },
+      {
+        "title": "NASA aborts attempt to save dying space telescope",
+        "link": "https://www.axios.com/2026/08/19/nasa-swift-boost-mission-canceled-link",
+        "pubDate": "2026-08-19T19:33",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump taps Heidi Overton as FDA commissioner",
         "link": "https://www.axios.com/2026/08/19/trump-heidi-overton-fda-commissioner",
         "pubDate": "2026-08-19T16:39",
@@ -363,18 +375,6 @@
         "title": "TPS' slow bleed leaves thousands in limbo",
         "link": "https://www.axios.com/2026/08/18/trum-tps-protections-program-uncertain-future",
         "pubDate": "2026-08-18T19:11",
-        "feedId": "axios"
-      },
-      {
-        "title": "Young adults are losing faith in AI's upside",
-        "link": "https://www.axios.com/2026/08/18/young-adults-ai-job-loss",
-        "pubDate": "2026-08-18T18:29",
-        "feedId": "axios"
-      },
-      {
-        "title": "UN inspectors visit undeclared Syrian nuclear sites for first time",
-        "link": "https://www.axios.com/2026/08/18/syria-nuclear-reactors-iaea",
-        "pubDate": "2026-08-18T16:55",
         "feedId": "axios"
       }
     ]
