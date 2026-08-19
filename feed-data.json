@@ -3,15 +3,27 @@
     "id": "hn",
     "items": [
       {
-        "title": "Pixel 11 Pro Fold feels like the end of an era",
-        "link": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
-        "pubDate": "2026-08-19T19:43",
+        "title": "DFlash 2: Keep Drafting Parallel",
+        "link": "https://inco.ai/blog/dflash2/",
+        "pubDate": "2026-08-19T20:28",
         "feedId": "hn"
       },
       {
-        "title": "You Probably Don't Get Why Stripe Bought OpenRouter",
-        "link": "https://www.amppublic.com/research/openrouter",
-        "pubDate": "2026-08-19T19:39",
+        "title": "Pressed Penny Machine Map",
+        "link": "https://pennypresses.net/home/map.php",
+        "pubDate": "2026-08-19T20:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "XWayland 26.1-rc1 Released Two Years After the Last Release",
+        "link": "https://lists.x.org/archives/xorg/2026-August/062280.html",
+        "pubDate": "2026-08-19T20:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "Digital Immortality",
+        "link": "https://dogdogfish.com/blog/2026/08/19/digital-immortality/",
+        "pubDate": "2026-08-19T19:44",
         "feedId": "hn"
       },
       {
@@ -21,7 +33,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Ramp Launches a Model Router",
+        "title": "Router by Ramp",
         "link": "https://router.com",
         "pubDate": "2026-08-19T19:26",
         "feedId": "hn"
@@ -33,19 +45,13 @@
         "feedId": "hn"
       },
       {
-        "title": "Police officer used Flock cameras to track estranged wife 717 times",
-        "link": "https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/",
-        "pubDate": "2026-08-19T18:58",
-        "feedId": "hn"
-      },
-      {
         "title": "Unsloth Dynamic 3.0 GGUFs",
         "link": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
         "pubDate": "2026-08-19T18:36",
         "feedId": "hn"
       },
       {
-        "title": "Rules of Good Social Skills",
+        "title": "Rules of Good Social Skills (2025)",
         "link": "https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/",
         "pubDate": "2026-08-19T18:34",
         "feedId": "hn"
@@ -66,12 +72,6 @@
         "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
         "link": "https://grapheneos.social/@GrapheneOS/117057099753905023",
         "pubDate": "2026-08-19T17:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
-        "link": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
-        "pubDate": "2026-08-19T17:45",
         "feedId": "hn"
       },
       {
@@ -134,15 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Mastodon 5.0: Laying the foundation",
-        "link": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
-        "pubDate": "2026-08-19T00:03",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Introducing Microlighter",
         "link": "https://daverupert.com/2026/08/microlighter/",
         "pubDate": "2026-08-19T16:32",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Mastodon 5.0: Laying the foundation",
+        "link": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
+        "pubDate": "2026-08-19T00:03",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +152,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Sing-song: a speakable encoding for long numbers and keys",
+        "link": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
+        "pubDate": "2026-08-19T20:28",
+        "feedId": "lobsters"
+      },
+      {
         "title": "a filename when none exists",
         "link": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
         "pubDate": "2026-08-19T07:29",
         "feedId": "lobsters"
       },
       {
-        "title": "Go 1.27 Release Notes",
-        "link": "https://go.dev/doc/go1.27",
-        "pubDate": "2026-08-19T18:15",
+        "title": "capri: Type-safe, atomic Gleam bindings for Khepri, the modern distributed database for the BEAM",
+        "link": "https://capri.hexdocs.pm/",
+        "pubDate": "2026-08-19T17:07",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Go 1.27 Release Notes",
+        "link": "https://go.dev/doc/go1.27",
+        "pubDate": "2026-08-19T18:15",
+        "feedId": "lobsters"
+      },
+      {
         "title": "How I browse the Web with uBlock (Hard Mode)",
         "link": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
         "pubDate": "2026-08-18T12:30",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Mojo is now open source",
-        "link": "https://www.modular.com/blog/mojo-open-source",
-        "pubDate": "2026-08-18T16:34",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "capri: Type-safe, atomic Gleam bindings for Khepri, the modern distributed database for the BEAM",
-        "link": "https://capri.hexdocs.pm/",
-        "pubDate": "2026-08-19T17:07",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,30 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
+        "link": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
+        "pubDate": "2026-08-19T20:21",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
+        "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
+        "pubDate": "2026-08-19T20:04",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "FCC abolishes gigabit speed goal, suggesting it is unfair to slower technologies",
+        "link": "https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/",
+        "pubDate": "2026-08-19T19:45",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "The floodgates are open after another Chinese company lands a reusable rocket",
+        "link": "https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/",
+        "pubDate": "2026-08-19T18:41",
+        "feedId": "arstechnica"
+      },
       {
         "title": "A fantastical journey unfolds in gorgeous Wildwood trailer",
         "link": "https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/",
@@ -257,36 +281,18 @@
         "link": "https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/",
         "pubDate": "2026-08-18T16:42",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "The United States is about to wake up to the threat from China's space program",
-        "link": "https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/",
-        "pubDate": "2026-08-18T16:30",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Fairphone's latest repairable phone is finally available in the US for $650",
-        "link": "https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/",
-        "pubDate": "2026-08-18T16:05",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Ford hopes this Hypercar will be its next Le Mans winner",
-        "link": "https://arstechnica.com/cars/2026/08/ford-hopes-this-hypercar-will-be-its-next-le-mans-winner/",
-        "pubDate": "2026-08-18T15:52",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Teenage Sex and Death at Camp Miasma takes pains to deliver a slasher fan’s dream",
-        "link": "https://arstechnica.com/culture/2026/08/teenage-sex-and-death-at-camp-miasma-takes-pains-to-deliver-a-slasher-fans-dream/",
-        "pubDate": "2026-08-18T15:36",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "The data center fight is hitting a fever pitch. Here's how they actually work",
+        "link": "https://www.axios.com/2026/08/19/ai-power-data-center-electricity-construction",
+        "pubDate": "2026-08-19T21:02",
+        "feedId": "axios"
+      },
       {
         "title": "U.S. conducting stealth operation to transport oil through Hormuz",
         "link": "https://www.axios.com/2026/08/19/hormuz-iran-oil-gulf-trump",
@@ -369,12 +375,6 @@
         "title": "Israel defends strike on Syria as U.S. frustration with Bibi grows",
         "link": "https://www.axios.com/2026/08/18/israel-syria-turkey-strike-military-buildup",
         "pubDate": "2026-08-18T22:26",
-        "feedId": "axios"
-      },
-      {
-        "title": "TPS' slow bleed leaves thousands in limbo",
-        "link": "https://www.axios.com/2026/08/18/trum-tps-protections-program-uncertain-future",
-        "pubDate": "2026-08-18T19:11",
         "feedId": "axios"
       }
     ]
