@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "Opus 5.0 drives incoherence into the stratosphere",
+        "link": "https://github.com/anthropics/claude-code/issues/77136",
+        "pubDate": "2026-08-19T17:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "OpenRouter Is Joining Stripe",
+        "link": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+        "pubDate": "2026-08-19T17:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
+        "link": "https://demo.frugaltokens.com/",
+        "pubDate": "2026-08-19T17:07",
+        "feedId": "hn"
+      },
+      {
         "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
         "link": "https://github.com/onecli/onecli",
         "pubDate": "2026-08-19T16:29",
@@ -73,24 +91,6 @@
         "link": "https://yassa9.github.io/osint/gralhix-004/",
         "pubDate": "2026-08-19T12:19",
         "feedId": "hn"
-      },
-      {
-        "title": "Devices with GrapheneOS support should be available in 2027",
-        "link": "https://grapheneos.social/@GrapheneOS/117078064184215730",
-        "pubDate": "2026-08-19T11:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "A joke domain purchase turned in geopolitical warfare",
-        "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-        "pubDate": "2026-08-19T11:21",
-        "feedId": "hn"
-      },
-      {
-        "title": "Air Theremin – a browser theremin you play by waving at your webcam",
-        "link": "https://theremin.bizibah.com/",
-        "pubDate": "2026-08-19T10:15",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,15 +110,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Why I still hand write my commit messages",
+        "link": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
+        "pubDate": "2026-08-19T13:01",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Mastodon 5.0: Laying the foundation",
         "link": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
         "pubDate": "2026-08-19T00:03",
         "feedId": "lobsters"
       },
       {
-        "title": "Why I still hand write my commit messages",
-        "link": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
-        "pubDate": "2026-08-19T13:01",
+        "title": "Plain Text Accounting is Pretty Cool",
+        "link": "https://sumnerevans.com/posts/money/plain-text-accounting/",
+        "pubDate": "2026-08-19T16:55",
         "feedId": "lobsters"
       },
       {
@@ -146,6 +152,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Introducing Microlighter",
+        "link": "https://daverupert.com/2026/08/microlighter/",
+        "pubDate": "2026-08-19T16:32",
+        "feedId": "lobsters"
+      },
+      {
         "title": "What software do you use daily in 2026?",
         "link": "https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026",
         "pubDate": "2026-08-18T14:31",
@@ -158,33 +170,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "SQLite for Everything",
+        "link": "https://joecode.com/2026-08-19-sqlite3/",
+        "pubDate": "2026-08-19T15:17",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Kakoune code editor",
         "link": "https://kakoune.org/",
         "pubDate": "2026-08-18T18:16",
         "feedId": "lobsters"
       },
       {
-        "title": "Fargate Is Not Firecracker (2024)",
-        "link": "https://justingarrison.com/blog/2024-02-08-fargate-is-not-firecracker/",
-        "pubDate": "2026-08-19T06:42",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools",
-        "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-        "pubDate": "2026-08-18T15:07",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Susan Kare: Designing Icons & Graphics For the Original Mac",
-        "link": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
-        "pubDate": "2026-08-19T05:25",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Rethinking Database Programming",
-        "link": "https://acadia.engineering/blog/rethinking-database-programming",
-        "pubDate": "2026-08-18T08:34",
+        "title": "capri: Type-safe, atomic Gleam bindings for Khepri, the modern distributed database for the BEAM",
+        "link": "https://capri.hexdocs.pm/",
+        "pubDate": "2026-08-19T17:07",
         "feedId": "lobsters"
       }
     ]
