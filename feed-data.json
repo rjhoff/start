@@ -3,33 +3,45 @@
     "id": "hn",
     "items": [
       {
-        "title": "Terry A. Davis Quotes",
-        "link": "https://en.wikiquote.org/wiki/Terry_A._Davis",
-        "pubDate": "2026-08-18T22:35",
+        "title": "Why crypto's best infrastructure companies stopped looking like crypto?",
+        "link": "https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/",
+        "pubDate": "2026-08-19T00:11",
         "feedId": "hn"
       },
       {
-        "title": "The Microsoft Rebrand Registry",
-        "link": "https://www.msrebrandregistry.com/analysis.html",
-        "pubDate": "2026-08-18T22:33",
+        "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
+        "link": "https://modelmap.cc",
+        "pubDate": "2026-08-18T23:57",
         "feedId": "hn"
       },
       {
-        "title": "Who owns the code?",
-        "link": "https://whoownsthecode.com/",
-        "pubDate": "2026-08-18T22:21",
+        "title": "Solo – a .so loader for static Linux binaries",
+        "link": "https://github.com/pg83/solo",
+        "pubDate": "2026-08-18T23:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "The 90-year history of the binoculars bolted to scenic overlooks",
+        "link": "https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/",
+        "pubDate": "2026-08-18T22:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Programmable Property-Based Testing",
+        "link": "https://dl.acm.org/doi/10.1145/3828685",
+        "pubDate": "2026-08-18T22:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI usage patterns in software teams",
+        "link": "https://linear.app/data",
+        "pubDate": "2026-08-18T22:08",
         "feedId": "hn"
       },
       {
         "title": "GLM-5.3 Artificial Analysis Benchmarks",
         "link": "https://artificialanalysis.ai/models/glm-5-3",
         "pubDate": "2026-08-18T22:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "fx :Tiny, open, native coding agent.",
-        "link": "https://fx.sh",
-        "pubDate": "2026-08-18T22:00",
         "feedId": "hn"
       },
       {
@@ -45,12 +57,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Companies promote incompetent employees to management to limit damage they do",
-        "link": "https://lawsofsoftwareengineering.com/laws/dilbert-principle/",
-        "pubDate": "2026-08-18T21:13",
-        "feedId": "hn"
-      },
-      {
         "title": "Norway should buy OpenAI",
         "link": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
         "pubDate": "2026-08-18T19:30",
@@ -60,12 +66,6 @@
         "title": "Beware Management Consultants",
         "link": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
         "pubDate": "2026-08-18T19:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "Pacing model development in an era of cyber-critical capabilities",
-        "link": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
-        "pubDate": "2026-08-18T18:14",
         "feedId": "hn"
       },
       {
@@ -81,15 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
-        "link": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-        "pubDate": "2026-08-18T17:24",
-        "feedId": "hn"
-      },
-      {
         "title": "And then the men with guns tell you to do it anyway",
         "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
         "pubDate": "2026-08-18T17:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "Claude Code May–August 2026 weekly limits promotion",
+        "link": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+        "pubDate": "2026-08-18T17:02",
         "feedId": "hn"
       }
     ]
@@ -104,9 +104,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Rethinking Database Programming",
-        "link": "https://acadia.engineering/blog/rethinking-database-programming",
-        "pubDate": "2026-08-18T08:34",
+        "title": "What software do you use daily in 2026?",
+        "link": "https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026",
+        "pubDate": "2026-08-18T14:31",
         "feedId": "lobsters"
       },
       {
@@ -116,21 +116,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What software do you use daily in 2026?",
-        "link": "https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026",
-        "pubDate": "2026-08-18T14:31",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How Bluesky draws its logo on screenshots",
-        "link": "https://timmarinin.net/2026/bluesky-screenshots/",
-        "pubDate": "2026-08-17T21:46",
+        "title": "Rethinking Database Programming",
+        "link": "https://acadia.engineering/blog/rethinking-database-programming",
+        "pubDate": "2026-08-18T08:34",
         "feedId": "lobsters"
       },
       {
         "title": "Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools",
         "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
         "pubDate": "2026-08-18T15:07",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How Bluesky draws its logo on screenshots",
+        "link": "https://timmarinin.net/2026/bluesky-screenshots/",
+        "pubDate": "2026-08-17T21:46",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +158,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Mastodon 5.0: Laying the foundation",
+        "link": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
+        "pubDate": "2026-08-19T00:03",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Biboumi – XMPP gateway to IRC",
         "link": "https://biboumi.codeberg.page/doc/",
         "pubDate": "2026-08-18T07:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Odin's New Inline Assembly Templates",
+        "link": "https://odin-lang.org/docs/inline-asm/",
+        "pubDate": "2026-08-18T19:20",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-        "link": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
-        "pubDate": "2026-08-17T17:54",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Experiment in reducing target directory size on nightly",
         "link": "https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly/",
         "pubDate": "2026-08-18T18:39",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Quake Shareware, a CD-ROM just a little too full",
-        "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-        "pubDate": "2026-08-17T22:58",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump to tap Heidi Overton as FDA commissioner",
+        "link": "https://www.axios.com/2026/08/19/trump-heidi-overton-fda-commissioner",
+        "pubDate": "2026-08-19T00:38",
+        "feedId": "axios"
+      },
+      {
+        "title": "Rep. Cory Mills loses Florida primary amid Ethics probe",
+        "link": "https://www.axios.com/2026/08/19/florida-cory-mills-republicans-primary-midterms",
+        "pubDate": "2026-08-19T00:20",
+        "feedId": "axios"
+      },
+      {
         "title": "Israel defends strike on Syria as U.S. frustration with Bibi grows",
         "link": "https://www.axios.com/2026/08/18/israel-syria-turkey-strike-military-buildup",
         "pubDate": "2026-08-18T22:26",
@@ -363,18 +375,6 @@
         "title": "Kindergarten vaccine exemptions rose in 2025-2026: CDC",
         "link": "https://www.axios.com/2026/08/17/kindergarten-vaccine-rates-fall",
         "pubDate": "2026-08-17T21:24",
-        "feedId": "axios"
-      },
-      {
-        "title": "Middle East demands are testing America's Pacific presence",
-        "link": "https://www.axios.com/2026/08/17/us-allies-pacific-aircraft-carrier-gap",
-        "pubDate": "2026-08-17T20:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "Big Bend border wall construction paused by Trump administration",
-        "link": "https://www.axios.com/2026/08/17/trump-big-bend-border-wall-construction-paused",
-        "pubDate": "2026-08-17T19:01",
         "feedId": "axios"
       }
     ]
