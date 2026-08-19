@@ -158,6 +158,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Odin's New Inline Assembly Templates",
+        "link": "https://odin-lang.org/docs/inline-asm/",
+        "pubDate": "2026-08-18T19:20",
+        "feedId": "lobsters"
+      },
+      {
         "title": "GitHub has alternatives, but no replacement",
         "link": "https://lalitm.com/post/github-alternatives/",
         "pubDate": "2026-08-17T17:12",
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Claude and I built an app",
-        "link": "https://folkwolf.net/claude-and-i-built-an-app/",
-        "pubDate": "2026-08-19T02:05",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Odin's New Inline Assembly Templates",
-        "link": "https://odin-lang.org/docs/inline-asm/",
-        "pubDate": "2026-08-18T19:20",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Incident Report for GitHub outage on 2026-08-17",
         "link": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
         "pubDate": "2026-08-18T20:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Claude and I built an app",
+        "link": "https://folkwolf.net/claude-and-i-built-an-app/",
+        "pubDate": "2026-08-19T02:05",
         "feedId": "lobsters"
       }
     ]
