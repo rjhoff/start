@@ -15,18 +15,6 @@
         "feedId": "hn"
       },
       {
-        "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
-        "link": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
-        "pubDate": "2026-08-19T07:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "Berd",
-        "link": "https://berd.xyz",
-        "pubDate": "2026-08-19T07:06",
-        "feedId": "hn"
-      },
-      {
         "title": "λλ: A Programming Language for Silicon Photonics",
         "link": "https://dl.acm.org/doi/10.1145/3789240.3829151",
         "pubDate": "2026-08-19T06:09",
@@ -69,12 +57,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Sticky wage norms and the real wage cost of unexpected inflation",
-        "link": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
-        "pubDate": "2026-08-19T00:53",
-        "feedId": "hn"
-      },
-      {
         "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
         "link": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
         "pubDate": "2026-08-19T00:48",
@@ -91,12 +73,36 @@
         "link": "https://modelmap.cc",
         "pubDate": "2026-08-18T23:57",
         "feedId": "hn"
+      },
+      {
+        "title": "Solo – a .so loader for static Linux binaries",
+        "link": "https://github.com/pg83/solo",
+        "pubDate": "2026-08-18T23:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI usage patterns in software teams",
+        "link": "https://linear.app/data",
+        "pubDate": "2026-08-18T22:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+        "link": "https://github.com/DenisSergeevitch/desktop-fly",
+        "pubDate": "2026-08-18T21:50",
+        "feedId": "hn"
       }
     ]
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "Bun 1.4 Rust rewrite is not looking good",
+        "link": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
+        "pubDate": "2026-08-19T06:20",
+        "feedId": "lobsters"
+      },
       {
         "title": "How I browse the Web with uBlock (Hard Mode)",
         "link": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
@@ -107,12 +113,6 @@
         "title": "Mojo is now open source",
         "link": "https://www.modular.com/blog/mojo-open-source",
         "pubDate": "2026-08-18T16:34",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Bun 1.4 Rust rewrite is not looking good",
-        "link": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
-        "pubDate": "2026-08-19T06:20",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Rethinking Database Programming",
-        "link": "https://acadia.engineering/blog/rethinking-database-programming",
-        "pubDate": "2026-08-18T08:34",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools",
         "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
         "pubDate": "2026-08-18T15:07",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Rethinking Database Programming",
+        "link": "https://acadia.engineering/blog/rethinking-database-programming",
+        "pubDate": "2026-08-18T08:34",
         "feedId": "lobsters"
       },
       {
@@ -170,15 +170,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Things I want in a modern relational query language",
-        "link": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-        "pubDate": "2026-08-19T04:44",
+        "title": "Susan Kare: Designing Icons & Graphics For the Original Mac",
+        "link": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
+        "pubDate": "2026-08-19T05:25",
         "feedId": "lobsters"
       },
       {
-        "title": "When str.lower() is a security vulnerability in Python",
-        "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-        "pubDate": "2026-08-18T22:57",
+        "title": "a filename when none exists",
+        "link": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
+        "pubDate": "2026-08-19T07:29",
         "feedId": "lobsters"
       },
       {
@@ -288,6 +288,42 @@
     "id": "axios",
     "items": [
       {
+        "title": "Exclusive: GOP warns AI companies that data centers are politically radioactive",
+        "link": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+        "pubDate": "2026-08-19T09:53",
+        "feedId": "axios"
+      },
+      {
+        "title": "Iran war, said to be over \"very soon,\" nears 6 months",
+        "link": "https://www.axios.com/2026/08/19/iran-war-trump-oman-aircraft-carriers",
+        "pubDate": "2026-08-19T09:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "Ossoff tests Democrats' appetite for going low",
+        "link": "https://www.axios.com/2026/08/19/ossoff-democrats-appetite-going-low",
+        "pubDate": "2026-08-19T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "Why the U.S. grid's extreme heat problem is changing",
+        "link": "https://www.axios.com/2026/08/19/extreme-heat-electric-grid-utilities-demand",
+        "pubDate": "2026-08-19T09:15",
+        "feedId": "axios"
+      },
+      {
+        "title": "OpenAI blinks first in AI safety standoff",
+        "link": "https://www.axios.com/2026/08/19/openai-astra-safety-altman-anthropic",
+        "pubDate": "2026-08-19T09:14",
+        "feedId": "axios"
+      },
+      {
+        "title": "Behind the Curtain: The new existential threat to AI",
+        "link": "https://www.axios.com/2026/08/19/data-centers-ai-political-opinion",
+        "pubDate": "2026-08-19T09:14",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump pauses 50% tariffs on Canadian goods for 3 days",
         "link": "https://www.axios.com/2026/08/19/trump-canada-tariffs-50-percent-postponed",
         "pubDate": "2026-08-19T02:51",
@@ -339,42 +375,6 @@
         "title": "America's debt is getting more expensive",
         "link": "https://www.axios.com/2026/08/18/debt-revenue-interest-defense-spending",
         "pubDate": "2026-08-18T16:02",
-        "feedId": "axios"
-      },
-      {
-        "title": "Democrats enter their thirst trap era",
-        "link": "https://www.axios.com/2026/08/18/democrats-social-media-ossoff-el-sayed",
-        "pubDate": "2026-08-18T12:34",
-        "feedId": "axios"
-      },
-      {
-        "title": "This primary is \"like 'Florida Man' having his own election\"",
-        "link": "https://www.axios.com/2026/08/18/florida-weird-primary-election-2026",
-        "pubDate": "2026-08-18T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "FBI data for 2025 show biggest drop in violent crime in 90 years",
-        "link": "https://www.axios.com/2026/08/18/fbi-violent-crime-drop-2025",
-        "pubDate": "2026-08-18T09:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "Political dirty tricks upend midterm races across the country",
-        "link": "https://www.axios.com/2026/08/18/democrats-republicans-midterms-political-shenanigans",
-        "pubDate": "2026-08-18T09:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump torches allies as Iran exposes limits of hard power",
-        "link": "https://www.axios.com/2026/08/18/trump-south-korea-allies-iran-war",
-        "pubDate": "2026-08-18T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Women are missing out on the AI jobs boom",
-        "link": "https://www.axios.com/2026/08/18/ai-women-jobs-hiring",
-        "pubDate": "2026-08-18T07:46",
         "feedId": "axios"
       }
     ]
