@@ -15,9 +15,21 @@
         "feedId": "hn"
       },
       {
+        "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
+        "link": "https://github.com/katiahayati/lucasartsifier/",
+        "pubDate": "2026-08-19T01:58",
+        "feedId": "hn"
+      },
+      {
         "title": "OpenLogi",
         "link": "https://openlogi.org/en",
         "pubDate": "2026-08-19T01:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Vietnam Binh Chau (Chau Tan) Late Tang Wreck",
+        "link": "https://www.koh-antique.com/client/tangwreck/tangwreck.html",
+        "pubDate": "2026-08-19T01:36",
         "feedId": "hn"
       },
       {
@@ -39,7 +51,7 @@
         "feedId": "hn"
       },
       {
-        "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
+        "title": "Sticky wage norms and the real wage cost of unexpected inflation",
         "link": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
         "pubDate": "2026-08-19T00:53",
         "feedId": "hn"
@@ -79,18 +91,6 @@
         "link": "https://linear.app/data",
         "pubDate": "2026-08-18T22:08",
         "feedId": "hn"
-      },
-      {
-        "title": "GLM-5.3 Artificial Analysis Benchmarks",
-        "link": "https://artificialanalysis.ai/models/glm-5-3",
-        "pubDate": "2026-08-18T22:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-        "link": "https://github.com/DenisSergeevitch/desktop-fly",
-        "pubDate": "2026-08-18T21:50",
-        "feedId": "hn"
       }
     ]
   },
@@ -122,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Kakoune code editor",
-        "link": "https://kakoune.org/",
-        "pubDate": "2026-08-18T18:16",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools",
         "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
         "pubDate": "2026-08-18T15:07",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Kakoune code editor",
+        "link": "https://kakoune.org/",
+        "pubDate": "2026-08-18T18:16",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +158,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Claude and I built an app",
+        "link": "https://folkwolf.net/claude-and-i-built-an-app/",
+        "pubDate": "2026-08-19T02:05",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Odin's New Inline Assembly Templates",
         "link": "https://odin-lang.org/docs/inline-asm/",
         "pubDate": "2026-08-18T19:20",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How I developed an Am29000 C compiler and web browser",
+        "link": "https://nanochess.org/am29000_c_compiler_web_browser.html",
+        "pubDate": "2026-08-19T02:36",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "When str.lower() is a security vulnerability in Python",
-        "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-        "pubDate": "2026-08-18T22:57",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Incident Report for GitHub outage on 2026-08-17",
         "link": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
         "pubDate": "2026-08-18T20:18",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Claude and I built an app",
-        "link": "https://folkwolf.net/claude-and-i-built-an-app/",
-        "pubDate": "2026-08-19T02:05",
         "feedId": "lobsters"
       }
     ]
