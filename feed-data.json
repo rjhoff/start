@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "Air Theremin – a browser theremin you play by waving at your webcam",
+        "link": "https://theremin.bizibah.com/",
+        "pubDate": "2026-08-19T10:15",
+        "feedId": "hn"
+      },
+      {
         "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
         "link": "https://www.modular.com/blog/modcon-announcements",
         "pubDate": "2026-08-19T07:47",
@@ -48,12 +54,6 @@
         "title": "The Vietnam Binh Chau (Chau Tan) Late Tang Wreck",
         "link": "https://www.koh-antique.com/client/tangwreck/tangwreck.html",
         "pubDate": "2026-08-19T01:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tiny satellite will use the dark side of the Moon as a shield",
-        "link": "https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe",
-        "pubDate": "2026-08-19T01:06",
         "feedId": "hn"
       },
       {
@@ -104,6 +104,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Mastodon 5.0: Laying the foundation",
+        "link": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
+        "pubDate": "2026-08-19T00:03",
+        "feedId": "lobsters"
+      },
+      {
         "title": "How I browse the Web with uBlock (Hard Mode)",
         "link": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
         "pubDate": "2026-08-18T12:30",
@@ -119,12 +125,6 @@
         "title": "What software do you use daily in 2026?",
         "link": "https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026",
         "pubDate": "2026-08-18T14:31",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Mastodon 5.0: Laying the foundation",
-        "link": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
-        "pubDate": "2026-08-19T00:03",
         "feedId": "lobsters"
       },
       {
@@ -146,6 +146,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Solo: a .so loader for static Linux binaries",
+        "link": "https://github.com/pg83/solo",
+        "pubDate": "2026-08-19T09:34",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "a filename when none exists",
+        "link": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
+        "pubDate": "2026-08-19T07:29",
+        "feedId": "lobsters"
+      },
+      {
         "title": "CSS: the bomb inside your inbox",
         "link": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
         "pubDate": "2026-08-18T13:30",
@@ -158,33 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How Bluesky draws its logo on screenshots",
-        "link": "https://timmarinin.net/2026/bluesky-screenshots/",
-        "pubDate": "2026-08-17T21:46",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Odin's New Inline Assembly Templates",
         "link": "https://odin-lang.org/docs/inline-asm/",
         "pubDate": "2026-08-18T19:20",
         "feedId": "lobsters"
       },
       {
+        "title": "How Bluesky draws its logo on screenshots",
+        "link": "https://timmarinin.net/2026/bluesky-screenshots/",
+        "pubDate": "2026-08-17T21:46",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Susan Kare: Designing Icons & Graphics For the Original Mac",
         "link": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
         "pubDate": "2026-08-19T05:25",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "a filename when none exists",
-        "link": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
-        "pubDate": "2026-08-19T07:29",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Incident Report for GitHub outage on 2026-08-17",
-        "link": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-        "pubDate": "2026-08-18T20:18",
         "feedId": "lobsters"
       }
     ]
