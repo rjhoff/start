@@ -3,9 +3,21 @@
     "id": "hn",
     "items": [
       {
+        "title": "Geolocating a random island using geometry and CUDA programming",
+        "link": "https://yassa9.github.io/osint/gralhix-004/",
+        "pubDate": "2026-08-19T12:19",
+        "feedId": "hn"
+      },
+      {
         "title": "GrapheneOS in 2027 available on high-end Motorola phones",
         "link": "https://grapheneos.social/@GrapheneOS/117078064184215730",
         "pubDate": "2026-08-19T11:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "A joke domain purchase turned in geopolitical warfare",
+        "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+        "pubDate": "2026-08-19T11:21",
         "feedId": "hn"
       },
       {
@@ -69,27 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
-        "link": "https://modelmap.cc",
-        "pubDate": "2026-08-18T23:57",
-        "feedId": "hn"
-      },
-      {
         "title": "Solo – a .so loader for static Linux binaries",
         "link": "https://github.com/pg83/solo",
         "pubDate": "2026-08-18T23:51",
         "feedId": "hn"
       },
       {
-        "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-        "link": "https://github.com/DenisSergeevitch/desktop-fly",
-        "pubDate": "2026-08-18T21:50",
-        "feedId": "hn"
-      },
-      {
-        "title": "How does IKEA come up with names for its products?",
-        "link": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-        "pubDate": "2026-08-18T18:11",
+        "title": "AI usage patterns in software teams",
+        "link": "https://linear.app/data",
+        "pubDate": "2026-08-18T22:08",
         "feedId": "hn"
       }
     ]
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Mastodon 5.0: Laying the foundation",
-        "link": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
-        "pubDate": "2026-08-19T00:03",
-        "feedId": "lobsters"
-      },
-      {
         "title": "HTML Can Do That",
         "link": "https://chrisburnell.com/html-can-do-that/",
         "pubDate": "2026-08-19T10:55",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Mastodon 5.0: Laying the foundation",
+        "link": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
+        "pubDate": "2026-08-19T00:03",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +134,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Solo: a .so loader for static Linux binaries",
+        "link": "https://github.com/pg83/solo",
+        "pubDate": "2026-08-19T09:34",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Kakoune code editor",
         "link": "https://kakoune.org/",
         "pubDate": "2026-08-18T18:16",
         "feedId": "lobsters"
       },
       {
-        "title": "Solo: a .so loader for static Linux binaries",
-        "link": "https://github.com/pg83/solo",
-        "pubDate": "2026-08-19T09:34",
+        "title": "a filename when none exists",
+        "link": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
+        "pubDate": "2026-08-19T07:29",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "a filename when none exists",
-        "link": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
-        "pubDate": "2026-08-19T07:29",
+        "title": "Odin's New Inline Assembly Templates",
+        "link": "https://odin-lang.org/docs/inline-asm/",
+        "pubDate": "2026-08-18T19:20",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Odin's New Inline Assembly Templates",
-        "link": "https://odin-lang.org/docs/inline-asm/",
-        "pubDate": "2026-08-18T19:20",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Using the railway network as a flatbed scanner",
-        "link": "https://philo.gay/linecam/",
-        "pubDate": "2026-08-18T11:42",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Fargate Is Not Firecracker (2024)",
         "link": "https://justingarrison.com/blog/2024-02-08-fargate-is-not-firecracker/",
         "pubDate": "2026-08-19T06:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Things I want in a modern relational query language",
+        "link": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
+        "pubDate": "2026-08-19T04:44",
         "feedId": "lobsters"
       }
     ]
