@@ -1,8 +1,98 @@
 {
   "hn": {
     "id": "hn",
-    "error": "Request timed out after 10000ms",
-    "items": []
+    "items": [
+      {
+        "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+        "link": "https://github.com/onecli/onecli",
+        "pubDate": "2026-08-19T16:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Extensible Software in the Age of LLMs",
+        "link": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+        "pubDate": "2026-08-19T16:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "How Kubernetes Probes Work",
+        "link": "https://ngrok.com/blog/probes",
+        "pubDate": "2026-08-19T16:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
+        "link": "https://arxiv.org/abs/2503.08679",
+        "pubDate": "2026-08-19T16:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Civic Hygiene – avoid building technologies that could be used by a police state (2013)",
+        "link": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
+        "pubDate": "2026-08-19T16:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "Remote workers report the highest well-being in study of 7,700 employees",
+        "link": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
+        "pubDate": "2026-08-19T15:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "New Casio F-B100W – Upgrade to the iconic F-91W after 40 years",
+        "link": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+        "pubDate": "2026-08-19T15:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "Mathematics in the Age of AI",
+        "link": "https://arxiv.org/abs/2608.16753",
+        "pubDate": "2026-08-19T15:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+        "link": "https://ornith.ai/ornith_1_5.html",
+        "pubDate": "2026-08-19T14:48",
+        "feedId": "hn"
+      },
+      {
+        "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
+        "link": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
+        "pubDate": "2026-08-19T13:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "PostgreSQL for Everything",
+        "link": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+        "pubDate": "2026-08-19T13:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "Geolocating a random island using geometry and CUDA programming",
+        "link": "https://yassa9.github.io/osint/gralhix-004/",
+        "pubDate": "2026-08-19T12:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "Devices with GrapheneOS support should be available in 2027",
+        "link": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+        "pubDate": "2026-08-19T11:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "A joke domain purchase turned in geopolitical warfare",
+        "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+        "pubDate": "2026-08-19T11:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "Air Theremin – a browser theremin you play by waving at your webcam",
+        "link": "https://theremin.bizibah.com/",
+        "pubDate": "2026-08-19T10:15",
+        "feedId": "hn"
+      }
+    ]
   },
   "lobsters": {
     "id": "lobsters",
@@ -26,9 +116,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How I browse the Web with uBlock (Hard Mode)",
-        "link": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
-        "pubDate": "2026-08-18T12:30",
+        "title": "Why I still hand write my commit messages",
+        "link": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
+        "pubDate": "2026-08-19T13:01",
         "feedId": "lobsters"
       },
       {
@@ -38,15 +128,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Mojo is now open source",
-        "link": "https://www.modular.com/blog/mojo-open-source",
-        "pubDate": "2026-08-18T16:34",
-        "feedId": "lobsters"
-      },
-      {
         "title": "a filename when none exists",
         "link": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
         "pubDate": "2026-08-19T07:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How I browse the Web with uBlock (Hard Mode)",
+        "link": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
+        "pubDate": "2026-08-18T12:30",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Mojo is now open source",
+        "link": "https://www.modular.com/blog/mojo-open-source",
+        "pubDate": "2026-08-18T16:34",
         "feedId": "lobsters"
       },
       {
@@ -59,12 +155,6 @@
         "title": "Things I want in a modern relational query language",
         "link": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
         "pubDate": "2026-08-19T04:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why I still hand write my commit messages",
-        "link": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
-        "pubDate": "2026-08-19T13:01",
         "feedId": "lobsters"
       },
       {
@@ -102,6 +192,42 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "A fantastical journey unfolds in gorgeous Wildwood trailer",
+        "link": "https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/",
+        "pubDate": "2026-08-19T17:06",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "mRNA cancer vaccine succeeded in Phase 3 melanoma trial, Moderna and Merck say",
+        "link": "https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/",
+        "pubDate": "2026-08-19T16:53",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google Pixel 11 series review: Is the magic fading?",
+        "link": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
+        "pubDate": "2026-08-19T16:11",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Scientists find closest star to the Milky Way's central black hole",
+        "link": "https://arstechnica.com/science/2026/08/scientists-find-closest-star-to-the-milky-ways-central-black-hole/",
+        "pubDate": "2026-08-19T15:56",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Meta ran ads for an app promising to nudify female politicians",
+        "link": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+        "pubDate": "2026-08-19T15:45",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Trump expected to pick conservative policy wonk Heidi Overton to lead FDA",
+        "link": "https://arstechnica.com/health/2026/08/trump-expected-to-pick-conservative-policy-wonk-heidi-overton-to-lead-fda/",
+        "pubDate": "2026-08-19T13:54",
+        "feedId": "arstechnica"
+      },
       {
         "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
         "link": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
@@ -155,48 +281,18 @@
         "link": "https://arstechnica.com/culture/2026/08/teenage-sex-and-death-at-camp-miasma-takes-pains-to-deliver-a-slasher-fans-dream/",
         "pubDate": "2026-08-18T15:36",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "X-rays add new twist to narwhal's spiral tusk",
-        "link": "https://arstechnica.com/science/2026/08/x-rays-add-new-twist-to-narwhals-spiral-tusk/",
-        "pubDate": "2026-08-18T15:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-        "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-        "pubDate": "2026-08-18T13:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "As temperatures get hotter, pesticides are more dangerous to farmworkers",
-        "link": "https://arstechnica.com/science/2026/08/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworkers/",
-        "pubDate": "2026-08-18T11:07",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
-        "link": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
-        "pubDate": "2026-08-18T04:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
-        "link": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
-        "pubDate": "2026-08-17T22:08",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
-        "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
-        "pubDate": "2026-08-17T21:18",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Trump taps Heidi Overton as FDA commissioner",
+        "link": "https://www.axios.com/2026/08/19/trump-heidi-overton-fda-commissioner",
+        "pubDate": "2026-08-19T16:39",
+        "feedId": "axios"
+      },
       {
         "title": "Trump's profits irk Americans as Dems test anti-corruption message",
         "link": "https://www.axios.com/2026/08/19/trump-profits-polling-dems-anti-corruption-message",
@@ -249,12 +345,6 @@
         "title": "Angie Nixon scores socialist breakthrough in Trump's Florida",
         "link": "https://www.axios.com/2026/08/19/democrats-florida-senate-angie-nixon-misterms",
         "pubDate": "2026-08-19T02:14",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump to tap Heidi Overton as FDA commissioner",
-        "link": "https://www.axios.com/2026/08/19/trump-heidi-overton-fda-commissioner",
-        "pubDate": "2026-08-19T00:38",
         "feedId": "axios"
       },
       {
