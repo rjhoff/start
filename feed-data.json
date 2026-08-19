@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "Palomar: A registry of Lean verified mathematics",
+        "link": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
+        "pubDate": "2026-08-19T02:41",
+        "feedId": "hn"
+      },
+      {
         "title": "Meta's blockbuster trial draws parallels to big tobacco",
         "link": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
         "pubDate": "2026-08-19T02:24",
@@ -48,12 +54,6 @@
         "title": "Cerebras CS-4",
         "link": "https://www.cerebras.ai/cs4",
         "pubDate": "2026-08-19T00:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why crypto's best infrastructure companies stopped looking like crypto?",
-        "link": "https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/",
-        "pubDate": "2026-08-19T00:11",
         "feedId": "hn"
       },
       {
@@ -122,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools",
-        "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-        "pubDate": "2026-08-18T15:07",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Kakoune code editor",
         "link": "https://kakoune.org/",
         "pubDate": "2026-08-18T18:16",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools",
+        "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+        "pubDate": "2026-08-18T15:07",
         "feedId": "lobsters"
       },
       {
@@ -164,21 +164,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Odin's New Inline Assembly Templates",
-        "link": "https://odin-lang.org/docs/inline-asm/",
-        "pubDate": "2026-08-18T19:20",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Biboumi – XMPP gateway to IRC",
-        "link": "https://biboumi.codeberg.page/doc/",
-        "pubDate": "2026-08-18T07:37",
-        "feedId": "lobsters"
-      },
-      {
         "title": "When str.lower() is a security vulnerability in Python",
         "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
         "pubDate": "2026-08-18T22:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Claude and I built an app",
+        "link": "https://folkwolf.net/claude-and-i-built-an-app/",
+        "pubDate": "2026-08-19T02:05",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Odin's New Inline Assembly Templates",
+        "link": "https://odin-lang.org/docs/inline-asm/",
+        "pubDate": "2026-08-18T19:20",
         "feedId": "lobsters"
       },
       {
@@ -290,7 +290,13 @@
       {
         "title": "Trump pauses 50% tariffs on Canadian goods for 3 days",
         "link": "https://www.axios.com/2026/08/19/trump-canada-tariffs-50-percent-postponed",
-        "pubDate": "2026-08-19T02:38",
+        "pubDate": "2026-08-19T02:51",
+        "feedId": "axios"
+      },
+      {
+        "title": "Angie Nixon scores socialist breakthrough in Trump's Florida",
+        "link": "https://www.axios.com/2026/08/19/democrats-florida-senate-angie-nixon-misterms",
+        "pubDate": "2026-08-19T02:14",
         "feedId": "axios"
       },
       {
@@ -369,12 +375,6 @@
         "title": "Women are missing out on the AI jobs boom",
         "link": "https://www.axios.com/2026/08/18/ai-women-jobs-hiring",
         "pubDate": "2026-08-18T07:46",
-        "feedId": "axios"
-      },
-      {
-        "title": "Congressional Democrats plan Oman war powers push after Trump threatens bombing",
-        "link": "https://www.axios.com/2026/08/17/trump-oman-democrats-congress-war-powers-iran",
-        "pubDate": "2026-08-17T23:14",
         "feedId": "axios"
       }
     ]
