@@ -3,13 +3,25 @@
     "id": "hn",
     "items": [
       {
-        "title": "Collaborative Human Agent Protocol (CHAP)",
-        "link": "https://github.com/BrightbeamAI/chap",
-        "pubDate": "2026-08-19T22:09",
+        "title": "Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo",
+        "link": "https://fetzu.ch/blog/20260819_claudevsdrobo/",
+        "pubDate": "2026-08-20T00:18",
         "feedId": "hn"
       },
       {
-        "title": "Anthropic Refuses to Support Agents.md",
+        "title": "Universality of Gradient Descent Neural Network Training",
+        "link": "https://arxiv.org/abs/2007.13664",
+        "pubDate": "2026-08-20T00:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
+        "link": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
+        "pubDate": "2026-08-19T23:38",
+        "feedId": "hn"
+      },
+      {
+        "title": "Feature Request: Support AGENTS.md",
         "link": "https://github.com/anthropics/claude-code/issues/6235",
         "pubDate": "2026-08-19T21:19",
         "feedId": "hn"
@@ -51,12 +63,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Rules of good social skills (2025)",
-        "link": "https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/",
-        "pubDate": "2026-08-19T18:34",
-        "feedId": "hn"
-      },
-      {
         "title": "Go 1.27",
         "link": "https://go.dev/blog/go1.27",
         "pubDate": "2026-08-19T18:33",
@@ -75,21 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-        "link": "https://github.com/onecli/onecli",
-        "pubDate": "2026-08-19T16:29",
-        "feedId": "hn"
-      },
-      {
         "title": "Extensible Software in the age of LLMs",
         "link": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
         "pubDate": "2026-08-19T16:26",
         "feedId": "hn"
       },
       {
-        "title": "How Kubernetes Probes Work",
-        "link": "https://ngrok.com/blog/probes",
-        "pubDate": "2026-08-19T16:25",
+        "title": "Casio F-B100W-1A",
+        "link": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+        "pubDate": "2026-08-19T15:28",
         "feedId": "hn"
       }
     ]
@@ -170,6 +170,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "capri: Type-safe, atomic Gleam bindings for Khepri, the modern distributed database for the BEAM",
+        "link": "https://capri.hexdocs.pm/",
+        "pubDate": "2026-08-19T17:07",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Things I want in a modern relational query language",
         "link": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
         "pubDate": "2026-08-19T04:44",
@@ -180,18 +186,18 @@
         "link": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
         "pubDate": "2026-08-19T22:10",
         "feedId": "lobsters"
-      },
-      {
-        "title": "capri: Type-safe, atomic Gleam bindings for Khepri, the modern distributed database for the BEAM",
-        "link": "https://capri.hexdocs.pm/",
-        "pubDate": "2026-08-19T17:07",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
+        "link": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
+        "pubDate": "2026-08-20T00:18",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
         "link": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
@@ -275,12 +281,6 @@
         "link": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
         "pubDate": "2026-08-18T19:01",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
-        "link": "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/",
-        "pubDate": "2026-08-18T18:11",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -297,6 +297,12 @@
         "title": "The data center fight is hitting a fever pitch. Here's how they actually work",
         "link": "https://www.axios.com/2026/08/19/ai-power-data-center-electricity-construction",
         "pubDate": "2026-08-19T21:02",
+        "feedId": "axios"
+      },
+      {
+        "title": "Moderna and Merck shares soar on mRNA cancer vaccine",
+        "link": "https://www.axios.com/2026/08/19/moderna-merck-mrna-cancer-vaccine",
+        "pubDate": "2026-08-19T20:04",
         "feedId": "axios"
       },
       {
@@ -369,12 +375,6 @@
         "title": "Angie Nixon scores socialist breakthrough in Trump's Florida",
         "link": "https://www.axios.com/2026/08/19/democrats-florida-senate-angie-nixon-misterms",
         "pubDate": "2026-08-19T02:14",
-        "feedId": "axios"
-      },
-      {
-        "title": "Rep. Cory Mills loses Florida primary amid Ethics probe",
-        "link": "https://www.axios.com/2026/08/19/florida-cory-mills-republicans-primary-midterms",
-        "pubDate": "2026-08-19T00:20",
         "feedId": "axios"
       }
     ]
