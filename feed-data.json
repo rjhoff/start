@@ -3,9 +3,21 @@
     "id": "hn",
     "items": [
       {
+        "title": "Sixtyfour (YC P25) Is Hiring",
+        "link": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
+        "pubDate": "2026-08-20T17:01",
+        "feedId": "hn"
+      },
+      {
         "title": "How to compromise your system with a job interview",
         "link": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
         "pubDate": "2026-08-20T15:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "Linux 7.2 Released",
+        "link": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+        "pubDate": "2026-08-20T15:46",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
         "pubDate": "2026-08-20T13:23",
         "feedId": "hn"
-      },
-      {
-        "title": "Why the Ocean Cleanup hasn't solved the plastic pollution crisis",
-        "link": "https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/",
-        "pubDate": "2026-08-20T12:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "Xorg-Server 26.0.99.901",
-        "link": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
-        "pubDate": "2026-08-20T12:50",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,9 +98,9 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "What Zig felt like, coming from Rust",
-        "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-        "pubDate": "2026-08-20T07:53",
+        "title": "Bun 1.4",
+        "link": "https://bun.com/blog/bun-v1.4",
+        "pubDate": "2026-08-20T14:37",
         "feedId": "lobsters"
       },
       {
@@ -110,27 +110,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Bun 1.4",
-        "link": "https://bun.com/blog/bun-v1.4",
-        "pubDate": "2026-08-20T14:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "HTML Can Do That",
-        "link": "https://chrisburnell.com/html-can-do-that/",
-        "pubDate": "2026-08-19T10:55",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Plain Text Accounting is Pretty Cool",
-        "link": "https://sumnerevans.com/posts/money/plain-text-accounting/",
-        "pubDate": "2026-08-19T16:55",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Reclaim the terminal",
-        "link": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
-        "pubDate": "2026-08-19T22:10",
+        "title": "What Zig felt like, coming from Rust",
+        "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+        "pubDate": "2026-08-20T07:53",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +122,45 @@
         "feedId": "lobsters"
       },
       {
+        "title": "HTML Can Do That",
+        "link": "https://chrisburnell.com/html-can-do-that/",
+        "pubDate": "2026-08-19T10:55",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Reclaim the terminal",
+        "link": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
+        "pubDate": "2026-08-19T22:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Plain Text Accounting is Pretty Cool",
+        "link": "https://sumnerevans.com/posts/money/plain-text-accounting/",
+        "pubDate": "2026-08-19T16:55",
+        "feedId": "lobsters"
+      },
+      {
         "title": "If this is true, the hyperscalers are toast",
         "link": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers",
         "pubDate": "2026-08-20T11:53",
         "feedId": "lobsters"
       },
       {
+        "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH",
+        "link": "https://www.ethanheilman.com/x/33/index.html",
+        "pubDate": "2026-08-20T15:24",
+        "feedId": "lobsters"
+      },
+      {
         "title": "AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting",
         "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
         "pubDate": "2026-08-20T12:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why compiling Rust to WebAssembly is slow",
+        "link": "https://00f.net/2026/08/19/why-compiling-rust-to-webassembly-is-slow/",
+        "pubDate": "2026-08-20T12:32",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why compiling Rust to WebAssembly is slow",
-        "link": "https://00f.net/2026/08/19/why-compiling-rust-to-webassembly-is-slow/",
-        "pubDate": "2026-08-20T12:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Bun 1.4 Rust rewrite is not looking good",
-        "link": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
-        "pubDate": "2026-08-19T06:20",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Ploopy A+ (external trackball)",
-        "link": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-        "pubDate": "2026-08-19T18:23",
+        "title": "X.Org Server 26.1 RC1 Prepares For First Feature Release In Five Years",
+        "link": "https://www.phoronix.com/news/X.Org-Server-26.1-RC1",
+        "pubDate": "2026-08-20T13:32",
         "feedId": "lobsters"
       }
     ]
