@@ -3,15 +3,33 @@
     "id": "hn",
     "items": [
       {
-        "title": "Show HN: Huzzah – a novel approach to coding with AI",
-        "link": "https://www.danielvaughn.dev/posts/huzzah/",
-        "pubDate": "2026-08-20T19:05",
+        "title": "Stop Eating Lady Gaga's Oreos",
+        "link": "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos",
+        "pubDate": "2026-08-20T19:46",
         "feedId": "hn"
       },
       {
-        "title": "Seeking God in Science Part 10.5: The Mind-Body Problem (Take 2)",
-        "link": "http://blog.rongarret.info/2026/08/seeking-god-in-science-part-105-mind.html",
-        "pubDate": "2026-08-20T19:01",
+        "title": "GitHub, autoscaling, and the component substitution fallacy",
+        "link": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
+        "pubDate": "2026-08-20T19:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tidal Cycles – Live coding music with Algorithmic patterns",
+        "link": "https://tidalcycles.org/",
+        "pubDate": "2026-08-20T19:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "SpacetimeDB: A Short Technical Review",
+        "link": "https://strn.cat/posts/spacetime/",
+        "pubDate": "2026-08-20T19:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Huzzah – a novel approach to coding with AI",
+        "link": "https://www.danielvaughn.dev/posts/huzzah/",
+        "pubDate": "2026-08-20T19:05",
         "feedId": "hn"
       },
       {
@@ -45,7 +63,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Project Cybersyn",
+        "title": "Project Cybersyn (2022)",
         "link": "https://bactra.org/notebooks/cybersyn.html",
         "pubDate": "2026-08-20T17:40",
         "feedId": "hn"
@@ -73,24 +91,6 @@
         "link": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
         "pubDate": "2026-08-20T15:50",
         "feedId": "hn"
-      },
-      {
-        "title": "Linux 7.2",
-        "link": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
-        "pubDate": "2026-08-20T15:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "Generic Methods in Go 1.27",
-        "link": "https://dominik.info/blog/go-generic-methods",
-        "pubDate": "2026-08-20T15:41",
-        "feedId": "hn"
-      },
-      {
-        "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
-        "link": "https://github.com/runvendo/vendo",
-        "pubDate": "2026-08-20T15:29",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,21 +110,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What Zig felt like, coming from Rust",
-        "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-        "pubDate": "2026-08-20T07:53",
-        "feedId": "lobsters"
-      },
-      {
         "title": "How a joke domain purchase turned into geopolitical warfare",
         "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
         "pubDate": "2026-08-20T12:21",
         "feedId": "lobsters"
       },
       {
+        "title": "What Zig felt like, coming from Rust",
+        "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+        "pubDate": "2026-08-20T07:53",
+        "feedId": "lobsters"
+      },
+      {
         "title": "AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting",
         "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
         "pubDate": "2026-08-20T12:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Everyone Says Assembly Is Untyped—Everyone Is Wrong",
+        "link": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+        "pubDate": "2026-08-20T17:22",
         "feedId": "lobsters"
       },
       {
@@ -152,12 +158,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Everyone Says Assembly Is Untyped—Everyone Is Wrong",
-        "link": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
-        "pubDate": "2026-08-20T17:22",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Why compiling Rust to WebAssembly is slow",
         "link": "https://00f.net/2026/08/19/why-compiling-rust-to-webassembly-is-slow/",
         "pubDate": "2026-08-20T12:32",
@@ -170,15 +170,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Sing-song: a speakable encoding for long numbers and keys",
-        "link": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
-        "pubDate": "2026-08-19T20:28",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Opus is a minimal, statically-scoped Lisp dialect based on the semantics of f-expressions (the Kernel language)",
         "link": "https://github.com/yaoshiu/opus",
         "pubDate": "2026-08-20T14:34",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Sing-song: a speakable encoding for long numbers and keys",
+        "link": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
+        "pubDate": "2026-08-19T20:28",
         "feedId": "lobsters"
       },
       {
