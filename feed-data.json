@@ -3,6 +3,48 @@
     "id": "hn",
     "items": [
       {
+        "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+        "link": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+        "pubDate": "2026-08-20T13:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "Browser De-Slop",
+        "link": "https://www.sacredheartsc.com/blog/browser-de-slop/",
+        "pubDate": "2026-08-20T12:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+        "link": "https://simedw.com/2026/08/20/midi-autocomplete/",
+        "pubDate": "2026-08-20T12:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
+        "link": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
+        "pubDate": "2026-08-20T12:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Australia passes law to levy tech giants that fail to pay for local news",
+        "link": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/",
+        "pubDate": "2026-08-20T11:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+        "link": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+        "pubDate": "2026-08-20T11:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "Risk Engineering",
+        "link": "https://risk-engineering.org/",
+        "pubDate": "2026-08-20T10:18",
+        "feedId": "hn"
+      },
+      {
         "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
         "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
         "pubDate": "2026-08-20T10:08",
@@ -15,7 +57,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Windows brings out the Rorschach test in everyone",
+        "title": "Windows brings out the Rorschach test in everyone (2003)",
         "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
         "pubDate": "2026-08-20T06:16",
         "feedId": "hn"
@@ -27,21 +69,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Feature Request: Support AGENTS.md",
-        "link": "https://github.com/anthropics/claude-code/issues/6235",
-        "pubDate": "2026-08-19T21:19",
-        "feedId": "hn"
-      },
-      {
         "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
         "link": "https://os8088.com/spotlight/",
         "pubDate": "2026-08-19T21:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "Pixel 11 Pro Fold feels like the end of an era",
-        "link": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
-        "pubDate": "2026-08-19T19:43",
         "feedId": "hn"
       },
       {
@@ -61,42 +91,18 @@
         "link": "https://go.dev/blog/go1.27",
         "pubDate": "2026-08-19T18:33",
         "feedId": "hn"
-      },
-      {
-        "title": "Google has stopped pushing Git tags for some Android source code",
-        "link": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-        "pubDate": "2026-08-19T17:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "OpenRouter is joining Stripe",
-        "link": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-        "pubDate": "2026-08-19T17:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-        "link": "https://github.com/onecli/onecli",
-        "pubDate": "2026-08-19T16:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "Extensible Software in the age of LLMs",
-        "link": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-        "pubDate": "2026-08-19T16:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Casio F-B100W-1A",
-        "link": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
-        "pubDate": "2026-08-19T15:28",
-        "feedId": "hn"
       }
     ]
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "What Zig felt like, coming from Rust",
+        "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+        "pubDate": "2026-08-20T07:53",
+        "feedId": "lobsters"
+      },
       {
         "title": "HTML Can Do That",
         "link": "https://chrisburnell.com/html-can-do-that/",
@@ -116,9 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why I still hand write my commit messages",
-        "link": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
-        "pubDate": "2026-08-19T13:01",
+        "title": "Supply chain attack on arrayref",
+        "link": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
+        "pubDate": "2026-08-20T09:54",
         "feedId": "lobsters"
       },
       {
@@ -128,15 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Sing-song: a speakable encoding for long numbers and keys",
-        "link": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
-        "pubDate": "2026-08-19T20:28",
+        "title": "Why I still hand write my commit messages",
+        "link": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
+        "pubDate": "2026-08-19T13:01",
         "feedId": "lobsters"
       },
       {
-        "title": "What Zig felt like, coming from Rust",
-        "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-        "pubDate": "2026-08-20T07:53",
+        "title": "Sing-song: a speakable encoding for long numbers and keys",
+        "link": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
+        "pubDate": "2026-08-19T20:28",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "SQLite for Everything",
-        "link": "https://joecode.com/2026-08-19-sqlite3/",
-        "pubDate": "2026-08-19T15:17",
+        "title": "If this is true, the hyperscalers are toast",
+        "link": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers",
+        "pubDate": "2026-08-20T11:53",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Understanding the limitations of Pubsub systems",
-        "link": "https://dl.acm.org/doi/pdf/10.1145/3713082.3730397",
-        "pubDate": "2026-08-20T05:24",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can",
         "link": "https://zerotistic.blog/posts/find-my-people-linux/",
         "pubDate": "2026-08-20T09:02",
         "feedId": "lobsters"
       },
       {
-        "title": "Introducing Microlighter",
-        "link": "https://daverupert.com/2026/08/microlighter/",
-        "pubDate": "2026-08-19T16:32",
+        "title": "Understanding the limitations of Pubsub systems",
+        "link": "https://dl.acm.org/doi/pdf/10.1145/3713082.3730397",
+        "pubDate": "2026-08-20T05:24",
         "feedId": "lobsters"
       },
       {
-        "title": "Rust Supply-Chain Attack: arrayref 0.3.10 and the proc-macro1 Typosquat",
-        "link": "https://www.stepsecurity.io/blog/arrayref-rust-crate-supply-chain-attack",
-        "pubDate": "2026-08-20T09:54",
+        "title": "SQLite for Everything",
+        "link": "https://joecode.com/2026-08-19-sqlite3/",
+        "pubDate": "2026-08-19T15:17",
         "feedId": "lobsters"
       },
       {
-        "title": "Mastodon 5.0: Laying the foundation",
-        "link": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
-        "pubDate": "2026-08-19T00:03",
+        "title": "AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting",
+        "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+        "pubDate": "2026-08-20T12:57",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+        "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+        "pubDate": "2026-08-20T13:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
         "link": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
@@ -274,12 +280,6 @@
         "title": "Ukrainian drones overwhelm Russian tanks’ new active protection system—for now",
         "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/",
         "pubDate": "2026-08-18T22:18",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
-        "link": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
-        "pubDate": "2026-08-18T19:01",
         "feedId": "arstechnica"
       }
     ]
