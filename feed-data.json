@@ -3,7 +3,13 @@
     "id": "hn",
     "items": [
       {
-        "title": "Stop Eating Lady Gaga's Oreos",
+        "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+        "link": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+        "pubDate": "2026-08-20T20:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "Stop eating Lady Gaga's Oreos",
         "link": "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos",
         "pubDate": "2026-08-20T19:46",
         "feedId": "hn"
@@ -12,6 +18,12 @@
         "title": "GitHub, autoscaling, and the component substitution fallacy",
         "link": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
         "pubDate": "2026-08-20T19:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "The August 17 outage, and the work ahead",
+        "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+        "pubDate": "2026-08-20T19:22",
         "feedId": "hn"
       },
       {
@@ -33,15 +45,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Scientific study reveals TikTok videos deactivate key cognitive brain regions",
+        "title": "Watching TikTok and Instagram deactivates the cognitive control network: Study",
         "link": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
         "pubDate": "2026-08-20T18:54",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Kandelo – a POSIX-compatible multi-process WASM kernel for the browser",
-        "link": "https://kandelo.dev/20260819-demo/",
-        "pubDate": "2026-08-20T18:25",
+        "title": "Why aren't smart people happier? (2022)",
+        "link": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
+        "pubDate": "2026-08-20T18:38",
         "feedId": "hn"
       },
       {
@@ -51,13 +63,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Optimizing things in the USSR (2016)",
-        "link": "https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/",
-        "pubDate": "2026-08-20T17:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "I should have loved biology",
+        "title": "I should have loved biology (2020)",
         "link": "https://jsomers.net/i-should-have-loved-biology/",
         "pubDate": "2026-08-20T17:50",
         "feedId": "hn"
@@ -72,12 +78,6 @@
         "title": "Show HN: We chased a weather balloon across Montana and never found it",
         "link": "https://radi8.dev/blog/uplink/",
         "pubDate": "2026-08-20T17:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "URL shortener links stored in your ATProto PDS",
-        "link": "https://atpr.to/",
-        "pubDate": "2026-08-20T17:23",
         "feedId": "hn"
       },
       {
@@ -122,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting",
-        "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-        "pubDate": "2026-08-20T12:57",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Everyone Says Assembly Is Untyped—Everyone Is Wrong",
         "link": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
         "pubDate": "2026-08-20T17:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting",
+        "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+        "pubDate": "2026-08-20T12:57",
         "feedId": "lobsters"
       },
       {
@@ -140,27 +140,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "HTML Can Do That",
-        "link": "https://chrisburnell.com/html-can-do-that/",
-        "pubDate": "2026-08-19T10:55",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Reclaim the terminal",
         "link": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
         "pubDate": "2026-08-19T22:10",
         "feedId": "lobsters"
       },
       {
-        "title": "Plain Text Accounting is Pretty Cool",
-        "link": "https://sumnerevans.com/posts/money/plain-text-accounting/",
-        "pubDate": "2026-08-19T16:55",
+        "title": "HTML Can Do That",
+        "link": "https://chrisburnell.com/html-can-do-that/",
+        "pubDate": "2026-08-19T10:55",
         "feedId": "lobsters"
       },
       {
         "title": "Why compiling Rust to WebAssembly is slow",
         "link": "https://00f.net/2026/08/19/why-compiling-rust-to-webassembly-is-slow/",
         "pubDate": "2026-08-20T12:32",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Plain Text Accounting is Pretty Cool",
+        "link": "https://sumnerevans.com/posts/money/plain-text-accounting/",
+        "pubDate": "2026-08-19T16:55",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Sing-song: a speakable encoding for long numbers and keys",
-        "link": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
-        "pubDate": "2026-08-19T20:28",
+        "title": "X.Org Server 26.1 RC1 Prepares For First Feature Release In Five Years",
+        "link": "https://www.phoronix.com/news/X.Org-Server-26.1-RC1",
+        "pubDate": "2026-08-20T13:32",
         "feedId": "lobsters"
       },
       {
-        "title": "Why I still hand write my commit messages",
-        "link": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
-        "pubDate": "2026-08-19T13:01",
+        "title": "Sing-song: a speakable encoding for long numbers and keys",
+        "link": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
+        "pubDate": "2026-08-19T20:28",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Employer health costs: Why it could be another tough year",
+        "link": "https://www.axios.com/2026/08/20/health-care-costs-employers-rising",
+        "pubDate": "2026-08-20T21:00",
+        "feedId": "axios"
+      },
+      {
         "title": "Texas and Iowa Senate races tighten heading into midterms",
         "link": "https://www.axios.com/local/san-antonio/2026/08/20/texas-iowa-senate-election-races-midterms-close",
         "pubDate": "2026-08-20T18:07",
@@ -369,12 +375,6 @@
         "title": "Exclusive: GOP warns AI companies that data centers are politically radioactive",
         "link": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
         "pubDate": "2026-08-19T09:53",
-        "feedId": "axios"
-      },
-      {
-        "title": "Iran war, said to be over \"very soon,\" nears 6 months",
-        "link": "https://www.axios.com/2026/08/19/iran-war-trump-oman-aircraft-carriers",
-        "pubDate": "2026-08-19T09:30",
         "feedId": "axios"
       }
     ]
