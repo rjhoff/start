@@ -3,15 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "Turns are Better than Radians (2022)",
-        "link": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-        "pubDate": "2026-08-20T01:29",
+        "title": "Windows brings out the Rorschach test in everyone",
+        "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+        "pubDate": "2026-08-20T06:16",
         "feedId": "hn"
       },
       {
-        "title": "Universality of Gradient Descent Neural Network Training",
-        "link": "https://arxiv.org/abs/2007.13664",
-        "pubDate": "2026-08-20T00:05",
+        "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
+        "link": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
+        "pubDate": "2026-08-20T04:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "Turns are Better than Radians (2022)",
+        "link": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+        "pubDate": "2026-08-20T01:29",
         "feedId": "hn"
       },
       {
@@ -24,12 +30,6 @@
         "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
         "link": "https://os8088.com/spotlight/",
         "pubDate": "2026-08-19T21:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "DFlash 2: Keep Drafting Parallel",
-        "link": "https://inco.ai/blog/dflash2/",
-        "pubDate": "2026-08-19T20:28",
         "feedId": "hn"
       },
       {
@@ -57,7 +57,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+        "title": "Google has stopped pushing Git tags for some Android source code",
         "link": "https://grapheneos.social/@GrapheneOS/117057099753905023",
         "pubDate": "2026-08-19T17:47",
         "feedId": "hn"
@@ -116,15 +116,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Go 1.27 is released",
+        "link": "https://go.dev/blog/go1.27",
+        "pubDate": "2026-08-19T17:53",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Bun 1.4 Rust rewrite is not looking good",
         "link": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
         "pubDate": "2026-08-19T06:20",
         "feedId": "lobsters"
       },
       {
-        "title": "Go 1.27 is released",
-        "link": "https://go.dev/blog/go1.27",
-        "pubDate": "2026-08-19T17:53",
+        "title": "Sing-song: a speakable encoding for long numbers and keys",
+        "link": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
+        "pubDate": "2026-08-19T20:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Reclaim the terminal",
+        "link": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
+        "pubDate": "2026-08-19T22:10",
         "feedId": "lobsters"
       },
       {
@@ -140,21 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Sing-song: a speakable encoding for long numbers and keys",
-        "link": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
-        "pubDate": "2026-08-19T20:28",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Introducing Microlighter",
         "link": "https://daverupert.com/2026/08/microlighter/",
         "pubDate": "2026-08-19T16:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Reclaim the terminal",
-        "link": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
-        "pubDate": "2026-08-19T22:10",
         "feedId": "lobsters"
       },
       {
