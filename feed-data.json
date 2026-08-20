@@ -128,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Sing-song: a speakable encoding for long numbers and keys",
-        "link": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
-        "pubDate": "2026-08-19T20:28",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Reclaim the terminal",
         "link": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
         "pubDate": "2026-08-19T22:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Sing-song: a speakable encoding for long numbers and keys",
+        "link": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
+        "pubDate": "2026-08-19T20:28",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +164,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Understanding the limitations of Pubsub systems",
+        "link": "https://dl.acm.org/doi/pdf/10.1145/3713082.3730397",
+        "pubDate": "2026-08-20T05:24",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Solo: a .so loader for static Linux binaries",
         "link": "https://github.com/pg83/solo",
         "pubDate": "2026-08-19T09:34",
         "feedId": "lobsters"
       },
       {
-        "title": "Packing Malware in Rosetta 2",
-        "link": "https://kernelkennel.com/blog/summercon2026-rosetta/",
-        "pubDate": "2026-08-19T22:05",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "capri: Type-safe, atomic Gleam bindings for Khepri, the modern distributed database for the BEAM",
-        "link": "https://capri.hexdocs.pm/",
-        "pubDate": "2026-08-19T17:07",
-        "feedId": "lobsters"
-      },
-      {
         "title": "a filename when none exists",
         "link": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
         "pubDate": "2026-08-19T07:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Packing Malware in Rosetta 2",
+        "link": "https://kernelkennel.com/blog/summercon2026-rosetta/",
+        "pubDate": "2026-08-19T22:05",
         "feedId": "lobsters"
       }
     ]
