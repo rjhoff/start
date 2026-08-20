@@ -3,21 +3,27 @@
     "id": "hn",
     "items": [
       {
+        "title": "Scientists Release Biggest 2D Map of the Universe",
+        "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+        "pubDate": "2026-08-20T21:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "Citizen Devs: Everyone is an engineer now",
+        "link": "https://www.massdriver.cloud/blogs/the-citizen-developer",
+        "pubDate": "2026-08-20T21:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "Code as an Artifact",
+        "link": "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/",
+        "pubDate": "2026-08-20T21:24",
+        "feedId": "hn"
+      },
+      {
         "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
         "link": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
         "pubDate": "2026-08-20T20:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "Stop eating Lady Gaga's Oreos",
-        "link": "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos",
-        "pubDate": "2026-08-20T19:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "GitHub, autoscaling, and the component substitution fallacy",
-        "link": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
-        "pubDate": "2026-08-20T19:28",
         "feedId": "hn"
       },
       {
@@ -72,12 +78,6 @@
         "title": "Project Cybersyn (2022)",
         "link": "https://bactra.org/notebooks/cybersyn.html",
         "pubDate": "2026-08-20T17:40",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: We chased a weather balloon across Montana and never found it",
-        "link": "https://radi8.dev/blog/uplink/",
-        "pubDate": "2026-08-20T17:33",
         "feedId": "hn"
       },
       {
@@ -158,27 +158,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Plain Text Accounting is Pretty Cool",
-        "link": "https://sumnerevans.com/posts/money/plain-text-accounting/",
-        "pubDate": "2026-08-19T16:55",
-        "feedId": "lobsters"
-      },
-      {
         "title": "If this is true, the hyperscalers are toast",
         "link": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers",
         "pubDate": "2026-08-20T11:53",
         "feedId": "lobsters"
       },
       {
-        "title": "Opus is a minimal, statically-scoped Lisp dialect based on the semantics of f-expressions (the Kernel language)",
-        "link": "https://github.com/yaoshiu/opus",
-        "pubDate": "2026-08-20T14:34",
+        "title": "Plain Text Accounting is Pretty Cool",
+        "link": "https://sumnerevans.com/posts/money/plain-text-accounting/",
+        "pubDate": "2026-08-19T16:55",
         "feedId": "lobsters"
       },
       {
         "title": "X.Org Server 26.1 RC1 Prepares For First Feature Release In Five Years",
         "link": "https://www.phoronix.com/news/X.Org-Server-26.1-RC1",
         "pubDate": "2026-08-20T13:32",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Opus is a minimal, statically-scoped Lisp dialect based on the semantics of f-expressions (the Kernel language)",
+        "link": "https://github.com/yaoshiu/opus",
+        "pubDate": "2026-08-20T14:34",
         "feedId": "lobsters"
       },
       {
