@@ -3,6 +3,36 @@
     "id": "hn",
     "items": [
       {
+        "title": "Show HN: Huzzah – a novel approach to coding with AI",
+        "link": "https://www.danielvaughn.dev/posts/huzzah/",
+        "pubDate": "2026-08-20T19:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "Seeking God in Science Part 10.5: The Mind-Body Problem (Take 2)",
+        "link": "http://blog.rongarret.info/2026/08/seeking-god-in-science-part-105-mind.html",
+        "pubDate": "2026-08-20T19:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Scientific study reveals TikTok videos deactivate key cognitive brain regions",
+        "link": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
+        "pubDate": "2026-08-20T18:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Kandelo – a POSIX-compatible multi-process WASM kernel for the browser",
+        "link": "https://kandelo.dev/20260819-demo/",
+        "pubDate": "2026-08-20T18:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "Consumer Rights Wiki",
+        "link": "https://consumerrights.wiki/w/Main_Page",
+        "pubDate": "2026-08-20T18:19",
+        "feedId": "hn"
+      },
+      {
         "title": "Optimizing things in the USSR (2016)",
         "link": "https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/",
         "pubDate": "2026-08-20T17:55",
@@ -33,12 +63,6 @@
         "feedId": "hn"
       },
       {
-        "title": "The Defense-Tech Bubble Is Headed for Consolidation",
-        "link": "https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation",
-        "pubDate": "2026-08-20T17:01",
-        "feedId": "hn"
-      },
-      {
         "title": "Sixtyfour (YC P25) Is Hiring",
         "link": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
         "pubDate": "2026-08-20T17:01",
@@ -51,7 +75,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Linux 7.2 Released",
+        "title": "Linux 7.2",
         "link": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
         "pubDate": "2026-08-20T15:46",
         "feedId": "hn"
@@ -66,30 +90,6 @@
         "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
         "link": "https://github.com/runvendo/vendo",
         "pubDate": "2026-08-20T15:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "Clean up Claude 5's token vomit with a separate LLM",
-        "link": "https://github.com/zachahn/vomit",
-        "pubDate": "2026-08-20T15:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Open-source Stripe Connect alternative",
-        "link": "https://zoneless.com",
-        "pubDate": "2026-08-20T14:38",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
-        "link": "https://pub.doub.ly/",
-        "pubDate": "2026-08-20T14:38",
-        "feedId": "hn"
-      },
-      {
-        "title": "An elliptic curve of rank ≥ 30",
-        "link": "https://elliptic-rank.icarm.cloud/curve/273",
-        "pubDate": "2026-08-20T14:14",
         "feedId": "hn"
       }
     ]
@@ -122,6 +122,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting",
+        "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+        "pubDate": "2026-08-20T12:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH",
+        "link": "https://www.ethanheilman.com/x/33/index.html",
+        "pubDate": "2026-08-20T15:24",
+        "feedId": "lobsters"
+      },
+      {
         "title": "HTML Can Do That",
         "link": "https://chrisburnell.com/html-can-do-that/",
         "pubDate": "2026-08-19T10:55",
@@ -140,27 +152,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH",
-        "link": "https://www.ethanheilman.com/x/33/index.html",
-        "pubDate": "2026-08-20T15:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting",
-        "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-        "pubDate": "2026-08-20T12:57",
+        "title": "Everyone Says Assembly Is Untyped—Everyone Is Wrong",
+        "link": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+        "pubDate": "2026-08-20T17:22",
         "feedId": "lobsters"
       },
       {
         "title": "Why compiling Rust to WebAssembly is slow",
         "link": "https://00f.net/2026/08/19/why-compiling-rust-to-webassembly-is-slow/",
         "pubDate": "2026-08-20T12:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Everyone Says Assembly Is Untyped—Everyone Is Wrong - gingerBill",
-        "link": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
-        "pubDate": "2026-08-20T17:22",
         "feedId": "lobsters"
       },
       {
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Roblox must make changes after failing to block adults creeping on kids",
+        "link": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
+        "pubDate": "2026-08-20T17:14",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Genesis joins the giant electric SUV club with new GV90",
         "link": "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/",
@@ -274,12 +280,6 @@
         "title": "Scientists find closest star to the Milky Way's central black hole",
         "link": "https://arstechnica.com/science/2026/08/scientists-find-closest-star-to-the-milky-ways-central-black-hole/",
         "pubDate": "2026-08-19T15:56",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Meta ran ads for an app promising to nudify female politicians",
-        "link": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
-        "pubDate": "2026-08-19T15:45",
         "feedId": "arstechnica"
       }
     ]
