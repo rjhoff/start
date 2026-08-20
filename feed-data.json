@@ -3,7 +3,7 @@
     "id": "hn",
     "items": [
       {
-        "title": "Turns are Better than Radians",
+        "title": "Turns are Better than Radians (2022)",
         "link": "https://www.computerenhance.com/p/turns-are-better-than-radians",
         "pubDate": "2026-08-20T01:29",
         "feedId": "hn"
@@ -30,12 +30,6 @@
         "title": "DFlash 2: Keep Drafting Parallel",
         "link": "https://inco.ai/blog/dflash2/",
         "pubDate": "2026-08-19T20:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "Pressed Penny Machine Map",
-        "link": "https://pennypresses.net/home/map.php",
-        "pubDate": "2026-08-19T20:13",
         "feedId": "hn"
       },
       {
@@ -91,6 +85,12 @@
         "link": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
         "pubDate": "2026-08-19T15:28",
         "feedId": "hn"
+      },
+      {
+        "title": "Mathematics in the age of AI",
+        "link": "https://arxiv.org/abs/2608.16753",
+        "pubDate": "2026-08-19T15:14",
+        "feedId": "hn"
       }
     ]
   },
@@ -128,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "SQLite for Everything",
-        "link": "https://joecode.com/2026-08-19-sqlite3/",
-        "pubDate": "2026-08-19T15:17",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Ploopy A+ (external trackball)",
         "link": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
         "pubDate": "2026-08-19T18:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "SQLite for Everything",
+        "link": "https://joecode.com/2026-08-19-sqlite3/",
+        "pubDate": "2026-08-19T15:17",
         "feedId": "lobsters"
       },
       {
@@ -170,9 +170,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "a filename when none exists",
-        "link": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
-        "pubDate": "2026-08-19T07:29",
+        "title": "Packing Malware in Rosetta 2",
+        "link": "https://kernelkennel.com/blog/summercon2026-rosetta/",
+        "pubDate": "2026-08-19T22:05",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Packing Malware in Rosetta 2",
-        "link": "https://kernelkennel.com/blog/summercon2026-rosetta/",
-        "pubDate": "2026-08-19T22:05",
+        "title": "a filename when none exists",
+        "link": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
+        "pubDate": "2026-08-19T07:29",
         "feedId": "lobsters"
       }
     ]
