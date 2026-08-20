@@ -69,6 +69,12 @@
         "feedId": "hn"
       },
       {
+        "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+        "link": "https://github.com/onecli/onecli",
+        "pubDate": "2026-08-19T16:29",
+        "feedId": "hn"
+      },
+      {
         "title": "Extensible Software in the age of LLMs",
         "link": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
         "pubDate": "2026-08-19T16:26",
@@ -84,12 +90,6 @@
         "title": "Casio F-B100W-1A",
         "link": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
         "pubDate": "2026-08-19T15:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "Mathematics in the age of AI",
-        "link": "https://arxiv.org/abs/2608.16753",
-        "pubDate": "2026-08-19T15:14",
         "feedId": "hn"
       }
     ]
@@ -107,18 +107,6 @@
         "title": "Plain Text Accounting is Pretty Cool",
         "link": "https://sumnerevans.com/posts/money/plain-text-accounting/",
         "pubDate": "2026-08-19T16:55",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why I still hand write my commit messages",
-        "link": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
-        "pubDate": "2026-08-19T13:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Bun 1.4 Rust rewrite is not looking good",
-        "link": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
-        "pubDate": "2026-08-19T06:20",
         "feedId": "lobsters"
       },
       {
@@ -158,12 +146,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Solo: a .so loader for static Linux binaries",
-        "link": "https://github.com/pg83/solo",
-        "pubDate": "2026-08-19T09:34",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Reclaim the terminal",
         "link": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
         "pubDate": "2026-08-19T22:10",
@@ -185,6 +167,24 @@
         "title": "Things I want in a modern relational query language",
         "link": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
         "pubDate": "2026-08-19T04:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Packing Malware in Rosetta 2",
+        "link": "https://kernelkennel.com/blog/summercon2026-rosetta/",
+        "pubDate": "2026-08-19T22:05",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Extreme Programming: A Gentle Introduction",
+        "link": "http://www.extremeprogramming.org/",
+        "pubDate": "2026-08-19T15:54",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How I browse the Web with uBlock (Hard Mode)",
+        "link": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
+        "pubDate": "2026-08-18T12:30",
         "feedId": "lobsters"
       }
     ]
