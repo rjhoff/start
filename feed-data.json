@@ -3,9 +3,57 @@
     "id": "hn",
     "items": [
       {
+        "title": "Hacking with Claude on a $27 Smart Watch",
+        "link": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+        "pubDate": "2026-08-20T14:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "Index of the best vibe coding tools",
+        "link": "https://www.vibeleaderboard.ai/tools",
+        "pubDate": "2026-08-20T13:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "CI jobs artifacts should not be difficult",
+        "link": "https://deadsimpleci.sparrowhub.io/doc/job-artifacts",
+        "pubDate": "2026-08-20T13:44",
+        "feedId": "hn"
+      },
+      {
+        "title": "I Spent Twenty Years Becoming Good at the Wrong Game",
+        "link": "https://savvynormie.com/i-spent-twenty-years-becoming-good-at-the-wrong-game/",
+        "pubDate": "2026-08-20T13:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "DiffusionGemma Technical Report",
+        "link": "https://arxiv.org/abs/2608.00146",
+        "pubDate": "2026-08-20T13:24",
+        "feedId": "hn"
+      },
+      {
         "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
         "link": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
         "pubDate": "2026-08-20T13:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "Canonical Backs New Project to Translate Large C Codebases into Safe Rust",
+        "link": "https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/",
+        "pubDate": "2026-08-20T13:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "UK internet age checks have boosted rogue adult sites, says Pornhub",
+        "link": "https://www.ft.com/content/295c2eba-da29-434d-84e0-e9de3b0b1cc2",
+        "pubDate": "2026-08-20T13:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why the Ocean Cleanup Hasn't Solved the Plastic Pollution Crisis",
+        "link": "https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/",
+        "pubDate": "2026-08-20T12:58",
         "feedId": "hn"
       },
       {
@@ -27,12 +75,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Australia passes law to levy tech giants that fail to pay for local news",
-        "link": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/",
-        "pubDate": "2026-08-20T11:23",
-        "feedId": "hn"
-      },
-      {
         "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
         "link": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
         "pubDate": "2026-08-20T11:03",
@@ -48,48 +90,6 @@
         "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
         "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
         "pubDate": "2026-08-20T10:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "Don't Paste the AI, please",
-        "link": "https://dontpastetheai.com/",
-        "pubDate": "2026-08-20T08:20",
-        "feedId": "hn"
-      },
-      {
-        "title": "Windows brings out the Rorschach test in everyone (2003)",
-        "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-        "pubDate": "2026-08-20T06:16",
-        "feedId": "hn"
-      },
-      {
-        "title": "Turns are Better than Radians (2022)",
-        "link": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-        "pubDate": "2026-08-20T01:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
-        "link": "https://os8088.com/spotlight/",
-        "pubDate": "2026-08-19T21:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-        "link": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-        "pubDate": "2026-08-19T19:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "Unsloth Dynamic 3.0 GGUFs",
-        "link": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-        "pubDate": "2026-08-19T18:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "Go 1.27",
-        "link": "https://go.dev/blog/go1.27",
-        "pubDate": "2026-08-19T18:33",
         "feedId": "hn"
       }
     ]
@@ -128,9 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Go 1.27 is released",
-        "link": "https://go.dev/blog/go1.27",
-        "pubDate": "2026-08-19T17:53",
+        "title": "Sing-song: a speakable encoding for long numbers and keys",
+        "link": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
+        "pubDate": "2026-08-19T20:28",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Sing-song: a speakable encoding for long numbers and keys",
-        "link": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
-        "pubDate": "2026-08-19T20:28",
+        "title": "Go 1.27 is released",
+        "link": "https://go.dev/blog/go1.27",
+        "pubDate": "2026-08-19T17:53",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting",
+        "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+        "pubDate": "2026-08-20T12:57",
         "feedId": "lobsters"
       },
       {
@@ -158,6 +164,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Why compiling Rust to WebAssembly is slow",
+        "link": "https://00f.net/2026/08/19/why-compiling-rust-to-webassembly-is-slow/",
+        "pubDate": "2026-08-20T12:32",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Ploopy A+ (external trackball)",
         "link": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
         "pubDate": "2026-08-19T18:23",
@@ -170,21 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Understanding the limitations of Pubsub systems",
-        "link": "https://dl.acm.org/doi/pdf/10.1145/3713082.3730397",
-        "pubDate": "2026-08-20T05:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "SQLite for Everything",
-        "link": "https://joecode.com/2026-08-19-sqlite3/",
-        "pubDate": "2026-08-19T15:17",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting",
-        "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-        "pubDate": "2026-08-20T12:57",
+        "title": "How a joke domain purchase turned into geopolitical warfare",
+        "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+        "pubDate": "2026-08-20T12:21",
         "feedId": "lobsters"
       }
     ]
