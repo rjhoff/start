@@ -3,21 +3,15 @@
     "id": "hn",
     "items": [
       {
-        "title": "Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo",
-        "link": "https://fetzu.ch/blog/20260819_claudevsdrobo/",
-        "pubDate": "2026-08-20T00:18",
+        "title": "Turns are Better than Radians",
+        "link": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+        "pubDate": "2026-08-20T01:29",
         "feedId": "hn"
       },
       {
         "title": "Universality of Gradient Descent Neural Network Training",
         "link": "https://arxiv.org/abs/2007.13664",
         "pubDate": "2026-08-20T00:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
-        "link": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
-        "pubDate": "2026-08-19T23:38",
         "feedId": "hn"
       },
       {
@@ -42,12 +36,6 @@
         "title": "Pressed Penny Machine Map",
         "link": "https://pennypresses.net/home/map.php",
         "pubDate": "2026-08-19T20:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "Xwayland 26.1.0 rc1",
-        "link": "https://lists.x.org/archives/xorg/2026-August/062280.html",
-        "pubDate": "2026-08-19T20:03",
         "feedId": "hn"
       },
       {
@@ -87,9 +75,21 @@
         "feedId": "hn"
       },
       {
+        "title": "Remote workers report the highest well-being in study of 7,700 employees",
+        "link": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
+        "pubDate": "2026-08-19T15:32",
+        "feedId": "hn"
+      },
+      {
         "title": "Casio F-B100W-1A",
         "link": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
         "pubDate": "2026-08-19T15:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "Mathematics in the age of AI",
+        "link": "https://arxiv.org/abs/2608.16753",
+        "pubDate": "2026-08-19T15:14",
         "feedId": "hn"
       }
     ]
@@ -140,6 +140,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Ploopy A+ (external trackball)",
+        "link": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+        "pubDate": "2026-08-19T18:23",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Introducing Microlighter",
         "link": "https://daverupert.com/2026/08/microlighter/",
         "pubDate": "2026-08-19T16:32",
@@ -152,15 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Ploopy A+ (external trackball)",
-        "link": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-        "pubDate": "2026-08-19T18:23",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Solo: a .so loader for static Linux binaries",
         "link": "https://github.com/pg83/solo",
         "pubDate": "2026-08-19T09:34",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Reclaim the terminal",
+        "link": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
+        "pubDate": "2026-08-19T22:10",
         "feedId": "lobsters"
       },
       {
@@ -179,12 +185,6 @@
         "title": "Things I want in a modern relational query language",
         "link": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
         "pubDate": "2026-08-19T04:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Reclaim the terminal",
-        "link": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
-        "pubDate": "2026-08-19T22:10",
         "feedId": "lobsters"
       }
     ]
