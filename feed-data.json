@@ -3,15 +3,15 @@
     "id": "hn",
     "items": [
       {
-        "title": "Windows brings out the Rorschach test in everyone",
-        "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-        "pubDate": "2026-08-20T06:16",
+        "title": "Don't Paste the AI, please",
+        "link": "https://dontpastetheai.com/",
+        "pubDate": "2026-08-20T08:20",
         "feedId": "hn"
       },
       {
-        "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
-        "link": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
-        "pubDate": "2026-08-20T04:42",
+        "title": "Windows brings out the Rorschach test in everyone",
+        "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+        "pubDate": "2026-08-20T06:16",
         "feedId": "hn"
       },
       {
@@ -122,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Bun 1.4 Rust rewrite is not looking good",
-        "link": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
-        "pubDate": "2026-08-19T06:20",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Reclaim the terminal",
         "link": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
         "pubDate": "2026-08-19T22:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Bun 1.4 Rust rewrite is not looking good",
+        "link": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
+        "pubDate": "2026-08-19T06:20",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Ploopy A+ (external trackball)",
-        "link": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-        "pubDate": "2026-08-19T18:23",
-        "feedId": "lobsters"
-      },
-      {
         "title": "SQLite for Everything",
         "link": "https://joecode.com/2026-08-19-sqlite3/",
         "pubDate": "2026-08-19T15:17",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Ploopy A+ (external trackball)",
+        "link": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+        "pubDate": "2026-08-19T18:23",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +158,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Mastodon 5.0: Laying the foundation",
-        "link": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
-        "pubDate": "2026-08-19T00:03",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Understanding the limitations of Pubsub systems",
         "link": "https://dl.acm.org/doi/pdf/10.1145/3713082.3730397",
         "pubDate": "2026-08-20T05:24",
         "feedId": "lobsters"
       },
       {
-        "title": "Solo: a .so loader for static Linux binaries",
-        "link": "https://github.com/pg83/solo",
-        "pubDate": "2026-08-19T09:34",
+        "title": "What Zig felt like, coming from Rust",
+        "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+        "pubDate": "2026-08-20T07:53",
         "feedId": "lobsters"
       },
       {
-        "title": "a filename when none exists",
-        "link": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
-        "pubDate": "2026-08-19T07:29",
+        "title": "Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can",
+        "link": "https://zerotistic.blog/posts/find-my-people-linux/",
+        "pubDate": "2026-08-20T09:02",
         "feedId": "lobsters"
       },
       {
-        "title": "Packing Malware in Rosetta 2",
-        "link": "https://kernelkennel.com/blog/summercon2026-rosetta/",
-        "pubDate": "2026-08-19T22:05",
+        "title": "Rust Supply-Chain Attack: arrayref 0.3.10 and the proc-macro1 Typosquat",
+        "link": "https://www.stepsecurity.io/blog/arrayref-rust-crate-supply-chain-attack",
+        "pubDate": "2026-08-20T09:54",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Mastodon 5.0: Laying the foundation",
+        "link": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
+        "pubDate": "2026-08-19T00:03",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,30 @@
     "id": "axios",
     "items": [
       {
+        "title": "Vance raises $5 million at big Hamptons event",
+        "link": "https://www.axios.com/2026/08/20/vance-young-donors-fundraiser",
+        "pubDate": "2026-08-20T09:29",
+        "feedId": "axios"
+      },
+      {
+        "title": "When Mullin's friends in Congress call, DHS answers",
+        "link": "https://www.axios.com/2026/08/20/markwayne-mullin-dhs-favors",
+        "pubDate": "2026-08-20T09:25",
+        "feedId": "axios"
+      },
+      {
+        "title": "The rise of DSA is killing off Resistance 1.0 Democrats",
+        "link": "https://www.axios.com/2026/08/20/dsa-impeachment-trump-vindman-nixon-democrats",
+        "pubDate": "2026-08-20T09:10",
+        "feedId": "axios"
+      },
+      {
+        "title": "Data center uproar scrambles the midterm election",
+        "link": "https://www.axios.com/2026/08/20/data-center-uproar-2026-midterms",
+        "pubDate": "2026-08-20T09:00",
+        "feedId": "axios"
+      },
+      {
         "title": "Syrian foreign minister to Axios: Israeli bombing of airbase was unjustified",
         "link": "https://www.axios.com/2026/08/19/syria-foreign-minister-israel-bombing-airbase",
         "pubDate": "2026-08-19T22:19",
@@ -351,30 +375,6 @@
         "title": "Why the U.S. grid's extreme heat problem is changing",
         "link": "https://www.axios.com/2026/08/19/extreme-heat-electric-grid-utilities-demand",
         "pubDate": "2026-08-19T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "OpenAI blinks first in AI safety standoff",
-        "link": "https://www.axios.com/2026/08/19/openai-astra-safety-altman-anthropic",
-        "pubDate": "2026-08-19T09:14",
-        "feedId": "axios"
-      },
-      {
-        "title": "Behind the Curtain: The new existential threat to AI",
-        "link": "https://www.axios.com/2026/08/19/data-centers-ai-political-opinion",
-        "pubDate": "2026-08-19T09:14",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump pauses 50% tariffs on Canadian goods for 3 days",
-        "link": "https://www.axios.com/2026/08/19/trump-canada-tariffs-50-percent-postponed",
-        "pubDate": "2026-08-19T02:51",
-        "feedId": "axios"
-      },
-      {
-        "title": "Angie Nixon scores socialist breakthrough in Trump's Florida",
-        "link": "https://www.axios.com/2026/08/19/democrats-florida-senate-angie-nixon-misterms",
-        "pubDate": "2026-08-19T02:14",
         "feedId": "axios"
       }
     ]
