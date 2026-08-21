@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
+        "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+        "pubDate": "2026-08-21T21:00",
+        "feedId": "hn"
+      },
+      {
         "title": "Quick impressions: A week of using Codex more than Claude",
         "link": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
         "pubDate": "2026-08-21T19:51",
@@ -27,27 +33,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Rebuilding our Electron meeting-recording engine in Swift",
-        "link": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
-        "pubDate": "2026-08-21T17:33",
-        "feedId": "hn"
-      },
-      {
         "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
         "link": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
         "pubDate": "2026-08-21T17:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Another better lower bound for n=17 square packing",
-        "link": "http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html",
-        "pubDate": "2026-08-21T16:50",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
-        "link": "https://github.com/proliferate-ai/proliferate",
-        "pubDate": "2026-08-21T16:47",
         "feedId": "hn"
       },
       {
@@ -87,8 +75,20 @@
         "feedId": "hn"
       },
       {
+        "title": "The B-right/V R2 Operating System (2000)",
+        "link": "http://tronweb.super-nova.co.jp/b-right-vr2intro.html",
+        "pubDate": "2026-08-21T15:20",
+        "feedId": "hn"
+      },
+      {
         "title": "I ran Photoshop on a £0.60 computer chip",
         "link": "https://pointinthecloud.com/2026-08-19-144600.html",
+        "pubDate": "2026-08-21T15:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "Felony Bench",
+        "link": "https://www.felonybench.com/",
         "pubDate": "2026-08-21T15:17",
         "feedId": "hn"
       }
@@ -128,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Announcing Rust 1.98.0",
-        "link": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
-        "pubDate": "2026-08-21T00:38",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Music theory for programmers",
         "link": "https://runjs.app/blog/music-theory-for-programmers",
         "pubDate": "2026-08-21T12:03",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Announcing Rust 1.98.0",
+        "link": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
+        "pubDate": "2026-08-21T00:38",
         "feedId": "lobsters"
       },
       {
@@ -152,21 +152,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Everyone Says Assembly Is Untyped—Everyone Is Wrong",
-        "link": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
-        "pubDate": "2026-08-20T17:22",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What are you doing this weekend?",
         "link": "https://lobste.rs/s/ittn74/what_are_you_doing_this_weekend",
         "pubDate": "2026-08-21T11:47",
         "feedId": "lobsters"
       },
       {
+        "title": "Everyone Says Assembly Is Untyped—Everyone Is Wrong",
+        "link": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+        "pubDate": "2026-08-20T17:22",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The road to ACID transactions in Cassandra 6",
         "link": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
         "pubDate": "2026-08-21T12:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Small, native web tricks worth remembering",
+        "link": "https://htmlcat.net",
+        "pubDate": "2026-08-21T14:32",
         "feedId": "lobsters"
       },
       {
@@ -179,12 +185,6 @@
         "title": "Bun 1.4",
         "link": "https://bun.com/blog/bun-v1.4",
         "pubDate": "2026-08-20T14:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Small, native web tricks worth remembering",
-        "link": "https://htmlcat.net",
-        "pubDate": "2026-08-21T14:32",
         "feedId": "lobsters"
       }
     ]
@@ -288,15 +288,27 @@
     "id": "axios",
     "items": [
       {
-        "title": "Scoop: DOJ, TikTok settle for $400 million in children's privacy suit",
-        "link": "https://www.axios.com/2026/08/21/doj-tiktok-biden-lawsuit-settlement",
-        "pubDate": "2026-08-21T19:30",
+        "title": "Supreme Court allows Trump's ballroom construction to proceed for now",
+        "link": "https://www.axios.com/2026/08/21/trump-ballroom-construction-supreme-court",
+        "pubDate": "2026-08-21T21:12",
         "feedId": "axios"
       },
       {
-        "title": "Supreme Court allows Trump's ballroom construction to proceed for now",
-        "link": "https://www.axios.com/2026/08/21/trump-ballroom-construction-supreme-court",
-        "pubDate": "2026-08-21T19:02",
+        "title": "The job application got faster. The job search got worse.",
+        "link": "https://www.axios.com/2026/08/21/job-seekers-ai-hiring-ghost-jobs-trust",
+        "pubDate": "2026-08-21T21:04",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump's higher ed shakeup starts a new semester",
+        "link": "https://www.axios.com/2026/08/21/trump-higher-ed-shakeup-colleges-fall-semester",
+        "pubDate": "2026-08-21T20:40",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: DOJ, TikTok settle for $400 million in children's privacy suit",
+        "link": "https://www.axios.com/2026/08/21/doj-tiktok-biden-lawsuit-settlement",
+        "pubDate": "2026-08-21T19:30",
         "feedId": "axios"
       },
       {
@@ -363,18 +375,6 @@
         "title": "Texas and Iowa Senate races tighten heading into midterms",
         "link": "https://www.axios.com/local/san-antonio/2026/08/20/texas-iowa-senate-election-races-midterms-close",
         "pubDate": "2026-08-20T18:07",
-        "feedId": "axios"
-      },
-      {
-        "title": "Bernie Sanders backs Angie Nixon after her stunning Florida primary upset",
-        "link": "https://www.axios.com/2026/08/20/bernie-sanders-endorses-floridas-angie-nixon-for-senate",
-        "pubDate": "2026-08-20T17:42",
-        "feedId": "axios"
-      },
-      {
-        "title": "Vance raises $5 million at big Hamptons event",
-        "link": "https://www.axios.com/2026/08/20/vance-young-donors-fundraiser",
-        "pubDate": "2026-08-20T09:29",
         "feedId": "axios"
       }
     ]
