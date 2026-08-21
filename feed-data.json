@@ -15,12 +15,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Artificial Intelligence Policy",
-        "link": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
-        "pubDate": "2026-08-21T01:37",
-        "feedId": "hn"
-      },
-      {
         "title": "There's no such thing as a small software team anymore",
         "link": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
         "pubDate": "2026-08-21T00:28",
@@ -72,6 +66,12 @@
         "title": "I should have loved biology (2020)",
         "link": "https://jsomers.net/i-should-have-loved-biology/",
         "pubDate": "2026-08-20T17:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "Project Cybersyn (2022)",
+        "link": "https://bactra.org/notebooks/cybersyn.html",
+        "pubDate": "2026-08-20T17:40",
         "feedId": "hn"
       },
       {
@@ -134,15 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH",
-        "link": "https://www.ethanheilman.com/x/33/index.html",
-        "pubDate": "2026-08-20T15:24",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Announcing Rust 1.98.0",
         "link": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
         "pubDate": "2026-08-21T00:38",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH",
+        "link": "https://www.ethanheilman.com/x/33/index.html",
+        "pubDate": "2026-08-20T15:24",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Plain Text Accounting is Pretty Cool",
-        "link": "https://sumnerevans.com/posts/money/plain-text-accounting/",
-        "pubDate": "2026-08-19T16:55",
+        "title": "Emacs 31.1 will release on 8/24",
+        "link": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY#L246",
+        "pubDate": "2026-08-20T16:58",
         "feedId": "lobsters"
       },
       {
-        "title": "X.Org Server 26.1 RC1 Prepares For First Feature Release In Five Years",
-        "link": "https://www.phoronix.com/news/X.Org-Server-26.1-RC1",
-        "pubDate": "2026-08-20T13:32",
+        "title": "Plain Text Accounting is Pretty Cool",
+        "link": "https://sumnerevans.com/posts/money/plain-text-accounting/",
+        "pubDate": "2026-08-19T16:55",
         "feedId": "lobsters"
       }
     ]
