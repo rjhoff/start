@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "I own 28,000 books – here's what I've learned",
+        "link": "https://www.shelvd.org/blog/28000-books",
+        "pubDate": "2026-08-21T22:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "'Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them",
+        "link": "https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e",
+        "pubDate": "2026-08-21T22:15",
+        "feedId": "hn"
+      },
+      {
         "title": "Remotely Unlocking Electric Scooters",
         "link": "https://henriemategui.com/post/remotely-unlocking-electric-scooters",
         "pubDate": "2026-08-21T21:32",
@@ -15,21 +27,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Quick impressions: A week of using Codex more than Claude",
-        "link": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-        "pubDate": "2026-08-21T19:51",
-        "feedId": "hn"
-      },
-      {
         "title": "Tumble Forth – from assembly to OS with C compiler",
         "link": "https://tumbleforth.hardcoded.net/",
         "pubDate": "2026-08-21T18:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-        "link": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-        "pubDate": "2026-08-21T18:48",
         "feedId": "hn"
       },
       {
@@ -63,6 +63,12 @@
         "feedId": "hn"
       },
       {
+        "title": "Three ways to smuggle SQLite into Nix",
+        "link": "https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix",
+        "pubDate": "2026-08-21T16:15",
+        "feedId": "hn"
+      },
+      {
         "title": "Decayfmt – a file format that corrupts itself a little every time you open it",
         "link": "https://github.com/aravpanwar/decayfmt",
         "pubDate": "2026-08-21T16:09",
@@ -85,12 +91,6 @@
         "link": "https://pointinthecloud.com/2026-08-19-144600.html",
         "pubDate": "2026-08-21T15:17",
         "feedId": "hn"
-      },
-      {
-        "title": "Felony Bench",
-        "link": "https://www.felonybench.com/",
-        "pubDate": "2026-08-21T15:17",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,15 +110,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
+        "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+        "pubDate": "2026-08-21T12:47",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Better Batteries",
         "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
         "pubDate": "2026-08-21T07:47",
         "feedId": "lobsters"
       },
       {
-        "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
-        "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
-        "pubDate": "2026-08-21T12:47",
+        "title": "Felony Bench: Be AI, Do Crime",
+        "link": "https://www.felonybench.com/",
+        "pubDate": "2026-08-21T17:23",
         "feedId": "lobsters"
       },
       {
@@ -134,12 +140,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Felony Bench: Be AI, Do Crime",
-        "link": "https://www.felonybench.com/",
-        "pubDate": "2026-08-21T17:23",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Announcing Rust 1.98.0",
         "link": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
         "pubDate": "2026-08-21T00:38",
@@ -152,6 +152,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Small, native web tricks worth remembering",
+        "link": "https://htmlcat.net",
+        "pubDate": "2026-08-21T14:32",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Everyone Says Assembly Is Untyped—Everyone Is Wrong",
         "link": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
         "pubDate": "2026-08-20T17:22",
@@ -161,12 +167,6 @@
         "title": "What are you doing this weekend?",
         "link": "https://lobste.rs/s/ittn74/what_are_you_doing_this_weekend",
         "pubDate": "2026-08-21T11:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Small, native web tricks worth remembering",
-        "link": "https://htmlcat.net",
-        "pubDate": "2026-08-21T14:32",
         "feedId": "lobsters"
       },
       {
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "'Stop gaslighting me!': Florida Democrats' Senate nominee and party chair have heated call over socialism",
+        "link": "https://www.axios.com/2026/08/21/florida-democrats-angie-nixon-nikki-fried-socialism",
+        "pubDate": "2026-08-21T22:46",
+        "feedId": "axios"
+      },
+      {
         "title": "Supreme Court allows Trump's ballroom construction to proceed for now",
         "link": "https://www.axios.com/2026/08/21/trump-ballroom-construction-supreme-court",
         "pubDate": "2026-08-21T21:12",
@@ -369,12 +375,6 @@
         "title": "Employer health costs: Why it could be another tough year",
         "link": "https://www.axios.com/2026/08/20/health-care-costs-employers-rising",
         "pubDate": "2026-08-20T21:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Texas and Iowa Senate races tighten heading into midterms",
-        "link": "https://www.axios.com/local/san-antonio/2026/08/20/texas-iowa-senate-election-races-midterms-close",
-        "pubDate": "2026-08-20T18:07",
         "feedId": "axios"
       }
     ]
