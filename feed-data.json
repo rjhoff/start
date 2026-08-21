@@ -3,15 +3,33 @@
     "id": "hn",
     "items": [
       {
+        "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+        "link": "https://Argentic.network",
+        "pubDate": "2026-08-21T06:24",
+        "feedId": "hn"
+      },
+      {
         "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
         "link": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
         "pubDate": "2026-08-21T05:39",
         "feedId": "hn"
       },
       {
+        "title": "Stop Making TUIs",
+        "link": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+        "pubDate": "2026-08-21T05:37",
+        "feedId": "hn"
+      },
+      {
         "title": "Japan tried to build an operating system for the world, the US intervened",
         "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
         "pubDate": "2026-08-21T05:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "Seed: Minimal, self-modifying agent harness",
+        "link": "https://github.com/vivekhaldar/seed",
+        "pubDate": "2026-08-21T05:20",
         "feedId": "hn"
       },
       {
@@ -27,21 +45,9 @@
         "feedId": "hn"
       },
       {
-        "title": "There's no such thing as a small software team anymore",
-        "link": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
-        "pubDate": "2026-08-21T00:28",
-        "feedId": "hn"
-      },
-      {
         "title": "Ox Alpha",
         "link": "https://openrouter.ai/stealth/ox-alpha",
         "pubDate": "2026-08-20T23:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-        "link": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-        "pubDate": "2026-08-20T20:07",
         "feedId": "hn"
       },
       {
@@ -51,7 +57,7 @@
         "feedId": "hn"
       },
       {
-        "title": "SpacetimeDB: A Short Technical Review",
+        "title": "SpacetimeDB: a short technical review",
         "link": "https://strn.cat/posts/spacetime/",
         "pubDate": "2026-08-20T19:19",
         "feedId": "hn"
@@ -85,12 +91,6 @@
         "link": "https://bactra.org/notebooks/cybersyn.html",
         "pubDate": "2026-08-20T17:40",
         "feedId": "hn"
-      },
-      {
-        "title": "Sixtyfour (YC P25) Is Hiring",
-        "link": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
-        "pubDate": "2026-08-20T17:01",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Supply chain attack on arrayref",
-        "link": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
-        "pubDate": "2026-08-20T09:54",
-        "feedId": "lobsters"
-      },
-      {
         "title": "How a joke domain purchase turned into geopolitical warfare",
         "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
         "pubDate": "2026-08-20T12:21",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Supply chain attack on arrayref",
+        "link": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
+        "pubDate": "2026-08-20T09:54",
         "feedId": "lobsters"
       },
       {
@@ -128,15 +128,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What Zig felt like, coming from Rust",
-        "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-        "pubDate": "2026-08-20T07:53",
+        "title": "Btrfs Snapshot Integration in KDE",
+        "link": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
+        "pubDate": "2026-08-21T05:14",
         "feedId": "lobsters"
       },
       {
         "title": "AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting",
         "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
         "pubDate": "2026-08-20T12:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What Zig felt like, coming from Rust",
+        "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+        "pubDate": "2026-08-20T07:53",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +158,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Btrfs Snapshot Integration in KDE",
-        "link": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
-        "pubDate": "2026-08-21T05:14",
-        "feedId": "lobsters"
-      },
-      {
         "title": "If this is true, the hyperscalers are toast",
         "link": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers",
         "pubDate": "2026-08-20T11:53",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Emacs 31.1 will release on 8/24",
+        "link": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY#L246",
+        "pubDate": "2026-08-20T16:58",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Survival Guide for a Censored Internet",
+        "link": "https://www.akitaonrails.com/en/2026/08/19/survival-guide-for-a-censored-internet/",
+        "pubDate": "2026-08-21T02:42",
         "feedId": "lobsters"
       },
       {
@@ -173,18 +185,6 @@
         "title": "Why compiling Rust to WebAssembly is slow",
         "link": "https://00f.net/2026/08/19/why-compiling-rust-to-webassembly-is-slow/",
         "pubDate": "2026-08-20T12:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "HTML Can Do That",
-        "link": "https://chrisburnell.com/html-can-do-that/",
-        "pubDate": "2026-08-19T10:55",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Emacs 31.1 will release on 8/24",
-        "link": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY#L246",
-        "pubDate": "2026-08-20T16:58",
         "feedId": "lobsters"
       }
     ]
