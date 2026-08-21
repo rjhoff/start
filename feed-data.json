@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "DeepSeek-v4-flash-vision-exp",
+        "link": "https://api-docs.deepseek.com/guides/vision/",
+        "pubDate": "2026-08-21T10:33",
+        "feedId": "hn"
+      },
+      {
         "title": "Small, native web tricks worth remembering",
         "link": "https://htmlcat.net/",
         "pubDate": "2026-08-21T09:45",
@@ -12,12 +18,6 @@
         "title": "Emacs 31.1 will release on 8/24",
         "link": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY",
         "pubDate": "2026-08-21T08:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "Better Batteries",
-        "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
-        "pubDate": "2026-08-21T07:48",
         "feedId": "hn"
       },
       {
@@ -57,12 +57,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Codex on AWS bedrock bug causing 10x charges",
-        "link": "https://github.com/openai/codex/issues/37674",
-        "pubDate": "2026-08-21T03:17",
-        "feedId": "hn"
-      },
-      {
         "title": "Ox Alpha",
         "link": "https://openrouter.ai/stealth/ox-alpha",
         "pubDate": "2026-08-20T23:56",
@@ -75,12 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "SpacetimeDB: a short technical review",
-        "link": "https://strn.cat/posts/spacetime/",
-        "pubDate": "2026-08-20T19:19",
-        "feedId": "hn"
-      },
-      {
         "title": "Show HN: Huzzah – a novel approach to coding with AI",
         "link": "https://www.danielvaughn.dev/posts/huzzah/",
         "pubDate": "2026-08-20T19:05",
@@ -90,6 +78,18 @@
         "title": "Why aren't smart people happier? (2022)",
         "link": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
         "pubDate": "2026-08-20T18:38",
+        "feedId": "hn"
+      },
+      {
+        "title": "I should have loved biology (2020)",
+        "link": "https://jsomers.net/i-should-have-loved-biology/",
+        "pubDate": "2026-08-20T17:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "Sixtyfour (YC P25) Is Hiring",
+        "link": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
+        "pubDate": "2026-08-20T17:01",
         "feedId": "hn"
       }
     ]
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Bun 1.4",
-        "link": "https://bun.com/blog/bun-v1.4",
-        "pubDate": "2026-08-20T14:37",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Btrfs Snapshot Integration in KDE",
         "link": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
         "pubDate": "2026-08-21T05:14",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Bun 1.4",
+        "link": "https://bun.com/blog/bun-v1.4",
+        "pubDate": "2026-08-20T14:37",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What Zig felt like, coming from Rust",
-        "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-        "pubDate": "2026-08-20T07:53",
+        "title": "Better Batteries",
+        "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
+        "pubDate": "2026-08-21T07:47",
         "feedId": "lobsters"
       },
       {
-        "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH",
-        "link": "https://www.ethanheilman.com/x/33/index.html",
-        "pubDate": "2026-08-20T15:24",
+        "title": "What Zig felt like, coming from Rust",
+        "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+        "pubDate": "2026-08-20T07:53",
         "feedId": "lobsters"
       },
       {
@@ -161,6 +161,12 @@
         "title": "Vibe coding personal apps in mid-2026",
         "link": "https://www.flourish.org/2026/08/personal-apps/",
         "pubDate": "2026-08-21T07:16",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH",
+        "link": "https://www.ethanheilman.com/x/33/index.html",
+        "pubDate": "2026-08-20T15:24",
         "feedId": "lobsters"
       },
       {
@@ -179,12 +185,6 @@
         "title": "If this is true, the hyperscalers are toast",
         "link": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers",
         "pubDate": "2026-08-20T11:53",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Better Batteries",
-        "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
-        "pubDate": "2026-08-21T07:47",
         "feedId": "lobsters"
       }
     ]
