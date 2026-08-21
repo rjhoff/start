@@ -1,8 +1,98 @@
 {
   "hn": {
     "id": "hn",
-    "error": "Request timed out after 10000ms",
-    "items": []
+    "items": [
+      {
+        "title": "What We Lost When Search Stopped Making Us Think",
+        "link": "https://blog.8ball.space/what-we-lost-when-search/",
+        "pubDate": "2026-08-21T14:16",
+        "feedId": "hn"
+      },
+      {
+        "title": "Kagi added a setting for removing paywalled links from search results",
+        "link": "https://kagi.com/changelog#11296",
+        "pubDate": "2026-08-21T13:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout",
+        "link": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
+        "pubDate": "2026-08-21T13:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "Rama 0.4: System proxy and PAC support",
+        "link": "https://plabayo.tech/blog/rama-0-4",
+        "pubDate": "2026-08-21T13:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
+        "link": "https://arxiv.org/abs/2608.18214",
+        "pubDate": "2026-08-21T13:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nvidia AVO scores 100% on the ARC-AGI-3 interactive reasoning benchmark",
+        "link": "https://twitter.com/NVIDIAAI/status/2090786258981466231",
+        "pubDate": "2026-08-21T13:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "What Happens When the Cost of Intelligence Drops 100x",
+        "link": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/",
+        "pubDate": "2026-08-21T13:24",
+        "feedId": "hn"
+      },
+      {
+        "title": "Convite",
+        "link": "https://www.guidavid.com/writing/convite",
+        "pubDate": "2026-08-21T13:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "I accidentally logged phone calls to military bases",
+        "link": "https://lina.sh/blog/hijacking-e164-arpa",
+        "pubDate": "2026-08-21T13:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "We are living in a version of the future out of J.G. Ballard or William Gibson",
+        "link": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+        "pubDate": "2026-08-21T13:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Agent Office (Slack for AI Agents) – Similar to Grok Bot but older",
+        "link": "https://github.com/baturyilmaz/agent-office",
+        "pubDate": "2026-08-21T13:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
+        "link": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
+        "pubDate": "2026-08-21T13:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Yes/No/Cancel causes Aspirin sales to soar",
+        "link": "https://martin.kleppmann.com/2007/07/19/yes-no-cancel-causes-aspirin-sales-to-soar.html",
+        "pubDate": "2026-08-21T12:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "DuckDB V2 PEG-based SQL parser",
+        "link": "https://duckdb.org/2026/08/20/duckdb-20-peg-parser",
+        "pubDate": "2026-08-21T12:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "The road to ACID transactions in Cassandra 6",
+        "link": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
+        "pubDate": "2026-08-21T12:08",
+        "feedId": "hn"
+      }
+    ]
   },
   "lobsters": {
     "id": "lobsters",
@@ -56,15 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting",
-        "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-        "pubDate": "2026-08-20T12:57",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What Zig felt like, coming from Rust",
-        "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-        "pubDate": "2026-08-20T07:53",
+        "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
+        "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+        "pubDate": "2026-08-21T12:47",
         "feedId": "lobsters"
       },
       {
@@ -74,15 +158,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH",
-        "link": "https://www.ethanheilman.com/x/33/index.html",
-        "pubDate": "2026-08-20T15:24",
+        "title": "AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting",
+        "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+        "pubDate": "2026-08-20T12:57",
         "feedId": "lobsters"
       },
       {
-        "title": "Zero-Knowledge Proofs Aren’t Age Verification Silver Bullets",
-        "link": "https://www.eff.org/deeplinks/2026/08/zkps-arent-age-verification-silver-bullets",
-        "pubDate": "2026-08-20T20:48",
+        "title": "The road to ACID transactions in Cassandra 6",
+        "link": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
+        "pubDate": "2026-08-21T12:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What Zig felt like, coming from Rust",
+        "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+        "pubDate": "2026-08-20T07:53",
         "feedId": "lobsters"
       },
       {
@@ -92,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The road to ACID transactions in Cassandra 6",
-        "link": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
-        "pubDate": "2026-08-21T12:08",
+        "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH",
+        "link": "https://www.ethanheilman.com/x/33/index.html",
+        "pubDate": "2026-08-20T15:24",
         "feedId": "lobsters"
       }
     ]
