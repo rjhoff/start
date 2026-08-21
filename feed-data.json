@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "Scientists release biggest 2D map of the universe",
+        "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+        "pubDate": "2026-08-21T18:36",
+        "feedId": "hn"
+      },
+      {
         "title": "Rebuilding our Electron meeting-recording engine in Swift",
         "link": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
         "pubDate": "2026-08-21T17:33",
@@ -12,6 +18,12 @@
         "title": "When the shortage is the strategy",
         "link": "https://nooneshappy.com/article/when-the-shortage-is-the-strategy/",
         "pubDate": "2026-08-21T17:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "Galactic Compass 2: now with new augmented reality mode",
+        "link": "https://interconnected.org/home/2026/08/21/galactic",
+        "pubDate": "2026-08-21T17:30",
         "feedId": "hn"
       },
       {
@@ -57,39 +69,27 @@
         "feedId": "hn"
       },
       {
-        "title": "Omacom Foundation launches with $8M",
-        "link": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
-        "pubDate": "2026-08-21T16:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "I Just Want to Search",
-        "link": "https://www.0xsid.com/blog/just-want-to-search",
-        "pubDate": "2026-08-21T16:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "LLMs are proof that Unix won",
-        "link": "https://bastian.rieck.me/blog/2026/unix/",
-        "pubDate": "2026-08-21T15:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "New York’s office market is home to the most tech workers: CBRE report",
-        "link": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html",
-        "pubDate": "2026-08-21T15:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "Cancer-related mortality among US pilots and flight attendants",
-        "link": "https://www.cnn.com/2026/08/19/health/flight-attendants-pilots-radiation-cancer-deaths",
-        "pubDate": "2026-08-21T15:23",
+        "title": "How we made a text-to-speech model respond in sub-50 ms",
+        "link": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+        "pubDate": "2026-08-21T15:51",
         "feedId": "hn"
       },
       {
         "title": "Show HN: AgentSight – eBPF observability for AI agents, no code changes",
         "link": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
         "pubDate": "2026-08-21T15:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "I ran Photoshop on a £0.60 computer chip",
+        "link": "https://pointinthecloud.com/2026-08-19-144600.html",
+        "pubDate": "2026-08-21T15:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "Felony Bench",
+        "link": "https://www.felonybench.com/",
+        "pubDate": "2026-08-21T15:17",
         "feedId": "hn"
       }
     ]
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Better Batteries",
-        "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
-        "pubDate": "2026-08-21T07:47",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
         "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
         "pubDate": "2026-08-21T12:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Better Batteries",
+        "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
+        "pubDate": "2026-08-21T07:47",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Bun 1.4",
-        "link": "https://bun.com/blog/bun-v1.4",
-        "pubDate": "2026-08-20T14:37",
+        "title": "The road to ACID transactions in Cassandra 6",
+        "link": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
+        "pubDate": "2026-08-21T12:08",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The road to ACID transactions in Cassandra 6",
-        "link": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
-        "pubDate": "2026-08-21T12:08",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Small, native web tricks worth remembering",
-        "link": "https://htmlcat.net",
-        "pubDate": "2026-08-21T14:32",
+        "title": "Bun 1.4",
+        "link": "https://bun.com/blog/bun-v1.4",
+        "pubDate": "2026-08-20T14:37",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +170,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "rust-glancer: An alternative LSP for Rust with focus on low memory usage",
+        "link": "https://rust-glancer.github.io/blog/hello-world/",
+        "pubDate": "2026-08-21T14:29",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Data races and the memory model in Go",
         "link": "https://func25.dev/posts/go-memory-visibility/",
         "pubDate": "2026-08-21T13:11",
         "feedId": "lobsters"
       },
       {
-        "title": "rust-glancer: An alternative LSP for Rust with focus on low memory usage",
-        "link": "https://rust-glancer.github.io/blog/hello-world/",
-        "pubDate": "2026-08-21T14:29",
+        "title": "Small, native web tricks worth remembering",
+        "link": "https://htmlcat.net",
+        "pubDate": "2026-08-21T14:32",
         "feedId": "lobsters"
       }
     ]
@@ -290,7 +290,7 @@
       {
         "title": "Supreme Court allows Trump's ballroom construction to proceed for now",
         "link": "https://www.axios.com/2026/08/21/trump-ballroom-construction-supreme-court",
-        "pubDate": "2026-08-21T18:30",
+        "pubDate": "2026-08-21T19:02",
         "feedId": "axios"
       },
       {
