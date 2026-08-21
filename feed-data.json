@@ -1,106 +1,22 @@
 {
   "hn": {
     "id": "hn",
-    "items": [
-      {
-        "title": "DeepSeek-v4-flash-vision-exp",
-        "link": "https://api-docs.deepseek.com/guides/vision/",
-        "pubDate": "2026-08-21T10:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "Small, native web tricks worth remembering",
-        "link": "https://htmlcat.net/",
-        "pubDate": "2026-08-21T09:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "Emacs 31.1 will release on 8/24",
-        "link": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY",
-        "pubDate": "2026-08-21T08:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Lost Treasure of Sid Meier's Pirates",
-        "link": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
-        "pubDate": "2026-08-21T07:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
-        "link": "https://encore.dev/blog/firecracker-apple-silicon",
-        "pubDate": "2026-08-21T06:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
-        "link": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
-        "pubDate": "2026-08-21T05:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "Japan tried to build an operating system for the world, the US intervened",
-        "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
-        "pubDate": "2026-08-21T05:31",
-        "feedId": "hn"
-      },
-      {
-        "title": "Seed: Minimal, self-modifying agent harness",
-        "link": "https://github.com/vivekhaldar/seed",
-        "pubDate": "2026-08-21T05:20",
-        "feedId": "hn"
-      },
-      {
-        "title": "Micron announces $10B research hub in Boise",
-        "link": "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx",
-        "pubDate": "2026-08-21T03:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ox Alpha",
-        "link": "https://openrouter.ai/stealth/ox-alpha",
-        "pubDate": "2026-08-20T23:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "The August 17 outage",
-        "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-        "pubDate": "2026-08-20T19:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Huzzah – a novel approach to coding with AI",
-        "link": "https://www.danielvaughn.dev/posts/huzzah/",
-        "pubDate": "2026-08-20T19:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why aren't smart people happier? (2022)",
-        "link": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
-        "pubDate": "2026-08-20T18:38",
-        "feedId": "hn"
-      },
-      {
-        "title": "I should have loved biology (2020)",
-        "link": "https://jsomers.net/i-should-have-loved-biology/",
-        "pubDate": "2026-08-20T17:50",
-        "feedId": "hn"
-      },
-      {
-        "title": "Sixtyfour (YC P25) Is Hiring",
-        "link": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
-        "pubDate": "2026-08-20T17:01",
-        "feedId": "hn"
-      }
-    ]
+    "error": "Request timed out after 10000ms",
+    "items": []
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
       {
-        "title": "Announcing Rust 1.98.0",
-        "link": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
-        "pubDate": "2026-08-21T00:38",
+        "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+        "link": "https://lina.sh/blog/hijacking-e164-arpa",
+        "pubDate": "2026-08-21T12:05",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Better Batteries",
+        "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
+        "pubDate": "2026-08-21T07:47",
         "feedId": "lobsters"
       },
       {
@@ -110,15 +26,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Bun 1.4",
-        "link": "https://bun.com/blog/bun-v1.4",
-        "pubDate": "2026-08-20T14:37",
+        "title": "Announcing Rust 1.98.0",
+        "link": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
+        "pubDate": "2026-08-21T00:38",
         "feedId": "lobsters"
       },
       {
         "title": "Everyone Says Assembly Is Untyped—Everyone Is Wrong",
         "link": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
         "pubDate": "2026-08-20T17:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Bun 1.4",
+        "link": "https://bun.com/blog/bun-v1.4",
+        "pubDate": "2026-08-20T14:37",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +62,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Better Batteries",
-        "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
-        "pubDate": "2026-08-21T07:47",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What Zig felt like, coming from Rust",
         "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
         "pubDate": "2026-08-20T07:53",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/ittn74/what_are_you_doing_this_weekend",
+        "pubDate": "2026-08-21T11:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH",
+        "link": "https://www.ethanheilman.com/x/33/index.html",
+        "pubDate": "2026-08-20T15:24",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +92,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH",
-        "link": "https://www.ethanheilman.com/x/33/index.html",
-        "pubDate": "2026-08-20T15:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Emacs 31.1 will release on 8/24",
-        "link": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY#L246",
-        "pubDate": "2026-08-20T16:58",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Survival Guide for a Censored Internet",
-        "link": "https://www.akitaonrails.com/en/2026/08/19/survival-guide-for-a-censored-internet/",
-        "pubDate": "2026-08-21T02:42",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "If this is true, the hyperscalers are toast",
-        "link": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers",
-        "pubDate": "2026-08-20T11:53",
+        "title": "The road to ACID transactions in Cassandra 6",
+        "link": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
+        "pubDate": "2026-08-21T12:08",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +102,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
+        "link": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+        "pubDate": "2026-08-21T11:00",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss",
+        "link": "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/",
+        "pubDate": "2026-08-21T11:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
         "link": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
@@ -269,24 +191,18 @@
         "link": "https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/",
         "pubDate": "2026-08-19T19:45",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "The floodgates are open after another Chinese company lands a reusable rocket",
-        "link": "https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/",
-        "pubDate": "2026-08-19T18:41",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "A fantastical journey unfolds in gorgeous Wildwood trailer",
-        "link": "https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/",
-        "pubDate": "2026-08-19T17:06",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "A roadmap for safeguarding against AI bioweapons",
+        "link": "https://www.axios.com/2026/08/21/safeguards-ai-bioweapons-roadmap",
+        "pubDate": "2026-08-21T11:30",
+        "feedId": "axios"
+      },
       {
         "title": "Kathy Hochul's business-friendly data center plan",
         "link": "https://www.axios.com/2026/08/21/kathy-hochul-business-friendly-data-center-plan",
@@ -369,12 +285,6 @@
         "title": "The data center fight is hitting a fever pitch. Here's how they actually work",
         "link": "https://www.axios.com/2026/08/19/ai-power-data-center-electricity-construction",
         "pubDate": "2026-08-19T21:02",
-        "feedId": "axios"
-      },
-      {
-        "title": "Moderna and Merck shares soar on mRNA cancer vaccine",
-        "link": "https://www.axios.com/2026/08/19/moderna-merck-mrna-cancer-vaccine",
-        "pubDate": "2026-08-19T20:04",
         "feedId": "axios"
       }
     ]
