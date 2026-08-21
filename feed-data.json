@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "Quick impressions: A week of using Codex more than Claude",
+        "link": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+        "pubDate": "2026-08-21T19:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tumble Forth – from assembly to OS with C compiler",
+        "link": "https://tumbleforth.hardcoded.net/",
+        "pubDate": "2026-08-21T18:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+        "link": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+        "pubDate": "2026-08-21T18:48",
+        "feedId": "hn"
+      },
+      {
         "title": "Scientists release biggest 2D map of the universe",
         "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
         "pubDate": "2026-08-21T18:36",
@@ -12,18 +30,6 @@
         "title": "Rebuilding our Electron meeting-recording engine in Swift",
         "link": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
         "pubDate": "2026-08-21T17:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "When the shortage is the strategy",
-        "link": "https://nooneshappy.com/article/when-the-shortage-is-the-strategy/",
-        "pubDate": "2026-08-21T17:31",
-        "feedId": "hn"
-      },
-      {
-        "title": "Galactic Compass 2: now with new augmented reality mode",
-        "link": "https://interconnected.org/home/2026/08/21/galactic",
-        "pubDate": "2026-08-21T17:30",
         "feedId": "hn"
       },
       {
@@ -85,12 +91,6 @@
         "link": "https://pointinthecloud.com/2026-08-19-144600.html",
         "pubDate": "2026-08-21T15:17",
         "feedId": "hn"
-      },
-      {
-        "title": "Felony Bench",
-        "link": "https://www.felonybench.com/",
-        "pubDate": "2026-08-21T15:17",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
-        "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
-        "pubDate": "2026-08-21T12:47",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Better Batteries",
         "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
         "pubDate": "2026-08-21T07:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
+        "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+        "pubDate": "2026-08-21T12:47",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +140,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Felony Bench: Be AI, Do Crime",
+        "link": "https://www.felonybench.com/",
+        "pubDate": "2026-08-21T17:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "rust-glancer: An alternative LSP for Rust with focus on low memory usage",
+        "link": "https://rust-glancer.github.io/blog/hello-world/",
+        "pubDate": "2026-08-21T14:29",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Everyone Says Assembly Is Untyped—Everyone Is Wrong",
         "link": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
         "pubDate": "2026-08-20T17:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/ittn74/what_are_you_doing_this_weekend",
+        "pubDate": "2026-08-21T11:47",
         "feedId": "lobsters"
       },
       {
@@ -164,24 +182,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/ittn74/what_are_you_doing_this_weekend",
-        "pubDate": "2026-08-21T11:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "rust-glancer: An alternative LSP for Rust with focus on low memory usage",
-        "link": "https://rust-glancer.github.io/blog/hello-world/",
-        "pubDate": "2026-08-21T14:29",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Data races and the memory model in Go",
-        "link": "https://func25.dev/posts/go-memory-visibility/",
-        "pubDate": "2026-08-21T13:11",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Small, native web tricks worth remembering",
         "link": "https://htmlcat.net",
         "pubDate": "2026-08-21T14:32",
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
+        "link": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
+        "pubDate": "2026-08-21T19:32",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
+        "link": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
+        "pubDate": "2026-08-21T19:04",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
         "link": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
@@ -269,24 +281,18 @@
         "link": "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
         "pubDate": "2026-08-20T13:29",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-        "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-        "pubDate": "2026-08-20T13:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
-        "link": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
-        "pubDate": "2026-08-20T00:18",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Scoop: DOJ, TikTok settle for $400 million in children's privacy suit",
+        "link": "https://www.axios.com/2026/08/21/doj-tiktok-biden-lawsuit-settlement",
+        "pubDate": "2026-08-21T19:30",
+        "feedId": "axios"
+      },
       {
         "title": "Supreme Court allows Trump's ballroom construction to proceed for now",
         "link": "https://www.axios.com/2026/08/21/trump-ballroom-construction-supreme-court",
@@ -369,12 +375,6 @@
         "title": "Vance raises $5 million at big Hamptons event",
         "link": "https://www.axios.com/2026/08/20/vance-young-donors-fundraiser",
         "pubDate": "2026-08-20T09:29",
-        "feedId": "axios"
-      },
-      {
-        "title": "When Mullin's friends in Congress call, DHS answers",
-        "link": "https://www.axios.com/2026/08/20/markwayne-mullin-dhs-favors",
-        "pubDate": "2026-08-20T09:25",
         "feedId": "axios"
       }
     ]
