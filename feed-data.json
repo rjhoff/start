@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+        "link": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
+        "pubDate": "2026-08-21T05:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Japan tried to build an operating system for the world, the US intervened",
+        "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+        "pubDate": "2026-08-21T05:31",
+        "feedId": "hn"
+      },
+      {
         "title": "Codex on AWS bedrock bug causing 10x charges",
         "link": "https://github.com/openai/codex/issues/37674",
         "pubDate": "2026-08-21T03:17",
@@ -79,18 +91,6 @@
         "link": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
         "pubDate": "2026-08-20T17:01",
         "feedId": "hn"
-      },
-      {
-        "title": "How to compromise your system with a job interview",
-        "link": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
-        "pubDate": "2026-08-20T15:50",
-        "feedId": "hn"
-      },
-      {
-        "title": "Linux 7.2",
-        "link": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
-        "pubDate": "2026-08-20T15:46",
-        "feedId": "hn"
       }
     ]
   },
@@ -122,6 +122,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Announcing Rust 1.98.0",
+        "link": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
+        "pubDate": "2026-08-21T00:38",
+        "feedId": "lobsters"
+      },
+      {
         "title": "What Zig felt like, coming from Rust",
         "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
         "pubDate": "2026-08-20T07:53",
@@ -131,12 +137,6 @@
         "title": "AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting",
         "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
         "pubDate": "2026-08-20T12:57",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Announcing Rust 1.98.0",
-        "link": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
-        "pubDate": "2026-08-21T00:38",
         "feedId": "lobsters"
       },
       {
@@ -152,6 +152,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Btrfs Snapshot Integration in KDE",
+        "link": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
+        "pubDate": "2026-08-21T05:14",
+        "feedId": "lobsters"
+      },
+      {
         "title": "If this is true, the hyperscalers are toast",
         "link": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers",
         "pubDate": "2026-08-20T11:53",
@@ -164,27 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "HTML Can Do That",
-        "link": "https://chrisburnell.com/html-can-do-that/",
-        "pubDate": "2026-08-19T10:55",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Why compiling Rust to WebAssembly is slow",
         "link": "https://00f.net/2026/08/19/why-compiling-rust-to-webassembly-is-slow/",
         "pubDate": "2026-08-20T12:32",
         "feedId": "lobsters"
       },
       {
-        "title": "Emacs 31.1 will release on 8/24",
-        "link": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY#L246",
-        "pubDate": "2026-08-20T16:58",
+        "title": "HTML Can Do That",
+        "link": "https://chrisburnell.com/html-can-do-that/",
+        "pubDate": "2026-08-19T10:55",
         "feedId": "lobsters"
       },
       {
-        "title": "Plain Text Accounting is Pretty Cool",
-        "link": "https://sumnerevans.com/posts/money/plain-text-accounting/",
-        "pubDate": "2026-08-19T16:55",
+        "title": "Emacs 31.1 will release on 8/24",
+        "link": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY#L246",
+        "pubDate": "2026-08-20T16:58",
         "feedId": "lobsters"
       }
     ]
