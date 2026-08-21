@@ -3,9 +3,15 @@
     "id": "hn",
     "items": [
       {
-        "title": "There's no such thing as a small software team anymore",
-        "link": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
-        "pubDate": "2026-08-21T00:28",
+        "title": "Berkeley Law prohibits AI use in classes (by default)",
+        "link": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
+        "pubDate": "2026-08-21T01:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "It is a sign of the times that Amazon gets to call this fair use",
+        "link": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
+        "pubDate": "2026-08-21T00:34",
         "feedId": "hn"
       },
       {
@@ -15,21 +21,21 @@
         "feedId": "hn"
       },
       {
+        "title": "Show HN: ParqDB – Vector search in the browser from Parquet over HTTP\"",
+        "link": "https://search.parqdb.io/",
+        "pubDate": "2026-08-21T00:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "Stealth Model",
+        "link": "https://openrouter.ai/stealth/ox-alpha",
+        "pubDate": "2026-08-20T23:56",
+        "feedId": "hn"
+      },
+      {
         "title": "Detecting scraper bots through scroll behaviour",
         "link": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
         "pubDate": "2026-08-20T22:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Citizen Developer",
-        "link": "https://www.massdriver.cloud/blogs/the-citizen-developer",
-        "pubDate": "2026-08-20T21:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Wonders of the Male Human Pelvis",
-        "link": "https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947",
-        "pubDate": "2026-08-20T21:01",
         "feedId": "hn"
       },
       {
@@ -42,12 +48,6 @@
         "title": "The August 17 outage, and the work ahead",
         "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
         "pubDate": "2026-08-20T19:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tidal Cycles – Live coding music with Algorithmic patterns",
-        "link": "https://tidalcycles.org/",
-        "pubDate": "2026-08-20T19:21",
         "feedId": "hn"
       },
       {
@@ -146,6 +146,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Zero-Knowledge Proofs Aren’t Age Verification Silver Bullets",
+        "link": "https://www.eff.org/deeplinks/2026/08/zkps-arent-age-verification-silver-bullets",
+        "pubDate": "2026-08-20T20:48",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Reclaim the terminal",
         "link": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
         "pubDate": "2026-08-19T22:10",
@@ -155,12 +161,6 @@
         "title": "HTML Can Do That",
         "link": "https://chrisburnell.com/html-can-do-that/",
         "pubDate": "2026-08-19T10:55",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Zero-Knowledge Proofs Aren’t Age Verification Silver Bullets",
-        "link": "https://www.eff.org/deeplinks/2026/08/zkps-arent-age-verification-silver-bullets",
-        "pubDate": "2026-08-20T20:48",
         "feedId": "lobsters"
       },
       {
