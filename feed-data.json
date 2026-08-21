@@ -3,39 +3,33 @@
     "id": "hn",
     "items": [
       {
-        "title": "Berkeley Law prohibits AI use in classes (by default)",
+        "title": "Codex on AWS bedrock bug causing 10x charges",
+        "link": "https://github.com/openai/codex/issues/37674",
+        "pubDate": "2026-08-21T03:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+        "link": "https://annas-archive.gl/blog/physical-destruction.html",
+        "pubDate": "2026-08-21T02:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "Artificial Intelligence Policy",
         "link": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
         "pubDate": "2026-08-21T01:37",
         "feedId": "hn"
       },
       {
-        "title": "It is a sign of the times that Amazon gets to call this fair use",
-        "link": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
-        "pubDate": "2026-08-21T00:34",
+        "title": "There's no such thing as a small software team anymore",
+        "link": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
+        "pubDate": "2026-08-21T00:28",
         "feedId": "hn"
       },
       {
-        "title": "Copyright does not protect AI-generated content in EU",
-        "link": "https://mathstodon.xyz/@maxpool/117128107757895678",
-        "pubDate": "2026-08-21T00:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: ParqDB – Vector search in the browser from Parquet over HTTP\"",
-        "link": "https://search.parqdb.io/",
-        "pubDate": "2026-08-21T00:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "Stealth Model",
+        "title": "Ox Alpha",
         "link": "https://openrouter.ai/stealth/ox-alpha",
         "pubDate": "2026-08-20T23:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "Detecting scraper bots through scroll behaviour",
-        "link": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
-        "pubDate": "2026-08-20T22:47",
         "feedId": "hn"
       },
       {
@@ -45,7 +39,7 @@
         "feedId": "hn"
       },
       {
-        "title": "The August 17 outage, and the work ahead",
+        "title": "The August 17 outage",
         "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
         "pubDate": "2026-08-20T19:22",
         "feedId": "hn"
@@ -90,6 +84,12 @@
         "title": "How to compromise your system with a job interview",
         "link": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
         "pubDate": "2026-08-20T15:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "Linux 7.2",
+        "link": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+        "pubDate": "2026-08-20T15:46",
         "feedId": "hn"
       }
     ]
@@ -140,15 +140,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "If this is true, the hyperscalers are toast",
-        "link": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers",
-        "pubDate": "2026-08-20T11:53",
+        "title": "Announcing Rust 1.98.0",
+        "link": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
+        "pubDate": "2026-08-21T00:38",
         "feedId": "lobsters"
       },
       {
         "title": "Zero-Knowledge Proofs Aren’t Age Verification Silver Bullets",
         "link": "https://www.eff.org/deeplinks/2026/08/zkps-arent-age-verification-silver-bullets",
         "pubDate": "2026-08-20T20:48",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "If this is true, the hyperscalers are toast",
+        "link": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers",
+        "pubDate": "2026-08-20T11:53",
         "feedId": "lobsters"
       },
       {
@@ -179,12 +185,6 @@
         "title": "X.Org Server 26.1 RC1 Prepares For First Feature Release In Five Years",
         "link": "https://www.phoronix.com/news/X.Org-Server-26.1-RC1",
         "pubDate": "2026-08-20T13:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Emacs 31.1 will release on 8/24",
-        "link": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY#L246",
-        "pubDate": "2026-08-20T16:58",
         "feedId": "lobsters"
       }
     ]
