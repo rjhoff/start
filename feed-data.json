@@ -3,15 +3,75 @@
     "id": "hn",
     "items": [
       {
+        "title": "Omacom Foundation Launches with $8M",
+        "link": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
+        "pubDate": "2026-08-21T16:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "How We Made a Text-to-Speech Model Respond in Sub-50 ms",
+        "link": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+        "pubDate": "2026-08-21T15:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: SteppeWM – a stacking IceWM-like Wayland compositor",
+        "link": "https://github.com/uncognic/steppewm",
+        "pubDate": "2026-08-21T15:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+        "link": "https://canews24.online/?p=71",
+        "pubDate": "2026-08-21T15:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "Cancer-Related Mortality Among US Pilots and Flight Attendants",
+        "link": "https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2852504",
+        "pubDate": "2026-08-21T15:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: AgentSight – eBPF observability for AI agents, no code changes",
+        "link": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
+        "pubDate": "2026-08-21T15:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "The B-right/V R2 Operating System",
+        "link": "http://tronweb.super-nova.co.jp/b-right-vr2intro.html",
+        "pubDate": "2026-08-21T15:20",
+        "feedId": "hn"
+      },
+      {
+        "title": "Felony Bench",
+        "link": "https://www.felonybench.com/",
+        "pubDate": "2026-08-21T15:17",
+        "feedId": "hn"
+      },
+      {
         "title": "c100",
         "link": "https://caligra.com/c100/",
         "pubDate": "2026-08-21T15:14",
         "feedId": "hn"
       },
       {
-        "title": "Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
-        "link": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-        "pubDate": "2026-08-21T14:31",
+        "title": "Code Obfuscation via Local Mixing",
+        "link": "https://vitalik.eth.limo/general/2026/08/21/obfuscation_part_iii_local_mixing.html",
+        "pubDate": "2026-08-21T15:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "I came to write THAT paper with Leslie Lamport",
+        "link": "https://lawrencecpaulson.github.io//2026/08/21/Lamport.html",
+        "pubDate": "2026-08-21T14:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "WPD won't replace stolen Flock cameras, citing public trust",
+        "link": "https://www.winonapost.com/news/wpd-wont-replace-stolen-flock-cameras-citing-public-trust/article_06a67859-2d97-414b-aa8f-d8751ad214bb.html",
+        "pubDate": "2026-08-21T14:27",
         "feedId": "hn"
       },
       {
@@ -30,66 +90,6 @@
         "title": "Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout",
         "link": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
         "pubDate": "2026-08-21T13:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "Rama 0.4: System proxy and PAC support",
-        "link": "https://plabayo.tech/blog/rama-0-4",
-        "pubDate": "2026-08-21T13:50",
-        "feedId": "hn"
-      },
-      {
-        "title": "Getting silly with C, part and((int*)-8)[3]",
-        "link": "https://blog.coredump.cx/p/getting-silly-with-c-part-and-int1",
-        "pubDate": "2026-08-21T13:40",
-        "feedId": "hn"
-      },
-      {
-        "title": "Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
-        "link": "https://arxiv.org/abs/2608.18214",
-        "pubDate": "2026-08-21T13:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nvidia AVO scores 100% on the ARC-AGI-3 interactive reasoning benchmark",
-        "link": "https://twitter.com/NVIDIAAI/status/2090786258981466231",
-        "pubDate": "2026-08-21T13:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "What Happens When the Cost of Intelligence Drops 100x",
-        "link": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/",
-        "pubDate": "2026-08-21T13:24",
-        "feedId": "hn"
-      },
-      {
-        "title": "Convite",
-        "link": "https://www.guidavid.com/writing/convite",
-        "pubDate": "2026-08-21T13:21",
-        "feedId": "hn"
-      },
-      {
-        "title": "I accidentally logged phone calls to military bases",
-        "link": "https://lina.sh/blog/hijacking-e164-arpa",
-        "pubDate": "2026-08-21T13:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "We are living in a version of the future out of J.G. Ballard or William Gibson",
-        "link": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
-        "pubDate": "2026-08-21T13:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
-        "link": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
-        "pubDate": "2026-08-21T13:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "Yes/No/Cancel causes Aspirin sales to soar",
-        "link": "https://martin.kleppmann.com/2007/07/19/yes-no-cancel-causes-aspirin-sales-to-soar.html",
-        "pubDate": "2026-08-21T12:58",
         "feedId": "hn"
       }
     ]
@@ -110,15 +110,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Announcing Rust 1.98.0",
-        "link": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
-        "pubDate": "2026-08-21T00:38",
+        "title": "Enabling the next-generation trait solver on nightly | Rust Blog",
+        "link": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
+        "pubDate": "2026-08-21T15:15",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
+        "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+        "pubDate": "2026-08-21T12:47",
         "feedId": "lobsters"
       },
       {
         "title": "Btrfs Snapshot Integration in KDE",
         "link": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
         "pubDate": "2026-08-21T05:14",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Announcing Rust 1.98.0",
+        "link": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
+        "pubDate": "2026-08-21T00:38",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Music theory for programmers",
+        "link": "https://runjs.app/blog/music-theory-for-programmers",
+        "pubDate": "2026-08-21T12:03",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
-        "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
-        "pubDate": "2026-08-21T12:47",
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/ittn74/what_are_you_doing_this_weekend",
+        "pubDate": "2026-08-21T11:47",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +170,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Music theory for programmers",
-        "link": "https://runjs.app/blog/music-theory-for-programmers",
-        "pubDate": "2026-08-21T12:03",
+        "title": "The road to ACID transactions in Cassandra 6",
+        "link": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
+        "pubDate": "2026-08-21T12:08",
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/ittn74/what_are_you_doing_this_weekend",
-        "pubDate": "2026-08-21T11:47",
+        "title": "Small, native web tricks worth remembering",
+        "link": "https://htmlcat.net",
+        "pubDate": "2026-08-21T14:32",
         "feedId": "lobsters"
       },
       {
@@ -168,30 +186,18 @@
         "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
         "pubDate": "2026-08-20T12:57",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Enabling the next-generation trait solver on nightly | Rust Blog",
-        "link": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
-        "pubDate": "2026-08-21T15:15",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The road to ACID transactions in Cassandra 6",
-        "link": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
-        "pubDate": "2026-08-21T12:08",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What Zig felt like, coming from Rust",
-        "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-        "pubDate": "2026-08-20T07:53",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+        "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+        "pubDate": "2026-08-21T13:11",
+        "feedId": "arstechnica"
+      },
       {
         "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
         "link": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
@@ -275,18 +281,18 @@
         "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
         "pubDate": "2026-08-19T20:04",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "FCC abolishes gigabit speed goal, suggesting it is unfair to slower technologies",
-        "link": "https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/",
-        "pubDate": "2026-08-19T19:45",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Walmart finally adding Apple Pay, other tap-to-pay options",
+        "link": "https://www.axios.com/2026/08/21/walmart-tap-apple-pay-options",
+        "pubDate": "2026-08-21T16:15",
+        "feedId": "axios"
+      },
       {
         "title": "A roadmap for safeguarding against AI bioweapons",
         "link": "https://www.axios.com/2026/08/21/safeguards-ai-bioweapons-roadmap",
@@ -369,12 +375,6 @@
         "title": "Syrian foreign minister to Axios: Israeli bombing of airbase was unjustified",
         "link": "https://www.axios.com/2026/08/19/syria-foreign-minister-israel-bombing-airbase",
         "pubDate": "2026-08-19T22:19",
-        "feedId": "axios"
-      },
-      {
-        "title": "The data center fight is hitting a fever pitch. Here's how they actually work",
-        "link": "https://www.axios.com/2026/08/19/ai-power-data-center-electricity-construction",
-        "pubDate": "2026-08-19T21:02",
         "feedId": "axios"
       }
     ]
