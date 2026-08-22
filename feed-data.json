@@ -3,15 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "HN: The Good Parts (2016)",
-        "link": "https://danluu.com/hn-comments/",
-        "pubDate": "2026-08-21T23:53",
+        "title": "There's no reason for software to be slow anymore",
+        "link": "https://danluu.com/perf-opt/",
+        "pubDate": "2026-08-22T01:06",
         "feedId": "hn"
       },
       {
-        "title": "Paul Atkins misreads Adam Smith and the American founding",
-        "link": "https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/",
-        "pubDate": "2026-08-21T23:32",
+        "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+        "link": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+        "pubDate": "2026-08-22T01:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "HN: The Good Parts (2016)",
+        "link": "https://danluu.com/hn-comments/",
+        "pubDate": "2026-08-21T23:53",
         "feedId": "hn"
       },
       {
@@ -21,27 +27,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Pentagon dismisses Stars and Stripes leadership after opposition to interference",
-        "link": "https://apnews.com/article/stars-stripes-pentagon-censorship-media-d42affb0c17fef31c6089645c8dbbe70",
-        "pubDate": "2026-08-21T23:03",
-        "feedId": "hn"
-      },
-      {
         "title": "Three important steps in my maturation process",
         "link": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
         "pubDate": "2026-08-21T22:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "'Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them",
-        "link": "https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e",
-        "pubDate": "2026-08-21T22:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "Remotely Unlocking Electric Scooters",
-        "link": "https://henriemategui.com/post/remotely-unlocking-electric-scooters",
-        "pubDate": "2026-08-21T21:32",
         "feedId": "hn"
       },
       {
@@ -51,13 +39,13 @@
         "feedId": "hn"
       },
       {
-        "title": "Rust Glancer",
-        "link": "https://matklad.github.io/2026/08/21/rust-glancer.html",
-        "pubDate": "2026-08-21T19:16",
+        "title": "Rust Glancer: Rust LSP using 100x less RAM",
+        "link": "https://rust-glancer.github.io/blog/hello-world/",
+        "pubDate": "2026-08-21T19:51",
         "feedId": "hn"
       },
       {
-        "title": "Tumble Forth – from assembly to OS with C compiler",
+        "title": "Tumble Forth – from assembly to OS with C compiler (2023)",
         "link": "https://tumbleforth.hardcoded.net/",
         "pubDate": "2026-08-21T18:59",
         "feedId": "hn"
@@ -69,15 +57,15 @@
         "feedId": "hn"
       },
       {
-        "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
-        "link": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
-        "pubDate": "2026-08-21T17:00",
+        "title": "OTel isn't going well (and I made a spreadsheet about it)",
+        "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+        "pubDate": "2026-08-21T17:45",
         "feedId": "hn"
       },
       {
-        "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-        "link": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-        "pubDate": "2026-08-21T16:27",
+        "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+        "link": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
+        "pubDate": "2026-08-21T17:00",
         "feedId": "hn"
       },
       {
@@ -87,9 +75,21 @@
         "feedId": "hn"
       },
       {
-        "title": "What happens when a GPU reads memory",
-        "link": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-        "pubDate": "2026-08-21T16:16",
+        "title": "How we made a text-to-speech model respond in sub-50 ms",
+        "link": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+        "pubDate": "2026-08-21T15:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "I ran Photoshop on a £0.60 computer chip",
+        "link": "https://pointinthecloud.com/2026-08-19-144600.html",
+        "pubDate": "2026-08-21T15:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "Felony Bench",
+        "link": "https://www.felonybench.com/",
+        "pubDate": "2026-08-21T15:17",
         "feedId": "hn"
       }
     ]
@@ -116,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Better Batteries",
-        "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
-        "pubDate": "2026-08-21T07:47",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Felony Bench: Be AI, Do Crime",
         "link": "https://www.felonybench.com/",
         "pubDate": "2026-08-21T17:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Better Batteries",
+        "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
+        "pubDate": "2026-08-21T07:47",
         "feedId": "lobsters"
       },
       {
@@ -146,12 +146,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "rust-glancer: An alternative LSP for Rust with focus on low memory usage",
-        "link": "https://rust-glancer.github.io/blog/hello-world/",
-        "pubDate": "2026-08-21T14:29",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Small, native web tricks worth remembering",
         "link": "https://htmlcat.net",
         "pubDate": "2026-08-21T14:32",
@@ -164,15 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Data races and the memory model in Go",
-        "link": "https://func25.dev/posts/go-memory-visibility/",
-        "pubDate": "2026-08-21T13:11",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Homebrew 68K Machine Has A PCI Bus",
         "link": "https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/",
         "pubDate": "2026-08-21T20:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Data races and the memory model in Go",
+        "link": "https://func25.dev/posts/go-memory-visibility/",
+        "pubDate": "2026-08-21T13:11",
         "feedId": "lobsters"
       },
       {
@@ -186,12 +180,24 @@
         "link": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
         "pubDate": "2026-08-21T12:08",
         "feedId": "lobsters"
+      },
+      {
+        "title": "How a joke domain purchase turned into geopolitical warfare",
+        "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+        "pubDate": "2026-08-20T12:21",
+        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Trump's space transportation policy calls for new spaceport on federal land",
+        "link": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
+        "pubDate": "2026-08-21T23:32",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Thunder + fiber-optic cabling used for seismic imaging",
         "link": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
@@ -274,12 +280,6 @@
         "title": "Roblox must make changes after failing to block adults creeping on kids",
         "link": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
         "pubDate": "2026-08-20T17:14",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Genesis joins the giant electric SUV club with new GV90",
-        "link": "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/",
-        "pubDate": "2026-08-20T14:35",
         "feedId": "arstechnica"
       }
     ]
