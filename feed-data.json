@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "Knowing When to Stop: The Art of Making a Loop Converge",
+        "link": "https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/",
+        "pubDate": "2026-08-22T20:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "Fast and Hard Code",
+        "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+        "pubDate": "2026-08-22T19:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "English ↔ Claudish Translator",
+        "link": "https://programasweights.com/claudish",
+        "pubDate": "2026-08-22T19:19",
+        "feedId": "hn"
+      },
+      {
         "title": "NetBSD and My Life (2005)",
         "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
         "pubDate": "2026-08-22T19:07",
@@ -73,24 +91,6 @@
         "link": "https://munderdiffl.in/",
         "pubDate": "2026-08-22T09:49",
         "feedId": "hn"
-      },
-      {
-        "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
-        "link": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
-        "pubDate": "2026-08-22T06:16",
-        "feedId": "hn"
-      },
-      {
-        "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
-        "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
-        "pubDate": "2026-08-21T21:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Creation of Abulafia",
-        "link": "https://blog.veitheller.de/abulafia.html",
-        "pubDate": "2026-08-21T20:42",
-        "feedId": "hn"
       }
     ]
   },
@@ -134,39 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Compile-Time Improvements in LLVM 23",
-        "link": "https://aengelke.net/llvm23-ct.html",
-        "pubDate": "2026-08-22T06:37",
-        "feedId": "lobsters"
-      },
-      {
         "title": "A 2026 Survey of Rust GUI Libraries",
         "link": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
         "pubDate": "2026-08-22T17:52",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-        "link": "https://lina.sh/blog/hijacking-e164-arpa",
-        "pubDate": "2026-08-21T12:05",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
-        "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
-        "pubDate": "2026-08-21T12:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Felony Bench: Be AI, Do Crime",
-        "link": "https://www.felonybench.com/",
-        "pubDate": "2026-08-21T17:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Turning My CASIO F-91W Into a Contactless Payment Device",
-        "link": "https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device",
-        "pubDate": "2026-08-22T05:08",
         "feedId": "lobsters"
       },
       {
@@ -176,9 +146,39 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Stop Making TUIs",
-        "link": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-        "pubDate": "2026-08-22T06:52",
+        "title": "Compile-Time Improvements in LLVM 23",
+        "link": "https://aengelke.net/llvm23-ct.html",
+        "pubDate": "2026-08-22T06:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Turning My CASIO F-91W Into a Contactless Payment Device",
+        "link": "https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device",
+        "pubDate": "2026-08-22T05:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
+        "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+        "pubDate": "2026-08-21T12:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+        "link": "https://lina.sh/blog/hijacking-e164-arpa",
+        "pubDate": "2026-08-21T12:05",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Felony Bench: Be AI, Do Crime",
+        "link": "https://www.felonybench.com/",
+        "pubDate": "2026-08-21T17:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "nss-userhosts - hosts files for unprivileged users",
+        "link": "https://codeberg.org/felixs/nss-userhosts",
+        "pubDate": "2026-08-22T15:56",
         "feedId": "lobsters"
       },
       {
