@@ -3,15 +3,9 @@
     "id": "hn",
     "items": [
       {
-        "title": "4 in 10 travellers visit tourist sites to capture social media content",
-        "link": "https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content",
-        "pubDate": "2026-08-22T04:42",
-        "feedId": "hn"
-      },
-      {
-        "title": "Early Humans Likely Ate Carbs and Sugary Foods",
-        "link": "https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs",
-        "pubDate": "2026-08-22T02:37",
+        "title": "GPT 5.6 Sol 20% price reduction",
+        "link": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+        "pubDate": "2026-08-22T04:33",
         "feedId": "hn"
       },
       {
@@ -69,6 +63,12 @@
         "feedId": "hn"
       },
       {
+        "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
+        "link": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
+        "pubDate": "2026-08-21T17:54",
+        "feedId": "hn"
+      },
+      {
         "title": "OTel isn't going well (and I made a spreadsheet about it)",
         "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
         "pubDate": "2026-08-21T17:45",
@@ -116,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Better Batteries",
-        "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
-        "pubDate": "2026-08-21T07:47",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Felony Bench: Be AI, Do Crime",
         "link": "https://www.felonybench.com/",
         "pubDate": "2026-08-21T17:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Better Batteries",
+        "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
+        "pubDate": "2026-08-21T07:47",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Everyone Says Assembly Is Untyped—Everyone Is Wrong",
-        "link": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
-        "pubDate": "2026-08-20T17:22",
+        "title": "The road to ACID transactions in Cassandra 6",
+        "link": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
+        "pubDate": "2026-08-21T12:08",
         "feedId": "lobsters"
       },
       {
-        "title": "Roomy is generally available",
-        "link": "https://blog.roomy.space/3mplw6vvw4s23",
-        "pubDate": "2026-08-22T05:19",
+        "title": "Everyone Says Assembly Is Untyped—Everyone Is Wrong",
+        "link": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+        "pubDate": "2026-08-20T17:22",
         "feedId": "lobsters"
       }
     ]
