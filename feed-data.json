@@ -3,12 +3,6 @@
     "id": "hn",
     "items": [
       {
-        "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
-        "link": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
-        "pubDate": "2026-08-22T06:16",
-        "feedId": "hn"
-      },
-      {
         "title": "There's no reason for software to be slow anymore",
         "link": "https://danluu.com/perf-opt/",
         "pubDate": "2026-08-22T01:06",
@@ -69,6 +63,12 @@
         "feedId": "hn"
       },
       {
+        "title": "Rebuilding our Electron meeting-recording engine in Swift",
+        "link": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
+        "pubDate": "2026-08-21T17:33",
+        "feedId": "hn"
+      },
+      {
         "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
         "link": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
         "pubDate": "2026-08-21T17:00",
@@ -87,8 +87,8 @@
         "feedId": "hn"
       },
       {
-        "title": "Felony Bench",
-        "link": "https://www.felonybench.com/",
+        "title": "I ran Photoshop on a £0.60 computer chip",
+        "link": "https://pointinthecloud.com/2026-08-19-144600.html",
         "pubDate": "2026-08-21T15:17",
         "feedId": "hn"
       }
@@ -128,9 +128,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
+        "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+        "pubDate": "2026-08-22T07:27",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Turning My CASIO F-91W Into a Contactless Payment Device",
         "link": "https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device",
         "pubDate": "2026-08-22T05:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The cool things of Gleam",
+        "link": "https://a.baez.link/3mtdbbp2dmc27",
+        "pubDate": "2026-08-22T06:16",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Programming Language Semantics and Memory Safety",
+        "link": "https://burakemir.ch/post/formal-semantics/",
+        "pubDate": "2026-08-22T04:19",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Roomy is generally available",
+        "link": "https://blog.roomy.space/3mplw6vvw4s23",
+        "pubDate": "2026-08-22T05:19",
         "feedId": "lobsters"
       },
       {
@@ -146,45 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Programming Language Semantics and Memory Safety",
-        "link": "https://burakemir.ch/post/formal-semantics/",
-        "pubDate": "2026-08-22T04:19",
+        "title": "The Schrödinger Email",
+        "link": "https://yashgarg.dev/posts/the-schrodinger-email/",
+        "pubDate": "2026-08-22T09:53",
         "feedId": "lobsters"
       },
       {
-        "title": "The cool things of Gleam",
-        "link": "https://a.baez.link/3mtdbbp2dmc27",
-        "pubDate": "2026-08-22T06:16",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
-        "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-        "pubDate": "2026-08-22T07:27",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Roomy is generally available",
-        "link": "https://blog.roomy.space/3mplw6vvw4s23",
-        "pubDate": "2026-08-22T05:19",
+        "title": "Stop Making TUIs",
+        "link": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+        "pubDate": "2026-08-22T06:52",
         "feedId": "lobsters"
       },
       {
         "title": "Compile-Time Improvements in LLVM 23",
         "link": "https://aengelke.net/llvm23-ct.html",
         "pubDate": "2026-08-22T06:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "rust-glancer: An alternative LSP for Rust with focus on low memory usage",
-        "link": "https://rust-glancer.github.io/blog/hello-world/",
-        "pubDate": "2026-08-21T14:29",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Homebrew 68K Machine Has A PCI Bus",
-        "link": "https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/",
-        "pubDate": "2026-08-21T20:24",
         "feedId": "lobsters"
       }
     ]
