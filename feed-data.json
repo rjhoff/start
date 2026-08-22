@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+        "link": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+        "pubDate": "2026-08-22T16:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "Learning about \"The Unix Time-Sharing System\"",
+        "link": "https://playtechnique.io/long/the-unix-time-sharing-system.html",
+        "pubDate": "2026-08-22T16:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "Wildfires across Europe detonate forgotten World War bombs",
+        "link": "https://www.independent.co.uk/news/world/europe/europe-wildfires-world-war-bombs-b3037458.html",
+        "pubDate": "2026-08-22T15:46",
+        "feedId": "hn"
+      },
+      {
         "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
         "link": "https://quantumi.sh/public/labs.html",
         "pubDate": "2026-08-22T14:54",
@@ -30,12 +48,6 @@
         "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
         "link": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
         "pubDate": "2026-08-22T12:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
-        "link": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
-        "pubDate": "2026-08-22T10:26",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://rust-glancer.github.io/blog/hello-world/",
         "pubDate": "2026-08-21T19:51",
         "feedId": "hn"
-      },
-      {
-        "title": "Scientists release biggest 2D map of the universe",
-        "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-        "pubDate": "2026-08-21T18:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "How Thailand Resisted Colonization",
-        "link": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
-        "pubDate": "2026-08-21T18:28",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,18 +104,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Enabling the next-generation trait solver on nightly",
-        "link": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
-        "pubDate": "2026-08-21T15:15",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The cool things of Gleam",
-        "link": "https://a.baez.link/3mtdbbp2dmc27",
-        "pubDate": "2026-08-22T06:16",
-        "feedId": "lobsters"
-      },
-      {
         "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
         "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
         "pubDate": "2026-08-22T07:27",
@@ -125,6 +113,18 @@
         "title": "There continue to be reasons for software to be slow",
         "link": "https://typesanitizer.com/blog/performance-issues.html",
         "pubDate": "2026-08-22T14:31",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Enabling the next-generation trait solver on nightly",
+        "link": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
+        "pubDate": "2026-08-21T15:15",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The cool things of Gleam",
+        "link": "https://a.baez.link/3mtdbbp2dmc27",
+        "pubDate": "2026-08-22T06:16",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Stop Making TUIs",
-        "link": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-        "pubDate": "2026-08-22T06:52",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Programming Language Semantics and Memory Safety",
         "link": "https://burakemir.ch/post/formal-semantics/",
         "pubDate": "2026-08-22T04:19",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Stop Making TUIs",
+        "link": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+        "pubDate": "2026-08-22T06:52",
         "feedId": "lobsters"
       },
       {
