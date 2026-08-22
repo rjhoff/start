@@ -3,9 +3,27 @@
     "id": "hn",
     "items": [
       {
+        "title": "The New MCP Roadmap",
+        "link": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+        "pubDate": "2026-08-22T13:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
+        "link": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
+        "pubDate": "2026-08-22T13:24",
+        "feedId": "hn"
+      },
+      {
         "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
         "link": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
         "pubDate": "2026-08-22T12:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "A formal degree and algorithmic problem-solving is the answer. Always has been",
+        "link": "https://zaksa.zip/blog/formal-education-is-the-answer/",
+        "pubDate": "2026-08-22T11:39",
         "feedId": "hn"
       },
       {
@@ -27,15 +45,15 @@
         "feedId": "hn"
       },
       {
-        "title": "There's no reason for software to be slow anymore",
-        "link": "https://danluu.com/perf-opt/",
-        "pubDate": "2026-08-22T01:06",
+        "title": "Embedded AI",
+        "link": "https://nostarch.com/embedded-ai",
+        "pubDate": "2026-08-22T09:07",
         "feedId": "hn"
       },
       {
-        "title": "HN: The Good Parts (2016)",
-        "link": "https://danluu.com/hn-comments/",
-        "pubDate": "2026-08-21T23:53",
+        "title": "There's no reason for software to be slow anymore",
+        "link": "https://danluu.com/perf-opt/",
+        "pubDate": "2026-08-22T01:06",
         "feedId": "hn"
       },
       {
@@ -73,24 +91,6 @@
         "link": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
         "pubDate": "2026-08-21T17:54",
         "feedId": "hn"
-      },
-      {
-        "title": "OTel isn’t going well",
-        "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-        "pubDate": "2026-08-21T17:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "Galactic Compass 2: now with new augmented reality mode",
-        "link": "https://interconnected.org/home/2026/08/21/galactic",
-        "pubDate": "2026-08-21T17:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
-        "link": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
-        "pubDate": "2026-08-21T17:00",
-        "feedId": "hn"
       }
     ]
   },
@@ -119,6 +119,12 @@
         "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
         "link": "https://lina.sh/blog/hijacking-e164-arpa",
         "pubDate": "2026-08-21T12:05",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "You should never be angry at work",
+        "link": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
+        "pubDate": "2026-08-22T12:41",
         "feedId": "lobsters"
       },
       {
@@ -152,21 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Schrödinger Email",
-        "link": "https://yashgarg.dev/posts/the-schrodinger-email/",
-        "pubDate": "2026-08-22T09:53",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Programming Language Semantics and Memory Safety",
         "link": "https://burakemir.ch/post/formal-semantics/",
         "pubDate": "2026-08-22T04:19",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Music theory for programmers",
-        "link": "https://runjs.app/blog/music-theory-for-programmers",
-        "pubDate": "2026-08-21T12:03",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Roomy is generally available",
-        "link": "https://blog.roomy.space/3mplw6vvw4s23",
-        "pubDate": "2026-08-22T05:19",
+        "title": "The Schrödinger Email",
+        "link": "https://yashgarg.dev/posts/the-schrodinger-email/",
+        "pubDate": "2026-08-22T09:53",
         "feedId": "lobsters"
       },
       {
-        "title": "Btrfs Snapshot Integration in KDE",
-        "link": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
-        "pubDate": "2026-08-21T05:14",
+        "title": "Music theory for programmers",
+        "link": "https://runjs.app/blog/music-theory-for-programmers",
+        "pubDate": "2026-08-21T12:03",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Roomy is generally available",
+        "link": "https://blog.roomy.space/3mplw6vvw4s23",
+        "pubDate": "2026-08-22T05:19",
         "feedId": "lobsters"
       }
     ]
