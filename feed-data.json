@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+        "link": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+        "pubDate": "2026-08-22T12:07",
+        "feedId": "hn"
+      },
+      {
         "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
         "link": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
         "pubDate": "2026-08-22T10:26",
@@ -75,12 +81,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Rebuilding our Electron meeting-recording engine in Swift",
-        "link": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
-        "pubDate": "2026-08-21T17:33",
-        "feedId": "hn"
-      },
-      {
         "title": "Galactic Compass 2: now with new augmented reality mode",
         "link": "https://interconnected.org/home/2026/08/21/galactic",
         "pubDate": "2026-08-21T17:30",
@@ -104,9 +104,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-        "link": "https://lina.sh/blog/hijacking-e164-arpa",
-        "pubDate": "2026-08-21T12:05",
+        "title": "The cool things of Gleam",
+        "link": "https://a.baez.link/3mtdbbp2dmc27",
+        "pubDate": "2026-08-22T06:16",
         "feedId": "lobsters"
       },
       {
@@ -116,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
-        "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
-        "pubDate": "2026-08-21T12:47",
+        "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+        "link": "https://lina.sh/blog/hijacking-e164-arpa",
+        "pubDate": "2026-08-21T12:05",
         "feedId": "lobsters"
       },
       {
-        "title": "The cool things of Gleam",
-        "link": "https://a.baez.link/3mtdbbp2dmc27",
-        "pubDate": "2026-08-22T06:16",
+        "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
+        "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+        "pubDate": "2026-08-21T12:47",
         "feedId": "lobsters"
       },
       {
@@ -140,39 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Better Batteries",
-        "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
-        "pubDate": "2026-08-21T07:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Stop Making TUIs",
-        "link": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-        "pubDate": "2026-08-22T06:52",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Programming Language Semantics and Memory Safety",
-        "link": "https://burakemir.ch/post/formal-semantics/",
-        "pubDate": "2026-08-22T04:19",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Compile-Time Improvements in LLVM 23",
         "link": "https://aengelke.net/llvm23-ct.html",
         "pubDate": "2026-08-22T06:37",
         "feedId": "lobsters"
       },
       {
-        "title": "Music theory for programmers",
-        "link": "https://runjs.app/blog/music-theory-for-programmers",
-        "pubDate": "2026-08-21T12:03",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Btrfs Snapshot Integration in KDE",
-        "link": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
-        "pubDate": "2026-08-21T05:14",
+        "title": "Better Batteries",
+        "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
+        "pubDate": "2026-08-21T07:47",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +158,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Programming Language Semantics and Memory Safety",
+        "link": "https://burakemir.ch/post/formal-semantics/",
+        "pubDate": "2026-08-22T04:19",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Music theory for programmers",
+        "link": "https://runjs.app/blog/music-theory-for-programmers",
+        "pubDate": "2026-08-21T12:03",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Stop Making TUIs",
+        "link": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+        "pubDate": "2026-08-22T06:52",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Roomy is generally available",
         "link": "https://blog.roomy.space/3mplw6vvw4s23",
         "pubDate": "2026-08-22T05:19",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Btrfs Snapshot Integration in KDE",
+        "link": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
+        "pubDate": "2026-08-21T05:14",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Scoop: Mike Rogers-AIPAC rupture roils Michigan Senate race",
+        "link": "https://www.axios.com/2026/08/22/mike-rogers-aipac-michigan-senate",
+        "pubDate": "2026-08-22T12:52",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump finds tamping down costs to be tricky",
         "link": "https://www.axios.com/2026/08/22/trump-affordability-beef-consumers",
         "pubDate": "2026-08-22T11:00",
@@ -300,7 +306,7 @@
         "feedId": "axios"
       },
       {
-        "title": "'Stop gaslighting me!': Florida Democrats' Senate nominee and party chair have heated call over socialism",
+        "title": "\"Stop gaslighting me!\": Florida Democrats' Senate nominee and party chair have heated call over socialism",
         "link": "https://www.axios.com/2026/08/21/florida-democrats-angie-nixon-nikki-fried-socialism",
         "pubDate": "2026-08-21T22:46",
         "feedId": "axios"
@@ -369,12 +375,6 @@
         "title": "Why oil markets are ignoring Trump's \"truths\"",
         "link": "https://www.axios.com/2026/08/21/oil-markets-ignore-trump-truth-social-iran",
         "pubDate": "2026-08-21T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "America's capital crunch: Soaring debt collides with AI spending spree",
-        "link": "https://www.axios.com/2026/08/21/national-debt-deficit-ai-spending",
-        "pubDate": "2026-08-21T09:00",
         "feedId": "axios"
       }
     ]
