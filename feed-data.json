@@ -116,21 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Felony Bench: Be AI, Do Crime",
-        "link": "https://www.felonybench.com/",
-        "pubDate": "2026-08-21T17:23",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Better Batteries",
         "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
         "pubDate": "2026-08-21T07:47",
         "feedId": "lobsters"
       },
       {
-        "title": "Btrfs Snapshot Integration in KDE",
-        "link": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
-        "pubDate": "2026-08-21T05:14",
+        "title": "Felony Bench: Be AI, Do Crime",
+        "link": "https://www.felonybench.com/",
+        "pubDate": "2026-08-21T17:23",
         "feedId": "lobsters"
       },
       {
@@ -140,21 +134,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Btrfs Snapshot Integration in KDE",
+        "link": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
+        "pubDate": "2026-08-21T05:14",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "rust-glancer: An alternative LSP for Rust with focus on low memory usage",
+        "link": "https://rust-glancer.github.io/blog/hello-world/",
+        "pubDate": "2026-08-21T14:29",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Announcing Rust 1.98.0",
         "link": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
         "pubDate": "2026-08-21T00:38",
         "feedId": "lobsters"
       },
       {
-        "title": "Small, native web tricks worth remembering",
-        "link": "https://htmlcat.net",
-        "pubDate": "2026-08-21T14:32",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What are you doing this weekend?",
         "link": "https://lobste.rs/s/ittn74/what_are_you_doing_this_weekend",
         "pubDate": "2026-08-21T11:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Small, native web tricks worth remembering",
+        "link": "https://htmlcat.net",
+        "pubDate": "2026-08-21T14:32",
         "feedId": "lobsters"
       },
       {
@@ -179,12 +185,6 @@
         "title": "The road to ACID transactions in Cassandra 6",
         "link": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
         "pubDate": "2026-08-21T12:08",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How a joke domain purchase turned into geopolitical warfare",
-        "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-        "pubDate": "2026-08-20T12:21",
         "feedId": "lobsters"
       }
     ]
