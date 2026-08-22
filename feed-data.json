@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "4 in 10 travellers visit tourist sites to capture social media content",
+        "link": "https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content",
+        "pubDate": "2026-08-22T04:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "Early Humans Likely Ate Carbs and Sugary Foods",
+        "link": "https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs",
+        "pubDate": "2026-08-22T02:37",
+        "feedId": "hn"
+      },
+      {
         "title": "There's no reason for software to be slow anymore",
         "link": "https://danluu.com/perf-opt/",
         "pubDate": "2026-08-22T01:06",
@@ -79,18 +91,6 @@
         "link": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
         "pubDate": "2026-08-21T15:51",
         "feedId": "hn"
-      },
-      {
-        "title": "I ran Photoshop on a £0.60 computer chip",
-        "link": "https://pointinthecloud.com/2026-08-19-144600.html",
-        "pubDate": "2026-08-21T15:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "Felony Bench",
-        "link": "https://www.felonybench.com/",
-        "pubDate": "2026-08-21T15:17",
-        "feedId": "hn"
       }
     ]
   },
@@ -128,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Music theory for programmers",
-        "link": "https://runjs.app/blog/music-theory-for-programmers",
-        "pubDate": "2026-08-21T12:03",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Btrfs Snapshot Integration in KDE",
         "link": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
         "pubDate": "2026-08-21T05:14",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Music theory for programmers",
+        "link": "https://runjs.app/blog/music-theory-for-programmers",
+        "pubDate": "2026-08-21T12:03",
         "feedId": "lobsters"
       },
       {
@@ -152,6 +152,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Homebrew 68K Machine Has A PCI Bus",
+        "link": "https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/",
+        "pubDate": "2026-08-21T20:24",
+        "feedId": "lobsters"
+      },
+      {
         "title": "What are you doing this weekend?",
         "link": "https://lobste.rs/s/ittn74/what_are_you_doing_this_weekend",
         "pubDate": "2026-08-21T11:47",
@@ -161,12 +167,6 @@
         "title": "Small, native web tricks worth remembering",
         "link": "https://htmlcat.net",
         "pubDate": "2026-08-21T14:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Homebrew 68K Machine Has A PCI Bus",
-        "link": "https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/",
-        "pubDate": "2026-08-21T20:24",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The road to ACID transactions in Cassandra 6",
-        "link": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
-        "pubDate": "2026-08-21T12:08",
+        "title": "Roomy is generally available",
+        "link": "https://blog.roomy.space/3mplw6vvw4s23",
+        "pubDate": "2026-08-22T05:19",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "U.S.-Canada trade talks collapse, massive tariffs to take effect",
+        "link": "https://www.axios.com/2026/08/22/us-canada-tariffs-trade-trump-carney",
+        "pubDate": "2026-08-22T04:50",
+        "feedId": "axios"
+      },
+      {
         "title": "'Stop gaslighting me!': Florida Democrats' Senate nominee and party chair have heated call over socialism",
         "link": "https://www.axios.com/2026/08/21/florida-democrats-angie-nixon-nikki-fried-socialism",
         "pubDate": "2026-08-21T22:46",
@@ -369,12 +375,6 @@
         "title": "Here's how America's $40 trillion debt can hit your wallet",
         "link": "https://www.axios.com/2026/08/20/us-40-trillion-dollars-national-debt-costs-interests",
         "pubDate": "2026-08-20T22:56",
-        "feedId": "axios"
-      },
-      {
-        "title": "Employer health costs: Why it could be another tough year",
-        "link": "https://www.axios.com/2026/08/20/health-care-costs-employers-rising",
-        "pubDate": "2026-08-20T21:00",
         "feedId": "axios"
       }
     ]
