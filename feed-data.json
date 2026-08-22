@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+        "link": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+        "pubDate": "2026-08-22T06:16",
+        "feedId": "hn"
+      },
+      {
         "title": "GPT 5.6 Sol 20% price reduction",
         "link": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
         "pubDate": "2026-08-22T04:33",
@@ -69,7 +75,7 @@
         "feedId": "hn"
       },
       {
-        "title": "OTel isn't going well (and I made a spreadsheet about it)",
+        "title": "OTel isn’t going well",
         "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
         "pubDate": "2026-08-21T17:45",
         "feedId": "hn"
@@ -84,12 +90,6 @@
         "title": "Kobo can run apps now",
         "link": "https://bandarlabs.github.io/Cobalt/",
         "pubDate": "2026-08-21T16:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "How we made a text-to-speech model respond in sub-50 ms",
-        "link": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-        "pubDate": "2026-08-21T15:51",
         "feedId": "hn"
       }
     ]
@@ -128,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Btrfs Snapshot Integration in KDE",
-        "link": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
-        "pubDate": "2026-08-21T05:14",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Music theory for programmers",
         "link": "https://runjs.app/blog/music-theory-for-programmers",
         "pubDate": "2026-08-21T12:03",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Btrfs Snapshot Integration in KDE",
+        "link": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
+        "pubDate": "2026-08-21T05:14",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Announcing Rust 1.98.0",
-        "link": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
-        "pubDate": "2026-08-21T00:38",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Homebrew 68K Machine Has A PCI Bus",
         "link": "https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/",
         "pubDate": "2026-08-21T20:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Announcing Rust 1.98.0",
+        "link": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
+        "pubDate": "2026-08-21T00:38",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The road to ACID transactions in Cassandra 6",
-        "link": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
-        "pubDate": "2026-08-21T12:08",
+        "title": "Turning My CASIO F-91W Into a Contactless Payment Device",
+        "link": "https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device",
+        "pubDate": "2026-08-22T05:08",
         "feedId": "lobsters"
       },
       {
-        "title": "Everyone Says Assembly Is Untyped—Everyone Is Wrong",
-        "link": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
-        "pubDate": "2026-08-20T17:22",
+        "title": "Programming Language Semantics and Memory Safety",
+        "link": "https://burakemir.ch/post/formal-semantics/",
+        "pubDate": "2026-08-22T04:19",
         "feedId": "lobsters"
       }
     ]
