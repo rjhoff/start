@@ -3,9 +3,33 @@
     "id": "hn",
     "items": [
       {
-        "title": "I own 28,000 books – here's what I've learned",
-        "link": "https://www.shelvd.org/blog/28000-books",
-        "pubDate": "2026-08-21T22:59",
+        "title": "HN: The Good Parts (2016)",
+        "link": "https://danluu.com/hn-comments/",
+        "pubDate": "2026-08-21T23:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "Paul Atkins misreads Adam Smith and the American founding",
+        "link": "https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/",
+        "pubDate": "2026-08-21T23:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+        "link": "https://ozbrain.com",
+        "pubDate": "2026-08-21T23:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Pentagon dismisses Stars and Stripes leadership after opposition to interference",
+        "link": "https://apnews.com/article/stars-stripes-pentagon-censorship-media-d42affb0c17fef31c6089645c8dbbe70",
+        "pubDate": "2026-08-21T23:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "Three important steps in my maturation process",
+        "link": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+        "pubDate": "2026-08-21T22:29",
         "feedId": "hn"
       },
       {
@@ -24,6 +48,12 @@
         "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
         "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
         "pubDate": "2026-08-21T21:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Rust Glancer",
+        "link": "https://matklad.github.io/2026/08/21/rust-glancer.html",
+        "pubDate": "2026-08-21T19:16",
         "feedId": "hn"
       },
       {
@@ -60,36 +90,6 @@
         "title": "What happens when a GPU reads memory",
         "link": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
         "pubDate": "2026-08-21T16:16",
-        "feedId": "hn"
-      },
-      {
-        "title": "Three ways to smuggle SQLite into Nix",
-        "link": "https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix",
-        "pubDate": "2026-08-21T16:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "Decayfmt – a file format that corrupts itself a little every time you open it",
-        "link": "https://github.com/aravpanwar/decayfmt",
-        "pubDate": "2026-08-21T16:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "How we made a text-to-speech model respond in sub-50 ms",
-        "link": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-        "pubDate": "2026-08-21T15:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: AgentSight – eBPF observability for AI agents, no code changes",
-        "link": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
-        "pubDate": "2026-08-21T15:21",
-        "feedId": "hn"
-      },
-      {
-        "title": "I ran Photoshop on a £0.60 computer chip",
-        "link": "https://pointinthecloud.com/2026-08-19-144600.html",
-        "pubDate": "2026-08-21T15:17",
         "feedId": "hn"
       }
     ]
@@ -158,21 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Everyone Says Assembly Is Untyped—Everyone Is Wrong",
-        "link": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
-        "pubDate": "2026-08-20T17:22",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What are you doing this weekend?",
         "link": "https://lobste.rs/s/ittn74/what_are_you_doing_this_weekend",
         "pubDate": "2026-08-21T11:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The road to ACID transactions in Cassandra 6",
-        "link": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
-        "pubDate": "2026-08-21T12:08",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Bun 1.4",
-        "link": "https://bun.com/blog/bun-v1.4",
-        "pubDate": "2026-08-20T14:37",
+        "title": "Homebrew 68K Machine Has A PCI Bus",
+        "link": "https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/",
+        "pubDate": "2026-08-21T20:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Everyone Says Assembly Is Untyped—Everyone Is Wrong",
+        "link": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+        "pubDate": "2026-08-20T17:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The road to ACID transactions in Cassandra 6",
+        "link": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
+        "pubDate": "2026-08-21T12:08",
         "feedId": "lobsters"
       }
     ]
