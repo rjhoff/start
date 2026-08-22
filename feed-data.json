@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
+        "link": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+        "pubDate": "2026-08-22T14:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "A Friendly Introduction to Racket",
+        "link": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+        "pubDate": "2026-08-22T14:08",
+        "feedId": "hn"
+      },
+      {
         "title": "The New MCP Roadmap",
         "link": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
         "pubDate": "2026-08-22T13:31",
@@ -33,7 +45,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Z80–The 1970s Microprocessor Still Alive",
+        "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
         "link": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
         "pubDate": "2026-08-22T09:49",
         "feedId": "hn"
@@ -79,24 +91,18 @@
         "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
         "pubDate": "2026-08-21T18:36",
         "feedId": "hn"
-      },
-      {
-        "title": "How Thailand Resisted Colonization",
-        "link": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
-        "pubDate": "2026-08-21T18:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
-        "link": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
-        "pubDate": "2026-08-21T17:54",
-        "feedId": "hn"
       }
     ]
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "You should never be angry at work",
+        "link": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
+        "pubDate": "2026-08-22T12:41",
+        "feedId": "lobsters"
+      },
       {
         "title": "Enabling the next-generation trait solver on nightly",
         "link": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
@@ -122,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "You should never be angry at work",
-        "link": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
-        "pubDate": "2026-08-22T12:41",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
         "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
         "pubDate": "2026-08-21T12:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "There continue to be reasons for software to be slow",
+        "link": "https://typesanitizer.com/blog/performance-issues.html",
+        "pubDate": "2026-08-22T14:31",
         "feedId": "lobsters"
       },
       {
@@ -152,12 +158,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Better Batteries",
-        "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
-        "pubDate": "2026-08-21T07:47",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Programming Language Semantics and Memory Safety",
         "link": "https://burakemir.ch/post/formal-semantics/",
         "pubDate": "2026-08-22T04:19",
@@ -170,21 +170,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Better Batteries",
+        "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
+        "pubDate": "2026-08-21T07:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Robot comment classifier",
+        "link": "https://entropicthoughts.com/ai-comment-classifier",
+        "pubDate": "2026-08-22T10:18",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The Schrödinger Email",
         "link": "https://yashgarg.dev/posts/the-schrodinger-email/",
         "pubDate": "2026-08-22T09:53",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Music theory for programmers",
-        "link": "https://runjs.app/blog/music-theory-for-programmers",
-        "pubDate": "2026-08-21T12:03",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Roomy is generally available",
-        "link": "https://blog.roomy.space/3mplw6vvw4s23",
-        "pubDate": "2026-08-22T05:19",
         "feedId": "lobsters"
       }
     ]
