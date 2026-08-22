@@ -3,21 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-        "link": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-        "pubDate": "2026-08-22T16:23",
+        "title": "Belgian car salesman becomes prince after DNA test proves royal parentage",
+        "link": "https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl",
+        "pubDate": "2026-08-22T17:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+        "link": "https://twitter.com/argofowl/status/2091150597374537729",
+        "pubDate": "2026-08-22T16:58",
         "feedId": "hn"
       },
       {
         "title": "Learning about \"The Unix Time-Sharing System\"",
         "link": "https://playtechnique.io/long/the-unix-time-sharing-system.html",
         "pubDate": "2026-08-22T16:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "Wildfires across Europe detonate forgotten World War bombs",
-        "link": "https://www.independent.co.uk/news/world/europe/europe-wildfires-world-war-bombs-b3037458.html",
-        "pubDate": "2026-08-22T15:46",
         "feedId": "hn"
       },
       {
@@ -33,7 +33,7 @@
         "feedId": "hn"
       },
       {
-        "title": "The New MCP Roadmap",
+        "title": "New MCP Roadmap",
         "link": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
         "pubDate": "2026-08-22T13:31",
         "feedId": "hn"
@@ -63,21 +63,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Embedded AI",
-        "link": "https://nostarch.com/embedded-ai",
-        "pubDate": "2026-08-22T09:07",
+        "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+        "link": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+        "pubDate": "2026-08-22T06:16",
         "feedId": "hn"
       },
       {
         "title": "There's no reason for software to be slow anymore",
         "link": "https://danluu.com/perf-opt/",
         "pubDate": "2026-08-22T01:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "Three important steps in my maturation process",
-        "link": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-        "pubDate": "2026-08-21T22:29",
         "feedId": "hn"
       },
       {
@@ -90,6 +84,12 @@
         "title": "Rust Glancer: Rust LSP using 100x less RAM",
         "link": "https://rust-glancer.github.io/blog/hello-world/",
         "pubDate": "2026-08-21T19:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "Scientists release biggest 2D map of the universe",
+        "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+        "pubDate": "2026-08-21T18:36",
         "feedId": "hn"
       }
     ]
@@ -116,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Enabling the next-generation trait solver on nightly",
-        "link": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
-        "pubDate": "2026-08-21T15:15",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The cool things of Gleam",
         "link": "https://a.baez.link/3mtdbbp2dmc27",
         "pubDate": "2026-08-22T06:16",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Enabling the next-generation trait solver on nightly",
+        "link": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
+        "pubDate": "2026-08-21T15:15",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
-        "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
-        "pubDate": "2026-08-21T12:47",
+        "title": "Compile-Time Improvements in LLVM 23",
+        "link": "https://aengelke.net/llvm23-ct.html",
+        "pubDate": "2026-08-22T06:37",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Compile-Time Improvements in LLVM 23",
-        "link": "https://aengelke.net/llvm23-ct.html",
-        "pubDate": "2026-08-22T06:37",
+        "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
+        "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+        "pubDate": "2026-08-21T12:47",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Stop Making TUIs",
-        "link": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-        "pubDate": "2026-08-22T06:52",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The Schrödinger Email",
         "link": "https://yashgarg.dev/posts/the-schrodinger-email/",
         "pubDate": "2026-08-22T09:53",
         "feedId": "lobsters"
       },
       {
-        "title": "Better Batteries",
-        "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
-        "pubDate": "2026-08-21T07:47",
+        "title": "Stop Making TUIs",
+        "link": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+        "pubDate": "2026-08-22T06:52",
         "feedId": "lobsters"
       },
       {
-        "title": "Roomy is generally available",
-        "link": "https://blog.roomy.space/3mplw6vvw4s23",
-        "pubDate": "2026-08-22T05:19",
+        "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
+        "link": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+        "pubDate": "2026-08-22T16:04",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "InjectionBunny, a NTFS3 SUID injection for privilege escalation",
+        "link": "https://lore.kernel.org/ntfs3/CAGBKPgPiXyKWtjgYSACnugmG1XPs=mPg-Zu-xQziUZ1k921+qA@mail.gmail.com/T/#mc251816dfcb7d4dcbf07368f0d288dbfb1b8e1c9",
+        "pubDate": "2026-08-22T15:25",
         "feedId": "lobsters"
       }
     ]
