@@ -27,12 +27,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
-        "link": "https://grapheneos.social/@GrapheneOS/117136278553665985",
-        "pubDate": "2026-08-22T01:02",
-        "feedId": "hn"
-      },
-      {
         "title": "HN: The Good Parts (2016)",
         "link": "https://danluu.com/hn-comments/",
         "pubDate": "2026-08-21T23:53",
@@ -57,15 +51,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Tumble Forth – from assembly to OS with C compiler (2023)",
-        "link": "https://tumbleforth.hardcoded.net/",
-        "pubDate": "2026-08-21T18:59",
-        "feedId": "hn"
-      },
-      {
         "title": "Scientists release biggest 2D map of the universe",
         "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
         "pubDate": "2026-08-21T18:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "How Thailand Resisted Colonization",
+        "link": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
+        "pubDate": "2026-08-21T18:28",
         "feedId": "hn"
       },
       {
@@ -84,6 +78,12 @@
         "title": "Rebuilding our Electron meeting-recording engine in Swift",
         "link": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
         "pubDate": "2026-08-21T17:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Galactic Compass 2: now with new augmented reality mode",
+        "link": "https://interconnected.org/home/2026/08/21/galactic",
+        "pubDate": "2026-08-21T17:30",
         "feedId": "hn"
       },
       {
@@ -110,21 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
-        "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
-        "pubDate": "2026-08-21T12:47",
-        "feedId": "lobsters"
-      },
-      {
         "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
         "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
         "pubDate": "2026-08-22T07:27",
         "feedId": "lobsters"
       },
       {
-        "title": "Felony Bench: Be AI, Do Crime",
-        "link": "https://www.felonybench.com/",
-        "pubDate": "2026-08-21T17:23",
+        "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
+        "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+        "pubDate": "2026-08-21T12:47",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +128,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Better Batteries",
-        "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
-        "pubDate": "2026-08-21T07:47",
+        "title": "Felony Bench: Be AI, Do Crime",
+        "link": "https://www.felonybench.com/",
+        "pubDate": "2026-08-21T17:23",
         "feedId": "lobsters"
       },
       {
         "title": "Turning My CASIO F-91W Into a Contactless Payment Device",
         "link": "https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device",
         "pubDate": "2026-08-22T05:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Better Batteries",
+        "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
+        "pubDate": "2026-08-21T07:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Stop Making TUIs",
+        "link": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+        "pubDate": "2026-08-22T06:52",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Roomy is generally available",
-        "link": "https://blog.roomy.space/3mplw6vvw4s23",
-        "pubDate": "2026-08-22T05:19",
+        "title": "Music theory for programmers",
+        "link": "https://runjs.app/blog/music-theory-for-programmers",
+        "pubDate": "2026-08-21T12:03",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Music theory for programmers",
-        "link": "https://runjs.app/blog/music-theory-for-programmers",
-        "pubDate": "2026-08-21T12:03",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The Schrödinger Email",
         "link": "https://yashgarg.dev/posts/the-schrodinger-email/",
         "pubDate": "2026-08-22T09:53",
         "feedId": "lobsters"
       },
       {
-        "title": "Stop Making TUIs",
-        "link": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-        "pubDate": "2026-08-22T06:52",
+        "title": "Roomy is generally available",
+        "link": "https://blog.roomy.space/3mplw6vvw4s23",
+        "pubDate": "2026-08-22T05:19",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Putting mice into hibernation causes a major loss of synapses",
+        "link": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
+        "pubDate": "2026-08-22T11:22",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
+        "link": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
+        "pubDate": "2026-08-22T11:08",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Trump's space transportation policy calls for new spaceport on federal land",
         "link": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
@@ -268,18 +280,6 @@
         "title": "Europe cancels planned upgrades for Ariane 6 rocket",
         "link": "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/",
         "pubDate": "2026-08-20T21:40",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "They survived 9/11; 25 years later, their bonds remain unbroken",
-        "link": "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/",
-        "pubDate": "2026-08-20T21:25",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Roblox must make changes after failing to block adults creeping on kids",
-        "link": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
-        "pubDate": "2026-08-20T17:14",
         "feedId": "arstechnica"
       }
     ]
