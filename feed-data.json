@@ -3,9 +3,9 @@
     "id": "hn",
     "items": [
       {
-        "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
-        "link": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-        "pubDate": "2026-08-22T14:13",
+        "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+        "link": "https://quantumi.sh/public/labs.html",
+        "pubDate": "2026-08-22T14:54",
         "feedId": "hn"
       },
       {
@@ -30,12 +30,6 @@
         "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
         "link": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
         "pubDate": "2026-08-22T12:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "A formal degree and algorithmic problem-solving is the answer. Always has been",
-        "link": "https://zaksa.zip/blog/formal-education-is-the-answer/",
-        "pubDate": "2026-08-22T11:39",
         "feedId": "hn"
       },
       {
@@ -91,6 +85,12 @@
         "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
         "pubDate": "2026-08-21T18:36",
         "feedId": "hn"
+      },
+      {
+        "title": "How Thailand Resisted Colonization",
+        "link": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
+        "pubDate": "2026-08-21T18:28",
+        "feedId": "hn"
       }
     ]
   },
@@ -122,6 +122,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "There continue to be reasons for software to be slow",
+        "link": "https://typesanitizer.com/blog/performance-issues.html",
+        "pubDate": "2026-08-22T14:31",
+        "feedId": "lobsters"
+      },
+      {
         "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
         "link": "https://lina.sh/blog/hijacking-e164-arpa",
         "pubDate": "2026-08-21T12:05",
@@ -134,21 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "There continue to be reasons for software to be slow",
-        "link": "https://typesanitizer.com/blog/performance-issues.html",
-        "pubDate": "2026-08-22T14:31",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Felony Bench: Be AI, Do Crime",
         "link": "https://www.felonybench.com/",
         "pubDate": "2026-08-21T17:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Turning My CASIO F-91W Into a Contactless Payment Device",
-        "link": "https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device",
-        "pubDate": "2026-08-22T05:08",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Programming Language Semantics and Memory Safety",
-        "link": "https://burakemir.ch/post/formal-semantics/",
-        "pubDate": "2026-08-22T04:19",
+        "title": "Turning My CASIO F-91W Into a Contactless Payment Device",
+        "link": "https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device",
+        "pubDate": "2026-08-22T05:08",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Better Batteries",
-        "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
-        "pubDate": "2026-08-21T07:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Robot comment classifier",
-        "link": "https://entropicthoughts.com/ai-comment-classifier",
-        "pubDate": "2026-08-22T10:18",
+        "title": "Programming Language Semantics and Memory Safety",
+        "link": "https://burakemir.ch/post/formal-semantics/",
+        "pubDate": "2026-08-22T04:19",
         "feedId": "lobsters"
       },
       {
         "title": "The Schrödinger Email",
         "link": "https://yashgarg.dev/posts/the-schrodinger-email/",
         "pubDate": "2026-08-22T09:53",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Better Batteries",
+        "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
+        "pubDate": "2026-08-21T07:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Roomy is generally available",
+        "link": "https://blog.roomy.space/3mplw6vvw4s23",
+        "pubDate": "2026-08-22T05:19",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "U.S.-Canada trade talks collapse, massive tariffs to take effect",
+        "link": "https://www.axios.com/2026/08/22/us-canada-tariffs-trade-trump-carney",
+        "pubDate": "2026-08-22T15:58",
+        "feedId": "axios"
+      },
+      {
         "title": "Scoop: Mike Rogers-AIPAC rupture roils Michigan Senate race",
         "link": "https://www.axios.com/2026/08/22/mike-rogers-aipac-michigan-senate",
         "pubDate": "2026-08-22T12:52",
@@ -297,12 +303,6 @@
         "title": "Trump finds tamping down costs to be tricky",
         "link": "https://www.axios.com/2026/08/22/trump-affordability-beef-consumers",
         "pubDate": "2026-08-22T11:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "U.S.-Canada trade talks collapse, massive tariffs to take effect",
-        "link": "https://www.axios.com/2026/08/22/us-canada-tariffs-trade-trump-carney",
-        "pubDate": "2026-08-22T04:50",
         "feedId": "axios"
       },
       {
