@@ -21,13 +21,19 @@
         "feedId": "hn"
       },
       {
+        "title": "Fast and Hard Code",
+        "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+        "pubDate": "2026-08-23T05:39",
+        "feedId": "hn"
+      },
+      {
         "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
         "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
         "pubDate": "2026-08-23T04:28",
         "feedId": "hn"
       },
       {
-        "title": "The Golden Rule for Becoming a Better Writer",
+        "title": "To become a better writer, read as much as you can",
         "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
         "pubDate": "2026-08-23T03:32",
         "feedId": "hn"
@@ -85,12 +91,6 @@
         "link": "https://twitter.com/moxie/status/2091218652133732491",
         "pubDate": "2026-08-22T18:08",
         "feedId": "hn"
-      },
-      {
-        "title": "I set a trap for a book-marketing scammer (2025)",
-        "link": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
-        "pubDate": "2026-08-22T18:08",
-        "feedId": "hn"
       }
     ]
   },
@@ -128,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
-        "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-        "pubDate": "2026-08-22T07:27",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Why aren't my two Cortex-A9 cores cache coherent?",
         "link": "https://thejpster.org.uk/blog/blog-2026-08-22/",
         "pubDate": "2026-08-23T04:48",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
+        "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+        "pubDate": "2026-08-22T07:27",
         "feedId": "lobsters"
       },
       {
@@ -170,6 +170,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "JIT Compiling Code in 5μs",
+        "link": "https://malisper.me/jit-compiling-code-in-5-us/",
+        "pubDate": "2026-08-23T07:44",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Robot comment classifier",
         "link": "https://entropicthoughts.com/ai-comment-classifier",
         "pubDate": "2026-08-22T10:18",
@@ -179,12 +185,6 @@
         "title": "Turning My CASIO F-91W Into a Contactless Payment Device",
         "link": "https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device",
         "pubDate": "2026-08-22T05:08",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Stop Making TUIs",
-        "link": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-        "pubDate": "2026-08-22T06:52",
         "feedId": "lobsters"
       }
     ]
