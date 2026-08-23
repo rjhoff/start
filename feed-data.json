@@ -3,19 +3,13 @@
     "id": "hn",
     "items": [
       {
-        "title": "Fast and Hard Code",
-        "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-        "pubDate": "2026-08-22T19:56",
+        "title": "NanoGPT Speedrun Frontier",
+        "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+        "pubDate": "2026-08-22T22:14",
         "feedId": "hn"
       },
       {
-        "title": "English ↔ Claudish Translator",
-        "link": "https://programasweights.com/claudish",
-        "pubDate": "2026-08-22T19:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "NetBSD and My Life (2005)",
+        "title": "NetBSD and my life (2005)",
         "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
         "pubDate": "2026-08-22T19:07",
         "feedId": "hn"
@@ -33,15 +27,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Scrap",
-        "link": "https://twitter.com/moxie/status/2091218652133732491",
-        "pubDate": "2026-08-22T18:08",
+        "title": "Thinking in Python by Bruce Eckel",
+        "link": "https://thinkinginpython.com/",
+        "pubDate": "2026-08-22T18:10",
         "feedId": "hn"
       },
       {
-        "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-        "link": "https://twitter.com/argofowl/status/2091150597374537729",
-        "pubDate": "2026-08-22T16:58",
+        "title": "Scrap",
+        "link": "https://twitter.com/moxie/status/2091218652133732491",
+        "pubDate": "2026-08-22T18:08",
         "feedId": "hn"
       },
       {
@@ -63,6 +57,12 @@
         "feedId": "hn"
       },
       {
+        "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
+        "link": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
+        "pubDate": "2026-08-22T13:24",
+        "feedId": "hn"
+      },
+      {
         "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
         "link": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
         "pubDate": "2026-08-22T09:49",
@@ -81,15 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
-        "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
-        "pubDate": "2026-08-21T21:00",
+        "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+        "link": "https://ozbrain.com",
+        "pubDate": "2026-08-21T23:09",
         "feedId": "hn"
       },
       {
-        "title": "The Creation of Abulafia",
-        "link": "https://blog.veitheller.de/abulafia.html",
-        "pubDate": "2026-08-21T20:42",
+        "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
+        "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+        "pubDate": "2026-08-21T21:00",
         "feedId": "hn"
       }
     ]
@@ -110,15 +110,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "NetBSD and my life (2005)",
+        "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+        "pubDate": "2026-08-22T19:08",
+        "feedId": "lobsters"
+      },
+      {
         "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
         "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
         "pubDate": "2026-08-22T07:27",
         "feedId": "lobsters"
       },
       {
-        "title": "NetBSD and my life (2005)",
-        "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-        "pubDate": "2026-08-22T19:08",
+        "title": "A 2026 Survey of Rust GUI Libraries",
+        "link": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
+        "pubDate": "2026-08-22T17:52",
         "feedId": "lobsters"
       },
       {
@@ -131,12 +137,6 @@
         "title": "The cool things of Gleam",
         "link": "https://a.baez.link/3mtdbbp2dmc27",
         "pubDate": "2026-08-22T06:16",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A 2026 Survey of Rust GUI Libraries",
-        "link": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
-        "pubDate": "2026-08-22T17:52",
         "feedId": "lobsters"
       },
       {
@@ -164,6 +164,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "The immortal 1984 Macintosh (restoration diary)",
+        "link": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
+        "pubDate": "2026-08-22T23:17",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
         "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
         "pubDate": "2026-08-21T12:47",
@@ -179,12 +185,6 @@
         "title": "Felony Bench: Be AI, Do Crime",
         "link": "https://www.felonybench.com/",
         "pubDate": "2026-08-21T17:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Stop Making TUIs",
-        "link": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-        "pubDate": "2026-08-22T06:52",
         "feedId": "lobsters"
       }
     ]
