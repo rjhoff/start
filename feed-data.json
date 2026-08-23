@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "Tragically, as many as 9625 out of every 10k individuals may be neurotypical",
+        "link": "https://erikengdahl.se/autism/isnt/",
+        "pubDate": "2026-08-23T08:48",
+        "feedId": "hn"
+      },
+      {
         "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
         "link": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
         "pubDate": "2026-08-23T06:41",
@@ -24,12 +30,6 @@
         "title": "Fast and Hard Code",
         "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
         "pubDate": "2026-08-23T05:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
-        "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
-        "pubDate": "2026-08-23T04:28",
         "feedId": "hn"
       },
       {
@@ -140,33 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The cool things of Gleam",
-        "link": "https://a.baez.link/3mtdbbp2dmc27",
-        "pubDate": "2026-08-22T06:16",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The immortal 1984 Macintosh (restoration diary)",
         "link": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
         "pubDate": "2026-08-22T23:17",
         "feedId": "lobsters"
       },
       {
-        "title": "Enabling the next-generation trait solver on nightly",
-        "link": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
-        "pubDate": "2026-08-21T15:15",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Compile-Time Improvements in LLVM 23",
-        "link": "https://aengelke.net/llvm23-ct.html",
-        "pubDate": "2026-08-22T06:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "nss-userhosts - hosts files for unprivileged users",
-        "link": "https://codeberg.org/felixs/nss-userhosts",
-        "pubDate": "2026-08-22T15:56",
+        "title": "The cool things of Gleam",
+        "link": "https://a.baez.link/3mtdbbp2dmc27",
+        "pubDate": "2026-08-22T06:16",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +158,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Enabling the next-generation trait solver on nightly",
+        "link": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
+        "pubDate": "2026-08-21T15:15",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "nss-userhosts - hosts files for unprivileged users",
+        "link": "https://codeberg.org/felixs/nss-userhosts",
+        "pubDate": "2026-08-22T15:56",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Compile-Time Improvements in LLVM 23",
+        "link": "https://aengelke.net/llvm23-ct.html",
+        "pubDate": "2026-08-22T06:37",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Robot comment classifier",
         "link": "https://entropicthoughts.com/ai-comment-classifier",
         "pubDate": "2026-08-22T10:18",
         "feedId": "lobsters"
       },
       {
-        "title": "Turning My CASIO F-91W Into a Contactless Payment Device",
-        "link": "https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device",
-        "pubDate": "2026-08-22T05:08",
+        "title": "Foundational Verification of Running-Time Bounds for Interactive Programs",
+        "link": "https://adam.chlipala.net/papers/MetricsCPP26/MetricsCPP26.pdf",
+        "pubDate": "2026-08-23T06:56",
         "feedId": "lobsters"
       }
     ]
