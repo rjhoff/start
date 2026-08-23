@@ -3,6 +3,36 @@
     "id": "hn",
     "items": [
       {
+        "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+        "link": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+        "pubDate": "2026-08-23T06:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "JIT Compiling Code in 5μs",
+        "link": "https://malisper.me/jit-compiling-code-in-5-us/",
+        "pubDate": "2026-08-23T06:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "The End of an Athlon",
+        "link": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+        "pubDate": "2026-08-23T05:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
+        "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+        "pubDate": "2026-08-23T04:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Golden Rule for Becoming a Better Writer",
+        "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+        "pubDate": "2026-08-23T03:32",
+        "feedId": "hn"
+      },
+      {
         "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
         "link": "https://martypc.net/",
         "pubDate": "2026-08-23T03:13",
@@ -15,7 +45,7 @@
         "feedId": "hn"
       },
       {
-        "title": "The Art and Beauty of Blade Runner",
+        "title": "The Art and Beauty of Blade Runner (2015)",
         "link": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
         "pubDate": "2026-08-23T00:56",
         "feedId": "hn"
@@ -30,12 +60,6 @@
         "title": "NetBSD and my life (2005)",
         "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
         "pubDate": "2026-08-22T19:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-        "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
-        "pubDate": "2026-08-22T19:04",
         "feedId": "hn"
       },
       {
@@ -66,30 +90,6 @@
         "title": "I set a trap for a book-marketing scammer (2025)",
         "link": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
         "pubDate": "2026-08-22T18:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "Reading Maps – Journeys from fiction drawn on the real world",
-        "link": "https://readingmaps.com/",
-        "pubDate": "2026-08-22T17:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-        "link": "https://quantumi.sh/public/labs.html",
-        "pubDate": "2026-08-22T14:54",
-        "feedId": "hn"
-      },
-      {
-        "title": "A Friendly Introduction to Racket",
-        "link": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-        "pubDate": "2026-08-22T14:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "New MCP Roadmap",
-        "link": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-        "pubDate": "2026-08-22T13:31",
         "feedId": "hn"
       }
     ]
@@ -122,21 +122,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
-        "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-        "pubDate": "2026-08-22T07:27",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
         "link": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
         "pubDate": "2026-08-22T16:04",
         "feedId": "lobsters"
       },
       {
+        "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
+        "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+        "pubDate": "2026-08-22T07:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why aren't my two Cortex-A9 cores cache coherent?",
+        "link": "https://thejpster.org.uk/blog/blog-2026-08-22/",
+        "pubDate": "2026-08-23T04:48",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The cool things of Gleam",
         "link": "https://a.baez.link/3mtdbbp2dmc27",
         "pubDate": "2026-08-22T06:16",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The immortal 1984 Macintosh (restoration diary)",
+        "link": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
+        "pubDate": "2026-08-22T23:17",
         "feedId": "lobsters"
       },
       {
@@ -158,12 +170,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The immortal 1984 Macintosh (restoration diary)",
-        "link": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
-        "pubDate": "2026-08-22T23:17",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Robot comment classifier",
         "link": "https://entropicthoughts.com/ai-comment-classifier",
         "pubDate": "2026-08-22T10:18",
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
-        "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
-        "pubDate": "2026-08-21T12:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Programming Language Semantics and Memory Safety",
-        "link": "https://burakemir.ch/post/formal-semantics/",
-        "pubDate": "2026-08-22T04:19",
+        "title": "Stop Making TUIs",
+        "link": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+        "pubDate": "2026-08-22T06:52",
         "feedId": "lobsters"
       }
     ]
