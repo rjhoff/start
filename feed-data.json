@@ -116,15 +116,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "My favorite Computer Science books, and why",
+        "link": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
+        "pubDate": "2026-08-23T14:45",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?",
         "link": "https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf",
         "pubDate": "2026-08-23T12:08",
         "feedId": "lobsters"
       },
       {
-        "title": "My favorite Computer Science books, and why",
-        "link": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
-        "pubDate": "2026-08-23T14:45",
+        "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+        "link": "https://ericpardee.github.io/fire-hd-ownership/",
+        "pubDate": "2026-08-23T15:45",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How To Report A Bug So It Actually Gets Fixed",
+        "link": "https://blog.tymscar.com/posts/howtoreportabug/",
+        "pubDate": "2026-08-23T16:11",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
-        "link": "https://ericpardee.github.io/fire-hd-ownership/",
-        "pubDate": "2026-08-23T15:45",
+        "title": "eh: a minimalist vi-like editor",
+        "link": "https://codeberg.org/SirWumpus/eh",
+        "pubDate": "2026-08-23T15:10",
         "feedId": "lobsters"
       },
       {
@@ -152,39 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A 2026 Survey of Rust GUI Libraries",
-        "link": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
-        "pubDate": "2026-08-22T17:52",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How To Report A Bug So It Actually Gets Fixed",
-        "link": "https://blog.tymscar.com/posts/howtoreportabug/",
-        "pubDate": "2026-08-23T16:11",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Why aren't my two Cortex-A9 cores cache coherent?",
         "link": "https://thejpster.org.uk/blog/blog-2026-08-22/",
         "pubDate": "2026-08-23T04:48",
         "feedId": "lobsters"
       },
       {
-        "title": "eh: a minimalist vi-like editor",
-        "link": "https://codeberg.org/SirWumpus/eh",
-        "pubDate": "2026-08-23T15:10",
+        "title": "A 2026 Survey of Rust GUI Libraries",
+        "link": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
+        "pubDate": "2026-08-22T17:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "It's OK. Do Your Thing",
+        "link": "https://buttondown.com/carlton/archive/its-ok-do-your-thing/",
+        "pubDate": "2026-08-23T16:32",
         "feedId": "lobsters"
       },
       {
         "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
         "link": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
         "pubDate": "2026-08-22T16:04",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "clicky: A clickwheel iPod emulator",
-        "link": "https://github.com/daniel5151/clicky",
-        "pubDate": "2026-08-23T14:46",
         "feedId": "lobsters"
       }
     ]
