@@ -122,6 +122,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Replicating Reddit's best feature on other forums",
+        "link": "https://xavd.id/blog/post/highlighting-users/",
+        "pubDate": "2026-08-23T19:23",
+        "feedId": "lobsters"
+      },
+      {
         "title": "My favorite Computer Science books, and why",
         "link": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
         "pubDate": "2026-08-23T14:45",
@@ -131,12 +137,6 @@
         "title": "Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?",
         "link": "https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf",
         "pubDate": "2026-08-23T12:08",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Replicating Reddit's best feature on other forums",
-        "link": "https://xavd.id/blog/post/highlighting-users/",
-        "pubDate": "2026-08-23T19:23",
         "feedId": "lobsters"
       },
       {
@@ -158,21 +158,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Wild AI-related reliability incidents are coming",
+        "link": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
+        "pubDate": "2026-08-23T19:04",
+        "feedId": "lobsters"
+      },
+      {
         "title": "You should never be angry at work",
         "link": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
         "pubDate": "2026-08-22T12:41",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why aren't my two Cortex-A9 cores cache coherent?",
-        "link": "https://thejpster.org.uk/blog/blog-2026-08-22/",
-        "pubDate": "2026-08-23T04:48",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "NetBSD and my life (2005)",
-        "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-        "pubDate": "2026-08-22T19:08",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Wild AI-related reliability incidents are coming",
-        "link": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
-        "pubDate": "2026-08-23T19:04",
+        "title": "Why aren't my two Cortex-A9 cores cache coherent?",
+        "link": "https://thejpster.org.uk/blog/blog-2026-08-22/",
+        "pubDate": "2026-08-23T04:48",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "clicky: A clickwheel iPod emulator",
+        "link": "https://github.com/daniel5151/clicky",
+        "pubDate": "2026-08-23T14:46",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump says rejecting data centers is \"a mistake\"",
+        "link": "https://www.axios.com/2026/08/23/trump-data-centers-michael-cohen-interview",
+        "pubDate": "2026-08-23T23:15",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump and former fixer Michael Cohen make amends",
+        "link": "https://www.axios.com/2026/08/23/trump-michael-cohen-radio-interview",
+        "pubDate": "2026-08-23T22:29",
+        "feedId": "axios"
+      },
+      {
         "title": "2028 Dems dodge on Bernie's push to pause AI development",
         "link": "https://www.axios.com/2026/08/23/2028-democrats-ai-bernie-sanders",
         "pubDate": "2026-08-23T21:30",
@@ -363,18 +375,6 @@
         "title": "Trump's higher ed shakeup starts a new semester",
         "link": "https://www.axios.com/2026/08/21/trump-higher-ed-shakeup-colleges-fall-semester",
         "pubDate": "2026-08-21T20:40",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: DOJ, TikTok settle for $400 million in children's privacy suit",
-        "link": "https://www.axios.com/2026/08/21/doj-tiktok-biden-lawsuit-settlement",
-        "pubDate": "2026-08-21T19:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "MAHA warns Trump against coal-powered AI data centers",
-        "link": "https://www.axios.com/2026/08/21/ai-data-centers-coal-trump-rfk-maga-warning",
-        "pubDate": "2026-08-21T18:06",
         "feedId": "axios"
       }
     ]
