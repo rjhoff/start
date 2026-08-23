@@ -116,21 +116,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "An Introduction to Canvas in GNU Emacs",
+        "link": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
+        "pubDate": "2026-08-23T14:45",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "My favorite Computer Science books, and why",
+        "link": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
+        "pubDate": "2026-08-23T14:45",
+        "feedId": "lobsters"
+      },
+      {
         "title": "You should never be angry at work",
         "link": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
         "pubDate": "2026-08-22T12:41",
         "feedId": "lobsters"
       },
       {
-        "title": "There continue to be reasons for software to be slow",
-        "link": "https://typesanitizer.com/blog/performance-issues.html",
-        "pubDate": "2026-08-22T14:31",
-        "feedId": "lobsters"
-      },
-      {
         "title": "NetBSD and my life (2005)",
         "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
         "pubDate": "2026-08-22T19:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "There continue to be reasons for software to be slow",
+        "link": "https://typesanitizer.com/blog/performance-issues.html",
+        "pubDate": "2026-08-22T14:31",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "My favorite Computer Science books, and why",
-        "link": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
-        "pubDate": "2026-08-23T14:45",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "An Introduction to Canvas in GNU Emacs",
-        "link": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
-        "pubDate": "2026-08-23T14:45",
+        "title": "eh: a minimalist vi-like editor",
+        "link": "https://codeberg.org/SirWumpus/eh",
+        "pubDate": "2026-08-23T15:10",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +170,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+        "link": "https://ericpardee.github.io/fire-hd-ownership/",
+        "pubDate": "2026-08-23T15:45",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How To Report A Bug So It Actually Gets Fixed",
+        "link": "https://blog.tymscar.com/posts/howtoreportabug/",
+        "pubDate": "2026-08-23T16:11",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The immortal 1984 Macintosh (restoration diary)",
         "link": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
         "pubDate": "2026-08-22T23:17",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "clicky: A clickwheel iPod emulator",
-        "link": "https://github.com/daniel5151/clicky",
-        "pubDate": "2026-08-23T14:46",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
-        "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-        "pubDate": "2026-08-22T07:27",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Optimizing memory usage in a markdown parser",
-        "link": "https://blog.kowalczyk.info/a-n8wf/optimizing-memory-use-in-markdown-parser.html",
-        "pubDate": "2026-08-23T11:51",
         "feedId": "lobsters"
       }
     ]
@@ -290,7 +290,7 @@
       {
         "title": "Scoop: Syria and Israel move to defuse tensions after airbase bombing",
         "link": "https://www.axios.com/2026/08/23/syria-israel-turkey-airbase-bombing",
-        "pubDate": "2026-08-23T15:00",
+        "pubDate": "2026-08-23T16:08",
         "feedId": "axios"
       },
       {
