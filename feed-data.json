@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?",
-        "link": "https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf",
-        "pubDate": "2026-08-23T12:08",
-        "feedId": "lobsters"
-      },
-      {
         "title": "An Introduction to Canvas in GNU Emacs",
         "link": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
         "pubDate": "2026-08-23T14:45",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?",
+        "link": "https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf",
+        "pubDate": "2026-08-23T12:08",
         "feedId": "lobsters"
       },
       {
@@ -131,6 +131,12 @@
         "title": "You should never be angry at work",
         "link": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
         "pubDate": "2026-08-22T12:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+        "link": "https://ericpardee.github.io/fire-hd-ownership/",
+        "pubDate": "2026-08-23T15:45",
         "feedId": "lobsters"
       },
       {
@@ -152,6 +158,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "How To Report A Bug So It Actually Gets Fixed",
+        "link": "https://blog.tymscar.com/posts/howtoreportabug/",
+        "pubDate": "2026-08-23T16:11",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Why aren't my two Cortex-A9 cores cache coherent?",
         "link": "https://thejpster.org.uk/blog/blog-2026-08-22/",
         "pubDate": "2026-08-23T04:48",
@@ -170,21 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
-        "link": "https://ericpardee.github.io/fire-hd-ownership/",
-        "pubDate": "2026-08-23T15:45",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How To Report A Bug So It Actually Gets Fixed",
-        "link": "https://blog.tymscar.com/posts/howtoreportabug/",
-        "pubDate": "2026-08-23T16:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The immortal 1984 Macintosh (restoration diary)",
-        "link": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
-        "pubDate": "2026-08-22T23:17",
+        "title": "clicky: A clickwheel iPod emulator",
+        "link": "https://github.com/daniel5151/clicky",
+        "pubDate": "2026-08-23T14:46",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Texas welcomed the AI boom. Now Abbott says data centers \"dug their own grave\"",
+        "link": "https://www.axios.com/2026/08/23/greg-abbott-texas-data-centers-ai-backlash",
+        "pubDate": "2026-08-23T16:38",
+        "feedId": "axios"
+      },
+      {
         "title": "Scoop: Syria and Israel move to defuse tensions after airbase bombing",
         "link": "https://www.axios.com/2026/08/23/syria-israel-turkey-airbase-bombing",
         "pubDate": "2026-08-23T16:08",
@@ -369,12 +375,6 @@
         "title": "Walmart adding Apple Pay, other tap-to-pay options",
         "link": "https://www.axios.com/2026/08/21/walmart-tap-apple-pay-options",
         "pubDate": "2026-08-21T17:03",
-        "feedId": "axios"
-      },
-      {
-        "title": "U.S. trade chief calls trying to change China's economy \"crazy\"",
-        "link": "https://www.axios.com/2026/08/21/greer-china-trade-economy",
-        "pubDate": "2026-08-21T16:35",
         "feedId": "axios"
       }
     ]
