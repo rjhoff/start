@@ -3,9 +3,21 @@
     "id": "hn",
     "items": [
       {
+        "title": "My favorite nonfiction books about cults, scams, and schemes",
+        "link": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+        "pubDate": "2026-08-23T13:51",
+        "feedId": "hn"
+      },
+      {
         "title": "Malware infects Android-based automotive head unit firmware",
         "link": "https://securelist.com/android-head-unit-malware/121106/",
         "pubDate": "2026-08-23T13:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
+        "link": "https://twitter.com/AndrewYNg/status/2090840747738374568",
+        "pubDate": "2026-08-23T11:28",
         "feedId": "hn"
       },
       {
@@ -27,21 +39,15 @@
         "feedId": "hn"
       },
       {
-        "title": "The Sloppification of Peptides",
-        "link": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
-        "pubDate": "2026-08-23T09:32",
-        "feedId": "hn"
-      },
-      {
         "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
         "link": "https://skylens.yantraai.app/",
         "pubDate": "2026-08-23T09:27",
         "feedId": "hn"
       },
       {
-        "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
-        "link": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
-        "pubDate": "2026-08-23T06:41",
+        "title": "Risk of transmission of amyloid β pathology via transfused blood products",
+        "link": "https://doi.org/10.1016/S0140-6736(26)00767-1",
+        "pubDate": "2026-08-23T06:07",
         "feedId": "hn"
       },
       {
@@ -85,12 +91,6 @@
         "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
         "pubDate": "2026-08-22T22:14",
         "feedId": "hn"
-      },
-      {
-        "title": "NetBSD and my life (2005)",
-        "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-        "pubDate": "2026-08-22T19:07",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "You should never be angry at work",
-        "link": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
-        "pubDate": "2026-08-22T12:41",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Hister - A private, full content search index that you control",
         "link": "https://hister.org/",
         "pubDate": "2026-08-23T12:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "You should never be angry at work",
+        "link": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
+        "pubDate": "2026-08-22T12:41",
         "feedId": "lobsters"
       },
       {
@@ -125,6 +125,12 @@
         "title": "NetBSD and my life (2005)",
         "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
         "pubDate": "2026-08-22T19:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?",
+        "link": "https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf",
+        "pubDate": "2026-08-23T12:08",
         "feedId": "lobsters"
       },
       {
@@ -155,12 +161,6 @@
         "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
         "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
         "pubDate": "2026-08-22T07:27",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?",
-        "link": "https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf",
-        "pubDate": "2026-08-23T12:08",
         "feedId": "lobsters"
       },
       {
