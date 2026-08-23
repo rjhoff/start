@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+        "link": "https://martypc.net/",
+        "pubDate": "2026-08-23T03:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "I Dream of Quieter Computing",
+        "link": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+        "pubDate": "2026-08-23T02:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Art and Beauty of Blade Runner",
+        "link": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+        "pubDate": "2026-08-23T00:56",
+        "feedId": "hn"
+      },
+      {
         "title": "NanoGPT Speedrun Frontier",
         "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
         "pubDate": "2026-08-22T22:14",
@@ -69,27 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
-        "link": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-        "pubDate": "2026-08-22T09:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "Munder Difflin – Agent harness to run an office of your clones",
-        "link": "https://munderdiffl.in/",
-        "pubDate": "2026-08-22T09:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
-        "link": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
-        "pubDate": "2026-08-22T06:16",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-        "link": "https://ozbrain.com",
-        "pubDate": "2026-08-21T23:09",
+        "title": "New MCP Roadmap",
+        "link": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+        "pubDate": "2026-08-22T13:31",
         "feedId": "hn"
       }
     ]
@@ -128,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The cool things of Gleam",
-        "link": "https://a.baez.link/3mtdbbp2dmc27",
-        "pubDate": "2026-08-22T06:16",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
         "link": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
         "pubDate": "2026-08-22T16:04",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The cool things of Gleam",
+        "link": "https://a.baez.link/3mtdbbp2dmc27",
+        "pubDate": "2026-08-22T06:16",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Turning My CASIO F-91W Into a Contactless Payment Device",
-        "link": "https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device",
-        "pubDate": "2026-08-22T05:08",
+        "title": "The immortal 1984 Macintosh (restoration diary)",
+        "link": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
+        "pubDate": "2026-08-22T23:17",
         "feedId": "lobsters"
       },
       {
@@ -170,9 +170,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The immortal 1984 Macintosh (restoration diary)",
-        "link": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
-        "pubDate": "2026-08-22T23:17",
+        "title": "Turning My CASIO F-91W Into a Contactless Payment Device",
+        "link": "https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device",
+        "pubDate": "2026-08-22T05:08",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-        "link": "https://lina.sh/blog/hijacking-e164-arpa",
-        "pubDate": "2026-08-21T12:05",
+        "title": "Programming Language Semantics and Memory Safety",
+        "link": "https://burakemir.ch/post/formal-semantics/",
+        "pubDate": "2026-08-22T04:19",
         "feedId": "lobsters"
       }
     ]
