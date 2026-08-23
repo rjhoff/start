@@ -3,6 +3,30 @@
     "id": "hn",
     "items": [
       {
+        "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+        "link": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+        "pubDate": "2026-08-23T14:38",
+        "feedId": "hn"
+      },
+      {
+        "title": "Authoritarianism of Code",
+        "link": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
+        "pubDate": "2026-08-23T14:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "What Is a Harness?",
+        "link": "https://earendil.com/posts/what-is-a-harness/",
+        "pubDate": "2026-08-23T14:24",
+        "feedId": "hn"
+      },
+      {
+        "title": "Death to px, long live ch",
+        "link": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
+        "pubDate": "2026-08-23T13:56",
+        "feedId": "hn"
+      },
+      {
         "title": "My favorite nonfiction books about cults, scams, and schemes",
         "link": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
         "pubDate": "2026-08-23T13:51",
@@ -12,12 +36,6 @@
         "title": "Malware infects Android-based automotive head unit firmware",
         "link": "https://securelist.com/android-head-unit-malware/121106/",
         "pubDate": "2026-08-23T13:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
-        "link": "https://twitter.com/AndrewYNg/status/2090840747738374568",
-        "pubDate": "2026-08-23T11:28",
         "feedId": "hn"
       },
       {
@@ -73,24 +91,6 @@
         "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
         "pubDate": "2026-08-23T03:32",
         "feedId": "hn"
-      },
-      {
-        "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-        "link": "https://martypc.net/",
-        "pubDate": "2026-08-23T03:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Art and Beauty of Blade Runner (2015)",
-        "link": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-        "pubDate": "2026-08-23T00:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "NanoGPT Speedrun Frontier",
-        "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-        "pubDate": "2026-08-22T22:14",
-        "feedId": "hn"
       }
     ]
   },
@@ -107,6 +107,12 @@
         "title": "Hister - A private, full content search index that you control",
         "link": "https://hister.org/",
         "pubDate": "2026-08-23T12:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?",
+        "link": "https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf",
+        "pubDate": "2026-08-23T12:08",
         "feedId": "lobsters"
       },
       {
@@ -128,12 +134,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?",
-        "link": "https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf",
-        "pubDate": "2026-08-23T12:08",
-        "feedId": "lobsters"
-      },
-      {
         "title": "A 2026 Survey of Rust GUI Libraries",
         "link": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
         "pubDate": "2026-08-22T17:52",
@@ -143,6 +143,18 @@
         "title": "Why aren't my two Cortex-A9 cores cache coherent?",
         "link": "https://thejpster.org.uk/blog/blog-2026-08-22/",
         "pubDate": "2026-08-23T04:48",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "My favorite Computer Science books, and why",
+        "link": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
+        "pubDate": "2026-08-23T14:45",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "An Introduction to Canvas in GNU Emacs",
+        "link": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
+        "pubDate": "2026-08-23T14:45",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +170,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "clicky: A clickwheel iPod emulator",
+        "link": "https://github.com/daniel5151/clicky",
+        "pubDate": "2026-08-23T14:46",
+        "feedId": "lobsters"
+      },
+      {
         "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
         "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
         "pubDate": "2026-08-22T07:27",
         "feedId": "lobsters"
       },
       {
-        "title": "JIT Compiling Code in 5μs",
-        "link": "https://malisper.me/jit-compiling-code-in-5-us/",
-        "pubDate": "2026-08-23T07:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The cool things of Gleam",
-        "link": "https://a.baez.link/3mtdbbp2dmc27",
-        "pubDate": "2026-08-22T06:16",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "nss-userhosts - hosts files for unprivileged users",
-        "link": "https://codeberg.org/felixs/nss-userhosts",
-        "pubDate": "2026-08-22T15:56",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A Friendly Introduction to Racket",
-        "link": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-        "pubDate": "2026-08-23T12:22",
+        "title": "Optimizing memory usage in a markdown parser",
+        "link": "https://blog.kowalczyk.info/a-n8wf/optimizing-memory-use-in-markdown-parser.html",
+        "pubDate": "2026-08-23T11:51",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+        "link": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+        "pubDate": "2026-08-23T14:30",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Volcanoes that made history",
         "link": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
@@ -275,18 +281,18 @@
         "link": "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/",
         "pubDate": "2026-08-21T11:00",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
-        "link": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
-        "pubDate": "2026-08-20T22:00",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Scoop: Syria and Israel move to defuse tensions after airbase bombing",
+        "link": "https://www.axios.com/2026/08/23/syria-israel-turkey-airbase-bombing",
+        "pubDate": "2026-08-23T15:00",
+        "feedId": "axios"
+      },
       {
         "title": "Dems turning more GOP Senate strongholds into midterm battlegrounds",
         "link": "https://www.axios.com/2026/08/23/senate-ohio-alaska-iowa-texas-kansas-mississippi-nebraska",
@@ -369,12 +375,6 @@
         "title": "U.S. trade chief calls trying to change China's economy \"crazy\"",
         "link": "https://www.axios.com/2026/08/21/greer-china-trade-economy",
         "pubDate": "2026-08-21T16:35",
-        "feedId": "axios"
-      },
-      {
-        "title": "A roadmap for safeguarding against AI bioweapons",
-        "link": "https://www.axios.com/2026/08/21/safeguards-ai-bioweapons-roadmap",
-        "pubDate": "2026-08-21T11:30",
         "feedId": "axios"
       }
     ]
