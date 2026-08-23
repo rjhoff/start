@@ -57,6 +57,12 @@
         "feedId": "hn"
       },
       {
+        "title": "Mathematicians will probably become obsolete before anyone else [pdf]",
+        "link": "https://olli.unt.edu/handouts/fall24/tk-writing-sample.pdf",
+        "pubDate": "2026-08-23T00:14",
+        "feedId": "hn"
+      },
+      {
         "title": "NanoGPT Speedrun Frontier",
         "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
         "pubDate": "2026-08-22T22:14",
@@ -85,12 +91,6 @@
         "link": "https://thinkinginpython.com/",
         "pubDate": "2026-08-22T18:10",
         "feedId": "hn"
-      },
-      {
-        "title": "Scrap (2006)",
-        "link": "https://twitter.com/moxie/status/2091218652133732491",
-        "pubDate": "2026-08-22T18:08",
-        "feedId": "hn"
       }
     ]
   },
@@ -116,6 +116,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Why aren't my two Cortex-A9 cores cache coherent?",
+        "link": "https://thejpster.org.uk/blog/blog-2026-08-22/",
+        "pubDate": "2026-08-23T04:48",
+        "feedId": "lobsters"
+      },
+      {
         "title": "A 2026 Survey of Rust GUI Libraries",
         "link": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
         "pubDate": "2026-08-22T17:52",
@@ -125,12 +131,6 @@
         "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
         "link": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
         "pubDate": "2026-08-22T16:04",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why aren't my two Cortex-A9 cores cache coherent?",
-        "link": "https://thejpster.org.uk/blog/blog-2026-08-22/",
-        "pubDate": "2026-08-23T04:48",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +158,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Enabling the next-generation trait solver on nightly",
-        "link": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
-        "pubDate": "2026-08-21T15:15",
+        "title": "‘Huge Breakthrough’ in the Math of Imbalance",
+        "link": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
+        "pubDate": "2026-08-23T05:23",
         "feedId": "lobsters"
       },
       {
         "title": "nss-userhosts - hosts files for unprivileged users",
         "link": "https://codeberg.org/felixs/nss-userhosts",
         "pubDate": "2026-08-22T15:56",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Enabling the next-generation trait solver on nightly",
+        "link": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
+        "pubDate": "2026-08-21T15:15",
         "feedId": "lobsters"
       },
       {
@@ -179,12 +185,6 @@
         "title": "Robot comment classifier",
         "link": "https://entropicthoughts.com/ai-comment-classifier",
         "pubDate": "2026-08-22T10:18",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Foundational Verification of Running-Time Bounds for Interactive Programs",
-        "link": "https://adam.chlipala.net/papers/MetricsCPP26/MetricsCPP26.pdf",
-        "pubDate": "2026-08-23T06:56",
         "feedId": "lobsters"
       }
     ]
