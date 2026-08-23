@@ -3,9 +3,15 @@
     "id": "hn",
     "items": [
       {
-        "title": "Canada now 'at war' with United States over trade, Prime Minister says",
-        "link": "https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/",
-        "pubDate": "2026-08-23T09:58",
+        "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+        "link": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
+        "pubDate": "2026-08-23T10:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+        "link": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+        "pubDate": "2026-08-23T10:02",
         "feedId": "hn"
       },
       {
@@ -15,9 +21,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Doomscrolling at work wastes time, but the real cost is what happens after",
-        "link": "https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/",
-        "pubDate": "2026-08-23T09:26",
+        "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+        "link": "https://skylens.yantraai.app/",
+        "pubDate": "2026-08-23T09:27",
         "feedId": "hn"
       },
       {
@@ -57,21 +63,9 @@
         "feedId": "hn"
       },
       {
-        "title": "I Dream of Quieter Computing",
-        "link": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-        "pubDate": "2026-08-23T02:33",
-        "feedId": "hn"
-      },
-      {
         "title": "The Art and Beauty of Blade Runner (2015)",
         "link": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
         "pubDate": "2026-08-23T00:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "Mathematicians will probably become obsolete before anyone else [pdf]",
-        "link": "https://olli.unt.edu/handouts/fall24/tk-writing-sample.pdf",
-        "pubDate": "2026-08-23T00:14",
         "feedId": "hn"
       },
       {
@@ -90,6 +84,12 @@
         "title": "Why your local LLM feels dumber than it is",
         "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
         "pubDate": "2026-08-22T18:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
+        "link": "https://marcua.net/minitools/figmimic/",
+        "pubDate": "2026-08-22T18:11",
         "feedId": "hn"
       }
     ]
@@ -134,27 +134,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
-        "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-        "pubDate": "2026-08-22T07:27",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The immortal 1984 Macintosh (restoration diary)",
         "link": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
         "pubDate": "2026-08-22T23:17",
         "feedId": "lobsters"
       },
       {
-        "title": "The cool things of Gleam",
-        "link": "https://a.baez.link/3mtdbbp2dmc27",
-        "pubDate": "2026-08-22T06:16",
+        "title": "And then the men with guns tell you to do it anyway",
+        "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+        "pubDate": "2026-08-23T12:15",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
+        "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+        "pubDate": "2026-08-22T07:27",
         "feedId": "lobsters"
       },
       {
         "title": "JIT Compiling Code in 5μs",
         "link": "https://malisper.me/jit-compiling-code-in-5-us/",
         "pubDate": "2026-08-23T07:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The cool things of Gleam",
+        "link": "https://a.baez.link/3mtdbbp2dmc27",
+        "pubDate": "2026-08-22T06:16",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Enabling the next-generation trait solver on nightly",
-        "link": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
-        "pubDate": "2026-08-21T15:15",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Compile-Time Improvements in LLVM 23",
         "link": "https://aengelke.net/llvm23-ct.html",
         "pubDate": "2026-08-22T06:37",
         "feedId": "lobsters"
       },
       {
-        "title": "Robot comment classifier",
-        "link": "https://entropicthoughts.com/ai-comment-classifier",
-        "pubDate": "2026-08-22T10:18",
+        "title": "Enabling the next-generation trait solver on nightly",
+        "link": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
+        "pubDate": "2026-08-21T15:15",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Volcanoes that made history",
+        "link": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
+        "pubDate": "2026-08-23T11:02",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Putting mice into hibernation causes a major loss of synapses",
         "link": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
@@ -275,18 +281,24 @@
         "link": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
         "pubDate": "2026-08-20T22:00",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Europe cancels planned upgrades for Ariane 6 rocket",
-        "link": "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/",
-        "pubDate": "2026-08-20T21:40",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Synthetic everything is warping America",
+        "link": "https://www.axios.com/2026/08/23/median-strategies-poll-fake-bots",
+        "pubDate": "2026-08-23T11:40",
+        "feedId": "axios"
+      },
+      {
+        "title": "Flock cameras join data centers as a top AI boogeyman in 2026 midterms",
+        "link": "https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech",
+        "pubDate": "2026-08-23T11:20",
+        "feedId": "axios"
+      },
       {
         "title": "Scoop: Mike Rogers-AIPAC rupture roils Michigan Senate race",
         "link": "https://www.axios.com/2026/08/22/mike-rogers-aipac-michigan-senate",
@@ -363,18 +375,6 @@
         "title": "Kathy Hochul's business-friendly data center plan",
         "link": "https://www.axios.com/2026/08/21/kathy-hochul-business-friendly-data-center-plan",
         "pubDate": "2026-08-21T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Florida's Angie Nixon isn't the socialist you've heard about",
-        "link": "https://www.axios.com/2026/08/21/florida-senate-angie-nixon-socialist",
-        "pubDate": "2026-08-21T09:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "Why oil markets are ignoring Trump's \"truths\"",
-        "link": "https://www.axios.com/2026/08/21/oil-markets-ignore-trump-truth-social-iran",
-        "pubDate": "2026-08-21T09:15",
         "feedId": "axios"
       }
     ]
