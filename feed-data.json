@@ -3,9 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "Tragically, as many as 9625 out of every 10k individuals may be neurotypical",
-        "link": "https://erikengdahl.se/autism/isnt/",
-        "pubDate": "2026-08-23T08:48",
+        "title": "Canada now 'at war' with United States over trade, Prime Minister says",
+        "link": "https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/",
+        "pubDate": "2026-08-23T09:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Sloppification of Peptides",
+        "link": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
+        "pubDate": "2026-08-23T09:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "Doomscrolling at work wastes time, but the real cost is what happens after",
+        "link": "https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/",
+        "pubDate": "2026-08-23T09:26",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
         "pubDate": "2026-08-22T18:14",
         "feedId": "hn"
-      },
-      {
-        "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
-        "link": "https://marcua.net/minitools/figmimic/",
-        "pubDate": "2026-08-22T18:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "Thinking in Python",
-        "link": "https://thinkinginpython.com/",
-        "pubDate": "2026-08-22T18:10",
-        "feedId": "hn"
       }
     ]
   },
@@ -116,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why aren't my two Cortex-A9 cores cache coherent?",
-        "link": "https://thejpster.org.uk/blog/blog-2026-08-22/",
-        "pubDate": "2026-08-23T04:48",
-        "feedId": "lobsters"
-      },
-      {
         "title": "A 2026 Survey of Rust GUI Libraries",
         "link": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
         "pubDate": "2026-08-22T17:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why aren't my two Cortex-A9 cores cache coherent?",
+        "link": "https://thejpster.org.uk/blog/blog-2026-08-22/",
+        "pubDate": "2026-08-23T04:48",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "‘Huge Breakthrough’ in the Math of Imbalance",
-        "link": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
-        "pubDate": "2026-08-23T05:23",
-        "feedId": "lobsters"
-      },
-      {
         "title": "nss-userhosts - hosts files for unprivileged users",
         "link": "https://codeberg.org/felixs/nss-userhosts",
         "pubDate": "2026-08-22T15:56",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "‘Huge Breakthrough’ in the Math of Imbalance",
+        "link": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
+        "pubDate": "2026-08-23T05:23",
         "feedId": "lobsters"
       },
       {
