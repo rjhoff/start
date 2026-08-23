@@ -27,15 +27,33 @@
         "feedId": "hn"
       },
       {
-        "title": "Thinking in Python by Bruce Eckel",
+        "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
+        "link": "https://marcua.net/minitools/figmimic/",
+        "pubDate": "2026-08-22T18:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "Thinking in Python",
         "link": "https://thinkinginpython.com/",
         "pubDate": "2026-08-22T18:10",
         "feedId": "hn"
       },
       {
-        "title": "Scrap",
+        "title": "Scrap (2006)",
         "link": "https://twitter.com/moxie/status/2091218652133732491",
         "pubDate": "2026-08-22T18:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "I set a trap for a book-marketing scammer (2025)",
+        "link": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
+        "pubDate": "2026-08-22T18:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "Reading Maps – Journeys from fiction drawn on the real world",
+        "link": "https://readingmaps.com/",
+        "pubDate": "2026-08-22T17:59",
         "feedId": "hn"
       },
       {
@@ -48,18 +66,6 @@
         "title": "A Friendly Introduction to Racket",
         "link": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
         "pubDate": "2026-08-22T14:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "New MCP Roadmap",
-        "link": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-        "pubDate": "2026-08-22T13:31",
-        "feedId": "hn"
-      },
-      {
-        "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
-        "link": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
-        "pubDate": "2026-08-22T13:24",
         "feedId": "hn"
       },
       {
@@ -84,12 +90,6 @@
         "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
         "link": "https://ozbrain.com",
         "pubDate": "2026-08-21T23:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
-        "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
-        "pubDate": "2026-08-21T21:00",
         "feedId": "hn"
       }
     ]
@@ -116,27 +116,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
-        "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-        "pubDate": "2026-08-22T07:27",
-        "feedId": "lobsters"
-      },
-      {
         "title": "A 2026 Survey of Rust GUI Libraries",
         "link": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
         "pubDate": "2026-08-22T17:52",
         "feedId": "lobsters"
       },
       {
-        "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
-        "link": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-        "pubDate": "2026-08-22T16:04",
+        "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
+        "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+        "pubDate": "2026-08-22T07:27",
         "feedId": "lobsters"
       },
       {
         "title": "The cool things of Gleam",
         "link": "https://a.baez.link/3mtdbbp2dmc27",
         "pubDate": "2026-08-22T06:16",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
+        "link": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+        "pubDate": "2026-08-22T16:04",
         "feedId": "lobsters"
       },
       {
@@ -164,6 +164,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Robot comment classifier",
+        "link": "https://entropicthoughts.com/ai-comment-classifier",
+        "pubDate": "2026-08-22T10:18",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The immortal 1984 Macintosh (restoration diary)",
         "link": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
         "pubDate": "2026-08-22T23:17",
@@ -179,12 +185,6 @@
         "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
         "link": "https://lina.sh/blog/hijacking-e164-arpa",
         "pubDate": "2026-08-21T12:05",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Felony Bench: Be AI, Do Crime",
-        "link": "https://www.felonybench.com/",
-        "pubDate": "2026-08-21T17:23",
         "feedId": "lobsters"
       }
     ]
