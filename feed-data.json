@@ -3,9 +3,21 @@
     "id": "hn",
     "items": [
       {
+        "title": "Malware infects Android-based automotive head unit firmware",
+        "link": "https://securelist.com/android-head-unit-malware/121106/",
+        "pubDate": "2026-08-23T13:05",
+        "feedId": "hn"
+      },
+      {
         "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
         "link": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
         "pubDate": "2026-08-23T10:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "Iranian hackers shut down UK power plant for 4 days",
+        "link": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
+        "pubDate": "2026-08-23T10:03",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
         "pubDate": "2026-08-22T19:07",
         "feedId": "hn"
-      },
-      {
-        "title": "Why your local LLM feels dumber than it is",
-        "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-        "pubDate": "2026-08-22T18:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
-        "link": "https://marcua.net/minitools/figmimic/",
-        "pubDate": "2026-08-22T18:11",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,9 +98,21 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "And then the men with guns tell you to do it anyway",
+        "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+        "pubDate": "2026-08-23T12:15",
+        "feedId": "lobsters"
+      },
+      {
         "title": "You should never be angry at work",
         "link": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
         "pubDate": "2026-08-22T12:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Hister - A private, full content search index that you control",
+        "link": "https://hister.org/",
+        "pubDate": "2026-08-23T12:28",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +152,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "And then the men with guns tell you to do it anyway",
-        "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
-        "pubDate": "2026-08-23T12:15",
-        "feedId": "lobsters"
-      },
-      {
         "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
         "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
         "pubDate": "2026-08-22T07:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?",
+        "link": "https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf",
+        "pubDate": "2026-08-23T12:08",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "‘Huge Breakthrough’ in the Math of Imbalance",
-        "link": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
-        "pubDate": "2026-08-23T05:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Compile-Time Improvements in LLVM 23",
-        "link": "https://aengelke.net/llvm23-ct.html",
-        "pubDate": "2026-08-22T06:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Enabling the next-generation trait solver on nightly",
-        "link": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
-        "pubDate": "2026-08-21T15:15",
+        "title": "A Friendly Introduction to Racket",
+        "link": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+        "pubDate": "2026-08-23T12:22",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Dems turning more GOP Senate strongholds into midterm battlegrounds",
+        "link": "https://www.axios.com/2026/08/23/senate-ohio-alaska-iowa-texas-kansas-mississippi-nebraska",
+        "pubDate": "2026-08-23T12:59",
+        "feedId": "axios"
+      },
+      {
         "title": "Synthetic everything is warping America",
         "link": "https://www.axios.com/2026/08/23/median-strategies-poll-fake-bots",
         "pubDate": "2026-08-23T11:40",
@@ -369,12 +375,6 @@
         "title": "A roadmap for safeguarding against AI bioweapons",
         "link": "https://www.axios.com/2026/08/21/safeguards-ai-bioweapons-roadmap",
         "pubDate": "2026-08-21T11:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Kathy Hochul's business-friendly data center plan",
-        "link": "https://www.axios.com/2026/08/21/kathy-hochul-business-friendly-data-center-plan",
-        "pubDate": "2026-08-21T09:30",
         "feedId": "axios"
       }
     ]
