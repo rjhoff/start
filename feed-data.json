@@ -104,21 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "And then the men with guns tell you to do it anyway",
-        "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
-        "pubDate": "2026-08-23T12:15",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Everything I own, owned",
         "link": "https://schlarp.com/posts/everything-i-own-owned/",
         "pubDate": "2026-08-24T03:22",
         "feedId": "lobsters"
       },
       {
-        "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
-        "link": "https://ericpardee.github.io/fire-hd-ownership/",
-        "pubDate": "2026-08-23T15:45",
+        "title": "And then the men with guns tell you to do it anyway",
+        "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+        "pubDate": "2026-08-23T12:15",
         "feedId": "lobsters"
       },
       {
@@ -128,20 +122,14 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+        "link": "https://ericpardee.github.io/fire-hd-ownership/",
+        "pubDate": "2026-08-23T15:45",
+        "feedId": "lobsters"
+      },
+      {
         "title": "An Introduction to Canvas in GNU Emacs",
         "link": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
-        "pubDate": "2026-08-23T14:45",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Hister - A private, full content search index that you control",
-        "link": "https://hister.org/",
-        "pubDate": "2026-08-23T12:28",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "My favorite Computer Science books, and why",
-        "link": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
         "pubDate": "2026-08-23T14:45",
         "feedId": "lobsters"
       },
@@ -152,15 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Building certgrep.sh: a free certificate transparency search engine",
-        "link": "https://haveibeensquatted.com/blog/building-certgrep",
-        "pubDate": "2026-08-24T08:40",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/lo28ad/what_are_you_doing_this_week",
-        "pubDate": "2026-08-24T09:40",
+        "title": "Hister - A private, full content search index that you control",
+        "link": "https://hister.org/",
+        "pubDate": "2026-08-23T12:28",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +152,39 @@
         "feedId": "lobsters"
       },
       {
-        "title": "It's OK. Do Your Thing",
-        "link": "https://buttondown.com/carlton/archive/its-ok-do-your-thing/",
-        "pubDate": "2026-08-23T16:32",
+        "title": "My favorite Computer Science books, and why",
+        "link": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
+        "pubDate": "2026-08-23T14:45",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Emacs 31.1 released",
+        "link": "https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html",
+        "pubDate": "2026-08-24T10:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/lo28ad/what_are_you_doing_this_week",
+        "pubDate": "2026-08-24T09:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "3 constraints before I build anything",
+        "link": "https://jordanlord.co.uk/blog/3-constraints/",
+        "pubDate": "2026-08-24T09:43",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Building certgrep.sh: a free certificate transparency search engine",
+        "link": "https://haveibeensquatted.com/blog/building-certgrep",
+        "pubDate": "2026-08-24T08:40",
         "feedId": "lobsters"
       },
       {
         "title": "Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?",
         "link": "https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf",
         "pubDate": "2026-08-23T12:08",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "My DIY DEF CON Choker Has a Screen On It",
-        "link": "https://www.scd31.com/posts/defcon-choker",
-        "pubDate": "2026-08-23T21:37",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "How new cooling technologies could cut AC electricity demand",
+        "link": "https://www.axios.com/2026/08/24/cooling-buildings-electricity-demand",
+        "pubDate": "2026-08-24T12:30",
+        "feedId": "axios"
+      },
+      {
         "title": "From AI tools to alcohol drops: The unexpected forces driving America's crime decline",
         "link": "https://www.axios.com/2026/08/24/violent-crime-decline-theories",
         "pubDate": "2026-08-24T09:23",
@@ -369,12 +375,6 @@
         "title": "Supreme Court allows Trump's ballroom construction to proceed for now",
         "link": "https://www.axios.com/2026/08/21/trump-ballroom-construction-supreme-court",
         "pubDate": "2026-08-21T21:12",
-        "feedId": "axios"
-      },
-      {
-        "title": "The job application got faster. The job search got worse.",
-        "link": "https://www.axios.com/2026/08/21/job-seekers-ai-hiring-ghost-jobs-trust",
-        "pubDate": "2026-08-21T21:04",
         "feedId": "axios"
       }
     ]
