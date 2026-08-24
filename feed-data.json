@@ -158,21 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "eh: a minimalist vi-like editor",
-        "link": "https://codeberg.org/SirWumpus/eh",
-        "pubDate": "2026-08-23T15:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "tmp.0ut volume 5",
-        "link": "https://tmpout.sh/5/",
-        "pubDate": "2026-08-23T18:49",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Wild AI-related reliability incidents are coming",
-        "link": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
-        "pubDate": "2026-08-23T19:04",
+        "title": "Everything I own, owned",
+        "link": "https://schlarp.com/posts/everything-i-own-owned/",
+        "pubDate": "2026-08-24T03:22",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How To Report A Bug So It Actually Gets Fixed",
-        "link": "https://blog.tymscar.com/posts/howtoreportabug/",
-        "pubDate": "2026-08-23T16:11",
+        "title": "tmp.0ut volume 5",
+        "link": "https://tmpout.sh/5/",
+        "pubDate": "2026-08-23T18:49",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "eh: a minimalist vi-like editor",
+        "link": "https://codeberg.org/SirWumpus/eh",
+        "pubDate": "2026-08-23T15:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Wild AI-related reliability incidents are coming",
+        "link": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
+        "pubDate": "2026-08-23T19:04",
         "feedId": "lobsters"
       }
     ]
