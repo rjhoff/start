@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Everything I own, owned",
-        "link": "https://schlarp.com/posts/everything-i-own-owned/",
-        "pubDate": "2026-08-24T03:22",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Emacs 31.1 released",
         "link": "https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html",
         "pubDate": "2026-08-24T10:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Everything I own, owned",
+        "link": "https://schlarp.com/posts/everything-i-own-owned/",
+        "pubDate": "2026-08-24T03:22",
         "feedId": "lobsters"
       },
       {
@@ -140,6 +140,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/lo28ad/what_are_you_doing_this_week",
+        "pubDate": "2026-08-24T09:40",
+        "feedId": "lobsters"
+      },
+      {
         "title": "offgrid electric car (2025)",
         "link": "https://joeyh.name/blog/entry/offgrid_electric_car/",
         "pubDate": "2026-08-24T00:15",
@@ -158,9 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/lo28ad/what_are_you_doing_this_week",
-        "pubDate": "2026-08-24T09:40",
+        "title": "3 constraints before I build anything",
+        "link": "https://jordanlord.co.uk/blog/3-constraints/",
+        "pubDate": "2026-08-24T09:43",
         "feedId": "lobsters"
       },
       {
@@ -173,12 +179,6 @@
         "title": "Building certgrep.sh: a free certificate transparency search engine",
         "link": "https://haveibeensquatted.com/blog/building-certgrep",
         "pubDate": "2026-08-24T08:40",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "3 constraints before I build anything",
-        "link": "https://jordanlord.co.uk/blog/3-constraints/",
-        "pubDate": "2026-08-24T09:43",
         "feedId": "lobsters"
       },
       {
