@@ -122,21 +122,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Your executable is a SQLite database",
+        "link": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+        "pubDate": "2026-08-24T07:32",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Hister - A private, full content search index that you control",
         "link": "https://hister.org/",
         "pubDate": "2026-08-23T12:28",
         "feedId": "lobsters"
       },
       {
-        "title": "My favorite Computer Science books, and why",
-        "link": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
-        "pubDate": "2026-08-23T14:45",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Everything I own, owned",
         "link": "https://schlarp.com/posts/everything-i-own-owned/",
         "pubDate": "2026-08-24T03:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "My favorite Computer Science books, and why",
+        "link": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
+        "pubDate": "2026-08-23T14:45",
         "feedId": "lobsters"
       },
       {
@@ -167,12 +173,6 @@
         "title": "My DIY DEF CON Choker Has a Screen On It",
         "link": "https://www.scd31.com/posts/defcon-choker",
         "pubDate": "2026-08-23T21:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Your executable is a SQLite database",
-        "link": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-        "pubDate": "2026-08-24T07:32",
         "feedId": "lobsters"
       },
       {
