@@ -98,6 +98,12 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "Your executable is a SQLite database",
+        "link": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+        "pubDate": "2026-08-24T07:32",
+        "feedId": "lobsters"
+      },
+      {
         "title": "And then the men with guns tell you to do it anyway",
         "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
         "pubDate": "2026-08-23T12:15",
@@ -110,27 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "An Introduction to Canvas in GNU Emacs",
-        "link": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
-        "pubDate": "2026-08-23T14:45",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Replicating Reddit's best feature on other forums",
         "link": "https://xavd.id/blog/post/highlighting-users/",
         "pubDate": "2026-08-23T19:23",
         "feedId": "lobsters"
       },
       {
-        "title": "Your executable is a SQLite database",
-        "link": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-        "pubDate": "2026-08-24T07:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Hister - A private, full content search index that you control",
-        "link": "https://hister.org/",
-        "pubDate": "2026-08-23T12:28",
+        "title": "An Introduction to Canvas in GNU Emacs",
+        "link": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
+        "pubDate": "2026-08-23T14:45",
         "feedId": "lobsters"
       },
       {
@@ -140,21 +134,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Hister - A private, full content search index that you control",
+        "link": "https://hister.org/",
+        "pubDate": "2026-08-23T12:28",
+        "feedId": "lobsters"
+      },
+      {
         "title": "My favorite Computer Science books, and why",
         "link": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
         "pubDate": "2026-08-23T14:45",
         "feedId": "lobsters"
       },
       {
-        "title": "Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?",
-        "link": "https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf",
-        "pubDate": "2026-08-23T12:08",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
         "link": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
         "pubDate": "2026-08-23T21:00",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?",
+        "link": "https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf",
+        "pubDate": "2026-08-23T12:08",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "eh: a minimalist vi-like editor",
-        "link": "https://codeberg.org/SirWumpus/eh",
-        "pubDate": "2026-08-23T15:10",
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/lo28ad/what_are_you_doing_this_week",
+        "pubDate": "2026-08-24T09:40",
         "feedId": "lobsters"
       },
       {
-        "title": "tmp.0ut volume 5",
-        "link": "https://tmpout.sh/5/",
-        "pubDate": "2026-08-23T18:49",
+        "title": "Building certgrep.sh: a free certificate transparency search engine",
+        "link": "https://haveibeensquatted.com/blog/building-certgrep",
+        "pubDate": "2026-08-24T08:40",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "From AI tools to alcohol drops: The unexpected forces driving America's crime decline",
+        "link": "https://www.axios.com/2026/08/24/violent-crime-decline-theories",
+        "pubDate": "2026-08-24T09:23",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump says rejecting data centers is \"a mistake\"",
         "link": "https://www.axios.com/2026/08/23/trump-data-centers-michael-cohen-interview",
         "pubDate": "2026-08-23T23:15",
@@ -369,12 +375,6 @@
         "title": "The job application got faster. The job search got worse.",
         "link": "https://www.axios.com/2026/08/21/job-seekers-ai-hiring-ghost-jobs-trust",
         "pubDate": "2026-08-21T21:04",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump's higher ed shakeup starts a new semester",
-        "link": "https://www.axios.com/2026/08/21/trump-higher-ed-shakeup-colleges-fall-semester",
-        "pubDate": "2026-08-21T20:40",
         "feedId": "axios"
       }
     ]
