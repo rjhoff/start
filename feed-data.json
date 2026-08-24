@@ -3,6 +3,30 @@
     "id": "hn",
     "items": [
       {
+        "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
+        "link": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
+        "pubDate": "2026-08-24T21:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+        "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+        "pubDate": "2026-08-24T21:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
+        "link": "https://github.com/l3a0/claude-plugins",
+        "pubDate": "2026-08-24T19:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "Oceans hit highest temperature on record",
+        "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+        "pubDate": "2026-08-24T19:19",
+        "feedId": "hn"
+      },
+      {
         "title": "LLMs could control their host machines by exploiting inference engines",
         "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
         "pubDate": "2026-08-24T19:03",
@@ -27,12 +51,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Your \"File\" Menu Isn't About Files",
-        "link": "https://adam.farkas.pro/your-file-menu-isnt-about-files/",
-        "pubDate": "2026-08-24T18:21",
-        "feedId": "hn"
-      },
-      {
         "title": "What Is a Syslog Server?",
         "link": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
         "pubDate": "2026-08-24T18:15",
@@ -42,6 +60,18 @@
         "title": "Octopus intelligence may be related to never-before-seen mutation",
         "link": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
         "pubDate": "2026-08-24T17:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+        "link": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
+        "pubDate": "2026-08-24T17:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "Where did all the public bathrooms go?",
+        "link": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+        "pubDate": "2026-08-24T17:07",
         "feedId": "hn"
       },
       {
@@ -57,39 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "EuroHPC Launches 6 Quantum Calls with €119M in Funding",
-        "link": "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/",
-        "pubDate": "2026-08-24T16:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
-        "link": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
-        "pubDate": "2026-08-24T16:29",
-        "feedId": "hn"
-      },
-      {
         "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
         "link": "https://glassbox.codecanary.org",
         "pubDate": "2026-08-24T16:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
-        "link": "https://picomq.com/",
-        "pubDate": "2026-08-24T16:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "Coding expertise is going to collapse from AI reliance",
-        "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-        "pubDate": "2026-08-24T15:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "Jabber/XMPP: 25 Years of Digital Independence",
-        "link": "https://gultsch.de/posts/25-years-of-digital-independence/",
-        "pubDate": "2026-08-24T15:51",
         "feedId": "hn"
       }
     ]
@@ -122,6 +122,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Intent to Ship: JPEG XL",
+        "link": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
+        "pubDate": "2026-08-24T16:25",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Perspec 1.0: A Haskell desktop app for perspective correction of document photos",
         "link": "https://adriansieber.com/announcing-perspec-1-0/",
         "pubDate": "2026-08-24T15:03",
@@ -134,33 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Intent to Ship: JPEG XL",
-        "link": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
-        "pubDate": "2026-08-24T16:25",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Everything I own, owned",
         "link": "https://schlarp.com/posts/everything-i-own-owned/",
         "pubDate": "2026-08-24T03:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/lo28ad/what_are_you_doing_this_week",
-        "pubDate": "2026-08-24T09:40",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "And then the men with guns tell you to do it anyway",
-        "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
-        "pubDate": "2026-08-23T12:15",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Replicating Reddit's best feature on other forums",
-        "link": "https://xavd.id/blog/post/highlighting-users/",
-        "pubDate": "2026-08-23T19:23",
         "feedId": "lobsters"
       },
       {
@@ -170,9 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "offgrid electric car (2025)",
-        "link": "https://joeyh.name/blog/entry/offgrid_electric_car/",
-        "pubDate": "2026-08-24T00:15",
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/lo28ad/what_are_you_doing_this_week",
+        "pubDate": "2026-08-24T09:40",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
-        "link": "https://ericpardee.github.io/fire-hd-ownership/",
-        "pubDate": "2026-08-23T15:45",
+        "title": "Replicating Reddit's best feature on other forums",
+        "link": "https://xavd.id/blog/post/highlighting-users/",
+        "pubDate": "2026-08-23T19:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "And then the men with guns tell you to do it anyway",
+        "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+        "pubDate": "2026-08-23T12:15",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "offgrid electric car (2025)",
+        "link": "https://joeyh.name/blog/entry/offgrid_electric_car/",
+        "pubDate": "2026-08-24T00:15",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "AI Coding will Prevent Expertise | Lars Faye",
+        "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+        "pubDate": "2026-08-24T16:20",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "GM vehicles under federal scrutiny after hundreds of reports",
+        "link": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/",
+        "pubDate": "2026-08-24T19:42",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
+        "link": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
+        "pubDate": "2026-08-24T19:19",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Buyer beware: Those mummified remains might carry toxic spores",
         "link": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
@@ -269,24 +281,42 @@
         "link": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
         "pubDate": "2026-08-21T19:32",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
-        "link": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
-        "pubDate": "2026-08-21T19:04",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
-        "link": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
-        "pubDate": "2026-08-21T18:07",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "5 ways Iran's economy is wilting under Trump's pressure",
+        "link": "https://www.axios.com/2026/08/24/trump-iran-sanctions-bessent-economy",
+        "pubDate": "2026-08-24T21:17",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump administration to revoke up to 200,000 visas of asylum seekers",
+        "link": "https://www.axios.com/2026/08/24/trump-visas-asylum-seekers-revoke",
+        "pubDate": "2026-08-24T21:12",
+        "feedId": "axios"
+      },
+      {
+        "title": "Supreme Court upholds Trump's order to overhaul mail-in ballots",
+        "link": "https://www.axios.com/2026/08/24/supreme-court-mail-in-ballot-rules",
+        "pubDate": "2026-08-24T20:59",
+        "feedId": "axios"
+      },
+      {
+        "title": "America's elections are getting caught in a fight over the mail",
+        "link": "https://www.axios.com/2026/08/24/trump-usps-federal-power-state-elections-mail-voting",
+        "pubDate": "2026-08-24T20:47",
+        "feedId": "axios"
+      },
+      {
+        "title": "Flock cameras join data centers as a top AI boogeyman in 2026 midterms",
+        "link": "https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech",
+        "pubDate": "2026-08-24T20:18",
+        "feedId": "axios"
+      },
       {
         "title": "Bessent unveils sanctions designed to cripple Iran",
         "link": "https://www.axios.com/2026/08/24/bessent-dday-iran-secondary-sanctions",
@@ -345,36 +375,6 @@
         "title": "Dems turning more GOP Senate strongholds into midterm battlegrounds",
         "link": "https://www.axios.com/2026/08/23/senate-ohio-alaska-iowa-texas-kansas-mississippi-nebraska",
         "pubDate": "2026-08-23T12:59",
-        "feedId": "axios"
-      },
-      {
-        "title": "Synthetic everything is warping America",
-        "link": "https://www.axios.com/2026/08/23/median-strategies-poll-fake-bots",
-        "pubDate": "2026-08-23T11:40",
-        "feedId": "axios"
-      },
-      {
-        "title": "Flock cameras join data centers as a top AI boogeyman in 2026 midterms",
-        "link": "https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech",
-        "pubDate": "2026-08-23T11:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Mike Rogers-AIPAC rupture roils Michigan Senate race",
-        "link": "https://www.axios.com/2026/08/22/mike-rogers-aipac-michigan-senate",
-        "pubDate": "2026-08-22T18:31",
-        "feedId": "axios"
-      },
-      {
-        "title": "U.S.-Canada trade talks collapse, massive tariffs to take effect",
-        "link": "https://www.axios.com/2026/08/22/us-canada-tariffs-trade-trump-carney",
-        "pubDate": "2026-08-22T15:58",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump finds tamping down costs to be tricky",
-        "link": "https://www.axios.com/2026/08/22/trump-affordability-beef-consumers",
-        "pubDate": "2026-08-22T11:00",
         "feedId": "axios"
       }
     ]
