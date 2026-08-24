@@ -110,6 +110,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Everything I own, owned",
+        "link": "https://schlarp.com/posts/everything-i-own-owned/",
+        "pubDate": "2026-08-24T03:22",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
         "link": "https://ericpardee.github.io/fire-hd-ownership/",
         "pubDate": "2026-08-23T15:45",
@@ -125,12 +131,6 @@
         "title": "An Introduction to Canvas in GNU Emacs",
         "link": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
         "pubDate": "2026-08-23T14:45",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Everything I own, owned",
-        "link": "https://schlarp.com/posts/everything-i-own-owned/",
-        "pubDate": "2026-08-24T03:22",
         "feedId": "lobsters"
       },
       {
@@ -152,27 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?",
-        "link": "https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf",
-        "pubDate": "2026-08-23T12:08",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "It's OK. Do Your Thing",
-        "link": "https://buttondown.com/carlton/archive/its-ok-do-your-thing/",
-        "pubDate": "2026-08-23T16:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "offgrid electric car (2025)",
-        "link": "https://joeyh.name/blog/entry/offgrid_electric_car/",
-        "pubDate": "2026-08-24T00:15",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "My DIY DEF CON Choker Has a Screen On It",
-        "link": "https://www.scd31.com/posts/defcon-choker",
-        "pubDate": "2026-08-23T21:37",
+        "title": "Building certgrep.sh: a free certificate transparency search engine",
+        "link": "https://haveibeensquatted.com/blog/building-certgrep",
+        "pubDate": "2026-08-24T08:40",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Building certgrep.sh: a free certificate transparency search engine",
-        "link": "https://haveibeensquatted.com/blog/building-certgrep",
-        "pubDate": "2026-08-24T08:40",
+        "title": "offgrid electric car (2025)",
+        "link": "https://joeyh.name/blog/entry/offgrid_electric_car/",
+        "pubDate": "2026-08-24T00:15",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "It's OK. Do Your Thing",
+        "link": "https://buttondown.com/carlton/archive/its-ok-do-your-thing/",
+        "pubDate": "2026-08-23T16:32",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?",
+        "link": "https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf",
+        "pubDate": "2026-08-23T12:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "My DIY DEF CON Choker Has a Screen On It",
+        "link": "https://www.scd31.com/posts/defcon-choker",
+        "pubDate": "2026-08-23T21:37",
         "feedId": "lobsters"
       }
     ]
