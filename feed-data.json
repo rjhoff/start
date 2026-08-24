@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+        "link": "https://developer.apple.com/news/?id=1ptvdtcm",
+        "pubDate": "2026-08-24T22:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "Moon",
+        "link": "https://ciechanow.ski/moon/",
+        "pubDate": "2026-08-24T22:06",
+        "feedId": "hn"
+      },
+      {
         "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
         "link": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
         "pubDate": "2026-08-24T21:03",
@@ -79,18 +91,6 @@
         "link": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
         "pubDate": "2026-08-24T17:07",
         "feedId": "hn"
-      },
-      {
-        "title": "The entire city of San Francisco as a video game",
-        "link": "https://sf.thijs.gg/",
-        "pubDate": "2026-08-24T17:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
-        "link": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
-        "pubDate": "2026-08-24T16:52",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Emacs 31.1 released",
-        "link": "https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html",
-        "pubDate": "2026-08-24T10:52",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Intent to Ship: JPEG XL",
         "link": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
         "pubDate": "2026-08-24T16:25",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Emacs 31.1 released",
+        "link": "https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html",
+        "pubDate": "2026-08-24T10:52",
         "feedId": "lobsters"
       },
       {
@@ -146,21 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Dynamically Naming Servers",
-        "link": "https://arch.dog/bark/dynamically-naming-servers",
-        "pubDate": "2026-08-24T14:36",
-        "feedId": "lobsters"
-      },
-      {
         "title": "AI Coding will Prevent Expertise",
         "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
         "pubDate": "2026-08-24T16:20",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/lo28ad/what_are_you_doing_this_week",
-        "pubDate": "2026-08-24T09:40",
         "feedId": "lobsters"
       },
       {
@@ -170,15 +158,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Replicating Reddit's best feature on other forums",
-        "link": "https://xavd.id/blog/post/highlighting-users/",
-        "pubDate": "2026-08-23T19:23",
+        "title": "Dynamically Naming Servers",
+        "link": "https://arch.dog/bark/dynamically-naming-servers",
+        "pubDate": "2026-08-24T14:36",
         "feedId": "lobsters"
       },
       {
-        "title": "And then the men with guns tell you to do it anyway",
-        "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
-        "pubDate": "2026-08-23T12:15",
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/lo28ad/what_are_you_doing_this_week",
+        "pubDate": "2026-08-24T09:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Replicating Reddit's best feature on other forums",
+        "link": "https://xavd.id/blog/post/highlighting-users/",
+        "pubDate": "2026-08-23T19:23",
         "feedId": "lobsters"
       },
       {
@@ -186,12 +180,42 @@
         "link": "https://joeyh.name/blog/entry/offgrid_electric_car/",
         "pubDate": "2026-08-24T00:15",
         "feedId": "lobsters"
+      },
+      {
+        "title": "And then the men with guns tell you to do it anyway",
+        "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+        "pubDate": "2026-08-23T12:15",
+        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+        "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+        "pubDate": "2026-08-24T21:45",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Data centers become \"killer application\" for new power transformer tech",
+        "link": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
+        "pubDate": "2026-08-24T21:32",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "RFK Jr. may upend how vaccine recommendations are categorized",
+        "link": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
+        "pubDate": "2026-08-24T21:04",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
+        "link": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
+        "pubDate": "2026-08-24T20:17",
+        "feedId": "arstechnica"
+      },
       {
         "title": "GM vehicles under federal scrutiny after hundreds of reports",
         "link": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/",
@@ -257,30 +281,6 @@
         "link": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
         "pubDate": "2026-08-22T11:08",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Trump's space transportation policy calls for new spaceport on federal land",
-        "link": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
-        "pubDate": "2026-08-21T23:32",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Thunder + fiber-optic cabling used for seismic imaging",
-        "link": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
-        "pubDate": "2026-08-21T20:26",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
-        "link": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
-        "pubDate": "2026-08-21T20:10",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
-        "link": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
-        "pubDate": "2026-08-21T19:32",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -290,7 +290,7 @@
       {
         "title": "Supreme Court upholds Trump's order to overhaul mail-in ballots",
         "link": "https://www.axios.com/2026/08/24/supreme-court-mail-in-ballot-rules",
-        "pubDate": "2026-08-24T22:02",
+        "pubDate": "2026-08-24T22:38",
         "feedId": "axios"
       },
       {
