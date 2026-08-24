@@ -128,21 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
-        "link": "https://ericpardee.github.io/fire-hd-ownership/",
-        "pubDate": "2026-08-23T15:45",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What are you doing this week?",
         "link": "https://lobste.rs/s/lo28ad/what_are_you_doing_this_week",
         "pubDate": "2026-08-24T09:40",
         "feedId": "lobsters"
       },
       {
-        "title": "An Introduction to Canvas in GNU Emacs",
-        "link": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
-        "pubDate": "2026-08-23T14:45",
+        "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+        "link": "https://ericpardee.github.io/fire-hd-ownership/",
+        "pubDate": "2026-08-23T15:45",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
-        "link": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
-        "pubDate": "2026-08-23T21:00",
+        "title": "An Introduction to Canvas in GNU Emacs",
+        "link": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
+        "pubDate": "2026-08-23T14:45",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +158,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
+        "link": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
+        "pubDate": "2026-08-23T21:00",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Perspec 1.0: A Haskell desktop app for perspective correction of document photos",
+        "link": "https://adriansieber.com/announcing-perspec-1-0/",
+        "pubDate": "2026-08-24T15:03",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Control and complexity: tension in systems design",
+        "link": "https://ferd.ca/control-and-complexity-tension-in-systems-design.html",
+        "pubDate": "2026-08-24T11:58",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Hister - A private, full content search index that you control",
         "link": "https://hister.org/",
         "pubDate": "2026-08-23T12:28",
         "feedId": "lobsters"
       },
       {
-        "title": "Dynamically Naming Servers",
-        "link": "https://arch.dog/bark/dynamically-naming-servers",
-        "pubDate": "2026-08-24T14:36",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "My favorite Computer Science books, and why",
-        "link": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
-        "pubDate": "2026-08-23T14:45",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Micro language implementation: Calcium",
-        "link": "https://nedbatchelder.com/blog/202608/micro_language_implementation_calcium",
-        "pubDate": "2026-08-24T13:56",
+        "title": "Building certgrep.sh: a free certificate transparency search engine",
+        "link": "https://haveibeensquatted.com/blog/building-certgrep",
+        "pubDate": "2026-08-24T08:40",
         "feedId": "lobsters"
       }
     ]
