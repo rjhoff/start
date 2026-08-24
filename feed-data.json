@@ -104,27 +104,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "An Introduction to Canvas in GNU Emacs",
-        "link": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
-        "pubDate": "2026-08-23T14:45",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
         "link": "https://ericpardee.github.io/fire-hd-ownership/",
         "pubDate": "2026-08-23T15:45",
         "feedId": "lobsters"
       },
       {
-        "title": "Hister - A private, full content search index that you control",
-        "link": "https://hister.org/",
-        "pubDate": "2026-08-23T12:28",
+        "title": "An Introduction to Canvas in GNU Emacs",
+        "link": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
+        "pubDate": "2026-08-23T14:45",
         "feedId": "lobsters"
       },
       {
         "title": "Replicating Reddit's best feature on other forums",
         "link": "https://xavd.id/blog/post/highlighting-users/",
         "pubDate": "2026-08-23T19:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Hister - A private, full content search index that you control",
+        "link": "https://hister.org/",
+        "pubDate": "2026-08-23T12:28",
         "feedId": "lobsters"
       },
       {
@@ -152,6 +152,24 @@
         "feedId": "lobsters"
       },
       {
+        "title": "My DIY DEF CON Choker Has a Screen On It",
+        "link": "https://www.scd31.com/posts/defcon-choker",
+        "pubDate": "2026-08-23T21:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "tmp.0ut volume 5",
+        "link": "https://tmpout.sh/5/",
+        "pubDate": "2026-08-23T18:49",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Wild AI-related reliability incidents are coming",
+        "link": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
+        "pubDate": "2026-08-23T19:04",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
         "link": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
         "pubDate": "2026-08-23T21:00",
@@ -164,27 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "tmp.0ut volume 5",
-        "link": "https://tmpout.sh/5/",
-        "pubDate": "2026-08-23T18:49",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "My DIY DEF CON Choker Has a Screen On It",
-        "link": "https://www.scd31.com/posts/defcon-choker",
-        "pubDate": "2026-08-23T21:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Wild AI-related reliability incidents are coming",
-        "link": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
-        "pubDate": "2026-08-23T19:04",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "clicky: A clickwheel iPod emulator",
-        "link": "https://github.com/daniel5151/clicky",
-        "pubDate": "2026-08-23T14:46",
+        "title": "offgrid electric car (2025)",
+        "link": "https://joeyh.name/blog/entry/offgrid_electric_car/",
+        "pubDate": "2026-08-24T00:15",
         "feedId": "lobsters"
       }
     ]
