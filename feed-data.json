@@ -15,12 +15,6 @@
         "feedId": "hn"
       },
       {
-        "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
-        "link": "https://github.com/l3a0/claude-plugins",
-        "pubDate": "2026-08-24T19:32",
-        "feedId": "hn"
-      },
-      {
         "title": "Oceans hit highest temperature on record",
         "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
         "pubDate": "2026-08-24T19:19",
@@ -69,6 +63,18 @@
         "feedId": "hn"
       },
       {
+        "title": "Fences, Not Sandboxes",
+        "link": "https://yegge.ai/essays/fences-not-sandboxes/",
+        "pubDate": "2026-08-24T17:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "Agent Lightning v1.0",
+        "link": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
+        "pubDate": "2026-08-24T17:23",
+        "feedId": "hn"
+      },
+      {
         "title": "Where did all the public bathrooms go?",
         "link": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
         "pubDate": "2026-08-24T17:07",
@@ -84,12 +90,6 @@
         "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
         "link": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
         "pubDate": "2026-08-24T16:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
-        "link": "https://glassbox.codecanary.org",
-        "pubDate": "2026-08-24T16:15",
         "feedId": "hn"
       }
     ]
@@ -116,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Can a blog post be handwritten?",
-        "link": "https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/",
-        "pubDate": "2026-08-24T16:18",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Intent to Ship: JPEG XL",
         "link": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
         "pubDate": "2026-08-24T16:25",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Can a blog post be handwritten?",
+        "link": "https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/",
+        "pubDate": "2026-08-24T16:18",
         "feedId": "lobsters"
       },
       {
@@ -149,6 +149,12 @@
         "title": "Dynamically Naming Servers",
         "link": "https://arch.dog/bark/dynamically-naming-servers",
         "pubDate": "2026-08-24T14:36",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "AI Coding will Prevent Expertise",
+        "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+        "pubDate": "2026-08-24T16:20",
         "feedId": "lobsters"
       },
       {
@@ -179,12 +185,6 @@
         "title": "offgrid electric car (2025)",
         "link": "https://joeyh.name/blog/entry/offgrid_electric_car/",
         "pubDate": "2026-08-24T00:15",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "AI Coding will Prevent Expertise | Lars Faye",
-        "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-        "pubDate": "2026-08-24T16:20",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "Supreme Court upholds Trump's order to overhaul mail-in ballots",
+        "link": "https://www.axios.com/2026/08/24/supreme-court-mail-in-ballot-rules",
+        "pubDate": "2026-08-24T22:02",
+        "feedId": "axios"
+      },
+      {
+        "title": "America's elections are getting caught in a fight over the mail",
+        "link": "https://www.axios.com/2026/08/24/trump-usps-federal-power-state-elections-mail-voting",
+        "pubDate": "2026-08-24T21:54",
+        "feedId": "axios"
+      },
+      {
         "title": "5 ways Iran's economy is wilting under Trump's pressure",
         "link": "https://www.axios.com/2026/08/24/trump-iran-sanctions-bessent-economy",
         "pubDate": "2026-08-24T21:17",
@@ -297,18 +309,6 @@
         "title": "Trump administration to revoke up to 200,000 visas of asylum seekers",
         "link": "https://www.axios.com/2026/08/24/trump-visas-asylum-seekers-revoke",
         "pubDate": "2026-08-24T21:12",
-        "feedId": "axios"
-      },
-      {
-        "title": "Supreme Court upholds Trump's order to overhaul mail-in ballots",
-        "link": "https://www.axios.com/2026/08/24/supreme-court-mail-in-ballot-rules",
-        "pubDate": "2026-08-24T20:59",
-        "feedId": "axios"
-      },
-      {
-        "title": "America's elections are getting caught in a fight over the mail",
-        "link": "https://www.axios.com/2026/08/24/trump-usps-federal-power-state-elections-mail-voting",
-        "pubDate": "2026-08-24T20:47",
         "feedId": "axios"
       },
       {
