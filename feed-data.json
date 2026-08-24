@@ -134,15 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "An Introduction to Canvas in GNU Emacs",
-        "link": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
-        "pubDate": "2026-08-23T14:45",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What are you doing this week?",
         "link": "https://lobste.rs/s/lo28ad/what_are_you_doing_this_week",
         "pubDate": "2026-08-24T09:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "An Introduction to Canvas in GNU Emacs",
+        "link": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
+        "pubDate": "2026-08-23T14:45",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +158,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "3 constraints before I build anything",
+        "link": "https://jordanlord.co.uk/blog/3-constraints/",
+        "pubDate": "2026-08-24T09:43",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Hister - A private, full content search index that you control",
         "link": "https://hister.org/",
         "pubDate": "2026-08-23T12:28",
         "feedId": "lobsters"
       },
       {
-        "title": "3 constraints before I build anything",
-        "link": "https://jordanlord.co.uk/blog/3-constraints/",
-        "pubDate": "2026-08-24T09:43",
+        "title": "Dynamically Naming Servers",
+        "link": "https://arch.dog/bark/dynamically-naming-servers",
+        "pubDate": "2026-08-24T14:36",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Building certgrep.sh: a free certificate transparency search engine",
-        "link": "https://haveibeensquatted.com/blog/building-certgrep",
-        "pubDate": "2026-08-24T08:40",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "My DIY DEF CON Choker Has a Screen On It",
-        "link": "https://www.scd31.com/posts/defcon-choker",
-        "pubDate": "2026-08-23T21:37",
+        "title": "Micro language implementation: Calcium",
+        "link": "https://nedbatchelder.com/blog/202608/micro_language_implementation_calcium",
+        "pubDate": "2026-08-24T13:56",
         "feedId": "lobsters"
       }
     ]
