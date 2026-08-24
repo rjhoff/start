@@ -146,15 +146,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "eh: a minimalist vi-like editor",
-        "link": "https://codeberg.org/SirWumpus/eh",
-        "pubDate": "2026-08-23T15:10",
+        "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
+        "link": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
+        "pubDate": "2026-08-23T21:00",
         "feedId": "lobsters"
       },
       {
         "title": "My DIY DEF CON Choker Has a Screen On It",
         "link": "https://www.scd31.com/posts/defcon-choker",
         "pubDate": "2026-08-23T21:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "eh: a minimalist vi-like editor",
+        "link": "https://codeberg.org/SirWumpus/eh",
+        "pubDate": "2026-08-23T15:10",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
-        "link": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
-        "pubDate": "2026-08-23T21:00",
+        "title": "offgrid electric car (2025)",
+        "link": "https://joeyh.name/blog/entry/offgrid_electric_car/",
+        "pubDate": "2026-08-24T00:15",
         "feedId": "lobsters"
       },
       {
         "title": "How To Report A Bug So It Actually Gets Fixed",
         "link": "https://blog.tymscar.com/posts/howtoreportabug/",
         "pubDate": "2026-08-23T16:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "offgrid electric car (2025)",
-        "link": "https://joeyh.name/blog/entry/offgrid_electric_car/",
-        "pubDate": "2026-08-24T00:15",
         "feedId": "lobsters"
       }
     ]
