@@ -3,15 +3,15 @@
     "id": "hn",
     "items": [
       {
-        "title": "FDA Authorizes First Wearable Device That Monitors Ketone and Glucose Levels",
-        "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-        "pubDate": "2026-08-25T19:07",
+        "title": "Perplexity Portable Computer",
+        "link": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
+        "pubDate": "2026-08-25T19:41",
         "feedId": "hn"
       },
       {
-        "title": "Dolly Parton Has Died",
-        "link": "https://en.wikipedia.org/wiki/Dolly_Parton",
-        "pubDate": "2026-08-25T18:43",
+        "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+        "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+        "pubDate": "2026-08-25T19:07",
         "feedId": "hn"
       },
       {
@@ -98,15 +98,21 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "I stabilized never type",
+        "link": "https://blog.ihatereality.space/0C-never-type/",
+        "pubDate": "2026-08-25T15:11",
+        "feedId": "lobsters"
+      },
+      {
         "title": "MNT Station - A modular, open hardware desktop computer and server",
         "link": "https://www.crowdsupply.com/mnt-research/mnt-station",
         "pubDate": "2026-08-25T11:16",
         "feedId": "lobsters"
       },
       {
-        "title": "I stabilized never type",
-        "link": "https://blog.ihatereality.space/0C-never-type/",
-        "pubDate": "2026-08-25T15:11",
+        "title": "The Move to Python 3 Begins",
+        "link": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+        "pubDate": "2026-08-25T16:52",
         "feedId": "lobsters"
       },
       {
@@ -122,21 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "An interactive introduction to the spanning tree protocol",
-        "link": "https://vincent.bernat.ch/en/blog/2026-spanning-tree",
-        "pubDate": "2026-08-25T12:06",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Move to Python 3 Begins",
-        "link": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-        "pubDate": "2026-08-25T16:52",
-        "feedId": "lobsters"
-      },
-      {
         "title": "C2PA Cameras Do Not Survive Contact With Reality",
         "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
         "pubDate": "2026-08-25T15:51",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "An interactive introduction to the spanning tree protocol",
+        "link": "https://vincent.bernat.ch/en/blog/2026-spanning-tree",
+        "pubDate": "2026-08-25T12:06",
         "feedId": "lobsters"
       },
       {
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "House Democrats' pro-Israel wing gains power on panel overseeing foreign policy",
+        "link": "https://www.axios.com/2026/08/25/democrats-israel-moskowitz-house-foreign-affairs",
+        "pubDate": "2026-08-25T19:49",
+        "feedId": "axios"
+      },
+      {
         "title": "Kennedy Center's survival depends on Trump, DOJ says in new filing",
         "link": "https://www.axios.com/2026/08/25/trump-kennedy-center-taken-down",
         "pubDate": "2026-08-25T18:46",
@@ -369,12 +375,6 @@
         "title": "Trump administration to revoke up to 200,000 visas of asylum seekers",
         "link": "https://www.axios.com/2026/08/24/trump-visas-asylum-seekers-revoke",
         "pubDate": "2026-08-24T21:12",
-        "feedId": "axios"
-      },
-      {
-        "title": "Flock cameras join data centers as a top AI boogeyman in 2026 midterms",
-        "link": "https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech",
-        "pubDate": "2026-08-24T20:18",
         "feedId": "axios"
       }
     ]
