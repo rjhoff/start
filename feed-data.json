@@ -3,21 +3,21 @@
     "id": "hn",
     "items": [
       {
+        "title": "Thomson Reuters Launches Its Own Frontier Model",
+        "link": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+        "pubDate": "2026-08-25T02:11",
+        "feedId": "hn"
+      },
+      {
         "title": "How Universities Should Prepare Founders",
         "link": "https://paulgraham.com/prepare.html",
         "pubDate": "2026-08-25T01:40",
         "feedId": "hn"
       },
       {
-        "title": "Was Modern Art a CIA Psy-Op?",
+        "title": "Was Modern Art a CIA Psy-Op? (2020)",
         "link": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
         "pubDate": "2026-08-25T01:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "What languages are agent skills written in?",
-        "link": "https://plicara.ai/research/agent-skill-languages/",
-        "pubDate": "2026-08-25T00:52",
         "feedId": "hn"
       },
       {
@@ -87,9 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Where did all the public bathrooms go?",
-        "link": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-        "pubDate": "2026-08-24T17:07",
+        "title": "Fences, Not Sandboxes",
+        "link": "https://yegge.ai/essays/fences-not-sandboxes/",
+        "pubDate": "2026-08-24T17:28",
         "feedId": "hn"
       }
     ]
@@ -158,6 +158,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "distributed identity",
+        "link": "https://jyn.dev/distributed-identity/",
+        "pubDate": "2026-08-24T21:28",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Dynamically Naming Servers",
         "link": "https://arch.dog/bark/dynamically-naming-servers",
         "pubDate": "2026-08-24T14:36",
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "distributed identity",
-        "link": "https://jyn.dev/distributed-identity/",
-        "pubDate": "2026-08-24T21:28",
+        "title": "POP-2000, a lingua-franca POP-2 dialect",
+        "link": "https://hitogata.neocities.org/POP-2000",
+        "pubDate": "2026-08-25T02:44",
         "feedId": "lobsters"
       },
       {
         "title": "3 constraints before I build anything",
         "link": "https://jordanlord.co.uk/blog/3-constraints/",
         "pubDate": "2026-08-24T09:43",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Replicating Reddit's best feature on other forums",
-        "link": "https://xavd.id/blog/post/highlighting-users/",
-        "pubDate": "2026-08-23T19:23",
         "feedId": "lobsters"
       }
     ]
