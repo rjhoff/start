@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "Quantum battery upends the rules of charging",
+        "link": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
+        "pubDate": "2026-08-25T10:34",
+        "feedId": "hn"
+      },
+      {
         "title": "Why some US restaurants are banning tips",
         "link": "https://www.bbc.com/news/articles/c4g36yze692o",
         "pubDate": "2026-08-25T10:09",
@@ -85,12 +91,6 @@
         "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
         "pubDate": "2026-08-24T19:03",
         "feedId": "hn"
-      },
-      {
-        "title": "Octopus intelligence may be related to never-before-seen mutation",
-        "link": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
-        "pubDate": "2026-08-24T17:57",
-        "feedId": "hn"
       }
     ]
   },
@@ -122,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Emacs 31.1 released",
-        "link": "https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html",
-        "pubDate": "2026-08-24T10:52",
-        "feedId": "lobsters"
-      },
-      {
         "title": "AI Coding will Prevent Expertise",
         "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
         "pubDate": "2026-08-24T16:20",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Emacs 31.1 released",
+        "link": "https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html",
+        "pubDate": "2026-08-24T10:52",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +140,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Solving the 1+N query problem",
+        "link": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
+        "pubDate": "2026-08-25T08:25",
+        "feedId": "lobsters"
+      },
+      {
         "title": "IPython is All You Need",
         "link": "https://nathancooper.io/blog/2026-08-10-ipython-is-all-you-need",
         "pubDate": "2026-08-24T15:24",
         "feedId": "lobsters"
       },
       {
-        "title": "Solving the 1+N query problem",
-        "link": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
-        "pubDate": "2026-08-25T08:25",
+        "title": "Migrating from Codeberg Pages to an OpenBSD VPS",
+        "link": "https://nemin.hu/vps/index.html",
+        "pubDate": "2026-08-25T10:42",
         "feedId": "lobsters"
       },
       {
@@ -158,27 +164,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Routeup – stable local HTTPS URLs and opt-in public tunnels",
-        "link": "https://routeup.dev",
-        "pubDate": "2026-08-24T19:08",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Everything I own, owned",
-        "link": "https://schlarp.com/posts/everything-i-own-owned/",
-        "pubDate": "2026-08-24T03:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Dynamically Naming Servers",
-        "link": "https://arch.dog/bark/dynamically-naming-servers",
-        "pubDate": "2026-08-24T14:36",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Galaxium, a WebGPU universe explorer",
         "link": "https://galaxium.app",
         "pubDate": "2026-08-25T09:33",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Porffor goes alpha August 11th",
+        "link": "https://honk.foo/porffor-alpha/",
+        "pubDate": "2026-08-25T10:01",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Routeup – stable local HTTPS URLs and opt-in public tunnels",
+        "link": "https://routeup.dev",
+        "pubDate": "2026-08-24T19:08",
         "feedId": "lobsters"
       },
       {
