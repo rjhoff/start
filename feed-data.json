@@ -3,9 +3,21 @@
     "id": "hn",
     "items": [
       {
+        "title": "'Never seen this level of objection': Scotland pushes back against datacentres",
+        "link": "https://www.theguardian.com/uk-news/2026/aug/25/never-seen-this-level-of-objection-scotland-pushes-back-against-datacentre-boom",
+        "pubDate": "2026-08-25T07:35",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: Screen memory without screenshots, just text to Markdown",
         "link": "https://github.com/dragthelake/ambient-context",
         "pubDate": "2026-08-25T04:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Volcanoes that made history",
+        "link": "https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history",
+        "pubDate": "2026-08-25T04:09",
         "feedId": "hn"
       },
       {
@@ -63,6 +75,12 @@
         "feedId": "hn"
       },
       {
+        "title": "Oceans hit highest temperature on record",
+        "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+        "pubDate": "2026-08-24T19:19",
+        "feedId": "hn"
+      },
+      {
         "title": "LLMs could control their host machines by exploiting inference engines",
         "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
         "pubDate": "2026-08-24T19:03",
@@ -72,24 +90,6 @@
         "title": "Octopus intelligence may be related to never-before-seen mutation",
         "link": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
         "pubDate": "2026-08-24T17:57",
-        "feedId": "hn"
-      },
-      {
-        "title": "Where did all the public bathrooms go?",
-        "link": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-        "pubDate": "2026-08-24T17:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "The entire city of San Francisco as a video game",
-        "link": "https://sf.thijs.gg/",
-        "pubDate": "2026-08-24T17:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
-        "link": "https://github.com/ovenpasta/adi2",
-        "pubDate": "2026-08-24T16:30",
         "feedId": "hn"
       }
     ]
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Your executable is a SQLite database",
-        "link": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-        "pubDate": "2026-08-24T07:32",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Intent to Ship: JPEG XL",
         "link": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
         "pubDate": "2026-08-24T16:25",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Your executable is a SQLite database",
+        "link": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+        "pubDate": "2026-08-24T07:32",
         "feedId": "lobsters"
       },
       {
@@ -158,6 +158,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Solving the 1+N query problem",
+        "link": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
+        "pubDate": "2026-08-25T08:25",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Everything I own, owned",
         "link": "https://schlarp.com/posts/everything-i-own-owned/",
         "pubDate": "2026-08-24T03:22",
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/lo28ad/what_are_you_doing_this_week",
-        "pubDate": "2026-08-24T09:40",
-        "feedId": "lobsters"
-      },
-      {
         "title": "POP-2000, a lingua-franca POP-2 dialect",
         "link": "https://hitogata.neocities.org/POP-2000",
         "pubDate": "2026-08-25T02:44",
         "feedId": "lobsters"
       },
       {
-        "title": "3 constraints before I build anything",
-        "link": "https://jordanlord.co.uk/blog/3-constraints/",
-        "pubDate": "2026-08-24T09:43",
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/lo28ad/what_are_you_doing_this_week",
+        "pubDate": "2026-08-24T09:40",
         "feedId": "lobsters"
       }
     ]
