@@ -3,13 +3,25 @@
     "id": "hn",
     "items": [
       {
+        "title": "Iran Is Using Foreign Criminals to Attack Its Critics Overseas",
+        "link": "https://www.newyorker.com/news/letter-from-the-uk/iran-is-using-foreign-criminals-to-attack-its-critics-overseas",
+        "pubDate": "2026-08-24T23:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+        "link": "https://github.com/murerkinn/bookshelf",
+        "pubDate": "2026-08-24T23:00",
+        "feedId": "hn"
+      },
+      {
         "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
         "link": "https://developer.apple.com/news/?id=1ptvdtcm",
         "pubDate": "2026-08-24T22:13",
         "feedId": "hn"
       },
       {
-        "title": "Moon",
+        "title": "Moon (2024)",
         "link": "https://ciechanow.ski/moon/",
         "pubDate": "2026-08-24T22:06",
         "feedId": "hn"
@@ -51,12 +63,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
-        "link": "https://github.com/getkern/kern",
-        "pubDate": "2026-08-24T18:24",
-        "feedId": "hn"
-      },
-      {
         "title": "What Is a Syslog Server?",
         "link": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
         "pubDate": "2026-08-24T18:15",
@@ -72,12 +78,6 @@
         "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
         "link": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
         "pubDate": "2026-08-24T17:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "Fences, Not Sandboxes",
-        "link": "https://yegge.ai/essays/fences-not-sandboxes/",
-        "pubDate": "2026-08-24T17:28",
         "feedId": "hn"
       },
       {
@@ -134,6 +134,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "AI Coding will Prevent Expertise",
+        "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+        "pubDate": "2026-08-24T16:20",
+        "feedId": "lobsters"
+      },
+      {
         "title": "IPython is All You Need",
         "link": "https://nathancooper.io/blog/2026-08-10-ipython-is-all-you-need",
         "pubDate": "2026-08-24T15:24",
@@ -143,12 +149,6 @@
         "title": "Everything I own, owned",
         "link": "https://schlarp.com/posts/everything-i-own-owned/",
         "pubDate": "2026-08-24T03:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "AI Coding will Prevent Expertise",
-        "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-        "pubDate": "2026-08-24T16:20",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "And then the men with guns tell you to do it anyway",
-        "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
-        "pubDate": "2026-08-23T12:15",
+        "title": "3 constraints before I build anything",
+        "link": "https://jordanlord.co.uk/blog/3-constraints/",
+        "pubDate": "2026-08-24T09:43",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Mark Carney's defiance of Trump has Canada cheering",
+        "link": "https://www.axios.com/2026/08/24/carney-trump-tariffs-us-canada-liberal-leader-support",
+        "pubDate": "2026-08-24T23:36",
+        "feedId": "axios"
+      },
+      {
         "title": "Supreme Court upholds Trump's order to overhaul mail-in ballots",
         "link": "https://www.axios.com/2026/08/24/supreme-court-mail-in-ballot-rules",
         "pubDate": "2026-08-24T22:38",
@@ -369,12 +375,6 @@
         "title": "Scoop: Syria and Israel move to defuse tensions after airbase bombing",
         "link": "https://www.axios.com/2026/08/23/syria-israel-turkey-airbase-bombing",
         "pubDate": "2026-08-23T16:08",
-        "feedId": "axios"
-      },
-      {
-        "title": "Dems turning more GOP Senate strongholds into midterm battlegrounds",
-        "link": "https://www.axios.com/2026/08/23/senate-ohio-alaska-iowa-texas-kansas-mississippi-nebraska",
-        "pubDate": "2026-08-23T12:59",
         "feedId": "axios"
       }
     ]
