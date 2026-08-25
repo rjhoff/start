@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool",
+        "link": "https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN",
+        "pubDate": "2026-08-25T21:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Python's pre-declared constants are kinda weird",
+        "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
+        "pubDate": "2026-08-25T21:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "XCancel also down, at least for time being",
+        "link": "https://news.ycombinator.com/item?id=49440786",
+        "pubDate": "2026-08-25T21:18",
+        "feedId": "hn"
+      },
+      {
         "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
         "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
         "pubDate": "2026-08-25T20:49",
@@ -12,6 +30,12 @@
         "title": "C2PA Cameras Do Not Survive Contact with Reality",
         "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
         "pubDate": "2026-08-25T19:38",
+        "feedId": "hn"
+      },
+      {
+        "title": "A brief history of federal lift ticket regulation",
+        "link": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
+        "pubDate": "2026-08-25T19:25",
         "feedId": "hn"
       },
       {
@@ -45,12 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Lightweight system monitor for Linux VPS written in Go",
-        "link": "https://github.com/leodeim/vpsmon",
-        "pubDate": "2026-08-25T17:13",
-        "feedId": "hn"
-      },
-      {
         "title": "Nitter project received cease and desist",
         "link": "https://github.com/zedeus/nitter/issues/1442",
         "pubDate": "2026-08-25T17:08",
@@ -73,24 +91,6 @@
         "link": "https://rorz.io/writing/my-friend-aaron",
         "pubDate": "2026-08-25T16:53",
         "feedId": "hn"
-      },
-      {
-        "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
-        "link": "https://github.com/jeffhajewski/latticedb",
-        "pubDate": "2026-08-25T16:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "Starbase, LA",
-        "link": "https://www.spacex.com/sites/starbase-la",
-        "pubDate": "2026-08-25T16:37",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tooltips need a delay, and then they need to skip it",
-        "link": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-        "pubDate": "2026-08-25T16:35",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "I stabilized never type",
-        "link": "https://blog.ihatereality.space/0C-never-type/",
-        "pubDate": "2026-08-25T15:11",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The Move to Python 3 Begins",
         "link": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
         "pubDate": "2026-08-25T16:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I stabilized never type",
+        "link": "https://blog.ihatereality.space/0C-never-type/",
+        "pubDate": "2026-08-25T15:11",
         "feedId": "lobsters"
       },
       {
@@ -193,6 +193,12 @@
     "id": "arstechnica",
     "items": [
       {
+        "title": "World humanoid robot games show runners breaking records, bursting into flames",
+        "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+        "pubDate": "2026-08-25T20:59",
+        "feedId": "arstechnica"
+      },
+      {
         "title": "Preserving glow-in-the-dark art and fashion for future generations",
         "link": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
         "pubDate": "2026-08-25T18:59",
@@ -275,18 +281,18 @@
         "link": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
         "pubDate": "2026-08-24T19:19",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Buyer beware: Those mummified remains might carry toxic spores",
-        "link": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
-        "pubDate": "2026-08-24T16:59",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Rubio tells allies U.S. shifting from strikes to sanctions on Iran",
+        "link": "https://www.axios.com/2026/08/25/rubio-iran-war-hormuz-oil",
+        "pubDate": "2026-08-25T21:29",
+        "feedId": "axios"
+      },
       {
         "title": "Trump administration violated court order on mail-voting rules, judge says",
         "link": "https://www.axios.com/2026/08/25/usps-mail-voting-rule-injunction",
@@ -369,12 +375,6 @@
         "title": "America's elections are getting caught in a fight over the mail",
         "link": "https://www.axios.com/2026/08/24/trump-usps-federal-power-state-elections-mail-voting",
         "pubDate": "2026-08-24T21:54",
-        "feedId": "axios"
-      },
-      {
-        "title": "5 ways Iran's economy is wilting under Trump's pressure",
-        "link": "https://www.axios.com/2026/08/24/trump-iran-sanctions-bessent-economy",
-        "pubDate": "2026-08-24T21:17",
         "feedId": "axios"
       }
     ]
