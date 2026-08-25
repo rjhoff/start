@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "Headlong: A Microharness for Persistent Agents",
+        "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+        "pubDate": "2026-08-25T03:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?",
+        "link": "https://news.ycombinator.com/item?id=49428842",
+        "pubDate": "2026-08-25T03:46",
+        "feedId": "hn"
+      },
+      {
         "title": "Thomson Reuters Launches Its Own Frontier Model",
         "link": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
         "pubDate": "2026-08-25T02:11",
@@ -12,12 +24,6 @@
         "title": "How Universities Should Prepare Founders",
         "link": "https://paulgraham.com/prepare.html",
         "pubDate": "2026-08-25T01:40",
-        "feedId": "hn"
-      },
-      {
-        "title": "Was Modern Art a CIA Psy-Op? (2020)",
-        "link": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
-        "pubDate": "2026-08-25T01:35",
         "feedId": "hn"
       },
       {
@@ -63,18 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
-        "link": "https://textlog.cc/post/2059",
-        "pubDate": "2026-08-24T18:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "Anger, Anxiety and Agency",
-        "link": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-        "pubDate": "2026-08-24T18:37",
-        "feedId": "hn"
-      },
-      {
         "title": "Octopus intelligence may be related to never-before-seen mutation",
         "link": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
         "pubDate": "2026-08-24T17:57",
@@ -87,9 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Fences, Not Sandboxes",
-        "link": "https://yegge.ai/essays/fences-not-sandboxes/",
-        "pubDate": "2026-08-24T17:28",
+        "title": "Where did all the public bathrooms go?",
+        "link": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+        "pubDate": "2026-08-24T17:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "The entire city of San Francisco as a video game",
+        "link": "https://sf.thijs.gg/",
+        "pubDate": "2026-08-24T17:05",
         "feedId": "hn"
       }
     ]
@@ -128,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Perspec 1.0: A Haskell desktop app for perspective correction of document photos",
-        "link": "https://adriansieber.com/announcing-perspec-1-0/",
-        "pubDate": "2026-08-24T15:03",
-        "feedId": "lobsters"
-      },
-      {
         "title": "AI Coding will Prevent Expertise",
         "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
         "pubDate": "2026-08-24T16:20",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Perspec 1.0: A Haskell desktop app for perspective correction of document photos",
+        "link": "https://adriansieber.com/announcing-perspec-1-0/",
+        "pubDate": "2026-08-24T15:03",
         "feedId": "lobsters"
       },
       {
