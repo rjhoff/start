@@ -3,9 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "A Message from the Family of Dolly Parton",
-        "link": "https://www.instagram.com/reel/DceNXgPJyZ9/",
-        "pubDate": "2026-08-25T18:25",
+        "title": "FDA Authorizes First Wearable Device That Monitors Ketone and Glucose Levels",
+        "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+        "pubDate": "2026-08-25T19:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "Dolly Parton Has Died",
+        "link": "https://en.wikipedia.org/wiki/Dolly_Parton",
+        "pubDate": "2026-08-25T18:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
+        "link": "https://pgbot.dev/",
+        "pubDate": "2026-08-25T18:30",
         "feedId": "hn"
       },
       {
@@ -21,12 +33,6 @@
         "feedId": "hn"
       },
       {
-        "title": "DOJ prosecutes single FOIA dodger while defending systemwide evasion",
-        "link": "https://freedom.press/the-classifieds/doj-prosecutes-single-foia-dodger-while-defending-systemwide-evasion/",
-        "pubDate": "2026-08-25T17:35",
-        "feedId": "hn"
-      },
-      {
         "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
         "link": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
         "pubDate": "2026-08-25T17:28",
@@ -39,7 +45,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Lightweight system monitor for Linux VPS written in Go",
+        "title": "Show HN: Lightweight system monitor for Linux VPS written in Go",
         "link": "https://github.com/leodeim/vpsmon",
         "pubDate": "2026-08-25T17:13",
         "feedId": "hn"
@@ -85,12 +91,6 @@
         "link": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
         "pubDate": "2026-08-25T16:35",
         "feedId": "hn"
-      },
-      {
-        "title": "Fuzzing the Gleam Compiler",
-        "link": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
-        "pubDate": "2026-08-25T16:30",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I cannot survive from burnout",
-        "link": "https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout",
-        "pubDate": "2026-08-24T16:04",
-        "feedId": "lobsters"
-      },
-      {
         "title": "I stabilized never type",
         "link": "https://blog.ihatereality.space/0C-never-type/",
         "pubDate": "2026-08-25T15:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I cannot survive from burnout",
+        "link": "https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout",
+        "pubDate": "2026-08-24T16:04",
         "feedId": "lobsters"
       },
       {
@@ -128,15 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Adding CPU affinity in a 24-core build machine made builds take longer",
-        "link": "https://infosec.exchange/@david_chisnall/117156204452541109",
-        "pubDate": "2026-08-25T13:29",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Solving the 1+N query problem",
-        "link": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
-        "pubDate": "2026-08-25T08:25",
+        "title": "The Move to Python 3 Begins",
+        "link": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+        "pubDate": "2026-08-25T16:52",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Intent to Ship: JPEG XL",
-        "link": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
-        "pubDate": "2026-08-24T16:25",
+        "title": "Adding CPU affinity in a 24-core build machine made builds take longer",
+        "link": "https://infosec.exchange/@david_chisnall/117156204452541109",
+        "pubDate": "2026-08-25T13:29",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +152,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Move to Python 3 Begins",
-        "link": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-        "pubDate": "2026-08-25T16:52",
+        "title": "Solving the 1+N query problem",
+        "link": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
+        "pubDate": "2026-08-25T08:25",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Intent to Ship: JPEG XL",
+        "link": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
+        "pubDate": "2026-08-24T16:25",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Run OpenBSD on DigitalOcean for $4/month",
+        "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+        "pubDate": "2026-08-25T16:44",
         "feedId": "lobsters"
       },
       {
@@ -180,18 +186,24 @@
         "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
         "pubDate": "2026-08-24T16:20",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Galaxium, a WebGPU universe explorer",
-        "link": "https://galaxium.app",
-        "pubDate": "2026-08-25T09:33",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Preserving glow-in-the-dark art and fashion for future generations",
+        "link": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
+        "pubDate": "2026-08-25T18:59",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
+        "link": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
+        "pubDate": "2026-08-25T18:32",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
         "link": "https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/",
@@ -269,18 +281,6 @@
         "link": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
         "pubDate": "2026-08-24T16:59",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Nvidia senior manager tied to ex-Supermicro staff's AI smuggling scheme",
-        "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
-        "pubDate": "2026-08-24T16:41",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "F1 in the Netherlands: The driver you most want to beat is your teammate",
-        "link": "https://arstechnica.com/cars/2026/08/f1-in-the-netherlands-the-driver-you-most-want-to-beat-is-your-teammate/",
-        "pubDate": "2026-08-24T16:02",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -290,7 +290,7 @@
       {
         "title": "Kennedy Center's survival depends on Trump, DOJ says in new filing",
         "link": "https://www.axios.com/2026/08/25/trump-kennedy-center-taken-down",
-        "pubDate": "2026-08-25T18:00",
+        "pubDate": "2026-08-25T18:46",
         "feedId": "axios"
       },
       {
