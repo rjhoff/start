@@ -3,6 +3,30 @@
     "id": "hn",
     "items": [
       {
+        "title": "How much of HN is AI?",
+        "link": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+        "pubDate": "2026-08-25T15:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "Beyond Good and Evil: Nietzsche and the Great War",
+        "link": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
+        "pubDate": "2026-08-25T15:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Polishing Cloth",
+        "link": "https://www.apple.com/shop/product/mlh74am/a/polishing-cloth",
+        "pubDate": "2026-08-25T14:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "Apple Releases New Polishing Cloth",
+        "link": "https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/",
+        "pubDate": "2026-08-25T14:30",
+        "feedId": "hn"
+      },
+      {
         "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
         "link": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
         "pubDate": "2026-08-25T14:29",
@@ -18,18 +42,6 @@
         "title": "MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it",
         "link": "https://www.erathos.com/en/blog/mysql-cdc-to-bigquery",
         "pubDate": "2026-08-25T14:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "Anthropic tells staff to work from home due to possible security team strike",
-        "link": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-        "pubDate": "2026-08-25T14:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "The state of AI in 2026: On the road to ROI",
-        "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
-        "pubDate": "2026-08-25T13:32",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
         "pubDate": "2026-08-25T11:40",
         "feedId": "hn"
-      },
-      {
-        "title": "Windows 95 released August 24, 1995",
-        "link": "https://dfarq.homeip.net/happy-20th-birthday-to-windows-95/",
-        "pubDate": "2026-08-25T06:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "SiFive's First Server Platform",
-        "link": "https://chipsandcheese.com/p/sifives-first-server-platform",
-        "pubDate": "2026-08-25T03:06",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "I cannot survive from burnout",
-        "link": "https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout",
-        "pubDate": "2026-08-24T16:04",
-        "feedId": "lobsters"
-      },
-      {
         "title": "MNT Station - A modular, open hardware desktop computer and server",
         "link": "https://www.crowdsupply.com/mnt-research/mnt-station",
         "pubDate": "2026-08-25T11:16",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I cannot survive from burnout",
+        "link": "https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout",
+        "pubDate": "2026-08-24T16:04",
         "feedId": "lobsters"
       },
       {
@@ -116,21 +116,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Intent to Ship: JPEG XL",
-        "link": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
-        "pubDate": "2026-08-24T16:25",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Migrating from Codeberg Pages to an OpenBSD VPS",
         "link": "https://nemin.hu/vps/index.html",
         "pubDate": "2026-08-25T10:42",
         "feedId": "lobsters"
       },
       {
+        "title": "Intent to Ship: JPEG XL",
+        "link": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
+        "pubDate": "2026-08-24T16:25",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Solving the 1+N query problem",
         "link": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
         "pubDate": "2026-08-25T08:25",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Hunting Down a Go Runtime Bug on 32-bit Embedded Systems",
+        "link": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
+        "pubDate": "2026-08-25T12:26",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Hunting Down a Go Runtime Bug on 32-bit Embedded Systems",
-        "link": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
-        "pubDate": "2026-08-25T12:26",
+        "title": "Porffor goes alpha August 11th",
+        "link": "https://honk.foo/porffor-alpha/",
+        "pubDate": "2026-08-25T10:01",
         "feedId": "lobsters"
       },
       {
@@ -164,15 +170,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Porffor goes alpha August 11th",
-        "link": "https://honk.foo/porffor-alpha/",
-        "pubDate": "2026-08-25T10:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Perspec 1.0: A Haskell desktop app for perspective correction of document photos",
-        "link": "https://adriansieber.com/announcing-perspec-1-0/",
-        "pubDate": "2026-08-24T15:03",
+        "title": "Galaxium, a WebGPU universe explorer",
+        "link": "https://galaxium.app",
+        "pubDate": "2026-08-25T09:33",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Galaxium, a WebGPU universe explorer",
-        "link": "https://galaxium.app",
-        "pubDate": "2026-08-25T09:33",
+        "title": "The XY Problem",
+        "link": "https://xyproblem.info/",
+        "pubDate": "2026-08-25T13:54",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "CIA director Ratcliffe visits Moscow",
+        "link": "https://www.axios.com/2026/08/25/cia-director-ratcliffe-visits-moscow",
+        "pubDate": "2026-08-25T14:48",
+        "feedId": "axios"
+      },
+      {
         "title": "\"Lake America\": Trump turns Canada feud toward Lake Ontario",
         "link": "https://www.axios.com/2026/08/25/trump-french-language-canada-lake-ontario",
         "pubDate": "2026-08-25T14:01",
@@ -369,12 +375,6 @@
         "title": "How new cooling technologies could cut AC electricity demand",
         "link": "https://www.axios.com/2026/08/24/cooling-buildings-electricity-demand",
         "pubDate": "2026-08-24T12:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "From AI tools to alcohol drops: The unexpected forces driving America's crime decline",
-        "link": "https://www.axios.com/2026/08/24/violent-crime-decline-theories",
-        "pubDate": "2026-08-24T09:23",
         "feedId": "axios"
       }
     ]
