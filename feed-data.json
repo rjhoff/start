@@ -3,9 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "Iran Is Using Foreign Criminals to Attack Its Critics Overseas",
-        "link": "https://www.newyorker.com/news/letter-from-the-uk/iran-is-using-foreign-criminals-to-attack-its-critics-overseas",
-        "pubDate": "2026-08-24T23:06",
+        "title": "How Universities Should Prepare Founders",
+        "link": "https://paulgraham.com/prepare.html",
+        "pubDate": "2026-08-25T01:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "Was Modern Art a CIA Psy-Op?",
+        "link": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
+        "pubDate": "2026-08-25T01:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "What languages are agent skills written in?",
+        "link": "https://plicara.ai/research/agent-skill-languages/",
+        "pubDate": "2026-08-25T00:52",
         "feedId": "hn"
       },
       {
@@ -63,12 +75,6 @@
         "feedId": "hn"
       },
       {
-        "title": "What Is a Syslog Server?",
-        "link": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
-        "pubDate": "2026-08-24T18:15",
-        "feedId": "hn"
-      },
-      {
         "title": "Octopus intelligence may be related to never-before-seen mutation",
         "link": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
         "pubDate": "2026-08-24T17:57",
@@ -78,12 +84,6 @@
         "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
         "link": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
         "pubDate": "2026-08-24T17:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "Agent Lightning v1.0",
-        "link": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
-        "pubDate": "2026-08-24T17:23",
         "feedId": "hn"
       },
       {
@@ -146,15 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Everything I own, owned",
-        "link": "https://schlarp.com/posts/everything-i-own-owned/",
-        "pubDate": "2026-08-24T03:22",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Routeup – stable local HTTPS URLs and opt-in public tunnels",
         "link": "https://routeup.dev",
         "pubDate": "2026-08-24T19:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Everything I own, owned",
+        "link": "https://schlarp.com/posts/everything-i-own-owned/",
+        "pubDate": "2026-08-24T03:22",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Replicating Reddit's best feature on other forums",
-        "link": "https://xavd.id/blog/post/highlighting-users/",
-        "pubDate": "2026-08-23T19:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "offgrid electric car (2025)",
-        "link": "https://joeyh.name/blog/entry/offgrid_electric_car/",
-        "pubDate": "2026-08-24T00:15",
+        "title": "distributed identity",
+        "link": "https://jyn.dev/distributed-identity/",
+        "pubDate": "2026-08-24T21:28",
         "feedId": "lobsters"
       },
       {
         "title": "3 constraints before I build anything",
         "link": "https://jordanlord.co.uk/blog/3-constraints/",
         "pubDate": "2026-08-24T09:43",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Replicating Reddit's best feature on other forums",
+        "link": "https://xavd.id/blog/post/highlighting-users/",
+        "pubDate": "2026-08-23T19:23",
         "feedId": "lobsters"
       }
     ]
@@ -324,6 +324,12 @@
         "feedId": "axios"
       },
       {
+        "title": "UAW and Deere are set to clash amid AI sales boom",
+        "link": "https://www.axios.com/2026/08/24/uaw-deere-shawn-fain-ai",
+        "pubDate": "2026-08-24T18:58",
+        "feedId": "axios"
+      },
+      {
         "title": "Bessent unveils sanctions designed to cripple Iran",
         "link": "https://www.axios.com/2026/08/24/bessent-dday-iran-secondary-sanctions",
         "pubDate": "2026-08-24T18:08",
@@ -369,12 +375,6 @@
         "title": "Texas welcomed the AI boom. Now Abbott says data centers \"dug their own grave\"",
         "link": "https://www.axios.com/2026/08/23/greg-abbott-texas-data-centers-ai-backlash",
         "pubDate": "2026-08-23T16:38",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Syria and Israel move to defuse tensions after airbase bombing",
-        "link": "https://www.axios.com/2026/08/23/syria-israel-turkey-airbase-bombing",
-        "pubDate": "2026-08-23T16:08",
         "feedId": "axios"
       }
     ]
