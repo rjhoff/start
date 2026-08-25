@@ -3,21 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "Perplexity Portable Computer",
-        "link": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
-        "pubDate": "2026-08-25T19:41",
+        "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+        "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+        "pubDate": "2026-08-25T20:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "C2PA Cameras Do Not Survive Contact with Reality",
+        "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+        "pubDate": "2026-08-25T19:38",
         "feedId": "hn"
       },
       {
         "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
         "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
         "pubDate": "2026-08-25T19:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
-        "link": "https://pgbot.dev/",
-        "pubDate": "2026-08-25T18:30",
         "feedId": "hn"
       },
       {
@@ -104,15 +104,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "The Move to Python 3 Begins",
+        "link": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+        "pubDate": "2026-08-25T16:52",
+        "feedId": "lobsters"
+      },
+      {
         "title": "MNT Station - A modular, open hardware desktop computer and server",
         "link": "https://www.crowdsupply.com/mnt-research/mnt-station",
         "pubDate": "2026-08-25T11:16",
         "feedId": "lobsters"
       },
       {
-        "title": "The Move to Python 3 Begins",
-        "link": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-        "pubDate": "2026-08-25T16:52",
+        "title": "C2PA Cameras Do Not Survive Contact With Reality",
+        "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+        "pubDate": "2026-08-25T15:51",
         "feedId": "lobsters"
       },
       {
@@ -128,12 +134,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "C2PA Cameras Do Not Survive Contact With Reality",
-        "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-        "pubDate": "2026-08-25T15:51",
-        "feedId": "lobsters"
-      },
-      {
         "title": "An interactive introduction to the spanning tree protocol",
         "link": "https://vincent.bernat.ch/en/blog/2026-spanning-tree",
         "pubDate": "2026-08-25T12:06",
@@ -146,15 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Hunting Down a Go Runtime Bug on 32-bit Embedded Systems",
-        "link": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
-        "pubDate": "2026-08-25T12:26",
+        "title": "Run OpenBSD on DigitalOcean for $4/month",
+        "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+        "pubDate": "2026-08-25T16:44",
         "feedId": "lobsters"
       },
       {
-        "title": "Solving the 1+N query problem",
-        "link": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
-        "pubDate": "2026-08-25T08:25",
+        "title": "Hunting Down a Go Runtime Bug on 32-bit Embedded Systems",
+        "link": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
+        "pubDate": "2026-08-25T12:26",
         "feedId": "lobsters"
       },
       {
@@ -164,21 +164,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Run OpenBSD on DigitalOcean for $4/month",
-        "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-        "pubDate": "2026-08-25T16:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Your executable is a SQLite database",
-        "link": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-        "pubDate": "2026-08-24T07:32",
+        "title": "Solving the 1+N query problem",
+        "link": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
+        "pubDate": "2026-08-25T08:25",
         "feedId": "lobsters"
       },
       {
         "title": "Can a blog post be handwritten?",
         "link": "https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/",
         "pubDate": "2026-08-24T16:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Your executable is a SQLite database",
+        "link": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+        "pubDate": "2026-08-24T07:32",
         "feedId": "lobsters"
       },
       {
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump administration violated court order on mail-voting rules, judge says",
+        "link": "https://www.axios.com/2026/08/25/usps-mail-voting-rule-injunction",
+        "pubDate": "2026-08-25T20:42",
+        "feedId": "axios"
+      },
+      {
         "title": "House Democrats' pro-Israel wing gains power on panel overseeing foreign policy",
         "link": "https://www.axios.com/2026/08/25/democrats-israel-moskowitz-house-foreign-affairs",
         "pubDate": "2026-08-25T19:49",
@@ -369,12 +375,6 @@
         "title": "5 ways Iran's economy is wilting under Trump's pressure",
         "link": "https://www.axios.com/2026/08/24/trump-iran-sanctions-bessent-economy",
         "pubDate": "2026-08-24T21:17",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump administration to revoke up to 200,000 visas of asylum seekers",
-        "link": "https://www.axios.com/2026/08/24/trump-visas-asylum-seekers-revoke",
-        "pubDate": "2026-08-24T21:12",
         "feedId": "axios"
       }
     ]
