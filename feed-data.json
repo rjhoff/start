@@ -3,6 +3,48 @@
     "id": "hn",
     "items": [
       {
+        "title": "A Message from the Family of Dolly Parton",
+        "link": "https://www.instagram.com/reel/DceNXgPJyZ9/",
+        "pubDate": "2026-08-25T18:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "Dolly Parton has died",
+        "link": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+        "pubDate": "2026-08-25T18:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "Firefox 157 will include JPEG XL by default on all platforms",
+        "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
+        "pubDate": "2026-08-25T17:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "DOJ prosecutes single FOIA dodger while defending systemwide evasion",
+        "link": "https://freedom.press/the-classifieds/doj-prosecutes-single-foia-dodger-while-defending-systemwide-evasion/",
+        "pubDate": "2026-08-25T17:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
+        "link": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+        "pubDate": "2026-08-25T17:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "Run OpenBSD on DigitalOcean for $4/month",
+        "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+        "pubDate": "2026-08-25T17:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "Lightweight system monitor for Linux VPS written in Go",
+        "link": "https://github.com/leodeim/vpsmon",
+        "pubDate": "2026-08-25T17:13",
+        "feedId": "hn"
+      },
+      {
         "title": "Nitter project received cease and desist",
         "link": "https://github.com/zedeus/nitter/issues/1442",
         "pubDate": "2026-08-25T17:08",
@@ -15,9 +57,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Water Behind the Watts: The Hidden Risk of Powering Data Centers",
-        "link": "https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers",
-        "pubDate": "2026-08-25T16:58",
+        "title": "A new ceiling for Λ: the de Bruijn–Newman constant",
+        "link": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
+        "pubDate": "2026-08-25T16:59",
         "feedId": "hn"
       },
       {
@@ -27,69 +69,27 @@
         "feedId": "hn"
       },
       {
-        "title": "SpaceX – Starbase, LA",
+        "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
+        "link": "https://github.com/jeffhajewski/latticedb",
+        "pubDate": "2026-08-25T16:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "Starbase, LA",
         "link": "https://www.spacex.com/sites/starbase-la",
         "pubDate": "2026-08-25T16:37",
         "feedId": "hn"
       },
       {
-        "title": "Tooltips Need a Delay, and Then They Need to Skip It",
+        "title": "Tooltips need a delay, and then they need to skip it",
         "link": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
         "pubDate": "2026-08-25T16:35",
         "feedId": "hn"
       },
       {
-        "title": "Warnock: Harnessing GPU Geometry Amplification for Vector Graphics",
-        "link": "https://dl.acm.org/doi/pdf/10.1145/3820012",
-        "pubDate": "2026-08-25T15:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Beyond Good and Evil: Nietzsche and the Great War (2019)",
-        "link": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
-        "pubDate": "2026-08-25T15:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-        "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-        "pubDate": "2026-08-25T14:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-        "link": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-        "pubDate": "2026-08-25T14:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "Building a backyard office, the build and cost breakdown",
-        "link": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-        "pubDate": "2026-08-25T14:20",
-        "feedId": "hn"
-      },
-      {
-        "title": "MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it",
-        "link": "https://www.erathos.com/en/blog/mysql-cdc-to-bigquery",
-        "pubDate": "2026-08-25T14:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "Anthropic tells staff to work from home due to possible security team strike",
-        "link": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-        "pubDate": "2026-08-25T14:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "New Mac mini, featuring M6 and M5 Pro",
-        "link": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-        "pubDate": "2026-08-25T13:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "New Mac Studio with M5 Max and M5 Ultra",
-        "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-        "pubDate": "2026-08-25T13:03",
+        "title": "Fuzzing the Gleam Compiler",
+        "link": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
+        "pubDate": "2026-08-25T16:30",
         "feedId": "hn"
       }
     ]
@@ -110,9 +110,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "An interactive introduction to the spanning tree protocol",
-        "link": "https://vincent.bernat.ch/en/blog/2026-spanning-tree",
-        "pubDate": "2026-08-25T12:06",
+        "title": "I stabilized never type",
+        "link": "https://blog.ihatereality.space/0C-never-type/",
+        "pubDate": "2026-08-25T15:11",
         "feedId": "lobsters"
       },
       {
@@ -122,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I stabilized never type",
-        "link": "https://blog.ihatereality.space/0C-never-type/",
-        "pubDate": "2026-08-25T15:11",
+        "title": "An interactive introduction to the spanning tree protocol",
+        "link": "https://vincent.bernat.ch/en/blog/2026-spanning-tree",
+        "pubDate": "2026-08-25T12:06",
         "feedId": "lobsters"
       },
       {
-        "title": "Intent to Ship: JPEG XL",
-        "link": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
-        "pubDate": "2026-08-24T16:25",
+        "title": "Adding CPU affinity in a 24-core build machine made builds take longer",
+        "link": "https://infosec.exchange/@david_chisnall/117156204452541109",
+        "pubDate": "2026-08-25T13:29",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +140,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "C2PA Cameras Do Not Survive Contact With Reality",
+        "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+        "pubDate": "2026-08-25T15:51",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Intent to Ship: JPEG XL",
+        "link": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
+        "pubDate": "2026-08-24T16:25",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Hunting Down a Go Runtime Bug on 32-bit Embedded Systems",
         "link": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
         "pubDate": "2026-08-25T12:26",
         "feedId": "lobsters"
       },
       {
-        "title": "Adding CPU affinity in a 24-core build machine made builds take longer",
-        "link": "https://infosec.exchange/@david_chisnall/117156204452541109",
-        "pubDate": "2026-08-25T13:29",
+        "title": "The Move to Python 3 Begins",
+        "link": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+        "pubDate": "2026-08-25T16:52",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "C2PA Cameras Do Not Survive Contact With Reality",
-        "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-        "pubDate": "2026-08-25T15:51",
-        "feedId": "lobsters"
-      },
-      {
         "title": "AI Coding will Prevent Expertise",
         "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
         "pubDate": "2026-08-24T16:20",
         "feedId": "lobsters"
       },
       {
-        "title": "Porffor goes alpha August 11th",
-        "link": "https://honk.foo/porffor-alpha/",
-        "pubDate": "2026-08-25T10:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Emacs 31.1 released",
-        "link": "https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html",
-        "pubDate": "2026-08-24T10:52",
+        "title": "Galaxium, a WebGPU universe explorer",
+        "link": "https://galaxium.app",
+        "pubDate": "2026-08-25T09:33",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,24 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
+        "link": "https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/",
+        "pubDate": "2026-08-25T17:39",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
+        "link": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/",
+        "pubDate": "2026-08-25T17:26",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Lab supply companies have been selling antibodies using manipulated images",
+        "link": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
+        "pubDate": "2026-08-25T16:16",
+        "feedId": "arstechnica"
+      },
       {
         "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
         "link": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
@@ -263,30 +281,18 @@
         "link": "https://arstechnica.com/cars/2026/08/f1-in-the-netherlands-the-driver-you-most-want-to-beat-is-your-teammate/",
         "pubDate": "2026-08-24T16:02",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Trump tried to curb clean energy. It’s booming anyway.",
-        "link": "https://arstechnica.com/science/2026/08/trump-tried-to-curb-clean-energy-its-booming-anyway/",
-        "pubDate": "2026-08-24T14:43",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
-        "link": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
-        "pubDate": "2026-08-24T11:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Due to need for \"absolute success,\" China delays critical Moon launch to 2027",
-        "link": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
-        "pubDate": "2026-08-23T14:30",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Kennedy Center's survival depends on Trump, DOJ says in new filing",
+        "link": "https://www.axios.com/2026/08/25/trump-kennedy-center-taken-down",
+        "pubDate": "2026-08-25T18:00",
+        "feedId": "axios"
+      },
       {
         "title": "AI is making critical infrastructure easier to attack",
         "link": "https://www.axios.com/2026/08/25/ai-critical-infrastructure-cyberattacks",
@@ -369,12 +375,6 @@
         "title": "Flock cameras join data centers as a top AI boogeyman in 2026 midterms",
         "link": "https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech",
         "pubDate": "2026-08-24T20:18",
-        "feedId": "axios"
-      },
-      {
-        "title": "UAW and Deere are set to clash amid AI sales boom",
-        "link": "https://www.axios.com/2026/08/24/uaw-deere-shawn-fain-ai",
-        "pubDate": "2026-08-24T18:58",
         "feedId": "axios"
       }
     ]
