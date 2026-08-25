@@ -3,15 +3,39 @@
     "id": "hn",
     "items": [
       {
+        "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
+        "link": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+        "pubDate": "2026-08-25T14:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Building a backyard office, the build and cost breakdown",
+        "link": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
+        "pubDate": "2026-08-25T14:20",
+        "feedId": "hn"
+      },
+      {
+        "title": "MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it",
+        "link": "https://www.erathos.com/en/blog/mysql-cdc-to-bigquery",
+        "pubDate": "2026-08-25T14:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Anthropic tells staff to work from home due to possible security team strike",
+        "link": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+        "pubDate": "2026-08-25T14:00",
+        "feedId": "hn"
+      },
+      {
         "title": "The state of AI in 2026: On the road to ROI",
         "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
         "pubDate": "2026-08-25T13:32",
         "feedId": "hn"
       },
       {
-        "title": "US data centers tripled annual water consumption to 17B gallons",
-        "link": "https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/",
-        "pubDate": "2026-08-25T13:08",
+        "title": "Apple's new Mac mini, featuring M6 and M5 Pro",
+        "link": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+        "pubDate": "2026-08-25T13:13",
         "feedId": "hn"
       },
       {
@@ -57,39 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Headlong: A Microharness for Persistent Agents",
-        "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-        "pubDate": "2026-08-25T03:54",
+        "title": "Windows 95 released August 24, 1995",
+        "link": "https://dfarq.homeip.net/happy-20th-birthday-to-windows-95/",
+        "pubDate": "2026-08-25T06:56",
         "feedId": "hn"
       },
       {
         "title": "SiFive's First Server Platform",
         "link": "https://chipsandcheese.com/p/sifives-first-server-platform",
         "pubDate": "2026-08-25T03:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "How Universities Should Prepare Founders",
-        "link": "https://paulgraham.com/prepare.html",
-        "pubDate": "2026-08-25T01:40",
-        "feedId": "hn"
-      },
-      {
-        "title": "Was modern art a CIA psy-op? (2020)",
-        "link": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
-        "pubDate": "2026-08-25T01:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-        "link": "https://github.com/murerkinn/bookshelf",
-        "pubDate": "2026-08-24T23:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-        "link": "https://developer.apple.com/news/?id=1ptvdtcm",
-        "pubDate": "2026-08-24T22:13",
         "feedId": "hn"
       }
     ]
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Galaxium, a WebGPU universe explorer",
-        "link": "https://galaxium.app",
-        "pubDate": "2026-08-25T09:33",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Another look at SQLite's WAL-Reset bug",
         "link": "https://theconsensus.dev/p/2026/08/23/another-look-at-sqlite-wal-reset.html",
         "pubDate": "2026-08-25T10:46",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Galaxium, a WebGPU universe explorer",
+        "link": "https://galaxium.app",
+        "pubDate": "2026-08-25T09:33",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Apple's new desktop computers are designed specifically for local AI development",
+        "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+        "pubDate": "2026-08-25T13:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
         "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
@@ -275,18 +281,24 @@
         "link": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
         "pubDate": "2026-08-22T11:22",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
-        "link": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
-        "pubDate": "2026-08-22T11:08",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "\"Lake America\": Trump turns Canada feud toward Lake Ontario",
+        "link": "https://www.axios.com/2026/08/25/trump-french-language-canada-lake-ontario",
+        "pubDate": "2026-08-25T14:01",
+        "feedId": "axios"
+      },
+      {
+        "title": "Exclusive: Climate group presses Dems to seize on data center backlash",
+        "link": "https://www.axios.com/2026/08/25/climate-power-memo-data-centers-democrats-elections",
+        "pubDate": "2026-08-25T12:35",
+        "feedId": "axios"
+      },
       {
         "title": "Trump's Iran \"D-Day\" leaves sanctions hammer hanging",
         "link": "https://www.axios.com/2026/08/25/trump-iran-dday-secondary-sanctions-china",
@@ -363,18 +375,6 @@
         "title": "From AI tools to alcohol drops: The unexpected forces driving America's crime decline",
         "link": "https://www.axios.com/2026/08/24/violent-crime-decline-theories",
         "pubDate": "2026-08-24T09:23",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump says rejecting data centers is \"a mistake\"",
-        "link": "https://www.axios.com/2026/08/23/trump-data-centers-michael-cohen-interview",
-        "pubDate": "2026-08-23T23:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump and former fixer Michael Cohen make amends",
-        "link": "https://www.axios.com/2026/08/23/trump-michael-cohen-radio-interview",
-        "pubDate": "2026-08-23T22:29",
         "feedId": "axios"
       }
     ]
