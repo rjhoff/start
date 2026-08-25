@@ -3,9 +3,15 @@
     "id": "hn",
     "items": [
       {
-        "title": "'Never seen this level of objection': Scotland pushes back against datacentres",
-        "link": "https://www.theguardian.com/uk-news/2026/aug/25/never-seen-this-level-of-objection-scotland-pushes-back-against-datacentre-boom",
-        "pubDate": "2026-08-25T07:35",
+        "title": "Why some US restaurants are banning tips",
+        "link": "https://www.bbc.com/news/articles/c4g36yze692o",
+        "pubDate": "2026-08-25T10:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Screen viewing time from age 1 to 8 years and subsequent academic performance",
+        "link": "https://link.springer.com/article/10.1007/s12519-026-01046-1",
+        "pubDate": "2026-08-25T09:17",
         "feedId": "hn"
       },
       {
@@ -30,12 +36,6 @@
         "title": "SiFive's First Server Platform",
         "link": "https://chipsandcheese.com/p/sifives-first-server-platform",
         "pubDate": "2026-08-25T03:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "Thomson Reuters Launches Its Own Frontier Model",
-        "link": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
-        "pubDate": "2026-08-25T02:11",
         "feedId": "hn"
       },
       {
@@ -146,9 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Routeup – stable local HTTPS URLs and opt-in public tunnels",
-        "link": "https://routeup.dev",
-        "pubDate": "2026-08-24T19:08",
+        "title": "Solving the 1+N query problem",
+        "link": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
+        "pubDate": "2026-08-25T08:25",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Solving the 1+N query problem",
-        "link": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
-        "pubDate": "2026-08-25T08:25",
+        "title": "Routeup – stable local HTTPS URLs and opt-in public tunnels",
+        "link": "https://routeup.dev",
+        "pubDate": "2026-08-24T19:08",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "POP-2000, a lingua-franca POP-2 dialect",
-        "link": "https://hitogata.neocities.org/POP-2000",
-        "pubDate": "2026-08-25T02:44",
+        "title": "Galaxium, a WebGPU universe explorer",
+        "link": "https://galaxium.app",
+        "pubDate": "2026-08-25T09:33",
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/lo28ad/what_are_you_doing_this_week",
-        "pubDate": "2026-08-24T09:40",
+        "title": "POP-2000, a lingua-franca POP-2 dialect",
+        "link": "https://hitogata.neocities.org/POP-2000",
+        "pubDate": "2026-08-25T02:44",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump's Iran \"D-Day\" leaves sanctions hammer hanging",
+        "link": "https://www.axios.com/2026/08/25/trump-iran-dday-secondary-sanctions-china",
+        "pubDate": "2026-08-25T09:35",
+        "feedId": "axios"
+      },
+      {
+        "title": "The data center era that's reshaping America",
+        "link": "https://www.axios.com/2026/08/25/data-centers-ai-electricity-water-politics",
+        "pubDate": "2026-08-25T09:30",
+        "feedId": "axios"
+      },
+      {
         "title": "Mark Carney's defiance of Trump has Canada cheering",
         "link": "https://www.axios.com/2026/08/24/carney-trump-tariffs-us-canada-liberal-leader-support",
         "pubDate": "2026-08-24T23:36",
@@ -363,18 +375,6 @@
         "title": "Trump and former fixer Michael Cohen make amends",
         "link": "https://www.axios.com/2026/08/23/trump-michael-cohen-radio-interview",
         "pubDate": "2026-08-23T22:29",
-        "feedId": "axios"
-      },
-      {
-        "title": "2028 Dems dodge on Bernie's push to pause AI development",
-        "link": "https://www.axios.com/2026/08/23/2028-democrats-ai-bernie-sanders",
-        "pubDate": "2026-08-23T21:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Texas welcomed the AI boom. Now Abbott says data centers \"dug their own grave\"",
-        "link": "https://www.axios.com/2026/08/23/greg-abbott-texas-data-centers-ai-backlash",
-        "pubDate": "2026-08-23T16:38",
         "feedId": "axios"
       }
     ]
