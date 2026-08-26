@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "Disrupting a new covert influence campaign from Russia",
+        "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
+        "pubDate": "2026-08-26T07:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "I miss the old Claude Code",
+        "link": "https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/",
+        "pubDate": "2026-08-26T06:34",
+        "feedId": "hn"
+      },
+      {
         "title": "More than half of adults in U.S. say they lack basic statistical understanding",
         "link": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
         "pubDate": "2026-08-26T05:49",
@@ -75,21 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
-        "link": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
-        "pubDate": "2026-08-25T17:28",
-        "feedId": "hn"
-      },
-      {
         "title": "Run OpenBSD on DigitalOcean for $4/month",
         "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
         "pubDate": "2026-08-25T17:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nitter and XCancel receive cease and desist notices",
-        "link": "https://github.com/zedeus/nitter/issues/1442",
-        "pubDate": "2026-08-25T17:08",
         "feedId": "hn"
       }
     ]
@@ -152,18 +152,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "the beauty in dsl-able languages",
-        "link": "https://w.on-t.work/dslable",
-        "pubDate": "2026-08-26T02:12",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Hunting Down a Go Runtime Bug on 32-bit Embedded Systems",
-        "link": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
-        "pubDate": "2026-08-25T12:26",
-        "feedId": "lobsters"
-      },
-      {
         "title": "AI Review Loops Don't Always Stabilise",
         "link": "https://kevinmahoney.co.uk/articles/ai-review-loops/",
         "pubDate": "2026-08-25T17:42",
@@ -179,6 +167,18 @@
         "title": "What's in a tag name? JavaScript, apparently",
         "link": "https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently",
         "pubDate": "2026-08-26T06:36",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "the beauty in dsl-able languages",
+        "link": "https://w.on-t.work/dslable",
+        "pubDate": "2026-08-26T02:12",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Hunting Down a Go Runtime Bug on 32-bit Embedded Systems",
+        "link": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
+        "pubDate": "2026-08-25T12:26",
         "feedId": "lobsters"
       },
       {
