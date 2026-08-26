@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "U.S. gov't moves to suppress pushback on data centers",
+        "link": "https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them",
+        "pubDate": "2026-08-26T10:44",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Feeling of Power (Asimov, 1958)",
+        "link": "https://archive.org/details/1958-02_IF",
+        "pubDate": "2026-08-26T10:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "Beyond Recall and the Illusion of Competence",
+        "link": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
+        "pubDate": "2026-08-26T10:07",
+        "feedId": "hn"
+      },
+      {
         "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
         "link": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
         "pubDate": "2026-08-26T10:04",
@@ -12,12 +30,6 @@
         "title": "Social media use on the rise among Australian under-16s after ban: data",
         "link": "https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data",
         "pubDate": "2026-08-26T09:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY",
-        "link": "https://www.globalsolo.global/data/banking-access-index",
-        "pubDate": "2026-08-26T09:01",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
         "pubDate": "2026-08-25T20:49",
         "feedId": "hn"
-      },
-      {
-        "title": "C2PA Cameras Do Not Survive Contact with Reality",
-        "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-        "pubDate": "2026-08-25T19:38",
-        "feedId": "hn"
-      },
-      {
-        "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-        "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-        "pubDate": "2026-08-25T19:07",
-        "feedId": "hn"
       }
     ]
   },
@@ -116,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "MNT Station - A modular, open hardware desktop computer and server",
-        "link": "https://www.crowdsupply.com/mnt-research/mnt-station",
-        "pubDate": "2026-08-25T11:16",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Casey Muratori – The Root of The Root of All Evil – BSC 2026",
         "link": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
         "pubDate": "2026-08-26T07:55",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "MNT Station - A modular, open hardware desktop computer and server",
+        "link": "https://www.crowdsupply.com/mnt-research/mnt-station",
+        "pubDate": "2026-08-25T11:16",
         "feedId": "lobsters"
       },
       {
@@ -170,15 +170,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "AI Review Loops Don't Always Stabilise",
-        "link": "https://kevinmahoney.co.uk/articles/ai-review-loops/",
-        "pubDate": "2026-08-25T17:42",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Using TypeScript to Obtain One of the Rarest License Plates (2025)",
         "link": "https://www.jack.bio/blog/licenseplate",
         "pubDate": "2026-08-26T06:00",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "AI Review Loops Don't Always Stabilise",
+        "link": "https://kevinmahoney.co.uk/articles/ai-review-loops/",
+        "pubDate": "2026-08-25T17:42",
         "feedId": "lobsters"
       },
       {
