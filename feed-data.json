@@ -3,15 +3,15 @@
     "id": "hn",
     "items": [
       {
-        "title": "Disrupting a new covert influence campaign from Russia",
-        "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
-        "pubDate": "2026-08-26T07:31",
+        "title": "Show HN: Buslens – where can I get to by bus? (UK)",
+        "link": "https://rupertlinacre.com/buslens/",
+        "pubDate": "2026-08-26T07:36",
         "feedId": "hn"
       },
       {
-        "title": "I miss the old Claude Code",
-        "link": "https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/",
-        "pubDate": "2026-08-26T06:34",
+        "title": "Disrupting a new covert influence campaign from Russia",
+        "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
+        "pubDate": "2026-08-26T07:31",
         "feedId": "hn"
       },
       {
@@ -63,12 +63,6 @@
         "feedId": "hn"
       },
       {
-        "title": "A brief history of federal lift ticket regulation",
-        "link": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
-        "pubDate": "2026-08-25T19:25",
-        "feedId": "hn"
-      },
-      {
         "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
         "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
         "pubDate": "2026-08-25T19:07",
@@ -90,6 +84,12 @@
         "title": "Run OpenBSD on DigitalOcean for $4/month",
         "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
         "pubDate": "2026-08-25T17:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nitter and XCancel receive cease and desist notices",
+        "link": "https://github.com/zedeus/nitter/issues/1442",
+        "pubDate": "2026-08-25T17:08",
         "feedId": "hn"
       }
     ]
@@ -122,9 +122,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Casey Muratori – The Root of The Root of All Evil – BSC 2026",
+        "link": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
+        "pubDate": "2026-08-26T07:55",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "mold: A Massively Parallel Linker",
+        "link": "https://arxiv.org/abs/2608.23228",
+        "pubDate": "2026-08-26T05:09",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Adding CPU affinity in a 24-core build machine made builds take longer",
         "link": "https://infosec.exchange/@david_chisnall/117156204452541109",
         "pubDate": "2026-08-25T13:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What's in a tag name? JavaScript, apparently",
+        "link": "https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently",
+        "pubDate": "2026-08-26T06:36",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +152,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I cannot survive from burnout",
-        "link": "https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout",
-        "pubDate": "2026-08-24T16:04",
-        "feedId": "lobsters"
-      },
-      {
         "title": "An interactive introduction to the spanning tree protocol",
         "link": "https://vincent.bernat.ch/en/blog/2026-spanning-tree",
         "pubDate": "2026-08-25T12:06",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I cannot survive from burnout",
+        "link": "https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout",
+        "pubDate": "2026-08-24T16:04",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "mold: A Massively Parallel Linker",
-        "link": "https://arxiv.org/abs/2608.23228",
-        "pubDate": "2026-08-26T05:09",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What's in a tag name? JavaScript, apparently",
-        "link": "https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently",
-        "pubDate": "2026-08-26T06:36",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "the beauty in dsl-able languages",
-        "link": "https://w.on-t.work/dslable",
-        "pubDate": "2026-08-26T02:12",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Hunting Down a Go Runtime Bug on 32-bit Embedded Systems",
         "link": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
         "pubDate": "2026-08-25T12:26",
         "feedId": "lobsters"
       },
       {
-        "title": "Solving the 1+N query problem",
-        "link": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
-        "pubDate": "2026-08-25T08:25",
+        "title": "the beauty in dsl-able languages",
+        "link": "https://w.on-t.work/dslable",
+        "pubDate": "2026-08-26T02:12",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,30 @@
     "id": "axios",
     "items": [
       {
+        "title": "Jeffries faces impeachment dilemma if Democrats win back the House",
+        "link": "https://www.axios.com/2026/08/26/hakeem-jeffries-trump-impeachment-dems-win-house",
+        "pubDate": "2026-08-26T09:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "Stanley Druckenmiller makes AI writing a billionaire flex",
+        "link": "https://www.axios.com/2026/08/26/stanley-druckenmiller-ai-writing-wsj-op-ed",
+        "pubDate": "2026-08-26T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump's \"election integrity\" threat: Defunding state and local police",
+        "link": "https://www.axios.com/2026/08/26/trump-elections-defund-police",
+        "pubDate": "2026-08-26T09:10",
+        "feedId": "axios"
+      },
+      {
+        "title": "Inside the backlash over the Jeffries-Kushner meeting",
+        "link": "https://www.axios.com/2026/08/26/jeffries-kushner-meeting-reaction-democrats-left",
+        "pubDate": "2026-08-26T09:00",
+        "feedId": "axios"
+      },
+      {
         "title": "Court ruling threatens Republicans' midterm TV ad advantage",
         "link": "https://www.axios.com/2026/08/26/tv-ad-rates-republicans-democrats-court-ruling",
         "pubDate": "2026-08-26T01:15",
@@ -351,30 +375,6 @@
         "title": "\"Lake America\": Trump turns Canada feud toward Lake Ontario",
         "link": "https://www.axios.com/2026/08/25/trump-french-language-canada-lake-ontario",
         "pubDate": "2026-08-25T14:01",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: Climate group presses Dems to seize on data center backlash",
-        "link": "https://www.axios.com/2026/08/25/climate-power-memo-data-centers-democrats-elections",
-        "pubDate": "2026-08-25T12:35",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump's Iran \"D-Day\" leaves sanctions hammer hanging",
-        "link": "https://www.axios.com/2026/08/25/trump-iran-dday-secondary-sanctions-china",
-        "pubDate": "2026-08-25T09:35",
-        "feedId": "axios"
-      },
-      {
-        "title": "The data center era that's reshaping America",
-        "link": "https://www.axios.com/2026/08/25/data-centers-ai-electricity-water-politics",
-        "pubDate": "2026-08-25T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Mark Carney's defiance of Trump has Canada cheering",
-        "link": "https://www.axios.com/2026/08/24/carney-trump-tariffs-us-canada-liberal-leader-support",
-        "pubDate": "2026-08-24T23:36",
         "feedId": "axios"
       }
     ]
