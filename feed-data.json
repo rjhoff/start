@@ -3,9 +3,9 @@
     "id": "hn",
     "items": [
       {
-        "title": "Ask HN: What is one simple thing LLMs are insanely bad at?",
-        "link": "https://news.ycombinator.com/item?id=49443820",
-        "pubDate": "2026-08-26T03:17",
+        "title": "Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests",
+        "link": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
+        "pubDate": "2026-08-26T03:23",
         "feedId": "hn"
       },
       {
@@ -122,27 +122,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Migrating from Codeberg Pages to an OpenBSD VPS",
-        "link": "https://nemin.hu/vps/index.html",
-        "pubDate": "2026-08-25T10:42",
-        "feedId": "lobsters"
-      },
-      {
         "title": "I cannot survive from burnout",
         "link": "https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout",
         "pubDate": "2026-08-24T16:04",
         "feedId": "lobsters"
       },
       {
-        "title": "An interactive introduction to the spanning tree protocol",
-        "link": "https://vincent.bernat.ch/en/blog/2026-spanning-tree",
-        "pubDate": "2026-08-25T12:06",
+        "title": "Migrating from Codeberg Pages to an OpenBSD VPS",
+        "link": "https://nemin.hu/vps/index.html",
+        "pubDate": "2026-08-25T10:42",
         "feedId": "lobsters"
       },
       {
         "title": "Adding CPU affinity in a 24-core build machine made builds take longer",
         "link": "https://infosec.exchange/@david_chisnall/117156204452541109",
         "pubDate": "2026-08-25T13:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "An interactive introduction to the spanning tree protocol",
+        "link": "https://vincent.bernat.ch/en/blog/2026-spanning-tree",
+        "pubDate": "2026-08-25T12:06",
         "feedId": "lobsters"
       },
       {
