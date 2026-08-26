@@ -3,9 +3,15 @@
     "id": "hn",
     "items": [
       {
-        "title": "One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool",
-        "link": "https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN",
-        "pubDate": "2026-08-25T21:43",
+        "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+        "link": "https://github.com/runetes/maiao",
+        "pubDate": "2026-08-25T22:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+        "link": "https://github.com/swimmingbrain/texbrain",
+        "pubDate": "2026-08-25T22:08",
         "feedId": "hn"
       },
       {
@@ -81,12 +87,6 @@
         "feedId": "hn"
       },
       {
-        "title": "A new ceiling for Λ: the de Bruijn–Newman constant",
-        "link": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
-        "pubDate": "2026-08-25T16:59",
-        "feedId": "hn"
-      },
-      {
         "title": "My Friend Aaron",
         "link": "https://rorz.io/writing/my-friend-aaron",
         "pubDate": "2026-08-25T16:53",
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "MNT Station - A modular, open hardware desktop computer and server",
-        "link": "https://www.crowdsupply.com/mnt-research/mnt-station",
-        "pubDate": "2026-08-25T11:16",
-        "feedId": "lobsters"
-      },
-      {
         "title": "C2PA Cameras Do Not Survive Contact With Reality",
         "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
         "pubDate": "2026-08-25T15:51",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "MNT Station - A modular, open hardware desktop computer and server",
+        "link": "https://www.crowdsupply.com/mnt-research/mnt-station",
+        "pubDate": "2026-08-25T11:16",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +158,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Solving the 1+N query problem",
+        "link": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
+        "pubDate": "2026-08-25T08:25",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Intent to Ship: JPEG XL",
         "link": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
         "pubDate": "2026-08-24T16:25",
         "feedId": "lobsters"
       },
       {
-        "title": "Solving the 1+N query problem",
-        "link": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
-        "pubDate": "2026-08-25T08:25",
+        "title": "AI Review Loops Don't Always Stabilise",
+        "link": "https://kevinmahoney.co.uk/articles/ai-review-loops/",
+        "pubDate": "2026-08-25T17:42",
         "feedId": "lobsters"
       },
       {
@@ -180,18 +186,18 @@
         "link": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
         "pubDate": "2026-08-24T07:32",
         "feedId": "lobsters"
-      },
-      {
-        "title": "AI Coding will Prevent Expertise",
-        "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-        "pubDate": "2026-08-24T16:20",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
+        "link": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
+        "pubDate": "2026-08-25T22:21",
+        "feedId": "arstechnica"
+      },
       {
         "title": "World humanoid robot games show runners breaking records, bursting into flames",
         "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
@@ -275,18 +281,18 @@
         "link": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/",
         "pubDate": "2026-08-24T19:42",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
-        "link": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
-        "pubDate": "2026-08-24T19:19",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Darline Graham wins South Carolina GOP Senate runoff",
+        "link": "https://www.axios.com/2026/08/26/darline-graham-south-carolina-republican-senate-results",
+        "pubDate": "2026-08-26T01:02",
+        "feedId": "axios"
+      },
       {
         "title": "Rubio tells allies U.S. shifting from strikes to sanctions on Iran",
         "link": "https://www.axios.com/2026/08/25/rubio-iran-war-hormuz-oil",
@@ -369,12 +375,6 @@
         "title": "Supreme Court upholds Trump's order to overhaul mail-in ballots",
         "link": "https://www.axios.com/2026/08/24/supreme-court-mail-in-ballot-rules",
         "pubDate": "2026-08-24T22:38",
-        "feedId": "axios"
-      },
-      {
-        "title": "America's elections are getting caught in a fight over the mail",
-        "link": "https://www.axios.com/2026/08/24/trump-usps-federal-power-state-elections-mail-voting",
-        "pubDate": "2026-08-24T21:54",
         "feedId": "axios"
       }
     ]
