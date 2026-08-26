@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "Letter from Dolly Parton to Eminem",
+        "link": "https://twitter.com/Eminem/status/2092367272891310482",
+        "pubDate": "2026-08-26T02:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "The brain may be about to have its Ozempic moment",
+        "link": "https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
+        "pubDate": "2026-08-26T00:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "Queryable Executables",
+        "link": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+        "pubDate": "2026-08-26T00:20",
+        "feedId": "hn"
+      },
+      {
         "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
         "link": "https://github.com/runetes/maiao",
         "pubDate": "2026-08-25T22:40",
@@ -18,12 +36,6 @@
         "title": "Python's pre-declared constants are kinda weird",
         "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
         "pubDate": "2026-08-25T21:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "XCancel also down, at least for time being",
-        "link": "https://news.ycombinator.com/item?id=49440786",
-        "pubDate": "2026-08-25T21:18",
         "feedId": "hn"
       },
       {
@@ -75,21 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Nitter project received cease and desist",
+        "title": "Nitter and XCancel receive cease and desist notices",
         "link": "https://github.com/zedeus/nitter/issues/1442",
         "pubDate": "2026-08-25T17:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "Black hole singularity is a surface not a point",
-        "link": "https://arxiv.org/abs/2608.21590",
-        "pubDate": "2026-08-25T17:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "My Friend Aaron",
-        "link": "https://rorz.io/writing/my-friend-aaron",
-        "pubDate": "2026-08-25T16:53",
         "feedId": "hn"
       }
     ]
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Can a blog post be handwritten?",
-        "link": "https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/",
-        "pubDate": "2026-08-24T16:18",
+        "title": "maiao: Gerrit-style stacked diffs for GitHub, Cursor Origin, GitLab, Codeberg and more",
+        "link": "https://github.com/runetes/maiao",
+        "pubDate": "2026-08-25T21:03",
         "feedId": "lobsters"
       },
       {
-        "title": "Your executable is a SQLite database",
-        "link": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-        "pubDate": "2026-08-24T07:32",
+        "title": "the beauty in dsl-able languages",
+        "link": "https://w.on-t.work/dslable",
+        "pubDate": "2026-08-26T02:12",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Court ruling threatens Republicans' midterm TV ad advantage",
+        "link": "https://www.axios.com/2026/08/26/tv-ad-rates-republicans-democrats-court-ruling",
+        "pubDate": "2026-08-26T01:15",
+        "feedId": "axios"
+      },
+      {
         "title": "Darline Graham wins South Carolina GOP Senate runoff",
         "link": "https://www.axios.com/2026/08/26/darline-graham-south-carolina-republican-senate-results",
         "pubDate": "2026-08-26T01:02",
@@ -369,12 +375,6 @@
         "title": "Mark Carney's defiance of Trump has Canada cheering",
         "link": "https://www.axios.com/2026/08/24/carney-trump-tariffs-us-canada-liberal-leader-support",
         "pubDate": "2026-08-24T23:36",
-        "feedId": "axios"
-      },
-      {
-        "title": "Supreme Court upholds Trump's order to overhaul mail-in ballots",
-        "link": "https://www.axios.com/2026/08/24/supreme-court-mail-in-ballot-rules",
-        "pubDate": "2026-08-24T22:38",
         "feedId": "axios"
       }
     ]
