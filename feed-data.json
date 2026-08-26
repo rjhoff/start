@@ -3,9 +3,15 @@
     "id": "hn",
     "items": [
       {
-        "title": "Letter from Dolly Parton to Eminem",
-        "link": "https://twitter.com/Eminem/status/2092367272891310482",
-        "pubDate": "2026-08-26T02:09",
+        "title": "Ask HN: What is one simple thing LLMs are insanely bad at?",
+        "link": "https://news.ycombinator.com/item?id=49443820",
+        "pubDate": "2026-08-26T03:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+        "link": "https://arxiv.org/abs/2607.21503",
+        "pubDate": "2026-08-26T02:35",
         "feedId": "hn"
       },
       {
@@ -30,12 +36,6 @@
         "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
         "link": "https://github.com/swimmingbrain/texbrain",
         "pubDate": "2026-08-25T22:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "Python's pre-declared constants are kinda weird",
-        "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
-        "pubDate": "2026-08-25T21:39",
         "feedId": "hn"
       },
       {
@@ -122,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I cannot survive from burnout",
-        "link": "https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout",
-        "pubDate": "2026-08-24T16:04",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Migrating from Codeberg Pages to an OpenBSD VPS",
         "link": "https://nemin.hu/vps/index.html",
         "pubDate": "2026-08-25T10:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I cannot survive from burnout",
+        "link": "https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout",
+        "pubDate": "2026-08-24T16:04",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +158,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "AI Review Loops Don't Always Stabilise",
+        "link": "https://kevinmahoney.co.uk/articles/ai-review-loops/",
+        "pubDate": "2026-08-25T17:42",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Solving the 1+N query problem",
         "link": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
         "pubDate": "2026-08-25T08:25",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "the beauty in dsl-able languages",
+        "link": "https://w.on-t.work/dslable",
+        "pubDate": "2026-08-26T02:12",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "AI Review Loops Don't Always Stabilise",
-        "link": "https://kevinmahoney.co.uk/articles/ai-review-loops/",
-        "pubDate": "2026-08-25T17:42",
-        "feedId": "lobsters"
-      },
-      {
         "title": "maiao: Gerrit-style stacked diffs for GitHub, Cursor Origin, GitLab, Codeberg and more",
         "link": "https://github.com/runetes/maiao",
         "pubDate": "2026-08-25T21:03",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "the beauty in dsl-able languages",
-        "link": "https://w.on-t.work/dslable",
-        "pubDate": "2026-08-26T02:12",
         "feedId": "lobsters"
       }
     ]
