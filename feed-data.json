@@ -3,15 +3,45 @@
     "id": "hn",
     "items": [
       {
-        "title": "Show HN: Buslens – where can I get to by bus? (UK)",
-        "link": "https://rupertlinacre.com/buslens/",
-        "pubDate": "2026-08-26T07:36",
+        "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+        "pubDate": "2026-08-26T10:04",
         "feedId": "hn"
       },
       {
-        "title": "Disrupting a new covert influence campaign from Russia",
-        "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
-        "pubDate": "2026-08-26T07:31",
+        "title": "Social media use on the rise among Australian under-16s after ban: data",
+        "link": "https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data",
+        "pubDate": "2026-08-26T09:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY",
+        "link": "https://www.globalsolo.global/data/banking-access-index",
+        "pubDate": "2026-08-26T09:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Value Classes Still Need Compiler Sympathy",
+        "link": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
+        "pubDate": "2026-08-26T08:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "Oldinsurancemaps.net is now a Charter Project",
+        "link": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
+        "pubDate": "2026-08-26T08:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "RAG Is Simpler Than You Think",
+        "link": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+        "pubDate": "2026-08-26T08:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Buslens – where can I get to by bus? (UK)",
+        "link": "https://rupertlinacre.com/buslens/",
+        "pubDate": "2026-08-26T07:36",
         "feedId": "hn"
       },
       {
@@ -45,12 +75,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-        "link": "https://github.com/swimmingbrain/texbrain",
-        "pubDate": "2026-08-25T22:08",
-        "feedId": "hn"
-      },
-      {
         "title": "When str.lower() is a security vulnerability in Python",
         "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
         "pubDate": "2026-08-25T20:49",
@@ -66,30 +90,6 @@
         "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
         "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
         "pubDate": "2026-08-25T19:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "Dolly Parton has died",
-        "link": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-        "pubDate": "2026-08-25T18:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "Firefox 157 will include JPEG XL by default on all platforms",
-        "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-        "pubDate": "2026-08-25T17:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "Run OpenBSD on DigitalOcean for $4/month",
-        "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-        "pubDate": "2026-08-25T17:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nitter and XCancel receive cease and desist notices",
-        "link": "https://github.com/zedeus/nitter/issues/1442",
-        "pubDate": "2026-08-25T17:08",
         "feedId": "hn"
       }
     ]
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Hunting Down a Go Runtime Bug on 32-bit Embedded Systems",
-        "link": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
-        "pubDate": "2026-08-25T12:26",
+        "title": "Using TypeScript to Obtain One of the Rarest License Plates (2025)",
+        "link": "https://www.jack.bio/blog/licenseplate",
+        "pubDate": "2026-08-26T06:00",
         "feedId": "lobsters"
       },
       {
-        "title": "the beauty in dsl-able languages",
-        "link": "https://w.on-t.work/dslable",
-        "pubDate": "2026-08-26T02:12",
+        "title": "Hunting Down a Go Runtime Bug on 32-bit Embedded Systems",
+        "link": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
+        "pubDate": "2026-08-25T12:26",
         "feedId": "lobsters"
       }
     ]
