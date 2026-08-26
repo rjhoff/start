@@ -9,6 +9,12 @@
         "feedId": "hn"
       },
       {
+        "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
+        "link": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+        "pubDate": "2026-08-26T05:09",
+        "feedId": "hn"
+      },
+      {
         "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
         "link": "https://arxiv.org/abs/2607.21503",
         "pubDate": "2026-08-26T02:35",
@@ -85,12 +91,6 @@
         "link": "https://github.com/zedeus/nitter/issues/1442",
         "pubDate": "2026-08-25T17:08",
         "feedId": "hn"
-      },
-      {
-        "title": "Black hole singularity is a surface not a point",
-        "link": "https://arxiv.org/abs/2608.21590",
-        "pubDate": "2026-08-25T17:02",
-        "feedId": "hn"
       }
     ]
   },
@@ -122,6 +122,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Adding CPU affinity in a 24-core build machine made builds take longer",
+        "link": "https://infosec.exchange/@david_chisnall/117156204452541109",
+        "pubDate": "2026-08-25T13:29",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Migrating from Codeberg Pages to an OpenBSD VPS",
         "link": "https://nemin.hu/vps/index.html",
         "pubDate": "2026-08-25T10:42",
@@ -131,12 +137,6 @@
         "title": "I cannot survive from burnout",
         "link": "https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout",
         "pubDate": "2026-08-24T16:04",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Adding CPU affinity in a 24-core build machine made builds take longer",
-        "link": "https://infosec.exchange/@david_chisnall/117156204452541109",
-        "pubDate": "2026-08-25T13:29",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +170,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "mold: A Massively Parallel Linker",
+        "link": "https://arxiv.org/abs/2608.23228",
+        "pubDate": "2026-08-26T05:09",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What's in a tag name? JavaScript, apparently",
+        "link": "https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently",
+        "pubDate": "2026-08-26T06:36",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Solving the 1+N query problem",
         "link": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
         "pubDate": "2026-08-25T08:25",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Intent to Ship: JPEG XL",
-        "link": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
-        "pubDate": "2026-08-24T16:25",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Replacing a Rust Enum with a 64-bit Word Made My Interpreter 17% Faster",
-        "link": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
-        "pubDate": "2026-08-25T14:40",
         "feedId": "lobsters"
       }
     ]
