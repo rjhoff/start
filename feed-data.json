@@ -3,6 +3,60 @@
     "id": "hn",
     "items": [
       {
+        "title": "Overcooked? Why robotic pizza makers are failing",
+        "link": "https://www.bbc.com/news/articles/czxq0wgkkdjo",
+        "pubDate": "2026-08-28T08:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "Climate change is strengthening El Niño, coral records suggest",
+        "link": "https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest",
+        "pubDate": "2026-08-28T07:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "That's a Lot of YAML",
+        "link": "https://noyaml.com/",
+        "pubDate": "2026-08-28T07:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "Sovereign Tech Agency invests €500k in Flatpak",
+        "link": "https://modal.cx/blog/announcing-flatpak-sta/",
+        "pubDate": "2026-08-28T05:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
+        "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+        "pubDate": "2026-08-28T03:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "Bootstrappable Builds: How and Why",
+        "link": "https://lwn.net/Articles/1088279/",
+        "pubDate": "2026-08-28T03:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "Stripe said to abandon $50B pursuit of PayPal",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
+        "pubDate": "2026-08-28T01:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+        "link": "https://www.terminal-bench-science.ai/announcement",
+        "pubDate": "2026-08-28T00:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Select * from Internet.blogposts",
+        "link": "https://pfrazee.leaflet.pub/3mu3p2smmis22",
+        "pubDate": "2026-08-27T22:34",
+        "feedId": "hn"
+      },
+      {
         "title": "Doctors are finally learning to manage antidepressant withdrawal",
         "link": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
         "pubDate": "2026-08-27T22:26",
@@ -27,18 +81,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Meta Paid $17B – Gets to Write Safety Rules for Other SocMedia Platform",
-        "link": "https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/",
-        "pubDate": "2026-08-27T20:41",
-        "feedId": "hn"
-      },
-      {
-        "title": "Autism mutations drive neurodevelopmental pathology",
-        "link": "https://www.science.org/doi/10.1126/science.ady4523",
-        "pubDate": "2026-08-27T18:23",
-        "feedId": "hn"
-      },
-      {
         "title": "Previewing the Model Hardware Standard",
         "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
         "pubDate": "2026-08-27T18:04",
@@ -48,48 +90,6 @@
         "title": "Gemini-3.5-Transcribe",
         "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
         "pubDate": "2026-08-27T18:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Voronoi Go",
-        "link": "https://voronoigo.com/",
-        "pubDate": "2026-08-27T18:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
-        "link": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
-        "pubDate": "2026-08-27T17:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "M5Stack Launches PaperMono",
-        "link": "https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects",
-        "pubDate": "2026-08-27T17:50",
-        "feedId": "hn"
-      },
-      {
-        "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
-        "link": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
-        "pubDate": "2026-08-27T17:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "Gemini Omni 1.1 Flash",
-        "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
-        "pubDate": "2026-08-27T17:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "Bild AI (YC W25) is hiring product and AI engineers",
-        "link": "https://www.bild.ai/jobs",
-        "pubDate": "2026-08-27T17:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Small Models Have Arrived",
-        "link": "https://calv.info/small-models-have-arrived",
-        "pubDate": "2026-08-27T15:56",
         "feedId": "hn"
       }
     ]
@@ -110,9 +110,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Announcing our first Maintainers in Residence",
-        "link": "https://blog.rust-lang.org/2026/08/26/announcing-our-first-maintainers-in-residence/",
-        "pubDate": "2026-08-27T08:44",
+        "title": "Nitter, XCancel Shutdown Over Cease-And-Desist",
+        "link": "https://github.com/zedeus/nitter",
+        "pubDate": "2026-08-28T04:41",
         "feedId": "lobsters"
       },
       {
@@ -122,9 +122,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Ardour 9.8 released",
+        "link": "https://ardour.org/whatsnew.html",
+        "pubDate": "2026-08-28T01:35",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Announcing our first Maintainers in Residence",
+        "link": "https://blog.rust-lang.org/2026/08/26/announcing-our-first-maintainers-in-residence/",
+        "pubDate": "2026-08-27T08:44",
+        "feedId": "lobsters"
+      },
+      {
         "title": "A Million Kakapos",
         "link": "https://blog.mempko.com/a-million-kakapos/",
         "pubDate": "2026-08-27T15:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Announcing Sovereign Tech Agency Investment in Flatpak",
+        "link": "https://modal.cx/blog/announcing-flatpak-sta/",
+        "pubDate": "2026-08-28T03:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
+        "link": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+        "pubDate": "2026-08-28T06:54",
         "feedId": "lobsters"
       },
       {
@@ -134,57 +158,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Asahi Linux Progress Report: Linux 7.2",
-        "link": "https://asahilinux.org/2026/08/progress-report-7-2/",
-        "pubDate": "2026-08-26T23:34",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The Server Called Paranoia: Defend Autistici/Inventati Before September 25",
         "link": "https://cavallette.noblogs.org/2026/08/10083/2",
         "pubDate": "2026-08-27T15:20",
         "feedId": "lobsters"
       },
       {
+        "title": "EasyEffects should be part of every Linux distribution to improve laptop speaker sound quality",
+        "link": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
+        "pubDate": "2026-08-28T09:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Asahi Linux Progress Report: Linux 7.2",
+        "link": "https://asahilinux.org/2026/08/progress-report-7-2/",
+        "pubDate": "2026-08-26T23:34",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits",
+        "link": "https://www.hanselman.com/blog/debugging-my-new-network-when-10-gigabit-ethernet-runs-at-300-megabits",
+        "pubDate": "2026-08-28T05:52",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Nebula Sans",
         "link": "https://www.nebulasans.com/",
         "pubDate": "2026-08-26T22:45",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why Free Software usability tends to suck (2002)",
-        "link": "https://web.archive.org/web/20030201183139/http://mpt.phrasewise.com/discuss/msgReader$173",
-        "pubDate": "2026-08-27T01:55",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Haiku R1/beta6 released",
-        "link": "https://www.haiku-os.org/get-haiku/r1beta6/release-notes/",
-        "pubDate": "2026-08-26T16:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "If I release it, you won’t get the same experience I get",
-        "link": "https://notes.highlysuspect.agency/cant-release-that.html",
-        "pubDate": "2026-08-27T03:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Merchants of Insecurity",
-        "link": "https://blog.happyfellow.dev/merchants-of-insecurity/",
-        "pubDate": "2026-08-26T14:30",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Dissectingthe Apple M1 GPU, the end (2025)",
-        "link": "https://alyssarosenzweig.ca/blog/asahi-gpu-part-n.html",
-        "pubDate": "2026-08-27T01:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Simon Peyton Jones on Functional Programming, Thinking in Types, Useless Languages",
-        "link": "https://www.youtube.com/watch?v=xcB_LF3cdqw",
-        "pubDate": "2026-08-27T13:41",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,42 @@
     "id": "axios",
     "items": [
       {
+        "title": "\"That sucker is open\": U.S. gains the upper hand in the battle for Hormuz",
+        "link": "https://www.axios.com/2026/08/28/trump-iran-hormuz-war-oil",
+        "pubDate": "2026-08-28T09:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "Nvidia almighty: Chip riches flood through AI universe",
+        "link": "https://www.axios.com/2026/08/28/nvidia-ai-chip-circular-finance-startups",
+        "pubDate": "2026-08-28T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "The EU AI Act gets real",
+        "link": "https://www.axios.com/2026/08/28/eu-ai-act-gets-real",
+        "pubDate": "2026-08-28T09:15",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump's evolving endgame for the Iran war, in 6 quotes",
+        "link": "https://www.axios.com/2026/08/28/trump-iran-war-end-plan-military",
+        "pubDate": "2026-08-28T09:02",
+        "feedId": "axios"
+      },
+      {
+        "title": "Judge blocks Pentagon's Anthropic blacklist",
+        "link": "https://www.axios.com/2026/08/28/judge-blocks-pentagon-anthropic-blacklist",
+        "pubDate": "2026-08-28T02:42",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: National Democrats and Republicans squeeze local TV stations in ad rate war",
+        "link": "https://www.axios.com/2026/08/28/midterms-2026-democrats-republicans-ad-rates-tv",
+        "pubDate": "2026-08-28T00:03",
+        "feedId": "axios"
+      },
+      {
         "title": "Scoop: Democrats plan bill to counter Trump order renaming Lake Ontario to \"Lake America\"",
         "link": "https://www.axios.com/2026/08/27/trump-lake-ontario-america-democrats-bill",
         "pubDate": "2026-08-27T22:46",
@@ -339,42 +375,6 @@
         "title": "Fed's Warsh under pressure to clarify message in highly anticipated Jackson Hole speech",
         "link": "https://www.axios.com/2026/08/27/warsh-guidance-jackson-hole",
         "pubDate": "2026-08-27T15:55",
-        "feedId": "axios"
-      },
-      {
-        "title": "Chuck Edwards makes last-ditch plea to avoid censure",
-        "link": "https://www.axios.com/2026/08/27/chuck-edwards-sexual-harassment-ethics-censure",
-        "pubDate": "2026-08-27T15:26",
-        "feedId": "axios"
-      },
-      {
-        "title": "Fed governor Lisa Cook: \"No legitimate basis for removal\" on Trump mortgage claims",
-        "link": "https://www.axios.com/2026/08/26/trump-fed-lisa-cook",
-        "pubDate": "2026-08-27T12:45",
-        "feedId": "axios"
-      },
-      {
-        "title": "Big Tech's AI spending is bigger than you think",
-        "link": "https://www.axios.com/2026/08/27/ai-spending-spending-balance-sheet",
-        "pubDate": "2026-08-27T11:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "Lutnick to host Altman, Huang at G20 Innovation Ministerial in Chapel Hill",
-        "link": "https://www.axios.com/2026/08/27/altman-huang-lutnick-chapel-hill-g20-trade",
-        "pubDate": "2026-08-27T11:18",
-        "feedId": "axios"
-      },
-      {
-        "title": "What we learned from Nvidia's big day",
-        "link": "https://www.axios.com/2026/08/27/nvidia-ai-earnings-stock",
-        "pubDate": "2026-08-27T11:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Young Black voters buck Democratic old guard",
-        "link": "https://www.axios.com/2026/08/27/democratic-primary-black-voters",
-        "pubDate": "2026-08-27T09:20",
         "feedId": "axios"
       }
     ]
