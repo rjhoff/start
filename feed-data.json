@@ -3,6 +3,60 @@
     "id": "hn",
     "items": [
       {
+        "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+        "link": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
+        "pubDate": "2026-08-29T18:44",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Internet Is Kind of a Predatory Cesspit Now",
+        "link": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
+        "pubDate": "2026-08-29T18:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+        "link": "https://tucker.wales/writing/bias-towards-action/",
+        "pubDate": "2026-08-29T17:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+        "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+        "pubDate": "2026-08-29T17:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "A better SQL in 11 lines of code",
+        "link": "https://prela-lang.org/tutorial/",
+        "pubDate": "2026-08-29T17:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "The growing divide between AI hype and software engineering reality",
+        "link": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
+        "pubDate": "2026-08-29T16:16",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nancy Grace Roman Space Telescope",
+        "link": "https://science.nasa.gov/mission/roman-space-telescope/",
+        "pubDate": "2026-08-29T15:48",
+        "feedId": "hn"
+      },
+      {
+        "title": "Quantifying Colour",
+        "link": "https://ekunazanu.foo/lab/quantifying-colour/",
+        "pubDate": "2026-08-29T15:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+        "link": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
+        "pubDate": "2026-08-29T15:26",
+        "feedId": "hn"
+      },
+      {
         "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
         "link": "https://uecker.codeberg.page/2026-08-29.html",
         "pubDate": "2026-08-29T14:20",
@@ -15,45 +69,15 @@
         "feedId": "hn"
       },
       {
-        "title": "SteamOS 3.9.0 Preview",
-        "link": "https://store.steampowered.com/news/app/1675200/view/689767056035283412",
-        "pubDate": "2026-08-29T13:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "Iceland votes on whether to restart talks on joining EU",
-        "link": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
-        "pubDate": "2026-08-29T11:39",
-        "feedId": "hn"
-      },
-      {
         "title": "Samsung's Processing-in-Memory (PIM)",
         "link": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
         "pubDate": "2026-08-29T06:06",
         "feedId": "hn"
       },
       {
-        "title": "TurboKV: Insanely fast Rust key-value store",
-        "link": "https://github.com/kingroryg/turbokv",
-        "pubDate": "2026-08-29T02:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "Our decision on Cursor following its acquisition by SpaceX",
-        "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-        "pubDate": "2026-08-29T01:47",
-        "feedId": "hn"
-      },
-      {
         "title": "StemDeck, a free, open-source and local AI stem separator",
         "link": "https://github.com/stemdeckapp/stemdeck",
         "pubDate": "2026-08-29T01:24",
-        "feedId": "hn"
-      },
-      {
-        "title": "Does the Sumerian King List Align with Paleoclimate Events?",
-        "link": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
-        "pubDate": "2026-08-28T23:46",
         "feedId": "hn"
       },
       {
@@ -66,30 +90,6 @@
         "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
         "link": "https://github.com/Lakr233/vphone-cli",
         "pubDate": "2026-08-28T23:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research",
-        "link": "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering",
-        "pubDate": "2026-08-28T17:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Just the rumour of a bug is enough to find an exploit these days",
-        "link": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-        "pubDate": "2026-08-28T15:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "GUIs should be fully keyboard-driven",
-        "link": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-        "pubDate": "2026-08-28T15:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "Creating the Aetheryte Radio",
-        "link": "https://haz.ee/posts/aetheryte-radio.html",
-        "pubDate": "2026-08-28T14:59",
         "feedId": "hn"
       }
     ]
@@ -104,9 +104,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Debian and the sirens",
+        "link": "https://joeyh.name/blog/entry/Debian_and_the_sirens/",
+        "pubDate": "2026-08-29T15:33",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Yap: a particular kind of slop",
         "link": "https://mckayla.blog/posts/yap.html",
         "pubDate": "2026-08-28T16:35",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Creepy crawlies",
+        "link": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+        "pubDate": "2026-08-29T16:25",
         "feedId": "lobsters"
       },
       {
@@ -122,45 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "htmx 4.0.0 has been released",
-        "link": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-        "pubDate": "2026-08-28T16:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "OpenOffice does not print on Tuesdays (2009)",
-        "link": "https://beza1e1.tuxen.de/lore/print_on_tuesday.html",
-        "pubDate": "2026-08-28T12:06",
-        "feedId": "lobsters"
-      },
-      {
         "title": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
         "link": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
         "pubDate": "2026-08-29T06:11",
         "feedId": "lobsters"
       },
       {
-        "title": "How cats.txt showed llms.txt evidence is GEO astrology",
-        "link": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
-        "pubDate": "2026-08-28T18:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "EasyEffects should be part of every Linux distribution to improve laptop speaker sound quality",
-        "link": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
-        "pubDate": "2026-08-28T09:28",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Just a rumour of a bug is enough to find a security exploit these days",
-        "link": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-        "pubDate": "2026-08-28T20:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "GUIs should be fully keyboard-driven",
-        "link": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-        "pubDate": "2026-08-28T18:47",
+        "title": "htmx 4.0.0 has been released",
+        "link": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+        "pubDate": "2026-08-28T16:14",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +152,39 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Quest for eternal dock on Wayland - lambdock (C + GTK4 + Lisp GNU Guile Scheme)",
-        "link": "https://jointhefreeworld.org/blog/articles/gnu-linux/quest-for-eternal-dock/index.html",
-        "pubDate": "2026-08-28T10:17",
+        "title": "OpenOffice does not print on Tuesdays (2009)",
+        "link": "https://beza1e1.tuxen.de/lore/print_on_tuesday.html",
+        "pubDate": "2026-08-28T12:06",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Just a rumour of a bug is enough to find a security exploit these days",
+        "link": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+        "pubDate": "2026-08-28T20:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How cats.txt showed llms.txt evidence is GEO astrology",
+        "link": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
+        "pubDate": "2026-08-28T18:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "GUIs should be fully keyboard-driven",
+        "link": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+        "pubDate": "2026-08-28T18:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Does Computer Science Need Computers?",
+        "link": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
+        "pubDate": "2026-08-29T18:10",
         "feedId": "lobsters"
       },
       {
         "title": "Any true alternatives to electron JavaScript?",
         "link": "https://lobste.rs/s/vji9aj/any_true_alternatives_electron",
         "pubDate": "2026-08-29T03:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How I made Rustdoc 33% faster in one week",
-        "link": "https://noahlev.org/blog/2026/08/27/making-rustdoc-faster/",
-        "pubDate": "2026-08-28T13:58",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+        "link": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+        "pubDate": "2026-08-29T17:50",
+        "feedId": "axios"
+      },
+      {
         "title": "The 5 craziest discoveries from OpenAI's HuggingFace investigation",
         "link": "https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights",
         "pubDate": "2026-08-29T13:11",
@@ -369,12 +375,6 @@
         "title": "Scoop: Democrats plan bill to counter Trump order renaming Lake Ontario to \"Lake America\"",
         "link": "https://www.axios.com/2026/08/27/trump-lake-ontario-america-democrats-bill",
         "pubDate": "2026-08-27T22:46",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump moves to rename Lake Ontario to \"Lake America\"",
-        "link": "https://www.axios.com/2026/08/27/trump-lake-ontario-lake-america",
-        "pubDate": "2026-08-27T21:34",
         "feedId": "axios"
       }
     ]
