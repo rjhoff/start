@@ -3,15 +3,51 @@
     "id": "hn",
     "items": [
       {
+        "title": "$44M Solar-Powered EV Production Deal Struck",
+        "link": "https://frequal.com/aptera/ProductionDealAug2026.html",
+        "pubDate": "2026-08-29T21:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "What we want is a hunter gatherer lifestyle with space age tools",
+        "link": "https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer",
+        "pubDate": "2026-08-29T20:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+        "link": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+        "pubDate": "2026-08-29T19:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Domain-Driven Agents",
+        "link": "https://coldtake.dev/blog/domain-driven-agents",
+        "pubDate": "2026-08-29T19:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "A safe MySQL upgrade that wasn't so safe",
+        "link": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
+        "pubDate": "2026-08-29T19:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+        "link": "https://dl.acm.org/doi/10.1145/3830438.3830958",
+        "pubDate": "2026-08-29T19:01",
+        "feedId": "hn"
+      },
+      {
         "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
         "link": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
         "pubDate": "2026-08-29T18:44",
         "feedId": "hn"
       },
       {
-        "title": "The Internet Is Kind of a Predatory Cesspit Now",
-        "link": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
-        "pubDate": "2026-08-29T18:40",
+        "title": "vLLM v0.28.0",
+        "link": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+        "pubDate": "2026-08-29T18:22",
         "feedId": "hn"
       },
       {
@@ -33,9 +69,9 @@
         "feedId": "hn"
       },
       {
-        "title": "The growing divide between AI hype and software engineering reality",
-        "link": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
-        "pubDate": "2026-08-29T16:16",
+        "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
+        "link": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
+        "pubDate": "2026-08-29T16:24",
         "feedId": "hn"
       },
       {
@@ -55,42 +91,6 @@
         "link": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
         "pubDate": "2026-08-29T15:26",
         "feedId": "hn"
-      },
-      {
-        "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-        "link": "https://uecker.codeberg.page/2026-08-29.html",
-        "pubDate": "2026-08-29T14:20",
-        "feedId": "hn"
-      },
-      {
-        "title": "Debian votes to allow \"responsible use of generative AI\"",
-        "link": "https://lwn.net/Articles/1091231/",
-        "pubDate": "2026-08-29T14:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "Samsung's Processing-in-Memory (PIM)",
-        "link": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-        "pubDate": "2026-08-29T06:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "StemDeck, a free, open-source and local AI stem separator",
-        "link": "https://github.com/stemdeckapp/stemdeck",
-        "pubDate": "2026-08-29T01:24",
-        "feedId": "hn"
-      },
-      {
-        "title": "I accidentally turned LLM memory into program analysis",
-        "link": "https://pwning.systems/posts/llm-memory-program-analysis/",
-        "pubDate": "2026-08-28T23:27",
-        "feedId": "hn"
-      },
-      {
-        "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-        "link": "https://github.com/Lakr233/vphone-cli",
-        "pubDate": "2026-08-28T23:02",
-        "feedId": "hn"
       }
     ]
   },
@@ -101,6 +101,12 @@
         "title": "Being kicked out of the tech industry",
         "link": "https://www.jacky.wtf/essays/2026/kicked-out/",
         "pubDate": "2026-08-29T08:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Creepy crawlies",
+        "link": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+        "pubDate": "2026-08-29T16:25",
         "feedId": "lobsters"
       },
       {
@@ -116,21 +122,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Creepy crawlies",
-        "link": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-        "pubDate": "2026-08-29T16:25",
-        "feedId": "lobsters"
-      },
-      {
         "title": "LLM usage in Debian neither endorsed nor prohibited",
         "link": "https://www.debian.org/vote/2026/vote_002#texte",
         "pubDate": "2026-08-29T01:40",
         "feedId": "lobsters"
       },
       {
-        "title": "Parsing the Infamous Japanese Postal CSV",
+        "title": "Parsing the Infamous Japanese Postal CSV (2020)",
         "link": "https://www.dampfkraft.com/posuto.html",
         "pubDate": "2026-08-29T08:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Introducing ReactOS 0.4.16",
+        "link": "https://reactos.org/project-news/reactos-0416-released/",
+        "pubDate": "2026-08-29T20:21",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Wrapping GTK4 in 800 lines of Clojure with Jolt",
+        "link": "https://yogthos.net/posts/2026-08-29-glimmer-ui.html",
+        "pubDate": "2026-08-29T19:56",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Debian Votes To Allow \"Responsible Use Of Generative AI\"",
-        "link": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
-        "pubDate": "2026-08-29T08:19",
+        "title": "What GLM-5.3 Flash running on Chinese hardware actually means",
+        "link": "https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/",
+        "pubDate": "2026-08-29T20:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Does Computer Science Need Computers?",
+        "link": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
+        "pubDate": "2026-08-29T18:10",
         "feedId": "lobsters"
       },
       {
@@ -167,24 +185,6 @@
         "title": "How cats.txt showed llms.txt evidence is GEO astrology",
         "link": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
         "pubDate": "2026-08-28T18:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "GUIs should be fully keyboard-driven",
-        "link": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-        "pubDate": "2026-08-28T18:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Does Computer Science Need Computers?",
-        "link": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
-        "pubDate": "2026-08-29T18:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Any true alternatives to electron JavaScript?",
-        "link": "https://lobste.rs/s/vji9aj/any_true_alternatives_electron",
-        "pubDate": "2026-08-29T03:11",
         "feedId": "lobsters"
       }
     ]
