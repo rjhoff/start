@@ -3,6 +3,42 @@
     "id": "hn",
     "items": [
       {
+        "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+        "link": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+        "pubDate": "2026-08-30T20:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "1kB Website as Status Symbol",
+        "link": "https://async.cat/blog",
+        "pubDate": "2026-08-30T19:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "The world may have less time than it thinks on climate change",
+        "link": "https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change",
+        "pubDate": "2026-08-30T19:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+        "link": "https://github.com/KodeMunkie/sm750hdmifb",
+        "pubDate": "2026-08-30T18:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "Norway Shrugged",
+        "link": "https://paragraph.com/@hagaetc/norway-shrugged",
+        "pubDate": "2026-08-30T18:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "Running SQLite Apps on Docker and Kubernetes with Litestream",
+        "link": "https://openrun.dev/blog/litestream/",
+        "pubDate": "2026-08-30T18:05",
+        "feedId": "hn"
+      },
+      {
         "title": "Artie (YC S23) Is Hiring Technical AES",
         "link": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
         "pubDate": "2026-08-30T17:01",
@@ -51,45 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-        "link": "https://github.com/anthropics/claude-code/issues/66504",
-        "pubDate": "2026-08-30T12:50",
-        "feedId": "hn"
-      },
-      {
-        "title": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
-        "link": "https://github.com/fugue-labs/monty-go",
-        "pubDate": "2026-08-30T12:02",
-        "feedId": "hn"
-      },
-      {
         "title": "Automating Immersive Reading",
         "link": "https://smoores.dev/post/automating_immersive_reading/",
         "pubDate": "2026-08-30T11:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
-        "link": "https://www.muppetlabs.com/~breadbox/software/windows.html",
-        "pubDate": "2026-08-30T11:41",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hacking IKEA Furniture",
-        "link": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
-        "pubDate": "2026-08-30T11:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "One Nix flake to rule them all",
-        "link": "https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all",
-        "pubDate": "2026-08-30T11:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "Building my own network stack",
-        "link": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
-        "pubDate": "2026-08-30T09:52",
         "feedId": "hn"
       }
     ]
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "There's no such thing as Just a Tool",
-        "link": "https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool",
-        "pubDate": "2026-08-30T03:59",
-        "feedId": "lobsters"
-      },
-      {
         "title": "But where does taste come from?",
         "link": "https://dustycloud.org/blog/but-where-does-taste-come-from/",
         "pubDate": "2026-08-30T13:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "There's no such thing as Just a Tool",
+        "link": "https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool",
+        "pubDate": "2026-08-30T03:59",
         "feedId": "lobsters"
       },
       {
@@ -122,6 +122,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Omarchy: Any User Process Can Escalate to Root",
+        "link": "https://0xcc.io/posts/omarchy-root-creds/",
+        "pubDate": "2026-08-30T18:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Transfer files over an ethernet patch cable",
+        "link": "https://maurycyz.com/misc/etherfiles/",
+        "pubDate": "2026-08-30T13:11",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Being kicked out of the tech industry",
         "link": "https://www.jacky.wtf/essays/2026/kicked-out/",
         "pubDate": "2026-08-29T08:24",
@@ -134,21 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Transfer files over an ethernet patch cable",
-        "link": "https://maurycyz.com/misc/etherfiles/",
-        "pubDate": "2026-08-30T13:11",
-        "feedId": "lobsters"
-      },
-      {
         "title": "California Passes AB-1856 For Open-Source Relief Over Age Verification",
         "link": "https://www.phoronix.com/news/California-AB-1856-Passes",
         "pubDate": "2026-08-30T07:09",
         "feedId": "lobsters"
       },
       {
-        "title": "Automating immersive reading",
-        "link": "https://smoores.dev/post/automating_immersive_reading/",
-        "pubDate": "2026-08-30T11:54",
+        "title": "One flake to rule them all",
+        "link": "https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all",
+        "pubDate": "2026-08-30T16:11",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +164,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Debian and the sirens",
-        "link": "https://joeyh.name/blog/entry/Debian_and_the_sirens/",
-        "pubDate": "2026-08-29T15:33",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Prompt Injection in Claude Code Opus 5 Auto Mode",
         "link": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
         "pubDate": "2026-08-30T05:36",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Automating immersive reading",
+        "link": "https://smoores.dev/post/automating_immersive_reading/",
+        "pubDate": "2026-08-30T11:54",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What GLM-5.3 Flash running on Chinese hardware actually means",
-        "link": "https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/",
-        "pubDate": "2026-08-29T20:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Bug blindness",
-        "link": "https://danluu.com/bug-blind/",
-        "pubDate": "2026-08-30T01:34",
+        "title": "Debian and the sirens",
+        "link": "https://joeyh.name/blog/entry/Debian_and_the_sirens/",
+        "pubDate": "2026-08-29T15:33",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Why it matters that President Trump just dialed into a NASA news conference",
+        "link": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
+        "pubDate": "2026-08-30T17:40",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Inside Meta’s push to put robots to work in data centers",
         "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
@@ -275,18 +281,18 @@
         "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
         "pubDate": "2026-08-27T20:52",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "GOP heads to Supreme Court after losing case over TV election ad prices",
-        "link": "https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/",
-        "pubDate": "2026-08-27T20:06",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "U.S. strikes Iran to prevent Hormuz mine threat",
+        "link": "https://www.axios.com/2026/08/30/us-iran-strike-hormuz-mines",
+        "pubDate": "2026-08-30T20:08",
+        "feedId": "axios"
+      },
       {
         "title": "Google Maps switches to \"Lake America\" as Canada compares change to SNL skit",
         "link": "https://www.axios.com/2026/08/30/lake-america-lake-ontario-maps-trump",
@@ -369,12 +375,6 @@
         "title": "The EU AI Act gets real",
         "link": "https://www.axios.com/2026/08/28/eu-ai-act-gets-real",
         "pubDate": "2026-08-28T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump's evolving endgame for the Iran war, in 6 quotes",
-        "link": "https://www.axios.com/2026/08/28/trump-iran-war-end-plan-military",
-        "pubDate": "2026-08-28T09:02",
         "feedId": "axios"
       }
     ]
