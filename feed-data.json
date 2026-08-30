@@ -3,33 +3,51 @@
     "id": "hn",
     "items": [
       {
+        "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+        "link": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+        "pubDate": "2026-08-30T03:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "Algorithmic rent-pricing litigation expands under new state and local laws",
+        "link": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
+        "pubDate": "2026-08-30T02:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "FreeCORE TrueNAS Core – Continued",
+        "link": "https://freecore.org/",
+        "pubDate": "2026-08-30T01:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
+        "link": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
+        "pubDate": "2026-08-30T01:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+        "link": "https://github.com/mk6i/open-oscar-server",
+        "pubDate": "2026-08-30T00:33",
+        "feedId": "hn"
+      },
+      {
         "title": "Bug Blindness",
         "link": "https://danluu.com/bug-blind/",
         "pubDate": "2026-08-30T00:21",
         "feedId": "hn"
       },
       {
-        "title": "Highest-ever ocean temperature measured as powerful El Niño forms",
-        "link": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
-        "pubDate": "2026-08-29T23:26",
+        "title": "The Rise and Fall of Agent Civilizations",
+        "link": "https://www.dwarkesh.com/p/openai-huggingface",
+        "pubDate": "2026-08-29T23:43",
         "feedId": "hn"
       },
       {
         "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
         "link": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
         "pubDate": "2026-08-29T23:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "I co-founded Burning Man. The festival has lost its soul",
-        "link": "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/",
-        "pubDate": "2026-08-29T23:12",
-        "feedId": "hn"
-      },
-      {
-        "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
-        "link": "https://defrag98.com",
-        "pubDate": "2026-08-29T22:51",
         "feedId": "hn"
       },
       {
@@ -42,12 +60,6 @@
         "title": "Domain-Driven Agents",
         "link": "https://coldtake.dev/blog/domain-driven-agents",
         "pubDate": "2026-08-29T19:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "A safe MySQL upgrade that wasn't so safe",
-        "link": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
-        "pubDate": "2026-08-29T19:15",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
         "pubDate": "2026-08-29T16:24",
         "feedId": "hn"
-      },
-      {
-        "title": "Nancy Grace Roman Space Telescope",
-        "link": "https://science.nasa.gov/mission/roman-space-telescope/",
-        "pubDate": "2026-08-29T15:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "Quantifying Colour",
-        "link": "https://ekunazanu.foo/lab/quantifying-colour/",
-        "pubDate": "2026-08-29T15:43",
-        "feedId": "hn"
       }
     ]
   },
@@ -116,9 +116,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Introducing ReactOS 0.4.16",
-        "link": "https://reactos.org/project-news/reactos-0416-released/",
-        "pubDate": "2026-08-29T20:21",
+        "title": "There's no such thing as Just a Tool",
+        "link": "https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool",
+        "pubDate": "2026-08-30T03:59",
         "feedId": "lobsters"
       },
       {
@@ -128,9 +128,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Yap: a particular kind of slop",
-        "link": "https://mckayla.blog/posts/yap.html",
-        "pubDate": "2026-08-28T16:35",
+        "title": "Introducing ReactOS 0.4.16",
+        "link": "https://reactos.org/project-news/reactos-0416-released/",
+        "pubDate": "2026-08-29T20:21",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Wrapping GTK4 in 800 lines of Clojure with Jolt",
+        "link": "https://yogthos.net/posts/2026-08-29-glimmer-ui.html",
+        "pubDate": "2026-08-29T19:56",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Bug blindness",
+        "link": "https://danluu.com/bug-blind/",
+        "pubDate": "2026-08-30T01:34",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+        "link": "https://dl.acm.org/doi/epdf/10.1145/3830438.3830958",
+        "pubDate": "2026-08-29T21:59",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Wrapping GTK4 in 800 lines of Clojure with Jolt",
-        "link": "https://yogthos.net/posts/2026-08-29-glimmer-ui.html",
-        "pubDate": "2026-08-29T19:56",
+        "title": "California Passes AB-1856 For Open-Source Relief Over Age Verification",
+        "link": "https://www.phoronix.com/news/California-AB-1856-Passes",
+        "pubDate": "2026-08-30T07:09",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Yap: a particular kind of slop",
+        "link": "https://mckayla.blog/posts/yap.html",
+        "pubDate": "2026-08-28T16:35",
         "feedId": "lobsters"
       },
       {
@@ -161,30 +185,6 @@
         "title": "Does Computer Science Need Computers?",
         "link": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
         "pubDate": "2026-08-29T18:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "htmx 4.0.0 has been released",
-        "link": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-        "pubDate": "2026-08-28T16:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
-        "link": "https://dl.acm.org/doi/epdf/10.1145/3830438.3830958",
-        "pubDate": "2026-08-29T21:59",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Debian Votes To Allow \"Responsible Use Of Generative AI\"",
-        "link": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
-        "pubDate": "2026-08-29T08:19",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Any true alternatives to electron JavaScript?",
-        "link": "https://lobste.rs/s/vji9aj/any_true_alternatives_electron",
-        "pubDate": "2026-08-29T03:11",
         "feedId": "lobsters"
       }
     ]
