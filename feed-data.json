@@ -3,93 +3,93 @@
     "id": "hn",
     "items": [
       {
-        "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
-        "link": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-        "pubDate": "2026-08-30T03:15",
+        "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+        "link": "https://github.com/anthropics/claude-code/issues/66504",
+        "pubDate": "2026-08-30T12:50",
         "feedId": "hn"
       },
       {
-        "title": "Algorithmic rent-pricing litigation expands under new state and local laws",
-        "link": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
-        "pubDate": "2026-08-30T02:25",
+        "title": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
+        "link": "https://github.com/fugue-labs/monty-go",
+        "pubDate": "2026-08-30T12:02",
         "feedId": "hn"
       },
       {
-        "title": "FreeCORE TrueNAS Core – Continued",
-        "link": "https://freecore.org/",
-        "pubDate": "2026-08-30T01:31",
+        "title": "Automating Immersive Reading",
+        "link": "https://smoores.dev/post/automating_immersive_reading/",
+        "pubDate": "2026-08-30T11:46",
         "feedId": "hn"
       },
       {
-        "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
-        "link": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
-        "pubDate": "2026-08-30T01:09",
+        "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
+        "link": "https://www.muppetlabs.com/~breadbox/software/windows.html",
+        "pubDate": "2026-08-30T11:41",
         "feedId": "hn"
       },
       {
-        "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
-        "link": "https://github.com/mk6i/open-oscar-server",
-        "pubDate": "2026-08-30T00:33",
+        "title": "Hacking IKEA Furniture",
+        "link": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+        "pubDate": "2026-08-30T11:39",
         "feedId": "hn"
       },
       {
-        "title": "Bug Blindness",
-        "link": "https://danluu.com/bug-blind/",
-        "pubDate": "2026-08-30T00:21",
+        "title": "The turbulent AI era is here. The choices we make now are critical",
+        "link": "https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+        "pubDate": "2026-08-30T11:38",
         "feedId": "hn"
       },
       {
-        "title": "The Rise and Fall of Agent Civilizations",
-        "link": "https://www.dwarkesh.com/p/openai-huggingface",
-        "pubDate": "2026-08-29T23:43",
+        "title": "One Nix flake to rule them all",
+        "link": "https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all",
+        "pubDate": "2026-08-30T11:22",
         "feedId": "hn"
       },
       {
-        "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-        "link": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-        "pubDate": "2026-08-29T23:17",
+        "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+        "link": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+        "pubDate": "2026-08-30T10:20",
         "feedId": "hn"
       },
       {
-        "title": "Hy4 preview",
-        "link": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-        "pubDate": "2026-08-29T19:33",
+        "title": "Spark: Sparklines in your shell",
+        "link": "https://git.zx2c4.com/spark/about/",
+        "pubDate": "2026-08-30T10:02",
         "feedId": "hn"
       },
       {
-        "title": "Domain-Driven Agents",
-        "link": "https://coldtake.dev/blog/domain-driven-agents",
-        "pubDate": "2026-08-29T19:28",
+        "title": "Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website",
+        "link": "https://github.com/AniketWathore/bolnee-chat",
+        "pubDate": "2026-08-30T09:56",
         "feedId": "hn"
       },
       {
-        "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
-        "link": "https://dl.acm.org/doi/10.1145/3830438.3830958",
-        "pubDate": "2026-08-29T19:01",
+        "title": "Everyone Should Build Their Own Network Stack",
+        "link": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
+        "pubDate": "2026-08-30T09:52",
         "feedId": "hn"
       },
       {
-        "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
-        "link": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
-        "pubDate": "2026-08-29T18:44",
+        "title": "Brits would quite like their private messages to stay private",
+        "link": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+        "pubDate": "2026-08-30T09:26",
         "feedId": "hn"
       },
       {
-        "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
-        "link": "https://tucker.wales/writing/bias-towards-action/",
-        "pubDate": "2026-08-29T17:39",
+        "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+        "link": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+        "pubDate": "2026-08-30T08:51",
         "feedId": "hn"
       },
       {
-        "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-        "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-        "pubDate": "2026-08-29T17:19",
+        "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+        "link": "https://arxiv.org/abs/1804.07389",
+        "pubDate": "2026-08-30T08:23",
         "feedId": "hn"
       },
       {
-        "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
-        "link": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
-        "pubDate": "2026-08-29T16:24",
+        "title": "Xcena and Samsung's Near Memory Compute CXL Device",
+        "link": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
+        "pubDate": "2026-08-30T07:35",
         "feedId": "hn"
       }
     ]
@@ -110,21 +110,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Debian and the sirens",
-        "link": "https://joeyh.name/blog/entry/Debian_and_the_sirens/",
-        "pubDate": "2026-08-29T15:33",
-        "feedId": "lobsters"
-      },
-      {
         "title": "There's no such thing as Just a Tool",
         "link": "https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool",
         "pubDate": "2026-08-30T03:59",
         "feedId": "lobsters"
       },
       {
-        "title": "What GLM-5.3 Flash running on Chinese hardware actually means",
-        "link": "https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/",
-        "pubDate": "2026-08-29T20:44",
+        "title": "Rust Function Overloading - Call for Experimentation",
+        "link": "https://blog.rust-lang.org/inside-rust/2026/08/19/overloading-experiment/",
+        "pubDate": "2026-08-30T09:39",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Debian and the sirens",
+        "link": "https://joeyh.name/blog/entry/Debian_and_the_sirens/",
+        "pubDate": "2026-08-29T15:33",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Gram Editor 3.3.0 Released",
+        "link": "https://gram-editor.com/posts/release-3.3.0/",
+        "pubDate": "2026-08-30T08:50",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Automating immersive reading",
+        "link": "https://smoores.dev/post/automating_immersive_reading/",
+        "pubDate": "2026-08-30T11:54",
         "feedId": "lobsters"
       },
       {
@@ -134,27 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Wrapping GTK4 in 800 lines of Clojure with Jolt",
-        "link": "https://yogthos.net/posts/2026-08-29-glimmer-ui.html",
-        "pubDate": "2026-08-29T19:56",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Bug blindness",
         "link": "https://danluu.com/bug-blind/",
         "pubDate": "2026-08-30T01:34",
         "feedId": "lobsters"
       },
       {
-        "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
-        "link": "https://dl.acm.org/doi/epdf/10.1145/3830438.3830958",
-        "pubDate": "2026-08-29T21:59",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Parsing the Infamous Japanese Postal CSV (2020)",
-        "link": "https://www.dampfkraft.com/posuto.html",
-        "pubDate": "2026-08-29T08:10",
+        "title": "What GLM-5.3 Flash running on Chinese hardware actually means",
+        "link": "https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/",
+        "pubDate": "2026-08-29T20:44",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Yap: a particular kind of slop",
-        "link": "https://mckayla.blog/posts/yap.html",
-        "pubDate": "2026-08-28T16:35",
+        "title": "Wrapping GTK4 in 800 lines of Clojure with Jolt",
+        "link": "https://yogthos.net/posts/2026-08-29-glimmer-ui.html",
+        "pubDate": "2026-08-29T19:56",
         "feedId": "lobsters"
       },
       {
-        "title": "LLM usage in Debian neither endorsed nor prohibited",
-        "link": "https://www.debian.org/vote/2026/vote_002#texte",
-        "pubDate": "2026-08-29T01:40",
+        "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+        "link": "https://dl.acm.org/doi/epdf/10.1145/3830438.3830958",
+        "pubDate": "2026-08-29T21:59",
         "feedId": "lobsters"
       },
       {
-        "title": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
-        "link": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-        "pubDate": "2026-08-29T06:11",
+        "title": "Prompt Injection in Claude Code Opus 5 Auto Mode",
+        "link": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+        "pubDate": "2026-08-30T05:36",
         "feedId": "lobsters"
       },
       {
-        "title": "Does Computer Science Need Computers?",
-        "link": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
-        "pubDate": "2026-08-29T18:10",
+        "title": "Transfer files over an ethernet patch cable",
+        "link": "https://maurycyz.com/misc/etherfiles/",
+        "pubDate": "2026-08-30T13:11",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Inside Meta’s push to put robots to work in data centers",
+        "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+        "pubDate": "2026-08-30T11:03",
+        "feedId": "arstechnica"
+      },
       {
         "title": "I asked 100 companies for my data. Some deleted it instead.",
         "link": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
@@ -275,18 +281,18 @@
         "link": "https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/",
         "pubDate": "2026-08-27T20:06",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-        "link": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-        "pubDate": "2026-08-27T19:55",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "America's next grocery shock is brewing",
+        "link": "https://www.axios.com/2026/08/30/grocery-inflation-prices-war-diesel",
+        "pubDate": "2026-08-30T13:02",
+        "feedId": "axios"
+      },
       {
         "title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
         "link": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
@@ -369,12 +375,6 @@
         "title": "Judge blocks Pentagon's Anthropic blacklist",
         "link": "https://www.axios.com/2026/08/28/judge-blocks-pentagon-anthropic-blacklist",
         "pubDate": "2026-08-28T02:42",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: National Democrats and Republicans squeeze local TV stations in ad rate war",
-        "link": "https://www.axios.com/2026/08/28/midterms-2026-democrats-republicans-ad-rates-tv",
-        "pubDate": "2026-08-28T00:03",
         "feedId": "axios"
       }
     ]
