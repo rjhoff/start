@@ -3,19 +3,37 @@
     "id": "hn",
     "items": [
       {
-        "title": "$44M Solar-Powered EV Production Deal Struck",
-        "link": "https://frequal.com/aptera/ProductionDealAug2026.html",
-        "pubDate": "2026-08-29T21:37",
+        "title": "Bug Blindness",
+        "link": "https://danluu.com/bug-blind/",
+        "pubDate": "2026-08-30T00:21",
         "feedId": "hn"
       },
       {
-        "title": "What we want is a hunter gatherer lifestyle with space age tools",
-        "link": "https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer",
-        "pubDate": "2026-08-29T20:53",
+        "title": "Highest-ever ocean temperature measured as powerful El Niño forms",
+        "link": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
+        "pubDate": "2026-08-29T23:26",
         "feedId": "hn"
       },
       {
-        "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+        "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+        "link": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+        "pubDate": "2026-08-29T23:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "I co-founded Burning Man. The festival has lost its soul",
+        "link": "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/",
+        "pubDate": "2026-08-29T23:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
+        "link": "https://defrag98.com",
+        "pubDate": "2026-08-29T22:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "Hy4 preview",
         "link": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
         "pubDate": "2026-08-29T19:33",
         "feedId": "hn"
@@ -45,12 +63,6 @@
         "feedId": "hn"
       },
       {
-        "title": "vLLM v0.28.0",
-        "link": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-        "pubDate": "2026-08-29T18:22",
-        "feedId": "hn"
-      },
-      {
         "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
         "link": "https://tucker.wales/writing/bias-towards-action/",
         "pubDate": "2026-08-29T17:39",
@@ -60,12 +72,6 @@
         "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
         "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
         "pubDate": "2026-08-29T17:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "A better SQL in 11 lines of code",
-        "link": "https://prela-lang.org/tutorial/",
-        "pubDate": "2026-08-29T17:13",
         "feedId": "hn"
       },
       {
@@ -84,12 +90,6 @@
         "title": "Quantifying Colour",
         "link": "https://ekunazanu.foo/lab/quantifying-colour/",
         "pubDate": "2026-08-29T15:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
-        "link": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
-        "pubDate": "2026-08-29T15:26",
         "feedId": "hn"
       }
     ]
@@ -116,45 +116,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Yap: a particular kind of slop",
-        "link": "https://mckayla.blog/posts/yap.html",
-        "pubDate": "2026-08-28T16:35",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "LLM usage in Debian neither endorsed nor prohibited",
-        "link": "https://www.debian.org/vote/2026/vote_002#texte",
-        "pubDate": "2026-08-29T01:40",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Parsing the Infamous Japanese Postal CSV (2020)",
-        "link": "https://www.dampfkraft.com/posuto.html",
-        "pubDate": "2026-08-29T08:10",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Introducing ReactOS 0.4.16",
         "link": "https://reactos.org/project-news/reactos-0416-released/",
         "pubDate": "2026-08-29T20:21",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Wrapping GTK4 in 800 lines of Clojure with Jolt",
-        "link": "https://yogthos.net/posts/2026-08-29-glimmer-ui.html",
-        "pubDate": "2026-08-29T19:56",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
-        "link": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-        "pubDate": "2026-08-29T06:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "htmx 4.0.0 has been released",
-        "link": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-        "pubDate": "2026-08-28T16:14",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +128,63 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Yap: a particular kind of slop",
+        "link": "https://mckayla.blog/posts/yap.html",
+        "pubDate": "2026-08-28T16:35",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Parsing the Infamous Japanese Postal CSV (2020)",
+        "link": "https://www.dampfkraft.com/posuto.html",
+        "pubDate": "2026-08-29T08:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Wrapping GTK4 in 800 lines of Clojure with Jolt",
+        "link": "https://yogthos.net/posts/2026-08-29-glimmer-ui.html",
+        "pubDate": "2026-08-29T19:56",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "LLM usage in Debian neither endorsed nor prohibited",
+        "link": "https://www.debian.org/vote/2026/vote_002#texte",
+        "pubDate": "2026-08-29T01:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
+        "link": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+        "pubDate": "2026-08-29T06:11",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Does Computer Science Need Computers?",
         "link": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
         "pubDate": "2026-08-29T18:10",
         "feedId": "lobsters"
       },
       {
-        "title": "OpenOffice does not print on Tuesdays (2009)",
-        "link": "https://beza1e1.tuxen.de/lore/print_on_tuesday.html",
-        "pubDate": "2026-08-28T12:06",
+        "title": "htmx 4.0.0 has been released",
+        "link": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+        "pubDate": "2026-08-28T16:14",
         "feedId": "lobsters"
       },
       {
-        "title": "Just a rumour of a bug is enough to find a security exploit these days",
-        "link": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-        "pubDate": "2026-08-28T20:23",
+        "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+        "link": "https://dl.acm.org/doi/epdf/10.1145/3830438.3830958",
+        "pubDate": "2026-08-29T21:59",
         "feedId": "lobsters"
       },
       {
-        "title": "How cats.txt showed llms.txt evidence is GEO astrology",
-        "link": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
-        "pubDate": "2026-08-28T18:11",
+        "title": "Debian Votes To Allow \"Responsible Use Of Generative AI\"",
+        "link": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+        "pubDate": "2026-08-29T08:19",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Any true alternatives to electron JavaScript?",
+        "link": "https://lobste.rs/s/vji9aj/any_true_alternatives_electron",
+        "pubDate": "2026-08-29T03:11",
         "feedId": "lobsters"
       }
     ]
@@ -290,7 +290,13 @@
       {
         "title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
         "link": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
-        "pubDate": "2026-08-29T17:50",
+        "pubDate": "2026-08-29T23:57",
+        "feedId": "axios"
+      },
+      {
+        "title": "CIA director Ratcliffe floated Trump-Putin-Zelensky summit during Moscow visit, sources say",
+        "link": "https://www.axios.com/2026/08/29/cia-director-ratcliffe-putin-zelensky-summit-war",
+        "pubDate": "2026-08-29T23:21",
         "feedId": "axios"
       },
       {
@@ -369,12 +375,6 @@
         "title": "Scoop: National Democrats and Republicans squeeze local TV stations in ad rate war",
         "link": "https://www.axios.com/2026/08/28/midterms-2026-democrats-republicans-ad-rates-tv",
         "pubDate": "2026-08-28T00:03",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Democrats plan bill to counter Trump order renaming Lake Ontario to \"Lake America\"",
-        "link": "https://www.axios.com/2026/08/27/trump-lake-ontario-america-democrats-bill",
-        "pubDate": "2026-08-27T22:46",
         "feedId": "axios"
       }
     ]
