@@ -3,93 +3,93 @@
     "id": "hn",
     "items": [
       {
-        "title": "Breaking Claude Code Opus 5 Auto Mode",
-        "link": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-        "pubDate": "2026-08-31T07:49",
+        "title": "Konrad Zuse Museum shutting down due to lack of funding",
+        "link": "https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html",
+        "pubDate": "2026-08-31T16:52",
         "feedId": "hn"
       },
       {
-        "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
-        "link": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
-        "pubDate": "2026-08-31T07:23",
+        "title": "I turned my security cameras into an automatic bird identification system",
+        "link": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+        "pubDate": "2026-08-31T16:47",
         "feedId": "hn"
       },
       {
-        "title": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
-        "link": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
-        "pubDate": "2026-08-31T06:10",
+        "title": "You probably own this 7-Eleven (and that's why it looks so sad)",
+        "link": "https://www.thenewatlantis.com/publications/you-probably-own-this-7-eleven",
+        "pubDate": "2026-08-31T16:36",
         "feedId": "hn"
       },
       {
-        "title": "uv: Deduplicate all files in the wheel cache",
-        "link": "https://github.com/astral-sh/uv/pull/21327",
-        "pubDate": "2026-08-31T06:03",
+        "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+        "link": "https://ravynos.com/",
+        "pubDate": "2026-08-31T16:19",
         "feedId": "hn"
       },
       {
-        "title": "OpenClaw 2.0, Accidentally",
-        "link": "https://openclaw.ai/blog/openclaw-2-accidentally",
-        "pubDate": "2026-08-31T03:38",
+        "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+        "link": "https://usealmanac.com/",
+        "pubDate": "2026-08-31T15:34",
         "feedId": "hn"
       },
       {
-        "title": "P99 0 ms* autocomplete for 240M domain names",
-        "link": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
-        "pubDate": "2026-08-31T03:20",
+        "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+        "link": "https://github.com/Hebbian-Robotics/hflow",
+        "pubDate": "2026-08-31T15:02",
         "feedId": "hn"
       },
       {
-        "title": "Transfer files over an Ethernet patch cable",
-        "link": "https://maurycyz.com/misc/etherfiles/",
-        "pubDate": "2026-08-31T03:19",
+        "title": "Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP",
+        "link": "https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/",
+        "pubDate": "2026-08-31T14:54",
         "feedId": "hn"
       },
       {
-        "title": "Understanding ChatGPT Work",
-        "link": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-        "pubDate": "2026-08-31T01:28",
+        "title": "Rakuten Kobo returns to U.S. retail as sales double",
+        "link": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/101053-rakuten-kobo-re-enters-u-s-retail-as-sales-double.html",
+        "pubDate": "2026-08-31T14:53",
         "feedId": "hn"
       },
       {
-        "title": "How to build a diffusion language model",
-        "link": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
-        "pubDate": "2026-08-30T23:41",
+        "title": "Playa Phone",
+        "link": "https://playaphone.com/",
+        "pubDate": "2026-08-31T14:52",
         "feedId": "hn"
       },
       {
-        "title": "Matrox: Graphics for Professionals",
-        "link": "https://www.abortretry.fail/p/matrox",
-        "pubDate": "2026-08-30T23:39",
+        "title": "C++26: Standard Library Hardening Experiments",
+        "link": "https://www.cppstories.com/2026/hardening-experiments/",
+        "pubDate": "2026-08-31T14:52",
         "feedId": "hn"
       },
       {
-        "title": "“I just chose words carefully”",
-        "link": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-        "pubDate": "2026-08-30T22:49",
+        "title": "The Snow/Leavis ‘two cultures’ clash",
+        "link": "https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash",
+        "pubDate": "2026-08-31T14:50",
         "feedId": "hn"
       },
       {
-        "title": "Continuous Diffusion Language Models (CDLM's)",
-        "link": "https://sander.ai/2026/08/24/continuous-dlms.html",
-        "pubDate": "2026-08-30T20:46",
+        "title": "ChatGPT Work Tool and Skill Reference",
+        "link": "https://codex-tool-reference.simonw.chatgpt.site/",
+        "pubDate": "2026-08-31T14:07",
         "feedId": "hn"
       },
       {
-        "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
-        "link": "https://www.righto.com/2026/08/spacelab-core-memory.html",
-        "pubDate": "2026-08-30T20:00",
+        "title": "Agent memory as a file format",
+        "link": "https://calpaterson.com/memoryfields.html",
+        "pubDate": "2026-08-31T11:17",
         "feedId": "hn"
       },
       {
-        "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
-        "link": "https://github.com/KodeMunkie/sm750hdmifb",
-        "pubDate": "2026-08-30T18:49",
+        "title": "Malleable software = solid bases and custom code",
+        "link": "https://www.mdubakov.me/malleable-software-solid-bases-custom-code/",
+        "pubDate": "2026-08-31T10:36",
         "feedId": "hn"
       },
       {
-        "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
-        "link": "https://komoroske.com/slime-mold/",
-        "pubDate": "2026-08-30T16:03",
+        "title": "OpenShot 4.0 – Open-source video editor",
+        "link": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+        "pubDate": "2026-08-31T09:59",
         "feedId": "hn"
       }
     ]
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Omarchy: Any User Process Can Escalate to Root",
-        "link": "https://0xcc.io/posts/omarchy-root-creds/",
-        "pubDate": "2026-08-30T18:11",
+        "title": "VibeCoded AI-Slop License v1.0",
+        "link": "https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6",
+        "pubDate": "2026-08-31T11:40",
         "feedId": "lobsters"
       },
       {
-        "title": "But where does taste come from?",
-        "link": "https://dustycloud.org/blog/but-where-does-taste-come-from/",
-        "pubDate": "2026-08-30T13:27",
+        "title": "curl: a CVE dispute",
+        "link": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
+        "pubDate": "2026-08-31T10:38",
         "feedId": "lobsters"
       },
       {
@@ -116,15 +116,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Transfer files over an ethernet patch cable",
-        "link": "https://maurycyz.com/misc/etherfiles/",
-        "pubDate": "2026-08-30T13:11",
+        "title": "A Better SQL in 11 Lines of Code",
+        "link": "https://prela-lang.org/tutorial/",
+        "pubDate": "2026-08-31T09:10",
         "feedId": "lobsters"
       },
       {
-        "title": "There's no such thing as Just a Tool",
-        "link": "https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool",
-        "pubDate": "2026-08-30T03:59",
+        "title": "July in Servo: more platforms, faster canvas, web fonts in SVG, and more",
+        "link": "https://servo.org/blog/2026/08/31/july-in-servo/",
+        "pubDate": "2026-08-31T10:55",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Omarchy: Any User Process Can Escalate to Root",
+        "link": "https://0xcc.io/posts/omarchy-root-creds/",
+        "pubDate": "2026-08-30T18:11",
         "feedId": "lobsters"
       },
       {
@@ -134,57 +140,51 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Rootless Docker and Its Hidden Security Trade-Offs",
-        "link": "https://www.kenmuse.com/blog/rootless-docker-and-its-hidden-security-trade-offs/",
-        "pubDate": "2026-08-31T03:12",
+        "title": "RangeFrom, Part 2..: What I think is wrong about the design",
+        "link": "https://erk.dev/2026/08/30/rangefrom-part-2",
+        "pubDate": "2026-08-31T16:53",
         "feedId": "lobsters"
       },
       {
-        "title": "Rust Function Overloading - Call for Experimentation",
-        "link": "https://blog.rust-lang.org/inside-rust/2026/08/19/overloading-experiment/",
-        "pubDate": "2026-08-30T09:39",
+        "title": "But where does taste come from?",
+        "link": "https://dustycloud.org/blog/but-where-does-taste-come-from/",
+        "pubDate": "2026-08-30T13:27",
         "feedId": "lobsters"
       },
       {
-        "title": "Gram Editor 3.3.0 Released",
-        "link": "https://gram-editor.com/posts/release-3.3.0/",
-        "pubDate": "2026-08-30T08:50",
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/vb1jgu/what_are_you_doing_this_week",
+        "pubDate": "2026-08-31T14:06",
         "feedId": "lobsters"
       },
       {
-        "title": "Small and reasonably fast QOI decoder written in zig",
-        "link": "https://github.com/sorvi-platform/dekoodaaja",
-        "pubDate": "2026-08-30T16:49",
+        "title": "I attended a conference recently and AI use by academics was absurd",
+        "link": "https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by",
+        "pubDate": "2026-08-31T15:22",
         "feedId": "lobsters"
       },
       {
-        "title": "Automating immersive reading",
-        "link": "https://smoores.dev/post/automating_immersive_reading/",
-        "pubDate": "2026-08-30T11:54",
+        "title": "On not becoming a cyborg",
+        "link": "https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/",
+        "pubDate": "2026-08-31T13:33",
         "feedId": "lobsters"
       },
       {
-        "title": "California Passes AB-1856 For Open-Source Relief Over Age Verification",
-        "link": "https://www.phoronix.com/news/California-AB-1856-Passes",
-        "pubDate": "2026-08-30T07:09",
+        "title": "Cancelation Terminology",
+        "link": "https://matklad.github.io/2026/08/31/cancelation-terminology.html",
+        "pubDate": "2026-08-31T14:19",
         "feedId": "lobsters"
       },
       {
-        "title": "Interview with oofoe about REBOL, Forth, Decker, Janet and the VFx Industry",
-        "link": "https://alexalejandre.com/interviews/interview-with-oofoe/",
-        "pubDate": "2026-08-30T15:13",
+        "title": "Any user process can escalate to root",
+        "link": "https://www.vesto.me/2026/08/31/any-process-escalate-root.html",
+        "pubDate": "2026-08-31T13:46",
         "feedId": "lobsters"
       },
       {
-        "title": "A Better SQL in 11 Lines of Code",
-        "link": "https://prela-lang.org/tutorial/",
-        "pubDate": "2026-08-31T09:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "One flake to rule them all",
-        "link": "https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all",
-        "pubDate": "2026-08-30T16:11",
+        "title": "Transfer files over an ethernet patch cable",
+        "link": "https://maurycyz.com/misc/etherfiles/",
+        "pubDate": "2026-08-30T13:11",
         "feedId": "lobsters"
       }
     ]
@@ -193,13 +193,31 @@
     "id": "arstechnica",
     "items": [
       {
+        "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+        "link": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+        "pubDate": "2026-08-31T13:41",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "NASA's next \"great observatory\" begins mission to widen our view of the Universe",
+        "link": "https://arstechnica.com/space/2026/08/nasas-next-great-observatory-begins-mission-to-widen-our-view-of-the-universe/",
+        "pubDate": "2026-08-31T13:01",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+        "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+        "pubDate": "2026-08-31T10:00",
+        "feedId": "arstechnica"
+      },
+      {
         "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
         "link": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
         "pubDate": "2026-08-30T21:40",
         "feedId": "arstechnica"
       },
       {
-        "title": "Why it matters that President Trump just dialed into a NASA news conference",
+        "title": "Why it matters that President Trump just dialed in to a NASA news conference",
         "link": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
         "pubDate": "2026-08-30T17:40",
         "feedId": "arstechnica"
@@ -263,30 +281,30 @@
         "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
         "pubDate": "2026-08-28T15:42",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
-        "link": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
-        "pubDate": "2026-08-28T11:15",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Rocket Report: Europe splashes some cash on launch startups; Pallas-1 nears debut",
-        "link": "https://arstechnica.com/space/2026/08/rocket-report-europe-splashes-some-cash-on-launch-startups-pallas-1-nears-debut/",
-        "pubDate": "2026-08-28T11:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-        "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
-        "pubDate": "2026-08-27T22:15",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Two words that worry global central bankers the most",
+        "link": "https://www.axios.com/2026/08/31/central-bankers-fiscal-dominance-jackson-hole",
+        "pubDate": "2026-08-31T15:59",
+        "feedId": "axios"
+      },
+      {
+        "title": "Exclusive: Bessent calls for less regulation to help small banks",
+        "link": "https://www.axios.com/2026/08/31/bessent-bank-regulation-g20",
+        "pubDate": "2026-08-31T15:53",
+        "feedId": "axios"
+      },
+      {
+        "title": "Why bonds are the most important market in the world",
+        "link": "https://www.axios.com/2026/08/31/bonds-yields-wigglesworth-book",
+        "pubDate": "2026-08-31T11:15",
+        "feedId": "axios"
+      },
       {
         "title": "AI giants lean into health care to stall public backlash",
         "link": "https://www.axios.com/2026/08/31/ai-health-care-cures-disease-anthropic-open-ai",
@@ -357,24 +375,6 @@
         "title": "Scoop: AOC shakes up team ahead of 2028 decision",
         "link": "https://www.axios.com/2026/08/28/aoc-staff-changes-2028-decision",
         "pubDate": "2026-08-28T22:33",
-        "feedId": "axios"
-      },
-      {
-        "title": "China is secretly fueling America's data center rage",
-        "link": "https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots",
-        "pubDate": "2026-08-28T18:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump loses longshot bid to erase hush money conviction",
-        "link": "https://www.axios.com/2026/08/28/trump-hush-money-conviction-appeal",
-        "pubDate": "2026-08-28T18:03",
-        "feedId": "axios"
-      },
-      {
-        "title": "The case for the U.S. dollar's digital edge",
-        "link": "https://www.axios.com/2026/08/28/us-dollar-stablecoins-usdc",
-        "pubDate": "2026-08-28T16:00",
         "feedId": "axios"
       }
     ]
