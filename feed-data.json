@@ -3,27 +3,45 @@
     "id": "hn",
     "items": [
       {
-        "title": "SolarWindow launches 0.85 mm-thick, self-adhesive solar film",
-        "link": "https://www.pv-magazine.com/2026/08/27/https-www-pv-magazine-com-2026-08-27-solarwindow-launches-flexible-self-adhesive-solar-film/",
-        "pubDate": "2026-08-31T02:50",
+        "title": "Breaking Claude Code Opus 5 Auto Mode",
+        "link": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+        "pubDate": "2026-08-31T07:49",
         "feedId": "hn"
       },
       {
-        "title": "Flock Safety's controversial CEO just got a taste of his own medicine",
-        "link": "https://www.neowin.net/news/the-ceo-of-americas-biggest-surveillance-network-just-got-a-taste-of-his-own-medicine/",
-        "pubDate": "2026-08-31T02:44",
+        "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+        "link": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+        "pubDate": "2026-08-31T07:23",
         "feedId": "hn"
       },
       {
-        "title": "Why do I lose my passion and want to do nothing?",
-        "link": "https://news.ycombinator.com/item?id=49505014",
-        "pubDate": "2026-08-31T02:40",
+        "title": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
+        "link": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+        "pubDate": "2026-08-31T06:10",
         "feedId": "hn"
       },
       {
-        "title": "CobaltC – The Successor to C?",
-        "link": "https://strawberry9.github.io/the-wrong-memory/Appendix_06.html",
-        "pubDate": "2026-08-31T02:26",
+        "title": "uv: Deduplicate all files in the wheel cache",
+        "link": "https://github.com/astral-sh/uv/pull/21327",
+        "pubDate": "2026-08-31T06:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "OpenClaw 2.0, Accidentally",
+        "link": "https://openclaw.ai/blog/openclaw-2-accidentally",
+        "pubDate": "2026-08-31T03:38",
+        "feedId": "hn"
+      },
+      {
+        "title": "P99 0 ms* autocomplete for 240M domain names",
+        "link": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+        "pubDate": "2026-08-31T03:20",
+        "feedId": "hn"
+      },
+      {
+        "title": "Transfer files over an Ethernet patch cable",
+        "link": "https://maurycyz.com/misc/etherfiles/",
+        "pubDate": "2026-08-31T03:19",
         "feedId": "hn"
       },
       {
@@ -69,27 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Artie (YC S23) Is Hiring Technical AES",
-        "link": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
-        "pubDate": "2026-08-30T17:01",
-        "feedId": "hn"
-      },
-      {
         "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
         "link": "https://komoroske.com/slime-mold/",
         "pubDate": "2026-08-30T16:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Haiku R1/beta6 has been released",
-        "link": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-        "pubDate": "2026-08-30T16:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "Omarchy: Any User Process Can Escalate to Root",
-        "link": "https://0xcc.io/posts/omarchy-root-creds/",
-        "pubDate": "2026-08-30T15:59",
         "feedId": "hn"
       }
     ]
@@ -110,15 +110,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "There's no such thing as Just a Tool",
-        "link": "https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool",
-        "pubDate": "2026-08-30T03:59",
+        "title": "The U.S. is more than just the US (according to the ISO)",
+        "link": "https://trevmex.com/post/826439929093636096/the-us-is-more-than-just-the-us-according-to",
+        "pubDate": "2026-08-31T05:38",
         "feedId": "lobsters"
       },
       {
         "title": "Transfer files over an ethernet patch cable",
         "link": "https://maurycyz.com/misc/etherfiles/",
         "pubDate": "2026-08-30T13:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "There's no such thing as Just a Tool",
+        "link": "https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool",
+        "pubDate": "2026-08-30T03:59",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Repeating Ourselves Less with M4",
+        "link": "https://nemin.hu/httpd-macros/index.html",
+        "pubDate": "2026-08-31T04:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Rootless Docker and Its Hidden Security Trade-Offs",
+        "link": "https://www.kenmuse.com/blog/rootless-docker-and-its-hidden-security-trade-offs/",
+        "pubDate": "2026-08-31T03:12",
         "feedId": "lobsters"
       },
       {
@@ -134,27 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Creepy crawlies",
-        "link": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-        "pubDate": "2026-08-29T16:25",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Interview with oofoe about REBOL, Forth, Decker, Janet and the VFx Industry",
-        "link": "https://alexalejandre.com/interviews/interview-with-oofoe/",
-        "pubDate": "2026-08-30T15:13",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Being kicked out of the tech industry",
-        "link": "https://www.jacky.wtf/essays/2026/kicked-out/",
-        "pubDate": "2026-08-29T08:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "California Passes AB-1856 For Open-Source Relief Over Age Verification",
-        "link": "https://www.phoronix.com/news/California-AB-1856-Passes",
-        "pubDate": "2026-08-30T07:09",
+        "title": "Small and reasonably fast QOI decoder written in zig",
+        "link": "https://github.com/sorvi-platform/dekoodaaja",
+        "pubDate": "2026-08-30T16:49",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Small and reasonably fast QOI decoder written in zig",
-        "link": "https://github.com/sorvi-platform/dekoodaaja",
-        "pubDate": "2026-08-30T16:49",
+        "title": "California Passes AB-1856 For Open-Source Relief Over Age Verification",
+        "link": "https://www.phoronix.com/news/California-AB-1856-Passes",
+        "pubDate": "2026-08-30T07:09",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Interview with oofoe about REBOL, Forth, Decker, Janet and the VFx Industry",
+        "link": "https://alexalejandre.com/interviews/interview-with-oofoe/",
+        "pubDate": "2026-08-30T15:13",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A Better SQL in 11 Lines of Code",
+        "link": "https://prela-lang.org/tutorial/",
+        "pubDate": "2026-08-31T09:10",
         "feedId": "lobsters"
       },
       {
         "title": "One flake to rule them all",
         "link": "https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all",
         "pubDate": "2026-08-30T16:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Prompt Injection in Claude Code Opus 5 Auto Mode",
-        "link": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-        "pubDate": "2026-08-30T05:36",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Debian and the sirens",
-        "link": "https://joeyh.name/blog/entry/Debian_and_the_sirens/",
-        "pubDate": "2026-08-29T15:33",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "AI giants lean into health care to stall public backlash",
+        "link": "https://www.axios.com/2026/08/31/ai-health-care-cures-disease-anthropic-open-ai",
+        "pubDate": "2026-08-31T09:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "El-Sayed courts Jewish Democrats but won't dump Piker",
+        "link": "https://www.axios.com/2026/08/31/el-sayed-rogers-piker-jewish-antisemitism",
+        "pubDate": "2026-08-31T08:30",
+        "feedId": "axios"
+      },
+      {
         "title": "Google Maps switches to \"Lake America\" as Canada compares change to \"SNL\" skit",
         "link": "https://www.axios.com/2026/08/30/lake-america-lake-ontario-maps-trump",
         "pubDate": "2026-08-31T02:03",
@@ -363,18 +375,6 @@
         "title": "The case for the U.S. dollar's digital edge",
         "link": "https://www.axios.com/2026/08/28/us-dollar-stablecoins-usdc",
         "pubDate": "2026-08-28T16:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"That sucker is open\": U.S. gains the upper hand in the battle for Hormuz",
-        "link": "https://www.axios.com/2026/08/28/trump-iran-hormuz-war-oil",
-        "pubDate": "2026-08-28T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Nvidia almighty: Chip riches flood through AI universe",
-        "link": "https://www.axios.com/2026/08/28/nvidia-ai-chip-circular-finance-startups",
-        "pubDate": "2026-08-28T09:20",
         "feedId": "axios"
       }
     ]
