@@ -3,21 +3,33 @@
     "id": "hn",
     "items": [
       {
+        "title": "Tim Cook Sold Out Steve Jobs",
+        "link": "https://www.anildash.com/2025/09/09/how-tim-cook-sold-out-steve-jobs/",
+        "pubDate": "2026-09-01T12:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+        "link": "https://github.com/ankidroid/Anki-Android/issues/21656",
+        "pubDate": "2026-09-01T10:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "44% on ARC-AGI-1 in 67 cents",
+        "link": "https://mvakde.github.io/blog/44-on-arc-1/",
+        "pubDate": "2026-09-01T09:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "NASA: Fill in a name, and you can have an exclusive coordinate in the universe",
+        "link": "https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/",
+        "pubDate": "2026-09-01T09:46",
+        "feedId": "hn"
+      },
+      {
         "title": "CollectWise (YC F24) Is Hiring",
         "link": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
         "pubDate": "2026-09-01T07:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI Can Make You Suck Faster Too",
-        "link": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-        "pubDate": "2026-09-01T05:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "Vermell – Minimal, dependency-free C++ web framework using epoll",
-        "link": "https://github.com/vermellcc/vermell",
-        "pubDate": "2026-09-01T04:56",
         "feedId": "hn"
       },
       {
@@ -45,18 +57,6 @@
         "feedId": "hn"
       },
       {
-        "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
-        "link": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
-        "pubDate": "2026-09-01T01:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "2004 RuneScape fit a multiplayer RPG into 56k dial-up",
-        "link": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
-        "pubDate": "2026-09-01T01:01",
-        "feedId": "hn"
-      },
-      {
         "title": "Evidence of Fraud in an Influential Study About Procrastination",
         "link": "https://datacolada.org/138",
         "pubDate": "2026-08-31T23:45",
@@ -69,27 +69,27 @@
         "feedId": "hn"
       },
       {
-        "title": "Run macOS Software on Linux",
-        "link": "https://www.darlinghq.org/",
-        "pubDate": "2026-08-31T22:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
-        "link": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-        "pubDate": "2026-08-31T22:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "Autonomous (YC F25) is hiring engineers",
-        "link": "https://news.ycombinator.com/item?id=49514781",
-        "pubDate": "2026-08-31T21:00",
-        "feedId": "hn"
-      },
-      {
         "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
         "link": "https://www.youtube.com/watch?v=3YtygAx_C6A",
         "pubDate": "2026-08-31T18:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "I turned my security cameras into an automatic bird identification system",
+        "link": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+        "pubDate": "2026-08-31T16:47",
+        "feedId": "hn"
+      },
+      {
+        "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+        "link": "https://ravynos.com/",
+        "pubDate": "2026-08-31T16:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "Playa Phone",
+        "link": "https://playaphone.com/",
+        "pubDate": "2026-08-31T14:52",
         "feedId": "hn"
       }
     ]
@@ -97,6 +97,24 @@
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "Fine, I’ll build my own text editor",
+        "link": "https://dbushell.com/2026/09/01/text-editor/",
+        "pubDate": "2026-09-01T11:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Janet 1.42.0",
+        "link": "https://github.com/janet-lang/janet/releases/tag/v1.42.0",
+        "pubDate": "2026-09-01T00:05",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "RangeFrom, Part 2..: What I think is wrong about the design",
+        "link": "https://erk.dev/2026/08/30/rangefrom-part-2",
+        "pubDate": "2026-08-31T16:53",
+        "feedId": "lobsters"
+      },
       {
         "title": "curl: a CVE dispute",
         "link": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
@@ -110,39 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "RangeFrom, Part 2..: What I think is wrong about the design",
-        "link": "https://erk.dev/2026/08/30/rangefrom-part-2",
-        "pubDate": "2026-08-31T16:53",
-        "feedId": "lobsters"
-      },
-      {
         "title": "I attended a conference recently and AI use by academics was absurd",
         "link": "https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by",
         "pubDate": "2026-08-31T15:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "July in Servo: more platforms, faster canvas, web fonts in SVG, and more",
-        "link": "https://servo.org/blog/2026/08/31/july-in-servo/",
-        "pubDate": "2026-08-31T10:55",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Janet 1.42.0",
-        "link": "https://github.com/janet-lang/janet/releases/tag/v1.42.0",
-        "pubDate": "2026-09-01T00:05",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A Better SQL in 11 Lines of Code",
-        "link": "https://prela-lang.org/tutorial/",
-        "pubDate": "2026-08-31T09:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The U.S. is more than just the US (according to the ISO)",
-        "link": "https://trevmex.com/post/826439929093636096/the-us-is-more-than-just-the-us-according-to",
-        "pubDate": "2026-08-31T05:38",
         "feedId": "lobsters"
       },
       {
@@ -152,27 +140,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "July in Servo: more platforms, faster canvas, web fonts in SVG, and more",
+        "link": "https://servo.org/blog/2026/08/31/july-in-servo/",
+        "pubDate": "2026-08-31T10:55",
+        "feedId": "lobsters"
+      },
+      {
         "title": "On not becoming a cyborg",
         "link": "https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/",
         "pubDate": "2026-08-31T13:33",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Are We Legacy Computing Yet?",
-        "link": "https://arewelegacycomputingyet.com/",
-        "pubDate": "2026-08-31T19:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Omarchy: Any User Process Can Escalate to Root",
-        "link": "https://0xcc.io/posts/omarchy-root-creds/",
-        "pubDate": "2026-08-30T18:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Bootstrappable builds: how and why",
-        "link": "https://lwn.net/Articles/1088279/",
-        "pubDate": "2026-08-31T17:03",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +158,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Cancelation Terminology",
-        "link": "https://matklad.github.io/2026/08/31/cancelation-terminology.html",
-        "pubDate": "2026-08-31T14:19",
+        "title": "Are We Legacy Computing Yet?",
+        "link": "https://arewelegacycomputingyet.com/",
+        "pubDate": "2026-08-31T19:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "This Month in KDE Linux: August 2026",
+        "link": "https://blogs.kde.org/2026/08/31/this-month-in-kde-linux-august-2026/",
+        "pubDate": "2026-09-01T09:30",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A Better SQL in 11 Lines of Code",
+        "link": "https://prela-lang.org/tutorial/",
+        "pubDate": "2026-08-31T09:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Robot Framework language",
+        "link": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
+        "pubDate": "2026-09-01T07:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The U.S. is more than just the US (according to the ISO)",
+        "link": "https://trevmex.com/post/826439929093636096/the-us-is-more-than-just-the-us-according-to",
+        "pubDate": "2026-08-31T05:38",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Without new landers or rovers, it's helicopters or bust for NASA's Mars program",
+        "link": "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/",
+        "pubDate": "2026-09-01T11:00",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Private group wants to launch \"cheapest possible\" mission to Alpha Centauri",
+        "link": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/",
+        "pubDate": "2026-09-01T10:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "The Bentley Supersports: A stripped-out engineer's indulgence",
         "link": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
@@ -269,24 +281,54 @@
         "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
         "pubDate": "2026-08-31T10:00",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
-        "link": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
-        "pubDate": "2026-08-30T21:40",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Why it matters that President Trump just dialed in to a NASA news conference",
-        "link": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
-        "pubDate": "2026-08-30T17:40",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Apple, OpenAI legal fight keeps escalating. Here's how we got here",
+        "link": "https://www.axios.com/2026/09/01/apple-openai-lawsuit-ai-gpt-devices",
+        "pubDate": "2026-09-01T11:18",
+        "feedId": "axios"
+      },
+      {
+        "title": "RFK Jr.'s partial vaccine legacy",
+        "link": "https://www.axios.com/2026/09/01/rfk-vaccine-legacy-maha",
+        "pubDate": "2026-09-01T09:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "Tim Cook's legacy hinges on Apple's AI bet",
+        "link": "https://www.axios.com/2026/09/01/tim-cooks-legacy-hinges-on-apples-ai-bet",
+        "pubDate": "2026-09-01T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "NAACP's call for Black athletes' boycott of southern schools hits an NIL wall",
+        "link": "https://www.axios.com/2026/09/01/naacp-black-athletes-boycott-nil",
+        "pubDate": "2026-09-01T09:15",
+        "feedId": "axios"
+      },
+      {
+        "title": "How golden was Tim Cook's Apple?",
+        "link": "https://www.axios.com/2026/09/01/apple-ceo-cook-stock",
+        "pubDate": "2026-09-01T09:10",
+        "feedId": "axios"
+      },
+      {
+        "title": "The secret history of Trump's Venezuelan oil baron",
+        "link": "https://www.axios.com/2026/09/01/trump-venezuela-oil-baron",
+        "pubDate": "2026-09-01T09:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "Why Army Secretary Dan Driscoll resigned",
+        "link": "https://www.axios.com/2026/09/01/army-secretary-dan-driscoll-resigns-hegseth",
+        "pubDate": "2026-09-01T08:50",
+        "feedId": "axios"
+      },
       {
         "title": "Vance reaches out to Jewish Republicans in Vegas speech",
         "link": "https://www.axios.com/2026/09/01/jd-vance-antisemitisim-speech-las-vegas",
@@ -333,48 +375,6 @@
         "title": "\"Let data reign\": Trump and AI investors wage campaign to save data centers",
         "link": "https://www.axios.com/2026/08/31/trump-data-centers-backlash-ai-campaign",
         "pubDate": "2026-08-31T18:22",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump weighing limited strikes against Iran to curb Hormuz attacks",
-        "link": "https://www.axios.com/2026/08/31/trump-iran-war-hormuz-hegseth-centcom",
-        "pubDate": "2026-08-31T18:12",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump keeps turning his fire on female reporters",
-        "link": "https://www.axios.com/2026/08/31/trump-female-reporters-press-access",
-        "pubDate": "2026-08-31T17:58",
-        "feedId": "axios"
-      },
-      {
-        "title": "Two words that worry global central bankers the most",
-        "link": "https://www.axios.com/2026/08/31/central-bankers-fiscal-dominance-jackson-hole",
-        "pubDate": "2026-08-31T15:59",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: Bessent calls for less regulation to help small banks",
-        "link": "https://www.axios.com/2026/08/31/bessent-bank-regulation-g20",
-        "pubDate": "2026-08-31T15:53",
-        "feedId": "axios"
-      },
-      {
-        "title": "Why bonds are the most important market in the world",
-        "link": "https://www.axios.com/2026/08/31/bonds-yields-wigglesworth-book",
-        "pubDate": "2026-08-31T11:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "AI giants lean into health care to stall public backlash",
-        "link": "https://www.axios.com/2026/08/31/ai-health-care-cures-disease-anthropic-open-ai",
-        "pubDate": "2026-08-31T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "El-Sayed courts Jewish Democrats but won't dump Piker",
-        "link": "https://www.axios.com/2026/08/31/el-sayed-rogers-piker-jewish-antisemitism",
-        "pubDate": "2026-08-31T08:30",
         "feedId": "axios"
       }
     ]
