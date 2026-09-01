@@ -3,9 +3,57 @@
     "id": "hn",
     "items": [
       {
-        "title": "Konrad Zuse Museum shutting down due to lack of funding",
-        "link": "https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html",
-        "pubDate": "2026-08-31T16:52",
+        "title": "Carmack: Has early Scratch experience led to fulfilling careers?",
+        "link": "https://twitter.com/ID_AA_Carmack/status/2094450188911845827",
+        "pubDate": "2026-08-31T23:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "Evidence of Fraud in an Influential Study About Procrastination",
+        "link": "https://datacolada.org/138",
+        "pubDate": "2026-08-31T23:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "Run macOS Software on Linux",
+        "link": "https://www.darlinghq.org/",
+        "pubDate": "2026-08-31T22:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
+        "link": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+        "pubDate": "2026-08-31T22:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "How we configured OpenTelemetry logs in Rails",
+        "link": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
+        "pubDate": "2026-08-31T21:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+        "link": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+        "pubDate": "2026-08-31T21:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "Autonomous (YC F25) is hiring engineers",
+        "link": "https://news.ycombinator.com/item?id=49514781",
+        "pubDate": "2026-08-31T21:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+        "link": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+        "pubDate": "2026-08-31T18:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "The safest job from AI may be writing",
+        "link": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+        "pubDate": "2026-08-31T18:12",
         "feedId": "hn"
       },
       {
@@ -15,13 +63,7 @@
         "feedId": "hn"
       },
       {
-        "title": "You probably own this 7-Eleven (and that's why it looks so sad)",
-        "link": "https://www.thenewatlantis.com/publications/you-probably-own-this-7-eleven",
-        "pubDate": "2026-08-31T16:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+        "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
         "link": "https://ravynos.com/",
         "pubDate": "2026-08-31T16:19",
         "feedId": "hn"
@@ -39,57 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP",
-        "link": "https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/",
-        "pubDate": "2026-08-31T14:54",
-        "feedId": "hn"
-      },
-      {
-        "title": "Rakuten Kobo returns to U.S. retail as sales double",
-        "link": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/101053-rakuten-kobo-re-enters-u-s-retail-as-sales-double.html",
-        "pubDate": "2026-08-31T14:53",
-        "feedId": "hn"
-      },
-      {
         "title": "Playa Phone",
         "link": "https://playaphone.com/",
         "pubDate": "2026-08-31T14:52",
         "feedId": "hn"
       },
       {
-        "title": "C++26: Standard Library Hardening Experiments",
-        "link": "https://www.cppstories.com/2026/hardening-experiments/",
-        "pubDate": "2026-08-31T14:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Snow/Leavis ‘two cultures’ clash",
-        "link": "https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash",
-        "pubDate": "2026-08-31T14:50",
-        "feedId": "hn"
-      },
-      {
         "title": "ChatGPT Work Tool and Skill Reference",
         "link": "https://codex-tool-reference.simonw.chatgpt.site/",
         "pubDate": "2026-08-31T14:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "Agent memory as a file format",
-        "link": "https://calpaterson.com/memoryfields.html",
-        "pubDate": "2026-08-31T11:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "Malleable software = solid bases and custom code",
-        "link": "https://www.mdubakov.me/malleable-software-solid-bases-custom-code/",
-        "pubDate": "2026-08-31T10:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "OpenShot 4.0 – Open-source video editor",
-        "link": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
-        "pubDate": "2026-08-31T09:59",
         "feedId": "hn"
       }
     ]
@@ -110,15 +110,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The U.S. is more than just the US (according to the ISO)",
-        "link": "https://trevmex.com/post/826439929093636096/the-us-is-more-than-just-the-us-according-to",
-        "pubDate": "2026-08-31T05:38",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A Better SQL in 11 Lines of Code",
-        "link": "https://prela-lang.org/tutorial/",
-        "pubDate": "2026-08-31T09:10",
+        "title": "RangeFrom, Part 2..: What I think is wrong about the design",
+        "link": "https://erk.dev/2026/08/30/rangefrom-part-2",
+        "pubDate": "2026-08-31T16:53",
         "feedId": "lobsters"
       },
       {
@@ -128,39 +122,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Omarchy: Any User Process Can Escalate to Root",
-        "link": "https://0xcc.io/posts/omarchy-root-creds/",
-        "pubDate": "2026-08-30T18:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Repeating Ourselves Less with M4",
-        "link": "https://nemin.hu/httpd-macros/index.html",
-        "pubDate": "2026-08-31T04:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "RangeFrom, Part 2..: What I think is wrong about the design",
-        "link": "https://erk.dev/2026/08/30/rangefrom-part-2",
-        "pubDate": "2026-08-31T16:53",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "But where does taste come from?",
-        "link": "https://dustycloud.org/blog/but-where-does-taste-come-from/",
-        "pubDate": "2026-08-30T13:27",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/vb1jgu/what_are_you_doing_this_week",
-        "pubDate": "2026-08-31T14:06",
-        "feedId": "lobsters"
-      },
-      {
         "title": "I attended a conference recently and AI use by academics was absurd",
         "link": "https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by",
         "pubDate": "2026-08-31T15:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A Better SQL in 11 Lines of Code",
+        "link": "https://prela-lang.org/tutorial/",
+        "pubDate": "2026-08-31T09:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The U.S. is more than just the US (according to the ISO)",
+        "link": "https://trevmex.com/post/826439929093636096/the-us-is-more-than-just-the-us-according-to",
+        "pubDate": "2026-08-31T05:38",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Omarchy: Any User Process Can Escalate to Root",
+        "link": "https://0xcc.io/posts/omarchy-root-creds/",
+        "pubDate": "2026-08-30T18:11",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +152,39 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Are We Legacy Computing Yet?",
+        "link": "https://arewelegacycomputingyet.com/",
+        "pubDate": "2026-08-31T19:11",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Cancelation Terminology",
         "link": "https://matklad.github.io/2026/08/31/cancelation-terminology.html",
         "pubDate": "2026-08-31T14:19",
         "feedId": "lobsters"
       },
       {
-        "title": "Any user process can escalate to root",
-        "link": "https://www.vesto.me/2026/08/31/any-process-escalate-root.html",
-        "pubDate": "2026-08-31T13:46",
+        "title": "Bootstrappable builds: how and why",
+        "link": "https://lwn.net/Articles/1088279/",
+        "pubDate": "2026-08-31T17:03",
         "feedId": "lobsters"
       },
       {
-        "title": "Transfer files over an ethernet patch cable",
-        "link": "https://maurycyz.com/misc/etherfiles/",
-        "pubDate": "2026-08-30T13:11",
+        "title": "Repeating Ourselves Less with M4",
+        "link": "https://nemin.hu/httpd-macros/index.html",
+        "pubDate": "2026-08-31T04:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "V0.1.0.0 of ghcup-gtk released",
+        "link": "https://discourse.haskell.org/t/v0-1-0-0-of-ghcup-gtk-released/14631",
+        "pubDate": "2026-08-31T20:49",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Kale: A Transformation-Safe Spreadsheet System",
+        "link": "https://arxiv.org/abs/2608.26345",
+        "pubDate": "2026-08-31T18:32",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,66 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "The Bentley Supersports: A stripped-out engineer's indulgence",
+        "link": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
+        "pubDate": "2026-08-31T23:01",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Trump admin shelves Cyclospora research despite record-breaking outbreak",
+        "link": "https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/",
+        "pubDate": "2026-08-31T21:23",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Get in on the Ars community that doesn’t fit beneath an article",
+        "link": "https://arstechnica.com/staff/2026/08/get-in-on-the-ars-community-that-doesnt-fit-beneath-an-article/",
+        "pubDate": "2026-08-31T21:12",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Review: Coyote vs. Acme is an unabashed love letter to Looney Tunes",
+        "link": "https://arstechnica.com/culture/2026/08/review-coyote-vs-acme-is-an-unabashed-love-letter-to-looney-tunes/",
+        "pubDate": "2026-08-31T20:02",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Trump tells FCC to punish journalist for calling his election results \"mixed\"",
+        "link": "https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed/",
+        "pubDate": "2026-08-31T18:39",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+        "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+        "pubDate": "2026-08-31T18:10",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Raindrops are tiny lightning bolts, and they’re corroding cars, study finds",
+        "link": "https://arstechnica.com/science/2026/08/raindrops-are-tiny-lightning-bolts-and-theyre-corroding-cars-study-finds/",
+        "pubDate": "2026-08-31T17:11",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Think twice before installing this device promising free movies",
+        "link": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
+        "pubDate": "2026-08-31T16:33",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "El Niño is now stronger than at any point in the last 1,000 years, study finds",
+        "link": "https://arstechnica.com/science/2026/08/el-nino-is-now-stronger-than-at-any-point-in-the-last-1000-years-study-finds/",
+        "pubDate": "2026-08-31T16:04",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google Maps renames \"Lake Ontario\" to \"Lake America\" even faster than US government",
+        "link": "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/",
+        "pubDate": "2026-08-31T15:33",
+        "feedId": "arstechnica"
+      },
       {
         "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
         "link": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
@@ -221,72 +281,60 @@
         "link": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
         "pubDate": "2026-08-30T17:40",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Inside Meta’s push to put robots to work in data centers",
-        "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-        "pubDate": "2026-08-30T11:03",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "I asked 100 companies for my data. Some deleted it instead.",
-        "link": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
-        "pubDate": "2026-08-29T10:50",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
-        "link": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
-        "pubDate": "2026-08-28T22:14",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Cities terminate Flock contracts at record pace in August",
-        "link": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/",
-        "pubDate": "2026-08-28T21:33",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
-        "link": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/",
-        "pubDate": "2026-08-28T21:17",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-        "link": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
-        "pubDate": "2026-08-28T18:07",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Here's what we know about the \"space academy\" Trump just announced",
-        "link": "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/",
-        "pubDate": "2026-08-28T17:36",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Apple One and Apple TV subscription prices increase by up to 20 percent",
-        "link": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
-        "pubDate": "2026-08-28T17:23",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Our 10 favorite scenes from T2: Judgment Day",
-        "link": "https://arstechnica.com/culture/2026/08/our-10-favorite-scenes-from-t2-judgment-day/",
-        "pubDate": "2026-08-28T16:44",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
-        "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
-        "pubDate": "2026-08-28T15:42",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Johnson's unavoidable, uncomfortable September problem",
+        "link": "https://www.axios.com/2026/08/31/republicans-house-ethics-chuck-edwards",
+        "pubDate": "2026-08-31T23:54",
+        "feedId": "axios"
+      },
+      {
+        "title": "Supreme Court allows Trump's ballroom construction to proceed",
+        "link": "https://www.axios.com/2026/08/31/supreme-court-trump-white-house-ballroom-construction-ok",
+        "pubDate": "2026-08-31T22:40",
+        "feedId": "axios"
+      },
+      {
+        "title": "Army Secretary Dan Driscoll resigns from post",
+        "link": "https://www.axios.com/2026/08/31/hegseth-dan-driscoll-trump-administration",
+        "pubDate": "2026-08-31T22:38",
+        "feedId": "axios"
+      },
+      {
+        "title": "Bessent met with Russian counterpart at G20",
+        "link": "https://www.axios.com/2026/08/31/bessent-russia-g20-europe",
+        "pubDate": "2026-08-31T21:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump takes his \"Lake America\" push to Apple",
+        "link": "https://www.axios.com/2026/08/31/trump-lake-america-apple-maps-request",
+        "pubDate": "2026-08-31T19:04",
+        "feedId": "axios"
+      },
+      {
+        "title": "\"Let data reign\": Trump and AI investors wage campaign to save data centers",
+        "link": "https://www.axios.com/2026/08/31/trump-data-centers-backlash-ai-campaign",
+        "pubDate": "2026-08-31T18:22",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump weighing limited strikes against Iran to curb Hormuz attacks",
+        "link": "https://www.axios.com/2026/08/31/trump-iran-war-hormuz-hegseth-centcom",
+        "pubDate": "2026-08-31T18:12",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump keeps turning his fire on female reporters",
+        "link": "https://www.axios.com/2026/08/31/trump-female-reporters-press-access",
+        "pubDate": "2026-08-31T17:58",
+        "feedId": "axios"
+      },
       {
         "title": "Two words that worry global central bankers the most",
         "link": "https://www.axios.com/2026/08/31/central-bankers-fiscal-dominance-jackson-hole",
@@ -327,54 +375,6 @@
         "title": "U.S. strikes Iran to prevent Hormuz mine threat",
         "link": "https://www.axios.com/2026/08/30/us-iran-strike-hormuz-mines",
         "pubDate": "2026-08-31T01:13",
-        "feedId": "axios"
-      },
-      {
-        "title": "Inside the socialists' civil war over AOC and 2028",
-        "link": "https://www.axios.com/2026/08/30/socialists-fight-aoc-2028",
-        "pubDate": "2026-08-30T21:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "America's next grocery shock is brewing",
-        "link": "https://www.axios.com/2026/08/30/grocery-inflation-prices-war-diesel",
-        "pubDate": "2026-08-30T13:02",
-        "feedId": "axios"
-      },
-      {
-        "title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
-        "link": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
-        "pubDate": "2026-08-29T23:57",
-        "feedId": "axios"
-      },
-      {
-        "title": "CIA director Ratcliffe floated Trump-Putin-Zelensky summit during Moscow visit, sources say",
-        "link": "https://www.axios.com/2026/08/29/cia-director-ratcliffe-putin-zelensky-summit-war",
-        "pubDate": "2026-08-29T23:21",
-        "feedId": "axios"
-      },
-      {
-        "title": "The 5 craziest discoveries from OpenAI's HuggingFace investigation",
-        "link": "https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights",
-        "pubDate": "2026-08-29T13:11",
-        "feedId": "axios"
-      },
-      {
-        "title": "Why Nepal's rare, deadly flood struck without warning",
-        "link": "https://www.axios.com/2026/08/29/nepal-flood-cause-warning-alert-system",
-        "pubDate": "2026-08-29T11:59",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump hails \"biggest oil deal in world history\" with Venezuela",
-        "link": "https://www.axios.com/2026/08/29/trump-venezuela-oil-deal",
-        "pubDate": "2026-08-29T00:40",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: AOC shakes up team ahead of 2028 decision",
-        "link": "https://www.axios.com/2026/08/28/aoc-staff-changes-2028-decision",
-        "pubDate": "2026-08-28T22:33",
         "feedId": "axios"
       }
     ]
