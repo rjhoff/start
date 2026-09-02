@@ -3,13 +3,49 @@
     "id": "hn",
     "items": [
       {
+        "title": "It's OK to hardcode feature flags (2025)",
+        "link": "https://code.mendhak.com/hardcode-feature-flags/",
+        "pubDate": "2026-09-02T11:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?",
+        "link": "https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/",
+        "pubDate": "2026-09-02T10:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Quasar 438B: Europe's Leading AI Model",
+        "link": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+        "pubDate": "2026-09-02T10:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "Sweden pauses Denmark power cable over EU grid rules",
+        "link": "https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/",
+        "pubDate": "2026-09-02T09:20",
+        "feedId": "hn"
+      },
+      {
+        "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
+        "link": "https://careers.telli.com/",
+        "pubDate": "2026-09-02T08:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Commodore 64 released September 1, 1982",
+        "link": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+        "pubDate": "2026-09-02T08:36",
+        "feedId": "hn"
+      },
+      {
         "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
         "link": "https://arxiv.org/abs/2608.29530",
         "pubDate": "2026-09-02T04:15",
         "feedId": "hn"
       },
       {
-        "title": "WebFPGA",
+        "title": "WebFPGA (2019)",
         "link": "https://webfpga.io/",
         "pubDate": "2026-09-02T03:54",
         "feedId": "hn"
@@ -45,51 +81,15 @@
         "feedId": "hn"
       },
       {
+        "title": "Bugs happen: The easy way to compare solo PQ to ECC+PQ",
+        "link": "https://blog.cr.yp.to/20260704-bugs.html",
+        "pubDate": "2026-09-01T21:27",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
         "link": "https://hnmatchmaker.com/",
         "pubDate": "2026-09-01T20:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "Path to Astra: critical capabilities and frontier safeguards",
-        "link": "https://openai.com/index/path-to-astra/",
-        "pubDate": "2026-09-01T20:20",
-        "feedId": "hn"
-      },
-      {
-        "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-        "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-        "pubDate": "2026-09-01T20:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
-        "link": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
-        "pubDate": "2026-09-01T19:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-        "link": "https://danluu.com/zitron/",
-        "pubDate": "2026-09-01T18:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-        "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-        "pubDate": "2026-09-01T17:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "The creator of Jujutsu has joined ERSC",
-        "link": "https://ersc.io/blog/martin-joins-ersc",
-        "pubDate": "2026-09-01T17:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "Atlas: A World Model for Spatial Intelligence",
-        "link": "https://www.worldlabs.ai/blog/atlas",
-        "pubDate": "2026-09-01T17:36",
         "feedId": "hn"
       }
     ]
@@ -97,30 +97,6 @@
   "lobsters": {
     "id": "lobsters",
     "items": [
-      {
-        "title": "Fine, I’ll build my own text editor",
-        "link": "https://dbushell.com/2026/09/01/text-editor/",
-        "pubDate": "2026-09-01T11:18",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Is Minifying CSS Necessary? (2023)",
-        "link": "https://shivjm.blog/is-minifying-css-necessary/",
-        "pubDate": "2026-09-01T15:42",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A Crash Course in Predicate Logic",
-        "link": "https://www.hillelwayne.com/post/predicate-logic/",
-        "pubDate": "2026-09-01T16:08",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Endless Temptation of Claude",
-        "link": "https://discardpile.pika.page/posts/the-endless-temptation-of-claude",
-        "pubDate": "2026-09-02T01:22",
-        "feedId": "lobsters"
-      },
       {
         "title": "Normalized Fascism in Open Source: $12 Million Given to DHH",
         "link": "https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/",
@@ -134,15 +110,51 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Is Minifying CSS Necessary? (2023)",
+        "link": "https://shivjm.blog/is-minifying-css-necessary/",
+        "pubDate": "2026-09-01T15:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Fine, I’ll build my own text editor",
+        "link": "https://dbushell.com/2026/09/01/text-editor/",
+        "pubDate": "2026-09-01T11:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Endless Temptation of Claude",
+        "link": "https://discardpile.pika.page/posts/the-endless-temptation-of-claude",
+        "pubDate": "2026-09-02T01:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A Crash Course in Predicate Logic",
+        "link": "https://www.hillelwayne.com/post/predicate-logic/",
+        "pubDate": "2026-09-01T16:08",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Zuzai, a new word, indicates the absence of AI",
         "link": "https://zuzai.org/",
         "pubDate": "2026-09-01T13:26",
         "feedId": "lobsters"
       },
       {
+        "title": "GentleOS/16 hobby OS for vintage 16-bit PCs",
+        "link": "https://luke8086.dev/gentleos16.html",
+        "pubDate": "2026-09-02T04:13",
+        "feedId": "lobsters"
+      },
+      {
         "title": "A bicycle for the mind",
         "link": "https://pulkomandy.tk/_/_Life/_A%20bicycle%20for%20the%20mind",
         "pubDate": "2026-09-01T13:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Bluefin is a capability system",
+        "link": "https://h2.jaguarpaw.co.uk/posts/bluefin-capability-system/",
+        "pubDate": "2026-09-02T06:09",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +170,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "GentleOS/16 hobby OS for vintage 16-bit PCs",
-        "link": "https://luke8086.dev/gentleos16.html",
-        "pubDate": "2026-09-02T04:13",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Janet 1.42.0",
-        "link": "https://github.com/janet-lang/janet/releases/tag/v1.42.0",
-        "pubDate": "2026-09-01T00:05",
+        "title": "humanity has built the records of FATE by accident",
+        "link": "https://ariadne.space/2026/09/01/humanity-has-built-the-records.html",
+        "pubDate": "2026-09-02T07:29",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The pattern language of software architecture",
-        "link": "https://metapatterns.io/",
-        "pubDate": "2026-09-01T17:53",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Texttile, a multiplayer blog engine for people who write together",
-        "link": "https://www.v01.io/posts/2026/08/texttile/",
-        "pubDate": "2026-09-01T17:43",
+        "title": "Who's Hiring? Q4 2026",
+        "link": "https://lobste.rs/s/8mwdf1/who_s_hiring_q4_2026",
+        "pubDate": "2026-09-02T11:41",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Is Russia's rival to Starlink failing? Here's what we know.",
+        "link": "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/",
+        "pubDate": "2026-09-02T11:15",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
+        "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
+        "pubDate": "2026-09-02T11:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
         "link": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
@@ -269,24 +281,48 @@
         "link": "https://arstechnica.com/culture/2026/08/review-coyote-vs-acme-is-an-unabashed-love-letter-to-looney-tunes/",
         "pubDate": "2026-08-31T20:02",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Trump tells FCC to punish journalist for calling his election results \"mixed\"",
-        "link": "https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed/",
-        "pubDate": "2026-08-31T18:39",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-        "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
-        "pubDate": "2026-08-31T18:10",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Like \"pissing in the wind\": Local concerns bulldozed by Trump's border wall plan",
+        "link": "https://www.axios.com/2026/09/02/border-wall-bulldoze-local-concerns",
+        "pubDate": "2026-09-02T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "OpenAI, Anthropic aim to balance safety, progress as IPOs near",
+        "link": "https://www.axios.com/2026/09/02/openai-anthropic-fable-astra-ipo",
+        "pubDate": "2026-09-02T09:10",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump's AI team fractures over strategy against G20 backdrop",
+        "link": "https://www.axios.com/2026/09/02/trump-ai-g20-innovation-summit",
+        "pubDate": "2026-09-02T09:08",
+        "feedId": "axios"
+      },
+      {
+        "title": "Rogue House Democrats Golden and Perez face growing push for \"consequences\"",
+        "link": "https://www.axios.com/2026/09/02/golden-perez-jeffries-house-democrats-punishment",
+        "pubDate": "2026-09-02T09:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "Pentagon turmoil deepens as Hegseth consolidates control",
+        "link": "https://www.axios.com/2026/09/02/hegseth-defense-pentagon-driscoll-iran-war",
+        "pubDate": "2026-09-02T09:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "America is seeing an uptick in executions",
+        "link": "https://www.axios.com/2026/09/02/death-penalty-executions-surging-florida",
+        "pubDate": "2026-09-02T09:00",
+        "feedId": "axios"
+      },
       {
         "title": "U.S. strikes Iran tankers under new \"tanker for tanker\" policy",
         "link": "https://www.axios.com/2026/09/02/iran-tankers-hormuz-attacks-oil",
@@ -339,42 +375,6 @@
         "title": "Data center construction spending surged in July",
         "link": "https://www.axios.com/2026/09/01/ai-data-center-constructon-spending",
         "pubDate": "2026-09-01T17:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "What higher interest rates are telling us",
-        "link": "https://www.axios.com/2026/09/01/interest-rates-finance-bessent",
-        "pubDate": "2026-09-01T16:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "House Democrats fume about GOP's anti-socialism bill",
-        "link": "https://www.axios.com/2026/09/01/democrats-house-socialism-republicans-save-act",
-        "pubDate": "2026-09-01T13:06",
-        "feedId": "axios"
-      },
-      {
-        "title": "Apple, OpenAI legal fight keeps escalating. Here's how we got here",
-        "link": "https://www.axios.com/2026/09/01/apple-openai-lawsuit-ai-gpt-devices",
-        "pubDate": "2026-09-01T11:18",
-        "feedId": "axios"
-      },
-      {
-        "title": "RFK Jr.'s partial vaccine legacy",
-        "link": "https://www.axios.com/2026/09/01/rfk-vaccine-legacy-maha",
-        "pubDate": "2026-09-01T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Tim Cook's legacy hinges on Apple's AI bet",
-        "link": "https://www.axios.com/2026/09/01/tim-cooks-legacy-hinges-on-apples-ai-bet",
-        "pubDate": "2026-09-01T09:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "NAACP's call for Black athletes' boycott of southern schools hits an NIL wall",
-        "link": "https://www.axios.com/2026/09/01/naacp-black-athletes-boycott-nil",
-        "pubDate": "2026-09-01T09:15",
         "feedId": "axios"
       }
     ]
