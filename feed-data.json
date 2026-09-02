@@ -3,33 +3,81 @@
     "id": "hn",
     "items": [
       {
+        "title": "Humanity has built the records of FATE by accident",
+        "link": "https://ariadne.space/2026/09/01/humanity-has-built-the-records.html",
+        "pubDate": "2026-09-02T19:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "The American Worker vs. the Most Qualified",
+        "link": "https://www.marginallycompelling.com/p/the-american-worker-vs-the-most-qualified",
+        "pubDate": "2026-09-02T18:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Qantas A380 engine disintegration in 2010",
+        "link": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+        "pubDate": "2026-09-02T18:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "Embedded Rust RTOS vs. C RTOS",
+        "link": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
+        "pubDate": "2026-09-02T18:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "I Don't Think I Can Stay in Tech",
+        "link": "https://coyotetracks.org/blog/stay-in-tech/",
+        "pubDate": "2026-09-02T18:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "I Don't Have a Smartphone",
+        "link": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
+        "pubDate": "2026-09-02T17:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "Paint.net 5.2 alpha now runs on Linux",
+        "link": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
+        "pubDate": "2026-09-02T17:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "How to debloat your Xiaomi 15 Ultra without root access",
+        "link": "https://trackerninja.codeberg.page/post/how-to-debloat-your-xiaomi-15-ultra-without-rooting-and-connecting-it-to-the-computer/",
+        "pubDate": "2026-09-02T16:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "The race to engineer new knobs for the human brain",
+        "link": "https://www.neuroai.science/p/the-race-to-engineer-new-knobs-for",
+        "pubDate": "2026-09-02T16:25",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x",
         "link": "https://frontierharness.org",
         "pubDate": "2026-09-02T16:14",
         "feedId": "hn"
       },
       {
-        "title": "Saving money on Google Photos with Immich: Your own personal photo storage",
-        "link": "https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/",
-        "pubDate": "2026-09-02T16:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Aura – a Rust agent that investigates and fixes production incidents",
-        "link": "https://github.com/mezmo/aura",
-        "pubDate": "2026-09-02T15:55",
+        "title": "SteamdDB Joins Nexus Mods",
+        "link": "https://www.nexusmods.com/news/15597",
+        "pubDate": "2026-09-02T15:25",
         "feedId": "hn"
       },
       {
         "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
         "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-        "pubDate": "2026-09-02T15:44",
+        "pubDate": "2026-09-02T15:12",
         "feedId": "hn"
       },
       {
-        "title": "Gemini 3.8 Flash",
-        "link": "https://deepmind.google/models/model-cards/gemini-3-8-flash/",
-        "pubDate": "2026-09-02T15:12",
+        "title": "Google avoids a breakup of its ad tech business",
+        "link": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+        "pubDate": "2026-09-02T14:46",
         "feedId": "hn"
       },
       {
@@ -42,54 +90,6 @@
         "title": "WebLLM: high-performance in-browser LLM inference engine",
         "link": "https://github.com/mlc-ai/web-llm",
         "pubDate": "2026-09-02T14:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "GrapheneOS says Pixel 11 has MTE support after all",
-        "link": "https://grapheneos.social/@GrapheneOS/117194007157499435",
-        "pubDate": "2026-09-02T14:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-        "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-        "pubDate": "2026-09-02T13:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "A third of Perplexity's citations don't contain the number they're cited for",
-        "link": "https://hausresearch.com/reports/perplexity-citation-audit/",
-        "pubDate": "2026-09-02T13:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "Poisson Disk Sampling",
-        "link": "https://stripeacross.com/posts/poisson-disk-sampling/",
-        "pubDate": "2026-09-02T13:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
-        "link": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
-        "pubDate": "2026-09-02T13:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "Biggest dark matter detector spots a single weird particle",
-        "link": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
-        "pubDate": "2026-09-02T13:40",
-        "feedId": "hn"
-      },
-      {
-        "title": "A Note from LWN",
-        "link": "https://lwn.net/Articles/1090585/",
-        "pubDate": "2026-09-02T13:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "LLMs: Intelligence vs. Cost",
-        "link": "https://openteams.com/intelligence-vs-cost/",
-        "pubDate": "2026-09-02T13:03",
         "feedId": "hn"
       }
     ]
@@ -104,9 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Who's Hiring? Q4 2026",
-        "link": "https://lobste.rs/s/8mwdf1/who_s_hiring_q4_2026",
-        "pubDate": "2026-09-02T11:41",
+        "title": "A note on subscription prices from LWN",
+        "link": "https://lwn.net/Articles/1090585/",
+        "pubDate": "2026-09-02T15:20",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I Don’t Have a Smartphone…",
+        "link": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
+        "pubDate": "2026-09-02T18:20",
         "feedId": "lobsters"
       },
       {
@@ -116,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A note on subscription prices from LWN",
-        "link": "https://lwn.net/Articles/1090585/",
-        "pubDate": "2026-09-02T15:20",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The Endless Temptation of Claude",
         "link": "https://discardpile.pika.page/posts/the-endless-temptation-of-claude",
         "pubDate": "2026-09-02T01:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Dependent if expressions without dependent types",
+        "link": "https://haskellforall.com/2026/09/dependent-if-expressions",
+        "pubDate": "2026-09-02T17:52",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +140,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Firefox’s AI Switch Is Off. Telemetry Isn’t",
+        "link": "https://marius.blog/firefox-155-ai-kill-switch-retest/",
+        "pubDate": "2026-09-02T12:50",
+        "feedId": "lobsters"
+      },
+      {
         "title": "A Crash Course in Predicate Logic",
         "link": "https://www.hillelwayne.com/post/predicate-logic/",
         "pubDate": "2026-09-01T16:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Static Allocation, Constant Work",
+        "link": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
+        "pubDate": "2026-09-02T18:19",
         "feedId": "lobsters"
       },
       {
@@ -146,33 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "GentleOS/16 hobby OS for vintage 16-bit PCs",
-        "link": "https://luke8086.dev/gentleos16.html",
-        "pubDate": "2026-09-02T04:13",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Read your own writes, off the primary",
-        "link": "https://boringsql.com/posts/read-your-own-writes/",
-        "pubDate": "2026-09-02T11:35",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Firefox’s AI Switch Is Off. Telemetry Isn’t",
-        "link": "https://marius.blog/firefox-155-ai-kill-switch-retest/",
-        "pubDate": "2026-09-02T12:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Zuzai, a new word, indicates the absence of AI",
-        "link": "https://zuzai.org/",
-        "pubDate": "2026-09-01T13:26",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Bluefin is a capability system",
-        "link": "https://h2.jaguarpaw.co.uk/posts/bluefin-capability-system/",
-        "pubDate": "2026-09-02T06:09",
+        "title": "Implementing FMA and finding bugs in C and Rust standard libraries",
+        "link": "https://shnatsel.github.io/implementing-fma-finding-bugs-in-std/",
+        "pubDate": "2026-09-02T16:19",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "New things for regular expressions in PostgreSQL (pg_tre and pg_re2)",
-        "link": "https://www.depesz.com/2026/08/25/new-things-for-regular-expressions-in-postgresql-pg_tre-and-pg_re2/",
-        "pubDate": "2026-09-02T12:59",
+        "title": "TinyGo 0.42 - Recover Is Real",
+        "link": "https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/",
+        "pubDate": "2026-09-02T14:38",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "GentleOS/16 hobby OS for vintage 16-bit PCs",
+        "link": "https://luke8086.dev/gentleos16.html",
+        "pubDate": "2026-09-02T04:13",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "The $1 Trump coins are here. Why spending them is legal but tricky",
+        "link": "https://www.axios.com/2026/09/02/trump-coins-real-money-legal-tender-spend-value",
+        "pubDate": "2026-09-02T18:18",
+        "feedId": "axios"
+      },
+      {
+        "title": "Nearly 9 in 10 Americans report widespread government corruption after Trump's return",
+        "link": "https://www.axios.com/2026/09/02/government-corruption-gallup-poll-2026-trump",
+        "pubDate": "2026-09-02T17:45",
+        "feedId": "axios"
+      },
+      {
         "title": "Lutnick: Anthropic is \"back on the right side\" with Trump administration",
         "link": "https://www.axios.com/2026/09/02/lutnick-anthropic-trump",
         "pubDate": "2026-09-02T15:48",
@@ -363,18 +375,6 @@
         "title": "Apple joins Google in renaming Lake Ontario to \"Lake America\"",
         "link": "https://www.axios.com/2026/09/01/apple-maps-google-lake-ontario-lake-america",
         "pubDate": "2026-09-01T21:34",
-        "feedId": "axios"
-      },
-      {
-        "title": "U.S. military launches fresh strikes in the Strait of Hormuz",
-        "link": "https://www.axios.com/2026/09/01/hormuz-centcom-strikes-trump-iran",
-        "pubDate": "2026-09-01T21:26",
-        "feedId": "axios"
-      },
-      {
-        "title": "U.S. officials defend deal with controversial Venezuelan oil baron",
-        "link": "https://www.axios.com/2026/09/01/us-officials-defend-deal-venezuelan-oil-baron",
-        "pubDate": "2026-09-01T19:21",
         "feedId": "axios"
       }
     ]
