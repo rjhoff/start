@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+        "link": "https://arxiv.org/abs/2608.29530",
+        "pubDate": "2026-09-02T04:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "WebFPGA",
+        "link": "https://webfpga.io/",
+        "pubDate": "2026-09-02T03:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "True Rate of Unemployment",
+        "link": "https://www.lisep.org/tru",
+        "pubDate": "2026-09-02T02:21",
+        "feedId": "hn"
+      },
+      {
         "title": "The efficient frontier of LLM inference",
         "link": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
         "pubDate": "2026-09-01T23:48",
@@ -12,12 +30,6 @@
         "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
         "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
         "pubDate": "2026-09-01T23:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "Improving our alignment and security efforts",
-        "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-        "pubDate": "2026-09-01T23:12",
         "feedId": "hn"
       },
       {
@@ -33,21 +45,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Fluorescent lamps (don't) have ears",
-        "link": "https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears",
-        "pubDate": "2026-09-01T21:19",
-        "feedId": "hn"
-      },
-      {
         "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
         "link": "https://hnmatchmaker.com/",
         "pubDate": "2026-09-01T20:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hang on to Your Firefox",
-        "link": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
-        "pubDate": "2026-09-01T20:30",
         "feedId": "hn"
       },
       {
@@ -116,6 +116,24 @@
         "feedId": "lobsters"
       },
       {
+        "title": "The Endless Temptation of Claude",
+        "link": "https://discardpile.pika.page/posts/the-endless-temptation-of-claude",
+        "pubDate": "2026-09-02T01:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Normalized Fascism in Open Source: $12 Million Given to DHH",
+        "link": "https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/",
+        "pubDate": "2026-09-02T06:31",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The load-bearing vocabulary of Claude",
+        "link": "https://louisabraham.github.io/load-bearing/",
+        "pubDate": "2026-09-02T04:06",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Zuzai, a new word, indicates the absence of AI",
         "link": "https://zuzai.org/",
         "pubDate": "2026-09-01T13:26",
@@ -140,9 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Endless Temptation of Claude",
-        "link": "https://discardpile.pika.page/posts/the-endless-temptation-of-claude",
-        "pubDate": "2026-09-02T01:22",
+        "title": "GentleOS/16 hobby OS for vintage 16-bit PCs",
+        "link": "https://luke8086.dev/gentleos16.html",
+        "pubDate": "2026-09-02T04:13",
         "feedId": "lobsters"
       },
       {
@@ -152,39 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Texttile, a multiplayer blog engine for people who write together",
-        "link": "https://www.v01.io/posts/2026/08/texttile/",
-        "pubDate": "2026-09-01T17:43",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-        "link": "https://danluu.com/zitron/",
-        "pubDate": "2026-09-01T23:19",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "This Month in KDE Linux: August 2026",
-        "link": "https://blogs.kde.org/2026/08/31/this-month-in-kde-linux-august-2026/",
-        "pubDate": "2026-09-01T09:30",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Flat vs segmented memory -- it's recursive",
         "link": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
         "pubDate": "2026-09-02T00:01",
         "feedId": "lobsters"
       },
       {
-        "title": "A community that works together, builds together",
-        "link": "https://aerynos.com/blog/2026/08/31/a-community-that-works-together-builds-together/",
-        "pubDate": "2026-09-01T14:44",
+        "title": "The pattern language of software architecture",
+        "link": "https://metapatterns.io/",
+        "pubDate": "2026-09-01T17:53",
         "feedId": "lobsters"
       },
       {
-        "title": "Breaking down Amazon’s mega dropdown (2013)",
-        "link": "https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown",
-        "pubDate": "2026-09-01T01:30",
+        "title": "Texttile, a multiplayer blog engine for people who write together",
+        "link": "https://www.v01.io/posts/2026/08/texttile/",
+        "pubDate": "2026-09-01T17:43",
         "feedId": "lobsters"
       }
     ]
