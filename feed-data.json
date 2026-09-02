@@ -3,6 +3,60 @@
     "id": "hn",
     "items": [
       {
+        "title": "The efficient frontier of LLM inference",
+        "link": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+        "pubDate": "2026-09-01T23:48",
+        "feedId": "hn"
+      },
+      {
+        "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+        "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+        "pubDate": "2026-09-01T23:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "Improving our alignment and security efforts",
+        "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+        "pubDate": "2026-09-01T23:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "My local model setup on an M4 Pro Mac Mini",
+        "link": "https://lws.io/blog/my-local-model-setup/",
+        "pubDate": "2026-09-01T22:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+        "link": "https://masteranza.github.io/weedout/",
+        "pubDate": "2026-09-01T22:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Fluorescent lamps (don't) have ears",
+        "link": "https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears",
+        "pubDate": "2026-09-01T21:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+        "link": "https://hnmatchmaker.com/",
+        "pubDate": "2026-09-01T20:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "Hang on to Your Firefox",
+        "link": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+        "pubDate": "2026-09-01T20:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "Path to Astra: critical capabilities and frontier safeguards",
+        "link": "https://openai.com/index/path-to-astra/",
+        "pubDate": "2026-09-01T20:20",
+        "feedId": "hn"
+      },
+      {
         "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
         "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
         "pubDate": "2026-09-01T20:07",
@@ -18,12 +72,6 @@
         "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
         "link": "https://danluu.com/zitron/",
         "pubDate": "2026-09-01T18:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "There Is No AI",
-        "link": "https://wadler.blogspot.com/2026/08/there-is-no-ai.html",
-        "pubDate": "2026-09-01T18:18",
         "feedId": "hn"
       },
       {
@@ -43,54 +91,6 @@
         "link": "https://www.worldlabs.ai/blog/atlas",
         "pubDate": "2026-09-01T17:36",
         "feedId": "hn"
-      },
-      {
-        "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-        "link": "https://www.norirobotics.com/",
-        "pubDate": "2026-09-01T17:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "Quill (YC W20) Is Hiring a Fullstack SWE",
-        "link": "https://news.ycombinator.com/item?id=49524704",
-        "pubDate": "2026-09-01T17:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-        "link": "https://github.com/carloslfu/slotstream",
-        "pubDate": "2026-09-01T16:42",
-        "feedId": "hn"
-      },
-      {
-        "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
-        "link": "https://moviescenemap.com/",
-        "pubDate": "2026-09-01T16:34",
-        "feedId": "hn"
-      },
-      {
-        "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
-        "link": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
-        "pubDate": "2026-09-01T15:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
-        "link": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
-        "pubDate": "2026-09-01T15:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "Keenable SELECT: an agent that searches the web in SQL",
-        "link": "https://keenableai.github.io/select-showcase/",
-        "pubDate": "2026-09-01T15:41",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ambient CSS v3 – Blender meets CSS",
-        "link": "https://ambientcss.vercel.app/",
-        "pubDate": "2026-09-01T15:35",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,21 +104,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Zuzai, a new word, indicates the absence of AI",
-        "link": "https://zuzai.org/",
-        "pubDate": "2026-09-01T13:26",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Is Minifying CSS Necessary? (2023)",
         "link": "https://shivjm.blog/is-minifying-css-necessary/",
         "pubDate": "2026-09-01T15:42",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A bicycle for the mind",
-        "link": "https://pulkomandy.tk/_/_Life/_A%20bicycle%20for%20the%20mind",
-        "pubDate": "2026-09-01T13:52",
         "feedId": "lobsters"
       },
       {
@@ -128,9 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Janet 1.42.0",
-        "link": "https://github.com/janet-lang/janet/releases/tag/v1.42.0",
-        "pubDate": "2026-09-01T00:05",
+        "title": "Zuzai, a new word, indicates the absence of AI",
+        "link": "https://zuzai.org/",
+        "pubDate": "2026-09-01T13:26",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A bicycle for the mind",
+        "link": "https://pulkomandy.tk/_/_Life/_A%20bicycle%20for%20the%20mind",
+        "pubDate": "2026-09-01T13:52",
         "feedId": "lobsters"
       },
       {
@@ -146,33 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "This Month in KDE Linux: August 2026",
-        "link": "https://blogs.kde.org/2026/08/31/this-month-in-kde-linux-august-2026/",
-        "pubDate": "2026-09-01T09:30",
+        "title": "The Endless Temptation of Claude",
+        "link": "https://discardpile.pika.page/posts/the-endless-temptation-of-claude",
+        "pubDate": "2026-09-02T01:22",
         "feedId": "lobsters"
       },
       {
-        "title": "Breaking down Amazon’s mega dropdown (2013)",
-        "link": "https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown",
-        "pubDate": "2026-09-01T01:30",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "curl: a CVE dispute",
-        "link": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
-        "pubDate": "2026-08-31T10:38",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "RangeFrom, Part 2..: What I think is wrong about the design",
-        "link": "https://erk.dev/2026/08/30/rangefrom-part-2",
-        "pubDate": "2026-08-31T16:53",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "VibeCoded AI-Slop License v1.0",
-        "link": "https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6",
-        "pubDate": "2026-08-31T11:40",
+        "title": "Janet 1.42.0",
+        "link": "https://github.com/janet-lang/janet/releases/tag/v1.42.0",
+        "pubDate": "2026-09-01T00:05",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +158,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I attended a conference recently and AI use by academics was absurd",
-        "link": "https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by",
-        "pubDate": "2026-08-31T15:22",
+        "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+        "link": "https://danluu.com/zitron/",
+        "pubDate": "2026-09-01T23:19",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "This Month in KDE Linux: August 2026",
+        "link": "https://blogs.kde.org/2026/08/31/this-month-in-kde-linux-august-2026/",
+        "pubDate": "2026-09-01T09:30",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Flat vs segmented memory -- it's recursive",
+        "link": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
+        "pubDate": "2026-09-02T00:01",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A community that works together, builds together",
+        "link": "https://aerynos.com/blog/2026/08/31/a-community-that-works-together-builds-together/",
+        "pubDate": "2026-09-01T14:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Breaking down Amazon’s mega dropdown (2013)",
+        "link": "https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown",
+        "pubDate": "2026-09-01T01:30",
         "feedId": "lobsters"
       }
     ]
@@ -193,7 +193,19 @@
     "id": "arstechnica",
     "items": [
       {
-        "title": "CDC reported then deleted two measles deaths that were questioned by RFK Jr.",
+        "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
+        "link": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
+        "pubDate": "2026-09-01T23:01",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Research roundup: 7 cool science stories we almost missed",
+        "link": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/",
+        "pubDate": "2026-09-01T19:06",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "A newborn and child reportedly died of measles; CDC isn't counting them",
         "link": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
         "pubDate": "2026-09-01T18:21",
         "feedId": "arstechnica"
@@ -269,24 +281,42 @@
         "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
         "pubDate": "2026-08-31T18:10",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Raindrops are tiny lightning bolts, and they’re corroding cars, study finds",
-        "link": "https://arstechnica.com/science/2026/08/raindrops-are-tiny-lightning-bolts-and-theyre-corroding-cars-study-finds/",
-        "pubDate": "2026-08-31T17:11",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Think twice before installing this device promising free movies",
-        "link": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
-        "pubDate": "2026-08-31T16:33",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "U.S. strikes Iran tankers under new \"tanker for tanker\" policy",
+        "link": "https://www.axios.com/2026/09/02/iran-tankers-hormuz-attacks-oil",
+        "pubDate": "2026-09-02T00:22",
+        "feedId": "axios"
+      },
+      {
+        "title": "House Democrats left reeling after shock defections",
+        "link": "https://www.axios.com/2026/09/01/golden-perez-jeffries-clark-house-democrats-vote",
+        "pubDate": "2026-09-01T22:32",
+        "feedId": "axios"
+      },
+      {
+        "title": "House censures Chuck Edwards over \"sexual harassment\" of staff",
+        "link": "https://www.axios.com/2026/09/01/chuck-edwards-censure-sexual-harassment-female-staff",
+        "pubDate": "2026-09-01T22:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "Apple joins Google in renaming Lake Ontario to \"Lake America\"",
+        "link": "https://www.axios.com/2026/09/01/apple-maps-google-lake-ontario-lake-america",
+        "pubDate": "2026-09-01T21:34",
+        "feedId": "axios"
+      },
+      {
+        "title": "U.S. military launches fresh strikes in the Strait of Hormuz",
+        "link": "https://www.axios.com/2026/09/01/hormuz-centcom-strikes-trump-iran",
+        "pubDate": "2026-09-01T21:26",
+        "feedId": "axios"
+      },
       {
         "title": "U.S. officials defend deal with controversial Venezuelan oil baron",
         "link": "https://www.axios.com/2026/09/01/us-officials-defend-deal-venezuelan-oil-baron",
@@ -303,12 +333,6 @@
         "title": "AI labs are facing an agent control problem",
         "link": "https://www.axios.com/2026/09/01/openai-hugging-face-ai-agent-security",
         "pubDate": "2026-09-01T17:49",
-        "feedId": "axios"
-      },
-      {
-        "title": "U.S. military conducting fresh strikes in the Strait of Hormuz",
-        "link": "https://www.axios.com/2026/09/01/hormuz-centcom-strikes-trump-iran",
-        "pubDate": "2026-09-01T17:47",
         "feedId": "axios"
       },
       {
@@ -351,30 +375,6 @@
         "title": "NAACP's call for Black athletes' boycott of southern schools hits an NIL wall",
         "link": "https://www.axios.com/2026/09/01/naacp-black-athletes-boycott-nil",
         "pubDate": "2026-09-01T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "How golden was Tim Cook's Apple?",
-        "link": "https://www.axios.com/2026/09/01/apple-ceo-cook-stock",
-        "pubDate": "2026-09-01T09:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "The secret history of Trump's Venezuelan oil baron",
-        "link": "https://www.axios.com/2026/09/01/trump-venezuela-oil-baron",
-        "pubDate": "2026-09-01T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Why Army Secretary Dan Driscoll resigned",
-        "link": "https://www.axios.com/2026/09/01/army-secretary-dan-driscoll-resigns-hegseth",
-        "pubDate": "2026-09-01T08:50",
-        "feedId": "axios"
-      },
-      {
-        "title": "Vance reaches out to Jewish Republicans in Vegas speech",
-        "link": "https://www.axios.com/2026/09/01/jd-vance-antisemitisim-speech-las-vegas",
-        "pubDate": "2026-09-01T05:21",
         "feedId": "axios"
       }
     ]
