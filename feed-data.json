@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "Protecting Engineers' Skills in the AI Era",
+        "link": "https://spectrum.ieee.org/ai-engineer-skills",
+        "pubDate": "2026-09-03T23:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "GLP-1s Are Being Linked to Fewer Serious Infections, Including TB",
+        "link": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
+        "pubDate": "2026-09-03T22:37",
+        "feedId": "hn"
+      },
+      {
         "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
         "link": "https://armature.tech/blog/which-tools-coding-agents-install",
         "pubDate": "2026-09-03T21:20",
@@ -45,12 +57,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
-        "link": "https://news.ycombinator.com/item?id=49552616",
-        "pubDate": "2026-09-03T16:24",
-        "feedId": "hn"
-      },
-      {
         "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
         "link": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
         "pubDate": "2026-09-03T16:21",
@@ -85,12 +91,6 @@
         "link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
         "pubDate": "2026-09-03T14:28",
         "feedId": "hn"
-      },
-      {
-        "title": "Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere",
-        "link": "https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere",
-        "pubDate": "2026-09-03T13:47",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,12 +110,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "CERN transitioning industrial computers to Debian after being a longtime RHEL institution",
-        "link": "https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL",
-        "pubDate": "2026-09-03T08:28",
-        "feedId": "lobsters"
-      },
-      {
         "title": "jujutsu 0.45.0",
         "link": "https://github.com/jj-vcs/jj/releases/tag/v0.45.0",
         "pubDate": "2026-09-03T10:02",
@@ -128,9 +122,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "CERN transitioning industrial computers to Debian after being a longtime RHEL institution",
+        "link": "https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL",
+        "pubDate": "2026-09-03T08:28",
+        "feedId": "lobsters"
+      },
+      {
         "title": "You Don't Need Initial-Scale In Your HTML",
         "link": "https://vale.rocks/micros/20260902-1350",
         "pubDate": "2026-09-03T14:03",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "simple is not small",
+        "link": "https://jyn.dev/simple-is-not-the-same-as-small/",
+        "pubDate": "2026-09-03T21:24",
         "feedId": "lobsters"
       },
       {
@@ -146,39 +152,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "NES dumping over audio",
+        "link": "https://mathstodon.xyz/@JordiGH/117209252363385093",
+        "pubDate": "2026-09-03T21:40",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Announcing Rust 1.98.1",
         "link": "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/",
         "pubDate": "2026-09-03T14:03",
         "feedId": "lobsters"
       },
       {
-        "title": "A note on subscription prices from LWN",
-        "link": "https://lwn.net/Articles/1090585/",
-        "pubDate": "2026-09-02T15:20",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How Swiss Tables Work in Go’s Built-in Map",
-        "link": "https://victoriametrics.com/blog/go-swiss-table-map/",
-        "pubDate": "2026-09-03T10:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "deforester - Logging for Janet",
-        "link": "https://codeberg.org/veqq/deforester",
-        "pubDate": "2026-09-03T04:12",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Static Allocation, Constant Work",
-        "link": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
-        "pubDate": "2026-09-02T18:19",
+        "title": "An image only some users can see",
+        "link": "https://d.erenrich.net/apple.avif",
+        "pubDate": "2026-09-03T21:44",
         "feedId": "lobsters"
       },
       {
         "title": "Souping up my blog",
         "link": "https://qtea.me/posts/souping-up-my-blog/",
         "pubDate": "2026-09-03T11:35",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A note on subscription prices from LWN",
+        "link": "https://lwn.net/Articles/1090585/",
+        "pubDate": "2026-09-02T15:20",
         "feedId": "lobsters"
       },
       {
@@ -193,13 +193,31 @@
     "id": "arstechnica",
     "items": [
       {
-        "title": "US senator calls on the NSA to give guidance for use of VPNs",
+        "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
+        "link": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
+        "pubDate": "2026-09-03T22:13",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
+        "link": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
+        "pubDate": "2026-09-03T21:10",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
+        "link": "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/",
+        "pubDate": "2026-09-03T20:14",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
         "link": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
         "pubDate": "2026-09-03T19:52",
         "feedId": "arstechnica"
       },
       {
-        "title": "NJ urges SCOTUS to rule that Kalshi sports bets are gambling, not \"swaps\"",
+        "title": "Supreme Court urged to let states regulate sports bets on prediction markets",
         "link": "https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps/",
         "pubDate": "2026-09-03T19:42",
         "feedId": "arstechnica"
@@ -263,24 +281,6 @@
         "link": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/",
         "pubDate": "2026-09-02T19:37",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-        "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-        "pubDate": "2026-09-02T18:13",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
-        "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
-        "pubDate": "2026-09-02T17:58",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
-        "link": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
-        "pubDate": "2026-09-02T16:30",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,7 +288,13 @@
     "id": "axios",
     "items": [
       {
-        "title": "House Democrat says his phone calls with a state legislator was wiretapped by FBI",
+        "title": "Maria Bartiromo fired by Fox",
+        "link": "https://www.axios.com/2026/09/03/maria-bartiromo-departs-fox",
+        "pubDate": "2026-09-03T22:13",
+        "feedId": "axios"
+      },
+      {
+        "title": "House Democrat says his phone calls with a state legislator were wiretapped by FBI",
         "link": "https://www.axios.com/2026/09/03/fbi-doj-wiretap-subramanyam-lucas-virginia-trump",
         "pubDate": "2026-09-03T21:18",
         "feedId": "axios"
@@ -297,12 +303,6 @@
         "title": "OpenAI unveils plan to protect critical services from AI cyberattacks",
         "link": "https://www.axios.com/2026/09/03/openai-critical-infrastructure-cyber-ai-models",
         "pubDate": "2026-09-03T20:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Maria Bartiromo out at Fox",
-        "link": "https://www.axios.com/2026/09/03/maria-bartiromo-departs-fox",
-        "pubDate": "2026-09-03T18:11",
         "feedId": "axios"
       },
       {
