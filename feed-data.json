@@ -3,20 +3,8 @@
     "id": "hn",
     "items": [
       {
-        "title": "Reflections on Americans' Net Worth",
-        "link": "https://www.betonit.ai/p/reflections-on-americans-net-worth",
-        "pubDate": "2026-09-02T23:57",
-        "feedId": "hn"
-      },
-      {
-        "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
-        "link": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
-        "pubDate": "2026-09-02T23:08",
-        "feedId": "hn"
-      },
-      {
         "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-        "link": "https://ronanrx.com/",
+        "link": "https://news.ycombinator.com/item?id=49543530",
         "pubDate": "2026-09-02T22:36",
         "feedId": "hn"
       },
@@ -24,12 +12,6 @@
         "title": "Reasons robotics is hard",
         "link": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
         "pubDate": "2026-09-02T22:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
-        "link": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
-        "pubDate": "2026-09-02T21:46",
         "feedId": "hn"
       },
       {
@@ -42,12 +24,6 @@
         "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
         "link": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
         "pubDate": "2026-09-02T20:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "I wanna live an NPC life",
-        "link": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
-        "pubDate": "2026-09-02T19:52",
         "feedId": "hn"
       },
       {
@@ -91,6 +67,30 @@
         "link": "https://turtlespace.blog/p/exit-the-cave",
         "pubDate": "2026-09-02T14:16",
         "feedId": "hn"
+      },
+      {
+        "title": "WebLLM: high-performance in-browser LLM inference engine",
+        "link": "https://github.com/mlc-ai/web-llm",
+        "pubDate": "2026-09-02T14:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+        "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+        "pubDate": "2026-09-02T13:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "Poisson Disk Sampling",
+        "link": "https://stripeacross.com/posts/poisson-disk-sampling/",
+        "pubDate": "2026-09-02T13:47",
+        "feedId": "hn"
+      },
+      {
+        "title": "Biggest dark matter detector spots a single weird particle",
+        "link": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+        "pubDate": "2026-09-02T13:40",
+        "feedId": "hn"
       }
     ]
   },
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Dependent if expressions without dependent types",
-        "link": "https://haskellforall.com/2026/09/dependent-if-expressions",
-        "pubDate": "2026-09-02T17:52",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Static Allocation, Constant Work",
         "link": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
         "pubDate": "2026-09-02T18:19",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Dependent if expressions without dependent types",
+        "link": "https://haskellforall.com/2026/09/dependent-if-expressions",
+        "pubDate": "2026-09-02T17:52",
         "feedId": "lobsters"
       },
       {
@@ -128,27 +128,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "deforester - Logging for Janet",
+        "link": "https://codeberg.org/veqq/deforester",
+        "pubDate": "2026-09-03T04:12",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Implementing FMA and finding bugs in C and Rust standard libraries",
         "link": "https://shnatsel.github.io/implementing-fma-finding-bugs-in-std/",
         "pubDate": "2026-09-02T16:19",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The load-bearing vocabulary of Claude",
-        "link": "https://louisabraham.github.io/load-bearing/",
-        "pubDate": "2026-09-02T04:06",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The holy grail of nixpkgs: version ranges",
-        "link": "https://fzakaria.com/2026/09/01/the-holy-grail-of-nixpkgs-version-ranges",
-        "pubDate": "2026-09-02T19:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "TinyGo 0.42 - Recover Is Real",
-        "link": "https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/",
-        "pubDate": "2026-09-02T14:38",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +146,45 @@
         "feedId": "lobsters"
       },
       {
+        "title": "The holy grail of nixpkgs: version ranges",
+        "link": "https://fzakaria.com/2026/09/01/the-holy-grail-of-nixpkgs-version-ranges",
+        "pubDate": "2026-09-02T19:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The load-bearing vocabulary of Claude",
+        "link": "https://louisabraham.github.io/load-bearing/",
+        "pubDate": "2026-09-02T04:06",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "TinyGo 0.42 - Recover Is Real",
+        "link": "https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/",
+        "pubDate": "2026-09-02T14:38",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Goroutine Leak Profiles",
         "link": "https://go.dev/blog/goroutine-leak-profiles",
         "pubDate": "2026-09-02T18:50",
         "feedId": "lobsters"
       },
       {
-        "title": "Revisiting Joel's Test - exe.dev blog",
-        "link": "https://blog.exe.dev/revisiting-joel",
-        "pubDate": "2026-09-02T17:07",
+        "title": "CTTI is Exponential, RTTI is Linear",
+        "link": "https://www.gingerbill.org/article/2026/09/02/ctti-is-exponential-rtti-is-linear/",
+        "pubDate": "2026-09-02T21:35",
         "feedId": "lobsters"
       },
       {
-        "title": "Is Minifying CSS Necessary? (2023)",
-        "link": "https://shivjm.blog/is-minifying-css-necessary/",
-        "pubDate": "2026-09-01T15:42",
+        "title": "I Think the Military Commissary Freezers Were Hacked",
+        "link": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+        "pubDate": "2026-09-03T03:20",
         "feedId": "lobsters"
       },
       {
-        "title": "A Crash Course in Predicate Logic",
-        "link": "https://www.hillelwayne.com/post/predicate-logic/",
-        "pubDate": "2026-09-01T16:08",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What will you do after tech?",
-        "link": "https://lobste.rs/s/oieyk7/what_will_you_do_after_tech",
-        "pubDate": "2026-09-02T13:43",
+        "title": "Security Incident – BGP Hijacking – Virtualizor",
+        "link": "https://www.virtualizor.com/blog/security-incident-bgp-hijacking/",
+        "pubDate": "2026-09-03T02:07",
         "feedId": "lobsters"
       }
     ]
