@@ -3,27 +3,75 @@
     "id": "hn",
     "items": [
       {
+        "title": "Mom Gets 6-Mo Suspended Sentence for Letting 5-Year-Old Walk to the Pond",
+        "link": "https://reason.com/2026/09/02/virginia-mom-gets-6-month-suspended-jail-sentence-for-letting-5-year-old-walk-to-the-pond/",
+        "pubDate": "2026-09-03T14:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "Fuck Off as a Service (Foaas)",
+        "link": "https://foaas.io/",
+        "pubDate": "2026-09-03T13:47",
+        "feedId": "hn"
+      },
+      {
+        "title": "ICE Has a $2M Contract for Spyware That Can Hack Phones Without a Click",
+        "link": "https://www.military.com/ice-has-a-2-million-contract-for-spyware-that-can-hack-phones-without-a-click",
+        "pubDate": "2026-09-03T13:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "Elevated Errors for Multiple Models",
+        "link": "https://status.claude.com/incidents/461yvfrzpwtt",
+        "pubDate": "2026-09-03T13:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nvidia to Acquire Hugging Face",
+        "link": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+        "pubDate": "2026-09-03T12:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+        "link": "https://9mothers.com/careers",
+        "pubDate": "2026-09-03T12:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "A dark horse enters China's AI race: StartLux",
+        "link": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
+        "pubDate": "2026-09-03T11:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
+        "link": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
+        "pubDate": "2026-09-03T11:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Audacity 4.0",
+        "link": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+        "pubDate": "2026-09-03T10:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
+        "link": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
+        "pubDate": "2026-09-03T07:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Pre-Release of Polars 2.0",
+        "link": "https://pola.rs/posts/announcing-polars-2/",
+        "pubDate": "2026-09-03T06:59",
+        "feedId": "hn"
+      },
+      {
         "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
         "link": "https://news.ycombinator.com/item?id=49543530",
         "pubDate": "2026-09-02T22:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "Reasons robotics is hard",
-        "link": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
-        "pubDate": "2026-09-02T22:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
-        "link": "https://nango.dev/careers",
-        "pubDate": "2026-09-02T21:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
-        "link": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
-        "pubDate": "2026-09-02T20:08",
         "feedId": "hn"
       },
       {
@@ -39,57 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
-        "link": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
-        "pubDate": "2026-09-02T18:42",
-        "feedId": "hn"
-      },
-      {
-        "title": "Embedded Rust RTOS vs. C RTOS",
-        "link": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
-        "pubDate": "2026-09-02T18:32",
-        "feedId": "hn"
-      },
-      {
         "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
         "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
         "pubDate": "2026-09-02T15:12",
-        "feedId": "hn"
-      },
-      {
-        "title": "Google avoids a breakup of its ad tech business",
-        "link": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-        "pubDate": "2026-09-02T14:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "Exit the Cave",
-        "link": "https://turtlespace.blog/p/exit-the-cave",
-        "pubDate": "2026-09-02T14:16",
-        "feedId": "hn"
-      },
-      {
-        "title": "WebLLM: high-performance in-browser LLM inference engine",
-        "link": "https://github.com/mlc-ai/web-llm",
-        "pubDate": "2026-09-02T14:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-        "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-        "pubDate": "2026-09-02T13:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "Poisson Disk Sampling",
-        "link": "https://stripeacross.com/posts/poisson-disk-sampling/",
-        "pubDate": "2026-09-02T13:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "Biggest dark matter detector spots a single weird particle",
-        "link": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
-        "pubDate": "2026-09-02T13:40",
         "feedId": "hn"
       }
     ]
@@ -98,9 +98,27 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Normalized Fascism in Open Source: $12 Million Given to DHH",
-        "link": "https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/",
-        "pubDate": "2026-09-02T06:31",
+        "title": "CERN transitioning industrial computers to Debian after being a longtime RHEL institution",
+        "link": "https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL",
+        "pubDate": "2026-09-03T08:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What's in the Emacs newcomers-presets theme?",
+        "link": "https://sachachua.com/blog/2026/04/what-s-in-the-emacs-newcomers-presets-theme/",
+        "pubDate": "2026-09-03T08:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I Think the Military Commissary Freezers Were Hacked",
+        "link": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+        "pubDate": "2026-09-03T03:20",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "jujutsu 0.45.0",
+        "link": "https://github.com/jj-vcs/jj/releases/tag/v0.45.0",
+        "pubDate": "2026-09-03T10:02",
         "feedId": "lobsters"
       },
       {
@@ -116,15 +134,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Dependent if expressions without dependent types",
-        "link": "https://haskellforall.com/2026/09/dependent-if-expressions",
-        "pubDate": "2026-09-02T17:52",
+        "title": "Normalized Fascism in Open Source: $12 Million Given to DHH",
+        "link": "https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/",
+        "pubDate": "2026-09-02T06:31",
         "feedId": "lobsters"
       },
       {
-        "title": "I Don’t Have a Smartphone…",
-        "link": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
-        "pubDate": "2026-09-02T18:20",
+        "title": "How Swiss Tables Work in Go’s Built-in Map",
+        "link": "https://victoriametrics.com/blog/go-swiss-table-map/",
+        "pubDate": "2026-09-03T10:50",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Audacity 4.0.0 Released",
+        "link": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+        "pubDate": "2026-09-03T13:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Révo Programming language",
+        "link": "https://revo.lung.fyi/",
+        "pubDate": "2026-09-03T13:21",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Dependent if expressions without dependent types",
+        "link": "https://haskellforall.com/2026/09/dependent-if-expressions",
+        "pubDate": "2026-09-02T17:52",
         "feedId": "lobsters"
       },
       {
@@ -134,57 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Implementing FMA and finding bugs in C and Rust standard libraries",
-        "link": "https://shnatsel.github.io/implementing-fma-finding-bugs-in-std/",
-        "pubDate": "2026-09-02T16:19",
+        "title": "I Don’t Have a Smartphone…",
+        "link": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
+        "pubDate": "2026-09-02T18:20",
         "feedId": "lobsters"
       },
       {
-        "title": "Let's build a compressor from scratch",
-        "link": "https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/",
-        "pubDate": "2026-09-02T19:54",
+        "title": "How to Guarantee You Never Ship",
+        "link": "https://kore-nordmann.de/blog/how_to_guarantee_you_never_ship.html",
+        "pubDate": "2026-09-03T13:00",
         "feedId": "lobsters"
       },
       {
         "title": "The holy grail of nixpkgs: version ranges",
         "link": "https://fzakaria.com/2026/09/01/the-holy-grail-of-nixpkgs-version-ranges",
         "pubDate": "2026-09-02T19:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The load-bearing vocabulary of Claude",
-        "link": "https://louisabraham.github.io/load-bearing/",
-        "pubDate": "2026-09-02T04:06",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "TinyGo 0.42 - Recover Is Real",
-        "link": "https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/",
-        "pubDate": "2026-09-02T14:38",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Goroutine Leak Profiles",
-        "link": "https://go.dev/blog/goroutine-leak-profiles",
-        "pubDate": "2026-09-02T18:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "CTTI is Exponential, RTTI is Linear",
-        "link": "https://www.gingerbill.org/article/2026/09/02/ctti-is-exponential-rtti-is-linear/",
-        "pubDate": "2026-09-02T21:35",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I Think the Military Commissary Freezers Were Hacked",
-        "link": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
-        "pubDate": "2026-09-03T03:20",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Security Incident – BGP Hijacking – Virtualizor",
-        "link": "https://www.virtualizor.com/blog/security-incident-bgp-hijacking/",
-        "pubDate": "2026-09-03T02:07",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,48 @@
     "id": "axios",
     "items": [
       {
+        "title": "Gloria Steinem, feminist icon, dies at 92",
+        "link": "https://www.axios.com/2026/09/03/gloria-steinem-dies-92-feminist-icon",
+        "pubDate": "2026-09-03T12:23",
+        "feedId": "axios"
+      },
+      {
+        "title": "Altman raises stakes on government scrutiny as AI advances",
+        "link": "https://www.axios.com/2026/09/03/altman-government-scrutiny-ai-g20",
+        "pubDate": "2026-09-03T09:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "Brain implants fuel U.S.-China bioscience rivalry",
+        "link": "https://www.axios.com/2026/09/03/brain-implants-elon-musk-neuralink-china-us",
+        "pubDate": "2026-09-03T09:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "Markets can't ignore the war anymore",
+        "link": "https://www.axios.com/2026/09/03/oil-bonds-stocks-iran",
+        "pubDate": "2026-09-03T09:25",
+        "feedId": "axios"
+      },
+      {
+        "title": "Historic first: Older adults now outnumber the youngest children for the first time",
+        "link": "https://www.axios.com/2026/09/03/older-adults-outnumber-youngest-children-globally",
+        "pubDate": "2026-09-03T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "Alaska seeks oil revival while grappling with a warming future",
+        "link": "https://www.axios.com/2026/09/03/alaska-oil-revival-warming-future",
+        "pubDate": "2026-09-03T09:15",
+        "feedId": "axios"
+      },
+      {
+        "title": "House Democrats erupt into infighting over leadership power play",
+        "link": "https://www.axios.com/2026/09/03/house-democrats-jeffries-aguilar-golden-perez",
+        "pubDate": "2026-09-03T08:50",
+        "feedId": "axios"
+      },
+      {
         "title": "Witkoff meets powerful UAE official amid crackdown on Iran",
         "link": "https://www.axios.com/2026/09/02/witkoff-uae-iran-war-trump-bessent",
         "pubDate": "2026-09-02T21:51",
@@ -333,48 +375,6 @@
         "title": "How AI is playing a growing role in wildfire response",
         "link": "https://www.axios.com/2026/09/02/ai-wildfire-response-help",
         "pubDate": "2026-09-02T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "OpenAI, Anthropic aim to balance safety, progress as IPOs near",
-        "link": "https://www.axios.com/2026/09/02/openai-anthropic-fable-astra-ipo",
-        "pubDate": "2026-09-02T09:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump's AI team fractures over strategy against G20 backdrop",
-        "link": "https://www.axios.com/2026/09/02/trump-ai-g20-innovation-summit",
-        "pubDate": "2026-09-02T09:08",
-        "feedId": "axios"
-      },
-      {
-        "title": "Rogue House Democrats Golden and Perez face growing push for \"consequences\"",
-        "link": "https://www.axios.com/2026/09/02/golden-perez-jeffries-house-democrats-punishment",
-        "pubDate": "2026-09-02T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Pentagon turmoil deepens as Hegseth consolidates control",
-        "link": "https://www.axios.com/2026/09/02/hegseth-defense-pentagon-driscoll-iran-war",
-        "pubDate": "2026-09-02T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "U.S. strikes Iran tankers under new \"tanker for tanker\" policy",
-        "link": "https://www.axios.com/2026/09/02/iran-tankers-hormuz-attacks-oil",
-        "pubDate": "2026-09-02T00:22",
-        "feedId": "axios"
-      },
-      {
-        "title": "House Democrats left reeling after shock defections",
-        "link": "https://www.axios.com/2026/09/01/golden-perez-jeffries-clark-house-democrats-vote",
-        "pubDate": "2026-09-01T22:32",
-        "feedId": "axios"
-      },
-      {
-        "title": "House censures Chuck Edwards over \"sexual harassment\" of staff",
-        "link": "https://www.axios.com/2026/09/01/chuck-edwards-censure-sexual-harassment-female-staff",
-        "pubDate": "2026-09-01T22:20",
         "feedId": "axios"
       }
     ]
