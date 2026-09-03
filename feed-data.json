@@ -3,79 +3,67 @@
     "id": "hn",
     "items": [
       {
-        "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
-        "link": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
-        "pubDate": "2026-09-03T18:01",
+        "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+        "link": "https://armature.tech/blog/which-tools-coding-agents-install",
+        "pubDate": "2026-09-03T21:20",
         "feedId": "hn"
       },
       {
-        "title": "Winter 2026/2027 First Forecast: Super El Niño Drives a Major Weather Divide",
-        "link": "https://www.severe-weather.eu/long-range-2/winter-2026-2027-first-forecast-super-el-nino-polar-vortex-snow-cold-united-states-canada-europe-fa/",
-        "pubDate": "2026-09-03T18:00",
+        "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+        "link": "https://tasklet.ai/careers/customer-success-engineer",
+        "pubDate": "2026-09-03T21:01",
         "feedId": "hn"
       },
       {
-        "title": "Instrument Clusters Are Now Paid Extras in Two Hyundai Models",
-        "link": "https://www.caranddriver.com/news/a73583741/hyundai-instrument-cluster-paid-option/",
-        "pubDate": "2026-09-03T17:25",
+        "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+        "link": "https://arcprize.org/blog/astra",
+        "pubDate": "2026-09-03T19:45",
         "feedId": "hn"
       },
       {
-        "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
-        "link": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
-        "pubDate": "2026-09-03T17:20",
+        "title": "The asteroid currently hitting front end web development",
+        "link": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+        "pubDate": "2026-09-03T19:17",
         "feedId": "hn"
       },
       {
-        "title": "Usbsid-Pico: Bridging Real Commodore 64 Sound to Modern USB",
-        "link": "https://smallrun.net/blog/loud/usbsid-pico-sids-on-usb",
-        "pubDate": "2026-09-03T17:09",
+        "title": "GPT-6 Astra",
+        "link": "https://openai.com/index/gpt-6-astra/",
+        "pubDate": "2026-09-03T18:41",
         "feedId": "hn"
       },
       {
-        "title": "Cheap Desktop 400GbE Switch MikroTik CRS804-4DDQ-HRM Review",
-        "link": "https://www.servethehome.com/mikrotik-crs804-4ddq-hrm-review-marvell-annapurna-labs-400gbe/",
-        "pubDate": "2026-09-03T17:05",
+        "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+        "link": "https://inference-docs.cerebras.ai/models/overview",
+        "pubDate": "2026-09-03T18:32",
         "feedId": "hn"
       },
       {
-        "title": "Founding Creative Engineer – Gooseworks (YC W23) Is Hiring",
-        "link": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer",
-        "pubDate": "2026-09-03T17:00",
+        "title": "How concerned should we be about Astra's recurrent architecture?",
+        "link": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
+        "pubDate": "2026-09-03T17:10",
         "feedId": "hn"
       },
       {
         "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
-        "link": "https://www.mireye.com",
+        "link": "https://news.ycombinator.com/item?id=49552616",
         "pubDate": "2026-09-03T16:24",
         "feedId": "hn"
       },
       {
-        "title": "Texas Data Center Map: See where data centers are operating or planned",
-        "link": "https://www.kxan.com/news/texas/texas-data-center-tracker-see-where-600-projects-are-operating-or-planned-across-state-in-interactive-map/",
-        "pubDate": "2026-09-03T16:10",
+        "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+        "link": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+        "pubDate": "2026-09-03T16:21",
         "feedId": "hn"
       },
       {
-        "title": "VC isn't VC anymore – understanding the rise of Cancer Capital",
-        "link": "https://www.anildash.com/2026/09/02/cancer-capital/",
-        "pubDate": "2026-09-03T15:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "Sony makes bold claim about game ownership",
-        "link": "https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/",
-        "pubDate": "2026-09-03T15:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "K2 Horizon: Frontier Performance, Radically Open",
+        "title": "K2 Horizon: A connected fleet of six open models",
         "link": "https://ifm.ai/blog/k2/",
         "pubDate": "2026-09-03T15:36",
         "feedId": "hn"
       },
       {
-        "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
+        "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
         "link": "https://news.ycombinator.com/item?id=49551096",
         "pubDate": "2026-09-03T15:07",
         "feedId": "hn"
@@ -91,6 +79,18 @@
         "link": "https://anyhumanever.com/",
         "pubDate": "2026-09-03T14:51",
         "feedId": "hn"
+      },
+      {
+        "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+        "link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+        "pubDate": "2026-09-03T14:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere",
+        "link": "https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere",
+        "pubDate": "2026-09-03T13:47",
+        "feedId": "hn"
       }
     ]
   },
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "CERN transitioning industrial computers to Debian after being a longtime RHEL institution",
-        "link": "https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL",
-        "pubDate": "2026-09-03T08:28",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Audacity 4.0.0 Released",
         "link": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
         "pubDate": "2026-09-03T13:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "CERN transitioning industrial computers to Debian after being a longtime RHEL institution",
+        "link": "https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL",
+        "pubDate": "2026-09-03T08:28",
         "feedId": "lobsters"
       },
       {
@@ -122,15 +122,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What's in the Emacs newcomers-presets theme?",
-        "link": "https://sachachua.com/blog/2026/04/what-s-in-the-emacs-newcomers-presets-theme/",
-        "pubDate": "2026-09-03T08:40",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Revo Programming language",
         "link": "https://revo.lung.fyi/",
         "pubDate": "2026-09-03T13:21",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "You Don't Need Initial-Scale In Your HTML",
+        "link": "https://vale.rocks/micros/20260902-1350",
+        "pubDate": "2026-09-03T14:03",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What's in the Emacs newcomers-presets theme?",
+        "link": "https://sachachua.com/blog/2026/04/what-s-in-the-emacs-newcomers-presets-theme/",
+        "pubDate": "2026-09-03T08:40",
         "feedId": "lobsters"
       },
       {
@@ -140,8 +146,8 @@
         "feedId": "lobsters"
       },
       {
-        "title": "You Don't Need Initial-Scale In Your HTML",
-        "link": "https://vale.rocks/micros/20260902-1350",
+        "title": "Announcing Rust 1.98.1",
+        "link": "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/",
         "pubDate": "2026-09-03T14:03",
         "feedId": "lobsters"
       },
@@ -152,27 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Announcing Rust 1.98.1",
-        "link": "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/",
-        "pubDate": "2026-09-03T14:03",
-        "feedId": "lobsters"
-      },
-      {
         "title": "How Swiss Tables Work in Go’s Built-in Map",
         "link": "https://victoriametrics.com/blog/go-swiss-table-map/",
         "pubDate": "2026-09-03T10:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Static Allocation, Constant Work",
-        "link": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
-        "pubDate": "2026-09-02T18:19",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Normalized Fascism in Open Source: $12 Million Given to DHH",
-        "link": "https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/",
-        "pubDate": "2026-09-02T06:31",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Dependent if expressions without dependent types",
-        "link": "https://haskellforall.com/2026/09/dependent-if-expressions",
-        "pubDate": "2026-09-02T17:52",
+        "title": "Static Allocation, Constant Work",
+        "link": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
+        "pubDate": "2026-09-02T18:19",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Souping up my blog",
+        "link": "https://qtea.me/posts/souping-up-my-blog/",
+        "pubDate": "2026-09-03T11:35",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Browser's Main Thread Is Expensive",
+        "link": "https://kciter.so/posts/the-expensive-main-thread/en/",
+        "pubDate": "2026-09-03T09:51",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,42 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "US senator calls on the NSA to give guidance for use of VPNs",
+        "link": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
+        "pubDate": "2026-09-03T19:52",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "NJ urges SCOTUS to rule that Kalshi sports bets are gambling, not \"swaps\"",
+        "link": "https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps/",
+        "pubDate": "2026-09-03T19:42",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
+        "link": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
+        "pubDate": "2026-09-03T18:58",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Just like a fruit fly, a new algorithm never forgets old scents",
+        "link": "https://arstechnica.com/science/2026/09/just-like-a-fruit-fly-a-new-algorithm-never-forgets-old-scents/",
+        "pubDate": "2026-09-03T18:22",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Four major AI models suffer rare overlapping downtime",
+        "link": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+        "pubDate": "2026-09-03T18:10",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Trump’s 100% tariff on drones will be disaster for the US, critics warn",
+        "link": "https://arstechnica.com/tech-policy/2026/09/trumps-100-drone-tariff-has-cops-and-firefighters-panicking/",
+        "pubDate": "2026-09-03T17:08",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Meet the 2026 Ig Nobel Prize winners",
         "link": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
@@ -245,42 +281,6 @@
         "link": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
         "pubDate": "2026-09-02T16:30",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Toyohiro Akiyama, first Japanese citizen and journalist in space, dies at 84",
-        "link": "https://arstechnica.com/space/2026/09/toyohiro-akiyama-first-japanese-citizen-and-journalist-in-space-dies-at-84/",
-        "pubDate": "2026-09-02T14:47",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "The Army just used a 20-kilowatt laser to take out three drones",
-        "link": "https://arstechnica.com/gadgets/2026/09/the-army-just-used-a-20-kilowatt-laser-to-take-out-three-drones/",
-        "pubDate": "2026-09-02T13:04",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Is Russia's rival to Starlink failing? Here's what we know.",
-        "link": "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/",
-        "pubDate": "2026-09-02T11:15",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
-        "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
-        "pubDate": "2026-09-02T11:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
-        "link": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
-        "pubDate": "2026-09-01T23:01",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Research roundup: 7 cool science stories we almost missed",
-        "link": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/",
-        "pubDate": "2026-09-01T19:06",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,9 +288,27 @@
     "id": "axios",
     "items": [
       {
-        "title": "Maria Bartiromo departs Fox",
+        "title": "House Democrat says his phone calls with a state legislator was wiretapped by FBI",
+        "link": "https://www.axios.com/2026/09/03/fbi-doj-wiretap-subramanyam-lucas-virginia-trump",
+        "pubDate": "2026-09-03T21:18",
+        "feedId": "axios"
+      },
+      {
+        "title": "OpenAI unveils plan to protect critical services from AI cyberattacks",
+        "link": "https://www.axios.com/2026/09/03/openai-critical-infrastructure-cyber-ai-models",
+        "pubDate": "2026-09-03T20:15",
+        "feedId": "axios"
+      },
+      {
+        "title": "Maria Bartiromo out at Fox",
         "link": "https://www.axios.com/2026/09/03/maria-bartiromo-departs-fox",
         "pubDate": "2026-09-03T18:11",
+        "feedId": "axios"
+      },
+      {
+        "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
+        "link": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
+        "pubDate": "2026-09-03T18:00",
         "feedId": "axios"
       },
       {
@@ -357,24 +375,6 @@
         "title": "House Democrats erupt into infighting over leadership power play",
         "link": "https://www.axios.com/2026/09/03/house-democrats-jeffries-aguilar-golden-perez",
         "pubDate": "2026-09-03T08:50",
-        "feedId": "axios"
-      },
-      {
-        "title": "Witkoff meets powerful UAE official amid crackdown on Iran",
-        "link": "https://www.axios.com/2026/09/02/witkoff-uae-iran-war-trump-bessent",
-        "pubDate": "2026-09-02T21:51",
-        "feedId": "axios"
-      },
-      {
-        "title": "The $1 Trump coins are here. Why spending them is legal but tricky",
-        "link": "https://www.axios.com/2026/09/02/trump-coins-real-money-legal-tender-spend-value",
-        "pubDate": "2026-09-02T18:18",
-        "feedId": "axios"
-      },
-      {
-        "title": "Nearly 9 in 10 Americans report widespread government corruption after Trump's return",
-        "link": "https://www.axios.com/2026/09/02/government-corruption-gallup-poll-2026-trump",
-        "pubDate": "2026-09-02T17:45",
         "feedId": "axios"
       }
     ]
