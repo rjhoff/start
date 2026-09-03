@@ -3,15 +3,39 @@
     "id": "hn",
     "items": [
       {
-        "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
-        "link": "https://nango.dev/careers",
-        "pubDate": "2026-09-02T21:00",
+        "title": "Reflections on Americans' Net Worth",
+        "link": "https://www.betonit.ai/p/reflections-on-americans-net-worth",
+        "pubDate": "2026-09-02T23:57",
         "feedId": "hn"
       },
       {
-        "title": "Mamdani Bans AI in NYC Schools",
-        "link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-        "pubDate": "2026-09-02T20:57",
+        "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+        "link": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
+        "pubDate": "2026-09-02T23:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+        "link": "https://ronanrx.com/",
+        "pubDate": "2026-09-02T22:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "Reasons robotics is hard",
+        "link": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+        "pubDate": "2026-09-02T22:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+        "link": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
+        "pubDate": "2026-09-02T21:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
+        "link": "https://nango.dev/careers",
+        "pubDate": "2026-09-02T21:00",
         "feedId": "hn"
       },
       {
@@ -39,18 +63,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Introducing Muse Spark 1.3",
-        "link": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
-        "pubDate": "2026-09-02T19:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "Using Cloudflare Workers and reCAPTCHA v3 for a Static Site Contact Form",
-        "link": "https://nooshu.com/blog/2026/03/09/using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form/",
-        "pubDate": "2026-09-02T18:43",
-        "feedId": "hn"
-      },
-      {
         "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
         "link": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
         "pubDate": "2026-09-02T18:42",
@@ -60,18 +72,6 @@
         "title": "Embedded Rust RTOS vs. C RTOS",
         "link": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
         "pubDate": "2026-09-02T18:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "Earth's organisms developed via evolution. What if the cosmos did, too?",
-        "link": "https://www.smithsonianmag.com/science-nature/earths-organisms-developed-via-evolution-some-theorists-wonder-what-if-the-entire-cosmos-did-too-180989338/",
-        "pubDate": "2026-09-02T17:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "SteamdDB Joins Nexus Mods",
-        "link": "https://www.nexusmods.com/news/15597",
-        "pubDate": "2026-09-02T15:25",
         "feedId": "hn"
       },
       {
@@ -128,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The load-bearing vocabulary of Claude",
-        "link": "https://louisabraham.github.io/load-bearing/",
-        "pubDate": "2026-09-02T04:06",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Implementing FMA and finding bugs in C and Rust standard libraries",
         "link": "https://shnatsel.github.io/implementing-fma-finding-bugs-in-std/",
         "pubDate": "2026-09-02T16:19",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The load-bearing vocabulary of Claude",
+        "link": "https://louisabraham.github.io/load-bearing/",
+        "pubDate": "2026-09-02T04:06",
         "feedId": "lobsters"
       },
       {
@@ -158,6 +158,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Goroutine Leak Profiles",
+        "link": "https://go.dev/blog/goroutine-leak-profiles",
+        "pubDate": "2026-09-02T18:50",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Revisiting Joel's Test - exe.dev blog",
+        "link": "https://blog.exe.dev/revisiting-joel",
+        "pubDate": "2026-09-02T17:07",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Is Minifying CSS Necessary? (2023)",
         "link": "https://shivjm.blog/is-minifying-css-necessary/",
         "pubDate": "2026-09-01T15:42",
@@ -170,21 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Fine, I’ll build my own text editor",
-        "link": "https://dbushell.com/2026/09/01/text-editor/",
-        "pubDate": "2026-09-01T11:18",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What will you do after tech?",
         "link": "https://lobste.rs/s/oieyk7/what_will_you_do_after_tech",
         "pubDate": "2026-09-02T13:43",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "ESP32 as counter-surveillance platform",
-        "link": "https://www.youtube.com/watch?v=PcK-TDmzshc",
-        "pubDate": "2026-09-02T14:30",
         "feedId": "lobsters"
       }
     ]
