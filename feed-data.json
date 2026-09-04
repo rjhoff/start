@@ -3,13 +3,19 @@
     "id": "hn",
     "items": [
       {
-        "title": "Protecting Engineers' Skills in the AI Era",
-        "link": "https://spectrum.ieee.org/ai-engineer-skills",
-        "pubDate": "2026-09-03T23:00",
+        "title": "From Hookswitch to Grave",
+        "link": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
+        "pubDate": "2026-09-04T02:40",
         "feedId": "hn"
       },
       {
-        "title": "GLP-1s Are Being Linked to Fewer Serious Infections, Including TB",
+        "title": "Project Xanadu: Even More Hindsight",
+        "link": "https://gwern.net/xanadu",
+        "pubDate": "2026-09-04T01:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "GLP-1s are being linked to fewer serious infections, including TB",
         "link": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
         "pubDate": "2026-09-03T22:37",
         "feedId": "hn"
@@ -85,12 +91,6 @@
         "link": "https://anyhumanever.com/",
         "pubDate": "2026-09-03T14:51",
         "feedId": "hn"
-      },
-      {
-        "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-        "link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-        "pubDate": "2026-09-03T14:28",
-        "feedId": "hn"
       }
     ]
   },
@@ -128,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "You Don't Need Initial-Scale In Your HTML",
-        "link": "https://vale.rocks/micros/20260902-1350",
-        "pubDate": "2026-09-03T14:03",
-        "feedId": "lobsters"
-      },
-      {
         "title": "simple is not small",
         "link": "https://jyn.dev/simple-is-not-the-same-as-small/",
         "pubDate": "2026-09-03T21:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "You Don't Need Initial-Scale In Your HTML",
+        "link": "https://vale.rocks/micros/20260902-1350",
+        "pubDate": "2026-09-03T14:03",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I Think the Military Commissary Freezers Were Hacked",
-        "link": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
-        "pubDate": "2026-09-03T03:20",
-        "feedId": "lobsters"
-      },
-      {
         "title": "NES dumping over audio",
         "link": "https://mathstodon.xyz/@JordiGH/117209252363385093",
         "pubDate": "2026-09-03T21:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I Think the Military Commissary Freezers Were Hacked",
+        "link": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+        "pubDate": "2026-09-03T03:20",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A note on subscription prices from LWN",
-        "link": "https://lwn.net/Articles/1090585/",
-        "pubDate": "2026-09-02T15:20",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The Browser's Main Thread Is Expensive",
         "link": "https://kciter.so/posts/the-expensive-main-thread/en/",
         "pubDate": "2026-09-03T09:51",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A note on subscription prices from LWN",
+        "link": "https://lwn.net/Articles/1090585/",
+        "pubDate": "2026-09-02T15:20",
         "feedId": "lobsters"
       }
     ]
@@ -290,7 +290,13 @@
       {
         "title": "Maria Bartiromo fired by Fox",
         "link": "https://www.axios.com/2026/09/03/maria-bartiromo-departs-fox",
-        "pubDate": "2026-09-03T22:13",
+        "pubDate": "2026-09-04T02:38",
+        "feedId": "axios"
+      },
+      {
+        "title": "U.S. military reviewing deadly strike on Iranian wedding",
+        "link": "https://www.axios.com/2026/09/04/iran-wedding-strike-us-military-investigation",
+        "pubDate": "2026-09-04T02:10",
         "feedId": "axios"
       },
       {
@@ -369,12 +375,6 @@
         "title": "Alaska seeks oil revival while grappling with a warming future",
         "link": "https://www.axios.com/2026/09/03/alaska-oil-revival-warming-future",
         "pubDate": "2026-09-03T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "House Democrats erupt into infighting over leadership power play",
-        "link": "https://www.axios.com/2026/09/03/house-democrats-jeffries-aguilar-golden-perez",
-        "pubDate": "2026-09-03T08:50",
         "feedId": "axios"
       }
     ]
