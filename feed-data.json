@@ -3,6 +3,42 @@
     "id": "hn",
     "items": [
       {
+        "title": "Statichost.eu – 100% European static site hosting",
+        "link": "https://www.statichost.eu/",
+        "pubDate": "2026-09-04T20:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "How to Create a Tor Exit Node",
+        "link": "https://madpsy.uk/how-to-create-a-tor-exit-node/",
+        "pubDate": "2026-09-04T20:16",
+        "feedId": "hn"
+      },
+      {
+        "title": "An open DNS recursive service for free security and high privacy",
+        "link": "https://quad9.net/",
+        "pubDate": "2026-09-04T20:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "Can AI design circuit boards yet?",
+        "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+        "pubDate": "2026-09-04T19:48",
+        "feedId": "hn"
+      },
+      {
+        "title": "Government Rails Site Hit Hours After CVE Patch",
+        "link": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+        "pubDate": "2026-09-04T19:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Fermat's Last Theorem in Lean 4",
+        "link": "https://github.com/anthropics/fermats-last-theorem",
+        "pubDate": "2026-09-04T18:57",
+        "feedId": "hn"
+      },
+      {
         "title": "Shutting down our public encrypted DNS",
         "link": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
         "pubDate": "2026-09-04T18:50",
@@ -15,21 +51,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Hayes AT command set",
-        "link": "https://en.wikipedia.org/wiki/Hayes_AT_command_set",
-        "pubDate": "2026-09-04T17:56",
-        "feedId": "hn"
-      },
-      {
         "title": "The Rust React Compiler is now native in Vite",
         "link": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
         "pubDate": "2026-09-04T17:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
-        "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-        "pubDate": "2026-09-04T17:29",
         "feedId": "hn"
       },
       {
@@ -39,13 +63,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
-        "link": "https://twitter.com/ggerganov/status/2095897173376618881",
-        "pubDate": "2026-09-04T17:12",
-        "feedId": "hn"
-      },
-      {
-        "title": "Stop Thinking of LLMs as Next-Token Predictors",
+        "title": "\"Next-token predictor\" is the wrong mental model for LLMs",
         "link": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
         "pubDate": "2026-09-04T17:09",
         "feedId": "hn"
@@ -72,24 +90,6 @@
         "title": "Corporate America is getting hooked on open-source AI",
         "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
         "pubDate": "2026-09-04T15:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "US Military disables ad trackers on troops' phones",
-        "link": "https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers",
-        "pubDate": "2026-09-04T13:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "IBM Bob",
-        "link": "https://bob.ibm.com/",
-        "pubDate": "2026-09-04T12:50",
-        "feedId": "hn"
-      },
-      {
-        "title": "Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region",
-        "link": "https://github.com/hawshemi/lg-c5-webos25-region-change",
-        "pubDate": "2026-09-04T12:49",
         "feedId": "hn"
       }
     ]
@@ -122,9 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The asteroid currently hitting frontend web development",
-        "link": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
-        "pubDate": "2026-09-04T03:40",
+        "title": "Babashka 1.13.220 gets FFI",
+        "link": "https://blog.michielborkent.nl/babashka-ffi.html",
+        "pubDate": "2026-09-04T18:33",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +134,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "simple is not small",
-        "link": "https://jyn.dev/simple-is-not-the-same-as-small/",
-        "pubDate": "2026-09-03T21:24",
+        "title": "jank reimagines C++ errors and gets an official native package repo",
+        "link": "https://jank-lang.org/blog/2026-09-04-better-and-better/",
+        "pubDate": "2026-09-04T17:47",
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend",
-        "pubDate": "2026-09-04T09:26",
+        "title": "FLT: Anthropic has beaten me to it",
+        "link": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
+        "pubDate": "2026-09-04T19:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The asteroid currently hitting frontend web development",
+        "link": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+        "pubDate": "2026-09-04T03:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "simple is not small",
+        "link": "https://jyn.dev/simple-is-not-the-same-as-small/",
+        "pubDate": "2026-09-03T21:24",
         "feedId": "lobsters"
       },
       {
@@ -152,33 +164,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Audacity 4.0.0 Released",
-        "link": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
-        "pubDate": "2026-09-03T13:52",
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend",
+        "pubDate": "2026-09-04T09:26",
         "feedId": "lobsters"
       },
       {
-        "title": "Babashka 1.13.220 gets FFI",
-        "link": "https://blog.michielborkent.nl/babashka-ffi.html",
-        "pubDate": "2026-09-04T18:33",
+        "title": "A preview of the future Intel Architecture documentation",
+        "link": "https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html",
+        "pubDate": "2026-09-04T16:20",
         "feedId": "lobsters"
       },
       {
-        "title": "jank reimagines C++ errors and gets an official native package repo",
-        "link": "https://jank-lang.org/blog/2026-09-04-better-and-better/",
-        "pubDate": "2026-09-04T17:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Collider: An experimental Minecraft server",
-        "link": "https://github.com/Nozistance/collider",
-        "pubDate": "2026-09-04T13:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Revo Programming language",
-        "link": "https://revo.lung.fyi/",
-        "pubDate": "2026-09-03T13:21",
+        "title": "deft: A gradual type system for Janet",
+        "link": "https://codeberg.org/zzkt/deft",
+        "pubDate": "2026-09-04T16:51",
         "feedId": "lobsters"
       },
       {
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
+        "link": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
+        "pubDate": "2026-09-04T20:22",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
+        "link": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
+        "pubDate": "2026-09-04T19:46",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
         "link": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
@@ -269,24 +281,18 @@
         "link": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
         "pubDate": "2026-09-03T21:10",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
-        "link": "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/",
-        "pubDate": "2026-09-03T20:14",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
-        "link": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
-        "pubDate": "2026-09-03T19:52",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Trump envoys Witkoff and Kushner to travel to Moscow and Kyiv this weekend",
+        "link": "https://www.axios.com/2026/09/04/trump-witkoff-kushner-moscow-kyiv",
+        "pubDate": "2026-09-04T20:23",
+        "feedId": "axios"
+      },
       {
         "title": "A costly summer sendoff approaches",
         "link": "https://www.axios.com/2026/09/04/gas-prices-labor-day-summer-sendoff",
@@ -315,12 +321,6 @@
         "title": "America's jobs scare recedes",
         "link": "https://www.axios.com/2026/09/04/jobs-report-labor-fed-rates",
         "pubDate": "2026-09-04T15:58",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump envoys Witkoff and Kushner to travel to Moscow and Kyiv this weekend",
-        "link": "https://www.axios.com/2026/09/04/trump-witkoff-kushner-moscow-kyiv",
-        "pubDate": "2026-09-04T13:17",
         "feedId": "axios"
       },
       {
