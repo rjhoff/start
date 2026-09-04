@@ -3,27 +3,75 @@
     "id": "hn",
     "items": [
       {
-        "title": "Corporate America Is Getting Hooked on Open-Source A.I",
+        "title": "Shutting down our public encrypted DNS",
+        "link": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+        "pubDate": "2026-09-04T18:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "Formalizing Fermat's Last Theorem",
+        "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+        "pubDate": "2026-09-04T18:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "Hayes AT command set",
+        "link": "https://en.wikipedia.org/wiki/Hayes_AT_command_set",
+        "pubDate": "2026-09-04T17:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Rust React Compiler is now native in Vite",
+        "link": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+        "pubDate": "2026-09-04T17:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+        "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+        "pubDate": "2026-09-04T17:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Open-Source eInk Bike Computer",
+        "link": "https://opentrailpaper.com",
+        "pubDate": "2026-09-04T17:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+        "link": "https://twitter.com/ggerganov/status/2095897173376618881",
+        "pubDate": "2026-09-04T17:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "Stop Thinking of LLMs as Next-Token Predictors",
+        "link": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+        "pubDate": "2026-09-04T17:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
+        "link": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
+        "pubDate": "2026-09-04T16:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+        "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+        "pubDate": "2026-09-04T16:24",
+        "feedId": "hn"
+      },
+      {
+        "title": "deSEC – Free Secure DNS",
+        "link": "https://desec.io/",
+        "pubDate": "2026-09-04T15:38",
+        "feedId": "hn"
+      },
+      {
+        "title": "Corporate America is getting hooked on open-source AI",
         "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
         "pubDate": "2026-09-04T15:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "Gmail to end support for \"Send as\" for third-party addresses, such as @yahoo.com",
-        "link": "https://support.google.com/mail/answer/22370?hl=en",
-        "pubDate": "2026-09-04T15:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Higher social class predicts increased unethical behavior",
-        "link": "https://www.pnas.org/doi/10.1073/pnas.1118373109",
-        "pubDate": "2026-09-04T14:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal",
-        "link": "https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/",
-        "pubDate": "2026-09-04T13:54",
         "feedId": "hn"
       },
       {
@@ -33,63 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+",
-        "link": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
-        "pubDate": "2026-09-04T12:43",
+        "title": "IBM Bob",
+        "link": "https://bob.ibm.com/",
+        "pubDate": "2026-09-04T12:50",
         "feedId": "hn"
       },
       {
-        "title": "Ok, but Does It Scale?",
-        "link": "https://spacetimedb.com/blog/how-does-spacetime-scale",
-        "pubDate": "2026-09-04T12:42",
-        "feedId": "hn"
-      },
-      {
-        "title": "SubImage (YC W25) Is Hiring a Founding Engineer in SF",
-        "link": "https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer",
-        "pubDate": "2026-09-04T12:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-        "link": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-        "pubDate": "2026-09-04T11:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "Discovery of a new OpenAI agent message board",
-        "link": "https://collusion.wiki/",
-        "pubDate": "2026-09-04T11:54",
-        "feedId": "hn"
-      },
-      {
-        "title": "Solving the Jane Street Reverse Engineering Challenge",
-        "link": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
-        "pubDate": "2026-09-04T10:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
-        "link": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
-        "pubDate": "2026-09-04T06:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "Project Xanadu: Even More Hindsight (2025)",
-        "link": "https://gwern.net/xanadu",
-        "pubDate": "2026-09-04T01:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-        "link": "https://armature.tech/blog/which-tools-coding-agents-install",
-        "pubDate": "2026-09-03T21:20",
-        "feedId": "hn"
-      },
-      {
-        "title": "GPT-6 Astra",
-        "link": "https://openai.com/index/gpt-6-astra/",
-        "pubDate": "2026-09-03T18:41",
+        "title": "Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region",
+        "link": "https://github.com/hawshemi/lg-c5-webos25-region-change",
+        "pubDate": "2026-09-04T12:49",
         "feedId": "hn"
       }
     ]
@@ -107,6 +107,24 @@
         "title": ".name Termination",
         "link": "https://neil.fraser.name/news/2026/09/03/",
         "pubDate": "2026-09-03T14:55",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Discovery of a new OpenAI agent message board",
+        "link": "https://collusion.wiki/",
+        "pubDate": "2026-09-04T11:43",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Is AI ruining my brain?",
+        "link": "https://thoughtbot.com/blog/is-ai-ruining-my-brain",
+        "pubDate": "2026-09-04T14:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The asteroid currently hitting frontend web development",
+        "link": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+        "pubDate": "2026-09-04T03:40",
         "feedId": "lobsters"
       },
       {
@@ -128,45 +146,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Audacity 4.0.0 Released",
-        "link": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
-        "pubDate": "2026-09-03T13:52",
-        "feedId": "lobsters"
-      },
-      {
         "title": "smolts: a pedagogical IDE for a teaching language",
         "link": "https://eighty-twenty.org/2026/09/04/smolts",
         "pubDate": "2026-09-04T11:00",
         "feedId": "lobsters"
       },
       {
-        "title": "Revo Programming language",
-        "link": "https://revo.lung.fyi/",
-        "pubDate": "2026-09-03T13:21",
+        "title": "Audacity 4.0.0 Released",
+        "link": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+        "pubDate": "2026-09-03T13:52",
         "feedId": "lobsters"
       },
       {
-        "title": "Lua-async",
-        "link": "https://neovim.io/doc/user/lua-async/",
-        "pubDate": "2026-09-04T04:44",
+        "title": "Babashka 1.13.220 gets FFI",
+        "link": "https://blog.michielborkent.nl/babashka-ffi.html",
+        "pubDate": "2026-09-04T18:33",
         "feedId": "lobsters"
       },
       {
-        "title": "jujutsu 0.45.0",
-        "link": "https://github.com/jj-vcs/jj/releases/tag/v0.45.0",
-        "pubDate": "2026-09-03T10:02",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Bug triaging help needed",
-        "link": "https://pointieststick.com/2026/09/03/bug-triaging-help-needed/",
-        "pubDate": "2026-09-04T10:26",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "WTF is going on with R7RS Large? 2026 edition",
-        "link": "https://crumbles.blog/posts/2026-09-04-r7rs-wtf.html",
-        "pubDate": "2026-09-04T07:09",
+        "title": "jank reimagines C++ errors and gets an official native package repo",
+        "link": "https://jank-lang.org/blog/2026-09-04-better-and-better/",
+        "pubDate": "2026-09-04T17:47",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "CERN transitioning industrial computers to Debian after being a longtime RHEL institution",
-        "link": "https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL",
-        "pubDate": "2026-09-03T08:28",
+        "title": "Revo Programming language",
+        "link": "https://revo.lung.fyi/",
+        "pubDate": "2026-09-03T13:21",
         "feedId": "lobsters"
       },
       {
-        "title": "The Incomplete Guide to Lazy Evaluation in Haskell (2015)",
-        "link": "https://apfelmus.nfshost.com/articles/lazy-eval.html",
-        "pubDate": "2026-09-04T09:21",
+        "title": "The new Go JSON API: twice as fast, or 1.5x slower?",
+        "link": "https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/",
+        "pubDate": "2026-09-04T15:52",
         "feedId": "lobsters"
       }
     ]
@@ -193,13 +193,67 @@
     "id": "arstechnica",
     "items": [
       {
+        "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
+        "link": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
+        "pubDate": "2026-09-04T19:01",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
+        "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
+        "pubDate": "2026-09-04T17:35",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+        "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+        "pubDate": "2026-09-04T17:18",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Pentagon rescinds new testosterone screening policy without explanation",
+        "link": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
+        "pubDate": "2026-09-04T16:57",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "A ratings board wouldn't let Valve release a trailer. It \"leaked\" it instead.",
+        "link": "https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/",
+        "pubDate": "2026-09-04T16:42",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Second complete map of a fruit fly brain completed",
+        "link": "https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/",
+        "pubDate": "2026-09-04T16:24",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+        "link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+        "pubDate": "2026-09-04T16:22",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Musk wins court order to block use of “Twitter,” but not “tweet” and bird logo",
+        "link": "https://arstechnica.com/tech-policy/2026/09/musk-wins-court-order-to-block-use-of-twitter-but-not-tweet-and-bird-logo/",
+        "pubDate": "2026-09-04T15:59",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Trump White House just tossed a grenade into international space relations",
+        "link": "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
+        "pubDate": "2026-09-04T15:46",
+        "feedId": "arstechnica"
+      },
+      {
         "title": "Rocket Report: Engines installed for Artemis III; Long March 6C breakup in LEO",
         "link": "https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys/",
         "pubDate": "2026-09-04T12:48",
         "feedId": "arstechnica"
       },
       {
-        "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+.",
+        "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+",
         "link": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
         "pubDate": "2026-09-04T11:00",
         "feedId": "arstechnica"
@@ -227,66 +281,30 @@
         "link": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
         "pubDate": "2026-09-03T19:52",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Supreme Court urged to let states regulate sports bets on prediction markets",
-        "link": "https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps/",
-        "pubDate": "2026-09-03T19:42",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
-        "link": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
-        "pubDate": "2026-09-03T18:58",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Just like a fruit fly, a new algorithm never forgets old scents",
-        "link": "https://arstechnica.com/science/2026/09/just-like-a-fruit-fly-a-new-algorithm-never-forgets-old-scents/",
-        "pubDate": "2026-09-03T18:22",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Four major AI models suffer rare overlapping downtime",
-        "link": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
-        "pubDate": "2026-09-03T18:10",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Trump’s 100% tariff on drones will be disaster for the US, critics warn",
-        "link": "https://arstechnica.com/tech-policy/2026/09/trumps-100-drone-tariff-has-cops-and-firefighters-panicking/",
-        "pubDate": "2026-09-03T17:08",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Meet the 2026 Ig Nobel Prize winners",
-        "link": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
-        "pubDate": "2026-09-03T17:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-        "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
-        "pubDate": "2026-09-03T13:34",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Spending deal comes with a bonus: Blocking political control of grants",
-        "link": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
-        "pubDate": "2026-09-02T21:20",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "I rented a car, and within hours, my driver's license was for sale",
-        "link": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
-        "pubDate": "2026-09-02T20:32",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "A costly summer sendoff approaches",
+        "link": "https://www.axios.com/2026/09/04/gas-prices-labor-day-summer-sendoff",
+        "pubDate": "2026-09-04T18:45",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: Trump administration drafting post-war Middle East plan",
+        "link": "https://www.axios.com/2026/09/04/trump-middle-east-iran-post-war-strategy",
+        "pubDate": "2026-09-04T17:49",
+        "feedId": "axios"
+      },
+      {
+        "title": "Maria Bartiromo fired by Fox",
+        "link": "https://www.axios.com/2026/09/03/maria-bartiromo-departs-fox",
+        "pubDate": "2026-09-04T16:58",
+        "feedId": "axios"
+      },
       {
         "title": "Scoop: Rep. Analilia Mejia launches super PAC to fund more progressive upsets",
         "link": "https://www.axios.com/2026/09/04/analilia-mejia-super-pac-unbossed-progressives",
@@ -330,12 +348,6 @@
         "feedId": "axios"
       },
       {
-        "title": "Maria Bartiromo fired by Fox",
-        "link": "https://www.axios.com/2026/09/03/maria-bartiromo-departs-fox",
-        "pubDate": "2026-09-04T02:38",
-        "feedId": "axios"
-      },
-      {
         "title": "U.S. military reviewing deadly strike on Iranian wedding",
         "link": "https://www.axios.com/2026/09/04/iran-wedding-strike-us-military-investigation",
         "pubDate": "2026-09-04T02:10",
@@ -363,18 +375,6 @@
         "title": "A record 47% want stronger unions. Labor's challenge is turning support into power.",
         "link": "https://www.axios.com/2026/09/03/labor-unions-record-influence-gallup",
         "pubDate": "2026-09-03T17:57",
-        "feedId": "axios"
-      },
-      {
-        "title": "Not so fast on rate hikes, some Fed officials say",
-        "link": "https://www.axios.com/2026/09/03/rates-waller-jobs-inflation-policy",
-        "pubDate": "2026-09-03T16:01",
-        "feedId": "axios"
-      },
-      {
-        "title": "Top Pentagon official reaffirms Anthropic blacklist despite Lutnick comments",
-        "link": "https://www.axios.com/2026/09/03/pentagon-reaffirms-anthropic-blacklist",
-        "pubDate": "2026-09-03T15:48",
         "feedId": "axios"
       }
     ]
