@@ -3,9 +3,57 @@
     "id": "hn",
     "items": [
       {
+        "title": "Corporate America Is Getting Hooked on Open-Source A.I",
+        "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+        "pubDate": "2026-09-04T15:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Gmail to end support for \"Send as\" for third-party addresses, such as @yahoo.com",
+        "link": "https://support.google.com/mail/answer/22370?hl=en",
+        "pubDate": "2026-09-04T15:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "Higher social class predicts increased unethical behavior",
+        "link": "https://www.pnas.org/doi/10.1073/pnas.1118373109",
+        "pubDate": "2026-09-04T14:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal",
+        "link": "https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/",
+        "pubDate": "2026-09-04T13:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "US Military disables ad trackers on troops' phones",
+        "link": "https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers",
+        "pubDate": "2026-09-04T13:44",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+",
+        "link": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
+        "pubDate": "2026-09-04T12:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ok, but Does It Scale?",
+        "link": "https://spacetimedb.com/blog/how-does-spacetime-scale",
+        "pubDate": "2026-09-04T12:42",
+        "feedId": "hn"
+      },
+      {
         "title": "SubImage (YC W25) Is Hiring a Founding Engineer in SF",
         "link": "https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer",
         "pubDate": "2026-09-04T12:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+        "link": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+        "pubDate": "2026-09-04T11:59",
         "feedId": "hn"
       },
       {
@@ -15,27 +63,9 @@
         "feedId": "hn"
       },
       {
-        "title": "O&O ShutUp10 – The antispy tool for Windows 10 and 11",
-        "link": "https://www.oo-software.com/en/shutup10",
-        "pubDate": "2026-09-04T10:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "US diesel prices hit a record high of $5.85 on average",
-        "link": "https://apnews.com/article/gas-diesel-prices-us-iran-war-ebd01b9773365ee40550dcfd7d3ebf87",
-        "pubDate": "2026-09-04T10:42",
-        "feedId": "hn"
-      },
-      {
         "title": "Solving the Jane Street Reverse Engineering Challenge",
         "link": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
         "pubDate": "2026-09-04T10:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
-        "link": "https://carbonawarepricing.com/",
-        "pubDate": "2026-09-04T08:19",
         "feedId": "hn"
       },
       {
@@ -61,36 +91,6 @@
         "link": "https://openai.com/index/gpt-6-astra/",
         "pubDate": "2026-09-03T18:41",
         "feedId": "hn"
-      },
-      {
-        "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-        "link": "https://inference-docs.cerebras.ai/models/overview",
-        "pubDate": "2026-09-03T18:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-        "link": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
-        "pubDate": "2026-09-03T16:21",
-        "feedId": "hn"
-      },
-      {
-        "title": "K2 Horizon: A connected fleet of six open models",
-        "link": "https://ifm.ai/blog/k2/",
-        "pubDate": "2026-09-03T15:36",
-        "feedId": "hn"
-      },
-      {
-        "title": ".name Termination",
-        "link": "https://neil.fraser.name/news/2026/09/03/",
-        "pubDate": "2026-09-03T14:54",
-        "feedId": "hn"
-      },
-      {
-        "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-        "link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-        "pubDate": "2026-09-03T14:28",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,27 +98,15 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "Surviving Code Reviews in the era of AI",
+        "link": "https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai",
+        "pubDate": "2026-09-04T13:11",
+        "feedId": "lobsters"
+      },
+      {
         "title": ".name Termination",
         "link": "https://neil.fraser.name/news/2026/09/03/",
         "pubDate": "2026-09-03T14:55",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "simple is not small",
-        "link": "https://jyn.dev/simple-is-not-the-same-as-small/",
-        "pubDate": "2026-09-03T21:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The asteroid currently hitting frontend web development",
-        "link": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
-        "pubDate": "2026-09-04T03:40",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Audacity 4.0.0 Released",
-        "link": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
-        "pubDate": "2026-09-03T13:52",
         "feedId": "lobsters"
       },
       {
@@ -128,39 +116,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Revo Programming language",
-        "link": "https://revo.lung.fyi/",
-        "pubDate": "2026-09-03T13:21",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "jujutsu 0.45.0",
-        "link": "https://github.com/jj-vcs/jj/releases/tag/v0.45.0",
-        "pubDate": "2026-09-03T10:02",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "An image only some users can see",
-        "link": "https://d.erenrich.net/apple.avif",
-        "pubDate": "2026-09-03T21:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "CERN transitioning industrial computers to Debian after being a longtime RHEL institution",
-        "link": "https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL",
-        "pubDate": "2026-09-03T08:28",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "WTF is going on with R7RS Large? 2026 edition",
-        "link": "https://crumbles.blog/posts/2026-09-04-r7rs-wtf.html",
-        "pubDate": "2026-09-04T07:09",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Lua-async",
-        "link": "https://neovim.io/doc/user/lua-async/",
-        "pubDate": "2026-09-04T04:44",
+        "title": "simple is not small",
+        "link": "https://jyn.dev/simple-is-not-the-same-as-small/",
+        "pubDate": "2026-09-03T21:24",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +128,63 @@
         "feedId": "lobsters"
       },
       {
-        "title": "You Don't Need Initial-Scale In Your HTML",
-        "link": "https://vale.rocks/micros/20260902-1350",
-        "pubDate": "2026-09-03T14:03",
+        "title": "Audacity 4.0.0 Released",
+        "link": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+        "pubDate": "2026-09-03T13:52",
         "feedId": "lobsters"
       },
       {
-        "title": "WebDev intro course: what small changes towards progressive enhancement?",
-        "link": "https://lobste.rs/s/nr3ucr/webdev_intro_course_what_small_changes",
-        "pubDate": "2026-09-04T02:11",
+        "title": "smolts: a pedagogical IDE for a teaching language",
+        "link": "https://eighty-twenty.org/2026/09/04/smolts",
+        "pubDate": "2026-09-04T11:00",
         "feedId": "lobsters"
       },
       {
-        "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
-        "link": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
-        "pubDate": "2026-09-04T11:43",
+        "title": "Revo Programming language",
+        "link": "https://revo.lung.fyi/",
+        "pubDate": "2026-09-03T13:21",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Lua-async",
+        "link": "https://neovim.io/doc/user/lua-async/",
+        "pubDate": "2026-09-04T04:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "jujutsu 0.45.0",
+        "link": "https://github.com/jj-vcs/jj/releases/tag/v0.45.0",
+        "pubDate": "2026-09-03T10:02",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Bug triaging help needed",
+        "link": "https://pointieststick.com/2026/09/03/bug-triaging-help-needed/",
+        "pubDate": "2026-09-04T10:26",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "WTF is going on with R7RS Large? 2026 edition",
+        "link": "https://crumbles.blog/posts/2026-09-04-r7rs-wtf.html",
+        "pubDate": "2026-09-04T07:09",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Collider: An experimental Minecraft server",
+        "link": "https://github.com/Nozistance/collider",
+        "pubDate": "2026-09-04T13:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "CERN transitioning industrial computers to Debian after being a longtime RHEL institution",
+        "link": "https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL",
+        "pubDate": "2026-09-03T08:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Incomplete Guide to Lazy Evaluation in Haskell (2015)",
+        "link": "https://apfelmus.nfshost.com/articles/lazy-eval.html",
+        "pubDate": "2026-09-04T09:21",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Rocket Report: Engines installed for Artemis III; Long March 6C breakup in LEO",
+        "link": "https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys/",
+        "pubDate": "2026-09-04T12:48",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+.",
+        "link": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
+        "pubDate": "2026-09-04T11:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
         "link": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
@@ -269,24 +281,30 @@
         "link": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
         "pubDate": "2026-09-02T20:32",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "FCC plans robocall scorecard to grade phone companies on spam call blocking",
-        "link": "https://arstechnica.com/tech-policy/2026/09/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking/",
-        "pubDate": "2026-09-02T19:54",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
-        "link": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/",
-        "pubDate": "2026-09-02T19:37",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Scoop: Rep. Analilia Mejia launches super PAC to fund more progressive upsets",
+        "link": "https://www.axios.com/2026/09/04/analilia-mejia-super-pac-unbossed-progressives",
+        "pubDate": "2026-09-04T16:01",
+        "feedId": "axios"
+      },
+      {
+        "title": "America's jobs scare recedes",
+        "link": "https://www.axios.com/2026/09/04/jobs-report-labor-fed-rates",
+        "pubDate": "2026-09-04T15:58",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump envoys Witkoff and Kushner to travel to Moscow and Kyiv this weekend",
+        "link": "https://www.axios.com/2026/09/04/trump-witkoff-kushner-moscow-kyiv",
+        "pubDate": "2026-09-04T13:17",
+        "feedId": "axios"
+      },
       {
         "title": "The coming verdict on Trump's Strait of Hormuz claims",
         "link": "https://www.axios.com/2026/09/04/trump-strait-hormuz-oil-claims-iran",
@@ -297,6 +315,12 @@
         "title": "AI models are becoming unknowable",
         "link": "https://www.axios.com/2026/09/04/astra-openai-how-ai-models-think",
         "pubDate": "2026-09-04T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "EU tech chief: AI guardrails inevitable for U.S.",
+        "link": "https://www.axios.com/2026/09/04/eu-tech-chief-ai-guardrails-inevitable-us",
+        "pubDate": "2026-09-04T09:15",
         "feedId": "axios"
       },
       {
@@ -351,30 +375,6 @@
         "title": "Top Pentagon official reaffirms Anthropic blacklist despite Lutnick comments",
         "link": "https://www.axios.com/2026/09/03/pentagon-reaffirms-anthropic-blacklist",
         "pubDate": "2026-09-03T15:48",
-        "feedId": "axios"
-      },
-      {
-        "title": "Widespread AI outage underway",
-        "link": "https://www.axios.com/2026/09/03/chatgpt-claude-grok-outages",
-        "pubDate": "2026-09-03T15:36",
-        "feedId": "axios"
-      },
-      {
-        "title": "Gloria Steinem, feminist icon, dies at 92",
-        "link": "https://www.axios.com/2026/09/03/gloria-steinem-dies-92-feminist-icon",
-        "pubDate": "2026-09-03T12:23",
-        "feedId": "axios"
-      },
-      {
-        "title": "Altman raises stakes on government scrutiny as AI advances",
-        "link": "https://www.axios.com/2026/09/03/altman-government-scrutiny-ai-g20",
-        "pubDate": "2026-09-03T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Brain implants fuel U.S.-China bioscience rivalry",
-        "link": "https://www.axios.com/2026/09/03/brain-implants-elon-musk-neuralink-china-us",
-        "pubDate": "2026-09-03T09:30",
         "feedId": "axios"
       }
     ]
