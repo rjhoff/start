@@ -3,13 +3,31 @@
     "id": "hn",
     "items": [
       {
+        "title": "The phrase that ruins every eCommerce project: \"Just connect it to our ERP.\"",
+        "link": "https://shiftmag.dev/the-phrase-that-ruins-every-ecommerce-project-just-connect-it-to-our-erp-11689/",
+        "pubDate": "2026-09-04T07:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
+        "link": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
+        "pubDate": "2026-09-04T06:47",
+        "feedId": "hn"
+      },
+      {
+        "title": "A mysterious kidney disease has arrived in Texas",
+        "link": "https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/",
+        "pubDate": "2026-09-04T02:54",
+        "feedId": "hn"
+      },
+      {
         "title": "From Hookswitch to Grave",
         "link": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
         "pubDate": "2026-09-04T02:40",
         "feedId": "hn"
       },
       {
-        "title": "Project Xanadu: Even More Hindsight",
+        "title": "Project Xanadu: Even More Hindsight (2025)",
         "link": "https://gwern.net/xanadu",
         "pubDate": "2026-09-04T01:45",
         "feedId": "hn"
@@ -33,12 +51,6 @@
         "feedId": "hn"
       },
       {
-        "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-        "link": "https://arcprize.org/blog/astra",
-        "pubDate": "2026-09-03T19:45",
-        "feedId": "hn"
-      },
-      {
         "title": "The asteroid currently hitting front end web development",
         "link": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
         "pubDate": "2026-09-03T19:17",
@@ -57,12 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "How concerned should we be about Astra's recurrent architecture?",
-        "link": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
-        "pubDate": "2026-09-03T17:10",
-        "feedId": "hn"
-      },
-      {
         "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
         "link": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
         "pubDate": "2026-09-03T16:21",
@@ -72,12 +78,6 @@
         "title": "K2 Horizon: A connected fleet of six open models",
         "link": "https://ifm.ai/blog/k2/",
         "pubDate": "2026-09-03T15:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
-        "link": "https://news.ycombinator.com/item?id=49551096",
-        "pubDate": "2026-09-03T15:07",
         "feedId": "hn"
       },
       {
@@ -110,9 +110,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "jujutsu 0.45.0",
-        "link": "https://github.com/jj-vcs/jj/releases/tag/v0.45.0",
-        "pubDate": "2026-09-03T10:02",
+        "title": "simple is not small",
+        "link": "https://jyn.dev/simple-is-not-the-same-as-small/",
+        "pubDate": "2026-09-03T21:24",
         "feedId": "lobsters"
       },
       {
@@ -122,15 +122,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "jujutsu 0.45.0",
+        "link": "https://github.com/jj-vcs/jj/releases/tag/v0.45.0",
+        "pubDate": "2026-09-03T10:02",
+        "feedId": "lobsters"
+      },
+      {
         "title": "CERN transitioning industrial computers to Debian after being a longtime RHEL institution",
         "link": "https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL",
         "pubDate": "2026-09-03T08:28",
         "feedId": "lobsters"
       },
       {
-        "title": "simple is not small",
-        "link": "https://jyn.dev/simple-is-not-the-same-as-small/",
-        "pubDate": "2026-09-03T21:24",
+        "title": "WTF is going on with R7RS Large? 2026 edition",
+        "link": "https://crumbles.blog/posts/2026-09-04-r7rs-wtf.html",
+        "pubDate": "2026-09-04T07:09",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +146,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "NES dumping over audio",
+        "link": "https://mathstodon.xyz/@JordiGH/117209252363385093",
+        "pubDate": "2026-09-03T21:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "An image only some users can see",
+        "link": "https://d.erenrich.net/apple.avif",
+        "pubDate": "2026-09-03T21:44",
+        "feedId": "lobsters"
+      },
+      {
         "title": "What's in the Emacs newcomers-presets theme?",
         "link": "https://sachachua.com/blog/2026/04/what-s-in-the-emacs-newcomers-presets-theme/",
         "pubDate": "2026-09-03T08:40",
         "feedId": "lobsters"
       },
       {
-        "title": "NES dumping over audio",
-        "link": "https://mathstodon.xyz/@JordiGH/117209252363385093",
-        "pubDate": "2026-09-03T21:40",
+        "title": "The asteroid currently hitting frontend web development",
+        "link": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+        "pubDate": "2026-09-04T03:40",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "An image only some users can see",
-        "link": "https://d.erenrich.net/apple.avif",
-        "pubDate": "2026-09-03T21:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Souping up my blog",
-        "link": "https://qtea.me/posts/souping-up-my-blog/",
-        "pubDate": "2026-09-03T11:35",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Browser's Main Thread Is Expensive",
-        "link": "https://kciter.so/posts/the-expensive-main-thread/en/",
-        "pubDate": "2026-09-03T09:51",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A note on subscription prices from LWN",
-        "link": "https://lwn.net/Articles/1090585/",
-        "pubDate": "2026-09-02T15:20",
+        "title": "Can We Stop With the Uptime Percentages?",
+        "link": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
+        "pubDate": "2026-09-03T20:30",
         "feedId": "lobsters"
       }
     ]
