@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "Terpstra Keyboard",
+        "link": "http://terpstrakeyboard.com/",
+        "pubDate": "2026-09-05T10:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
+        "link": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
+        "pubDate": "2026-09-05T10:14",
+        "feedId": "hn"
+      },
+      {
         "title": "AI handles incidents, engineers lose touch with their systems",
         "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
         "pubDate": "2026-09-05T07:52",
@@ -45,12 +57,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
-        "link": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
-        "pubDate": "2026-09-04T22:03",
-        "feedId": "hn"
-      },
-      {
         "title": "Actively exploited sandbox RCE in all Chromium versions",
         "link": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
         "pubDate": "2026-09-04T21:52",
@@ -85,12 +91,6 @@
         "link": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
         "pubDate": "2026-09-04T19:06",
         "feedId": "hn"
-      },
-      {
-        "title": "Fermat's Last Theorem in Lean 4",
-        "link": "https://github.com/anthropics/fermats-last-theorem",
-        "pubDate": "2026-09-04T18:57",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,21 +110,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Babashka 1.13.220 gets FFI",
-        "link": "https://blog.michielborkent.nl/babashka-ffi.html",
-        "pubDate": "2026-09-04T18:33",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Is it too much to ask devs to use AI to review their hand-crafted code?",
         "link": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
         "pubDate": "2026-09-05T07:09",
         "feedId": "lobsters"
       },
       {
+        "title": "Babashka 1.13.220 gets FFI",
+        "link": "https://blog.michielborkent.nl/babashka-ffi.html",
+        "pubDate": "2026-09-04T18:33",
+        "feedId": "lobsters"
+      },
+      {
         "title": "FLT: Anthropic has beaten me to it",
         "link": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
         "pubDate": "2026-09-04T19:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
+        "link": "https://arxiv.org/abs/2607.24888",
+        "pubDate": "2026-09-05T10:58",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +152,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The NX bit is not just about security",
-        "link": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
-        "pubDate": "2026-09-04T06:27",
+        "title": "Bespoke: A Programming Language for People Who Say Please",
+        "link": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
+        "pubDate": "2026-09-05T07:13",
         "feedId": "lobsters"
       },
       {
-        "title": "A preview of the future Intel Architecture documentation",
-        "link": "https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html",
-        "pubDate": "2026-09-04T16:20",
+        "title": "NYC PIT Crew",
+        "link": "https://www.nyc.gov/content/pitcrew/pages/",
+        "pubDate": "2026-09-05T11:33",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Knowing Where to Type ‘Zero’ (2015)",
+        "link": "https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/",
+        "pubDate": "2026-09-05T11:12",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The asteroid currently hitting frontend web development",
-        "link": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
-        "pubDate": "2026-09-04T03:40",
+        "title": "The NX bit is not just about security",
+        "link": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
+        "pubDate": "2026-09-04T06:27",
         "feedId": "lobsters"
       },
       {
-        "title": "deft: A gradual type system for Janet",
-        "link": "https://codeberg.org/zzkt/deft",
-        "pubDate": "2026-09-04T16:51",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Bespoke: A Programming Language for People Who Say Please",
-        "link": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
-        "pubDate": "2026-09-05T07:13",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "smolts: a pedagogical IDE for a teaching language",
-        "link": "https://eighty-twenty.org/2026/09/04/smolts",
-        "pubDate": "2026-09-04T11:00",
+        "title": "A preview of the future Intel Architecture documentation",
+        "link": "https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html",
+        "pubDate": "2026-09-04T16:20",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Republicans sour on the economy",
+        "link": "https://www.axios.com/2026/09/05/trump-economy-michigan-survey-inflation-iran-war",
+        "pubDate": "2026-09-05T11:30",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump envoys Witkoff and Kushner to travel to Moscow and Kyiv this weekend",
         "link": "https://www.axios.com/2026/09/04/trump-witkoff-kushner-moscow-kyiv",
         "pubDate": "2026-09-04T20:23",
@@ -369,12 +375,6 @@
         "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
         "link": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
         "pubDate": "2026-09-03T18:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "A record 47% want stronger unions. Labor's challenge is turning support into power.",
-        "link": "https://www.axios.com/2026/09/03/labor-unions-record-influence-gallup",
-        "pubDate": "2026-09-03T17:57",
         "feedId": "axios"
       }
     ]
