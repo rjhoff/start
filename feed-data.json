@@ -1,8 +1,98 @@
 {
   "hn": {
     "id": "hn",
-    "error": "Request timed out after 10000ms",
-    "items": []
+    "items": [
+      {
+        "title": "AI handles incidents, engineers lose touch with their systems",
+        "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+        "pubDate": "2026-09-05T07:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "Git hosting that never leaves Europe",
+        "link": "https://pushin.eu",
+        "pubDate": "2026-09-05T06:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+        "link": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+        "pubDate": "2026-09-05T03:38",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nitter has more working instances than before the takedowns",
+        "link": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+        "pubDate": "2026-09-05T00:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Artificial Analysis Intelligence Index v4.2",
+        "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+        "pubDate": "2026-09-05T00:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+        "link": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+        "pubDate": "2026-09-04T23:38",
+        "feedId": "hn"
+      },
+      {
+        "title": "Can guitar frets perform multiplication?",
+        "link": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+        "pubDate": "2026-09-04T22:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+        "link": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+        "pubDate": "2026-09-04T22:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "Actively exploited sandbox RCE in all Chromium versions",
+        "link": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+        "pubDate": "2026-09-04T21:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "GPT-6 Astra on OpenRouter",
+        "link": "https://openrouter.ai/openai/gpt-6-astra",
+        "pubDate": "2026-09-04T21:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Statichost.eu – European static site hosting",
+        "link": "https://www.statichost.eu/",
+        "pubDate": "2026-09-04T20:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "An open DNS recursive service for free security and high privacy",
+        "link": "https://quad9.net/",
+        "pubDate": "2026-09-04T20:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "Can AI design circuit boards yet?",
+        "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+        "pubDate": "2026-09-04T19:48",
+        "feedId": "hn"
+      },
+      {
+        "title": "Government Rails Site Hit Hours After CVE Patch",
+        "link": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+        "pubDate": "2026-09-04T19:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Fermat's Last Theorem in Lean 4",
+        "link": "https://github.com/anthropics/fermats-last-theorem",
+        "pubDate": "2026-09-04T18:57",
+        "feedId": "hn"
+      }
+    ]
   },
   "lobsters": {
     "id": "lobsters",
@@ -26,6 +116,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Is it too much to ask devs to use AI to review their hand-crafted code?",
+        "link": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
+        "pubDate": "2026-09-05T07:09",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "FLT: Anthropic has beaten me to it",
+        "link": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
+        "pubDate": "2026-09-04T19:11",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Discovery of a new OpenAI agent message board",
         "link": "https://collusion.wiki/",
         "pubDate": "2026-09-04T11:43",
@@ -35,12 +137,6 @@
         "title": ".name Termination",
         "link": "https://neil.fraser.name/news/2026/09/03/",
         "pubDate": "2026-09-03T14:55",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "FLT: Anthropic has beaten me to it",
-        "link": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
-        "pubDate": "2026-09-04T19:11",
         "feedId": "lobsters"
       },
       {
@@ -56,6 +152,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "A preview of the future Intel Architecture documentation",
+        "link": "https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html",
+        "pubDate": "2026-09-04T16:20",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Exploring Mojo’s raw pointer type",
+        "link": "https://melodyogonna.substack.com/p/exploring-mojos-raw-pointer-type",
+        "pubDate": "2026-09-04T21:02",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The asteroid currently hitting frontend web development",
         "link": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
         "pubDate": "2026-09-04T03:40",
@@ -68,33 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A preview of the future Intel Architecture documentation",
-        "link": "https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html",
-        "pubDate": "2026-09-04T16:20",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Stop Thinking of LLMs as Next-Token Predictors",
-        "link": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-        "pubDate": "2026-09-04T19:46",
+        "title": "Bespoke: A Programming Language for People Who Say Please",
+        "link": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
+        "pubDate": "2026-09-05T07:13",
         "feedId": "lobsters"
       },
       {
         "title": "smolts: a pedagogical IDE for a teaching language",
         "link": "https://eighty-twenty.org/2026/09/04/smolts",
         "pubDate": "2026-09-04T11:00",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Exploring Mojo’s raw pointer type",
-        "link": "https://melodyogonna.substack.com/p/exploring-mojos-raw-pointer-type",
-        "pubDate": "2026-09-04T21:02",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "simple is not small",
-        "link": "https://jyn.dev/simple-is-not-the-same-as-small/",
-        "pubDate": "2026-09-03T21:24",
         "feedId": "lobsters"
       }
     ]
