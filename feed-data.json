@@ -3,9 +3,57 @@
     "id": "hn",
     "items": [
       {
+        "title": "How the Planet-Altering Disaster of \"Forever Chemicals\" Was Kept Secret",
+        "link": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
+        "pubDate": "2026-09-05T14:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "There's No Limit to How Bad Code Can Get",
+        "link": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
+        "pubDate": "2026-09-05T14:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "Meet the Ig Nobel Prize Winners",
+        "link": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
+        "pubDate": "2026-09-05T14:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+        "link": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+        "pubDate": "2026-09-05T13:36",
+        "feedId": "hn"
+      },
+      {
+        "title": ".gitignore Everything by Default",
+        "link": "https://packagemain.tech/p/gitignore-everything-by-default",
+        "pubDate": "2026-09-05T13:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "Global warming will exceed 1.5-degree limit, UN says",
+        "link": "https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone",
+        "pubDate": "2026-09-05T13:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
+        "link": "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/",
+        "pubDate": "2026-09-05T12:23",
+        "feedId": "hn"
+      },
+      {
         "title": "Terpstra Keyboard",
         "link": "http://terpstrakeyboard.com/",
         "pubDate": "2026-09-05T10:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
+        "link": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+        "pubDate": "2026-09-05T10:32",
         "feedId": "hn"
       },
       {
@@ -27,20 +75,8 @@
         "feedId": "hn"
       },
       {
-        "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-        "link": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
-        "pubDate": "2026-09-05T03:38",
-        "feedId": "hn"
-      },
-      {
         "title": "Nitter has more working instances than before the takedowns",
         "link": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-        "pubDate": "2026-09-05T00:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "Artificial Analysis Intelligence Index v4.2",
-        "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
         "pubDate": "2026-09-05T00:04",
         "feedId": "hn"
       },
@@ -55,42 +91,6 @@
         "link": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
         "pubDate": "2026-09-04T22:40",
         "feedId": "hn"
-      },
-      {
-        "title": "Actively exploited sandbox RCE in all Chromium versions",
-        "link": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-        "pubDate": "2026-09-04T21:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "GPT-6 Astra on OpenRouter",
-        "link": "https://openrouter.ai/openai/gpt-6-astra",
-        "pubDate": "2026-09-04T21:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "Statichost.eu – European static site hosting",
-        "link": "https://www.statichost.eu/",
-        "pubDate": "2026-09-04T20:34",
-        "feedId": "hn"
-      },
-      {
-        "title": "An open DNS recursive service for free security and high privacy",
-        "link": "https://quad9.net/",
-        "pubDate": "2026-09-04T20:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "Can AI design circuit boards yet?",
-        "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-        "pubDate": "2026-09-04T19:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "Government Rails Site Hit Hours After CVE Patch",
-        "link": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
-        "pubDate": "2026-09-04T19:06",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,9 +98,21 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
+        "link": "https://arxiv.org/abs/2607.24888",
+        "pubDate": "2026-09-05T10:58",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Surviving Code Reviews in the era of AI",
         "link": "https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai",
         "pubDate": "2026-09-04T13:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "zopt: low-ceremony command line parsing for Zig",
+        "link": "https://codeberg.org/hgrsd/zopt",
+        "pubDate": "2026-09-05T14:48",
         "feedId": "lobsters"
       },
       {
@@ -122,36 +134,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "FLT: Anthropic has beaten me to it",
-        "link": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
-        "pubDate": "2026-09-04T19:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
-        "link": "https://arxiv.org/abs/2607.24888",
-        "pubDate": "2026-09-05T10:58",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Discovery of a new OpenAI agent message board",
-        "link": "https://collusion.wiki/",
-        "pubDate": "2026-09-04T11:43",
-        "feedId": "lobsters"
-      },
-      {
-        "title": ".name Termination",
-        "link": "https://neil.fraser.name/news/2026/09/03/",
-        "pubDate": "2026-09-03T14:55",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "jank reimagines C++ errors and gets an official native package repo",
-        "link": "https://jank-lang.org/blog/2026-09-04-better-and-better/",
-        "pubDate": "2026-09-04T17:47",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Bespoke: A Programming Language for People Who Say Please",
         "link": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
         "pubDate": "2026-09-05T07:13",
@@ -164,27 +146,45 @@
         "feedId": "lobsters"
       },
       {
+        "title": "FLT: Anthropic has beaten me to it",
+        "link": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
+        "pubDate": "2026-09-04T19:11",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Knowing Where to Type ‘Zero’ (2015)",
         "link": "https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/",
         "pubDate": "2026-09-05T11:12",
         "feedId": "lobsters"
       },
       {
-        "title": "Exploring Mojo’s raw pointer type",
-        "link": "https://melodyogonna.substack.com/p/exploring-mojos-raw-pointer-type",
-        "pubDate": "2026-09-04T21:02",
+        "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+        "link": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+        "pubDate": "2026-09-05T11:50",
         "feedId": "lobsters"
       },
       {
-        "title": "The NX bit is not just about security",
-        "link": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
-        "pubDate": "2026-09-04T06:27",
+        "title": "Gleam and BEAM- Looking beyond the JVM",
+        "link": "https://vimeo.com/1223666800",
+        "pubDate": "2026-09-05T12:22",
         "feedId": "lobsters"
       },
       {
-        "title": "A preview of the future Intel Architecture documentation",
-        "link": "https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html",
-        "pubDate": "2026-09-04T16:20",
+        "title": "Discovery of a new OpenAI agent message board",
+        "link": "https://collusion.wiki/",
+        "pubDate": "2026-09-04T11:43",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "jank reimagines C++ errors and gets an official native package repo",
+        "link": "https://jank-lang.org/blog/2026-09-04-better-and-better/",
+        "pubDate": "2026-09-04T17:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": ".name Termination",
+        "link": "https://neil.fraser.name/news/2026/09/03/",
+        "pubDate": "2026-09-03T14:55",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
+        "link": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
+        "pubDate": "2026-09-05T15:17",
+        "feedId": "arstechnica"
+      },
       {
         "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
         "link": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
@@ -275,18 +281,24 @@
         "link": "https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys/",
         "pubDate": "2026-09-04T12:48",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+",
-        "link": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
-        "pubDate": "2026-09-04T11:00",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "U.S. attacks 3 Iranian tankers in tit-for-tat response",
+        "link": "https://www.axios.com/2026/09/05/us-iran-war-oil-tankers-warships",
+        "pubDate": "2026-09-05T14:24",
+        "feedId": "axios"
+      },
+      {
+        "title": "\"We're stuck:\" GOP accepts Trump's all-about-me midterms",
+        "link": "https://www.axios.com/2026/09/05/republicans-stuck-trump-midterms",
+        "pubDate": "2026-09-05T13:19",
+        "feedId": "axios"
+      },
       {
         "title": "Republicans sour on the economy",
         "link": "https://www.axios.com/2026/09/05/trump-economy-michigan-survey-inflation-iran-war",
@@ -363,18 +375,6 @@
         "title": "House Democrat says his phone calls with a state legislator were wiretapped by FBI",
         "link": "https://www.axios.com/2026/09/03/fbi-doj-wiretap-subramanyam-lucas-virginia-trump",
         "pubDate": "2026-09-03T21:18",
-        "feedId": "axios"
-      },
-      {
-        "title": "OpenAI unveils plan to protect critical services from AI cyberattacks",
-        "link": "https://www.axios.com/2026/09/03/openai-critical-infrastructure-cyber-ai-models",
-        "pubDate": "2026-09-03T20:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
-        "link": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
-        "pubDate": "2026-09-03T18:00",
         "feedId": "axios"
       }
     ]
