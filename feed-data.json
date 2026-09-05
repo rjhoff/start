@@ -3,15 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "How the Planet-Altering Disaster of \"Forever Chemicals\" Was Kept Secret",
-        "link": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
-        "pubDate": "2026-09-05T14:40",
+        "title": "How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)",
+        "link": "https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods",
+        "pubDate": "2026-09-05T16:14",
         "feedId": "hn"
       },
       {
-        "title": "There's No Limit to How Bad Code Can Get",
-        "link": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
-        "pubDate": "2026-09-05T14:13",
+        "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
+        "link": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
+        "pubDate": "2026-09-05T16:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "How the Disaster of \"Forever Chemicals\" Was Kept Secret",
+        "link": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
+        "pubDate": "2026-09-05T14:40",
         "feedId": "hn"
       },
       {
@@ -27,15 +33,15 @@
         "feedId": "hn"
       },
       {
-        "title": ".gitignore Everything by Default",
-        "link": "https://packagemain.tech/p/gitignore-everything-by-default",
-        "pubDate": "2026-09-05T13:19",
+        "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+        "link": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+        "pubDate": "2026-09-05T13:31",
         "feedId": "hn"
       },
       {
-        "title": "Global warming will exceed 1.5-degree limit, UN says",
-        "link": "https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone",
-        "pubDate": "2026-09-05T13:02",
+        "title": ".gitignore Everything by Default",
+        "link": "https://packagemain.tech/p/gitignore-everything-by-default",
+        "pubDate": "2026-09-05T13:19",
         "feedId": "hn"
       },
       {
@@ -48,18 +54,6 @@
         "title": "Terpstra Keyboard",
         "link": "http://terpstrakeyboard.com/",
         "pubDate": "2026-09-05T10:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
-        "link": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-        "pubDate": "2026-09-05T10:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
-        "link": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-        "pubDate": "2026-09-05T10:14",
         "feedId": "hn"
       },
       {
@@ -87,9 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Can guitar frets perform multiplication?",
-        "link": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
-        "pubDate": "2026-09-04T22:40",
+        "title": "Actively exploited sandbox RCE in all Chromium versions",
+        "link": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+        "pubDate": "2026-09-04T21:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "GPT-6 Astra on OpenRouter",
+        "link": "https://openrouter.ai/openai/gpt-6-astra",
+        "pubDate": "2026-09-04T21:39",
         "feedId": "hn"
       }
     ]
@@ -97,6 +97,12 @@
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "zopt: low-ceremony command line parsing for Zig",
+        "link": "https://codeberg.org/hgrsd/zopt",
+        "pubDate": "2026-09-05T14:48",
+        "feedId": "lobsters"
+      },
       {
         "title": "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
         "link": "https://arxiv.org/abs/2607.24888",
@@ -110,45 +116,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "zopt: low-ceremony command line parsing for Zig",
-        "link": "https://codeberg.org/hgrsd/zopt",
-        "pubDate": "2026-09-05T14:48",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Is AI ruining my brain?",
-        "link": "https://thoughtbot.com/blog/is-ai-ruining-my-brain",
-        "pubDate": "2026-09-04T14:41",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Is it too much to ask devs to use AI to review their hand-crafted code?",
-        "link": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
-        "pubDate": "2026-09-05T07:09",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Babashka 1.13.220 gets FFI",
-        "link": "https://blog.michielborkent.nl/babashka-ffi.html",
-        "pubDate": "2026-09-04T18:33",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Bespoke: A Programming Language for People Who Say Please",
         "link": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
         "pubDate": "2026-09-05T07:13",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "NYC PIT Crew",
-        "link": "https://www.nyc.gov/content/pitcrew/pages/",
-        "pubDate": "2026-09-05T11:33",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "FLT: Anthropic has beaten me to it",
-        "link": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
-        "pubDate": "2026-09-04T19:11",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +128,63 @@
         "feedId": "lobsters"
       },
       {
+        "title": "NYC PIT Crew",
+        "link": "https://www.nyc.gov/content/pitcrew/pages/",
+        "pubDate": "2026-09-05T11:33",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Is AI ruining my brain?",
+        "link": "https://thoughtbot.com/blog/is-ai-ruining-my-brain",
+        "pubDate": "2026-09-04T14:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Babashka 1.13.220 gets FFI",
+        "link": "https://blog.michielborkent.nl/babashka-ffi.html",
+        "pubDate": "2026-09-04T18:33",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What filesystem are you running on your NAS/Backups, and why?",
+        "link": "https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your",
+        "pubDate": "2026-09-05T15:46",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Is it too much to ask devs to use AI to review their hand-crafted code?",
+        "link": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
+        "pubDate": "2026-09-05T07:09",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "FLT: Anthropic has beaten me to it",
+        "link": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
+        "pubDate": "2026-09-04T19:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils",
+        "link": "https://uutils.org/blog/2026-08-error-diagnostics/",
+        "pubDate": "2026-09-05T14:34",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
         "link": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
         "pubDate": "2026-09-05T11:50",
         "feedId": "lobsters"
       },
       {
-        "title": "Gleam and BEAM- Looking beyond the JVM",
-        "link": "https://vimeo.com/1223666800",
-        "pubDate": "2026-09-05T12:22",
+        "title": "Rust SIMD on the GPU",
+        "link": "https://vectorware.com/blog/simd-on-gpu/",
+        "pubDate": "2026-09-05T13:24",
         "feedId": "lobsters"
       },
       {
-        "title": "Discovery of a new OpenAI agent message board",
-        "link": "https://collusion.wiki/",
-        "pubDate": "2026-09-04T11:43",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "jank reimagines C++ errors and gets an official native package repo",
-        "link": "https://jank-lang.org/blog/2026-09-04-better-and-better/",
-        "pubDate": "2026-09-04T17:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": ".name Termination",
-        "link": "https://neil.fraser.name/news/2026/09/03/",
-        "pubDate": "2026-09-03T14:55",
+        "title": "Anatomy of a Test",
+        "link": "https://jonathan-frere.com/posts/anatomy-of-a-test/",
+        "pubDate": "2026-09-05T17:50",
         "feedId": "lobsters"
       }
     ]
