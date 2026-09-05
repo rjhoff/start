@@ -3,13 +3,31 @@
     "id": "hn",
     "items": [
       {
+        "title": "America's Two Largest School Districts Impose AI Moratoriums",
+        "link": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+        "pubDate": "2026-09-05T21:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "South African diamond mines are closing due to weak sales and lab-grown stones",
+        "link": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf",
+        "pubDate": "2026-09-05T21:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "Lazygit",
+        "link": "https://lazygit.dev/",
+        "pubDate": "2026-09-05T21:08",
+        "feedId": "hn"
+      },
+      {
         "title": "Private German rocket makes history, reaches orbit from European soil",
         "link": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
         "pubDate": "2026-09-05T20:31",
         "feedId": "hn"
       },
       {
-        "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation",
+        "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
         "link": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
         "pubDate": "2026-09-05T20:25",
         "feedId": "hn"
@@ -21,9 +39,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Space industry lacks workers needed to rebuild satellites lost in war: report",
-        "link": "https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/",
-        "pubDate": "2026-09-05T20:14",
+        "title": "LLMs as a Cognitive Virus",
+        "link": "https://arxiv.org/abs/2609.03344",
+        "pubDate": "2026-09-05T20:02",
         "feedId": "hn"
       },
       {
@@ -73,24 +91,6 @@
         "link": "http://terpstrakeyboard.com/",
         "pubDate": "2026-09-05T10:33",
         "feedId": "hn"
-      },
-      {
-        "title": "AI handles incidents, engineers lose touch with their systems",
-        "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-        "pubDate": "2026-09-05T07:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "Git hosting that never leaves Europe",
-        "link": "https://pushin.eu",
-        "pubDate": "2026-09-05T06:31",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nitter has more working instances than before the takedowns",
-        "link": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-        "pubDate": "2026-09-05T00:04",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,15 +110,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Bespoke: A Programming Language for People Who Say Please",
-        "link": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
-        "pubDate": "2026-09-05T07:13",
+        "title": "It matters who teaches you",
+        "link": "https://bastiangruber.ca/posts/it-matters-who-teaches-you/",
+        "pubDate": "2026-09-05T17:47",
         "feedId": "lobsters"
       },
       {
         "title": "What filesystem are you running on your NAS/Backups, and why?",
         "link": "https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your",
         "pubDate": "2026-09-05T15:46",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Bespoke: A Programming Language for People Who Say Please",
+        "link": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
+        "pubDate": "2026-09-05T07:13",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils",
+        "link": "https://uutils.org/blog/2026-08-error-diagnostics/",
+        "pubDate": "2026-09-05T14:34",
         "feedId": "lobsters"
       },
       {
@@ -140,18 +152,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils",
-        "link": "https://uutils.org/blog/2026-08-error-diagnostics/",
-        "pubDate": "2026-09-05T14:34",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "It matters who teaches you",
-        "link": "https://bastiangruber.ca/posts/it-matters-who-teaches-you/",
-        "pubDate": "2026-09-05T17:47",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Is it too much to ask devs to use AI to review their hand-crafted code?",
         "link": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
         "pubDate": "2026-09-05T07:09",
@@ -164,9 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Is AI ruining my brain?",
-        "link": "https://thoughtbot.com/blog/is-ai-ruining-my-brain",
-        "pubDate": "2026-09-04T14:41",
+        "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+        "link": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+        "pubDate": "2026-09-05T11:50",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-        "link": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-        "pubDate": "2026-09-05T11:50",
+        "title": "Is AI ruining my brain?",
+        "link": "https://thoughtbot.com/blog/is-ai-ruining-my-brain",
+        "pubDate": "2026-09-04T14:41",
         "feedId": "lobsters"
       },
       {
-        "title": "FLT: Anthropic has beaten me to it",
-        "link": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
-        "pubDate": "2026-09-04T19:11",
+        "title": "Seeking Designer for a Small Company",
+        "link": "https://lobste.rs/s/trzpsg/seeking_designer_for_small_company",
+        "pubDate": "2026-09-05T13:04",
         "feedId": "lobsters"
       }
     ]
@@ -288,9 +288,15 @@
     "id": "axios",
     "items": [
       {
+        "title": "Scoop: Republican midterms convention speakers revealed",
+        "link": "https://www.axios.com/2026/09/05/republican-convention-dallas-trump-midterms",
+        "pubDate": "2026-09-05T22:28",
+        "feedId": "axios"
+      },
+      {
         "title": "Witkoff and Kushner meet with Putin about ending Ukraine war",
         "link": "https://www.axios.com/2026/09/05/putin-witkoff-kushner-trump-ukraine-war",
-        "pubDate": "2026-09-05T20:44",
+        "pubDate": "2026-09-05T22:26",
         "feedId": "axios"
       },
       {
@@ -369,12 +375,6 @@
         "title": "Diesel price surges to all-time high, fueled by wars",
         "link": "https://www.axios.com/2026/09/04/diesel-prices-record-iran-truckers-farmers",
         "pubDate": "2026-09-04T08:12",
-        "feedId": "axios"
-      },
-      {
-        "title": "U.S. military reviewing deadly strike on Iranian wedding",
-        "link": "https://www.axios.com/2026/09/04/iran-wedding-strike-us-military-investigation",
-        "pubDate": "2026-09-04T02:10",
         "feedId": "axios"
       }
     ]
