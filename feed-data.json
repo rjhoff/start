@@ -3,15 +3,33 @@
     "id": "hn",
     "items": [
       {
-        "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-        "link": "https://github.com/marsbos/mador",
-        "pubDate": "2026-09-06T20:45",
+        "title": "Making a Python interpreter in 1024 bytes",
+        "link": "https://austinhenley.com/blog/python1024.html",
+        "pubDate": "2026-09-06T23:14",
         "feedId": "hn"
       },
       {
-        "title": "XCancel is available again",
-        "link": "https://xcancel.com/about",
-        "pubDate": "2026-09-06T20:44",
+        "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
+        "link": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
+        "pubDate": "2026-09-06T22:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Political meddling at the Census Bureau damages the US statistical system",
+        "link": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system",
+        "pubDate": "2026-09-06T22:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
+        "link": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/",
+        "pubDate": "2026-09-06T21:16",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+        "link": "https://github.com/marsbos/mador",
+        "pubDate": "2026-09-06T20:45",
         "feedId": "hn"
       },
       {
@@ -21,15 +39,21 @@
         "feedId": "hn"
       },
       {
-        "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-        "link": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+        "title": "Harnessing the Universal Geometry of Embeddings",
+        "link": "https://arxiv.org/abs/2505.12540",
+        "pubDate": "2026-09-06T20:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Sol, my macOS music player and jukebox app, is now free and open source",
+        "link": "https://github.com/FulltimeFeline/Sol",
         "pubDate": "2026-09-06T20:24",
         "feedId": "hn"
       },
       {
-        "title": "They're Made Out of Meat",
-        "link": "https://www.eastoftheweb.com/short-stories/UBooks/TheyMade.shtml",
-        "pubDate": "2026-09-06T20:07",
+        "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+        "link": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+        "pubDate": "2026-09-06T20:24",
         "feedId": "hn"
       },
       {
@@ -39,25 +63,13 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
-        "link": "https://github.com/mmeyerlein/meclaw",
-        "pubDate": "2026-09-06T20:07",
+        "title": "D2 Is Non-Profit",
+        "link": "https://d2lang.com/blog/d2-non-profit/",
+        "pubDate": "2026-09-06T19:11",
         "feedId": "hn"
       },
       {
-        "title": "The car industry A/B tested selling a car with and without CarPlay",
-        "link": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
-        "pubDate": "2026-09-06T19:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "There Gonna Be a Shortage of Everything",
-        "link": "https://out-of-hell.xylon.me.uk/shortage.html",
-        "pubDate": "2026-09-06T19:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nitter and XCancel resume",
+        "title": "Nitter and XCancel resume service after legal advice",
         "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
         "pubDate": "2026-09-06T17:49",
         "feedId": "hn"
@@ -79,18 +91,6 @@
         "link": "https://www.netbsd.org/gallery/research.html",
         "pubDate": "2026-09-06T16:10",
         "feedId": "hn"
-      },
-      {
-        "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-        "link": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-        "pubDate": "2026-09-06T15:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "Research acceleration: The view inside OpenAI",
-        "link": "https://openai.com/index/research-acceleration-view-inside-openai",
-        "pubDate": "2026-09-06T15:08",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Debian Code Search: Fast TurboPFor with Go SIMD",
-        "link": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
-        "pubDate": "2026-09-06T07:03",
+        "title": "It took a year to ship WebAssembly in Anubis",
+        "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+        "pubDate": "2026-09-06T20:41",
         "feedId": "lobsters"
       },
       {
-        "title": "The revolt of the reader",
-        "link": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-        "pubDate": "2026-09-05T21:28",
+        "title": "Debian Code Search: Fast TurboPFor with Go SIMD",
+        "link": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
+        "pubDate": "2026-09-06T07:03",
         "feedId": "lobsters"
       },
       {
@@ -116,9 +116,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”",
-        "link": "https://mathstodon.xyz/@tao/117207856734787448",
-        "pubDate": "2026-09-06T07:45",
+        "title": "The revolt of the reader",
+        "link": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+        "pubDate": "2026-09-05T21:28",
         "feedId": "lobsters"
       },
       {
@@ -128,15 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Any Nix package, live in your browser",
-        "link": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
-        "pubDate": "2026-09-06T07:09",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "There's No Limit to How Bad Code Can Get",
-        "link": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
-        "pubDate": "2026-09-06T02:05",
+        "title": "Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”",
+        "link": "https://mathstodon.xyz/@tao/117207856734787448",
+        "pubDate": "2026-09-06T07:45",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +140,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Any Nix package, live in your browser",
+        "link": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
+        "pubDate": "2026-09-06T07:09",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Following legal advice, the Nitter project will continue",
         "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
         "pubDate": "2026-09-06T18:32",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "\"Simple Made Easy\" (2011)",
+        "link": "https://www.youtube.com/watch?v=SxdOUGdseq4",
+        "pubDate": "2026-09-06T14:25",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "There's No Limit to How Bad Code Can Get",
+        "link": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
+        "pubDate": "2026-09-06T02:05",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "\"Simple Made Easy\" (2011)",
-        "link": "https://www.youtube.com/watch?v=SxdOUGdseq4",
-        "pubDate": "2026-09-06T14:25",
+        "title": "Data races and the limits of ThreadSanitizer in C and Go",
+        "link": "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html",
+        "pubDate": "2026-09-06T22:13",
         "feedId": "lobsters"
       },
       {
-        "title": "zopt: low-ceremony command line parsing for Zig",
-        "link": "https://codeberg.org/hgrsd/zopt",
-        "pubDate": "2026-09-05T14:48",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "It matters who teaches you",
-        "link": "https://bastiangruber.ca/posts/it-matters-who-teaches-you/",
-        "pubDate": "2026-09-05T17:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Ironies of Automation (1983)",
-        "link": "https://static1.squarespace.com/static/644321e78cd2dd37613af33e/t/6694873f71612132a84371c7/1721009983702/Ironies+of+Automation_Bainbridge_1983.pdf",
-        "pubDate": "2026-09-06T13:40",
+        "title": "Radix_FW60: handheld CP/M 2.2 computer",
+        "link": "https://github.com/BrettHallen/Radix_FW60",
+        "pubDate": "2026-09-06T20:07",
         "feedId": "lobsters"
       }
     ]
@@ -288,15 +288,33 @@
     "id": "axios",
     "items": [
       {
-        "title": "Trump's energy boss wavers on gasoline price path",
-        "link": "https://www.axios.com/2026/09/06/chris-wright-gas-prices-labor-day",
-        "pubDate": "2026-09-06T17:05",
+        "title": "AfD just won 44% in a German state. Now Germany's firewall faces its biggest test.",
+        "link": "https://www.axios.com/2026/09/06/afd-saxony-anhalt-germany-far-right-firewall",
+        "pubDate": "2026-09-06T22:16",
+        "feedId": "axios"
+      },
+      {
+        "title": "Exclusive: Latino leaders push Beshear on Texas' race for governor",
+        "link": "https://www.axios.com/2026/09/06/latino-leaders-pressure-beshear-texas",
+        "pubDate": "2026-09-06T21:50",
+        "feedId": "axios"
+      },
+      {
+        "title": "Dem governors weighing White House face the DeSantis dilemma",
+        "link": "https://www.axios.com/2026/09/06/democrats-governors-desantis-dilemma",
+        "pubDate": "2026-09-06T21:40",
         "feedId": "axios"
       },
       {
         "title": "Witkoff and Kushner, in a first, visit Ukraine for peace talks",
         "link": "https://www.axios.com/2026/09/06/witkoff-kushner-kyiv-ukraine-peace-talks",
-        "pubDate": "2026-09-06T15:43",
+        "pubDate": "2026-09-06T21:06",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump's energy boss wavers on gasoline price path",
+        "link": "https://www.axios.com/2026/09/06/chris-wright-gas-prices-labor-day",
+        "pubDate": "2026-09-06T17:05",
         "feedId": "axios"
       },
       {
@@ -357,24 +375,6 @@
         "title": "Scoop: Rep. Analilia Mejia launches super PAC to fund more progressive upsets",
         "link": "https://www.axios.com/2026/09/04/analilia-mejia-super-pac-unbossed-progressives",
         "pubDate": "2026-09-04T16:01",
-        "feedId": "axios"
-      },
-      {
-        "title": "America's jobs scare recedes",
-        "link": "https://www.axios.com/2026/09/04/jobs-report-labor-fed-rates",
-        "pubDate": "2026-09-04T15:58",
-        "feedId": "axios"
-      },
-      {
-        "title": "The coming verdict on Trump's Strait of Hormuz claims",
-        "link": "https://www.axios.com/2026/09/04/trump-strait-hormuz-oil-claims-iran",
-        "pubDate": "2026-09-04T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "AI models are becoming unknowable",
-        "link": "https://www.axios.com/2026/09/04/astra-openai-how-ai-models-think",
-        "pubDate": "2026-09-04T09:20",
         "feedId": "axios"
       }
     ]
