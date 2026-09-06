@@ -3,9 +3,33 @@
     "id": "hn",
     "items": [
       {
+        "title": "Vancouver strip club's Instagram taken down over sign featuring lake joke",
+        "link": "https://www.vancouverisawesome.com/local-news/vancouver-strip-club-instagram-taken-down-sign-calls-out-trump-12725993",
+        "pubDate": "2026-09-06T04:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI, Tools and Transformation",
+        "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+        "pubDate": "2026-09-06T02:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "GPT-6 Astra on robot arms",
+        "link": "https://openai.robocurve.org/gpt-6-astra/",
+        "pubDate": "2026-09-06T01:52",
+        "feedId": "hn"
+      },
+      {
         "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
         "link": "https://cloudinabottle.org/blog/launch-post",
         "pubDate": "2026-09-06T00:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "Chrome again exempts Google from user site data settings",
+        "link": "https://lapcatsoftware.com/articles/2026/9/1.html",
+        "pubDate": "2026-09-05T23:39",
         "feedId": "hn"
       },
       {
@@ -15,21 +39,9 @@
         "feedId": "hn"
       },
       {
-        "title": "America's two largest school districts impose AI moratoriums",
-        "link": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
-        "pubDate": "2026-09-05T21:43",
-        "feedId": "hn"
-      },
-      {
         "title": "The revolt of the reader",
         "link": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
         "pubDate": "2026-09-05T21:37",
-        "feedId": "hn"
-      },
-      {
-        "title": "South African diamond mines are closing due to weak sales and lab-grown stones",
-        "link": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf",
-        "pubDate": "2026-09-05T21:17",
         "feedId": "hn"
       },
       {
@@ -41,12 +53,6 @@
       {
         "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
         "link": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-        "pubDate": "2026-09-05T20:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "Isar Aerospace launch into orbit [video]",
-        "link": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
         "pubDate": "2026-09-05T20:25",
         "feedId": "hn"
       },
@@ -81,15 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": ".gitignore Everything by Default",
-        "link": "https://packagemain.tech/p/gitignore-everything-by-default",
-        "pubDate": "2026-09-05T13:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
-        "link": "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/",
-        "pubDate": "2026-09-05T12:23",
+        "title": "Terpstra Keyboard",
+        "link": "http://terpstrakeyboard.com/",
+        "pubDate": "2026-09-05T10:33",
         "feedId": "hn"
       }
     ]
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "zopt: low-ceremony command line parsing for Zig",
-        "link": "https://codeberg.org/hgrsd/zopt",
-        "pubDate": "2026-09-05T14:48",
+        "title": "The revolt of the reader",
+        "link": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+        "pubDate": "2026-09-05T21:28",
         "feedId": "lobsters"
       },
       {
-        "title": "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
-        "link": "https://arxiv.org/abs/2607.24888",
-        "pubDate": "2026-09-05T10:58",
+        "title": "zopt: low-ceremony command line parsing for Zig",
+        "link": "https://codeberg.org/hgrsd/zopt",
+        "pubDate": "2026-09-05T14:48",
         "feedId": "lobsters"
       },
       {
@@ -116,21 +116,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
+        "link": "https://arxiv.org/abs/2607.24888",
+        "pubDate": "2026-09-05T10:58",
+        "feedId": "lobsters"
+      },
+      {
         "title": "What filesystem are you running on your NAS/Backups, and why?",
         "link": "https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your",
         "pubDate": "2026-09-05T15:46",
         "feedId": "lobsters"
       },
       {
-        "title": "Bespoke: A Programming Language for People Who Say Please",
-        "link": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
-        "pubDate": "2026-09-05T07:13",
+        "title": "M2: Episode 1 (or, Asahi Linux on M3)",
+        "link": "https://asahilinux.org/2026/09/m2-episode-1/",
+        "pubDate": "2026-09-06T00:52",
         "feedId": "lobsters"
       },
       {
-        "title": "The revolt of the reader",
-        "link": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-        "pubDate": "2026-09-05T21:28",
+        "title": "Bespoke: A Programming Language for People Who Say Please",
+        "link": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
+        "pubDate": "2026-09-05T07:13",
         "feedId": "lobsters"
       },
       {
@@ -146,21 +152,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Surviving Code Reviews in the era of AI",
-        "link": "https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai",
-        "pubDate": "2026-09-04T13:11",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Is it too much to ask devs to use AI to review their hand-crafted code?",
         "link": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
         "pubDate": "2026-09-05T07:09",
         "feedId": "lobsters"
       },
       {
-        "title": "Knowing Where to Type ‘Zero’ (2015)",
-        "link": "https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/",
-        "pubDate": "2026-09-05T11:12",
+        "title": "Surviving Code Reviews in the era of AI",
+        "link": "https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai",
+        "pubDate": "2026-09-04T13:11",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Babashka 1.13.220 gets FFI",
-        "link": "https://blog.michielborkent.nl/babashka-ffi.html",
-        "pubDate": "2026-09-04T18:33",
+        "title": "Beyond ORMs",
+        "link": "https://noteflakes.com/articles/2026-09-05-beyond-orms",
+        "pubDate": "2026-09-06T04:52",
         "feedId": "lobsters"
       },
       {
-        "title": "Rust SIMD on the GPU",
-        "link": "https://vectorware.com/blog/simd-on-gpu/",
-        "pubDate": "2026-09-05T13:24",
+        "title": "Knowing Where to Type ‘Zero’ (2015)",
+        "link": "https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/",
+        "pubDate": "2026-09-05T11:12",
         "feedId": "lobsters"
       },
       {
-        "title": "Is AI ruining my brain?",
-        "link": "https://thoughtbot.com/blog/is-ai-ruining-my-brain",
-        "pubDate": "2026-09-04T14:41",
+        "title": "Large-Language Models as a Cognitive Virus",
+        "link": "https://arxiv.org/abs/2609.03344",
+        "pubDate": "2026-09-05T21:08",
         "feedId": "lobsters"
       }
     ]
@@ -288,15 +288,15 @@
     "id": "axios",
     "items": [
       {
-        "title": "Scoop: Republican midterms convention speakers revealed",
-        "link": "https://www.axios.com/2026/09/05/republican-convention-dallas-trump-midterms",
-        "pubDate": "2026-09-05T22:28",
+        "title": "Witkoff and Kushner meet with Putin about ending Ukraine war",
+        "link": "https://www.axios.com/2026/09/05/putin-witkoff-kushner-trump-ukraine-war",
+        "pubDate": "2026-09-06T00:43",
         "feedId": "axios"
       },
       {
-        "title": "Witkoff and Kushner meet with Putin about ending Ukraine war",
-        "link": "https://www.axios.com/2026/09/05/putin-witkoff-kushner-trump-ukraine-war",
-        "pubDate": "2026-09-05T22:26",
+        "title": "Scoop: Republican midterms convention speakers revealed",
+        "link": "https://www.axios.com/2026/09/05/republican-convention-dallas-trump-midterms",
+        "pubDate": "2026-09-05T22:28",
         "feedId": "axios"
       },
       {
