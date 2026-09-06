@@ -3,13 +3,61 @@
     "id": "hn",
     "items": [
       {
-        "title": "Following legal advice, the Nitter project will continue",
-        "link": "https://github.com/zedeus/nitter",
-        "pubDate": "2026-09-06T17:51",
+        "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+        "link": "https://github.com/marsbos/mador",
+        "pubDate": "2026-09-06T20:45",
         "feedId": "hn"
       },
       {
-        "title": "Nitter is unarchived and will continue",
+        "title": "XCancel is available again",
+        "link": "https://xcancel.com/about",
+        "pubDate": "2026-09-06T20:44",
+        "feedId": "hn"
+      },
+      {
+        "title": "It took a year to ship WebAssembly in Anubis",
+        "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+        "pubDate": "2026-09-06T20:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+        "link": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+        "pubDate": "2026-09-06T20:24",
+        "feedId": "hn"
+      },
+      {
+        "title": "They're Made Out of Meat",
+        "link": "https://www.eastoftheweb.com/short-stories/UBooks/TheyMade.shtml",
+        "pubDate": "2026-09-06T20:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
+        "link": "https://getvodforge.com/",
+        "pubDate": "2026-09-06T20:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
+        "link": "https://github.com/mmeyerlein/meclaw",
+        "pubDate": "2026-09-06T20:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "The car industry A/B tested selling a car with and without CarPlay",
+        "link": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
+        "pubDate": "2026-09-06T19:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "There Gonna Be a Shortage of Everything",
+        "link": "https://out-of-hell.xylon.me.uk/shortage.html",
+        "pubDate": "2026-09-06T19:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nitter and XCancel resume",
         "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
         "pubDate": "2026-09-06T17:49",
         "feedId": "hn"
@@ -18,12 +66,6 @@
         "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
         "link": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
         "pubDate": "2026-09-06T17:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "We monitor internal coding agents for misalignment",
-        "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
-        "pubDate": "2026-09-06T16:37",
         "feedId": "hn"
       },
       {
@@ -49,48 +91,6 @@
         "link": "https://openai.com/index/research-acceleration-view-inside-openai",
         "pubDate": "2026-09-06T15:08",
         "feedId": "hn"
-      },
-      {
-        "title": "Recreating Minecraft Is Not a Benchmark",
-        "link": "https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark",
-        "pubDate": "2026-09-06T14:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
-        "link": "https://github.com/scastiel/kado",
-        "pubDate": "2026-09-06T14:34",
-        "feedId": "hn"
-      },
-      {
-        "title": "A/I shuts down – Stay human",
-        "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-        "pubDate": "2026-09-06T14:34",
-        "feedId": "hn"
-      },
-      {
-        "title": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
-        "link": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
-        "pubDate": "2026-09-06T14:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "The many mysteries and lessons of the Bayeux tapestry",
-        "link": "https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry",
-        "pubDate": "2026-09-06T13:38",
-        "feedId": "hn"
-      },
-      {
-        "title": "QBittorrent breaks out of sandbox to commit crimes",
-        "link": "https://beige.party/@intransitivelie/117057396732763183",
-        "pubDate": "2026-09-06T13:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering",
-        "link": "https://shukla.io/quantum-oracle-engineering/",
-        "pubDate": "2026-09-06T13:00",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,21 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "Debian Code Search: Fast TurboPFor with Go SIMD",
+        "link": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
+        "pubDate": "2026-09-06T07:03",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The revolt of the reader",
         "link": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
         "pubDate": "2026-09-05T21:28",
         "feedId": "lobsters"
       },
       {
-        "title": "Debian Code Search: Fast TurboPFor with Go SIMD",
-        "link": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
-        "pubDate": "2026-09-06T07:03",
+        "title": "Python Iceberg",
+        "link": "https://aleyan.com/projects/python-iceberg/",
+        "pubDate": "2026-09-06T18:46",
         "feedId": "lobsters"
       },
       {
@@ -116,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Any Nix package, live in your browser",
-        "link": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
-        "pubDate": "2026-09-06T07:09",
-        "feedId": "lobsters"
-      },
-      {
         "title": "NetBSD 11 from scratch",
         "link": "https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/",
         "pubDate": "2026-09-06T13:35",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Any Nix package, live in your browser",
+        "link": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
+        "pubDate": "2026-09-06T07:09",
         "feedId": "lobsters"
       },
       {
@@ -134,21 +140,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "QBittorrent breaks out of sandbox to commit crimes",
+        "link": "https://beige.party/@intransitivelie/117057396732763183",
+        "pubDate": "2026-09-06T19:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Following legal advice, the Nitter project will continue",
+        "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+        "pubDate": "2026-09-06T18:32",
+        "feedId": "lobsters"
+      },
+      {
         "title": "M2: Episode 1 (or, Asahi Linux on M3)",
         "link": "https://asahilinux.org/2026/09/m2-episode-1/",
         "pubDate": "2026-09-06T00:52",
         "feedId": "lobsters"
       },
       {
-        "title": "\"Simple Made Easy\" (2011)",
-        "link": "https://www.youtube.com/watch?v=SxdOUGdseq4",
-        "pubDate": "2026-09-06T14:25",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Who said a tech addict can't be comfortable far from home?",
         "link": "https://a.l3x.in/blog/my-travel-setup",
         "pubDate": "2026-09-06T12:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "\"Simple Made Easy\" (2011)",
+        "link": "https://www.youtube.com/watch?v=SxdOUGdseq4",
+        "pubDate": "2026-09-06T14:25",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How To: Federated Stars (2024)",
-        "link": "https://domaindrivenarchitecture.org/blog/2024-06-05-howto-federated-stars/",
-        "pubDate": "2026-09-06T06:05",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The Ironies of Automation (1983)",
         "link": "https://static1.squarespace.com/static/644321e78cd2dd37613af33e/t/6694873f71612132a84371c7/1721009983702/Ironies+of+Automation_Bainbridge_1983.pdf",
         "pubDate": "2026-09-06T13:40",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Beyond ORMs",
-        "link": "https://noteflakes.com/articles/2026-09-05-beyond-orms",
-        "pubDate": "2026-09-06T04:52",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Python Iceberg",
-        "link": "https://aleyan.com/projects/python-iceberg/",
-        "pubDate": "2026-09-06T18:46",
         "feedId": "lobsters"
       }
     ]
