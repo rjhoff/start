@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+        "link": "https://github.com/Staatsgeheim/MathKernel",
+        "pubDate": "2026-09-07T00:21",
+        "feedId": "hn"
+      },
+      {
         "title": "Making a Python interpreter in 1024 bytes",
         "link": "https://austinhenley.com/blog/python1024.html",
         "pubDate": "2026-09-06T23:14",
@@ -12,18 +18,6 @@
         "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
         "link": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
         "pubDate": "2026-09-06T22:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "Political meddling at the Census Bureau damages the US statistical system",
-        "link": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system",
-        "pubDate": "2026-09-06T22:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
-        "link": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/",
-        "pubDate": "2026-09-06T21:16",
         "feedId": "hn"
       },
       {
@@ -45,21 +39,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Sol, my macOS music player and jukebox app, is now free and open source",
-        "link": "https://github.com/FulltimeFeline/Sol",
-        "pubDate": "2026-09-06T20:24",
-        "feedId": "hn"
-      },
-      {
         "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
         "link": "https://grapheneos.social/@GrapheneOS/117225539756835649",
         "pubDate": "2026-09-06T20:24",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
-        "link": "https://getvodforge.com/",
-        "pubDate": "2026-09-06T20:07",
         "feedId": "hn"
       },
       {
@@ -91,6 +73,24 @@
         "link": "https://www.netbsd.org/gallery/research.html",
         "pubDate": "2026-09-06T16:10",
         "feedId": "hn"
+      },
+      {
+        "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+        "link": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+        "pubDate": "2026-09-06T15:44",
+        "feedId": "hn"
+      },
+      {
+        "title": "Research acceleration: The view inside OpenAI",
+        "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+        "pubDate": "2026-09-06T15:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "A/I shuts down",
+        "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+        "pubDate": "2026-09-06T14:34",
+        "feedId": "hn"
       }
     ]
   },
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Debian Code Search: Fast TurboPFor with Go SIMD",
-        "link": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
-        "pubDate": "2026-09-06T07:03",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Python Iceberg",
         "link": "https://aleyan.com/projects/python-iceberg/",
         "pubDate": "2026-09-06T18:46",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Debian Code Search: Fast TurboPFor with Go SIMD",
+        "link": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
+        "pubDate": "2026-09-06T07:03",
         "feedId": "lobsters"
       },
       {
@@ -140,12 +140,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Any Nix package, live in your browser",
-        "link": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
-        "pubDate": "2026-09-06T07:09",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Following legal advice, the Nitter project will continue",
         "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
         "pubDate": "2026-09-06T18:32",
@@ -158,21 +152,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Any Nix package, live in your browser",
+        "link": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
+        "pubDate": "2026-09-06T07:09",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Making a Python interpreter in 1024 bytes",
+        "link": "https://austinhenley.com/blog/python1024.html",
+        "pubDate": "2026-09-06T23:04",
+        "feedId": "lobsters"
+      },
+      {
         "title": "There's No Limit to How Bad Code Can Get",
         "link": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
         "pubDate": "2026-09-06T02:05",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "M2: Episode 1 (or, Asahi Linux on M3)",
-        "link": "https://asahilinux.org/2026/09/m2-episode-1/",
-        "pubDate": "2026-09-06T00:52",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Who said a tech addict can't be comfortable far from home?",
-        "link": "https://a.l3x.in/blog/my-travel-setup",
-        "pubDate": "2026-09-06T12:41",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Radix_FW60: handheld CP/M 2.2 computer",
-        "link": "https://github.com/BrettHallen/Radix_FW60",
-        "pubDate": "2026-09-06T20:07",
+        "title": "M2: Episode 1 (or, Asahi Linux on M3)",
+        "link": "https://asahilinux.org/2026/09/m2-episode-1/",
+        "pubDate": "2026-09-06T00:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Ironies of Automation (1983)",
+        "link": "https://static1.squarespace.com/static/644321e78cd2dd37613af33e/t/6694873f71612132a84371c7/1721009983702/Ironies+of+Automation_Bainbridge_1983.pdf",
+        "pubDate": "2026-09-06T13:40",
         "feedId": "lobsters"
       }
     ]
