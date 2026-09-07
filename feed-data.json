@@ -3,9 +3,45 @@
     "id": "hn",
     "items": [
       {
-        "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-        "link": "https://github.com/Staatsgeheim/MathKernel",
-        "pubDate": "2026-09-07T00:21",
+        "title": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
+        "link": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
+        "pubDate": "2026-09-07T05:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Bot Detection Without JavaScript: What My Blog Measured",
+        "link": "https://gkoreli.com/how-i-separate-readers-from-bots-without-javascript",
+        "pubDate": "2026-09-07T05:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+        "link": "https://github.com/timgordontg/engrim",
+        "pubDate": "2026-09-07T04:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "TiVo to charge money for skipping commercials in your own recordings",
+        "link": "https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/",
+        "pubDate": "2026-09-07T04:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "Keep Our Servers Running",
+        "link": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+        "pubDate": "2026-09-07T03:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
+        "link": "https://rfd.shared.oxide.computer/rfd/0301",
+        "pubDate": "2026-09-07T02:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: GET Together – A social network where you don't need POST to Post",
+        "link": "https://gettogether.dev",
+        "pubDate": "2026-09-07T01:41",
         "feedId": "hn"
       },
       {
@@ -15,9 +51,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
-        "link": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
-        "pubDate": "2026-09-06T22:43",
+        "title": "Is mathematics about to enter the conservatory?",
+        "link": "https://mbmccoy.dev/posts/mathematical-conservatory/",
+        "pubDate": "2026-09-06T23:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "Signing TLS handshakes inside a TPM",
+        "link": "https://bschaatsbergen.com/posts/go-tpm-tls/",
+        "pubDate": "2026-09-06T21:05",
         "feedId": "hn"
       },
       {
@@ -45,51 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "D2 Is Non-Profit",
-        "link": "https://d2lang.com/blog/d2-non-profit/",
-        "pubDate": "2026-09-06T19:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nitter and XCancel resume service after legal advice",
-        "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-        "pubDate": "2026-09-06T17:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
-        "link": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
-        "pubDate": "2026-09-06T17:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "An Alien Mind",
-        "link": "https://openai.com/index/an-alien-mind/",
-        "pubDate": "2026-09-06T16:27",
-        "feedId": "hn"
-      },
-      {
-        "title": "Research carried out using NetBSD",
-        "link": "https://www.netbsd.org/gallery/research.html",
-        "pubDate": "2026-09-06T16:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-        "link": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-        "pubDate": "2026-09-06T15:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "Research acceleration: The view inside OpenAI",
-        "link": "https://openai.com/index/research-acceleration-view-inside-openai",
-        "pubDate": "2026-09-06T15:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "A/I shuts down",
-        "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-        "pubDate": "2026-09-06T14:34",
+        "title": "Ask HN: How do you manage skills files?",
+        "link": "https://news.ycombinator.com/item?id=49589914",
+        "pubDate": "2026-09-06T19:27",
         "feedId": "hn"
       }
     ]
@@ -110,6 +110,24 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Following legal advice, the Nitter project will continue",
+        "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+        "pubDate": "2026-09-06T18:32",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "QBittorrent breaks out of sandbox to commit crimes",
+        "link": "https://beige.party/@intransitivelie/117057396732763183",
+        "pubDate": "2026-09-06T19:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "NetBSD 11 from scratch",
+        "link": "https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/",
+        "pubDate": "2026-09-06T13:35",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Debian Code Search: Fast TurboPFor with Go SIMD",
         "link": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
         "pubDate": "2026-09-06T07:03",
@@ -122,9 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "NetBSD 11 from scratch",
-        "link": "https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/",
-        "pubDate": "2026-09-06T13:35",
+        "title": "\"Simple Made Easy\" (2011)",
+        "link": "https://www.youtube.com/watch?v=SxdOUGdseq4",
+        "pubDate": "2026-09-06T14:25",
         "feedId": "lobsters"
       },
       {
@@ -134,39 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "QBittorrent breaks out of sandbox to commit crimes",
-        "link": "https://beige.party/@intransitivelie/117057396732763183",
-        "pubDate": "2026-09-06T19:08",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Following legal advice, the Nitter project will continue",
-        "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-        "pubDate": "2026-09-06T18:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "\"Simple Made Easy\" (2011)",
-        "link": "https://www.youtube.com/watch?v=SxdOUGdseq4",
-        "pubDate": "2026-09-06T14:25",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Any Nix package, live in your browser",
-        "link": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
-        "pubDate": "2026-09-06T07:09",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Making a Python interpreter in 1024 bytes",
         "link": "https://austinhenley.com/blog/python1024.html",
         "pubDate": "2026-09-06T23:04",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "There's No Limit to How Bad Code Can Get",
-        "link": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
-        "pubDate": "2026-09-06T02:05",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "M2: Episode 1 (or, Asahi Linux on M3)",
-        "link": "https://asahilinux.org/2026/09/m2-episode-1/",
-        "pubDate": "2026-09-06T00:52",
+        "title": "Internationalization and Localization",
+        "link": "https://www.kashyapsuhas.com/blog/i18n-l10n",
+        "pubDate": "2026-09-07T06:52",
         "feedId": "lobsters"
       },
       {
-        "title": "The Ironies of Automation (1983)",
-        "link": "https://static1.squarespace.com/static/644321e78cd2dd37613af33e/t/6694873f71612132a84371c7/1721009983702/Ironies+of+Automation_Bainbridge_1983.pdf",
-        "pubDate": "2026-09-06T13:40",
+        "title": "Any Nix package, live in your browser",
+        "link": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
+        "pubDate": "2026-09-06T07:09",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Have the frontier labs mixed up AI safety and security?",
+        "link": "https://martinalderson.com/posts/ai-safety-vs-security/",
+        "pubDate": "2026-09-06T20:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Posting about online presentations",
+        "link": "https://lobste.rs/s/qsjwv4/posting_about_online_presentations",
+        "pubDate": "2026-09-07T05:04",
         "feedId": "lobsters"
       }
     ]
