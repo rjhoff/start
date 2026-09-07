@@ -3,93 +3,93 @@
     "id": "hn",
     "items": [
       {
-        "title": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
-        "link": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
-        "pubDate": "2026-09-07T05:33",
+        "title": "bzip3",
+        "link": "https://github.com/iczelia/bzip3",
+        "pubDate": "2026-09-07T13:35",
         "feedId": "hn"
       },
       {
-        "title": "Bot Detection Without JavaScript: What My Blog Measured",
-        "link": "https://gkoreli.com/how-i-separate-readers-from-bots-without-javascript",
-        "pubDate": "2026-09-07T05:13",
+        "title": "De-Brainrot Vacations",
+        "link": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+        "pubDate": "2026-09-07T13:00",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-        "link": "https://github.com/timgordontg/engrim",
-        "pubDate": "2026-09-07T04:49",
+        "title": "Splash-free urinals (2025)",
+        "link": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
+        "pubDate": "2026-09-07T12:58",
         "feedId": "hn"
       },
       {
-        "title": "TiVo to charge money for skipping commercials in your own recordings",
-        "link": "https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/",
-        "pubDate": "2026-09-07T04:41",
+        "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+        "link": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+        "pubDate": "2026-09-07T11:46",
         "feedId": "hn"
       },
       {
-        "title": "Keep Our Servers Running",
-        "link": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-        "pubDate": "2026-09-07T03:29",
+        "title": "Apparently CodePen 2.0 sends data to their servers as you type",
+        "link": "https://news.ycombinator.com/item?id=49596976",
+        "pubDate": "2026-09-07T11:22",
         "feedId": "hn"
       },
       {
-        "title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
-        "link": "https://rfd.shared.oxide.computer/rfd/0301",
-        "pubDate": "2026-09-07T02:14",
+        "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
+        "link": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
+        "pubDate": "2026-09-07T11:01",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: GET Together – A social network where you don't need POST to Post",
-        "link": "https://gettogether.dev",
-        "pubDate": "2026-09-07T01:41",
+        "title": "Tiny $70 Xteink X3 e-reader",
+        "link": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
+        "pubDate": "2026-09-07T10:41",
         "feedId": "hn"
       },
       {
-        "title": "Making a Python interpreter in 1024 bytes",
-        "link": "https://austinhenley.com/blog/python1024.html",
-        "pubDate": "2026-09-06T23:14",
+        "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+        "link": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+        "pubDate": "2026-09-07T10:38",
         "feedId": "hn"
       },
       {
-        "title": "Is mathematics about to enter the conservatory?",
-        "link": "https://mbmccoy.dev/posts/mathematical-conservatory/",
-        "pubDate": "2026-09-06T23:02",
+        "title": "Impedance Matching (2017)",
+        "link": "https://www.edge.org/response-detail/27238",
+        "pubDate": "2026-09-07T09:52",
         "feedId": "hn"
       },
       {
-        "title": "Signing TLS handshakes inside a TPM",
-        "link": "https://bschaatsbergen.com/posts/go-tpm-tls/",
-        "pubDate": "2026-09-06T21:05",
+        "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
+        "link": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
+        "pubDate": "2026-09-07T09:33",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-        "link": "https://github.com/marsbos/mador",
-        "pubDate": "2026-09-06T20:45",
+        "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+        "link": "https://mathathonchallenge.com/index.html",
+        "pubDate": "2026-09-07T09:26",
         "feedId": "hn"
       },
       {
-        "title": "It took a year to ship WebAssembly in Anubis",
-        "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-        "pubDate": "2026-09-06T20:32",
+        "title": "Speculative Decoding in vLLM on AMD GPUs",
+        "link": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+        "pubDate": "2026-09-07T09:26",
         "feedId": "hn"
       },
       {
-        "title": "Harnessing the Universal Geometry of Embeddings",
-        "link": "https://arxiv.org/abs/2505.12540",
-        "pubDate": "2026-09-06T20:31",
+        "title": "Live map of public transport in Belgium",
+        "link": "https://openbaarvervoerbelgie.be/",
+        "pubDate": "2026-09-07T09:02",
         "feedId": "hn"
       },
       {
-        "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-        "link": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-        "pubDate": "2026-09-06T20:24",
+        "title": "Programming is Art",
+        "link": "https://orchidfiles.com/programming-is-art/",
+        "pubDate": "2026-09-07T08:05",
         "feedId": "hn"
       },
       {
-        "title": "Ask HN: How do you manage skills files?",
-        "link": "https://news.ycombinator.com/item?id=49589914",
-        "pubDate": "2026-09-06T19:27",
+        "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+        "link": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+        "pubDate": "2026-09-07T07:03",
         "feedId": "hn"
       }
     ]
@@ -98,9 +98,21 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "A faster way to convert a timestamp to Hour, Min, Sec",
+        "link": "https://www.benjoffe.com/fast-time-of-day",
+        "pubDate": "2026-09-07T10:27",
+        "feedId": "lobsters"
+      },
+      {
         "title": "It took a year to ship WebAssembly in Anubis",
         "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
         "pubDate": "2026-09-06T20:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The shortest IPv6 addresses",
+        "link": "https://ache.one/notes/vanity-ipv6",
+        "pubDate": "2026-09-07T10:53",
         "feedId": "lobsters"
       },
       {
@@ -110,9 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Following legal advice, the Nitter project will continue",
-        "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-        "pubDate": "2026-09-06T18:32",
+        "title": "Internationalization and Localization",
+        "link": "https://www.kashyapsuhas.com/blog/i18n-l10n",
+        "pubDate": "2026-09-07T06:52",
         "feedId": "lobsters"
       },
       {
@@ -122,33 +134,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Following legal advice, the Nitter project will continue",
+        "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+        "pubDate": "2026-09-06T18:32",
+        "feedId": "lobsters"
+      },
+      {
         "title": "NetBSD 11 from scratch",
         "link": "https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/",
         "pubDate": "2026-09-06T13:35",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Debian Code Search: Fast TurboPFor with Go SIMD",
-        "link": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
-        "pubDate": "2026-09-06T07:03",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The revolt of the reader",
-        "link": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-        "pubDate": "2026-09-05T21:28",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "\"Simple Made Easy\" (2011)",
-        "link": "https://www.youtube.com/watch?v=SxdOUGdseq4",
-        "pubDate": "2026-09-06T14:25",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”",
-        "link": "https://mathstodon.xyz/@tao/117207856734787448",
-        "pubDate": "2026-09-06T07:45",
         "feedId": "lobsters"
       },
       {
@@ -158,21 +152,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Data races and the limits of ThreadSanitizer in C and Go",
-        "link": "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html",
-        "pubDate": "2026-09-06T22:13",
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/xm0hkw/what_are_you_doing_this_week",
+        "pubDate": "2026-09-07T10:33",
         "feedId": "lobsters"
       },
       {
-        "title": "Internationalization and Localization",
-        "link": "https://www.kashyapsuhas.com/blog/i18n-l10n",
-        "pubDate": "2026-09-07T06:52",
+        "title": "GEM for Linux provides a classic graphical desktop with windows, menus, dialogs & a 68K emulator",
+        "link": "https://github.com/triglav-os/gem",
+        "pubDate": "2026-09-07T13:44",
         "feedId": "lobsters"
       },
       {
-        "title": "Any Nix package, live in your browser",
-        "link": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
-        "pubDate": "2026-09-06T07:09",
+        "title": "\"Simple Made Easy\" (2011)",
+        "link": "https://www.youtube.com/watch?v=SxdOUGdseq4",
+        "pubDate": "2026-09-06T14:25",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Debian Code Search: Fast TurboPFor with Go SIMD",
+        "link": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
+        "pubDate": "2026-09-06T07:03",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Posting about online presentations",
-        "link": "https://lobste.rs/s/qsjwv4/posting_about_online_presentations",
-        "pubDate": "2026-09-07T05:04",
+        "title": "The revolt of the reader",
+        "link": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+        "pubDate": "2026-09-05T21:28",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "The complex corporate web behind a $3.2 billion AI data center",
+        "link": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+        "pubDate": "2026-09-07T11:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
         "link": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
@@ -275,18 +281,30 @@
         "link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
         "pubDate": "2026-09-04T16:22",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Musk wins court order to block use of “Twitter,” but not “tweet” and bird logo",
-        "link": "https://arstechnica.com/tech-policy/2026/09/musk-wins-court-order-to-block-use-of-twitter-but-not-tweet-and-bird-logo/",
-        "pubDate": "2026-09-04T15:59",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Iran war drives $100 billion in extra energy costs for U.S. consumers",
+        "link": "https://www.axios.com/2026/09/07/iran-gas-prices-diesel-100-billion",
+        "pubDate": "2026-09-07T11:39",
+        "feedId": "axios"
+      },
+      {
+        "title": "The math behind a Democratic wave — or a GOP upset",
+        "link": "https://www.axios.com/2026/09/07/house-election-majority-wave-democratic-republican-trump",
+        "pubDate": "2026-09-07T10:28",
+        "feedId": "axios"
+      },
+      {
+        "title": "A growing movement wants AI out of schools",
+        "link": "https://www.axios.com/2026/09/07/ai-schools-backlash-bans-new-york-los-angeles",
+        "pubDate": "2026-09-07T10:00",
+        "feedId": "axios"
+      },
       {
         "title": "AfD just won 44% in a German state. Now Germany's firewall faces its biggest test.",
         "link": "https://www.axios.com/2026/09/06/afd-saxony-anhalt-germany-far-right-firewall",
@@ -357,24 +375,6 @@
         "title": "A costly summer sendoff approaches",
         "link": "https://www.axios.com/2026/09/04/gas-prices-labor-day-summer-sendoff",
         "pubDate": "2026-09-04T18:45",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Trump administration drafting post-war Middle East plan",
-        "link": "https://www.axios.com/2026/09/04/trump-middle-east-iran-post-war-strategy",
-        "pubDate": "2026-09-04T17:49",
-        "feedId": "axios"
-      },
-      {
-        "title": "Maria Bartiromo fired by Fox",
-        "link": "https://www.axios.com/2026/09/03/maria-bartiromo-departs-fox",
-        "pubDate": "2026-09-04T16:58",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Rep. Analilia Mejia launches super PAC to fund more progressive upsets",
-        "link": "https://www.axios.com/2026/09/04/analilia-mejia-super-pac-unbossed-progressives",
-        "pubDate": "2026-09-04T16:01",
         "feedId": "axios"
       }
     ]
