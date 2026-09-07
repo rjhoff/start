@@ -3,6 +3,48 @@
     "id": "hn",
     "items": [
       {
+        "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+        "link": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+        "pubDate": "2026-09-07T18:24",
+        "feedId": "hn"
+      },
+      {
+        "title": "No constitutional right to clean water, federal court finds",
+        "link": "https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/",
+        "pubDate": "2026-09-07T17:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "PostgreSQL 19 Interactive Tour",
+        "link": "https://victoriametrics.com/blog/postgres-19/index.html",
+        "pubDate": "2026-09-07T16:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+        "link": "https://news.ycombinator.com/item?id=49600233",
+        "pubDate": "2026-09-07T16:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set",
+        "link": "https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set",
+        "pubDate": "2026-09-07T15:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "C Is Not a Low-Level Language (2018)",
+        "link": "https://queue.acm.org/doi/10.1145/3212477.3212479",
+        "pubDate": "2026-09-07T15:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Bill Gates tries to install MovieMaker",
+        "link": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+        "pubDate": "2026-09-07T15:27",
+        "feedId": "hn"
+      },
+      {
         "title": "bzip3",
         "link": "https://github.com/iczelia/bzip3",
         "pubDate": "2026-09-07T13:35",
@@ -33,33 +75,9 @@
         "feedId": "hn"
       },
       {
-        "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
-        "link": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
-        "pubDate": "2026-09-07T11:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tiny $70 Xteink X3 e-reader",
-        "link": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
-        "pubDate": "2026-09-07T10:41",
-        "feedId": "hn"
-      },
-      {
-        "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
-        "link": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-        "pubDate": "2026-09-07T10:38",
-        "feedId": "hn"
-      },
-      {
         "title": "Impedance Matching (2017)",
         "link": "https://www.edge.org/response-detail/27238",
         "pubDate": "2026-09-07T09:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
-        "link": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
-        "pubDate": "2026-09-07T09:33",
         "feedId": "hn"
       },
       {
@@ -72,24 +90,6 @@
         "title": "Speculative Decoding in vLLM on AMD GPUs",
         "link": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
         "pubDate": "2026-09-07T09:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Live map of public transport in Belgium",
-        "link": "https://openbaarvervoerbelgie.be/",
-        "pubDate": "2026-09-07T09:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "Programming is Art",
-        "link": "https://orchidfiles.com/programming-is-art/",
-        "pubDate": "2026-09-07T08:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
-        "link": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
-        "pubDate": "2026-09-07T07:03",
         "feedId": "hn"
       }
     ]
@@ -104,21 +104,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "It took a year to ship WebAssembly in Anubis",
-        "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-        "pubDate": "2026-09-06T20:41",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The shortest IPv6 addresses",
         "link": "https://ache.one/notes/vanity-ipv6",
         "pubDate": "2026-09-07T10:53",
         "feedId": "lobsters"
       },
       {
-        "title": "Python Iceberg",
-        "link": "https://aleyan.com/projects/python-iceberg/",
-        "pubDate": "2026-09-06T18:46",
+        "title": "It took a year to ship WebAssembly in Anubis",
+        "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+        "pubDate": "2026-09-06T20:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Two Tiny Utils for the Result Pattern",
+        "link": "https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern",
+        "pubDate": "2026-09-07T14:07",
         "feedId": "lobsters"
       },
       {
@@ -128,33 +128,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Python Iceberg",
+        "link": "https://aleyan.com/projects/python-iceberg/",
+        "pubDate": "2026-09-06T18:46",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Rust debugging survey 2026 results",
+        "link": "https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/",
+        "pubDate": "2026-09-07T17:00",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How well do agents use test/verification techniques?",
+        "link": "https://danluu.com/agentic-testing/",
+        "pubDate": "2026-09-07T16:17",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Demystifying complex configurations",
+        "link": "https://guix.gnu.org/blog/2026/demystifying-complex-configurations//",
+        "pubDate": "2026-09-07T09:25",
+        "feedId": "lobsters"
+      },
+      {
         "title": "QBittorrent breaks out of sandbox to commit crimes",
         "link": "https://beige.party/@intransitivelie/117057396732763183",
         "pubDate": "2026-09-06T19:08",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Following legal advice, the Nitter project will continue",
-        "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-        "pubDate": "2026-09-06T18:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "NetBSD 11 from scratch",
-        "link": "https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/",
-        "pubDate": "2026-09-06T13:35",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Making a Python interpreter in 1024 bytes",
-        "link": "https://austinhenley.com/blog/python1024.html",
-        "pubDate": "2026-09-06T23:04",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/xm0hkw/what_are_you_doing_this_week",
-        "pubDate": "2026-09-07T10:33",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "\"Simple Made Easy\" (2011)",
-        "link": "https://www.youtube.com/watch?v=SxdOUGdseq4",
-        "pubDate": "2026-09-06T14:25",
+        "title": "Following legal advice, the Nitter project will continue",
+        "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+        "pubDate": "2026-09-06T18:32",
         "feedId": "lobsters"
       },
       {
-        "title": "Debian Code Search: Fast TurboPFor with Go SIMD",
-        "link": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
-        "pubDate": "2026-09-06T07:03",
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/xm0hkw/what_are_you_doing_this_week",
+        "pubDate": "2026-09-07T10:33",
         "feedId": "lobsters"
       },
       {
-        "title": "Have the frontier labs mixed up AI safety and security?",
-        "link": "https://martinalderson.com/posts/ai-safety-vs-security/",
-        "pubDate": "2026-09-06T20:47",
+        "title": "\"Hammock Driven Development\" (2010)",
+        "link": "https://youtu.be/f84n5oFoZBc",
+        "pubDate": "2026-09-07T08:31",
         "feedId": "lobsters"
       },
       {
-        "title": "The revolt of the reader",
-        "link": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-        "pubDate": "2026-09-05T21:28",
+        "title": "Making a Python interpreter in 1024 bytes",
+        "link": "https://austinhenley.com/blog/python1024.html",
+        "pubDate": "2026-09-06T23:04",
         "feedId": "lobsters"
       }
     ]
@@ -194,7 +194,7 @@
     "items": [
       {
         "title": "The complex corporate web behind a $3.2 billion AI data center",
-        "link": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+        "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
         "pubDate": "2026-09-07T11:00",
         "feedId": "arstechnica"
       },
@@ -288,9 +288,27 @@
     "id": "axios",
     "items": [
       {
+        "title": "Zelensky to Axios: U.S. exploring Russia-Ukraine winter de-escalation steps",
+        "link": "https://www.axios.com/2026/09/07/zelensky-ukraine-russia-war-witkoff-kushner-putin-trump",
+        "pubDate": "2026-09-07T16:55",
+        "feedId": "axios"
+      },
+      {
+        "title": "The grocery aisle's new double whammy: price and safety",
+        "link": "https://www.axios.com/2026/09/07/food-safety-concerns-grocery-inflation",
+        "pubDate": "2026-09-07T15:40",
+        "feedId": "axios"
+      },
+      {
         "title": "Iran war drives $100 billion in extra energy costs for U.S. consumers",
         "link": "https://www.axios.com/2026/09/07/iran-gas-prices-diesel-100-billion",
         "pubDate": "2026-09-07T11:39",
+        "feedId": "axios"
+      },
+      {
+        "title": "Axios interview: Altman sees revenge of \"idea guy\"",
+        "link": "https://www.axios.com/2026/09/07/axios-interview-altman-touts-revenge-of-ideas-guy",
+        "pubDate": "2026-09-07T10:43",
         "feedId": "axios"
       },
       {
@@ -357,24 +375,6 @@
         "title": "\"We're stuck:\" GOP accepts Trump's all-about-me midterms",
         "link": "https://www.axios.com/2026/09/05/republicans-stuck-trump-midterms",
         "pubDate": "2026-09-05T13:19",
-        "feedId": "axios"
-      },
-      {
-        "title": "Republicans sour on the economy",
-        "link": "https://www.axios.com/2026/09/05/trump-economy-michigan-survey-inflation-iran-war",
-        "pubDate": "2026-09-05T11:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump envoys Witkoff and Kushner to travel to Moscow and Kyiv this weekend",
-        "link": "https://www.axios.com/2026/09/04/trump-witkoff-kushner-moscow-kyiv",
-        "pubDate": "2026-09-04T20:23",
-        "feedId": "axios"
-      },
-      {
-        "title": "A costly summer sendoff approaches",
-        "link": "https://www.axios.com/2026/09/04/gas-prices-labor-day-summer-sendoff",
-        "pubDate": "2026-09-04T18:45",
         "feedId": "axios"
       }
     ]
