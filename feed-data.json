@@ -3,6 +3,48 @@
     "id": "hn",
     "items": [
       {
+        "title": "An overview of how our family is prepared",
+        "link": "https://michaelharley.net/posts/2026/08/29/an-overview-of-how-our-family-is-prepared/",
+        "pubDate": "2026-09-08T14:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "LibreOffice breaks download records after declaring it has no AI features",
+        "link": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+        "pubDate": "2026-09-08T14:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "We Must Return to the Office to Use AI in Person",
+        "link": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+        "pubDate": "2026-09-08T13:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "DaVinci Resolve 21.1",
+        "link": "https://www.blackmagicdesign.com/media/release/20260908-03",
+        "pubDate": "2026-09-08T13:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Copperhead – Hardware as Fast as Software",
+        "link": "https://copperhead.sh/",
+        "pubDate": "2026-09-08T13:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: DriveSync – fast Git-styled Google Drive sync CLI",
+        "link": "https://github.com/scaleninja/drivesync",
+        "pubDate": "2026-09-08T13:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "PISA 2025 Students' reading and mathematics performance declined across the OECD",
+        "link": "https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html",
+        "pubDate": "2026-09-08T11:13",
+        "feedId": "hn"
+      },
+      {
         "title": "Why getting your hands dirty is good for you",
         "link": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
         "pubDate": "2026-09-08T09:48",
@@ -21,33 +63,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-        "link": "https://cims.nyu.edu/~tristanb/statement.pdf",
-        "pubDate": "2026-09-08T05:42",
-        "feedId": "hn"
-      },
-      {
         "title": "Multi-Agents LLM Financial Trading Framework",
         "link": "https://github.com/TauricResearch/TradingAgents",
         "pubDate": "2026-09-08T05:20",
         "feedId": "hn"
       },
       {
-        "title": "My Feed, My Way",
-        "link": "https://www.pm.gov.au/media/my-feed-my-way",
-        "pubDate": "2026-09-08T05:10",
-        "feedId": "hn"
-      },
-      {
         "title": "Mistral raises €3B",
         "link": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
         "pubDate": "2026-09-08T05:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "We have a year to fix security everywhere",
-        "link": "https://jyn.dev/a-year-to-fix-security/",
-        "pubDate": "2026-09-08T04:48",
         "feedId": "hn"
       },
       {
@@ -67,30 +91,6 @@
         "link": "https://danluu.com/agentic-testing/",
         "pubDate": "2026-09-08T02:58",
         "feedId": "hn"
-      },
-      {
-        "title": "There's a new \"Google Jail\" for independent wikis",
-        "link": "https://weirdgloop.org/blog/google-jail",
-        "pubDate": "2026-09-08T01:57",
-        "feedId": "hn"
-      },
-      {
-        "title": "Jellyfin 12.0",
-        "link": "https://jellyfin.org/posts/jellyfin-release-12.0/",
-        "pubDate": "2026-09-08T01:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
-        "link": "https://mcpherrin.ca/2026/09/07/rsa.html",
-        "pubDate": "2026-09-08T01:16",
-        "feedId": "hn"
-      },
-      {
-        "title": "TALA Is Open-Source",
-        "link": "https://d2lang.com/blog/tala-is-open-source/",
-        "pubDate": "2026-09-07T23:37",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,57 +104,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A faster way to convert a timestamp to Hour, Min, Sec",
-        "link": "https://www.benjoffe.com/fast-time-of-day",
-        "pubDate": "2026-09-07T10:27",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The state of European cloud providers in 2026",
         "link": "https://crescentro.se/posts/euro-cloud-providers-2026/",
         "pubDate": "2026-09-08T07:20",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Bitap: my favorite string matching algorithm",
-        "link": "https://jo3-l.dev/posts/bitap/",
-        "pubDate": "2026-09-08T06:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Jellyfin 12.0",
-        "link": "https://jellyfin.org/posts/jellyfin-release-12.0",
-        "pubDate": "2026-09-08T03:13",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The shortest IPv6 addresses",
-        "link": "https://ache.one/notes/vanity-ipv6",
-        "pubDate": "2026-09-07T10:53",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Emacs Bedrock 2.0 Released",
-        "link": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
-        "pubDate": "2026-09-08T02:55",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you using as a task manager and as a people manager?",
-        "link": "https://lobste.rs/s/0t6c5f/what_are_you_using_as_task_manager_as",
-        "pubDate": "2026-09-08T00:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I’ve factored the RSA keys of a Certificate Authority…from the 90s",
-        "link": "https://mcpherrin.ca/2026/09/07/rsa.html",
-        "pubDate": "2026-09-08T04:05",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "My Nix Config Is Intimate",
-        "link": "https://www.scd31.com/posts/nix-files-are-intimate",
-        "pubDate": "2026-09-08T03:27",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +116,75 @@
         "feedId": "lobsters"
       },
       {
-        "title": "It took a year to ship WebAssembly in Anubis",
-        "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-        "pubDate": "2026-09-06T20:41",
+        "title": "Extreme Server Side Rendering",
+        "link": "https://www.scd31.com/posts/extreme-server-side-rendering",
+        "pubDate": "2026-09-08T10:54",
         "feedId": "lobsters"
       },
       {
-        "title": "bzip3: A better and stronger spiritual successor to BZip2",
-        "link": "https://github.com/iczelia/bzip3",
-        "pubDate": "2026-09-07T18:35",
+        "title": "Jellyfin 12.0",
+        "link": "https://jellyfin.org/posts/jellyfin-release-12.0",
+        "pubDate": "2026-09-08T03:13",
         "feedId": "lobsters"
       },
       {
-        "title": "Rust debugging survey 2026 results",
-        "link": "https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/",
-        "pubDate": "2026-09-07T17:00",
+        "title": "Bitap: my favorite string matching algorithm",
+        "link": "https://jo3-l.dev/posts/bitap/",
+        "pubDate": "2026-09-08T06:37",
         "feedId": "lobsters"
       },
       {
-        "title": "Hardening Container Images",
-        "link": "https://www.grepular.com/Hardening_Container_Images",
-        "pubDate": "2026-09-07T21:39",
+        "title": "A faster way to convert a timestamp to Hour, Min, Sec",
+        "link": "https://www.benjoffe.com/fast-time-of-day",
+        "pubDate": "2026-09-07T10:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How to get a free .arpa domain",
+        "link": "https://hawksley.dev/blog/get-free-arpa-domain",
+        "pubDate": "2026-09-08T09:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "This Month in Ladybird - August 2026",
+        "link": "https://ladybird.org/newsletter/2026-08-31/",
+        "pubDate": "2026-09-08T05:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "My Nix Config Is Intimate",
+        "link": "https://www.scd31.com/posts/nix-files-are-intimate",
+        "pubDate": "2026-09-08T03:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Switching Password Managers in 2026",
+        "link": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
+        "pubDate": "2026-09-08T13:55",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Emacs Bedrock 2.0 Released",
+        "link": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
+        "pubDate": "2026-09-08T02:55",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I’ve factored the RSA keys of a Certificate Authority…from the 90s",
+        "link": "https://mcpherrin.ca/2026/09/07/rsa.html",
+        "pubDate": "2026-09-08T04:05",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The shortest IPv6 addresses",
+        "link": "https://ache.one/notes/vanity-ipv6",
+        "pubDate": "2026-09-07T10:53",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you using as a task manager and as a people manager?",
+        "link": "https://lobste.rs/s/0t6c5f/what_are_you_using_as_task_manager_as",
+        "pubDate": "2026-09-08T00:50",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "EV batteries last longer than drivers feared",
+        "link": "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/",
+        "pubDate": "2026-09-08T13:56",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "With another huge infusion of cash, Stoke Space goes even bigger",
+        "link": "https://arstechnica.com/space/2026/09/stoke-space-sets-debut-launch-target-reveals-plans-for-larger-rocket/",
+        "pubDate": "2026-09-08T12:29",
+        "feedId": "arstechnica"
+      },
       {
         "title": "The complex corporate web behind a $3.2 billion AI data center",
         "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
@@ -269,24 +281,24 @@
         "link": "https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/",
         "pubDate": "2026-09-04T16:42",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Second complete map of a fruit fly brain completed",
-        "link": "https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/",
-        "pubDate": "2026-09-04T16:24",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-        "link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
-        "pubDate": "2026-09-04T16:22",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "NYC unveils records suggesting officials knew air was unsafe after 9/11",
+        "link": "https://www.axios.com/2026/09/08/nyc-records-911-air-safety-mamdani",
+        "pubDate": "2026-09-08T14:47",
+        "feedId": "axios"
+      },
+      {
+        "title": "The body image battle is real in 2026, but the bodies may not be",
+        "link": "https://www.axios.com/2026/09/08/ai-fitness-influencers-body-ideals",
+        "pubDate": "2026-09-08T11:22",
+        "feedId": "axios"
+      },
       {
         "title": "Sports' grip on America sparks summer of political warfare",
         "link": "https://www.axios.com/2026/09/08/sports-culture-war-wnba-mlb-golf",
@@ -363,18 +375,6 @@
         "title": "Dem governors weighing White House face the DeSantis dilemma",
         "link": "https://www.axios.com/2026/09/06/democrats-governors-desantis-dilemma",
         "pubDate": "2026-09-06T21:40",
-        "feedId": "axios"
-      },
-      {
-        "title": "Witkoff and Kushner, in a first, visit Ukraine for peace talks",
-        "link": "https://www.axios.com/2026/09/06/witkoff-kushner-kyiv-ukraine-peace-talks",
-        "pubDate": "2026-09-06T21:06",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump's energy boss wavers on gasoline price path",
-        "link": "https://www.axios.com/2026/09/06/chris-wright-gas-prices-labor-day",
-        "pubDate": "2026-09-06T17:05",
         "feedId": "axios"
       }
     ]
