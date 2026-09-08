@@ -3,9 +3,15 @@
     "id": "hn",
     "items": [
       {
-        "title": "The Education of a Doomer",
-        "link": "https://borretti.me/article/the-education-of-a-doomer",
-        "pubDate": "2026-09-07T21:19",
+        "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+        "link": "https://github.com/Sadpainy/Stuxnet",
+        "pubDate": "2026-09-07T22:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "Working on Economics with Fable 5",
+        "link": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
+        "pubDate": "2026-09-07T21:18",
         "feedId": "hn"
       },
       {
@@ -15,9 +21,9 @@
         "feedId": "hn"
       },
       {
-        "title": "A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on",
-        "link": "https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/",
-        "pubDate": "2026-09-07T20:21",
+        "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+        "link": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+        "pubDate": "2026-09-07T20:32",
         "feedId": "hn"
       },
       {
@@ -33,12 +39,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Bill Gates tries to install MovieMaker (2003)",
-        "link": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
-        "pubDate": "2026-09-07T15:27",
-        "feedId": "hn"
-      },
-      {
         "title": "bzip3",
         "link": "https://github.com/iczelia/bzip3",
         "pubDate": "2026-09-07T13:35",
@@ -47,12 +47,6 @@
       {
         "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
         "link": "https://mathathonchallenge.com/index.html",
-        "pubDate": "2026-09-07T09:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Speculative Decoding in vLLM on AMD GPUs",
-        "link": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
         "pubDate": "2026-09-07T09:26",
         "feedId": "hn"
       },
@@ -91,6 +85,12 @@
         "link": "https://sled.neocities.org/",
         "pubDate": "2026-09-06T12:58",
         "feedId": "hn"
+      },
+      {
+        "title": "Catching Crumbs from the Table (2000)",
+        "link": "https://www.nature.com/articles/35014679",
+        "pubDate": "2026-09-06T07:15",
+        "feedId": "hn"
       }
     ]
   },
@@ -128,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Two Tiny Utils for the Result Pattern",
-        "link": "https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern",
-        "pubDate": "2026-09-07T14:07",
-        "feedId": "lobsters"
-      },
-      {
         "title": "How well do agents use test/verification techniques?",
         "link": "https://danluu.com/agentic-testing/",
         "pubDate": "2026-09-07T16:17",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Two Tiny Utils for the Result Pattern",
+        "link": "https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern",
+        "pubDate": "2026-09-07T14:07",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Python Iceberg",
-        "link": "https://aleyan.com/projects/python-iceberg/",
-        "pubDate": "2026-09-06T18:46",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The Dataflow Model Revisited",
         "link": "https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.pdf",
         "pubDate": "2026-09-07T17:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Python Iceberg",
+        "link": "https://aleyan.com/projects/python-iceberg/",
+        "pubDate": "2026-09-06T18:46",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "QBittorrent breaks out of sandbox to commit crimes",
-        "link": "https://beige.party/@intransitivelie/117057396732763183",
-        "pubDate": "2026-09-06T19:08",
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/xm0hkw/what_are_you_doing_this_week",
+        "pubDate": "2026-09-07T10:33",
         "feedId": "lobsters"
       }
     ]
