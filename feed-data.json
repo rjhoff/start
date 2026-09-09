@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "South Park creators rename show 'South America'",
+        "link": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o",
+        "pubDate": "2026-09-09T21:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "Matt Mullenweg put on 'leave of absence'",
+        "link": "https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/",
+        "pubDate": "2026-09-09T21:28",
+        "feedId": "hn"
+      },
+      {
         "title": "iPhone Duo",
         "link": "https://www.apple.com/iphone-duo/",
         "pubDate": "2026-09-09T18:15",
@@ -12,12 +24,6 @@
         "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
         "link": "https://github.com/OtoDock/oto-dock",
         "pubDate": "2026-09-09T17:57",
-        "feedId": "hn"
-      },
-      {
-        "title": "Apple Watch Ultra 4",
-        "link": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
-        "pubDate": "2026-09-09T17:56",
         "feedId": "hn"
       },
       {
@@ -81,12 +87,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Better AI code comment detector",
-        "link": "https://entropicthoughts.com/better-ai-comment-classifier",
-        "pubDate": "2026-09-09T15:45",
-        "feedId": "hn"
-      },
-      {
         "title": "Planet Labs' open satellite feed",
         "link": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
         "pubDate": "2026-09-09T15:44",
@@ -104,6 +104,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "I Don’t Want to Interact With Stochastic Parrots",
+        "link": "https://ploum.net/2026-09-09-ai_policy.html",
+        "pubDate": "2026-09-09T17:18",
+        "feedId": "lobsters"
+      },
+      {
         "title": "How to build a f**king printer",
         "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
         "pubDate": "2026-09-08T21:39",
@@ -113,12 +119,6 @@
         "title": "The purpose of DNS is to spread scams",
         "link": "https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/",
         "pubDate": "2026-09-09T13:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I Don’t Want to Interact With Stochastic Parrots",
-        "link": "https://ploum.net/2026-09-09-ai_policy.html",
-        "pubDate": "2026-09-09T17:18",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Switching Password Managers in 2026",
-        "link": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
-        "pubDate": "2026-09-08T13:55",
+        "title": "ID design and primary keys",
+        "link": "https://anchorsandlinks.com/posts/primary-keys/",
+        "pubDate": "2026-09-09T18:31",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A Design Space Exploration of Async/Await",
+        "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+        "pubDate": "2026-09-09T15:22",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +152,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Switching Password Managers in 2026",
+        "link": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
+        "pubDate": "2026-09-08T13:55",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Reverse engineering my e-scooter and rewriting the firmware in rust",
+        "link": "https://bensimms.moe/reverse-engineering-scooter/",
+        "pubDate": "2026-09-08T21:03",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
         "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
         "pubDate": "2026-09-09T13:21",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why Emacs Consult async searches feel slow and how to speed them up",
+        "link": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
+        "pubDate": "2026-09-09T13:09",
         "feedId": "lobsters"
       },
       {
@@ -161,30 +185,6 @@
         "title": "The State of Allocators in 2026 - 6 Months Later",
         "link": "https://cetra3.github.io/blog/state-of-allocators-2026-part-2/",
         "pubDate": "2026-09-09T06:43",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Reverse engineering my e-scooter and rewriting the firmware in rust",
-        "link": "https://bensimms.moe/reverse-engineering-scooter/",
-        "pubDate": "2026-09-08T21:03",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why Emacs Consult async searches feel slow and how to speed them up",
-        "link": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
-        "pubDate": "2026-09-09T13:09",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A Design Space Exploration of Async/Await",
-        "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-        "pubDate": "2026-09-09T15:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why Function Arguments Are Not Function Colors",
-        "link": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
-        "pubDate": "2026-09-09T04:13",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "Exclusive: Fetterman to praise Trump in bombshell GOP convention video",
+        "link": "https://www.axios.com/2026/09/09/fetterman-video-gop-convention-trump",
+        "pubDate": "2026-09-09T22:17",
+        "feedId": "axios"
+      },
+      {
+        "title": "AI's extinction debate breaks containment",
+        "link": "https://www.axios.com/2026/09/09/anthropic-ai-human-extinction-pdoom-safety-risks",
+        "pubDate": "2026-09-09T22:10",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump's midterm mess collides with a courtroom time crunch",
         "link": "https://www.axios.com/2026/09/09/trump-midterm-election-mess-courts",
         "pubDate": "2026-09-09T20:21",
@@ -363,18 +375,6 @@
         "title": "Trump bans some Canadian imports as North America trade war intensifies",
         "link": "https://www.axios.com/2026/09/08/trump-tariffs-canada-import-ban-alcohol-dairy-motorcycles",
         "pubDate": "2026-09-08T23:42",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump's summer of sabotage",
-        "link": "https://www.axios.com/2026/09/08/donald-trump-senate-republicans-midterm-convention-trade-canada",
-        "pubDate": "2026-09-08T22:47",
-        "feedId": "axios"
-      },
-      {
-        "title": "Historic NYT v. OpenAI copyright battle heats up",
-        "link": "https://www.axios.com/2026/09/08/nyt-openai-microsoft-copyright-lawsuit",
-        "pubDate": "2026-09-08T22:12",
         "feedId": "axios"
       }
     ]
