@@ -3,45 +3,63 @@
     "id": "hn",
     "items": [
       {
+        "title": "iPhone Duo",
+        "link": "https://www.apple.com/iphone-duo/",
+        "pubDate": "2026-09-09T18:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+        "link": "https://github.com/OtoDock/oto-dock",
+        "pubDate": "2026-09-09T17:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "Apple Watch Ultra 4",
+        "link": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
+        "pubDate": "2026-09-09T17:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "Apple Watch Series 12",
+        "link": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+        "pubDate": "2026-09-09T17:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "AirPods 5",
+        "link": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+        "pubDate": "2026-09-09T17:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+        "link": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+        "pubDate": "2026-09-09T17:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+        "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+        "pubDate": "2026-09-09T17:24",
+        "feedId": "hn"
+      },
+      {
         "title": "Growing proof that autonomous cars save lives",
         "link": "https://spectrum.ieee.org/are-self-driving-cars-safe",
         "pubDate": "2026-09-09T17:14",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Rdltr – Inbox zero for your reading list",
-        "link": "https://rdltr.app/",
-        "pubDate": "2026-09-09T17:06",
+        "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+        "link": "https://arxiv.org/abs/2609.09153",
+        "pubDate": "2026-09-09T17:13",
         "feedId": "hn"
       },
       {
-        "title": "Every Millisecond Counts",
-        "link": "https://jordivillar.com/blog/every-millisecond-counts",
-        "pubDate": "2026-09-09T16:57",
-        "feedId": "hn"
-      },
-      {
-        "title": "The UN challenges five centuries of cartography",
-        "link": "https://www.not-ship.com/united-nations-map/",
-        "pubDate": "2026-09-09T16:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "\"Good\" AI",
-        "link": "https://thoughts.wyounas.com/p/what-does-good-ai-mean",
-        "pubDate": "2026-09-09T16:21",
-        "feedId": "hn"
-      },
-      {
-        "title": "I Haven't Lost a Customer Service Fight in Seven Months",
-        "link": "https://www.sudomoin.com/p/consumer-claims",
-        "pubDate": "2026-09-09T16:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "Defining AI Psychosis. Part 2: \"Prolific AI Psychosis\"",
-        "link": "https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific",
-        "pubDate": "2026-09-09T16:13",
+        "title": "Why Emacs Consult async searches feel slow and how to speed them up",
+        "link": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
+        "pubDate": "2026-09-09T17:13",
         "feedId": "hn"
       },
       {
@@ -73,24 +91,6 @@
         "link": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
         "pubDate": "2026-09-09T15:44",
         "feedId": "hn"
-      },
-      {
-        "title": "We accidentally built a synthetic cell factory",
-        "link": "https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory",
-        "pubDate": "2026-09-09T15:34",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Give your AI agent on-screen guides that show users where to click",
-        "link": "https://news.ycombinator.com/item?id=49627872",
-        "pubDate": "2026-09-09T15:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "Investing in Mothers? The Long-Run Impact of a Universal Child Care",
-        "link": "https://www.nber.org/papers/w35514",
-        "pubDate": "2026-09-09T14:55",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,21 +98,33 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "Apple Event for September 9th, 2026",
+        "link": "https://www.apple.com/apple-events/event-stream/",
+        "pubDate": "2026-09-09T16:54",
+        "feedId": "lobsters"
+      },
+      {
         "title": "How to build a f**king printer",
         "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
         "pubDate": "2026-09-08T21:39",
         "feedId": "lobsters"
       },
       {
-        "title": "A decade of rustls",
-        "link": "https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/",
-        "pubDate": "2026-09-09T11:13",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The purpose of DNS is to spread scams",
         "link": "https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/",
         "pubDate": "2026-09-09T13:32",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I Don’t Want to Interact With Stochastic Parrots",
+        "link": "https://ploum.net/2026-09-09-ai_policy.html",
+        "pubDate": "2026-09-09T17:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A decade of rustls",
+        "link": "https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/",
+        "pubDate": "2026-09-09T11:13",
         "feedId": "lobsters"
       },
       {
@@ -128,39 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Rust: When Empty Isn't Bottom",
-        "link": "https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html",
-        "pubDate": "2026-09-08T21:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Reverse engineering my e-scooter and rewriting the firmware in rust",
-        "link": "https://bensimms.moe/reverse-engineering-scooter/",
-        "pubDate": "2026-09-08T21:03",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The State of Allocators in 2026 - 6 Months Later",
-        "link": "https://cetra3.github.io/blog/state-of-allocators-2026-part-2/",
-        "pubDate": "2026-09-09T06:43",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why Emacs Consult async searches feel slow and how to speed them up",
-        "link": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
-        "pubDate": "2026-09-09T13:09",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Apple Event for September 9th, 2026",
-        "link": "https://www.apple.com/apple-events/event-stream/",
-        "pubDate": "2026-09-09T16:54",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I changed my license to EUPL",
-        "link": "https://bergie.iki.fi/blog/eupl/",
-        "pubDate": "2026-09-08T04:17",
+        "title": "Better AI code comment detector",
+        "link": "https://entropicthoughts.com/better-ai-comment-classifier",
+        "pubDate": "2026-09-09T18:27",
         "feedId": "lobsters"
       },
       {
@@ -170,9 +152,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The state of European cloud providers in 2026",
-        "link": "https://crescentro.se/posts/euro-cloud-providers-2026/",
-        "pubDate": "2026-09-08T07:20",
+        "title": "Rust: When Empty Isn't Bottom",
+        "link": "https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html",
+        "pubDate": "2026-09-08T21:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The State of Allocators in 2026 - 6 Months Later",
+        "link": "https://cetra3.github.io/blog/state-of-allocators-2026-part-2/",
+        "pubDate": "2026-09-09T06:43",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Reverse engineering my e-scooter and rewriting the firmware in rust",
+        "link": "https://bensimms.moe/reverse-engineering-scooter/",
+        "pubDate": "2026-09-08T21:03",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why Emacs Consult async searches feel slow and how to speed them up",
+        "link": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
+        "pubDate": "2026-09-09T13:09",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A Design Space Exploration of Async/Await",
+        "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+        "pubDate": "2026-09-09T15:22",
         "feedId": "lobsters"
       },
       {
@@ -180,18 +186,84 @@
         "link": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
         "pubDate": "2026-09-09T04:13",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Extreme Server Side Rendering",
-        "link": "https://www.scd31.com/posts/extreme-server-side-rendering",
-        "pubDate": "2026-09-08T10:54",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+        "link": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+        "pubDate": "2026-09-09T20:06",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
+        "link": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
+        "pubDate": "2026-09-09T19:42",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "When it comes to Beatles references, scientists can't let it be",
+        "link": "https://arstechnica.com/science/2026/09/scientists-really-love-to-reference-the-beatles-in-their-work/",
+        "pubDate": "2026-09-09T19:31",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs",
+        "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
+        "pubDate": "2026-09-09T19:09",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
+        "link": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
+        "pubDate": "2026-09-09T18:58",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
+        "link": "https://arstechnica.com/gadgets/2026/09/apple-watch-series-12-ultra-4-have-wearables-most-accurate-heart-rate-sensing/",
+        "pubDate": "2026-09-09T18:47",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "The quick guide to fall vaccines and when you should get them",
+        "link": "https://arstechnica.com/health/2026/09/what-to-know-about-covid-and-flu-shots-as-rfk-jr-s-chaos-drags-on/",
+        "pubDate": "2026-09-09T18:39",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
+        "link": "https://arstechnica.com/gadgets/2026/09/apples-iphone-18-pro-adds-variable-camera-aperture-and-a-more-powerful-chip/",
+        "pubDate": "2026-09-09T17:38",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Popular navigation apps unlikely to ditch Mercator maps despite UN resolution",
+        "link": "https://arstechnica.com/gadgets/2026/09/un-correct-the-map-resolution-wont-change-mercator-map-use-in-navigation-apps/",
+        "pubDate": "2026-09-09T17:11",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+        "link": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+        "pubDate": "2026-09-09T16:59",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Prime Video releases full trailer for Mike Flanagan's Carrie",
+        "link": "https://arstechnica.com/culture/2026/09/prime-video-releases-full-trailer-for-mike-flanagans-carrie/",
+        "pubDate": "2026-09-09T16:40",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google's AI genome system evaluates every possible one-base change",
+        "link": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
+        "pubDate": "2026-09-09T16:34",
+        "feedId": "arstechnica"
+      },
       {
         "title": "NOAA is putting commercial fishing ahead of conservation",
         "link": "https://arstechnica.com/science/2026/09/noaa-is-putting-commercial-fishing-ahead-of-conservation/",
@@ -209,84 +281,36 @@
         "link": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
         "pubDate": "2026-09-08T21:52",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "GOG brings back \"big box\" PC games, one printable template at a time",
-        "link": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
-        "pubDate": "2026-09-08T21:23",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Why this month's Microsoft patch release is a doozy",
-        "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-        "pubDate": "2026-09-08T21:11",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "The universal language of space is... Star Trek? Mais oui.",
-        "link": "https://arstechnica.com/space/2026/09/astronaut-on-iss-celebrates-60-years-of-star-trek-with-prop-badge/",
-        "pubDate": "2026-09-08T20:20",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "NIH to use part of its budget to pay for Department of Defense research",
-        "link": "https://arstechnica.com/science/2026/09/nih-to-use-part-of-its-budget-to-pay-for-department-of-defense-research/",
-        "pubDate": "2026-09-08T20:06",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Supreme Court forces TV stations to sell more election ads at steep discounts",
-        "link": "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
-        "pubDate": "2026-09-08T19:50",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change",
-        "link": "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/",
-        "pubDate": "2026-09-08T19:12",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Godzilla Minus Zero IMAX trailer teases King Ghidorah",
-        "link": "https://arstechnica.com/culture/2026/09/godzilla-minus-zero-imax-trailer-teases-king-ghidorah/",
-        "pubDate": "2026-09-08T18:53",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
-        "link": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
-        "pubDate": "2026-09-08T18:43",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Update to Google’s AI weather model improves forecast accuracy",
-        "link": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
-        "pubDate": "2026-09-08T18:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Google complies with EU rules for travel searches, says the new results stink",
-        "link": "https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results/",
-        "pubDate": "2026-09-08T16:49",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
-        "link": "https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/",
-        "pubDate": "2026-09-08T16:31",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "The secret to protecting next-gen spacecraft might be eggshells",
-        "link": "https://arstechnica.com/science/2026/09/how-eggshells-can-protect-spacecraft-from-space-debris/",
-        "pubDate": "2026-09-08T16:20",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Trump's midterm mess collides with a courtroom time crunch",
+        "link": "https://www.axios.com/2026/09/09/trump-midterm-election-mess-courts",
+        "pubDate": "2026-09-09T20:21",
+        "feedId": "axios"
+      },
+      {
+        "title": "AI is making it harder to trust your own eyes this election",
+        "link": "https://www.axios.com/2026/09/09/ai-political-ads-deepfakes-2026-elections",
+        "pubDate": "2026-09-09T20:09",
+        "feedId": "axios"
+      },
+      {
+        "title": "Energy Department raises 2027 diesel price outlook by 33 cents amid Iran war",
+        "link": "https://www.axios.com/2026/09/09/energy-department-hikes-2027-diesel-price-outlook",
+        "pubDate": "2026-09-09T19:36",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump calls to Make Germany Great Again. In Germany, nostalgia carries a dark past.",
+        "link": "https://www.axios.com/2026/09/09/trump-germany-afd-antisemitism",
+        "pubDate": "2026-09-09T18:03",
+        "feedId": "axios"
+      },
       {
         "title": "Here's how AI could kill us all (if the worst fears come true)",
         "link": "https://www.axios.com/2026/09/09/ai-doom-pdoom-kill-all-humans-anthropic",
@@ -351,30 +375,6 @@
         "title": "Historic NYT v. OpenAI copyright battle heats up",
         "link": "https://www.axios.com/2026/09/08/nyt-openai-microsoft-copyright-lawsuit",
         "pubDate": "2026-09-08T22:12",
-        "feedId": "axios"
-      },
-      {
-        "title": "Why House Republicans are pulling their $5 million from a key N.Y. battleground seat",
-        "link": "https://www.axios.com/2026/09/08/republicans-new-york-19-riley-oberacker-2026",
-        "pubDate": "2026-09-08T21:12",
-        "feedId": "axios"
-      },
-      {
-        "title": "LIV Golf files for bankruptcy protection",
-        "link": "https://www.axios.com/2026/09/08/liv-golf-bankruptcy-saudi",
-        "pubDate": "2026-09-08T21:05",
-        "feedId": "axios"
-      },
-      {
-        "title": "AI agents are poised to be the next hacking victims, cyber CEO predicts",
-        "link": "https://www.axios.com/2026/09/08/ai-agents-bugcrowd-cyberattacks-hack",
-        "pubDate": "2026-09-08T17:23",
-        "feedId": "axios"
-      },
-      {
-        "title": "Smithsonian chief to retire after clashes with White House",
-        "link": "https://www.axios.com/2026/09/08/smithsonian-trump-lonnie-bunch-retire",
-        "pubDate": "2026-09-08T16:47",
         "feedId": "axios"
       }
     ]
