@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "Harvard study predicts most suicide attempts a week in advance",
+        "link": "https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance",
+        "pubDate": "2026-09-09T02:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI Responsibility – OpenAI and Anthropic",
+        "link": "https://twitter.com/hilbertspaess/status/2097476196791709843",
+        "pubDate": "2026-09-09T01:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "27.5KB language-agnostic WebGPU syntax highlighter",
+        "link": "https://gpu-lexer.vercel.app/",
+        "pubDate": "2026-09-09T01:14",
+        "feedId": "hn"
+      },
+      {
         "title": "A Topological Picture Book, Rendered",
         "link": "https://e-infinity.space/picture-book/",
         "pubDate": "2026-09-08T22:28",
@@ -45,15 +63,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Muse: Meta's personal AI agent, features and capabilities",
+        "title": "Muse – Meta’s personal AI agent",
         "link": "https://ai.meta.com/muse/",
         "pubDate": "2026-09-08T19:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "Function Arguments Are Not Function Colors",
-        "link": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
-        "pubDate": "2026-09-08T19:04",
         "feedId": "hn"
       },
       {
@@ -69,27 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Connecting the machines",
-        "link": "https://herdr.dev/blog/connecting-the-machines/",
-        "pubDate": "2026-09-08T16:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "C*: Unifying Programming and Verification in C (2025)",
-        "link": "https://arxiv.org/abs/2504.02246",
-        "pubDate": "2026-09-08T15:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "Google DeepMind Releases AlphaGenome Atlas",
+        "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
         "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
         "pubDate": "2026-09-08T14:55",
         "feedId": "hn"
       },
       {
-        "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
-        "link": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/",
-        "pubDate": "2026-09-08T14:54",
+        "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+        "link": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+        "pubDate": "2026-09-08T14:49",
         "feedId": "hn"
       }
     ]
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I changed my license to EUPL",
-        "link": "https://bergie.iki.fi/blog/eupl/",
-        "pubDate": "2026-09-08T04:17",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What makes $BigTechCompany's products bad, anyway?",
         "link": "https://herecomesthemoon.net/2026/09/why-is-big-tech-bad/",
         "pubDate": "2026-09-08T21:05",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I changed my license to EUPL",
+        "link": "https://bergie.iki.fi/blog/eupl/",
+        "pubDate": "2026-09-08T04:17",
         "feedId": "lobsters"
       },
       {
@@ -146,33 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Bitap: my favorite string matching algorithm",
-        "link": "https://jo3-l.dev/posts/bitap/",
-        "pubDate": "2026-09-08T06:37",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Rust: When Empty Isn't Bottom",
         "link": "https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html",
         "pubDate": "2026-09-08T21:23",
         "feedId": "lobsters"
       },
       {
-        "title": "This Month in Ladybird - August 2026",
-        "link": "https://ladybird.org/newsletter/2026-08-31/",
-        "pubDate": "2026-09-08T05:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Finite-time blowup with smooth forcing for 3D incompressible Euler, Boussinesq, and IPM",
-        "link": "https://mastodon.social/@tristanbuckmaster/117233413705701198",
-        "pubDate": "2026-09-08T07:43",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "My Nix Config Is Intimate",
-        "link": "https://www.scd31.com/posts/nix-files-are-intimate",
-        "pubDate": "2026-09-08T03:27",
+        "title": "Bitap: my favorite string matching algorithm",
+        "link": "https://jo3-l.dev/posts/bitap/",
+        "pubDate": "2026-09-08T06:37",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A faster way to convert a timestamp to Hour, Min, Sec",
-        "link": "https://www.benjoffe.com/fast-time-of-day",
-        "pubDate": "2026-09-07T10:27",
+        "title": "Finite-time blowup with smooth forcing for 3D incompressible Euler, Boussinesq, and IPM",
+        "link": "https://mastodon.social/@tristanbuckmaster/117233413705701198",
+        "pubDate": "2026-09-08T07:43",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "This Month in Ladybird - August 2026",
+        "link": "https://ladybird.org/newsletter/2026-08-31/",
+        "pubDate": "2026-09-08T05:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "My Nix Config Is Intimate",
+        "link": "https://www.scd31.com/posts/nix-files-are-intimate",
+        "pubDate": "2026-09-08T03:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Reverse engineering my e-scooter and rewriting the firmware in rust",
+        "link": "https://bensimms.moe/reverse-engineering-scooter/",
+        "pubDate": "2026-09-08T21:03",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,36 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "LG TV shown scanning LAN for third-party phones and other devices",
+        "link": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
+        "pubDate": "2026-09-08T21:52",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "GOG brings back \"big box\" PC games, one printable template at a time",
+        "link": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
+        "pubDate": "2026-09-08T21:23",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Why this month's Microsoft patch release is a doozy",
+        "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+        "pubDate": "2026-09-08T21:11",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "The universal language of space is... Star Trek? Mais oui.",
+        "link": "https://arstechnica.com/space/2026/09/astronaut-on-iss-celebrates-60-years-of-star-trek-with-prop-badge/",
+        "pubDate": "2026-09-08T20:20",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "NIH to use part of its budget to pay for Department of Defense research",
+        "link": "https://arstechnica.com/science/2026/09/nih-to-use-part-of-its-budget-to-pay-for-department-of-defense-research/",
+        "pubDate": "2026-09-08T20:06",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Supreme Court forces TV stations to sell more election ads at steep discounts",
         "link": "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
@@ -251,42 +281,18 @@
         "link": "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/",
         "pubDate": "2026-09-08T13:56",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "With another huge infusion of cash, Stoke Space goes even bigger",
-        "link": "https://arstechnica.com/space/2026/09/stoke-space-sets-debut-launch-target-reveals-plans-for-larger-rocket/",
-        "pubDate": "2026-09-08T12:29",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "The complex corporate web behind a $3.2 billion AI data center",
-        "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-        "pubDate": "2026-09-07T11:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
-        "link": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
-        "pubDate": "2026-09-06T11:55",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
-        "link": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
-        "pubDate": "2026-09-06T10:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
-        "link": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
-        "pubDate": "2026-09-05T15:17",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Trump didn't oppose UK sanctions on Israeli settlements",
+        "link": "https://www.axios.com/2026/09/09/trump-burnham-uk-sanctions-israel-settlements-west-bank",
+        "pubDate": "2026-09-09T01:18",
+        "feedId": "axios"
+      },
       {
         "title": "Trump bans some Canadian imports as North America trade war intensifies",
         "link": "https://www.axios.com/2026/09/08/trump-tariffs-canada-import-ban-alcohol-dairy-motorcycles",
@@ -369,12 +375,6 @@
         "title": "How extreme heat is rewriting the job of state government",
         "link": "https://www.axios.com/2026/09/08/extreme-heat-state-government-policy",
         "pubDate": "2026-09-08T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive poll: GOP's gains among Latinos fade in House battlegrounds",
-        "link": "https://www.axios.com/2026/09/08/poll-latino-voters-trump-gains-fade",
-        "pubDate": "2026-09-08T09:05",
         "feedId": "axios"
       }
     ]
