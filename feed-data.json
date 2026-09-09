@@ -3,93 +3,93 @@
     "id": "hn",
     "items": [
       {
-        "title": "Harvard study predicts most suicide attempts a week in advance",
-        "link": "https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance",
-        "pubDate": "2026-09-09T02:07",
+        "title": "Teen reading slumps to worst this century due to surge in screen time",
+        "link": "https://finance.yahoo.com/news/teen-reading-slumps-worst-century-111013754.html",
+        "pubDate": "2026-09-09T12:29",
         "feedId": "hn"
       },
       {
-        "title": "AI Responsibility – OpenAI and Anthropic",
-        "link": "https://twitter.com/hilbertspaess/status/2097476196791709843",
-        "pubDate": "2026-09-09T01:32",
+        "title": "Roame (YC S23) Is Hiring Viral Content Editor",
+        "link": "https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor",
+        "pubDate": "2026-09-09T12:01",
         "feedId": "hn"
       },
       {
-        "title": "27.5KB language-agnostic WebGPU syntax highlighter",
-        "link": "https://gpu-lexer.vercel.app/",
-        "pubDate": "2026-09-09T01:14",
+        "title": "I advertise malicious software on Google Ads",
+        "link": "https://xlii.space/eng/malicious-software-on-google-ads/",
+        "pubDate": "2026-09-09T11:43",
         "feedId": "hn"
       },
       {
-        "title": "A Topological Picture Book, Rendered",
-        "link": "https://e-infinity.space/picture-book/",
-        "pubDate": "2026-09-08T22:28",
+        "title": "Desert Ant Labs: local, fast models that run on device",
+        "link": "https://desertant.com/blog/introducing-desert-ant-labs/",
+        "pubDate": "2026-09-09T11:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+        "link": "https://news.ycombinator.com/item?id=49624603",
+        "pubDate": "2026-09-09T11:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "Flock Wants a Closely Surveilled World with No Exit",
+        "link": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit",
+        "pubDate": "2026-09-09T10:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "How An AI math breakthrough ignited a controversy",
+        "link": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+        "pubDate": "2026-09-09T10:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "Building a Wall Lamp from Scratch",
+        "link": "https://mbugert.de/posts/2026-09-09-bedroom-lamp-build/",
+        "pubDate": "2026-09-09T10:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Lotus Notes and the dangers of starting from scratch",
+        "link": "https://buttondown.com/blog/lotus-notes-email",
+        "pubDate": "2026-09-09T10:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Claude, change the \"Add to Cart\" button to blue",
+        "link": "https://opusfived.dev/",
+        "pubDate": "2026-09-09T09:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+        "link": "https://openai.com/index/codex-quantum-computing-experiments/",
+        "pubDate": "2026-09-09T07:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "On Really Trying (2009)",
+        "link": "https://gwern.net/on-really-trying",
+        "pubDate": "2026-09-09T06:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "“Tweet” and the bird logo apparently enter the public domain",
+        "link": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
+        "pubDate": "2026-09-09T06:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
+        "link": "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en",
+        "pubDate": "2026-09-09T04:43",
         "feedId": "hn"
       },
       {
         "title": "Large language models develop novel social biases through adaptive exploration",
         "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
         "pubDate": "2026-09-08T21:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "How to build a printer",
-        "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-        "pubDate": "2026-09-08T21:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tao: Open math problems being non-renewably mined by AI",
-        "link": "https://mathstodon.xyz/@tao/117237320796901560",
-        "pubDate": "2026-09-08T21:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Mercury 2.5",
-        "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
-        "pubDate": "2026-09-08T20:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "Animation in Bevy: The Big Picture",
-        "link": "https://glocq.com/en/blog/20260827/",
-        "pubDate": "2026-09-08T20:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
-        "link": "https://github.com/argonautlabsai/deltafin",
-        "pubDate": "2026-09-08T20:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "Muse – Meta’s personal AI agent",
-        "link": "https://ai.meta.com/muse/",
-        "pubDate": "2026-09-08T19:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "On the Navier–Stokes Millennium Prize Problem",
-        "link": "https://openai.com/index/navier-stokes-solution/",
-        "pubDate": "2026-09-08T17:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: LLM Attention Visualization",
-        "link": "https://ishamf.dev/p/llm-attention-visualizer/",
-        "pubDate": "2026-09-08T16:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
-        "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-        "pubDate": "2026-09-08T14:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
-        "link": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
-        "pubDate": "2026-09-08T14:49",
         "feedId": "hn"
       }
     ]
@@ -98,15 +98,21 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "How to build a f**king printer",
+        "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+        "pubDate": "2026-09-08T21:39",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Switching Password Managers in 2026",
         "link": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
         "pubDate": "2026-09-08T13:55",
         "feedId": "lobsters"
       },
       {
-        "title": "What makes $BigTechCompany's products bad, anyway?",
-        "link": "https://herecomesthemoon.net/2026/09/why-is-big-tech-bad/",
-        "pubDate": "2026-09-08T21:05",
+        "title": "Reverse engineering my e-scooter and rewriting the firmware in rust",
+        "link": "https://bensimms.moe/reverse-engineering-scooter/",
+        "pubDate": "2026-09-08T21:03",
         "feedId": "lobsters"
       },
       {
@@ -116,9 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How to build a f**king printer",
-        "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-        "pubDate": "2026-09-08T21:39",
+        "title": "Rust: When Empty Isn't Bottom",
+        "link": "https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html",
+        "pubDate": "2026-09-08T21:23",
         "feedId": "lobsters"
       },
       {
@@ -128,9 +134,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Solaris Turnstiles",
+        "link": "https://rdmsr.github.io/writing/turnstiles/",
+        "pubDate": "2026-09-09T08:14",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Extreme Server Side Rendering",
         "link": "https://www.scd31.com/posts/extreme-server-side-rendering",
         "pubDate": "2026-09-08T10:54",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The State of Allocators in 2026 - 6 Months Later",
+        "link": "https://cetra3.github.io/blog/state-of-allocators-2026-part-2/",
+        "pubDate": "2026-09-09T06:43",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +164,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Rust: When Empty Isn't Bottom",
-        "link": "https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html",
-        "pubDate": "2026-09-08T21:23",
+        "title": "Why Function Arguments Are Not Function Colors",
+        "link": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
+        "pubDate": "2026-09-09T04:13",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "software for humans",
+        "link": "https://clankerfree.org",
+        "pubDate": "2026-09-09T01:56",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A decade of rustls",
+        "link": "https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/",
+        "pubDate": "2026-09-09T11:13",
         "feedId": "lobsters"
       },
       {
@@ -156,42 +186,18 @@
         "link": "https://jo3-l.dev/posts/bitap/",
         "pubDate": "2026-09-08T06:37",
         "feedId": "lobsters"
-      },
-      {
-        "title": "CERN's migration path from CentOS Linux to Debian",
-        "link": "https://lwn.net/SubscriberLink/1092512/0772b817c369632b/",
-        "pubDate": "2026-09-08T13:07",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Finite-time blowup with smooth forcing for 3D incompressible Euler, Boussinesq, and IPM",
-        "link": "https://mastodon.social/@tristanbuckmaster/117233413705701198",
-        "pubDate": "2026-09-08T07:43",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "This Month in Ladybird - August 2026",
-        "link": "https://ladybird.org/newsletter/2026-08-31/",
-        "pubDate": "2026-09-08T05:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "My Nix Config Is Intimate",
-        "link": "https://www.scd31.com/posts/nix-files-are-intimate",
-        "pubDate": "2026-09-08T03:27",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Reverse engineering my e-scooter and rewriting the firmware in rust",
-        "link": "https://bensimms.moe/reverse-engineering-scooter/",
-        "pubDate": "2026-09-08T21:03",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+        "link": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+        "pubDate": "2026-09-09T11:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "LG TV shown scanning LAN for third-party phones and other devices",
         "link": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
@@ -275,18 +281,48 @@
         "link": "https://arstechnica.com/gaming/2026/09/the-official-sequel-to-the-ur-quan-masters-releases-its-free-demo-today/",
         "pubDate": "2026-09-08T16:05",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "EV batteries last longer than drivers feared",
-        "link": "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/",
-        "pubDate": "2026-09-08T13:56",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Anthropic insiders warn AI could kill all humans",
+        "link": "https://www.axios.com/2026/09/09/anthropic-insiders-warn-ai-could-kill-all-humans",
+        "pubDate": "2026-09-09T10:04",
+        "feedId": "axios"
+      },
+      {
+        "title": "GOP officials give up on futile Trump persuasion",
+        "link": "https://www.axios.com/2026/09/09/trump-midterms-republicans-popularity",
+        "pubDate": "2026-09-09T09:55",
+        "feedId": "axios"
+      },
+      {
+        "title": "Medicare drug coverage faces an ominous spending outlook",
+        "link": "https://www.axios.com/2026/09/09/medicare-drug-coverage-spending-increases",
+        "pubDate": "2026-09-09T09:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "Secretive Vance-aligned donor network draws GOP power players in Dallas",
+        "link": "https://www.axios.com/2026/09/09/vance-fundraising-network-rockbridge-gop",
+        "pubDate": "2026-09-09T09:23",
+        "feedId": "axios"
+      },
+      {
+        "title": "Labs are begging for someone to slow the AI race",
+        "link": "https://www.axios.com/2026/09/09/openai-artificial-general-intelligence-safety",
+        "pubDate": "2026-09-09T09:10",
+        "feedId": "axios"
+      },
+      {
+        "title": "Musk's PAC goes big on trans attack ads",
+        "link": "https://www.axios.com/2026/09/09/musk-pac-trans-senate-ads",
+        "pubDate": "2026-09-09T09:00",
+        "feedId": "axios"
+      },
       {
         "title": "Trump didn't oppose UK sanctions on Israeli settlements",
         "link": "https://www.axios.com/2026/09/09/trump-burnham-uk-sanctions-israel-settlements-west-bank",
@@ -339,42 +375,6 @@
         "title": "Trump's next trade weapon",
         "link": "https://www.axios.com/2026/09/08/trumps-next-trade-weapon",
         "pubDate": "2026-09-08T16:37",
-        "feedId": "axios"
-      },
-      {
-        "title": "OpenAI's historic math solution overshadowed by credit controversy",
-        "link": "https://www.axios.com/2026/09/08/openai-math-solution-navier-stokes-credit",
-        "pubDate": "2026-09-08T16:32",
-        "feedId": "axios"
-      },
-      {
-        "title": "NYC unveils records suggesting officials knew air was unsafe after 9/11",
-        "link": "https://www.axios.com/2026/09/08/nyc-records-911-air-safety-mamdani",
-        "pubDate": "2026-09-08T14:47",
-        "feedId": "axios"
-      },
-      {
-        "title": "The body image battle is real in 2026, but the bodies may not be",
-        "link": "https://www.axios.com/2026/09/08/ai-fitness-influencers-body-ideals",
-        "pubDate": "2026-09-08T11:22",
-        "feedId": "axios"
-      },
-      {
-        "title": "Sports' grip on America sparks summer of political warfare",
-        "link": "https://www.axios.com/2026/09/08/sports-culture-war-wnba-mlb-golf",
-        "pubDate": "2026-09-08T09:35",
-        "feedId": "axios"
-      },
-      {
-        "title": "2026 candidates target health care \"corruption\"",
-        "link": "https://www.axios.com/2026/09/08/2026-candidates-health-care-corruption",
-        "pubDate": "2026-09-08T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "How extreme heat is rewriting the job of state government",
-        "link": "https://www.axios.com/2026/09/08/extreme-heat-state-government-policy",
-        "pubDate": "2026-09-08T09:15",
         "feedId": "axios"
       }
     ]
