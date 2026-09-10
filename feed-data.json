@@ -3,27 +3,27 @@
     "id": "hn",
     "items": [
       {
-        "title": "South Park creators rename show 'South America'",
-        "link": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o",
-        "pubDate": "2026-09-09T21:53",
+        "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+        "link": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+        "pubDate": "2026-09-09T23:57",
         "feedId": "hn"
       },
       {
-        "title": "Matt Mullenweg put on 'leave of absence'",
-        "link": "https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/",
-        "pubDate": "2026-09-09T21:28",
+        "title": "Blizzard Workers Win Historic Union Contract",
+        "link": "https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers",
+        "pubDate": "2026-09-09T22:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "Factoring RSA 260",
+        "link": "https://cognition.com/blog/factoring-rsa-260",
+        "pubDate": "2026-09-09T20:16",
         "feedId": "hn"
       },
       {
         "title": "iPhone Duo",
         "link": "https://www.apple.com/iphone-duo/",
         "pubDate": "2026-09-09T18:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
-        "link": "https://github.com/OtoDock/oto-dock",
-        "pubDate": "2026-09-09T17:57",
         "feedId": "hn"
       },
       {
@@ -128,9 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Solaris Turnstiles",
-        "link": "https://rdmsr.github.io/writing/turnstiles/",
-        "pubDate": "2026-09-09T08:14",
+        "title": "A Design Space Exploration of Async/Await",
+        "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+        "pubDate": "2026-09-09T15:22",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +140,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A Design Space Exploration of Async/Await",
-        "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-        "pubDate": "2026-09-09T15:22",
+        "title": "Solaris Turnstiles",
+        "link": "https://rdmsr.github.io/writing/turnstiles/",
+        "pubDate": "2026-09-09T08:14",
         "feedId": "lobsters"
       },
       {
         "title": "Better AI code comment detector",
         "link": "https://entropicthoughts.com/better-ai-comment-classifier",
         "pubDate": "2026-09-09T18:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
+        "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+        "pubDate": "2026-09-09T13:21",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Review a pull request by booting it",
+        "link": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
+        "pubDate": "2026-09-10T00:32",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
-        "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-        "pubDate": "2026-09-09T13:21",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Why Emacs Consult async searches feel slow and how to speed them up",
         "link": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
         "pubDate": "2026-09-09T13:09",
         "feedId": "lobsters"
       },
       {
-        "title": "Rust: When Empty Isn't Bottom",
-        "link": "https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html",
-        "pubDate": "2026-09-08T21:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The State of Allocators in 2026 - 6 Months Later",
-        "link": "https://cetra3.github.io/blog/state-of-allocators-2026-part-2/",
-        "pubDate": "2026-09-09T06:43",
+        "title": "Email, decoupled from where and how: A cross-runtime, cross-provider email library for JS & TS",
+        "link": "https://hackers.pub/@hongminhee/2026/upyo-email-decoupled-from-where-and-how",
+        "pubDate": "2026-09-09T16:02",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "4 groups caught using the same Chrome and Windows exploit kit",
+        "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+        "pubDate": "2026-09-09T20:55",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Europe may finally have found a space entrepreneur who is meeting the moment",
+        "link": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/",
+        "pubDate": "2026-09-09T20:27",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
         "link": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
@@ -269,24 +281,24 @@
         "link": "https://arstechnica.com/science/2026/09/noaa-is-putting-commercial-fishing-ahead-of-conservation/",
         "pubDate": "2026-09-09T13:58",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
-        "link": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
-        "pubDate": "2026-09-09T11:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "LG TV shown scanning LAN for third-party phones and other devices",
-        "link": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
-        "pubDate": "2026-09-08T21:52",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Exclusive: Trump plans to send $500 Obamacare rebates before election",
+        "link": "https://www.axios.com/2026/09/09/trump-obamacare-rebates-election",
+        "pubDate": "2026-09-09T23:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: Anthropic whistleblower gave up his equity to leave the company",
+        "link": "https://www.axios.com/2026/09/09/anthropic-researcher-ai-warning-interview",
+        "pubDate": "2026-09-09T23:14",
+        "feedId": "axios"
+      },
       {
         "title": "Exclusive: Fetterman to praise Trump in bombshell GOP convention video",
         "link": "https://www.axios.com/2026/09/09/fetterman-video-gop-convention-trump",
@@ -363,18 +375,6 @@
         "title": "Musk's PAC goes big on trans attack ads",
         "link": "https://www.axios.com/2026/09/09/musk-pac-trans-senate-ads",
         "pubDate": "2026-09-09T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump didn't oppose UK sanctions on Israeli settlements",
-        "link": "https://www.axios.com/2026/09/09/trump-burnham-uk-sanctions-israel-settlements-west-bank",
-        "pubDate": "2026-09-09T01:18",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump bans some Canadian imports as North America trade war intensifies",
-        "link": "https://www.axios.com/2026/09/08/trump-tariffs-canada-import-ban-alcohol-dairy-motorcycles",
-        "pubDate": "2026-09-08T23:42",
         "feedId": "axios"
       }
     ]
