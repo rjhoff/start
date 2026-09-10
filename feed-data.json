@@ -3,15 +3,33 @@
     "id": "hn",
     "items": [
       {
-        "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
-        "link": "https://hugovergnes.github.io/little-lm-3-8b/",
-        "pubDate": "2026-09-10T02:04",
+        "title": "What algorithm did Windows XP use to choose your initial user picture?",
+        "link": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+        "pubDate": "2026-09-10T09:04",
         "feedId": "hn"
       },
       {
-        "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-        "link": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
-        "pubDate": "2026-09-10T01:59",
+        "title": "I think I hate the internet",
+        "link": "https://strategictree.bearblog.dev/i-think-i-hate-the-internet/",
+        "pubDate": "2026-09-10T06:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "DeepSeek v4.1 Flash",
+        "link": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+        "pubDate": "2026-09-10T06:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "All grown-ups were once children, but only few of them remember it",
+        "link": "https://mathstodon.xyz/@tao/117244102901892965",
+        "pubDate": "2026-09-10T04:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Training a 3.8B LLM to 0.384 CORE for $998",
+        "link": "https://hugovergnes.github.io/little-lm-3-8b/",
+        "pubDate": "2026-09-10T02:04",
         "feedId": "hn"
       },
       {
@@ -24,12 +42,6 @@
         "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
         "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
         "pubDate": "2026-09-09T23:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "Blizzard Workers Win Historic Union Contract",
-        "link": "https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers",
-        "pubDate": "2026-09-09T22:22",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://www.not-ship.com/united-nations-map/",
         "pubDate": "2026-09-09T16:33",
         "feedId": "hn"
-      },
-      {
-        "title": "Understanding the recent DDoS attack against Read the Docs",
-        "link": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
-        "pubDate": "2026-09-09T15:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "GNU Radio in the browser",
-        "link": "https://gnuradioworld.com/",
-        "pubDate": "2026-09-09T15:53",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,21 +104,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Review a pull request by booting it",
+        "link": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
+        "pubDate": "2026-09-10T00:32",
+        "feedId": "lobsters"
+      },
+      {
         "title": "I Don’t Want to Interact With Stochastic Parrots",
         "link": "https://ploum.net/2026-09-09-ai_policy.html",
         "pubDate": "2026-09-09T17:18",
         "feedId": "lobsters"
       },
       {
-        "title": "ID design and primary keys",
-        "link": "https://anchorsandlinks.com/posts/primary-keys/",
-        "pubDate": "2026-09-09T18:31",
-        "feedId": "lobsters"
-      },
-      {
         "title": "A Design Space Exploration of Async/Await",
         "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
         "pubDate": "2026-09-09T15:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "ID design and primary keys",
+        "link": "https://anchorsandlinks.com/posts/primary-keys/",
+        "pubDate": "2026-09-09T18:31",
         "feedId": "lobsters"
       },
       {
@@ -140,6 +146,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "SystemIO conflicts are not firmware bugs",
+        "link": "https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/",
+        "pubDate": "2026-09-10T00:48",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Better AI code comment detector",
         "link": "https://entropicthoughts.com/better-ai-comment-classifier",
         "pubDate": "2026-09-09T18:27",
@@ -158,33 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why Emacs Consult async searches feel slow and how to speed them up",
-        "link": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
-        "pubDate": "2026-09-09T13:09",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Analysing 2048 on a 3×3 board",
         "link": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/",
         "pubDate": "2026-09-09T13:24",
         "feedId": "lobsters"
       },
       {
-        "title": "Reverse engineering my e-scooter and rewriting the firmware in rust",
-        "link": "https://bensimms.moe/reverse-engineering-scooter/",
-        "pubDate": "2026-09-08T21:03",
+        "title": "Absolutely Everything You Always Wanted to Know About Watermarks in Apache Flink",
+        "link": "https://developer.confluent.io/blog/all-about-flink-watermarks-1/",
+        "pubDate": "2026-09-10T08:15",
         "feedId": "lobsters"
       },
       {
-        "title": "Switching Password Managers in 2026",
-        "link": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
-        "pubDate": "2026-09-08T13:55",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Review a pull request by booting it",
-        "link": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
-        "pubDate": "2026-09-10T00:32",
+        "title": "Why Emacs Consult async searches feel slow and how to speed them up",
+        "link": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
+        "pubDate": "2026-09-09T13:09",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,36 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump makes a familiar promise: $5,000 checks for everyone",
+        "link": "https://www.axios.com/2026/09/10/trump-dividend-check-5000",
+        "pubDate": "2026-09-10T10:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "We're living in an AI twilight zone",
+        "link": "https://www.axios.com/2026/09/10/ai-anthropic-warning-humanity",
+        "pubDate": "2026-09-10T09:44",
+        "feedId": "axios"
+      },
+      {
+        "title": "Elon Musk's X is the AI community group chat",
+        "link": "https://www.axios.com/2026/09/10/elon-musk-x-ai-community-group-chat",
+        "pubDate": "2026-09-10T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "GOP uses 9/11 anniversary to bash left-wing Dems",
+        "link": "https://www.axios.com/2026/09/10/gop-sept11-midterms-democrats",
+        "pubDate": "2026-09-10T09:10",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: OpenAI faces GOP-led Senate investigation into Hugging Face breach",
+        "link": "https://www.axios.com/2026/09/10/openai-hugging-face-senate-investigation-hawley",
+        "pubDate": "2026-09-10T09:00",
+        "feedId": "axios"
+      },
+      {
         "title": "Exclusive: Trump plans to send $500 Obamacare rebates before election",
         "link": "https://www.axios.com/2026/09/09/trump-obamacare-rebates-election",
         "pubDate": "2026-09-09T23:30",
@@ -345,36 +375,6 @@
         "title": "Anthropic insiders warn AI could kill all humans",
         "link": "https://www.axios.com/2026/09/09/anthropic-insiders-warn-ai-could-kill-all-humans",
         "pubDate": "2026-09-09T10:04",
-        "feedId": "axios"
-      },
-      {
-        "title": "GOP officials give up on futile Trump persuasion",
-        "link": "https://www.axios.com/2026/09/09/trump-midterms-republicans-popularity",
-        "pubDate": "2026-09-09T09:55",
-        "feedId": "axios"
-      },
-      {
-        "title": "Medicare drug coverage faces an ominous spending outlook",
-        "link": "https://www.axios.com/2026/09/09/medicare-drug-coverage-spending-increases",
-        "pubDate": "2026-09-09T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Secretive Vance-aligned donor network draws GOP power players in Dallas",
-        "link": "https://www.axios.com/2026/09/09/vance-fundraising-network-rockbridge-gop",
-        "pubDate": "2026-09-09T09:23",
-        "feedId": "axios"
-      },
-      {
-        "title": "Labs are begging for someone to slow the AI race",
-        "link": "https://www.axios.com/2026/09/09/openai-artificial-general-intelligence-safety",
-        "pubDate": "2026-09-09T09:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "Musk's PAC goes big on trans attack ads",
-        "link": "https://www.axios.com/2026/09/09/musk-pac-trans-senate-ads",
-        "pubDate": "2026-09-09T09:00",
         "feedId": "axios"
       }
     ]
