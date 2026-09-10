@@ -3,15 +3,75 @@
     "id": "hn",
     "items": [
       {
-        "title": "What algorithm did Windows XP use to choose your initial user picture?",
-        "link": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
-        "pubDate": "2026-09-10T09:04",
+        "title": "Amazon pilots ad services in ChatGPT",
+        "link": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/",
+        "pubDate": "2026-09-10T14:13",
         "feedId": "hn"
       },
       {
-        "title": "I think I hate the internet",
-        "link": "https://strategictree.bearblog.dev/i-think-i-hate-the-internet/",
-        "pubDate": "2026-09-10T06:12",
+        "title": "Show HN: I couldn't afford interview prep, so I built a free alternative",
+        "link": "https://learningto.co/",
+        "pubDate": "2026-09-10T14:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "Shopify moves back to Native from React Native",
+        "link": "https://shopify.engineering/back-to-native",
+        "pubDate": "2026-09-10T14:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Bending Spoons buying Miro for $1.355B",
+        "link": "https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-miro",
+        "pubDate": "2026-09-10T14:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+        "link": "https://news.ycombinator.com/item?id=49643556",
+        "pubDate": "2026-09-10T13:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Rust Is Tier-1 Language at Microsoft",
+        "link": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+        "pubDate": "2026-09-10T13:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
+        "link": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
+        "pubDate": "2026-09-10T13:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "Who People Talk to When They're Struggling",
+        "link": "https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling",
+        "pubDate": "2026-09-10T13:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "List of references on Sony websites to players \"owning\" their digital games",
+        "link": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
+        "pubDate": "2026-09-10T12:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Thanks to Siri Recaps, your Apple Watch is always listening",
+        "link": "https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash",
+        "pubDate": "2026-09-10T10:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: The same nine streaming subscriptions cost $702/year more than in 2021",
+        "link": "https://honestlyranked.com/guides/streaming-price-increases/",
+        "pubDate": "2026-09-10T10:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "What algorithm did Windows XP use to choose your initial user picture?",
+        "link": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+        "pubDate": "2026-09-10T09:04",
         "feedId": "hn"
       },
       {
@@ -21,75 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "All grown-ups were once children, but only few of them remember it",
-        "link": "https://mathstodon.xyz/@tao/117244102901892965",
-        "pubDate": "2026-09-10T04:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "Training a 3.8B LLM to 0.384 CORE for $998",
-        "link": "https://hugovergnes.github.io/little-lm-3-8b/",
-        "pubDate": "2026-09-10T02:04",
-        "feedId": "hn"
-      },
-      {
         "title": "Show HN: What if the speed of light was 5 km/h?",
         "link": "https://rivendell.dmitrybrant.com/relativity/",
         "pubDate": "2026-09-10T01:58",
         "feedId": "hn"
       },
       {
-        "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
-        "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-        "pubDate": "2026-09-09T23:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "Factoring RSA 260",
-        "link": "https://cognition.com/blog/factoring-rsa-260",
-        "pubDate": "2026-09-09T20:16",
-        "feedId": "hn"
-      },
-      {
         "title": "iPhone Duo",
         "link": "https://www.apple.com/iphone-duo/",
         "pubDate": "2026-09-09T18:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "Apple Watch Series 12",
-        "link": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-        "pubDate": "2026-09-09T17:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "AirPods 5",
-        "link": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-        "pubDate": "2026-09-09T17:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "iPhone 18 Pro and iPhone 18 Pro Max",
-        "link": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-        "pubDate": "2026-09-09T17:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-        "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-        "pubDate": "2026-09-09T17:24",
-        "feedId": "hn"
-      },
-      {
-        "title": "Growing proof that autonomous cars save lives",
-        "link": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-        "pubDate": "2026-09-09T17:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "The UN challenges five centuries of cartography",
-        "link": "https://www.not-ship.com/united-nations-map/",
-        "pubDate": "2026-09-09T16:33",
         "feedId": "hn"
       }
     ]
@@ -98,15 +98,33 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "Review a pull request by booting it",
+        "link": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
+        "pubDate": "2026-09-10T00:32",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "It Breaks a Village: Bevy's 6th Birthday",
+        "link": "https://blog.fallible.net/it-breaks-a-village/",
+        "pubDate": "2026-09-10T10:38",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Apple Event for September 9th, 2026",
         "link": "https://www.apple.com/apple-events/event-stream/",
         "pubDate": "2026-09-09T16:54",
         "feedId": "lobsters"
       },
       {
-        "title": "Review a pull request by booting it",
-        "link": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
-        "pubDate": "2026-09-10T00:32",
+        "title": "Rust Is Tier-1 Language at Microsoft",
+        "link": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+        "pubDate": "2026-09-10T13:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Announcing the first Guix-Science release",
+        "link": "https://hpc.guix.info/blog/2026/09/guix-science-first-release/",
+        "pubDate": "2026-09-10T11:45",
         "feedId": "lobsters"
       },
       {
@@ -116,27 +134,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A Design Space Exploration of Async/Await",
-        "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-        "pubDate": "2026-09-09T15:22",
-        "feedId": "lobsters"
-      },
-      {
         "title": "ID design and primary keys",
         "link": "https://anchorsandlinks.com/posts/primary-keys/",
         "pubDate": "2026-09-09T18:31",
         "feedId": "lobsters"
       },
       {
-        "title": "A decade of rustls",
-        "link": "https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/",
-        "pubDate": "2026-09-09T11:13",
+        "title": "A Design Space Exploration of Async/Await",
+        "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+        "pubDate": "2026-09-09T15:22",
         "feedId": "lobsters"
       },
       {
-        "title": "How to build a f**king printer",
-        "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-        "pubDate": "2026-09-08T21:39",
+        "title": "Decoding the NEC V20 Microcode",
+        "link": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+        "pubDate": "2026-09-10T10:44",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +158,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "A decade of rustls",
+        "link": "https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/",
+        "pubDate": "2026-09-09T11:13",
+        "feedId": "lobsters"
+      },
+      {
         "title": "SystemIO conflicts are not firmware bugs",
         "link": "https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/",
         "pubDate": "2026-09-10T00:48",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How to build a f**king printer",
+        "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+        "pubDate": "2026-09-08T21:39",
         "feedId": "lobsters"
       },
       {
@@ -162,30 +186,6 @@
         "link": "https://rdmsr.github.io/writing/turnstiles/",
         "pubDate": "2026-09-09T08:14",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
-        "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-        "pubDate": "2026-09-09T13:21",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Analysing 2048 on a 3×3 board",
-        "link": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/",
-        "pubDate": "2026-09-09T13:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Absolutely Everything You Always Wanted to Know About Watermarks in Apache Flink",
-        "link": "https://developer.confluent.io/blog/all-about-flink-watermarks-1/",
-        "pubDate": "2026-09-10T08:15",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why Emacs Consult async searches feel slow and how to speed them up",
-        "link": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
-        "pubDate": "2026-09-09T13:09",
-        "feedId": "lobsters"
       }
     ]
   },
@@ -193,7 +193,13 @@
     "id": "arstechnica",
     "items": [
       {
-        "title": "4 groups caught using the same Chrome and Windows exploit kit",
+        "title": "Artemis II commander and pilot become NASA's first astronaut emeriti",
+        "link": "https://arstechnica.com/space/2026/09/artemis-ii-commander-and-pilot-become-nasas-first-astronaut-emeriti/",
+        "pubDate": "2026-09-10T11:30",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Four groups caught using the same Chrome and Windows exploit kit",
         "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
         "pubDate": "2026-09-09T20:55",
         "feedId": "arstechnica"
@@ -275,12 +281,6 @@
         "link": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
         "pubDate": "2026-09-09T16:34",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "NOAA is putting commercial fishing ahead of conservation",
-        "link": "https://arstechnica.com/science/2026/09/noaa-is-putting-commercial-fishing-ahead-of-conservation/",
-        "pubDate": "2026-09-09T13:58",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -290,7 +290,7 @@
       {
         "title": "Trump makes a familiar promise: $5,000 checks for everyone",
         "link": "https://www.axios.com/2026/09/10/trump-dividend-check-5000",
-        "pubDate": "2026-09-10T10:20",
+        "pubDate": "2026-09-10T10:42",
         "feedId": "axios"
       },
       {
