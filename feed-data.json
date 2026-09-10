@@ -3,9 +3,27 @@
     "id": "hn",
     "items": [
       {
-        "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
-        "link": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
-        "pubDate": "2026-09-09T23:57",
+        "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
+        "link": "https://hugovergnes.github.io/little-lm-3-8b/",
+        "pubDate": "2026-09-10T02:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
+        "link": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
+        "pubDate": "2026-09-10T01:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: What if the speed of light was 5 km/h?",
+        "link": "https://rivendell.dmitrybrant.com/relativity/",
+        "pubDate": "2026-09-10T01:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
+        "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+        "pubDate": "2026-09-09T23:49",
         "feedId": "hn"
       },
       {
@@ -57,15 +75,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-        "link": "https://arxiv.org/abs/2609.09153",
-        "pubDate": "2026-09-09T17:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why Emacs Consult async searches feel slow and how to speed them up",
-        "link": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
-        "pubDate": "2026-09-09T17:13",
+        "title": "The UN challenges five centuries of cartography",
+        "link": "https://www.not-ship.com/united-nations-map/",
+        "pubDate": "2026-09-09T16:33",
         "feedId": "hn"
       },
       {
@@ -78,18 +90,6 @@
         "title": "GNU Radio in the browser",
         "link": "https://gnuradioworld.com/",
         "pubDate": "2026-09-09T15:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "No Man's Sky Cosmos",
-        "link": "https://www.nomanssky.com/cosmos-update/",
-        "pubDate": "2026-09-09T15:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "Planet Labs' open satellite feed",
-        "link": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
-        "pubDate": "2026-09-09T15:44",
         "feedId": "hn"
       }
     ]
@@ -110,6 +110,24 @@
         "feedId": "lobsters"
       },
       {
+        "title": "ID design and primary keys",
+        "link": "https://anchorsandlinks.com/posts/primary-keys/",
+        "pubDate": "2026-09-09T18:31",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A Design Space Exploration of Async/Await",
+        "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+        "pubDate": "2026-09-09T15:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A decade of rustls",
+        "link": "https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/",
+        "pubDate": "2026-09-09T11:13",
+        "feedId": "lobsters"
+      },
+      {
         "title": "How to build a f**king printer",
         "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
         "pubDate": "2026-09-08T21:39",
@@ -122,21 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A decade of rustls",
-        "link": "https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/",
-        "pubDate": "2026-09-09T11:13",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A Design Space Exploration of Async/Await",
-        "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-        "pubDate": "2026-09-09T15:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "ID design and primary keys",
-        "link": "https://anchorsandlinks.com/posts/primary-keys/",
-        "pubDate": "2026-09-09T18:31",
+        "title": "Better AI code comment detector",
+        "link": "https://entropicthoughts.com/better-ai-comment-classifier",
+        "pubDate": "2026-09-09T18:27",
         "feedId": "lobsters"
       },
       {
@@ -146,33 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Better AI code comment detector",
-        "link": "https://entropicthoughts.com/better-ai-comment-classifier",
-        "pubDate": "2026-09-09T18:27",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
         "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
         "pubDate": "2026-09-09T13:21",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Review a pull request by booting it",
-        "link": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
-        "pubDate": "2026-09-10T00:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Switching Password Managers in 2026",
-        "link": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
-        "pubDate": "2026-09-08T13:55",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Reverse engineering my e-scooter and rewriting the firmware in rust",
-        "link": "https://bensimms.moe/reverse-engineering-scooter/",
-        "pubDate": "2026-09-08T21:03",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Email, decoupled from where and how: A cross-runtime, cross-provider email library for JS & TS",
-        "link": "https://hackers.pub/@hongminhee/2026/upyo-email-decoupled-from-where-and-how",
-        "pubDate": "2026-09-09T16:02",
+        "title": "Analysing 2048 on a 3×3 board",
+        "link": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/",
+        "pubDate": "2026-09-09T13:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Reverse engineering my e-scooter and rewriting the firmware in rust",
+        "link": "https://bensimms.moe/reverse-engineering-scooter/",
+        "pubDate": "2026-09-08T21:03",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Switching Password Managers in 2026",
+        "link": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
+        "pubDate": "2026-09-08T13:55",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Review a pull request by booting it",
+        "link": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
+        "pubDate": "2026-09-10T00:32",
         "feedId": "lobsters"
       }
     ]
@@ -300,7 +300,7 @@
         "feedId": "axios"
       },
       {
-        "title": "Exclusive: Fetterman to praise Trump in bombshell GOP convention video",
+        "title": "Fetterman praises Trump in bombshell GOP convention video",
         "link": "https://www.axios.com/2026/09/09/fetterman-video-gop-convention-trump",
         "pubDate": "2026-09-09T22:17",
         "feedId": "axios"
