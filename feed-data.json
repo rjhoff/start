@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+        "link": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+        "pubDate": "2026-09-10T21:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "Bodily Oddities",
+        "link": "https://vester.si/bodily-oddities/",
+        "pubDate": "2026-09-10T20:33",
+        "feedId": "hn"
+      },
+      {
         "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
         "link": "https://merybenavente.me/blog/proof-of-capture",
         "pubDate": "2026-09-10T19:44",
@@ -15,7 +27,13 @@
         "feedId": "hn"
       },
       {
-        "title": "Creativity is the New Moat",
+        "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+        "link": "https://auberon.xyz/blog/posts/deathray/",
+        "pubDate": "2026-09-10T19:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "Creativity is the new moat",
         "link": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
         "pubDate": "2026-09-10T19:03",
         "feedId": "hn"
@@ -51,13 +69,13 @@
         "feedId": "hn"
       },
       {
-        "title": "Silicon Valley Is Transforming the Military-Industrial Complex",
+        "title": "Silicon Valley is transforming the military-industrial complex?",
         "link": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
         "pubDate": "2026-09-10T15:47",
         "feedId": "hn"
       },
       {
-        "title": "Neki",
+        "title": "Neki – Sharded Postgres",
         "link": "https://planetscale.com/blog/introducing-neki",
         "pubDate": "2026-09-10T15:43",
         "feedId": "hn"
@@ -69,27 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
-        "link": "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844",
+        "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+        "link": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
         "pubDate": "2026-09-10T15:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "Don't let anyone take away your big box of cables",
-        "link": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-        "pubDate": "2026-09-10T15:27",
-        "feedId": "hn"
-      },
-      {
-        "title": "Shopify moves back to Native from React Native",
-        "link": "https://shopify.engineering/back-to-native",
-        "pubDate": "2026-09-10T14:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "Rust is tier-1 language at Microsoft",
-        "link": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-        "pubDate": "2026-09-10T13:39",
         "feedId": "hn"
       }
     ]
@@ -110,21 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Xteink X4 Pro review",
-        "link": "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/",
-        "pubDate": "2026-09-10T15:05",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution)",
         "link": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
         "pubDate": "2026-09-10T17:40",
         "feedId": "lobsters"
       },
       {
-        "title": "How CHERIoT Provides Strong and Usable Isolation Without an MMU",
-        "link": "https://queue.acm.org/doi/10.1145/3831361",
-        "pubDate": "2026-09-10T14:59",
+        "title": "Xteink X4 Pro review",
+        "link": "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/",
+        "pubDate": "2026-09-10T15:05",
         "feedId": "lobsters"
       },
       {
@@ -140,6 +134,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "How CHERIoT Provides Strong and Usable Isolation Without an MMU",
+        "link": "https://queue.acm.org/doi/10.1145/3831361",
+        "pubDate": "2026-09-10T14:59",
+        "feedId": "lobsters"
+      },
+      {
         "title": "It Breaks a Village: Bevy's 6th Birthday",
         "link": "https://blog.fallible.net/it-breaks-a-village/",
         "pubDate": "2026-09-10T10:38",
@@ -149,12 +149,6 @@
         "title": "Review a pull request by booting it",
         "link": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
         "pubDate": "2026-09-10T00:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Native is now the future of mobile at Shopify (2026)",
-        "link": "https://shopify.engineering/back-to-native",
-        "pubDate": "2026-09-10T15:19",
         "feedId": "lobsters"
       },
       {
@@ -170,15 +164,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Announcing the first Guix-Science release",
-        "link": "https://hpc.guix.info/blog/2026/09/guix-science-first-release/",
-        "pubDate": "2026-09-10T11:45",
-        "feedId": "lobsters"
-      },
-      {
         "title": "My HTML Boilerplate",
         "link": "https://vale.rocks/posts/html-boilerplate",
         "pubDate": "2026-09-10T16:13",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Native is now the future of mobile at Shopify (2026)",
+        "link": "https://shopify.engineering/back-to-native",
+        "pubDate": "2026-09-10T15:19",
         "feedId": "lobsters"
       },
       {
@@ -186,12 +180,24 @@
         "link": "https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/",
         "pubDate": "2026-09-10T15:46",
         "feedId": "lobsters"
+      },
+      {
+        "title": "Announcing the first Guix-Science release",
+        "link": "https://hpc.guix.info/blog/2026/09/guix-science-first-release/",
+        "pubDate": "2026-09-10T11:45",
+        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
+        "link": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
+        "pubDate": "2026-09-10T22:16",
+        "feedId": "arstechnica"
+      },
       {
         "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
         "link": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
@@ -229,7 +235,7 @@
         "feedId": "arstechnica"
       },
       {
-        "title": "Drones deliver food and remove bodies after Nepal’s flood disaster",
+        "title": "China’s drone supremacy shows in airlifting bodies and food after Nepal flood disaster",
         "link": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
         "pubDate": "2026-09-10T16:53",
         "feedId": "arstechnica"
@@ -274,12 +280,6 @@
         "title": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs",
         "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
         "pubDate": "2026-09-09T19:09",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
-        "link": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
-        "pubDate": "2026-09-09T18:58",
         "feedId": "arstechnica"
       }
     ]
