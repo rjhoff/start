@@ -3,9 +3,33 @@
     "id": "hn",
     "items": [
       {
+        "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+        "link": "https://merybenavente.me/blog/proof-of-capture",
+        "pubDate": "2026-09-10T19:44",
+        "feedId": "hn"
+      },
+      {
+        "title": "OpenAI Agents API",
+        "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+        "pubDate": "2026-09-10T19:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Creativity is the New Moat",
+        "link": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+        "pubDate": "2026-09-10T19:03",
+        "feedId": "hn"
+      },
+      {
         "title": "JEP 544: Ahead-of-Time Code Compilation",
         "link": "https://openjdk.org/jeps/544",
         "pubDate": "2026-09-10T17:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "Detecting and countering misuse of AI: September 2026",
+        "link": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+        "pubDate": "2026-09-10T17:23",
         "feedId": "hn"
       },
       {
@@ -15,51 +39,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
-        "link": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
-        "pubDate": "2026-09-10T17:04",
-        "feedId": "hn"
-      },
-      {
         "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
         "link": "https://tokenstead.ai/models/swe-2",
         "pubDate": "2026-09-10T16:52",
         "feedId": "hn"
       },
       {
-        "title": "I have a theory that software drives people insane",
-        "link": "https://graybeard.ing/software-drives-people-insane/",
-        "pubDate": "2026-09-10T16:13",
-        "feedId": "hn"
-      },
-      {
         "title": "Forgejo <=16.0.3 Critical RCE",
         "link": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
         "pubDate": "2026-09-10T15:57",
-        "feedId": "hn"
-      },
-      {
-        "title": "Casablanca: How an unproduced play marched into movie history",
-        "link": "https://www.thecollector.com/casablanca-unproduced-play-movie-history/",
-        "pubDate": "2026-09-10T15:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "Serverless DTLS",
-        "link": "https://proxylity.com/docs/listeners/dtls.html",
-        "pubDate": "2026-09-10T15:50",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: MultiMatte, a Promptable Image Background Removal Model",
-        "link": "https://usefeyn.com/blog/multimatte/",
-        "pubDate": "2026-09-10T15:50",
-        "feedId": "hn"
-      },
-      {
-        "title": "Neki by PlanetScale",
-        "link": "https://neki.dev/",
-        "pubDate": "2026-09-10T15:48",
         "feedId": "hn"
       },
       {
@@ -87,9 +75,21 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Syq – copy files between machines fast (better than rsync)",
-        "link": "https://greaber.github.io/syq/",
-        "pubDate": "2026-09-10T15:01",
+        "title": "Don't let anyone take away your big box of cables",
+        "link": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+        "pubDate": "2026-09-10T15:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "Shopify moves back to Native from React Native",
+        "link": "https://shopify.engineering/back-to-native",
+        "pubDate": "2026-09-10T14:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Rust is tier-1 language at Microsoft",
+        "link": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+        "pubDate": "2026-09-10T13:39",
         "feedId": "hn"
       }
     ]
@@ -110,21 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Review a pull request by booting it",
-        "link": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
-        "pubDate": "2026-09-10T00:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "It Breaks a Village: Bevy's 6th Birthday",
-        "link": "https://blog.fallible.net/it-breaks-a-village/",
-        "pubDate": "2026-09-10T10:38",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Xteink X4 Pro review",
         "link": "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/",
         "pubDate": "2026-09-10T15:05",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution)",
+        "link": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+        "pubDate": "2026-09-10T17:40",
         "feedId": "lobsters"
       },
       {
@@ -134,21 +128,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Apple Event for September 9th, 2026",
-        "link": "https://www.apple.com/apple-events/event-stream/",
-        "pubDate": "2026-09-09T16:54",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What algorithm did Windows XP use to choose your initial user picture?",
         "link": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
         "pubDate": "2026-09-10T15:48",
         "feedId": "lobsters"
       },
       {
-        "title": "Announcing the first Guix-Science release",
-        "link": "https://hpc.guix.info/blog/2026/09/guix-science-first-release/",
-        "pubDate": "2026-09-10T11:45",
+        "title": "It's not the YAML spec's fault, but",
+        "link": "https://slugcat.systems/post/26-09-10-yaml-spec/",
+        "pubDate": "2026-09-10T17:04",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "It Breaks a Village: Bevy's 6th Birthday",
+        "link": "https://blog.fallible.net/it-breaks-a-village/",
+        "pubDate": "2026-09-10T10:38",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Review a pull request by booting it",
+        "link": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
+        "pubDate": "2026-09-10T00:32",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +158,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "What comes after git",
+        "link": "https://ersc.io/blog/what-comes-after-git",
+        "pubDate": "2026-09-10T17:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Gleam Gathering 2027",
+        "link": "https://gleamgathering.com/",
+        "pubDate": "2026-09-10T19:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Announcing the first Guix-Science release",
+        "link": "https://hpc.guix.info/blog/2026/09/guix-science-first-release/",
+        "pubDate": "2026-09-10T11:45",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "My HTML Boilerplate",
+        "link": "https://vale.rocks/posts/html-boilerplate",
+        "pubDate": "2026-09-10T16:13",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The terrible menu bar in the Windows 11 Notepad",
         "link": "https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/",
         "pubDate": "2026-09-10T15:46",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Decoding the NEC V20 Microcode",
-        "link": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
-        "pubDate": "2026-09-10T10:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I Don’t Want to Interact With Stochastic Parrots",
-        "link": "https://ploum.net/2026-09-09-ai_policy.html",
-        "pubDate": "2026-09-09T17:18",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A Design Space Exploration of Async/Await",
-        "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-        "pubDate": "2026-09-09T15:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "ID design and primary keys",
-        "link": "https://anchorsandlinks.com/posts/primary-keys/",
-        "pubDate": "2026-09-09T18:31",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,48 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
+        "link": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
+        "pubDate": "2026-09-10T20:55",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Europe will go it alone on Venus mission after NASA yanks radar instrument",
+        "link": "https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/",
+        "pubDate": "2026-09-10T19:09",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Android can now securely migrate your logins between password managers",
+        "link": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
+        "pubDate": "2026-09-10T18:41",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
+        "link": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+        "pubDate": "2026-09-10T18:14",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Physicist does the math on Star Trek’s “Picard maneuver”",
+        "link": "https://arstechnica.com/science/2026/09/physicist-does-the-math-on-star-treks-picard-maneuver/",
+        "pubDate": "2026-09-10T17:54",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Kimmel's ABC show won't air interview with Democrat because of Trump FCC threats",
+        "link": "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/",
+        "pubDate": "2026-09-10T17:30",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Drones deliver food and remove bodies after Nepal’s flood disaster",
+        "link": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
+        "pubDate": "2026-09-10T16:53",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Artemis II commander and pilot become NASA's first astronaut emeriti",
         "link": "https://arstechnica.com/space/2026/09/artemis-ii-commander-and-pilot-become-nasas-first-astronaut-emeriti/",
@@ -239,54 +281,18 @@
         "link": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
         "pubDate": "2026-09-09T18:58",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
-        "link": "https://arstechnica.com/gadgets/2026/09/apple-watch-series-12-ultra-4-have-wearables-most-accurate-heart-rate-sensing/",
-        "pubDate": "2026-09-09T18:47",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "The quick guide to fall vaccines and when you should get them",
-        "link": "https://arstechnica.com/health/2026/09/what-to-know-about-covid-and-flu-shots-as-rfk-jr-s-chaos-drags-on/",
-        "pubDate": "2026-09-09T18:39",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
-        "link": "https://arstechnica.com/gadgets/2026/09/apples-iphone-18-pro-adds-variable-camera-aperture-and-a-more-powerful-chip/",
-        "pubDate": "2026-09-09T17:38",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Popular navigation apps unlikely to ditch Mercator maps despite UN resolution",
-        "link": "https://arstechnica.com/gadgets/2026/09/un-correct-the-map-resolution-wont-change-mercator-map-use-in-navigation-apps/",
-        "pubDate": "2026-09-09T17:11",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
-        "link": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
-        "pubDate": "2026-09-09T16:59",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Prime Video releases full trailer for Mike Flanagan's Carrie",
-        "link": "https://arstechnica.com/culture/2026/09/prime-video-releases-full-trailer-for-mike-flanagans-carrie/",
-        "pubDate": "2026-09-09T16:40",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Google's AI genome system evaluates every possible one-base change",
-        "link": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
-        "pubDate": "2026-09-09T16:34",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Trump on Iran war regrets: \"You can always question yourself a little bit\"",
+        "link": "https://www.axios.com/2026/09/10/trump-iran-war-regrets-fox-news-dallas",
+        "pubDate": "2026-09-10T19:42",
+        "feedId": "axios"
+      },
       {
         "title": "Trump's census plan could reshape voting maps, eliminate race questions",
         "link": "https://www.axios.com/2026/09/10/trump-census-voting-maps-race-questions",
@@ -369,12 +375,6 @@
         "title": "Energy Department raises 2027 diesel price outlook by 33 cents amid Iran war",
         "link": "https://www.axios.com/2026/09/09/energy-department-hikes-2027-diesel-price-outlook",
         "pubDate": "2026-09-09T19:36",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump calls to Make Germany Great Again. In Germany, nostalgia carries a dark past.",
-        "link": "https://www.axios.com/2026/09/09/trump-germany-afd-antisemitism",
-        "pubDate": "2026-09-09T18:03",
         "feedId": "axios"
       }
     ]
