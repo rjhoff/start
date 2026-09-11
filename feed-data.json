@@ -3,15 +3,51 @@
     "id": "hn",
     "items": [
       {
-        "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
-        "link": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
-        "pubDate": "2026-09-10T21:22",
+        "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+        "link": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+        "pubDate": "2026-09-11T01:00",
         "feedId": "hn"
       },
       {
-        "title": "Bodily Oddities",
-        "link": "https://vester.si/bodily-oddities/",
-        "pubDate": "2026-09-10T20:33",
+        "title": "Herdr Studio",
+        "link": "https://powerfooI.github.io/herdr-studio/",
+        "pubDate": "2026-09-11T00:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "Setting up OpenCode with Ollama and sbx on Mac",
+        "link": "https://tensorsandtokens.com/posts/opencode-ollama/",
+        "pubDate": "2026-09-11T00:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "Google will buy half the electricity of a nuclear power plant",
+        "link": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+        "pubDate": "2026-09-11T00:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "YuE2 · Frontier Music with Symbolic Planning",
+        "link": "https://map-yue2.github.io/",
+        "pubDate": "2026-09-11T00:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+        "link": "https://system76.com/workstations/thelio-mira-ai",
+        "pubDate": "2026-09-10T23:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
+        "link": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
+        "pubDate": "2026-09-10T21:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+        "link": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+        "pubDate": "2026-09-10T21:22",
         "feedId": "hn"
       },
       {
@@ -33,12 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Creativity is the new moat",
-        "link": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
-        "pubDate": "2026-09-10T19:03",
-        "feedId": "hn"
-      },
-      {
         "title": "JEP 544: Ahead-of-Time Code Compilation",
         "link": "https://openjdk.org/jeps/544",
         "pubDate": "2026-09-10T17:30",
@@ -57,39 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
-        "link": "https://tokenstead.ai/models/swe-2",
-        "pubDate": "2026-09-10T16:52",
-        "feedId": "hn"
-      },
-      {
         "title": "Forgejo <=16.0.3 Critical RCE",
         "link": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
         "pubDate": "2026-09-10T15:57",
-        "feedId": "hn"
-      },
-      {
-        "title": "Silicon Valley is transforming the military-industrial complex?",
-        "link": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
-        "pubDate": "2026-09-10T15:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "Neki – Sharded Postgres",
-        "link": "https://planetscale.com/blog/introducing-neki",
-        "pubDate": "2026-09-10T15:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-        "link": "https://cognition.com/blog/swe-2",
-        "pubDate": "2026-09-10T15:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
-        "link": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
-        "pubDate": "2026-09-10T15:29",
         "feedId": "hn"
       }
     ]
@@ -122,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What algorithm did Windows XP use to choose your initial user picture?",
-        "link": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
-        "pubDate": "2026-09-10T15:48",
-        "feedId": "lobsters"
-      },
-      {
         "title": "It's not the YAML spec's fault, but",
         "link": "https://slugcat.systems/post/26-09-10-yaml-spec/",
         "pubDate": "2026-09-10T17:04",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What algorithm did Windows XP use to choose your initial user picture?",
+        "link": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+        "pubDate": "2026-09-10T15:48",
         "feedId": "lobsters"
       },
       {
@@ -140,27 +140,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "It Breaks a Village: Bevy's 6th Birthday",
-        "link": "https://blog.fallible.net/it-breaks-a-village/",
-        "pubDate": "2026-09-10T10:38",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Review a pull request by booting it",
-        "link": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
-        "pubDate": "2026-09-10T00:32",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What comes after git",
         "link": "https://ersc.io/blog/what-comes-after-git",
         "pubDate": "2026-09-10T17:44",
         "feedId": "lobsters"
       },
       {
-        "title": "Gleam Gathering 2027",
-        "link": "https://gleamgathering.com/",
-        "pubDate": "2026-09-10T19:40",
+        "title": "It Breaks a Village: Bevy's 6th Birthday",
+        "link": "https://blog.fallible.net/it-breaks-a-village/",
+        "pubDate": "2026-09-10T10:38",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Fastly Speedtest Test",
+        "link": "https://speed.edgecompute.app/",
+        "pubDate": "2026-09-10T21:58",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +164,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Review a pull request by booting it",
+        "link": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
+        "pubDate": "2026-09-10T00:32",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Gleam Gathering 2027",
+        "link": "https://gleamgathering.com/",
+        "pubDate": "2026-09-10T19:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Soft-deprecating re.match()",
+        "link": "https://hugovk.dev/blog/2026/soft-deprecating-re.match/",
+        "pubDate": "2026-09-10T21:59",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Native is now the future of mobile at Shopify (2026)",
         "link": "https://shopify.engineering/back-to-native",
         "pubDate": "2026-09-10T15:19",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The terrible menu bar in the Windows 11 Notepad",
-        "link": "https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/",
-        "pubDate": "2026-09-10T15:46",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Announcing the first Guix-Science release",
-        "link": "https://hpc.guix.info/blog/2026/09/guix-science-first-release/",
-        "pubDate": "2026-09-10T11:45",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump's plan if Democrats win Congress: \"I'll be a blocker\"",
+        "link": "https://www.axios.com/2026/09/10/trump-congress-republicans-rnc-convention-democrats",
+        "pubDate": "2026-09-10T23:31",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump on Iran war regrets: \"You can always question yourself a little bit\"",
         "link": "https://www.axios.com/2026/09/10/trump-iran-war-regrets-fox-news-dallas",
         "pubDate": "2026-09-10T19:42",
@@ -369,12 +375,6 @@
         "title": "AI is making it harder to trust your own eyes this election",
         "link": "https://www.axios.com/2026/09/09/ai-political-ads-deepfakes-2026-elections",
         "pubDate": "2026-09-09T20:09",
-        "feedId": "axios"
-      },
-      {
-        "title": "Energy Department raises 2027 diesel price outlook by 33 cents amid Iran war",
-        "link": "https://www.axios.com/2026/09/09/energy-department-hikes-2027-diesel-price-outlook",
-        "pubDate": "2026-09-09T19:36",
         "feedId": "axios"
       }
     ]
