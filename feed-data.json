@@ -3,21 +3,63 @@
     "id": "hn",
     "items": [
       {
+        "title": "GrapheneOS' rewritten Messages app is released",
+        "link": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+        "pubDate": "2026-09-11T18:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
+        "link": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
+        "pubDate": "2026-09-11T18:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "Litelm: LiteLLM Without the Bloat",
+        "link": "https://github.com/kennethwolters/litelm",
+        "pubDate": "2026-09-11T18:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "The EPA is planning to scrap public review rules for data center pollution",
+        "link": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+        "pubDate": "2026-09-11T18:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Toast, a beautiful by default in terminal IDE",
+        "link": "https://github.com/paradise-runner/toast",
+        "pubDate": "2026-09-11T17:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "A misalignment of AI in mathematics",
+        "link": "https://mathandai.org/",
+        "pubDate": "2026-09-11T17:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "Room 641A",
+        "link": "https://en.wikipedia.org/wiki/Room_641A",
+        "pubDate": "2026-09-11T17:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+        "link": "https://snap.berkeley.edu/",
+        "pubDate": "2026-09-11T17:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "Mind-altering drugs played key role in rise of Andean civilization",
+        "link": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+        "pubDate": "2026-09-11T17:25",
+        "feedId": "hn"
+      },
+      {
         "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
         "link": "https://www.getzep.com/careers/",
         "pubDate": "2026-09-11T17:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Feeling Sad about AI",
-        "link": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
-        "pubDate": "2026-09-11T16:50",
-        "feedId": "hn"
-      },
-      {
-        "title": "Triple H Writes Anniversary Story for Spider-Man #1000",
-        "link": "https://cultaholic.com/posts/triple-h-writes-anniversary-story-for-amazing-spider-man-1000",
-        "pubDate": "2026-09-11T16:13",
         "feedId": "hn"
       },
       {
@@ -27,7 +69,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Godot and Rust based multiplexer (terminal panes and more)",
+        "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
         "link": "https://github.com/godot-pty/gpty",
         "pubDate": "2026-09-11T16:03",
         "feedId": "hn"
@@ -45,51 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Hacker News with reduced priority for AI driven content",
-        "link": "https://sprinklz.io/public/pdwt4dve5uai",
-        "pubDate": "2026-09-11T15:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "Matt Mullenweg tells Automattic staff in Slack he's back in control after ouster",
-        "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
-        "pubDate": "2026-09-11T15:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "HuggingFace: Security.txt",
-        "link": "https://huggingface.co/security.txt",
-        "pubDate": "2026-09-11T14:38",
-        "feedId": "hn"
-      },
-      {
-        "title": "New York thoracic surgeon: \"For many patients 9/11 is not over\"",
-        "link": "https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/",
-        "pubDate": "2026-09-11T14:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
-        "link": "https://clawfight.ai/agents.md",
-        "pubDate": "2026-09-11T13:54",
-        "feedId": "hn"
-      },
-      {
-        "title": "Measuring the sloppiness of code",
-        "link": "https://earendil.com/posts/measuring-code-sloppiness/",
-        "pubDate": "2026-09-11T13:42",
-        "feedId": "hn"
-      },
-      {
-        "title": "Re-Engineering YouTube for the Living Room: Bringing \"Chrobalt\" to RDK",
-        "link": "https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html",
-        "pubDate": "2026-09-11T13:41",
-        "feedId": "hn"
-      },
-      {
-        "title": "Houthis 'take control' of key island in global shipping route",
-        "link": "https://www.bbc.com/news/live/cmd683p01eljt",
-        "pubDate": "2026-09-11T13:41",
+        "title": "Rune is now open source",
+        "link": "https://rune.build/blog/rune-is-now-open-source",
+        "pubDate": "2026-09-11T15:31",
         "feedId": "hn"
       }
     ]
@@ -110,6 +110,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "evergarden",
+        "link": "https://evergarden.moe/",
+        "pubDate": "2026-09-11T12:59",
+        "feedId": "lobsters"
+      },
+      {
         "title": "A rant about phishing: It's not the user's fault (and not DNS either)",
         "link": "https://maurycyz.com/misc/domains/",
         "pubDate": "2026-09-10T15:14",
@@ -122,9 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "evergarden",
-        "link": "https://evergarden.moe/",
-        "pubDate": "2026-09-11T12:59",
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/vc0brm/what_are_you_doing_this_weekend",
+        "pubDate": "2026-09-11T16:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "ChiPass Release 2026.09.0",
+        "link": "https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0",
+        "pubDate": "2026-09-11T16:35",
         "feedId": "lobsters"
       },
       {
@@ -137,6 +149,12 @@
         "title": "Soft-deprecating re.match()",
         "link": "https://hugovk.dev/blog/2026/soft-deprecating-re.match/",
         "pubDate": "2026-09-10T21:59",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Bastion of the Turbofish",
+        "link": "https://github.com/rust-lang/rust/blob/main/tests/ui/parser/bastion-of-the-turbofish.rs",
+        "pubDate": "2026-09-11T13:50",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Xteink X4 Pro review",
-        "link": "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/",
-        "pubDate": "2026-09-10T15:05",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What algorithm did Windows XP use to choose your initial user picture?",
-        "link": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
-        "pubDate": "2026-09-10T15:48",
-        "feedId": "lobsters"
-      },
-      {
         "title": "An untrusted site can freeze a Mac using WebGPU",
         "link": "https://auberon.xyz/blog/posts/deathray/",
         "pubDate": "2026-09-11T00:04",
         "feedId": "lobsters"
       },
       {
-        "title": "Bastion of the Turbofish",
-        "link": "https://github.com/rust-lang/rust/blob/main/tests/ui/parser/bastion-of-the-turbofish.rs",
-        "pubDate": "2026-09-11T13:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Gleam Gathering 2027",
-        "link": "https://gleamgathering.com/",
-        "pubDate": "2026-09-10T19:40",
+        "title": "Xteink X4 Pro review",
+        "link": "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/",
+        "pubDate": "2026-09-10T15:05",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,24 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
+        "link": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
+        "pubDate": "2026-09-11T18:49",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Oracle tries to appease Stargate data center opponents with renewables push",
+        "link": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
+        "pubDate": "2026-09-11T18:22",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "NASA moving at warp speed to set up US Space Academy",
+        "link": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
+        "pubDate": "2026-09-11T16:20",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Claude users found ways around safeguards for bioweapons research",
         "link": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
@@ -263,24 +281,6 @@
         "link": "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/",
         "pubDate": "2026-09-10T17:30",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "China’s drone supremacy shows in airlifting bodies and food after Nepal flood disaster",
-        "link": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
-        "pubDate": "2026-09-10T16:53",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Artemis II commander and pilot become NASA's first astronaut emeriti",
-        "link": "https://arstechnica.com/space/2026/09/artemis-ii-commander-and-pilot-become-nasas-first-astronaut-emeriti/",
-        "pubDate": "2026-09-10T11:30",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Four groups caught using the same Chrome and Windows exploit kit",
-        "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
-        "pubDate": "2026-09-09T20:55",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,21 +288,33 @@
     "id": "axios",
     "items": [
       {
-        "title": "Afghan woman deported in first-ever \"Alien Terrorist\" court case, DOJ says",
-        "link": "https://www.axios.com/2026/09/11/alien-terrorist-court-first-deportation",
-        "pubDate": "2026-09-11T17:14",
-        "feedId": "axios"
-      },
-      {
-        "title": "CDC declares Cyclospora outbreak over",
-        "link": "https://www.axios.com/2026/09/11/cdc-declares-cyclospora-outbreak-over",
-        "pubDate": "2026-09-11T16:03",
-        "feedId": "axios"
-      },
-      {
         "title": "9/11 widow blasts Saudi Arabia during annual ceremony",
         "link": "https://www.axios.com/2026/09/11/911-widow-saudi-arabia-trump",
-        "pubDate": "2026-09-11T13:32",
+        "pubDate": "2026-09-11T19:54",
+        "feedId": "axios"
+      },
+      {
+        "title": "Afghan woman deported in first-ever \"Alien Terrorist\" court case, DOJ says",
+        "link": "https://www.axios.com/2026/09/11/alien-terrorist-court-first-deportation",
+        "pubDate": "2026-09-11T19:39",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: Mike Johnson urged to cancel House recess over AI warnings",
+        "link": "https://www.axios.com/2026/09/11/mike-johnson-house-recess-ai-doom-warnings",
+        "pubDate": "2026-09-11T19:33",
+        "feedId": "axios"
+      },
+      {
+        "title": "Contractor undercuts Trump's Reflecting Pool vandal claims",
+        "link": "https://www.axios.com/2026/09/11/trump-reflecting-pool-contractor-repairs",
+        "pubDate": "2026-09-11T19:10",
+        "feedId": "axios"
+      },
+      {
+        "title": "CDC declares cyclospora outbreak over",
+        "link": "https://www.axios.com/2026/09/11/cdc-declares-cyclospora-outbreak-over",
+        "pubDate": "2026-09-11T16:03",
         "feedId": "axios"
       },
       {
@@ -363,18 +375,6 @@
         "title": "Trump's plan if Democrats win Congress: \"I'll be a blocker\"",
         "link": "https://www.axios.com/2026/09/10/trump-congress-republicans-rnc-convention-democrats",
         "pubDate": "2026-09-10T23:31",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump on Iran war regrets: \"You can always question yourself a little bit\"",
-        "link": "https://www.axios.com/2026/09/10/trump-iran-war-regrets-fox-news-dallas",
-        "pubDate": "2026-09-10T19:42",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump's census plan could reshape voting maps, eliminate race questions",
-        "link": "https://www.axios.com/2026/09/10/trump-census-voting-maps-race-questions",
-        "pubDate": "2026-09-10T17:34",
         "feedId": "axios"
       }
     ]
