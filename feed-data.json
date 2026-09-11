@@ -3,27 +3,39 @@
     "id": "hn",
     "items": [
       {
+        "title": "Astra for Coding: Why Are We Doing This Again?",
+        "link": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+        "pubDate": "2026-09-11T06:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
+        "link": "https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/",
+        "pubDate": "2026-09-11T05:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Gemini app is now available for Windows",
+        "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+        "pubDate": "2026-09-11T04:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "Exercise intensity is associated with cardiometabolic health",
+        "link": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
+        "pubDate": "2026-09-11T03:48",
+        "feedId": "hn"
+      },
+      {
+        "title": "What Comes After Git",
+        "link": "https://ersc.io/blog/what-comes-after-git",
+        "pubDate": "2026-09-11T02:49",
+        "feedId": "hn"
+      },
+      {
         "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
         "link": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
         "pubDate": "2026-09-11T01:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Herdr Studio",
-        "link": "https://powerfooI.github.io/herdr-studio/",
-        "pubDate": "2026-09-11T00:54",
-        "feedId": "hn"
-      },
-      {
-        "title": "Setting up OpenCode with Ollama and sbx on Mac",
-        "link": "https://tensorsandtokens.com/posts/opencode-ollama/",
-        "pubDate": "2026-09-11T00:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "Google will buy half the electricity of a nuclear power plant",
-        "link": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
-        "pubDate": "2026-09-11T00:42",
         "feedId": "hn"
       },
       {
@@ -39,15 +51,15 @@
         "feedId": "hn"
       },
       {
-        "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
-        "link": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
-        "pubDate": "2026-09-10T21:30",
+        "title": "Nine coding harnesses vs. your laptop",
+        "link": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+        "pubDate": "2026-09-10T22:54",
         "feedId": "hn"
       },
       {
-        "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
-        "link": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
-        "pubDate": "2026-09-10T21:22",
+        "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
+        "link": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
+        "pubDate": "2026-09-10T21:30",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://www.anthropic.com/threat-intelligence-report-september-2026",
         "pubDate": "2026-09-10T17:23",
         "feedId": "hn"
-      },
-      {
-        "title": "Music Theory for the 21st-Century Classroom",
-        "link": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-        "pubDate": "2026-09-10T17:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "Forgejo <=16.0.3 Critical RCE",
-        "link": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
-        "pubDate": "2026-09-10T15:57",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,6 +110,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "It's not the YAML spec's fault, but",
+        "link": "https://slugcat.systems/post/26-09-10-yaml-spec/",
+        "pubDate": "2026-09-10T17:04",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution)",
         "link": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
         "pubDate": "2026-09-10T17:40",
@@ -122,33 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "It's not the YAML spec's fault, but",
-        "link": "https://slugcat.systems/post/26-09-10-yaml-spec/",
-        "pubDate": "2026-09-10T17:04",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What algorithm did Windows XP use to choose your initial user picture?",
         "link": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
         "pubDate": "2026-09-10T15:48",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How CHERIoT Provides Strong and Usable Isolation Without an MMU",
-        "link": "https://queue.acm.org/doi/10.1145/3831361",
-        "pubDate": "2026-09-10T14:59",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What comes after git",
-        "link": "https://ersc.io/blog/what-comes-after-git",
-        "pubDate": "2026-09-10T17:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "It Breaks a Village: Bevy's 6th Birthday",
-        "link": "https://blog.fallible.net/it-breaks-a-village/",
-        "pubDate": "2026-09-10T10:38",
         "feedId": "lobsters"
       },
       {
@@ -158,21 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "My HTML Boilerplate",
-        "link": "https://vale.rocks/posts/html-boilerplate",
-        "pubDate": "2026-09-10T16:13",
+        "title": "What comes after git",
+        "link": "https://ersc.io/blog/what-comes-after-git",
+        "pubDate": "2026-09-10T17:44",
         "feedId": "lobsters"
       },
       {
-        "title": "Review a pull request by booting it",
-        "link": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
-        "pubDate": "2026-09-10T00:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Gleam Gathering 2027",
-        "link": "https://gleamgathering.com/",
-        "pubDate": "2026-09-10T19:40",
+        "title": "How CHERIoT Provides Strong and Usable Isolation Without an MMU",
+        "link": "https://queue.acm.org/doi/10.1145/3831361",
+        "pubDate": "2026-09-10T14:59",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +158,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Native is now the future of mobile at Shopify (2026)",
-        "link": "https://shopify.engineering/back-to-native",
-        "pubDate": "2026-09-10T15:19",
+        "title": "Gleam Gathering 2027",
+        "link": "https://gleamgathering.com/",
+        "pubDate": "2026-09-10T19:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "My HTML Boilerplate",
+        "link": "https://vale.rocks/posts/html-boilerplate",
+        "pubDate": "2026-09-10T16:13",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Models Don't Go Rogue",
+        "link": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
+        "pubDate": "2026-09-11T03:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "It Breaks a Village: Bevy's 6th Birthday",
+        "link": "https://blog.fallible.net/it-breaks-a-village/",
+        "pubDate": "2026-09-10T10:38",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Review a pull request by booting it",
+        "link": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
+        "pubDate": "2026-09-10T00:32",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Saudi crown prince urged Trump to strike Houthis amid Red Sea threat",
+        "link": "https://www.axios.com/2026/09/11/houthis-yemen-saudi-trump-mbs-strikes",
+        "pubDate": "2026-09-11T03:51",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump's plan if Democrats win Congress: \"I'll be a blocker\"",
         "link": "https://www.axios.com/2026/09/10/trump-congress-republicans-rnc-convention-democrats",
         "pubDate": "2026-09-10T23:31",
@@ -369,12 +375,6 @@
         "title": "Trump's midterm mess collides with a courtroom time crunch",
         "link": "https://www.axios.com/2026/09/09/trump-midterm-election-mess-courts",
         "pubDate": "2026-09-09T20:21",
-        "feedId": "axios"
-      },
-      {
-        "title": "AI is making it harder to trust your own eyes this election",
-        "link": "https://www.axios.com/2026/09/09/ai-political-ads-deepfakes-2026-elections",
-        "pubDate": "2026-09-09T20:09",
         "feedId": "axios"
       }
     ]
