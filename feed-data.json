@@ -3,15 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
-        "pubDate": "2026-09-12T18:07",
+        "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
+        "link": "https://modelrift.com/blog/cadquery-vs-openscad/",
+        "pubDate": "2026-09-12T19:57",
         "feedId": "hn"
       },
       {
-        "title": "My favorite sci-fi books about how we build societies and keep justifying them",
-        "link": "https://bookdna.com/best-books/how-we-build-absurd-societies-and-keep-justifying",
-        "pubDate": "2026-09-12T17:07",
+        "title": "LG Says We're Fake News [video]",
+        "link": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+        "pubDate": "2026-09-12T19:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+        "link": "https://hachyderm.io/@simontatham/117201594980991062",
+        "pubDate": "2026-09-12T18:58",
         "feedId": "hn"
       },
       {
@@ -45,18 +51,6 @@
         "feedId": "hn"
       },
       {
-        "title": "I refuse to let SPICE die",
-        "link": "https://github.com/nefarius/vd_agent/",
-        "pubDate": "2026-09-12T14:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "Waymo pulls over, calls cops on juvenile riders who had 'ghost gun\"",
-        "link": "https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun",
-        "pubDate": "2026-09-12T14:16",
-        "feedId": "hn"
-      },
-      {
         "title": "We must pace the frontier",
         "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
         "pubDate": "2026-09-12T14:10",
@@ -69,15 +63,9 @@
         "feedId": "hn"
       },
       {
-        "title": "A Few Good Ideas in Programming Languages",
+        "title": "A few good ideas in programming languages",
         "link": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
         "pubDate": "2026-09-12T13:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "Fuck it, make it anyway",
-        "link": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
-        "pubDate": "2026-09-12T11:42",
         "feedId": "hn"
       },
       {
@@ -91,6 +79,18 @@
         "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
         "pubDate": "2026-09-12T11:13",
         "feedId": "hn"
+      },
+      {
+        "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+        "link": "https://eiln.github.io/posts/ane.html",
+        "pubDate": "2026-09-12T07:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "Navier-Stokes Announcement",
+        "link": "https://www.claymath.org/news/navier-stokes-announcement/",
+        "pubDate": "2026-09-12T04:09",
+        "feedId": "hn"
       }
     ]
   },
@@ -98,21 +98,9 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Feeling sad about AI",
-        "link": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
-        "pubDate": "2026-09-11T12:33",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Linux Zoom Client Proactively Reads X11 Clipboard",
         "link": "https://hachyderm.io/@simontatham/117201594980991062",
         "pubDate": "2026-09-12T12:38",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-        "link": "https://www.rubyhack.ai/",
-        "pubDate": "2026-09-11T23:41",
         "feedId": "lobsters"
       },
       {
@@ -122,27 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Base84 deserves a place in file names",
-        "link": "https://00f.net/2026/09/09/base84/",
-        "pubDate": "2026-09-12T14:38",
+        "title": "Feeling sad about AI",
+        "link": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
+        "pubDate": "2026-09-11T12:33",
         "feedId": "lobsters"
       },
       {
-        "title": "Pandas Should Go Extinct",
-        "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
-        "pubDate": "2026-09-12T04:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "xkcd-font: The xkcd font",
-        "link": "https://github.com/ipython/xkcd-font",
-        "pubDate": "2026-09-12T15:39",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A Severe Misalignment of AI in Mathematics",
-        "link": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-        "pubDate": "2026-09-11T19:03",
+        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+        "link": "https://www.rubyhack.ai/",
+        "pubDate": "2026-09-11T23:41",
         "feedId": "lobsters"
       },
       {
@@ -152,21 +128,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Base84 deserves a place in file names",
+        "link": "https://00f.net/2026/09/09/base84/",
+        "pubDate": "2026-09-12T14:38",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "xkcd-font: The xkcd font",
+        "link": "https://github.com/ipython/xkcd-font",
+        "pubDate": "2026-09-12T15:39",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Pandas Should Go Extinct",
+        "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
+        "pubDate": "2026-09-12T04:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A Severe Misalignment of AI in Mathematics",
+        "link": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+        "pubDate": "2026-09-11T19:03",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The gpg.fail aftermath: On responsible disclosure, GPG, and the state of security in 2026 [32:37]",
         "link": "https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026",
         "pubDate": "2026-09-12T17:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How Trail of Bits helps verify the integrity of your Signal chats",
-        "link": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
-        "pubDate": "2026-09-12T11:28",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Power grab",
-        "link": "https://tante.cc/2026/09/11/power-grab/",
-        "pubDate": "2026-09-11T14:23",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "ChiPass Release 2026.09.0",
-        "link": "https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0",
-        "pubDate": "2026-09-11T16:35",
+        "title": "How Trail of Bits helps verify the integrity of your Signal chats",
+        "link": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+        "pubDate": "2026-09-12T11:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Power grab",
+        "link": "https://tante.cc/2026/09/11/power-grab/",
+        "pubDate": "2026-09-11T14:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Managing Complex Application State with Reactive Data Flows",
+        "link": "https://yogthos.net/posts/2026-09-12-reactive-dataflow.html",
+        "pubDate": "2026-09-12T19:45",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says",
+        "link": "https://www.axios.com/2026/09/12/openai-public-ipo-delay-sam-altman",
+        "pubDate": "2026-09-12T19:50",
+        "feedId": "axios"
+      },
+      {
         "title": "Anthropic, OpenAI CEOs call for slowdown in AI development",
         "link": "https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing",
         "pubDate": "2026-09-12T16:59",
@@ -369,12 +375,6 @@
         "title": "Inside the RNC's legal fight over \"election integrity\"",
         "link": "https://www.axios.com/2026/09/11/republicans-trump-election-lawsuits",
         "pubDate": "2026-09-11T09:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "What's next for the AI safety debate",
-        "link": "https://www.axios.com/2026/09/11/ai-safety-debate-next",
-        "pubDate": "2026-09-11T09:15",
         "feedId": "axios"
       }
     ]
