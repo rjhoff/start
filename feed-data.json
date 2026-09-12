@@ -3,9 +3,75 @@
     "id": "hn",
     "items": [
       {
-        "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
-        "link": "https://www.firecrawl.dev/blog/ai-software-factory",
-        "pubDate": "2026-09-11T23:43",
+        "title": "LG responds to TV spying allegations",
+        "link": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
+        "pubDate": "2026-09-12T15:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Is it time for a Luddite Renaissance?",
+        "link": "https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance",
+        "pubDate": "2026-09-12T15:24",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nvidia is the central bank of AI",
+        "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+        "pubDate": "2026-09-12T15:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For",
+        "link": "https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html",
+        "pubDate": "2026-09-12T14:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "Compiler Can Undo Your Security Checks",
+        "link": "https://davidbombal.com/your-compiler-can-undo-your-security-checks/",
+        "pubDate": "2026-09-12T14:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "A Mathematical Framework for Transformer Circuits (2021)",
+        "link": "https://transformer-circuits.pub/2021/framework/index.html",
+        "pubDate": "2026-09-12T13:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "Fuck it, make it anyway",
+        "link": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+        "pubDate": "2026-09-12T11:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+        "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+        "pubDate": "2026-09-12T11:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "We've followed their lives for six decades; now the stars of 7 Up are bowing out",
+        "link": "https://www.bbc.co.uk/news/articles/crm932el3yjo",
+        "pubDate": "2026-09-12T10:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+        "link": "https://eiln.github.io/posts/ane.html",
+        "pubDate": "2026-09-12T07:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "Usenet rewind archive search engine",
+        "link": "https://www.usenet-rewind.com/",
+        "pubDate": "2026-09-12T04:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "google.com/goto: Google's anti-scraping update",
+        "link": "https://www.autom.dev/blog/google-search-goto-links",
+        "pubDate": "2026-09-12T03:14",
         "feedId": "hn"
       },
       {
@@ -15,81 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
-        "link": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
-        "pubDate": "2026-09-11T22:16",
-        "feedId": "hn"
-      },
-      {
-        "title": "Project Blinkenlights",
-        "link": "https://blinkenlights.de/en/",
-        "pubDate": "2026-09-11T22:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
-        "link": "https://github.com/mirza-rizvi/ResolveHQ",
-        "pubDate": "2026-09-11T21:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI researchers debate how close we are to recursive self-improvement",
-        "link": "https://www.dwarkesh.com/p/john-beren-charlie",
-        "pubDate": "2026-09-11T21:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "GrapheneOS' rewritten Messages app is released",
-        "link": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-        "pubDate": "2026-09-11T18:50",
-        "feedId": "hn"
-      },
-      {
-        "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
-        "link": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
-        "pubDate": "2026-09-11T18:30",
+        "title": "Forgotten Woodlands",
+        "link": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
+        "pubDate": "2026-09-11T21:21",
         "feedId": "hn"
       },
       {
         "title": "I spent $220 on Google app ads and 60% of the installs were robots",
         "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
         "pubDate": "2026-09-11T18:24",
-        "feedId": "hn"
-      },
-      {
-        "title": "Litelm: LiteLLM Without the Bloat",
-        "link": "https://github.com/kennethwolters/litelm",
-        "pubDate": "2026-09-11T18:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "The EPA is planning to scrap public review rules for data center pollution",
-        "link": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-        "pubDate": "2026-09-11T18:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "A misalignment of AI in mathematics",
-        "link": "https://mathandai.org/",
-        "pubDate": "2026-09-11T17:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
-        "link": "https://snap.berkeley.edu/",
-        "pubDate": "2026-09-11T17:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "Mind-altering drugs played key role in rise of Andean civilization",
-        "link": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
-        "pubDate": "2026-09-11T17:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
-        "link": "https://www.getzep.com/careers/",
-        "pubDate": "2026-09-11T17:00",
         "feedId": "hn"
       }
     ]
@@ -104,21 +104,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "I made a build profiler to understand Bun’s compile times",
+        "link": "https://lalitm.com/post/buildprof/",
+        "pubDate": "2026-09-12T14:48",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Linux Zoom Client Proactively Reads X11 Clipboard",
+        "link": "https://hachyderm.io/@simontatham/117201594980991062",
+        "pubDate": "2026-09-12T12:38",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Pandas Should Go Extinct",
+        "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
+        "pubDate": "2026-09-12T04:23",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Power grab",
         "link": "https://tante.cc/2026/09/11/power-grab/",
         "pubDate": "2026-09-11T14:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A Severe Misalignment of AI in Mathematics",
-        "link": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-        "pubDate": "2026-09-11T19:03",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "evergarden",
-        "link": "https://evergarden.moe/",
-        "pubDate": "2026-09-11T12:59",
         "feedId": "lobsters"
       },
       {
@@ -128,51 +134,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A Severe Misalignment of AI in Mathematics",
-        "link": "https://mathandai.org/",
-        "pubDate": "2026-09-11T19:09",
+        "title": "Base84 deserves a place in file names",
+        "link": "https://00f.net/2026/09/09/base84/",
+        "pubDate": "2026-09-12T14:38",
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/vc0brm/what_are_you_doing_this_weekend",
-        "pubDate": "2026-09-11T16:40",
+        "title": "evergarden",
+        "link": "https://evergarden.moe/",
+        "pubDate": "2026-09-11T12:59",
         "feedId": "lobsters"
       },
       {
-        "title": "Models Don't Go Rogue",
-        "link": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
-        "pubDate": "2026-09-11T03:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-        "link": "https://www.rubyhack.ai/",
-        "pubDate": "2026-09-11T23:41",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A rant about phishing: It's not the user's fault (and not DNS either)",
-        "link": "https://maurycyz.com/misc/domains/",
-        "pubDate": "2026-09-10T15:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Bastion of the Turbofish",
-        "link": "https://github.com/rust-lang/rust/blob/main/tests/ui/parser/bastion-of-the-turbofish.rs",
-        "pubDate": "2026-09-11T13:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Soft-deprecating re.match()",
-        "link": "https://hugovk.dev/blog/2026/soft-deprecating-re.match/",
-        "pubDate": "2026-09-10T21:59",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Rust Is Tier-1 Language at Microsoft",
-        "link": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-        "pubDate": "2026-09-10T13:40",
+        "title": "How Trail of Bits helps verify the integrity of your Signal chats",
+        "link": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+        "pubDate": "2026-09-12T11:28",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +158,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Measuring the sloppiness of code",
-        "link": "https://earendil.com/posts/measuring-code-sloppiness/",
-        "pubDate": "2026-09-11T17:08",
+        "title": "xkcd-font: The xkcd font",
+        "link": "https://github.com/ipython/xkcd-font",
+        "pubDate": "2026-09-12T15:39",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/vc0brm/what_are_you_doing_this_weekend",
+        "pubDate": "2026-09-11T16:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Tutorial for Septabee, a free DAW in the making for over 20,000 hours",
+        "link": "https://www.youtube.com/watch?v=lW8Z98pXuSE",
+        "pubDate": "2026-09-11T23:06",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why do companies stop using Haskell?",
+        "link": "https://www.youtube.com/watch?v=2PebXEak24M",
+        "pubDate": "2026-09-12T15:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Logo Programming Language",
+        "link": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+        "pubDate": "2026-09-12T16:04",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "I spent $4,000 on a robot dog from China",
+        "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+        "pubDate": "2026-09-12T11:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Some satellite companies still have an appetite for boutique launch services",
         "link": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
@@ -275,18 +281,42 @@
         "link": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
         "pubDate": "2026-09-10T22:16",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
-        "link": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
-        "pubDate": "2026-09-10T20:55",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Anthropic CEO calls for immediate slowdown in AI development",
+        "link": "https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing",
+        "pubDate": "2026-09-12T15:49",
+        "feedId": "axios"
+      },
+      {
+        "title": "Anthropic report: 5 ways Claude was exploited for war, spying and repression",
+        "link": "https://www.axios.com/2026/09/12/anthropic-ai-threat-report-russia-iran-china",
+        "pubDate": "2026-09-12T12:36",
+        "feedId": "axios"
+      },
+      {
+        "title": "Behind the Curtain: It's not too late",
+        "link": "https://www.axios.com/2026/09/12/ai-regulation-safety-plan-2026",
+        "pubDate": "2026-09-12T12:01",
+        "feedId": "axios"
+      },
+      {
+        "title": "The world reconsiders America",
+        "link": "https://www.axios.com/2026/09/12/us-world-relationships-gold-tourism",
+        "pubDate": "2026-09-12T11:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "Jewish institutions' security spending tops $1 billion as antisemitism persists",
+        "link": "https://www.axios.com/2026/09/12/jewish-security-spending-holy-days",
+        "pubDate": "2026-09-12T11:15",
+        "feedId": "axios"
+      },
       {
         "title": "Record diesel prices stoke food inflation, transportation costs",
         "link": "https://www.axios.com/2026/09/11/diesel-fuel-prices-food-transportation",
@@ -345,36 +375,6 @@
         "title": "What's next for the AI safety debate",
         "link": "https://www.axios.com/2026/09/11/ai-safety-debate-next",
         "pubDate": "2026-09-11T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Diesel hits $6 a gallon for the first time, fueling more inflation",
-        "link": "https://www.axios.com/2026/09/11/diesel-6-dollars",
-        "pubDate": "2026-09-11T09:08",
-        "feedId": "axios"
-      },
-      {
-        "title": "9/11 and \"never forget\" collide with the meme generation's dark humor",
-        "link": "https://www.axios.com/2026/09/11/9-11-meme-generations-history",
-        "pubDate": "2026-09-11T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Congress gripped by AI panic after doomsday warnings",
-        "link": "https://www.axios.com/2026/09/11/congress-ai-anthropic-coxon-researcher-democrats",
-        "pubDate": "2026-09-11T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Vance: MAGA's millennial messenger for the midterms",
-        "link": "https://www.axios.com/2026/09/11/vance-speech-gop-convention-millennials",
-        "pubDate": "2026-09-11T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Axios interview: The 9/11 photographers who ran toward the danger",
-        "link": "https://www.axios.com/2026/09/11/september-11-photographers-25-years",
-        "pubDate": "2026-09-11T08:50",
         "feedId": "axios"
       }
     ]
