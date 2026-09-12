@@ -3,15 +3,33 @@
     "id": "hn",
     "items": [
       {
-        "title": "LG responds to TV spying allegations",
-        "link": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
-        "pubDate": "2026-09-12T15:33",
+        "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+        "pubDate": "2026-09-12T18:07",
         "feedId": "hn"
       },
       {
-        "title": "Is it time for a Luddite Renaissance?",
-        "link": "https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance",
-        "pubDate": "2026-09-12T15:24",
+        "title": "My favorite sci-fi books about how we build societies and keep justifying them",
+        "link": "https://bookdna.com/best-books/how-we-build-absurd-societies-and-keep-justifying",
+        "pubDate": "2026-09-12T17:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "Will There Be a 7G?",
+        "link": "https://arxiv.org/abs/2609.01877",
+        "pubDate": "2026-09-12T17:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "Make your first edit to OpenStreetMap",
+        "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
+        "pubDate": "2026-09-12T16:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+        "link": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+        "pubDate": "2026-09-12T15:49",
         "feedId": "hn"
       },
       {
@@ -21,15 +39,27 @@
         "feedId": "hn"
       },
       {
-        "title": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For",
-        "link": "https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html",
-        "pubDate": "2026-09-12T14:17",
+        "title": "I made a build visualizer to understand Bun's compile times",
+        "link": "https://lalitm.com/post/buildprof/",
+        "pubDate": "2026-09-12T14:45",
         "feedId": "hn"
       },
       {
-        "title": "Compiler Can Undo Your Security Checks",
-        "link": "https://davidbombal.com/your-compiler-can-undo-your-security-checks/",
-        "pubDate": "2026-09-12T14:07",
+        "title": "I refuse to let SPICE die",
+        "link": "https://github.com/nefarius/vd_agent/",
+        "pubDate": "2026-09-12T14:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "Waymo pulls over, calls cops on juvenile riders who had 'ghost gun\"",
+        "link": "https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun",
+        "pubDate": "2026-09-12T14:16",
+        "feedId": "hn"
+      },
+      {
+        "title": "We must pace the frontier",
+        "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
+        "pubDate": "2026-09-12T14:10",
         "feedId": "hn"
       },
       {
@@ -39,57 +69,27 @@
         "feedId": "hn"
       },
       {
+        "title": "A Few Good Ideas in Programming Languages",
+        "link": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
+        "pubDate": "2026-09-12T13:07",
+        "feedId": "hn"
+      },
+      {
         "title": "Fuck it, make it anyway",
         "link": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
         "pubDate": "2026-09-12T11:42",
         "feedId": "hn"
       },
       {
-        "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+        "title": "How Trail of Bits helps verify the integrity of Signal chats",
+        "link": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+        "pubDate": "2026-09-12T11:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "The worst spam emails: iLands AI agent hustle",
         "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
         "pubDate": "2026-09-12T11:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "We've followed their lives for six decades; now the stars of 7 Up are bowing out",
-        "link": "https://www.bbc.co.uk/news/articles/crm932el3yjo",
-        "pubDate": "2026-09-12T10:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-        "link": "https://eiln.github.io/posts/ane.html",
-        "pubDate": "2026-09-12T07:54",
-        "feedId": "hn"
-      },
-      {
-        "title": "Usenet rewind archive search engine",
-        "link": "https://www.usenet-rewind.com/",
-        "pubDate": "2026-09-12T04:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "google.com/goto: Google's anti-scraping update",
-        "link": "https://www.autom.dev/blog/google-search-goto-links",
-        "pubDate": "2026-09-12T03:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-        "link": "https://www.rubyhack.ai/",
-        "pubDate": "2026-09-11T23:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "Forgotten Woodlands",
-        "link": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
-        "pubDate": "2026-09-11T21:21",
-        "feedId": "hn"
-      },
-      {
-        "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-        "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-        "pubDate": "2026-09-11T18:24",
         "feedId": "hn"
       }
     ]
@@ -104,33 +104,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I made a build profiler to understand Bun’s compile times",
-        "link": "https://lalitm.com/post/buildprof/",
-        "pubDate": "2026-09-12T14:48",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Linux Zoom Client Proactively Reads X11 Clipboard",
         "link": "https://hachyderm.io/@simontatham/117201594980991062",
         "pubDate": "2026-09-12T12:38",
         "feedId": "lobsters"
       },
       {
-        "title": "Pandas Should Go Extinct",
-        "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
-        "pubDate": "2026-09-12T04:23",
+        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+        "link": "https://www.rubyhack.ai/",
+        "pubDate": "2026-09-11T23:41",
         "feedId": "lobsters"
       },
       {
-        "title": "Power grab",
-        "link": "https://tante.cc/2026/09/11/power-grab/",
-        "pubDate": "2026-09-11T14:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "ChiPass Release 2026.09.0",
-        "link": "https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0",
-        "pubDate": "2026-09-11T16:35",
+        "title": "I made a build visualizer to understand Bun’s compile times",
+        "link": "https://lalitm.com/post/buildprof/",
+        "pubDate": "2026-09-12T14:48",
         "feedId": "lobsters"
       },
       {
@@ -140,21 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "evergarden",
-        "link": "https://evergarden.moe/",
-        "pubDate": "2026-09-11T12:59",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How Trail of Bits helps verify the integrity of your Signal chats",
-        "link": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
-        "pubDate": "2026-09-12T11:28",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A list of macOS defaults commands with demos",
-        "link": "https://macos-defaults.com/",
-        "pubDate": "2026-09-11T22:55",
+        "title": "Pandas Should Go Extinct",
+        "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
+        "pubDate": "2026-09-12T04:23",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +140,51 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/vc0brm/what_are_you_doing_this_weekend",
-        "pubDate": "2026-09-11T16:40",
+        "title": "A Severe Misalignment of AI in Mathematics",
+        "link": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+        "pubDate": "2026-09-11T19:03",
         "feedId": "lobsters"
       },
       {
-        "title": "Tutorial for Septabee, a free DAW in the making for over 20,000 hours",
-        "link": "https://www.youtube.com/watch?v=lW8Z98pXuSE",
-        "pubDate": "2026-09-11T23:06",
+        "title": "Useful Things Agents Can Do That Are Not Writing Code",
+        "link": "https://elijahpotter.dev/articles/useful_things_agents_can_do_that_are_not_writing_code",
+        "pubDate": "2026-09-12T15:56",
         "feedId": "lobsters"
       },
       {
-        "title": "Why do companies stop using Haskell?",
-        "link": "https://www.youtube.com/watch?v=2PebXEak24M",
-        "pubDate": "2026-09-12T15:18",
+        "title": "The gpg.fail aftermath: On responsible disclosure, GPG, and the state of security in 2026 [32:37]",
+        "link": "https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026",
+        "pubDate": "2026-09-12T17:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How Trail of Bits helps verify the integrity of your Signal chats",
+        "link": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+        "pubDate": "2026-09-12T11:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Power grab",
+        "link": "https://tante.cc/2026/09/11/power-grab/",
+        "pubDate": "2026-09-11T14:23",
         "feedId": "lobsters"
       },
       {
         "title": "Logo Programming Language",
         "link": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
         "pubDate": "2026-09-12T16:04",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Dario Amodei —We Must Pace the Frontier",
+        "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
+        "pubDate": "2026-09-12T14:35",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "ChiPass Release 2026.09.0",
+        "link": "https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0",
+        "pubDate": "2026-09-11T16:35",
         "feedId": "lobsters"
       }
     ]
@@ -288,9 +288,9 @@
     "id": "axios",
     "items": [
       {
-        "title": "Anthropic CEO calls for immediate slowdown in AI development",
+        "title": "Anthropic, OpenAI CEOs call for slowdown in AI development",
         "link": "https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing",
-        "pubDate": "2026-09-12T15:49",
+        "pubDate": "2026-09-12T16:59",
         "feedId": "axios"
       },
       {
