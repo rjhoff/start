@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
+        "link": "https://www.firecrawl.dev/blog/ai-software-factory",
+        "pubDate": "2026-09-11T23:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+        "link": "https://www.rubyhack.ai/",
+        "pubDate": "2026-09-11T23:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
+        "link": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
+        "pubDate": "2026-09-11T22:16",
+        "feedId": "hn"
+      },
+      {
         "title": "Project Blinkenlights",
         "link": "https://blinkenlights.de/en/",
         "pubDate": "2026-09-11T22:15",
@@ -15,9 +33,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Txt: A fast, keyboard-driven terminal text editor for engineers",
-        "link": "https://txt.hellman.io/",
-        "pubDate": "2026-09-11T19:46",
+        "title": "AI researchers debate how close we are to recursive self-improvement",
+        "link": "https://www.dwarkesh.com/p/john-beren-charlie",
+        "pubDate": "2026-09-11T21:35",
         "feedId": "hn"
       },
       {
@@ -73,24 +91,6 @@
         "link": "https://www.getzep.com/careers/",
         "pubDate": "2026-09-11T17:00",
         "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
-        "link": "https://github.com/godot-pty/gpty",
-        "pubDate": "2026-09-11T16:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Global Glacier Extinction Explorer",
-        "link": "https://glacierextinction.com",
-        "pubDate": "2026-09-11T15:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "118M Queries per Second on Neki",
-        "link": "https://planetscale.com/blog/118-million-queries-per-second-on-neki",
-        "pubDate": "2026-09-11T15:56",
-        "feedId": "hn"
       }
     ]
   },
@@ -122,9 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Models Don't Go Rogue",
-        "link": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
-        "pubDate": "2026-09-11T03:37",
+        "title": "ChiPass Release 2026.09.0",
+        "link": "https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0",
+        "pubDate": "2026-09-11T16:35",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "ChiPass Release 2026.09.0",
-        "link": "https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0",
-        "pubDate": "2026-09-11T16:35",
+        "title": "Models Don't Go Rogue",
+        "link": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
+        "pubDate": "2026-09-11T03:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+        "link": "https://www.rubyhack.ai/",
+        "pubDate": "2026-09-11T23:41",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "A list of macOS defaults commands with demos",
+        "link": "https://macos-defaults.com/",
+        "pubDate": "2026-09-11T22:55",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Measuring the sloppiness of code",
         "link": "https://earendil.com/posts/measuring-code-sloppiness/",
         "pubDate": "2026-09-11T17:08",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Fastly Speedtest Test",
-        "link": "https://speed.edgecompute.app/",
-        "pubDate": "2026-09-10T21:58",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "An untrusted site can freeze a Mac using WebGPU",
-        "link": "https://auberon.xyz/blog/posts/deathray/",
-        "pubDate": "2026-09-11T00:04",
         "feedId": "lobsters"
       }
     ]
@@ -193,7 +193,13 @@
     "id": "arstechnica",
     "items": [
       {
-        "title": "Random rewards enrich classic game-theory contests",
+        "title": "Some satellite companies still have an appetite for boutique launch services",
+        "link": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+        "pubDate": "2026-09-11T23:34",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Random rewards enrich classic game-theory insights",
         "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
         "pubDate": "2026-09-11T21:41",
         "feedId": "arstechnica"
@@ -274,12 +280,6 @@
         "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
         "link": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
         "pubDate": "2026-09-10T20:55",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Europe will go it alone on Venus mission after NASA yanks radar instrument",
-        "link": "https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/",
-        "pubDate": "2026-09-10T19:09",
         "feedId": "arstechnica"
       }
     ]
