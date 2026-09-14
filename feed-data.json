@@ -3,21 +3,51 @@
     "id": "hn",
     "items": [
       {
-        "title": "Who Gets to Define the Rules for AI?",
-        "link": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-        "pubDate": "2026-09-14T04:49",
+        "title": "HP ZGX Fury Is Now Orderable: GB300 Superchip, 748GB Unified Memory",
+        "link": "https://www.storagereview.com/news/hp-zgx-fury-is-now-orderable-gb300-superchip-748gb-unified-memory-and-a-red-hat-ai-factory-plan-for-the-edge",
+        "pubDate": "2026-09-14T11:05",
         "feedId": "hn"
       },
       {
-        "title": "Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping",
-        "link": "https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html",
-        "pubDate": "2026-09-14T03:26",
+        "title": "How Much Has Trump Made from Crypto? ($1.4B from 2025 Federal Disclosure)",
+        "link": "https://www.thepricer.org/how-much-has-trump-made-from-crypto/",
+        "pubDate": "2026-09-14T10:56",
         "feedId": "hn"
       },
       {
-        "title": "OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others",
-        "link": "https://calif.io/research/oempocalypse",
-        "pubDate": "2026-09-14T02:25",
+        "title": "Pkgsrc Is Cool (2022)",
+        "link": "https://www.wisellama.rocks/posts/2021-12-23-pkgsrc-is-cool/",
+        "pubDate": "2026-09-14T09:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "A 386 PC for Your RP2350",
+        "link": "https://github.com/rh1tech/frank-386",
+        "pubDate": "2026-09-14T08:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "EuroBirdPortal – Live bird movements across Europe",
+        "link": "https://www.eurobirdportal.org/ebp/en/",
+        "pubDate": "2026-09-14T08:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+        "link": "https://github.com/anuj0456/OpenArch",
+        "pubDate": "2026-09-14T07:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: 1080p is 920px tall – 1k real browser viewports",
+        "link": "https://screensize.net/reports/viewport-stats",
+        "pubDate": "2026-09-14T07:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
+        "link": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
+        "pubDate": "2026-09-14T02:50",
         "feedId": "hn"
       },
       {
@@ -27,25 +57,13 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Exploring the intersection of prediction markets and social media",
-        "link": "https://www.thevidmarket.com/",
-        "pubDate": "2026-09-14T01:14",
-        "feedId": "hn"
-      },
-      {
         "title": "The case against JPEG XL",
         "link": "https://giannirosato.com/blog/post/case-against-jxl/",
         "pubDate": "2026-09-14T01:02",
         "feedId": "hn"
       },
       {
-        "title": "Writing a better reality: The case for optimistic sci-fi",
-        "link": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
-        "pubDate": "2026-09-14T00:27",
-        "feedId": "hn"
-      },
-      {
-        "title": "Open-Source AI and Open Models Reading List",
+        "title": "Open-source AI and open models reading list",
         "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
         "pubDate": "2026-09-14T00:22",
         "feedId": "hn"
@@ -57,27 +75,9 @@
         "feedId": "hn"
       },
       {
-        "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
-        "link": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
-        "pubDate": "2026-09-14T00:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Coming War on General Computation (2011)",
-        "link": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
-        "pubDate": "2026-09-13T23:54",
-        "feedId": "hn"
-      },
-      {
         "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
         "link": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
         "pubDate": "2026-09-13T21:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why is privacy so hard? (2019)",
-        "link": "https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/",
-        "pubDate": "2026-09-13T21:13",
         "feedId": "hn"
       },
       {
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech",
-        "link": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
-        "pubDate": "2026-09-13T12:10",
+        "title": "The case against JPEG XL",
+        "link": "https://giannirosato.com/blog/post/case-against-jxl",
+        "pubDate": "2026-09-14T01:18",
         "feedId": "lobsters"
       },
       {
-        "title": "what if my git host were a static site generator?",
-        "link": "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
-        "pubDate": "2026-09-13T16:10",
+        "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech",
+        "link": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
+        "pubDate": "2026-09-13T12:10",
         "feedId": "lobsters"
       },
       {
@@ -122,9 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The case against JPEG XL",
-        "link": "https://giannirosato.com/blog/post/case-against-jxl",
-        "pubDate": "2026-09-14T01:18",
+        "title": "what if my git host were a static site generator?",
+        "link": "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
+        "pubDate": "2026-09-13T16:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+        "link": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+        "pubDate": "2026-09-14T03:34",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Golang developers should try Odin",
-        "link": "https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/",
-        "pubDate": "2026-09-13T15:23",
+        "title": "Purely Functional Operating Systems",
+        "link": "https://eighty-twenty.org/2022/06/23/henderson-functional-operating-systems-1982",
+        "pubDate": "2026-09-14T00:03",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/0inlyw/what_are_you_doing_this_week",
+        "pubDate": "2026-09-14T07:47",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why is the x86 undefined instruction called ud2? Why 2?",
-        "link": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-        "pubDate": "2026-09-14T03:34",
+        "title": "Golang developers should try Odin",
+        "link": "https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/",
+        "pubDate": "2026-09-13T15:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "This PCB is brought to you by Fable 5",
+        "link": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
+        "pubDate": "2026-09-13T18:00",
         "feedId": "lobsters"
       },
       {
@@ -167,24 +185,6 @@
         "title": "heol",
         "link": "https://wiki.xxiivv.com/site/heol.html",
         "pubDate": "2026-09-13T05:59",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Can a regex match valid card numbers?",
-        "link": "https://abstractnonsense.xyz/blog/2025-08-31-can-a-regex-match-valid-card-numbers/",
-        "pubDate": "2026-09-13T13:39",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Stabilizing Rust's never type",
-        "link": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
-        "pubDate": "2026-09-13T14:00",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Purely Functional Operating Systems",
-        "link": "https://eighty-twenty.org/2022/06/23/henderson-functional-operating-systems-1982",
-        "pubDate": "2026-09-14T00:03",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "Washington's AI paralysis: Let 'er rip vs. hit the brakes",
+        "link": "https://www.axios.com/2026/09/14/trump-ai-safety-regulations-congress",
+        "pubDate": "2026-09-14T09:52",
+        "feedId": "axios"
+      },
+      {
+        "title": "How Republicans secretly got Fetterman for their convention",
+        "link": "https://www.axios.com/2026/09/14/inside-fetterman-appearance-gop-convention",
+        "pubDate": "2026-09-14T09:20",
+        "feedId": "axios"
+      },
+      {
         "title": "Dems' primary plan gives Native Americans more power",
         "link": "https://www.axios.com/2026/09/13/democrats-2028-primary-native-americans",
         "pubDate": "2026-09-13T21:45",
@@ -363,18 +375,6 @@
         "title": "Record diesel prices stoke food inflation, transportation costs",
         "link": "https://www.axios.com/2026/09/11/diesel-fuel-prices-food-transportation",
         "pubDate": "2026-09-11T20:29",
-        "feedId": "axios"
-      },
-      {
-        "title": "9/11 widow blasts Saudi Arabia during annual ceremony",
-        "link": "https://www.axios.com/2026/09/11/911-widow-saudi-arabia-trump",
-        "pubDate": "2026-09-11T19:54",
-        "feedId": "axios"
-      },
-      {
-        "title": "Afghan woman deported in first-ever \"Alien Terrorist\" court case, DOJ says",
-        "link": "https://www.axios.com/2026/09/11/alien-terrorist-court-first-deportation",
-        "pubDate": "2026-09-11T19:39",
         "feedId": "axios"
       }
     ]
