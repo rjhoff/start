@@ -3,93 +3,93 @@
     "id": "hn",
     "items": [
       {
-        "title": "HP ZGX Fury Is Now Orderable: GB300 Superchip, 748GB Unified Memory",
-        "link": "https://www.storagereview.com/news/hp-zgx-fury-is-now-orderable-gb300-superchip-748gb-unified-memory-and-a-red-hat-ai-factory-plan-for-the-edge",
-        "pubDate": "2026-09-14T11:05",
+        "title": "Pion, an agent designed to run any company autonomously",
+        "link": "https://andonlabs.com/blog/why-we-built-pion",
+        "pubDate": "2026-09-14T17:16",
         "feedId": "hn"
       },
       {
-        "title": "How Much Has Trump Made from Crypto? ($1.4B from 2025 Federal Disclosure)",
-        "link": "https://www.thepricer.org/how-much-has-trump-made-from-crypto/",
-        "pubDate": "2026-09-14T10:56",
+        "title": "It's a Scam",
+        "link": "https://nice-marmot.net/Archives/2026/September_2026.html#note_3792",
+        "pubDate": "2026-09-14T17:04",
         "feedId": "hn"
       },
       {
-        "title": "Pkgsrc Is Cool (2022)",
-        "link": "https://www.wisellama.rocks/posts/2021-12-23-pkgsrc-is-cool/",
-        "pubDate": "2026-09-14T09:53",
+        "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
+        "link": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+        "pubDate": "2026-09-14T17:02",
         "feedId": "hn"
       },
       {
-        "title": "A 386 PC for Your RP2350",
-        "link": "https://github.com/rh1tech/frank-386",
-        "pubDate": "2026-09-14T08:25",
+        "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
+        "link": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead",
+        "pubDate": "2026-09-14T17:00",
         "feedId": "hn"
       },
       {
-        "title": "EuroBirdPortal – Live bird movements across Europe",
-        "link": "https://www.eurobirdportal.org/ebp/en/",
-        "pubDate": "2026-09-14T08:25",
+        "title": "Why don't machine learning research agents overfit?",
+        "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+        "pubDate": "2026-09-14T16:32",
         "feedId": "hn"
       },
       {
-        "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-        "link": "https://github.com/anuj0456/OpenArch",
-        "pubDate": "2026-09-14T07:55",
+        "title": "When LLM judges agree, should we believe them?",
+        "link": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
+        "pubDate": "2026-09-14T16:29",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: 1080p is 920px tall – 1k real browser viewports",
-        "link": "https://screensize.net/reports/viewport-stats",
-        "pubDate": "2026-09-14T07:35",
+        "title": "Hacking AI customer service agents",
+        "link": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents",
+        "pubDate": "2026-09-14T16:26",
         "feedId": "hn"
       },
       {
-        "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
-        "link": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
-        "pubDate": "2026-09-14T02:50",
+        "title": "Claude is a Contrarian",
+        "link": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
+        "pubDate": "2026-09-14T16:14",
         "feedId": "hn"
       },
       {
-        "title": "The Malicious Use of Artificial Intelligence",
-        "link": "https://arxiv.org/abs/1802.07228",
-        "pubDate": "2026-09-14T01:22",
+        "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
+        "link": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
+        "pubDate": "2026-09-14T16:09",
         "feedId": "hn"
       },
       {
-        "title": "The case against JPEG XL",
-        "link": "https://giannirosato.com/blog/post/case-against-jxl/",
-        "pubDate": "2026-09-14T01:02",
+        "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
+        "link": "https://www.neobrutalism.dev/",
+        "pubDate": "2026-09-14T16:02",
         "feedId": "hn"
       },
       {
-        "title": "Open-source AI and open models reading list",
-        "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-        "pubDate": "2026-09-14T00:22",
+        "title": "Distributed Systems Classics",
+        "link": "https://nvartolomei.com/dist-sys-classics/",
+        "pubDate": "2026-09-14T16:02",
         "feedId": "hn"
       },
       {
-        "title": "Apple's Dimensional Drawings",
-        "link": "https://developer.apple.com/accessories/dimensional-drawings/",
-        "pubDate": "2026-09-14T00:11",
+        "title": "The Tudor Kings",
+        "link": "https://analog-antiquarian.net/2026/09/11/the-tudor-kings/",
+        "pubDate": "2026-09-14T16:00",
         "feedId": "hn"
       },
       {
-        "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-        "link": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-        "pubDate": "2026-09-13T21:47",
+        "title": "Truncated SVD",
+        "link": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
+        "pubDate": "2026-09-14T16:00",
         "feedId": "hn"
       },
       {
-        "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-        "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-        "pubDate": "2026-09-13T21:06",
+        "title": "Show HN: Fly.exe – An EON systems like virtual fruit fly uploaded to computer",
+        "link": "https://github.com/Ibtisam-Mohammad/Fly.exe",
+        "pubDate": "2026-09-14T15:56",
         "feedId": "hn"
       },
       {
-        "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
-        "link": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-        "pubDate": "2026-09-13T20:33",
+        "title": "A Beginning for Mathematics",
+        "link": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+        "pubDate": "2026-09-14T15:33",
         "feedId": "hn"
       }
     ]
@@ -98,33 +98,33 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Anecdotally, programmers dislike \"reduce\"",
-        "link": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
-        "pubDate": "2026-09-13T23:59",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The case against JPEG XL",
         "link": "https://giannirosato.com/blog/post/case-against-jxl",
         "pubDate": "2026-09-14T01:18",
         "feedId": "lobsters"
       },
       {
-        "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech",
-        "link": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
-        "pubDate": "2026-09-13T12:10",
+        "title": "Anecdotally, programmers dislike \"reduce\"",
+        "link": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+        "pubDate": "2026-09-13T23:59",
         "feedId": "lobsters"
       },
       {
-        "title": "Writing a Guix service from scratch, as a beginner",
-        "link": "https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html",
-        "pubDate": "2026-09-13T23:24",
+        "title": "Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats",
+        "link": "https://codeberg.org/mergiraf/mergiraf",
+        "pubDate": "2026-09-14T11:16",
         "feedId": "lobsters"
       },
       {
-        "title": "what if my git host were a static site generator?",
-        "link": "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
-        "pubDate": "2026-09-13T16:10",
+        "title": "Why Am I Still Programming",
+        "link": "https://www.youtube.com/watch?v=pOAj3mor8y8",
+        "pubDate": "2026-09-14T13:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What blog posts influenced your thinking the most?",
+        "link": "https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking",
+        "pubDate": "2026-09-14T15:27",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +134,51 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Switching to GNU Guix: A Beginner's Perspective",
-        "link": "https://whhone.com/posts/switching-to-gnu-guix/",
-        "pubDate": "2026-09-13T16:19",
+        "title": "The contagion of fear",
+        "link": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+        "pubDate": "2026-09-14T16:53",
         "feedId": "lobsters"
       },
       {
-        "title": "Purely Functional Operating Systems",
-        "link": "https://eighty-twenty.org/2022/06/23/henderson-functional-operating-systems-1982",
-        "pubDate": "2026-09-14T00:03",
+        "title": "Writing a Guix service from scratch, as a beginner",
+        "link": "https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html",
+        "pubDate": "2026-09-13T23:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Finished aerial maps in under 30 minutes",
+        "link": "https://blog.zm.is/finished-aerial-maps-within-30-minutes/",
+        "pubDate": "2026-09-14T13:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How can you not be romantic about UNIX domain sockets?",
+        "link": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
+        "pubDate": "2026-09-14T16:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech",
+        "link": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
+        "pubDate": "2026-09-13T12:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "We are all Product Engineers now",
+        "link": "https://seldo.com/posts/we-are-all-product-engineers-now/",
+        "pubDate": "2026-09-14T10:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "what if my git host were a static site generator?",
+        "link": "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
+        "pubDate": "2026-09-13T16:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "There are only twelve 4x4 sudokus - and a cool trick for finding minimal subsets",
+        "link": "https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/",
+        "pubDate": "2026-09-14T15:00",
         "feedId": "lobsters"
       },
       {
@@ -150,48 +186,42 @@
         "link": "https://lobste.rs/s/0inlyw/what_are_you_doing_this_week",
         "pubDate": "2026-09-14T07:47",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Homebrew 7.0.0",
-        "link": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
-        "pubDate": "2026-09-13T12:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Golang developers should try Odin",
-        "link": "https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/",
-        "pubDate": "2026-09-13T15:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "This PCB is brought to you by Fable 5",
-        "link": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
-        "pubDate": "2026-09-13T18:00",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I made a build visualizer to understand Bun’s compile times",
-        "link": "https://lalitm.com/post/buildprof/",
-        "pubDate": "2026-09-12T14:48",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "From Git to Fossil (2025)",
-        "link": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
-        "pubDate": "2026-09-13T07:51",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "heol",
-        "link": "https://wiki.xxiivv.com/site/heol.html",
-        "pubDate": "2026-09-13T05:59",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Prehistoric builders transported Devil's Arrows 11 miles",
+        "link": "https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/",
+        "pubDate": "2026-09-14T17:10",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Steam Frame: The Ars Technica review",
+        "link": "https://arstechnica.com/gaming/2026/09/steam-frame-the-ars-technica-review/",
+        "pubDate": "2026-09-14T17:00",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "\"Offensively cheap\": Solar power is looking up",
+        "link": "https://arstechnica.com/gadgets/2026/09/offensively-cheap-solar-power-is-looking-up/",
+        "pubDate": "2026-09-14T16:29",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "New corners, new lights for 2028 Volvo XC40",
+        "link": "https://arstechnica.com/cars/2026/09/how-to-make-a-small-suv-slightly-smaller-the-2028-volvo-xc40/",
+        "pubDate": "2026-09-14T15:46",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "F1 in Madrid: Like Monaco but twice as long and none of the glamour",
+        "link": "https://arstechnica.com/cars/2026/09/f1-in-madrid-like-monaco-but-twice-as-long-and-none-of-the-glamour/",
+        "pubDate": "2026-09-14T14:32",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
         "link": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
@@ -251,42 +281,30 @@
         "link": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
         "pubDate": "2026-09-11T18:22",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "NASA moving at warp speed to set up US Space Academy",
-        "link": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
-        "pubDate": "2026-09-11T16:20",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Claude users found ways around safeguards for bioweapons research",
-        "link": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-        "pubDate": "2026-09-11T13:02",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "ClickFix attacks infecting PCs and Macs are going viral",
-        "link": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
-        "pubDate": "2026-09-11T11:30",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "What happens when quantum mechanics and relativity meet?",
-        "link": "https://arstechnica.com/science/2026/09/what-happens-when-quantum-mechanics-and-relativity-meet/",
-        "pubDate": "2026-09-11T11:20",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Could United Launch Alliance's money problems finally force its owners to sell?",
-        "link": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
-        "pubDate": "2026-09-11T11:00",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Cities challenge Trump immigration rule over public benefits access",
+        "link": "https://www.axios.com/2026/09/14/trump-immigration-benefits-lawsuit-mamdani-nyc",
+        "pubDate": "2026-09-14T16:06",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump says a strong, smart president is the only \"guardrail\" AI needs",
+        "link": "https://www.axios.com/2026/09/14/trump-ai-safety-anthropic-dario-amodei",
+        "pubDate": "2026-09-14T16:02",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump's USPS mail-ballot rules hit a second roadblock as Supreme Court weighs case",
+        "link": "https://www.axios.com/2026/09/14/trumps-mail-ballot-rules-blocked",
+        "pubDate": "2026-09-14T15:39",
+        "feedId": "axios"
+      },
       {
         "title": "Washington's AI paralysis: Let 'er rip vs. hit the brakes",
         "link": "https://www.axios.com/2026/09/14/trump-ai-safety-regulations-congress",
@@ -357,24 +375,6 @@
         "title": "Behind the Curtain: It's not too late",
         "link": "https://www.axios.com/2026/09/12/ai-regulation-safety-plan-2026",
         "pubDate": "2026-09-12T12:01",
-        "feedId": "axios"
-      },
-      {
-        "title": "The world reconsiders America",
-        "link": "https://www.axios.com/2026/09/12/us-world-relationships-gold-tourism",
-        "pubDate": "2026-09-12T11:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Jewish institutions' security spending tops $1 billion as antisemitism persists",
-        "link": "https://www.axios.com/2026/09/12/jewish-security-spending-holy-days",
-        "pubDate": "2026-09-12T11:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Record diesel prices stoke food inflation, transportation costs",
-        "link": "https://www.axios.com/2026/09/11/diesel-fuel-prices-food-transportation",
-        "pubDate": "2026-09-11T20:29",
         "feedId": "axios"
       }
     ]
