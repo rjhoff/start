@@ -3,15 +3,39 @@
     "id": "hn",
     "items": [
       {
-        "title": "Pion, an agent designed to run any company autonomously",
-        "link": "https://andonlabs.com/blog/why-we-built-pion",
-        "pubDate": "2026-09-14T17:16",
+        "title": "Amazon.com Services, LLC vs. Perplexity AI, INC., No. 26-1444 (9th Cir. 2026)",
+        "link": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+        "pubDate": "2026-09-14T21:05",
         "feedId": "hn"
       },
       {
-        "title": "It's a Scam",
-        "link": "https://nice-marmot.net/Archives/2026/September_2026.html#note_3792",
-        "pubDate": "2026-09-14T17:04",
+        "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+        "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+        "pubDate": "2026-09-14T19:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "Oracle's Cold 6AM Layoff Emails Hit Staff Amid New Wave of Cuts",
+        "link": "https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676",
+        "pubDate": "2026-09-14T19:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "iOS 27, iPadOS 27, and macOS 27",
+        "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+        "pubDate": "2026-09-14T17:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "Steam Frame starts at $1059",
+        "link": "https://store.steampowered.com/hardware/steamframe",
+        "pubDate": "2026-09-14T17:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "Pion, an agent designed to run any company autonomously",
+        "link": "https://andonlabs.com/blog/why-we-built-pion",
+        "pubDate": "2026-09-14T17:16",
         "feedId": "hn"
       },
       {
@@ -33,21 +57,9 @@
         "feedId": "hn"
       },
       {
-        "title": "When LLM judges agree, should we believe them?",
-        "link": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
-        "pubDate": "2026-09-14T16:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hacking AI customer service agents",
-        "link": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents",
-        "pubDate": "2026-09-14T16:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Claude is a Contrarian",
-        "link": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
-        "pubDate": "2026-09-14T16:14",
+        "title": "How my e-reader lost its stripes",
+        "link": "https://www.serpentine.com/posts/2026/x3-stripes/",
+        "pubDate": "2026-09-14T16:23",
         "feedId": "hn"
       },
       {
@@ -57,39 +69,27 @@
         "feedId": "hn"
       },
       {
+        "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+        "link": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+        "pubDate": "2026-09-14T16:07",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
         "link": "https://www.neobrutalism.dev/",
         "pubDate": "2026-09-14T16:02",
         "feedId": "hn"
       },
       {
-        "title": "Distributed Systems Classics",
+        "title": "Distributed Systems Classics (2017)",
         "link": "https://nvartolomei.com/dist-sys-classics/",
         "pubDate": "2026-09-14T16:02",
         "feedId": "hn"
       },
       {
-        "title": "The Tudor Kings",
-        "link": "https://analog-antiquarian.net/2026/09/11/the-tudor-kings/",
-        "pubDate": "2026-09-14T16:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Truncated SVD",
+        "title": "Truncated SVD (2023)",
         "link": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
         "pubDate": "2026-09-14T16:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Fly.exe – An EON systems like virtual fruit fly uploaded to computer",
-        "link": "https://github.com/Ibtisam-Mohammad/Fly.exe",
-        "pubDate": "2026-09-14T15:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "A Beginning for Mathematics",
-        "link": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-        "pubDate": "2026-09-14T15:33",
         "feedId": "hn"
       }
     ]
@@ -98,9 +98,27 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "The contagion of fear",
+        "link": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+        "pubDate": "2026-09-14T16:53",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What blog posts influenced your thinking the most?",
+        "link": "https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking",
+        "pubDate": "2026-09-14T15:27",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The case against JPEG XL",
         "link": "https://giannirosato.com/blog/post/case-against-jxl",
         "pubDate": "2026-09-14T01:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How can you not be romantic about UNIX domain sockets?",
+        "link": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
+        "pubDate": "2026-09-14T16:27",
         "feedId": "lobsters"
       },
       {
@@ -122,27 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What blog posts influenced your thinking the most?",
-        "link": "https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking",
-        "pubDate": "2026-09-14T15:27",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Why is the x86 undefined instruction called ud2? Why 2?",
         "link": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
         "pubDate": "2026-09-14T03:34",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The contagion of fear",
-        "link": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
-        "pubDate": "2026-09-14T16:53",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Writing a Guix service from scratch, as a beginner",
-        "link": "https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html",
-        "pubDate": "2026-09-13T23:24",
         "feedId": "lobsters"
       },
       {
@@ -152,27 +152,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How can you not be romantic about UNIX domain sockets?",
-        "link": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
-        "pubDate": "2026-09-14T16:27",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech",
-        "link": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
-        "pubDate": "2026-09-13T12:10",
-        "feedId": "lobsters"
-      },
-      {
         "title": "We are all Product Engineers now",
         "link": "https://seldo.com/posts/we-are-all-product-engineers-now/",
         "pubDate": "2026-09-14T10:52",
         "feedId": "lobsters"
       },
       {
-        "title": "what if my git host were a static site generator?",
-        "link": "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
-        "pubDate": "2026-09-13T16:10",
+        "title": "I wish you the best in the Offline",
+        "link": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
+        "pubDate": "2026-09-14T16:39",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Writing a Guix service from scratch, as a beginner",
+        "link": "https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html",
+        "pubDate": "2026-09-13T23:24",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/0inlyw/what_are_you_doing_this_week",
-        "pubDate": "2026-09-14T07:47",
+        "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech",
+        "link": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
+        "pubDate": "2026-09-13T12:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "\"Do You Still Read the Code?\"",
+        "link": "https://zanlib.dev/blog/do-you-still-read-the-code/",
+        "pubDate": "2026-09-14T20:16",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,42 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+        "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+        "pubDate": "2026-09-14T19:45",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+        "link": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+        "pubDate": "2026-09-14T19:38",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+        "link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+        "pubDate": "2026-09-14T19:28",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "AI leaders want to hit the brakes after years of reckless speed",
+        "link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+        "pubDate": "2026-09-14T19:06",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Online hate researcher keeps hammering X despite deportation threat",
+        "link": "https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/",
+        "pubDate": "2026-09-14T18:24",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "A new solar cell could generate electricity underwater",
+        "link": "https://arstechnica.com/science/2026/09/a-new-solar-cell-could-generate-electricity-underwater/",
+        "pubDate": "2026-09-14T18:03",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Prehistoric builders transported Devil's Arrows 11 miles",
         "link": "https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/",
@@ -245,42 +281,6 @@
         "link": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
         "pubDate": "2026-09-11T23:34",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Random rewards enrich classic game-theory insights",
-        "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
-        "pubDate": "2026-09-11T21:41",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
-        "link": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
-        "pubDate": "2026-09-11T21:14",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Trump's forced coal plant extensions thrown out by judge",
-        "link": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
-        "pubDate": "2026-09-11T20:32",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-        "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-        "pubDate": "2026-09-11T19:34",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
-        "link": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
-        "pubDate": "2026-09-11T18:49",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Oracle tries to appease Stargate data center opponents with renewables push",
-        "link": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
-        "pubDate": "2026-09-11T18:22",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,21 +288,45 @@
     "id": "axios",
     "items": [
       {
-        "title": "Cities challenge Trump immigration rule over public benefits access",
-        "link": "https://www.axios.com/2026/09/14/trump-immigration-benefits-lawsuit-mamdani-nyc",
-        "pubDate": "2026-09-14T16:06",
+        "title": "Trump DHS whistleblower alleges workers lied to access state voter data",
+        "link": "https://www.axios.com/2026/09/14/trump-dhs-voter-data-false-statements",
+        "pubDate": "2026-09-14T21:23",
         "feedId": "axios"
       },
       {
-        "title": "Trump says a strong, smart president is the only \"guardrail\" AI needs",
-        "link": "https://www.axios.com/2026/09/14/trump-ai-safety-anthropic-dario-amodei",
-        "pubDate": "2026-09-14T16:02",
+        "title": "\"Look for other ways to get attention\": House Dems face new Trump impeachment blowup",
+        "link": "https://www.axios.com/2026/09/14/trump-impeachment-al-green-democrats-house-vote",
+        "pubDate": "2026-09-14T20:44",
         "feedId": "axios"
       },
       {
         "title": "Trump's USPS mail-ballot rules hit a second roadblock as Supreme Court weighs case",
         "link": "https://www.axios.com/2026/09/14/trumps-mail-ballot-rules-blocked",
-        "pubDate": "2026-09-14T15:39",
+        "pubDate": "2026-09-14T20:04",
+        "feedId": "axios"
+      },
+      {
+        "title": "Nationalist leaders say U.K. union \"coming to an end\"",
+        "link": "https://www.axios.com/2026/09/14/uk-union-northern-ireland-scotland-wales-independence",
+        "pubDate": "2026-09-14T19:44",
+        "feedId": "axios"
+      },
+      {
+        "title": "Texas nominees' racist, vulgar remarks receive mixed GOP reaction",
+        "link": "https://www.axios.com/2026/09/14/gop-controversy-brandon-herrera-bo-french",
+        "pubDate": "2026-09-14T19:13",
+        "feedId": "axios"
+      },
+      {
+        "title": "Cities challenge Trump immigration rule over public benefits access",
+        "link": "https://www.axios.com/2026/09/14/trump-immigration-benefits-lawsuit-mamdani-nyc",
+        "pubDate": "2026-09-14T18:11",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump says a strong, smart president is the only \"guardrail\" AI needs",
+        "link": "https://www.axios.com/2026/09/14/trump-ai-safety-anthropic-dario-amodei",
+        "pubDate": "2026-09-14T17:59",
         "feedId": "axios"
       },
       {
@@ -351,30 +375,6 @@
         "title": "The tab is coming due for America's borrowing binge",
         "link": "https://www.axios.com/2026/09/13/national-debt-interest-rates-rising",
         "pubDate": "2026-09-13T11:11",
-        "feedId": "axios"
-      },
-      {
-        "title": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says",
-        "link": "https://www.axios.com/2026/09/12/openai-public-ipo-delay-sam-altman",
-        "pubDate": "2026-09-12T19:50",
-        "feedId": "axios"
-      },
-      {
-        "title": "Anthropic, OpenAI CEOs call for slowdown in AI development",
-        "link": "https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing",
-        "pubDate": "2026-09-12T16:59",
-        "feedId": "axios"
-      },
-      {
-        "title": "Anthropic report: 5 ways Claude was exploited for war, spying and repression",
-        "link": "https://www.axios.com/2026/09/12/anthropic-ai-threat-report-russia-iran-china",
-        "pubDate": "2026-09-12T12:36",
-        "feedId": "axios"
-      },
-      {
-        "title": "Behind the Curtain: It's not too late",
-        "link": "https://www.axios.com/2026/09/12/ai-regulation-safety-plan-2026",
-        "pubDate": "2026-09-12T12:01",
         "feedId": "axios"
       }
     ]
