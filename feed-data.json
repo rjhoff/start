@@ -3,15 +3,63 @@
     "id": "hn",
     "items": [
       {
+        "title": "Suspected sabotage causes major Netherlands rail disruption",
+        "link": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+        "pubDate": "2026-09-15T10:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "Let's make quality the norm again",
+        "link": "https://www.forbrukerradet.no/short-life/",
+        "pubDate": "2026-09-15T10:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "How much of F-Droid is LLM generated?",
+        "link": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+        "pubDate": "2026-09-15T09:47",
+        "feedId": "hn"
+      },
+      {
+        "title": "Alternatives to MinIO for single-node local S3",
+        "link": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+        "pubDate": "2026-09-15T08:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "The k-server conjecture is true",
+        "link": "https://arxiv.org/abs/2609.15979",
+        "pubDate": "2026-09-15T07:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "CSS-Tricks in Limbo",
+        "link": "https://vale.rocks/micros/20260915-0135",
+        "pubDate": "2026-09-15T07:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+        "link": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+        "pubDate": "2026-09-15T07:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "I can't stop thinking about Papua New Guinea",
+        "link": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+        "pubDate": "2026-09-15T06:16",
+        "feedId": "hn"
+      },
+      {
         "title": "Linux from Scratch",
         "link": "https://www.linuxfromscratch.org/",
         "pubDate": "2026-09-15T04:15",
         "feedId": "hn"
       },
       {
-        "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-        "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
-        "pubDate": "2026-09-15T00:40",
+        "title": "US confirms for first time it has deployed space weapons",
+        "link": "https://www.bbc.com/news/articles/ck790xg41ygro",
+        "pubDate": "2026-09-15T03:47",
         "feedId": "hn"
       },
       {
@@ -27,27 +75,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
-        "link": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
-        "pubDate": "2026-09-14T21:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
-        "link": "https://pub.sakana.ai/pc-alm/",
-        "pubDate": "2026-09-14T18:03",
-        "feedId": "hn"
-      },
-      {
         "title": "iOS 27, iPadOS 27, and macOS 27",
         "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
         "pubDate": "2026-09-14T17:50",
-        "feedId": "hn"
-      },
-      {
-        "title": "Steam Frame starts at $1059",
-        "link": "https://store.steampowered.com/hardware/steamframe",
-        "pubDate": "2026-09-14T17:27",
         "feedId": "hn"
       },
       {
@@ -57,39 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
-        "link": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-        "pubDate": "2026-09-14T17:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why don't machine learning research agents overfit?",
-        "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-        "pubDate": "2026-09-14T16:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "How my e-reader lost its stripes",
-        "link": "https://www.serpentine.com/posts/2026/x3-stripes/",
-        "pubDate": "2026-09-14T16:23",
-        "feedId": "hn"
-      },
-      {
         "title": "Distributed Systems Classics (2017)",
         "link": "https://nvartolomei.com/dist-sys-classics/",
         "pubDate": "2026-09-14T16:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "A Beginning for Mathematics",
-        "link": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-        "pubDate": "2026-09-14T15:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "Principles for Fast Tokio Applications",
-        "link": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-        "pubDate": "2026-09-14T15:27",
         "feedId": "hn"
       }
     ]
@@ -122,9 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The case against JPEG XL",
-        "link": "https://giannirosato.com/blog/post/case-against-jxl",
-        "pubDate": "2026-09-14T01:18",
+        "title": "Coreutils - rejected feature requests",
+        "link": "https://www.gnu.org/software/coreutils/rejected_requests.html",
+        "pubDate": "2026-09-15T09:06",
         "feedId": "lobsters"
       },
       {
@@ -134,39 +134,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats",
-        "link": "https://codeberg.org/mergiraf/mergiraf",
-        "pubDate": "2026-09-14T11:16",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Anecdotally, programmers dislike \"reduce\"",
-        "link": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
-        "pubDate": "2026-09-13T23:59",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why Am I Still Programming",
-        "link": "https://www.youtube.com/watch?v=pOAj3mor8y8",
-        "pubDate": "2026-09-14T13:28",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why is the x86 undefined instruction called ud2? Why 2?",
-        "link": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-        "pubDate": "2026-09-14T03:34",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I wish you the best in the Offline",
-        "link": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
-        "pubDate": "2026-09-14T16:39",
-        "feedId": "lobsters"
-      },
-      {
         "title": "GDScript: The Good, Bad, and Ugly Parts",
         "link": "https://azhdarchid.com/gdscript-good-bad-ugly/",
         "pubDate": "2026-09-15T00:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The case against JPEG XL",
+        "link": "https://giannirosato.com/blog/post/case-against-jxl",
+        "pubDate": "2026-09-14T01:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats",
+        "link": "https://codeberg.org/mergiraf/mergiraf",
+        "pubDate": "2026-09-14T11:16",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +158,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Finished aerial maps in under 30 minutes",
-        "link": "https://blog.zm.is/finished-aerial-maps-within-30-minutes/",
-        "pubDate": "2026-09-14T13:37",
+        "title": "A Nix store is three functions",
+        "link": "https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions",
+        "pubDate": "2026-09-15T04:07",
         "feedId": "lobsters"
       },
       {
-        "title": "We are all Product Engineers now",
-        "link": "https://seldo.com/posts/we-are-all-product-engineers-now/",
-        "pubDate": "2026-09-14T10:52",
+        "title": "Why Am I Still Programming",
+        "link": "https://www.youtube.com/watch?v=pOAj3mor8y8",
+        "pubDate": "2026-09-14T13:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Anecdotally, programmers dislike \"reduce\"",
+        "link": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+        "pubDate": "2026-09-13T23:59",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I wish you the best in the Offline",
+        "link": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
+        "pubDate": "2026-09-14T16:39",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Stalling installing",
+        "link": "https://adactio.com/journal/22757",
+        "pubDate": "2026-09-15T07:31",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
+        "link": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
+        "pubDate": "2026-09-15T07:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "For the first time, the US military confirms it has deployed weapons in orbit",
         "link": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
@@ -275,18 +281,36 @@
         "link": "https://arstechnica.com/cars/2026/09/how-to-make-a-small-suv-slightly-smaller-the-2028-volvo-xc40/",
         "pubDate": "2026-09-14T15:46",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "F1 in Madrid: Like Monaco but twice as long and none of the glamour",
-        "link": "https://arstechnica.com/cars/2026/09/f1-in-madrid-like-monaco-but-twice-as-long-and-none-of-the-glamour/",
-        "pubDate": "2026-09-14T14:32",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Scoop: Top House Democrat launches investigation into Donald Trump Jr.'s wedding",
+        "link": "https://www.axios.com/2026/09/15/donald-trump-jr-wedding-investigation-kremlev",
+        "pubDate": "2026-09-15T09:37",
+        "feedId": "axios"
+      },
+      {
+        "title": "Baal out: Top diplomat's worry about pagan god elicits eye rolls",
+        "link": "https://www.axios.com/2026/09/15/landau-baal-bull-state-department-epstein",
+        "pubDate": "2026-09-15T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "Why a swift AI pause is unlikely: no one trusts AI companies",
+        "link": "https://www.axios.com/2026/09/15/ai-trust-safety-anthropic-openai",
+        "pubDate": "2026-09-15T09:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "\"I am the Hoax Buster\": Trump's war on AI doomers gets personal",
+        "link": "https://www.axios.com/2026/09/15/trump-ai-doom-safety-regulation-hoax",
+        "pubDate": "2026-09-15T09:00",
+        "feedId": "axios"
+      },
       {
         "title": "Supreme Court strikes down USPS mail-in voting rule",
         "link": "https://www.axios.com/2026/09/14/supreme-court-trump-mail-in-voting-rule",
@@ -351,30 +375,6 @@
         "title": "Cities challenge Trump immigration rule over public benefits access",
         "link": "https://www.axios.com/2026/09/14/trump-immigration-benefits-lawsuit-mamdani-nyc",
         "pubDate": "2026-09-14T18:11",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump says a strong, smart president is the only \"guardrail\" AI needs",
-        "link": "https://www.axios.com/2026/09/14/trump-ai-safety-anthropic-dario-amodei",
-        "pubDate": "2026-09-14T17:59",
-        "feedId": "axios"
-      },
-      {
-        "title": "How Warsh can avoid a repeat of July's communications mess",
-        "link": "https://www.axios.com/2026/09/14/how-warsh-can-avoid-a-repeat-of-julys-communications-mess",
-        "pubDate": "2026-09-14T16:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Washington's AI paralysis: Let 'er rip vs. hit the brakes",
-        "link": "https://www.axios.com/2026/09/14/trump-ai-safety-regulations-congress",
-        "pubDate": "2026-09-14T09:52",
-        "feedId": "axios"
-      },
-      {
-        "title": "How Republicans secretly got Fetterman for their convention",
-        "link": "https://www.axios.com/2026/09/14/inside-fetterman-appearance-gop-convention",
-        "pubDate": "2026-09-14T09:20",
         "feedId": "axios"
       }
     ]
