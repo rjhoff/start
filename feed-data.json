@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "Linux from Scratch",
+        "link": "https://www.linuxfromscratch.org/",
+        "pubDate": "2026-09-15T04:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+        "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+        "pubDate": "2026-09-15T00:40",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
         "link": "https://github.com/JamesRyanATX/fcbnerd",
         "pubDate": "2026-09-14T23:01",
@@ -18,12 +30,6 @@
         "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
         "link": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
         "pubDate": "2026-09-14T21:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-        "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-        "pubDate": "2026-09-14T19:56",
         "feedId": "hn"
       },
       {
@@ -57,12 +63,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
-        "link": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead",
-        "pubDate": "2026-09-14T17:00",
-        "feedId": "hn"
-      },
-      {
         "title": "Why don't machine learning research agents overfit?",
         "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
         "pubDate": "2026-09-14T16:32",
@@ -75,21 +75,21 @@
         "feedId": "hn"
       },
       {
-        "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
-        "link": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
-        "pubDate": "2026-09-14T16:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
-        "link": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
-        "pubDate": "2026-09-14T16:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
-        "link": "https://www.neobrutalism.dev/",
+        "title": "Distributed Systems Classics (2017)",
+        "link": "https://nvartolomei.com/dist-sys-classics/",
         "pubDate": "2026-09-14T16:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "A Beginning for Mathematics",
+        "link": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+        "pubDate": "2026-09-14T15:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Principles for Fast Tokio Applications",
+        "link": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+        "pubDate": "2026-09-14T15:27",
         "feedId": "hn"
       }
     ]
@@ -101,6 +101,12 @@
         "title": "The contagion of fear",
         "link": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
         "pubDate": "2026-09-14T16:53",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "\"Do You Still Read the Code?\"",
+        "link": "https://zanlib.dev/blog/do-you-still-read-the-code/",
+        "pubDate": "2026-09-14T20:16",
         "feedId": "lobsters"
       },
       {
@@ -122,6 +128,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "A New Equal-Area Map for Interactive Computer Use (natively zooms to Mercator)",
+        "link": "https://www.benjoffe.com/map",
+        "pubDate": "2026-09-14T22:37",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats",
         "link": "https://codeberg.org/mergiraf/mergiraf",
         "pubDate": "2026-09-14T11:16",
@@ -134,21 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "\"Do You Still Read the Code?\"",
-        "link": "https://zanlib.dev/blog/do-you-still-read-the-code/",
-        "pubDate": "2026-09-14T20:16",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Why Am I Still Programming",
         "link": "https://www.youtube.com/watch?v=pOAj3mor8y8",
         "pubDate": "2026-09-14T13:28",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A New Equal-Area Map that natively zooms to Mercator",
-        "link": "https://www.benjoffe.com/map",
-        "pubDate": "2026-09-14T22:37",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "We are all Product Engineers now",
-        "link": "https://seldo.com/posts/we-are-all-product-engineers-now/",
-        "pubDate": "2026-09-14T10:52",
+        "title": "I wish you the best in the Offline",
+        "link": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
+        "pubDate": "2026-09-14T16:39",
         "feedId": "lobsters"
       },
       {
-        "title": "Finished aerial maps in under 30 minutes",
-        "link": "https://blog.zm.is/finished-aerial-maps-within-30-minutes/",
-        "pubDate": "2026-09-14T13:37",
+        "title": "GDScript: The Good, Bad, and Ugly Parts",
+        "link": "https://azhdarchid.com/gdscript-good-bad-ugly/",
+        "pubDate": "2026-09-15T00:29",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I wish you the best in the Offline",
-        "link": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
-        "pubDate": "2026-09-14T16:39",
+        "title": "Finished aerial maps in under 30 minutes",
+        "link": "https://blog.zm.is/finished-aerial-maps-within-30-minutes/",
+        "pubDate": "2026-09-14T13:37",
         "feedId": "lobsters"
       },
       {
-        "title": "Writing a Guix service from scratch, as a beginner",
-        "link": "https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html",
-        "pubDate": "2026-09-13T23:24",
+        "title": "We are all Product Engineers now",
+        "link": "https://seldo.com/posts/we-are-all-product-engineers-now/",
+        "pubDate": "2026-09-14T10:52",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "For the first time, the US military confirms it has deployed weapons in orbit",
+        "link": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
+        "pubDate": "2026-09-15T03:47",
+        "feedId": "arstechnica"
+      },
       {
         "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
         "link": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
@@ -275,12 +281,6 @@
         "link": "https://arstechnica.com/cars/2026/09/f1-in-madrid-like-monaco-but-twice-as-long-and-none-of-the-glamour/",
         "pubDate": "2026-09-14T14:32",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
-        "link": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
-        "pubDate": "2026-09-13T21:56",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,14 +288,20 @@
     "id": "axios",
     "items": [
       {
-        "title": "Thune sees role for Congress on AI — Trump does not",
-        "link": "https://www.axios.com/2026/09/14/ai-john-thune-republicans-donald-trump-congress",
-        "pubDate": "2026-09-14T23:49",
+        "title": "Supreme Court strikes down USPS mail-in voting rule",
+        "link": "https://www.axios.com/2026/09/14/supreme-court-trump-mail-in-voting-rule",
+        "pubDate": "2026-09-15T01:36",
         "feedId": "axios"
       },
       {
-        "title": "Supreme Court strikes down USPS mail-in voting rule",
-        "link": "https://www.axios.com/2026/09/14/supreme-court-trump-mail-in-voting-rule",
+        "title": "\"Look for other ways to get attention\": House Dems face new Trump impeachment blowup",
+        "link": "https://www.axios.com/2026/09/14/trump-impeachment-al-green-democrats-house-vote",
+        "pubDate": "2026-09-15T00:37",
+        "feedId": "axios"
+      },
+      {
+        "title": "Thune sees role for Congress on AI — Trump does not",
+        "link": "https://www.axios.com/2026/09/14/ai-john-thune-republicans-donald-trump-congress",
         "pubDate": "2026-09-14T23:49",
         "feedId": "axios"
       },
@@ -321,12 +327,6 @@
         "title": "Trump and Jensen Huang unite against AI doomers in surprise on-stage call",
         "link": "https://www.axios.com/2026/09/14/trump-jensen-huang-nvidia-ai-all-in-summit",
         "pubDate": "2026-09-14T20:52",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"Look for other ways to get attention\": House Dems face new Trump impeachment blowup",
-        "link": "https://www.axios.com/2026/09/14/trump-impeachment-al-green-democrats-house-vote",
-        "pubDate": "2026-09-14T20:44",
         "feedId": "axios"
       },
       {
