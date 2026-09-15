@@ -3,7 +3,19 @@
     "id": "hn",
     "items": [
       {
-        "title": "Amazon.com Services, LLC vs. Perplexity AI, INC., No. 26-1444 (9th Cir. 2026)",
+        "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+        "link": "https://github.com/JamesRyanATX/fcbnerd",
+        "pubDate": "2026-09-14T23:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Charts built for Chat",
+        "link": "https://dbtcharts.com/blog/charts-built-for-chat/",
+        "pubDate": "2026-09-14T21:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
         "link": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
         "pubDate": "2026-09-14T21:05",
         "feedId": "hn"
@@ -15,9 +27,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Oracle's Cold 6AM Layoff Emails Hit Staff Amid New Wave of Cuts",
-        "link": "https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676",
-        "pubDate": "2026-09-14T19:05",
+        "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
+        "link": "https://pub.sakana.ai/pc-alm/",
+        "pubDate": "2026-09-14T18:03",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://www.neobrutalism.dev/",
         "pubDate": "2026-09-14T16:02",
         "feedId": "hn"
-      },
-      {
-        "title": "Distributed Systems Classics (2017)",
-        "link": "https://nvartolomei.com/dist-sys-classics/",
-        "pubDate": "2026-09-14T16:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "Truncated SVD (2023)",
-        "link": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
-        "pubDate": "2026-09-14T16:00",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,21 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The case against JPEG XL",
-        "link": "https://giannirosato.com/blog/post/case-against-jxl",
-        "pubDate": "2026-09-14T01:18",
-        "feedId": "lobsters"
-      },
-      {
         "title": "How can you not be romantic about UNIX domain sockets?",
         "link": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
         "pubDate": "2026-09-14T16:27",
         "feedId": "lobsters"
       },
       {
-        "title": "Anecdotally, programmers dislike \"reduce\"",
-        "link": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
-        "pubDate": "2026-09-13T23:59",
+        "title": "The case against JPEG XL",
+        "link": "https://giannirosato.com/blog/post/case-against-jxl",
+        "pubDate": "2026-09-14T01:18",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +128,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Anecdotally, programmers dislike \"reduce\"",
+        "link": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+        "pubDate": "2026-09-13T23:59",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "\"Do You Still Read the Code?\"",
+        "link": "https://zanlib.dev/blog/do-you-still-read-the-code/",
+        "pubDate": "2026-09-14T20:16",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Why Am I Still Programming",
         "link": "https://www.youtube.com/watch?v=pOAj3mor8y8",
         "pubDate": "2026-09-14T13:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A New Equal-Area Map that natively zooms to Mercator",
+        "link": "https://www.benjoffe.com/map",
+        "pubDate": "2026-09-14T22:37",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +158,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "We are all Product Engineers now",
+        "link": "https://seldo.com/posts/we-are-all-product-engineers-now/",
+        "pubDate": "2026-09-14T10:52",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Finished aerial maps in under 30 minutes",
         "link": "https://blog.zm.is/finished-aerial-maps-within-30-minutes/",
         "pubDate": "2026-09-14T13:37",
         "feedId": "lobsters"
       },
       {
-        "title": "We are all Product Engineers now",
-        "link": "https://seldo.com/posts/we-are-all-product-engineers-now/",
-        "pubDate": "2026-09-14T10:52",
+        "title": "A Letter from a Machine Learning Engineer",
+        "link": "https://nemin.hu/llm-letter/index.html",
+        "pubDate": "2026-09-14T17:58",
         "feedId": "lobsters"
       },
       {
@@ -168,30 +186,30 @@
         "link": "https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html",
         "pubDate": "2026-09-13T23:24",
         "feedId": "lobsters"
-      },
-      {
-        "title": "There are only twelve 4x4 sudokus - and a cool trick for finding minimal subsets",
-        "link": "https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/",
-        "pubDate": "2026-09-14T15:00",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech",
-        "link": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
-        "pubDate": "2026-09-13T12:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "\"Do You Still Read the Code?\"",
-        "link": "https://zanlib.dev/blog/do-you-still-read-the-code/",
-        "pubDate": "2026-09-14T20:16",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
+        "link": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
+        "pubDate": "2026-09-14T22:06",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
+        "link": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
+        "pubDate": "2026-09-14T21:32",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+        "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+        "pubDate": "2026-09-14T21:04",
+        "feedId": "arstechnica"
+      },
       {
         "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
         "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
@@ -263,24 +281,6 @@
         "link": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
         "pubDate": "2026-09-13T21:56",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
-        "link": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
-        "pubDate": "2026-09-13T11:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "I spent $4,000 on a robot dog from China",
-        "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
-        "pubDate": "2026-09-12T11:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Some satellite companies still have an appetite for boutique launch services",
-        "link": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
-        "pubDate": "2026-09-11T23:34",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,9 +288,39 @@
     "id": "axios",
     "items": [
       {
+        "title": "Thune sees role for Congress on AI — Trump does not",
+        "link": "https://www.axios.com/2026/09/14/ai-john-thune-republicans-donald-trump-congress",
+        "pubDate": "2026-09-14T23:49",
+        "feedId": "axios"
+      },
+      {
+        "title": "Supreme Court strikes down USPS mail-in voting rule",
+        "link": "https://www.axios.com/2026/09/14/supreme-court-trump-mail-in-voting-rule",
+        "pubDate": "2026-09-14T23:49",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump's $5,000 checks get chilly Senate GOP reception",
+        "link": "https://www.axios.com/2026/09/14/trump-republicans-5000-checks-mike-johnson-midterms",
+        "pubDate": "2026-09-14T23:49",
+        "feedId": "axios"
+      },
+      {
+        "title": "McConnell returns to Capitol after 3-month absence",
+        "link": "https://www.axios.com/2026/09/14/mitch-mcconnell-senate-republicans-capitol-vote-fall-hospital",
+        "pubDate": "2026-09-14T22:10",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump DHS whistleblower alleges workers lied to access state voter data",
         "link": "https://www.axios.com/2026/09/14/trump-dhs-voter-data-false-statements",
         "pubDate": "2026-09-14T21:23",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump and Jensen Huang unite against AI doomers in surprise on-stage call",
+        "link": "https://www.axios.com/2026/09/14/trump-jensen-huang-nvidia-ai-all-in-summit",
+        "pubDate": "2026-09-14T20:52",
         "feedId": "axios"
       },
       {
@@ -330,6 +360,12 @@
         "feedId": "axios"
       },
       {
+        "title": "How Warsh can avoid a repeat of July's communications mess",
+        "link": "https://www.axios.com/2026/09/14/how-warsh-can-avoid-a-repeat-of-julys-communications-mess",
+        "pubDate": "2026-09-14T16:00",
+        "feedId": "axios"
+      },
+      {
         "title": "Washington's AI paralysis: Let 'er rip vs. hit the brakes",
         "link": "https://www.axios.com/2026/09/14/trump-ai-safety-regulations-congress",
         "pubDate": "2026-09-14T09:52",
@@ -339,42 +375,6 @@
         "title": "How Republicans secretly got Fetterman for their convention",
         "link": "https://www.axios.com/2026/09/14/inside-fetterman-appearance-gop-convention",
         "pubDate": "2026-09-14T09:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "Dems' primary plan gives Native Americans more power",
-        "link": "https://www.axios.com/2026/09/13/democrats-2028-primary-native-americans",
-        "pubDate": "2026-09-13T21:45",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump's $5,000 checks require Congress to approve, Johnson says",
-        "link": "https://www.axios.com/2026/09/13/trumps-5000-5k-checks-congress",
-        "pubDate": "2026-09-13T19:47",
-        "feedId": "axios"
-      },
-      {
-        "title": "Why Trump's united Ireland stance hit such a nerve",
-        "link": "https://www.axios.com/2026/09/13/trump-united-ireland-north-south",
-        "pubDate": "2026-09-13T19:34",
-        "feedId": "axios"
-      },
-      {
-        "title": "Johnson calls for AI solutions but says Congress won't take the lead",
-        "link": "https://www.axios.com/2026/09/13/ai-safety-congress-law-mike-johnson",
-        "pubDate": "2026-09-13T16:23",
-        "feedId": "axios"
-      },
-      {
-        "title": "AI's most powerful CEOs hit the brakes",
-        "link": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
-        "pubDate": "2026-09-13T12:56",
-        "feedId": "axios"
-      },
-      {
-        "title": "The tab is coming due for America's borrowing binge",
-        "link": "https://www.axios.com/2026/09/13/national-debt-interest-rates-rising",
-        "pubDate": "2026-09-13T11:11",
         "feedId": "axios"
       }
     ]
