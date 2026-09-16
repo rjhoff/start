@@ -3,6 +3,54 @@
     "id": "hn",
     "items": [
       {
+        "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
+        "link": "https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer",
+        "pubDate": "2026-09-16T12:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
+        "link": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
+        "pubDate": "2026-09-16T11:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Google Play app review process now regularly takes longer than a week",
+        "link": "https://gultsch.social/@daniel/117280438824908947",
+        "pubDate": "2026-09-16T11:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "Salesforce Global Outage",
+        "link": "https://status.salesforce.com/products/all",
+        "pubDate": "2026-09-16T10:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "EU chief opens door for Canada to become 'associate member'",
+        "link": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
+        "pubDate": "2026-09-16T09:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "Learning Programming in an Age of LLMs",
+        "link": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+        "pubDate": "2026-09-16T09:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+        "link": "https://mistral.ai/news/mistral-x-mozilla/",
+        "pubDate": "2026-09-16T08:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "A software thing I built: GPS on a 25MHz 486-SX",
+        "link": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
+        "pubDate": "2026-09-16T05:43",
+        "feedId": "hn"
+      },
+      {
         "title": "Datamimic – don't let your coding agent invent its own test world",
         "link": "https://github.com/rapiddweller/datamimic",
         "pubDate": "2026-09-16T04:58",
@@ -12,12 +60,6 @@
         "title": "Negativland, Culture Jamming, and the Art of Making Something New",
         "link": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
         "pubDate": "2026-09-16T02:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "Stay discoverable in search while disallowing AI training",
-        "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-        "pubDate": "2026-09-16T02:25",
         "feedId": "hn"
       },
       {
@@ -45,51 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Jean-Pierre Serre turns 100",
-        "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-        "pubDate": "2026-09-15T20:57",
-        "feedId": "hn"
-      },
-      {
         "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
         "link": "https://codyho.dev/blog/gpu-driver/",
         "pubDate": "2026-09-15T19:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
-        "link": "https://github.com/GraafHenk/numberwang",
-        "pubDate": "2026-09-15T19:27",
-        "feedId": "hn"
-      },
-      {
-        "title": "Introducing System One Models and Jev",
-        "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-        "pubDate": "2026-09-15T19:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "Learning to solve hard problems in RL for LLMs by never giving up",
-        "link": "https://mnoukhov.github.io/posts/ngu/",
-        "pubDate": "2026-09-15T19:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "Chopping up books when they're physically too big",
-        "link": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
-        "pubDate": "2026-09-15T18:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "We got admin access to Baseten's production GitHub",
-        "link": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-        "pubDate": "2026-09-15T18:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "An update on Wayback Machine access",
-        "link": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-        "pubDate": "2026-09-15T17:52",
         "feedId": "hn"
       }
     ]
@@ -98,93 +98,93 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "GEFS on OpenBSD: A very early preview",
-        "link": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
-        "pubDate": "2026-09-15T17:21",
+        "title": "What blog posts influenced your thinking the most?",
+        "link": "https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking",
+        "pubDate": "2026-09-14T15:27",
         "feedId": "lobsters"
       },
       {
-        "title": "Small Programming Tricks",
-        "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-        "pubDate": "2026-09-15T20:50",
+        "title": "From Report to Patch, the OpenBSD Errata Process",
+        "link": "https://exquisite.tube/w/sDafcZjdEQpR83aogPSx9j",
+        "pubDate": "2026-09-16T11:20",
         "feedId": "lobsters"
       },
       {
-        "title": "Some things Veloren does differently",
-        "link": "https://blog.jsbarretto.com/post/veloren",
-        "pubDate": "2026-09-16T03:47",
+        "title": "19th Nervous Breakdown",
+        "link": "https://thebuild.com/blog/19th-nervous-breakdown/",
+        "pubDate": "2026-09-16T06:52",
         "feedId": "lobsters"
       },
       {
-        "title": "Coreutils - rejected feature requests",
-        "link": "https://www.gnu.org/software/coreutils/rejected_requests.html",
-        "pubDate": "2026-09-15T09:06",
+        "title": "Subnormal floating-point numbers are expensive… on Intel processors",
+        "link": "https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/",
+        "pubDate": "2026-09-15T18:41",
         "feedId": "lobsters"
       },
       {
-        "title": "A/I Shuts Down",
-        "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-        "pubDate": "2026-09-16T06:05",
+        "title": "txcript: Switching coding agents mid-conversation",
+        "link": "https://github.com/skillsynchq/txcript",
+        "pubDate": "2026-09-15T22:12",
         "feedId": "lobsters"
       },
       {
-        "title": "JDK 27 has been released",
-        "link": "https://openjdk.org/projects/jdk/27/",
-        "pubDate": "2026-09-16T03:17",
+        "title": "A New Equal-Area Map for Interactive Computer Use (natively zooms to Mercator)",
+        "link": "https://www.benjoffe.com/map",
+        "pubDate": "2026-09-14T22:37",
         "feedId": "lobsters"
       },
       {
-        "title": "CSS-Tricks in Limbo",
-        "link": "https://vale.rocks/micros/20260915-0135",
-        "pubDate": "2026-09-15T09:12",
+        "title": "How can you not be romantic about UNIX domain sockets?",
+        "link": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
+        "pubDate": "2026-09-14T16:27",
         "feedId": "lobsters"
       },
       {
-        "title": "\"Do You Still Read the Code?\"",
-        "link": "https://zanlib.dev/blog/do-you-still-read-the-code/",
-        "pubDate": "2026-09-14T20:16",
+        "title": "Trying to Make a Loop Auto-Vectorize",
+        "link": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
+        "pubDate": "2026-09-15T17:29",
         "feedId": "lobsters"
       },
       {
-        "title": "How much of F-Droid is LLM generated?",
-        "link": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-        "pubDate": "2026-09-15T17:09",
+        "title": "Stalling installing",
+        "link": "https://adactio.com/journal/22757",
+        "pubDate": "2026-09-15T07:31",
         "feedId": "lobsters"
       },
       {
-        "title": "The contagion of fear",
-        "link": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
-        "pubDate": "2026-09-14T16:53",
+        "title": "GDScript: The Good, Bad, and Ugly Parts",
+        "link": "https://azhdarchid.com/gdscript-good-bad-ugly/",
+        "pubDate": "2026-09-15T00:29",
         "feedId": "lobsters"
       },
       {
-        "title": "Swift 6.4 Released",
-        "link": "https://www.swift.org/blog/swift-6.4-released/",
-        "pubDate": "2026-09-15T18:55",
+        "title": "IBM Built the Cold War’s Most Powerful Code Breaker for the NSA",
+        "link": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+        "pubDate": "2026-09-15T11:22",
         "feedId": "lobsters"
       },
       {
-        "title": "From Intern to Software Architect",
-        "link": "https://chauhankiran.blogspot.com/2026/09/levels.html",
-        "pubDate": "2026-09-15T18:38",
+        "title": "Search over Algebraic Graphs",
+        "link": "https://anekstein.com/posts/2026-08-22.html",
+        "pubDate": "2026-09-15T12:04",
         "feedId": "lobsters"
       },
       {
-        "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
-        "link": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
-        "pubDate": "2026-09-16T03:39",
+        "title": "A Letter from a Machine Learning Engineer",
+        "link": "https://nemin.hu/llm-letter/index.html",
+        "pubDate": "2026-09-14T17:58",
         "feedId": "lobsters"
       },
       {
-        "title": "Converting a $20 4G wireless hotspot into a texting device",
-        "link": "https://bkovac.github.io/modem-thing/",
-        "pubDate": "2026-09-15T13:43",
+        "title": "How I Wrote a Forth (Without Knowing How)",
+        "link": "https://vtrlx.ca/w/2026-09-10-how-i-wrote-moonforth.html",
+        "pubDate": "2026-09-15T12:51",
         "feedId": "lobsters"
       },
       {
-        "title": "1Password's AI patching benchmark is misleading",
-        "link": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/",
-        "pubDate": "2026-09-15T20:03",
+        "title": "You can run git on object storage if you re-make packfiles",
+        "link": "https://www.tigrisdata.com/blog/objgit-packfiles/",
+        "pubDate": "2026-09-15T17:03",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,42 @@
     "id": "axios",
     "items": [
       {
+        "title": "Exclusive: Kristen Silverberg named next president and CEO of Business Roundtable",
+        "link": "https://www.axios.com/2026/09/16/business-roundtable-kristen-silverberg-ceo",
+        "pubDate": "2026-09-16T13:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "An aging Congress attempts to regulate AI without using it",
+        "link": "https://www.axios.com/2026/09/16/lawmakers-regulate-ai-without-using-it",
+        "pubDate": "2026-09-16T09:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump escalates war on federal data",
+        "link": "https://www.axios.com/2026/09/16/trump-data-census-eeoc-cdc-interference",
+        "pubDate": "2026-09-16T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "Household income hits record, but lower earners lose ground",
+        "link": "https://www.axios.com/2026/09/16/us-economy-income-census",
+        "pubDate": "2026-09-16T09:10",
+        "feedId": "axios"
+      },
+      {
+        "title": "Tech giants launch flexible-power coalition for data centers",
+        "link": "https://www.axios.com/2026/09/16/tech-giants-launch-flexible-power-coalition-data-centers",
+        "pubDate": "2026-09-16T09:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "Girls flag football is fastest-growing high school sport",
+        "link": "https://www.axios.com/2026/09/16/girls-flag-football-fastest-growing-high-school-sport",
+        "pubDate": "2026-09-16T08:50",
+        "feedId": "axios"
+      },
+      {
         "title": "AI panic sparks rare bipartisan moment on Capitol Hill",
         "link": "https://www.axios.com/2026/09/15/ai-congress-regulation-bill-trump-bipartisan",
         "pubDate": "2026-09-15T23:08",
@@ -339,42 +375,6 @@
         "title": "Massie moves to impeach Pete Hegseth over Iran War",
         "link": "https://www.axios.com/2026/09/15/massie-impeach-pete-hegseth-iran-war",
         "pubDate": "2026-09-15T17:07",
-        "feedId": "axios"
-      },
-      {
-        "title": "Kennedy Center's attempt to put Trump's name on building blocked again by judge",
-        "link": "https://www.axios.com/2026/09/15/trump-name-kennedy-center-judge-ruling",
-        "pubDate": "2026-09-15T17:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump turns on the Supreme Court he helped build",
-        "link": "https://www.axios.com/2026/09/15/trump-supreme-court-justices-mail-voting",
-        "pubDate": "2026-09-15T15:06",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump DHS whistleblower alleges workers lied to access state voter data",
-        "link": "https://www.axios.com/2026/09/14/trump-dhs-voter-data-false-statements",
-        "pubDate": "2026-09-15T13:39",
-        "feedId": "axios"
-      },
-      {
-        "title": "Cities challenge Trump immigration rule over public benefits access",
-        "link": "https://www.axios.com/2026/09/14/trump-immigration-benefits-lawsuit-mamdani-nyc",
-        "pubDate": "2026-09-15T13:37",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: U.S. attacked Iranian boats trying to seize Navy drone",
-        "link": "https://www.axios.com/2026/09/15/us-iran-boats-navy-drone-strait-hormuz",
-        "pubDate": "2026-09-15T12:55",
-        "feedId": "axios"
-      },
-      {
-        "title": "House Democrats face divisions on Russian sanctions bill",
-        "link": "https://www.axios.com/2026/09/15/russia-sanctions-trump-tariffs-house-democrats",
-        "pubDate": "2026-09-15T11:06",
         "feedId": "axios"
       }
     ]
