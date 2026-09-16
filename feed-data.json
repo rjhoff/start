@@ -3,19 +3,73 @@
     "id": "hn",
     "items": [
       {
+        "title": "Xiami Mimo 2.6 Live Post-Training Dashboard",
+        "link": "https://mimo.xiaomi.com/rl/",
+        "pubDate": "2026-09-16T20:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "macOS 27 Golden Gate: The Ars Technica Review",
+        "link": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+        "pubDate": "2026-09-16T19:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "How good are frontier models at physics?",
+        "link": "https://arxiv.org/abs/2609.13009",
+        "pubDate": "2026-09-16T19:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "Accurate Models of AMD Matrix Cores",
+        "link": "https://arxiv.org/abs/2609.14845",
+        "pubDate": "2026-09-16T18:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+        "link": "https://rohanbansal.com/qorl",
+        "pubDate": "2026-09-16T18:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "Reverse-engineered Jev-like model",
+        "link": "https://github.com/vinnylarouge/jevlike",
+        "pubDate": "2026-09-16T18:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why a fast-growing German AI startup is moving its parent company from the US",
+        "link": "https://www.euronews.com/business/2026/09/16/why-this-fast-growing-german-ai-start-up-is-moving-its-parent-company-from-the-us",
+        "pubDate": "2026-09-16T18:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tell HN: An inside view of Montana's new biotech law",
+        "link": "https://news.ycombinator.com/item?id=49731216",
+        "pubDate": "2026-09-16T18:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Vectorized and performance-portable Quicksort (2022)",
+        "link": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+        "pubDate": "2026-09-16T18:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "Training Text-to-Image Models 3.6× Faster",
+        "link": "https://www.linum.ai/field-notes/jit-ddt",
+        "pubDate": "2026-09-16T16:58",
+        "feedId": "hn"
+      },
+      {
         "title": "Claude Cowork and chat are now one Claude",
         "link": "https://claude.com/blog/cowork-is-now-claude",
         "pubDate": "2026-09-16T16:26",
         "feedId": "hn"
       },
       {
-        "title": "This Code Is CRAP (2011)",
-        "link": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
-        "pubDate": "2026-09-16T16:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "Small Programming Tricks",
+        "title": "Small programming tricks",
         "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
         "pubDate": "2026-09-16T15:56",
         "feedId": "hn"
@@ -33,63 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Anatomy of a Texture",
-        "link": "https://agentlien.github.io/texture/",
-        "pubDate": "2026-09-16T14:28",
-        "feedId": "hn"
-      },
-      {
         "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
         "link": "https://arxiv.org/abs/2609.14858",
         "pubDate": "2026-09-16T13:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hackers Got Inside a Flock Camera",
-        "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
-        "pubDate": "2026-09-16T13:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "Scaling Golang CI by Replacing actions/setup-go",
-        "link": "https://www.cloudx.ai/posts/setup-go",
-        "pubDate": "2026-09-16T13:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
-        "link": "https://stale.jock.pl/",
-        "pubDate": "2026-09-16T13:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-        "link": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-        "pubDate": "2026-09-16T12:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
-        "link": "https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer",
-        "pubDate": "2026-09-16T12:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
-        "link": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-        "pubDate": "2026-09-16T11:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Google Play app review process now regularly takes longer than a week",
-        "link": "https://gultsch.social/@daniel/117280438824908947",
-        "pubDate": "2026-09-16T11:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "Salesforce Global Outage",
-        "link": "https://status.salesforce.com/products/all",
-        "pubDate": "2026-09-16T10:37",
         "feedId": "hn"
       }
     ]
@@ -104,9 +104,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
-        "link": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
-        "pubDate": "2026-09-16T03:39",
+        "title": "The end of verygoodsoftwarenotvirus.ru",
+        "link": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/",
+        "pubDate": "2026-09-16T16:58",
         "feedId": "lobsters"
       },
       {
@@ -116,9 +116,45 @@
         "feedId": "lobsters"
       },
       {
+        "title": "How to get a DOI for your blog posts",
+        "link": "https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/",
+        "pubDate": "2026-09-16T15:59",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why i'm still bearish on LLMs after Navier-Stokes",
+        "link": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+        "pubDate": "2026-09-16T15:04",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+        "link": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+        "pubDate": "2026-09-16T03:39",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Reinventing issue tracking: Local-first and Git-native",
         "link": "https://blog.manganin.dev/blog/reinventing-issue-tracking/",
         "pubDate": "2026-09-16T10:17",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Introducing GNOME 51",
+        "link": "https://release.gnome.org/51/",
+        "pubDate": "2026-09-16T18:05",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The smallest possible Linux distribution",
+        "link": "https://distrowatch.com/weekly.php?issue=20260914#qa",
+        "pubDate": "2026-09-16T13:04",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Some things Veloren does differently",
+        "link": "https://blog.jsbarretto.com/post/veloren",
+        "pubDate": "2026-09-16T03:47",
         "feedId": "lobsters"
       },
       {
@@ -134,57 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Some things Veloren does differently",
-        "link": "https://blog.jsbarretto.com/post/veloren",
-        "pubDate": "2026-09-16T03:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The smallest possible Linux distribution",
-        "link": "https://distrowatch.com/weekly.php?issue=20260914#qa",
-        "pubDate": "2026-09-16T13:04",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Maintaining the love for coding in the time of AI",
         "link": "https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/",
         "pubDate": "2026-09-16T06:31",
         "feedId": "lobsters"
       },
       {
-        "title": "Apple Reference Image: A New Approach for Verified Photography",
-        "link": "https://security.apple.com/blog/apple-reference-image/",
-        "pubDate": "2026-09-16T04:19",
+        "title": "Why building a Rust LSP is hard",
+        "link": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+        "pubDate": "2026-09-16T16:17",
         "feedId": "lobsters"
       },
       {
-        "title": "JDK 27 has been released",
-        "link": "https://openjdk.org/projects/jdk/27/",
-        "pubDate": "2026-09-16T03:17",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "When adding a fractional part to a number fixes your shader",
-        "link": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
-        "pubDate": "2026-09-16T10:20",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Simple and Efficient Row-Level Security",
-        "link": "https://acadia.engineering/blog/simple-and-efficient-row-level-security",
-        "pubDate": "2026-09-16T12:54",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why i'm still bearish on LLMs after Navier-Stokes",
-        "link": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-        "pubDate": "2026-09-16T15:04",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Agent State in the Tmux Status Line",
-        "link": "https://thecloudlet.github.io/technical/til/tmux-agent-status-indicator/",
-        "pubDate": "2026-09-16T07:09",
+        "title": "Unicode 18.0.0",
+        "link": "https://www.unicode.org/versions/Unicode18.0.0/",
+        "pubDate": "2026-09-16T17:38",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "It’s OK to tell ICE their actions will haunt them, judge rules in speech fight",
+        "link": "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/",
+        "pubDate": "2026-09-16T17:06",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
+        "link": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
+        "pubDate": "2026-09-16T16:40",
+        "feedId": "arstechnica"
+      },
       {
         "title": "What happens when neutrinos swap identities inside a supernova?",
         "link": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/",
@@ -269,24 +281,18 @@
         "link": "https://arstechnica.com/science/2026/09/epa-seeks-to-eliminate-remaining-greenhouse-gas-rules-for-power-plants/",
         "pubDate": "2026-09-15T13:43",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "GM gives its most important trucks a new UI—and includes CarPlay",
-        "link": "https://arstechnica.com/cars/2026/09/gm-gives-its-most-important-trucks-a-new-ui-and-includes-carplay/",
-        "pubDate": "2026-09-15T13:27",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "This Atlantic hurricane season is about to do something that hasn't happened in 175 years",
-        "link": "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/",
-        "pubDate": "2026-09-15T12:36",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "U.S. diplomats meet with Houthis as Red Sea crisis intensifies",
+        "link": "https://www.axios.com/2026/09/16/us-houthi-oman-to-discuss-red-sea-crisis",
+        "pubDate": "2026-09-16T18:19",
+        "feedId": "axios"
+      },
       {
         "title": "Scoop: U.S. open to discuss AI \"shared risks\" with China, Bessent says",
         "link": "https://www.axios.com/2026/09/16/us-open-ai-shared-risks-china-bessent",
@@ -369,12 +375,6 @@
         "title": "How Ed Sheeran's tour imploded over a geopolitical fight",
         "link": "https://www.axios.com/2026/09/15/ed-sheeran-loop-tour-macklemore-gaza-backlash",
         "pubDate": "2026-09-15T21:53",
-        "feedId": "axios"
-      },
-      {
-        "title": "House quashes another Trump impeachment push with Dem help",
-        "link": "https://www.axios.com/2026/09/15/trump-impeachment-house-vote-al-green-democrats",
-        "pubDate": "2026-09-15T21:02",
         "feedId": "axios"
       }
     ]
