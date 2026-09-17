@@ -3,15 +3,57 @@
     "id": "hn",
     "items": [
       {
+        "title": "Cloudflare/Security-Audit-Skill",
+        "link": "https://github.com/cloudflare/security-audit-skill",
+        "pubDate": "2026-09-17T04:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+        "link": "https://github.com/browser-use/jev-ultrafast",
+        "pubDate": "2026-09-17T03:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+        "link": "https://ryan.science/blog/keys-not-included",
+        "pubDate": "2026-09-17T03:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "Monsanto's Cruel, and Dangerous, Monopolization on American Farming (2008)",
+        "link": "https://www.vanityfair.com/news/2008/05/monsanto200805",
+        "pubDate": "2026-09-17T02:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+        "link": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+        "pubDate": "2026-09-17T01:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Part-human part-mouse brain developed in science breakthrough",
+        "link": "https://www.bbc.com/news/articles/c60m3k28j81mo",
+        "pubDate": "2026-09-17T01:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+        "link": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
+        "pubDate": "2026-09-17T00:28",
+        "feedId": "hn"
+      },
+      {
         "title": "OpenSpec – A lightweight and configurable AI spec framework",
         "link": "https://openspec.dev/",
         "pubDate": "2026-09-16T23:06",
         "feedId": "hn"
       },
       {
-        "title": "Australia says it could follow Canada in forging deeper ties with EU",
-        "link": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
-        "pubDate": "2026-09-16T22:56",
+        "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+        "link": "https://harnesstax.github.io/",
+        "pubDate": "2026-09-16T22:10",
         "feedId": "hn"
       },
       {
@@ -33,24 +75,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Why Does the Universe Expand?",
-        "link": "https://cosmicave.org/2026/09/15/why-does-the-universe-expand/",
-        "pubDate": "2026-09-16T19:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "How good are frontier models at physics?",
-        "link": "https://arxiv.org/abs/2609.13009",
-        "pubDate": "2026-09-16T19:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "Accurate Models of AMD Matrix Cores",
-        "link": "https://arxiv.org/abs/2609.14845",
-        "pubDate": "2026-09-16T18:56",
-        "feedId": "hn"
-      },
-      {
         "title": "Training a 4B model to produce 81% faster query plans than Postgres",
         "link": "https://rohanbansal.com/qorl",
         "pubDate": "2026-09-16T18:50",
@@ -63,33 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Vectorized and performance-portable Quicksort (2022)",
-        "link": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
-        "pubDate": "2026-09-16T18:31",
-        "feedId": "hn"
-      },
-      {
-        "title": "Training Text-to-Image Models 3.6× Faster",
-        "link": "https://www.linum.ai/field-notes/jit-ddt",
-        "pubDate": "2026-09-16T16:58",
-        "feedId": "hn"
-      },
-      {
         "title": "Small programming tricks",
         "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
         "pubDate": "2026-09-16T15:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "The DeepMind Institute",
-        "link": "https://institute.deepmind.com/",
-        "pubDate": "2026-09-16T14:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "Anatomy of a Texture",
-        "link": "https://agentlien.github.io/texture/",
-        "pubDate": "2026-09-16T14:28",
         "feedId": "hn"
       }
     ]
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Forgery of C2PA on a Pixel 10",
-        "link": "https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html",
-        "pubDate": "2026-09-16T13:24",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Introducing GNOME 51",
         "link": "https://release.gnome.org/51/",
         "pubDate": "2026-09-16T18:05",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Forgery of C2PA on a Pixel 10",
+        "link": "https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html",
+        "pubDate": "2026-09-16T13:24",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
-        "link": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
-        "pubDate": "2026-09-16T03:39",
+        "title": "OSRS Wiki and RuneLite are increasingly under strain from low-effort AI development",
+        "link": "https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development",
+        "pubDate": "2026-09-16T17:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
+        "link": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+        "pubDate": "2026-09-16T19:33",
         "feedId": "lobsters"
       },
       {
@@ -146,27 +152,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Some things Veloren does differently",
-        "link": "https://blog.jsbarretto.com/post/veloren",
-        "pubDate": "2026-09-16T03:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "OSRS Wiki and RuneLite are increasingly under strain from low-effort AI development",
-        "link": "https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development",
-        "pubDate": "2026-09-16T17:18",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Unicode 18.0.0",
         "link": "https://www.unicode.org/versions/Unicode18.0.0/",
         "pubDate": "2026-09-16T17:38",
         "feedId": "lobsters"
       },
       {
-        "title": "The smallest possible Linux distribution",
-        "link": "https://distrowatch.com/weekly.php?issue=20260914#qa",
-        "pubDate": "2026-09-16T13:04",
+        "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+        "link": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+        "pubDate": "2026-09-16T03:39",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Replacing Pull Requests with Delta",
-        "link": "https://zed.dev/blog/delta-public-beta",
-        "pubDate": "2026-09-16T16:27",
+        "title": "The smallest possible Linux distribution",
+        "link": "https://distrowatch.com/weekly.php?issue=20260914#qa",
+        "pubDate": "2026-09-16T13:04",
         "feedId": "lobsters"
       },
       {
-        "title": "GEFS on OpenBSD: A very early preview",
-        "link": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
-        "pubDate": "2026-09-15T17:21",
+        "title": "Why building a Rust LSP is hard",
+        "link": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+        "pubDate": "2026-09-16T16:17",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Some things Veloren does differently",
+        "link": "https://blog.jsbarretto.com/post/veloren",
+        "pubDate": "2026-09-16T03:47",
         "feedId": "lobsters"
       }
     ]
@@ -312,6 +312,12 @@
         "feedId": "axios"
       },
       {
+        "title": "House passes Russia sanctions bill",
+        "link": "https://www.axios.com/2026/09/16/house-russia-sanctions-bill-graham",
+        "pubDate": "2026-09-16T22:30",
+        "feedId": "axios"
+      },
+      {
         "title": "OpenAI discloses six new safety incidents",
         "link": "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure",
         "pubDate": "2026-09-16T22:00",
@@ -369,12 +375,6 @@
         "title": "Household income hits record, but lower earners lose ground",
         "link": "https://www.axios.com/2026/09/16/us-economy-income-census",
         "pubDate": "2026-09-16T09:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "Tech giants launch flexible-power coalition for data centers",
-        "link": "https://www.axios.com/2026/09/16/tech-giants-launch-flexible-power-coalition-data-centers",
-        "pubDate": "2026-09-16T09:00",
         "feedId": "axios"
       }
     ]
