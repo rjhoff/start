@@ -3,39 +3,39 @@
     "id": "hn",
     "items": [
       {
+        "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+        "link": "https://manticoresearch.com/blog/auto-chunking/",
+        "pubDate": "2026-09-17T10:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "GLM Built Its Own Inference Infrastructure",
+        "link": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+        "pubDate": "2026-09-17T08:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "One Year of Sponsored Servo Development",
+        "link": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+        "pubDate": "2026-09-17T08:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "OpenAI Model Misalignment Report",
+        "link": "https://openai.com/index/model-misalignment-reporting-framework/",
+        "pubDate": "2026-09-17T07:21",
+        "feedId": "hn"
+      },
+      {
         "title": "Cloudflare/Security-Audit-Skill",
         "link": "https://github.com/cloudflare/security-audit-skill",
         "pubDate": "2026-09-17T04:36",
         "feedId": "hn"
       },
       {
-        "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
-        "link": "https://github.com/browser-use/jev-ultrafast",
-        "pubDate": "2026-09-17T03:12",
-        "feedId": "hn"
-      },
-      {
         "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
         "link": "https://ryan.science/blog/keys-not-included",
         "pubDate": "2026-09-17T03:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Monsanto's Cruel, and Dangerous, Monopolization on American Farming (2008)",
-        "link": "https://www.vanityfair.com/news/2008/05/monsanto200805",
-        "pubDate": "2026-09-17T02:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
-        "link": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
-        "pubDate": "2026-09-17T01:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "Part-human part-mouse brain developed in science breakthrough",
-        "link": "https://www.bbc.com/news/articles/c60m3k28j81mo",
-        "pubDate": "2026-09-17T01:33",
         "feedId": "hn"
       },
       {
@@ -81,15 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Reverse-engineered Jev-like model",
-        "link": "https://github.com/vinnylarouge/jevlike",
-        "pubDate": "2026-09-16T18:49",
-        "feedId": "hn"
-      },
-      {
         "title": "Small programming tricks",
         "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
         "pubDate": "2026-09-16T15:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nvidia announces native GPU programming in Rust",
+        "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+        "pubDate": "2026-09-16T11:15",
         "feedId": "hn"
       }
     ]
@@ -104,21 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A/I Shuts Down",
-        "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-        "pubDate": "2026-09-16T06:05",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Introducing GNOME 51",
         "link": "https://release.gnome.org/51/",
         "pubDate": "2026-09-16T18:05",
         "feedId": "lobsters"
       },
       {
-        "title": "Forgery of C2PA on a Pixel 10",
-        "link": "https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html",
-        "pubDate": "2026-09-16T13:24",
+        "title": "A/I Shuts Down",
+        "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+        "pubDate": "2026-09-16T06:05",
         "feedId": "lobsters"
       },
       {
@@ -128,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why i'm still bearish on LLMs after Navier-Stokes",
-        "link": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-        "pubDate": "2026-09-16T15:04",
+        "title": "Forgery of C2PA on a Pixel 10",
+        "link": "https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html",
+        "pubDate": "2026-09-16T13:24",
         "feedId": "lobsters"
       },
       {
-        "title": "OSRS Wiki and RuneLite are increasingly under strain from low-effort AI development",
-        "link": "https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development",
-        "pubDate": "2026-09-16T17:18",
+        "title": "Why i'm still bearish on LLMs after Navier-Stokes",
+        "link": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+        "pubDate": "2026-09-16T15:04",
         "feedId": "lobsters"
       },
       {
@@ -146,33 +140,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Reinventing issue tracking: Local-first and Git-native",
-        "link": "https://blog.manganin.dev/blog/reinventing-issue-tracking/",
-        "pubDate": "2026-09-16T10:17",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Unicode 18.0.0",
         "link": "https://www.unicode.org/versions/Unicode18.0.0/",
         "pubDate": "2026-09-16T17:38",
         "feedId": "lobsters"
       },
       {
-        "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
-        "link": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
-        "pubDate": "2026-09-16T03:39",
+        "title": "OSRS Wiki and RuneLite are increasingly under strain from low-effort AI development",
+        "link": "https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development",
+        "pubDate": "2026-09-16T17:18",
         "feedId": "lobsters"
       },
       {
-        "title": "Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years",
-        "link": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-        "pubDate": "2026-09-16T17:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The smallest possible Linux distribution",
-        "link": "https://distrowatch.com/weekly.php?issue=20260914#qa",
-        "pubDate": "2026-09-16T13:04",
+        "title": "Why .tar.gz files can't be combined with cat",
+        "link": "https://alexwlchan.net/2026/cat-confusion/",
+        "pubDate": "2026-09-16T22:55",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Some things Veloren does differently",
-        "link": "https://blog.jsbarretto.com/post/veloren",
-        "pubDate": "2026-09-16T03:47",
+        "title": "Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years",
+        "link": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
+        "pubDate": "2026-09-16T17:22",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Reversing Factorio's RNG",
+        "link": "https://gegell.github.io/posts/factorio-rng/",
+        "pubDate": "2026-09-16T21:06",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Reinventing issue tracking: Local-first and Git-native",
+        "link": "https://blog.manganin.dev/blog/reinventing-issue-tracking/",
+        "pubDate": "2026-09-16T10:17",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+        "link": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+        "pubDate": "2026-09-16T03:39",
         "feedId": "lobsters"
       }
     ]
@@ -241,7 +241,7 @@
         "feedId": "arstechnica"
       },
       {
-        "title": "The Specialized Diverge Pro 4 makes rough gravel your playground",
+        "title": "The Specialized Diverge 4 Pro makes rough gravel your playground",
         "link": "https://arstechnica.com/reviews/2026/09/the-specialized-diverge-pro-4-makes-rough-gravel-your-playground/",
         "pubDate": "2026-09-16T18:11",
         "feedId": "arstechnica"
@@ -287,6 +287,24 @@
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "States prep for ICE agents to be at polls, just in case",
+        "link": "https://www.axios.com/2026/09/17/states-ice-polls-2026-election",
+        "pubDate": "2026-09-17T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "Hasan Piker on \"The Axios Show\": America worse than al-Qaeda \"pound for pound\"",
+        "link": "https://www.axios.com/2026/09/17/hasan-piker-axios-show-terrorism-america",
+        "pubDate": "2026-09-17T09:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "AI's imminent hacking threat is hiding in plain sight",
+        "link": "https://www.axios.com/2026/09/17/ai-cyber-doomsday-hacking-threats",
+        "pubDate": "2026-09-17T09:00",
+        "feedId": "axios"
+      },
       {
         "title": "Scoop: Trump to hold Iran talks with Gulf leaders next week",
         "link": "https://www.axios.com/2026/09/16/trump-iran-talks-gulf-leaders-un",
@@ -357,24 +375,6 @@
         "title": "Exclusive: Kristen Silverberg named next president and CEO of Business Roundtable",
         "link": "https://www.axios.com/2026/09/16/business-roundtable-kristen-silverberg-ceo",
         "pubDate": "2026-09-16T13:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "An aging Congress attempts to regulate AI without using it",
-        "link": "https://www.axios.com/2026/09/16/lawmakers-regulate-ai-without-using-it",
-        "pubDate": "2026-09-16T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump escalates war on federal data",
-        "link": "https://www.axios.com/2026/09/16/trump-data-census-eeoc-cdc-interference",
-        "pubDate": "2026-09-16T09:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "Household income hits record, but lower earners lose ground",
-        "link": "https://www.axios.com/2026/09/16/us-economy-income-census",
-        "pubDate": "2026-09-16T09:10",
         "feedId": "axios"
       }
     ]
