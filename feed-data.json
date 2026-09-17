@@ -3,6 +3,42 @@
     "id": "hn",
     "items": [
       {
+        "title": "I Don't Like LLMs",
+        "link": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+        "pubDate": "2026-09-17T13:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "I had Gemini train its own replacement for $9",
+        "link": "https://www.petervijeh.com/projects/reddit-ner",
+        "pubDate": "2026-09-17T13:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Share your AI Setup, Learn from others",
+        "link": "https://mysetup.ai/",
+        "pubDate": "2026-09-17T13:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
+        "link": "https://flat.social",
+        "pubDate": "2026-09-17T12:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
+        "link": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
+        "pubDate": "2026-09-17T11:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+        "link": "https://news.ycombinator.com/item?id=49738879",
+        "pubDate": "2026-09-17T10:44",
+        "feedId": "hn"
+      },
+      {
         "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
         "link": "https://manticoresearch.com/blog/auto-chunking/",
         "pubDate": "2026-09-17T10:30",
@@ -21,9 +57,9 @@
         "feedId": "hn"
       },
       {
-        "title": "OpenAI Model Misalignment Report",
-        "link": "https://openai.com/index/model-misalignment-reporting-framework/",
-        "pubDate": "2026-09-17T07:21",
+        "title": "CCC invites all model citizens to 40C3",
+        "link": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+        "pubDate": "2026-09-17T08:03",
         "feedId": "hn"
       },
       {
@@ -36,18 +72,6 @@
         "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
         "link": "https://ryan.science/blog/keys-not-included",
         "pubDate": "2026-09-17T03:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-        "link": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
-        "pubDate": "2026-09-17T00:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "OpenSpec – A lightweight and configurable AI spec framework",
-        "link": "https://openspec.dev/",
-        "pubDate": "2026-09-16T23:06",
         "feedId": "hn"
       },
       {
@@ -67,30 +91,6 @@
         "link": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
         "pubDate": "2026-09-16T20:27",
         "feedId": "hn"
-      },
-      {
-        "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-        "link": "https://mimo.xiaomi.com/rl/",
-        "pubDate": "2026-09-16T20:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-        "link": "https://rohanbansal.com/qorl",
-        "pubDate": "2026-09-16T18:50",
-        "feedId": "hn"
-      },
-      {
-        "title": "Small programming tricks",
-        "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-        "pubDate": "2026-09-16T15:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nvidia announces native GPU programming in Rust",
-        "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-        "pubDate": "2026-09-16T11:15",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Introducing GNOME 51",
-        "link": "https://release.gnome.org/51/",
-        "pubDate": "2026-09-16T18:05",
+        "title": "I expected better from Google",
+        "link": "https://www.minitap.ai/blog/i-expected-better-from-google",
+        "pubDate": "2026-09-17T10:01",
         "feedId": "lobsters"
       },
       {
-        "title": "A/I Shuts Down",
-        "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-        "pubDate": "2026-09-16T06:05",
+        "title": "Introducing GNOME 51",
+        "link": "https://release.gnome.org/51/",
+        "pubDate": "2026-09-16T18:05",
         "feedId": "lobsters"
       },
       {
@@ -122,9 +122,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Forgery of C2PA on a Pixel 10",
-        "link": "https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html",
-        "pubDate": "2026-09-16T13:24",
+        "title": "Your Donations at Work: One Year of Sponsored Servo Development",
+        "link": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+        "pubDate": "2026-09-17T10:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A/I Shuts Down",
+        "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+        "pubDate": "2026-09-16T06:05",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+        "link": "https://jakeasmith.com/blog/http-build-url/",
+        "pubDate": "2026-09-17T13:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language",
+        "link": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
+        "pubDate": "2026-09-17T15:10",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
-        "link": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
-        "pubDate": "2026-09-16T19:33",
+        "title": "Forgery of C2PA on a Pixel 10",
+        "link": "https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html",
+        "pubDate": "2026-09-16T13:24",
         "feedId": "lobsters"
       },
       {
@@ -146,45 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "OSRS Wiki and RuneLite are increasingly under strain from low-effort AI development",
-        "link": "https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development",
-        "pubDate": "2026-09-16T17:18",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Why .tar.gz files can't be combined with cat",
         "link": "https://alexwlchan.net/2026/cat-confusion/",
         "pubDate": "2026-09-16T22:55",
         "feedId": "lobsters"
       },
       {
-        "title": "Why building a Rust LSP is hard",
-        "link": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-        "pubDate": "2026-09-16T16:17",
+        "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
+        "link": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+        "pubDate": "2026-09-16T19:33",
         "feedId": "lobsters"
       },
       {
-        "title": "Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years",
-        "link": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-        "pubDate": "2026-09-16T17:22",
+        "title": "Tilia—a new formatter for Haskell",
+        "link": "https://markkarpov.com/post/announcing-tilia.html",
+        "pubDate": "2026-09-17T04:17",
         "feedId": "lobsters"
       },
       {
-        "title": "Reversing Factorio's RNG",
-        "link": "https://gegell.github.io/posts/factorio-rng/",
-        "pubDate": "2026-09-16T21:06",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Reinventing issue tracking: Local-first and Git-native",
-        "link": "https://blog.manganin.dev/blog/reinventing-issue-tracking/",
-        "pubDate": "2026-09-16T10:17",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
-        "link": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
-        "pubDate": "2026-09-16T03:39",
+        "title": "OSRS Wiki and RuneLite are increasingly under strain from low-effort AI development",
+        "link": "https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development",
+        "pubDate": "2026-09-16T17:18",
         "feedId": "lobsters"
       }
     ]
