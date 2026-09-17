@@ -3,93 +3,93 @@
     "id": "hn",
     "items": [
       {
-        "title": "I Don't Like LLMs",
-        "link": "https://martinfowler.com/articles/2026-dont-like-llms.html",
-        "pubDate": "2026-09-17T13:57",
+        "title": "How to Write with an LLM",
+        "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+        "pubDate": "2026-09-17T21:48",
         "feedId": "hn"
       },
       {
-        "title": "I had Gemini train its own replacement for $9",
-        "link": "https://www.petervijeh.com/projects/reddit-ner",
-        "pubDate": "2026-09-17T13:17",
+        "title": "Sex, AI, and the Apocalypse",
+        "link": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+        "pubDate": "2026-09-17T21:15",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Share your AI Setup, Learn from others",
-        "link": "https://mysetup.ai/",
-        "pubDate": "2026-09-17T13:01",
+        "title": "How Uber Protects Against Retry Storms",
+        "link": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+        "pubDate": "2026-09-17T21:14",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
-        "link": "https://flat.social",
-        "pubDate": "2026-09-17T12:57",
+        "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+        "link": "https://prismml.com/news/bonsai-2-27b",
+        "pubDate": "2026-09-17T21:13",
         "feedId": "hn"
       },
       {
-        "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
-        "link": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
-        "pubDate": "2026-09-17T11:00",
+        "title": "The most important product decision is what you don't build",
+        "link": "https://liamnugent.me/posts/what-you-dont-build/",
+        "pubDate": "2026-09-17T20:52",
         "feedId": "hn"
       },
       {
-        "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
-        "link": "https://news.ycombinator.com/item?id=49738879",
-        "pubDate": "2026-09-17T10:44",
+        "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
+        "link": "https://snapdrop.me",
+        "pubDate": "2026-09-17T20:48",
         "feedId": "hn"
       },
       {
-        "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
-        "link": "https://manticoresearch.com/blog/auto-chunking/",
-        "pubDate": "2026-09-17T10:30",
+        "title": "Flet 1.0 – Build cross-platform apps in Python",
+        "link": "https://flet.dev/",
+        "pubDate": "2026-09-17T20:44",
         "feedId": "hn"
       },
       {
-        "title": "GLM Built Its Own Inference Infrastructure",
-        "link": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-        "pubDate": "2026-09-17T08:27",
+        "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+        "link": "https://bend-lang.com/",
+        "pubDate": "2026-09-17T20:36",
         "feedId": "hn"
       },
       {
-        "title": "One Year of Sponsored Servo Development",
-        "link": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-        "pubDate": "2026-09-17T08:13",
+        "title": "Astra for Law",
+        "link": "https://openai.com/index/astra-for-law/",
+        "pubDate": "2026-09-17T20:17",
         "feedId": "hn"
       },
       {
-        "title": "CCC invites all model citizens to 40C3",
-        "link": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
-        "pubDate": "2026-09-17T08:03",
+        "title": "Everybody's Lost Their Minds",
+        "link": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
+        "pubDate": "2026-09-17T19:43",
         "feedId": "hn"
       },
       {
-        "title": "Cloudflare/Security-Audit-Skill",
-        "link": "https://github.com/cloudflare/security-audit-skill",
-        "pubDate": "2026-09-17T04:36",
+        "title": "Canto: A speech model built for the real world",
+        "link": "https://wisprflow.ai/canto",
+        "pubDate": "2026-09-17T18:32",
         "feedId": "hn"
       },
       {
-        "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-        "link": "https://ryan.science/blog/keys-not-included",
-        "pubDate": "2026-09-17T03:03",
+        "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
+        "link": "https://zscc.ai/careers?job_id=109821",
+        "pubDate": "2026-09-17T17:00",
         "feedId": "hn"
       },
       {
-        "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
-        "link": "https://harnesstax.github.io/",
-        "pubDate": "2026-09-16T22:10",
+        "title": "Towards Self-Driving Codebases",
+        "link": "https://blog.detail.dev/posts/towards-self-driving-codebases/",
+        "pubDate": "2026-09-17T16:58",
         "feedId": "hn"
       },
       {
-        "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-        "link": "https://arxiv.org/abs/2609.16338",
-        "pubDate": "2026-09-16T20:59",
+        "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+        "link": "https://arxiv.org/abs/2609.18842",
+        "pubDate": "2026-09-17T16:55",
         "feedId": "hn"
       },
       {
-        "title": "Backups Aren't Simple",
-        "link": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
-        "pubDate": "2026-09-16T20:27",
+        "title": "Hister: A private search engine for the pages you visit and the files you keep",
+        "link": "https://github.com/asciimoo/hister",
+        "pubDate": "2026-09-17T16:25",
         "feedId": "hn"
       }
     ]
@@ -98,9 +98,9 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "The end of verygoodsoftwarenotvirus.ru",
-        "link": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/",
-        "pubDate": "2026-09-16T16:58",
+        "title": "I Don't Like LLMs",
+        "link": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+        "pubDate": "2026-09-17T15:25",
         "feedId": "lobsters"
       },
       {
@@ -110,27 +110,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Introducing GNOME 51",
-        "link": "https://release.gnome.org/51/",
-        "pubDate": "2026-09-16T18:05",
+        "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language",
+        "link": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
+        "pubDate": "2026-09-17T15:10",
         "feedId": "lobsters"
       },
       {
-        "title": "How to get a DOI for your blog posts",
-        "link": "https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/",
-        "pubDate": "2026-09-16T15:59",
+        "title": "Everybody's Lost Their Minds",
+        "link": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
+        "pubDate": "2026-09-17T15:06",
         "feedId": "lobsters"
       },
       {
-        "title": "Your Donations at Work: One Year of Sponsored Servo Development",
-        "link": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-        "pubDate": "2026-09-17T10:37",
+        "title": "Be alert: targeted attacks on prominent Rustaceans",
+        "link": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
+        "pubDate": "2026-09-17T18:10",
         "feedId": "lobsters"
       },
       {
-        "title": "A/I Shuts Down",
-        "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-        "pubDate": "2026-09-16T06:05",
+        "title": "Labeled matches: why is this not in every regex engine?",
+        "link": "https://iev.ee/blog/categorize-everything-all-at-once/",
+        "pubDate": "2026-09-17T16:44",
         "feedId": "lobsters"
       },
       {
@@ -140,39 +140,39 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language",
-        "link": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
-        "pubDate": "2026-09-17T15:10",
+        "title": "The end of verygoodsoftwarenotvirus.ru",
+        "link": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/",
+        "pubDate": "2026-09-16T16:58",
         "feedId": "lobsters"
       },
       {
-        "title": "Why i'm still bearish on LLMs after Navier-Stokes",
-        "link": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-        "pubDate": "2026-09-16T15:04",
+        "title": "Your Donations at Work: One Year of Sponsored Servo Development",
+        "link": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+        "pubDate": "2026-09-17T10:37",
         "feedId": "lobsters"
       },
       {
-        "title": "Forgery of C2PA on a Pixel 10",
-        "link": "https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html",
-        "pubDate": "2026-09-16T13:24",
+        "title": "Introducing GNOME 51",
+        "link": "https://release.gnome.org/51/",
+        "pubDate": "2026-09-16T18:05",
         "feedId": "lobsters"
       },
       {
-        "title": "Unicode 18.0.0",
-        "link": "https://www.unicode.org/versions/Unicode18.0.0/",
-        "pubDate": "2026-09-16T17:38",
+        "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials",
+        "link": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
+        "pubDate": "2026-09-17T21:21",
         "feedId": "lobsters"
       },
       {
-        "title": "Why .tar.gz files can't be combined with cat",
-        "link": "https://alexwlchan.net/2026/cat-confusion/",
-        "pubDate": "2026-09-16T22:55",
+        "title": "jemalloc 5.4.0 release",
+        "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+        "pubDate": "2026-09-17T18:47",
         "feedId": "lobsters"
       },
       {
-        "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
-        "link": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
-        "pubDate": "2026-09-16T19:33",
+        "title": "How to get a DOI for your blog posts",
+        "link": "https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/",
+        "pubDate": "2026-09-16T15:59",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "OSRS Wiki and RuneLite are increasingly under strain from low-effort AI development",
-        "link": "https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development",
-        "pubDate": "2026-09-16T17:18",
+        "title": "A/I Shuts Down",
+        "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+        "pubDate": "2026-09-16T06:05",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,54 @@
     "id": "axios",
     "items": [
       {
+        "title": "Scoop: Trump expected to meet with Venezuela's new leader",
+        "link": "https://www.axios.com/2026/09/17/delcy-rodriguez-venezuela-trump-un-general-assembly",
+        "pubDate": "2026-09-17T21:43",
+        "feedId": "axios"
+      },
+      {
+        "title": "Inside House Democrats' behind-the-scenes food fight",
+        "link": "https://www.axios.com/2026/09/17/house-democrats-jeffries-clark-golden-perez-fight",
+        "pubDate": "2026-09-17T20:47",
+        "feedId": "axios"
+      },
+      {
+        "title": "RFK Jr. questions vaccine safety at anti-vaccine organization gathering",
+        "link": "https://www.axios.com/2026/09/17/rfk-vaccine-safety-anti-vaccine-gathering",
+        "pubDate": "2026-09-17T20:27",
+        "feedId": "axios"
+      },
+      {
+        "title": "Judge steps in as Kennedy Center demolition fears grow",
+        "link": "https://www.axios.com/2026/09/17/kennedy-center-demolition-30-days-notice-ruling",
+        "pubDate": "2026-09-17T19:12",
+        "feedId": "axios"
+      },
+      {
+        "title": "Fear and loathing in Trump's Miami backyard over immigration crackdown",
+        "link": "https://www.axios.com/2026/09/17/republicans-immigration-trump-miami-backyard",
+        "pubDate": "2026-09-17T19:11",
+        "feedId": "axios"
+      },
+      {
+        "title": "UN mission finds reasonable grounds to believe U.S. committed war crimes in Iran",
+        "link": "https://www.axios.com/2026/09/17/iran-war-crimes-un-mission-finds",
+        "pubDate": "2026-09-17T18:06",
+        "feedId": "axios"
+      },
+      {
+        "title": "White House pulls ICE nominee who drew MAGA pushback",
+        "link": "https://www.axios.com/2026/09/17/white-house-pulls-lance-schroyer-ice-nominee",
+        "pubDate": "2026-09-17T17:59",
+        "feedId": "axios"
+      },
+      {
+        "title": "Blanche warned of contempt risk in Epstein files case",
+        "link": "https://www.axios.com/2026/09/17/epstein-files-doj-contempt-judge-blanche",
+        "pubDate": "2026-09-17T17:19",
+        "feedId": "axios"
+      },
+      {
         "title": "States prep for ICE agents to be at polls, just in case",
         "link": "https://www.axios.com/2026/09/17/states-ice-polls-2026-election",
         "pubDate": "2026-09-17T09:20",
@@ -327,54 +375,6 @@
         "title": "House votes to curb AI data center costs",
         "link": "https://www.axios.com/2026/09/16/house-ai-data-center-power-bills",
         "pubDate": "2026-09-16T22:56",
-        "feedId": "axios"
-      },
-      {
-        "title": "House passes Russia sanctions bill",
-        "link": "https://www.axios.com/2026/09/16/house-russia-sanctions-bill-graham",
-        "pubDate": "2026-09-16T22:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "OpenAI discloses six new safety incidents",
-        "link": "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure",
-        "pubDate": "2026-09-16T22:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump demands lower interest rates after Fed decision",
-        "link": "https://www.axios.com/2026/09/16/trump-fed-interest-rates-lower-call",
-        "pubDate": "2026-09-16T21:23",
-        "feedId": "axios"
-      },
-      {
-        "title": "U.S. diplomats meet with Houthis as Red Sea crisis intensifies",
-        "link": "https://www.axios.com/2026/09/16/us-houthi-oman-to-discuss-red-sea-crisis",
-        "pubDate": "2026-09-16T21:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: U.S. open to discuss AI \"shared risks\" with China, Bessent says",
-        "link": "https://www.axios.com/2026/09/16/us-open-ai-shared-risks-china-bessent",
-        "pubDate": "2026-09-16T17:37",
-        "feedId": "axios"
-      },
-      {
-        "title": "AI environmental concerns build as lawmakers grapple with tech panic",
-        "link": "https://www.axios.com/2026/09/16/ai-concerns-congress-regulation",
-        "pubDate": "2026-09-16T17:16",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: Warren backs pause on advanced AI",
-        "link": "https://www.axios.com/2026/09/16/warren-ai-pause",
-        "pubDate": "2026-09-16T16:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: Kristen Silverberg named next president and CEO of Business Roundtable",
-        "link": "https://www.axios.com/2026/09/16/business-roundtable-kristen-silverberg-ceo",
-        "pubDate": "2026-09-16T13:00",
         "feedId": "axios"
       }
     ]
