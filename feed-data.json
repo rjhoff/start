@@ -3,15 +3,81 @@
     "id": "hn",
     "items": [
       {
-        "title": "I don't like passkeys",
-        "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
-        "pubDate": "2026-09-18T12:06",
+        "title": "US Treasuries Have Become Unappetizing for Foreign Central Banks and Governments",
+        "link": "https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/",
+        "pubDate": "2026-09-18T15:50",
         "feedId": "hn"
       },
       {
-        "title": "Bend 2 and the Vibe-Coding Trap",
-        "link": "https://blog.liampwll.com/posts/bend_vibe_coding/",
-        "pubDate": "2026-09-18T12:03",
+        "title": "AI is an elite crime spree",
+        "link": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+        "pubDate": "2026-09-18T15:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+        "link": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
+        "pubDate": "2026-09-18T15:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Build Faster Feedback Loops Using Qualitative User Research",
+        "link": "https://blog.nseldeib.com/p/build-faster-feedback-loops-using",
+        "pubDate": "2026-09-18T14:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "North Korean nuclear test sets off years of earthquakes",
+        "link": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
+        "pubDate": "2026-09-18T14:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+        "link": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
+        "pubDate": "2026-09-18T14:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "I vibed a proof of Conway's conjecture",
+        "link": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+        "pubDate": "2026-09-18T14:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "BeanShell3 in Development",
+        "link": "https://beanshell.github.io/home.html",
+        "pubDate": "2026-09-18T14:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "Cloudflare Quick Tunnels",
+        "link": "https://try.cloudflare.com/",
+        "pubDate": "2026-09-18T14:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Second Circuit Allows Government to Search Electronic Devices at the Border",
+        "link": "https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion",
+        "pubDate": "2026-09-18T14:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "NATS publishes preliminary report on technical incident of 8 September",
+        "link": "https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/",
+        "pubDate": "2026-09-18T13:24",
+        "feedId": "hn"
+      },
+      {
+        "title": "An Empirical Study of Harness Design for Coding Agents",
+        "link": "https://arxiv.org/abs/2609.20804",
+        "pubDate": "2026-09-18T13:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "I don't like passkeys",
+        "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
+        "pubDate": "2026-09-18T12:06",
         "feedId": "hn"
       },
       {
@@ -25,72 +91,6 @@
         "link": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
         "pubDate": "2026-09-18T11:01",
         "feedId": "hn"
-      },
-      {
-        "title": "ZCode, the GLM coding agent, silently uploads your Git history",
-        "link": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-        "pubDate": "2026-09-18T10:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-        "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-        "pubDate": "2026-09-18T09:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "OpenJev",
-        "link": "https://openjev.com/",
-        "pubDate": "2026-09-18T09:42",
-        "feedId": "hn"
-      },
-      {
-        "title": "Jemalloc 5.4.0",
-        "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
-        "pubDate": "2026-09-18T04:20",
-        "feedId": "hn"
-      },
-      {
-        "title": "The scourge of x86 emulation",
-        "link": "https://fex-emu.com/Scourge-of-emulation/",
-        "pubDate": "2026-09-18T04:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "Pre-Greek: The lost language hidden within Ancient Greek",
-        "link": "https://linguisticdiscovery.com/posts/pre-greek/",
-        "pubDate": "2026-09-18T03:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-        "link": "https://www.hacktron.ai/blog/hacking-openai",
-        "pubDate": "2026-09-18T02:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
-        "link": "https://byteshape.com/blogs/Qwen3.8-27B/",
-        "pubDate": "2026-09-18T02:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
-        "link": "https://askamonk.online",
-        "pubDate": "2026-09-18T01:34",
-        "feedId": "hn"
-      },
-      {
-        "title": "Telstra outage: The night a network decided the year was 2006",
-        "link": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
-        "pubDate": "2026-09-18T01:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "Qwen 3.8 Omni Flash",
-        "link": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-        "pubDate": "2026-09-17T23:05",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,9 +98,21 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "I Don't Like LLMs",
-        "link": "https://martinfowler.com/articles/2026-dont-like-llms.html",
-        "pubDate": "2026-09-17T15:25",
+        "title": "Typst makes big strides",
+        "link": "https://lwn.net/Articles/1092993/",
+        "pubDate": "2026-09-18T13:14",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What is still exciting in tech?",
+        "link": "https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech",
+        "pubDate": "2026-09-18T08:14",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I don't like passkeys",
+        "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
+        "pubDate": "2026-09-18T12:52",
         "feedId": "lobsters"
       },
       {
@@ -116,15 +128,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What is still exciting in tech?",
-        "link": "https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech",
-        "pubDate": "2026-09-18T08:14",
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/e1xglz/what_are_you_doing_this_weekend",
+        "pubDate": "2026-09-18T08:15",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Release v0.29.0 · warp-tech/warpgate",
+        "link": "https://github.com/warp-tech/warpgate/releases/tag/v0.29.0",
+        "pubDate": "2026-09-18T14:21",
         "feedId": "lobsters"
       },
       {
         "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language",
         "link": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
         "pubDate": "2026-09-17T15:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "We Must Create the Shit Machine",
+        "link": "https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine",
+        "pubDate": "2026-09-18T00:00",
         "feedId": "lobsters"
       },
       {
@@ -140,27 +164,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/e1xglz/what_are_you_doing_this_weekend",
-        "pubDate": "2026-09-18T08:15",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Introducing System One Models & Jev",
         "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
         "pubDate": "2026-09-18T00:05",
         "feedId": "lobsters"
       },
       {
-        "title": "We Must Create the Shit Machine",
-        "link": "https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine",
-        "pubDate": "2026-09-18T00:00",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Labeled matches: why is this not in every regex engine?",
-        "link": "https://iev.ee/blog/categorize-everything-all-at-once/",
-        "pubDate": "2026-09-17T16:44",
+        "title": "The C++20’s u8/char8_t Backward-Compatibility Fiasco",
+        "link": "https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/",
+        "pubDate": "2026-09-18T09:21",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
-        "link": "https://jakeasmith.com/blog/http-build-url/",
-        "pubDate": "2026-09-17T13:42",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "jemalloc 5.4.0 release",
-        "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
-        "pubDate": "2026-09-17T18:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Not In My Git Yard: Catching Backdoors at Commit and Release Time",
-        "link": "https://arxiv.org/abs/2607.26719",
-        "pubDate": "2026-09-18T08:14",
+        "title": "Labeled matches: why is this not in every regex engine?",
+        "link": "https://iev.ee/blog/categorize-everything-all-at-once/",
+        "pubDate": "2026-09-17T16:44",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,24 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Meet the winner of Nikon's Small World in Motion video contest",
+        "link": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
+        "pubDate": "2026-09-18T13:56",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Researchers used Claude to hack OpenAI",
+        "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+        "pubDate": "2026-09-18T13:30",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Rocket Report: China wants a Raptor 3 engine; SpaceX set for big Starship test",
+        "link": "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/",
+        "pubDate": "2026-09-18T11:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
         "link": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
@@ -263,30 +281,24 @@
         "link": "https://arstechnica.com/science/2026/09/a-dolphin-named-bubbles-makes-other-fish-vomit-then-eats-it/",
         "pubDate": "2026-09-17T13:57",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Hackers reveal how Flock cameras really track cars and people",
-        "link": "https://arstechnica.com/security/2026/09/hackers-reveal-how-flock-cameras-really-track-cars-and-people/",
-        "pubDate": "2026-09-17T09:43",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-        "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-        "pubDate": "2026-09-16T22:02",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
-        "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
-        "pubDate": "2026-09-16T21:42",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Khanna, Massie say they can force another Epstein vote",
+        "link": "https://www.axios.com/2026/09/18/epstein-files-vote-massie-khanna-support",
+        "pubDate": "2026-09-18T15:07",
+        "feedId": "axios"
+      },
+      {
+        "title": "Why Sydney Sweeney's nude ad struck such a nerve with women athletes",
+        "link": "https://www.axios.com/2026/09/18/novig-sydney-sweeney-ad-backlash-women-in-sports",
+        "pubDate": "2026-09-18T14:36",
+        "feedId": "axios"
+      },
       {
         "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
         "link": "https://www.axios.com/2026/09/18/warren-buffett-berkshire-hathaway-chairman",
@@ -363,18 +375,6 @@
         "title": "White House pulls ICE nominee who drew MAGA pushback",
         "link": "https://www.axios.com/2026/09/17/white-house-pulls-lance-schroyer-ice-nominee",
         "pubDate": "2026-09-17T17:59",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump tells Axios he's approaching major crossroads in Iran war",
-        "link": "https://www.axios.com/2026/09/17/trump-axios-interview-iran-war",
-        "pubDate": "2026-09-17T16:55",
-        "feedId": "axios"
-      },
-      {
-        "title": "States prep for ICE agents to be at polls, just in case",
-        "link": "https://www.axios.com/2026/09/17/states-ice-polls-2026-election",
-        "pubDate": "2026-09-17T09:20",
         "feedId": "axios"
       }
     ]
