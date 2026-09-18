@@ -3,15 +3,75 @@
     "id": "hn",
     "items": [
       {
-        "title": "How to Write with an LLM",
-        "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-        "pubDate": "2026-09-17T21:48",
+        "title": "Jemalloc 5.4.0",
+        "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+        "pubDate": "2026-09-18T04:20",
         "feedId": "hn"
       },
       {
-        "title": "Sex, AI, and the Apocalypse",
-        "link": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
-        "pubDate": "2026-09-17T21:15",
+        "title": "The scourge of x86 emulation",
+        "link": "https://fex-emu.com/Scourge-of-emulation/",
+        "pubDate": "2026-09-18T04:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Waymo in Singapore",
+        "link": "https://waymo.com/waymo-in-singapore/",
+        "pubDate": "2026-09-18T03:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+        "link": "https://linguisticdiscovery.com/posts/pre-greek/",
+        "pubDate": "2026-09-18T03:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Code Scans",
+        "link": "https://devin.ai/blog/introducing-code-scans",
+        "pubDate": "2026-09-18T03:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Hacking OpenAI",
+        "link": "https://www.hacktron.ai/blog/hacking-openai",
+        "pubDate": "2026-09-18T02:47",
+        "feedId": "hn"
+      },
+      {
+        "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
+        "link": "https://byteshape.com/blogs/Qwen3.8-27B/",
+        "pubDate": "2026-09-18T02:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Minimal Phone 2",
+        "link": "https://minimalcompany.com/",
+        "pubDate": "2026-09-18T02:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
+        "link": "https://askamonk.online",
+        "pubDate": "2026-09-18T01:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "Telstra outage: The night a network decided the year was 2006",
+        "link": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
+        "pubDate": "2026-09-18T01:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "Qwen 3.8 Omni Flash",
+        "link": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+        "pubDate": "2026-09-17T23:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "How to Write with an LLM",
+        "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+        "pubDate": "2026-09-17T21:48",
         "feedId": "hn"
       },
       {
@@ -31,66 +91,6 @@
         "link": "https://liamnugent.me/posts/what-you-dont-build/",
         "pubDate": "2026-09-17T20:52",
         "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
-        "link": "https://snapdrop.me",
-        "pubDate": "2026-09-17T20:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "Flet 1.0 – Build cross-platform apps in Python",
-        "link": "https://flet.dev/",
-        "pubDate": "2026-09-17T20:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-        "link": "https://bend-lang.com/",
-        "pubDate": "2026-09-17T20:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "Astra for Law",
-        "link": "https://openai.com/index/astra-for-law/",
-        "pubDate": "2026-09-17T20:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "Everybody's Lost Their Minds",
-        "link": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
-        "pubDate": "2026-09-17T19:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "Canto: A speech model built for the real world",
-        "link": "https://wisprflow.ai/canto",
-        "pubDate": "2026-09-17T18:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
-        "link": "https://zscc.ai/careers?job_id=109821",
-        "pubDate": "2026-09-17T17:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Towards Self-Driving Codebases",
-        "link": "https://blog.detail.dev/posts/towards-self-driving-codebases/",
-        "pubDate": "2026-09-17T16:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
-        "link": "https://arxiv.org/abs/2609.18842",
-        "pubDate": "2026-09-17T16:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hister: A private search engine for the pages you visit and the files you keep",
-        "link": "https://github.com/asciimoo/hister",
-        "pubDate": "2026-09-17T16:25",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,27 +104,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I expected better from Google",
-        "link": "https://www.minitap.ai/blog/i-expected-better-from-google",
-        "pubDate": "2026-09-17T10:01",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language",
         "link": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
         "pubDate": "2026-09-17T15:10",
         "feedId": "lobsters"
       },
       {
-        "title": "Everybody's Lost Their Minds",
-        "link": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
-        "pubDate": "2026-09-17T15:06",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Be alert: targeted attacks on prominent Rustaceans",
         "link": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
         "pubDate": "2026-09-17T18:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials",
+        "link": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
+        "pubDate": "2026-09-17T21:21",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I expected better from Google",
+        "link": "https://www.minitap.ai/blog/i-expected-better-from-google",
+        "pubDate": "2026-09-17T10:01",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Everybody's Lost Their Minds",
+        "link": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
+        "pubDate": "2026-09-17T15:06",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +146,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Introducing System One Models & Jev",
+        "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+        "pubDate": "2026-09-18T00:05",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "We Must Create the Shit Machine",
+        "link": "https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine",
+        "pubDate": "2026-09-18T00:00",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The end of verygoodsoftwarenotvirus.ru",
         "link": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/",
         "pubDate": "2026-09-16T16:58",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "jemalloc 5.4.0 release",
+        "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+        "pubDate": "2026-09-17T18:47",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials",
-        "link": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
-        "pubDate": "2026-09-17T21:21",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "jemalloc 5.4.0 release",
-        "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
-        "pubDate": "2026-09-17T18:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How to get a DOI for your blog posts",
-        "link": "https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/",
-        "pubDate": "2026-09-16T15:59",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Tilia—a new formatter for Haskell",
-        "link": "https://markkarpov.com/post/announcing-tilia.html",
-        "pubDate": "2026-09-17T04:17",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A/I Shuts Down",
-        "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-        "pubDate": "2026-09-16T06:05",
+        "title": "On learning programming in an age of LLMs",
+        "link": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+        "pubDate": "2026-09-17T12:05",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,84 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
+        "link": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
+        "pubDate": "2026-09-17T22:31",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+        "link": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+        "pubDate": "2026-09-17T22:12",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google announces new experimental \"CC\" AI agent for families",
+        "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+        "pubDate": "2026-09-17T20:24",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+        "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+        "pubDate": "2026-09-17T20:10",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites",
+        "link": "https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/",
+        "pubDate": "2026-09-17T19:07",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+        "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+        "pubDate": "2026-09-17T18:33",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "IV drips used for \"detoxification\" actually filled with toxins; dozens poisoned",
+        "link": "https://arstechnica.com/health/2026/09/sketchy-iv-drips-at-wellness-clinics-have-poisoned-dozens-cdc-and-fda-warn/",
+        "pubDate": "2026-09-17T17:43",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "2026 Hyundai Ioniq 5: Here's what we still like, here's what annoys us",
+        "link": "https://arstechnica.com/cars/2026/09/2026-hyundai-ioniq-5-heres-what-we-still-like-heres-what-annoys-us/",
+        "pubDate": "2026-09-17T17:30",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+        "link": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
+        "pubDate": "2026-09-17T16:18",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "EPA immediately sued over plans to repeal climate rules for power plants",
+        "link": "https://arstechnica.com/science/2026/09/thousands-will-die-if-epa-repeals-power-plant-climate-rules-lawsuit-says/",
+        "pubDate": "2026-09-17T15:38",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "After being sidelined, Boeing's Starliner to get starring role in NASA's spaceflight plans",
+        "link": "https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying/",
+        "pubDate": "2026-09-17T14:37",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "A dolphin named Bubbles makes other fish vomit, then eats it",
+        "link": "https://arstechnica.com/science/2026/09/a-dolphin-named-bubbles-makes-other-fish-vomit-then-eats-it/",
+        "pubDate": "2026-09-17T13:57",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Hackers reveal how Flock cameras really track cars and people",
+        "link": "https://arstechnica.com/security/2026/09/hackers-reveal-how-flock-cameras-really-track-cars-and-people/",
+        "pubDate": "2026-09-17T09:43",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
         "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
@@ -203,90 +281,24 @@
         "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
         "pubDate": "2026-09-16T21:42",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
-        "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
-        "pubDate": "2026-09-16T21:08",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
-        "link": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
-        "pubDate": "2026-09-16T20:44",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Not just Proton: Getting to know Valve's new SteamOS compatibility layers",
-        "link": "https://arstechnica.com/gaming/2026/09/not-just-proton-getting-to-know-valves-new-steamos-compatibility-layers/",
-        "pubDate": "2026-09-16T20:23",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "California may gut state net neutrality law to comply with Trump admin demand",
-        "link": "https://arstechnica.com/tech-policy/2026/09/california-may-gut-state-net-neutrality-law-to-comply-with-trump-admin-demand/",
-        "pubDate": "2026-09-16T19:36",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Researchers swap in human brain cells for a mouse's cortex",
-        "link": "https://arstechnica.com/science/2026/09/researchers-swap-in-human-brain-cells-for-a-mouses-cortex/",
-        "pubDate": "2026-09-16T19:08",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Scientists develop new method for deciphering ancient scrolls",
-        "link": "https://arstechnica.com/science/2026/09/why-researchers-made-their-own-model-herculaneum-scrolls/",
-        "pubDate": "2026-09-16T18:43",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "The Specialized Diverge 4 Pro makes rough gravel your playground",
-        "link": "https://arstechnica.com/reviews/2026/09/the-specialized-diverge-pro-4-makes-rough-gravel-your-playground/",
-        "pubDate": "2026-09-16T18:11",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "It’s OK to tell ICE their actions will haunt them, judge rules in speech fight",
-        "link": "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/",
-        "pubDate": "2026-09-16T17:06",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
-        "link": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
-        "pubDate": "2026-09-16T16:40",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "What happens when neutrinos swap identities inside a supernova?",
-        "link": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/",
-        "pubDate": "2026-09-16T15:17",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "macOS 27 Golden Gate: The Ars Technica review",
-        "link": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
-        "pubDate": "2026-09-16T14:50",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "The world’s best racing driver is about to race 100 karts at once",
-        "link": "https://arstechnica.com/cars/2026/09/the-worlds-best-racing-driver-is-about-to-race-100-karts-at-once/",
-        "pubDate": "2026-09-16T14:19",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Lawmakers target Flock cameras with a threat to highway funding",
-        "link": "https://arstechnica.com/tech-policy/2026/09/lawmakers-target-flock-cameras-with-a-threat-to-highway-funding/",
-        "pubDate": "2026-09-16T14:03",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Blanche warned of contempt risk in Epstein files case",
+        "link": "https://www.axios.com/2026/09/17/epstein-files-doj-contempt-judge-blanche",
+        "pubDate": "2026-09-18T00:37",
+        "feedId": "axios"
+      },
+      {
+        "title": "Exclusive: Scalise puts GOP high-water mark at 225 House seats",
+        "link": "https://www.axios.com/2026/09/17/house-republicans-steve-scalise-midterm-elections",
+        "pubDate": "2026-09-17T22:15",
+        "feedId": "axios"
+      },
       {
         "title": "Scoop: Trump expected to meet with Venezuela's new leader",
         "link": "https://www.axios.com/2026/09/17/delcy-rodriguez-venezuela-trump-un-general-assembly",
@@ -330,9 +342,9 @@
         "feedId": "axios"
       },
       {
-        "title": "Blanche warned of contempt risk in Epstein files case",
-        "link": "https://www.axios.com/2026/09/17/epstein-files-doj-contempt-judge-blanche",
-        "pubDate": "2026-09-17T17:19",
+        "title": "Trump tells Axios he's approaching major crossroads in Iran war",
+        "link": "https://www.axios.com/2026/09/17/trump-axios-interview-iran-war",
+        "pubDate": "2026-09-17T16:55",
         "feedId": "axios"
       },
       {
@@ -363,18 +375,6 @@
         "title": "Johnson-Massie feud boils over: \"Why are we taking days off our calendar?\"",
         "link": "https://www.axios.com/2026/09/16/johnson-massie-feud-boils-over-why-are-we-taking-days-off-our-calendar",
         "pubDate": "2026-09-16T23:14",
-        "feedId": "axios"
-      },
-      {
-        "title": "Canada could become the EU's first \"associate member\"",
-        "link": "https://www.axios.com/2026/09/16/eu-canada-associate-membership-carney-trump",
-        "pubDate": "2026-09-16T23:05",
-        "feedId": "axios"
-      },
-      {
-        "title": "House votes to curb AI data center costs",
-        "link": "https://www.axios.com/2026/09/16/house-ai-data-center-power-bills",
-        "pubDate": "2026-09-16T22:56",
         "feedId": "axios"
       }
     ]
