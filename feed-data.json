@@ -3,9 +3,51 @@
     "id": "hn",
     "items": [
       {
+        "title": "War may be coming. Are we psychologically ready?",
+        "link": "https://www.bbc.com/news/articles/cmn0jke547r5o",
+        "pubDate": "2026-09-18T21:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+        "link": "https://code.claude.com/docs/en/changelog",
+        "pubDate": "2026-09-18T21:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Korea raises data breach fines to 10% of revenue",
+        "link": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+        "pubDate": "2026-09-18T20:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+        "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+        "pubDate": "2026-09-18T19:03",
+        "feedId": "hn"
+      },
+      {
         "title": "The Implications of Linguistic Illegibility for LLM Security",
         "link": "https://arxiv.org/abs/2609.02852",
         "pubDate": "2026-09-18T19:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+        "link": "https://arxiv.org/abs/2510.03215",
+        "pubDate": "2026-09-18T18:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Saving another 100TB of RAM",
+        "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+        "pubDate": "2026-09-18T18:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "Xcode 27.1 Beta Release Notes",
+        "link": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+        "pubDate": "2026-09-18T18:39",
         "feedId": "hn"
       },
       {
@@ -27,15 +69,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Systemd is a suite of basic building blocks",
-        "link": "https://brand.systemd.io/",
-        "pubDate": "2026-09-18T16:31",
-        "feedId": "hn"
-      },
-      {
-        "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
-        "link": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
-        "pubDate": "2026-09-18T15:04",
+        "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+        "link": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+        "pubDate": "2026-09-18T15:12",
         "feedId": "hn"
       },
       {
@@ -54,42 +90,6 @@
         "title": "I vibed a proof of Conway's conjecture",
         "link": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
         "pubDate": "2026-09-18T14:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "BeanShell3 in Development",
-        "link": "https://beanshell.github.io/home.html",
-        "pubDate": "2026-09-18T14:21",
-        "feedId": "hn"
-      },
-      {
-        "title": "Cloudflare Quick Tunnels",
-        "link": "https://try.cloudflare.com/",
-        "pubDate": "2026-09-18T14:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI chatbots are becoming experts at changing people's minds",
-        "link": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-        "pubDate": "2026-09-18T13:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "NATS publishes preliminary report on technical incident of 8 September",
-        "link": "https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/",
-        "pubDate": "2026-09-18T13:24",
-        "feedId": "hn"
-      },
-      {
-        "title": "An empirical study of harness design for coding agents",
-        "link": "https://arxiv.org/abs/2609.20804",
-        "pubDate": "2026-09-18T13:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "I don't like passkeys",
-        "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
-        "pubDate": "2026-09-18T12:06",
         "feedId": "hn"
       }
     ]
@@ -116,6 +116,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "There's no point at which turning your brain off will work",
+        "link": "https://danluu.com/brain-off/",
+        "pubDate": "2026-09-18T17:15",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Benchmarking Wild vs Mold",
+        "link": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
+        "pubDate": "2026-09-18T15:25",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Be alert: targeted attacks on prominent Rustaceans",
         "link": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
         "pubDate": "2026-09-17T18:10",
@@ -128,27 +140,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Release v0.29.0 · warp-tech/warpgate",
-        "link": "https://github.com/warp-tech/warpgate/releases/tag/v0.29.0",
-        "pubDate": "2026-09-18T14:21",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials",
         "link": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
         "pubDate": "2026-09-17T21:21",
         "feedId": "lobsters"
       },
       {
-        "title": "FAQ: Why isn’t mutable a subtype of immutable, or vice versa?",
-        "link": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
-        "pubDate": "2026-09-18T15:30",
+        "title": "Release v0.29.0 · warp-tech/warpgate",
+        "link": "https://github.com/warp-tech/warpgate/releases/tag/v0.29.0",
+        "pubDate": "2026-09-18T14:21",
         "feedId": "lobsters"
       },
       {
-        "title": "There's no point at which turning your brain off will work",
-        "link": "https://danluu.com/brain-off/",
-        "pubDate": "2026-09-18T17:15",
+        "title": "FAQ: Why isn’t mutable a subtype of immutable, or vice versa?",
+        "link": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
+        "pubDate": "2026-09-18T15:30",
         "feedId": "lobsters"
       },
       {
@@ -180,18 +186,36 @@
         "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
         "pubDate": "2026-09-18T00:05",
         "feedId": "lobsters"
-      },
-      {
-        "title": "I expected better from Google",
-        "link": "https://www.minitap.ai/blog/i-expected-better-from-google",
-        "pubDate": "2026-09-17T10:01",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+        "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+        "pubDate": "2026-09-18T19:20",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
+        "link": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
+        "pubDate": "2026-09-18T17:57",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Finding the cells that put our brain to sleep",
+        "link": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
+        "pubDate": "2026-09-18T17:49",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "US government website used Chinese model the FBI called \"malicious\"",
+        "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+        "pubDate": "2026-09-18T17:28",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Meet the winner of Nikon's Small World in Motion video contest",
         "link": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
@@ -257,30 +281,6 @@
         "link": "https://arstechnica.com/cars/2026/09/2026-hyundai-ioniq-5-heres-what-we-still-like-heres-what-annoys-us/",
         "pubDate": "2026-09-17T17:30",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
-        "link": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
-        "pubDate": "2026-09-17T16:18",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "EPA immediately sued over plans to repeal climate rules for power plants",
-        "link": "https://arstechnica.com/science/2026/09/thousands-will-die-if-epa-repeals-power-plant-climate-rules-lawsuit-says/",
-        "pubDate": "2026-09-17T15:38",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "After being sidelined, Boeing's Starliner to get starring role in NASA's spaceflight plans",
-        "link": "https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying/",
-        "pubDate": "2026-09-17T14:37",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "A dolphin named Bubbles makes other fish vomit, then eats it",
-        "link": "https://arstechnica.com/science/2026/09/a-dolphin-named-bubbles-makes-other-fish-vomit-then-eats-it/",
-        "pubDate": "2026-09-17T13:57",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,9 +288,27 @@
     "id": "axios",
     "items": [
       {
-        "title": "Trump says CNN, MS NOW and Politico are banned — and more could follow",
+        "title": "Trump bans CNN, MS NOW and Politico from White House",
         "link": "https://www.axios.com/2026/09/18/trump-ban-cnn-ms-now-politico-white-house",
-        "pubDate": "2026-09-18T19:24",
+        "pubDate": "2026-09-18T21:37",
+        "feedId": "axios"
+      },
+      {
+        "title": "USPS made mail slower to cut costs. Midterm ballots will test the system.",
+        "link": "https://www.axios.com/2026/09/18/usps-slow-mail-cost-cuts-performance",
+        "pubDate": "2026-09-18T21:18",
+        "feedId": "axios"
+      },
+      {
+        "title": "2028 Democrats like Newsom and Pritzker lean in on AI safety as Washington stalls",
+        "link": "https://www.axios.com/2026/09/18/newsom-ai-2028-focus",
+        "pubDate": "2026-09-18T20:59",
+        "feedId": "axios"
+      },
+      {
+        "title": "GOP's Latino gains fade as deeper gender and generational divides emerge",
+        "link": "https://www.axios.com/2026/09/18/latino-voters-shift-internal-divides-deepen",
+        "pubDate": "2026-09-18T20:12",
         "feedId": "axios"
       },
       {
@@ -357,24 +375,6 @@
         "title": "Inside House Democrats' behind-the-scenes food fight",
         "link": "https://www.axios.com/2026/09/17/house-democrats-jeffries-clark-golden-perez-fight",
         "pubDate": "2026-09-17T20:47",
-        "feedId": "axios"
-      },
-      {
-        "title": "RFK Jr. questions vaccine safety at anti-vaccine organization gathering",
-        "link": "https://www.axios.com/2026/09/17/rfk-vaccine-safety-anti-vaccine-gathering",
-        "pubDate": "2026-09-17T20:27",
-        "feedId": "axios"
-      },
-      {
-        "title": "Judge steps in as Kennedy Center demolition fears grow",
-        "link": "https://www.axios.com/2026/09/17/kennedy-center-demolition-30-days-notice-ruling",
-        "pubDate": "2026-09-17T19:12",
-        "feedId": "axios"
-      },
-      {
-        "title": "Fear and loathing in Trump's Miami backyard over immigration crackdown",
-        "link": "https://www.axios.com/2026/09/17/republicans-immigration-trump-miami-backyard",
-        "pubDate": "2026-09-17T19:11",
         "feedId": "axios"
       }
     ]
