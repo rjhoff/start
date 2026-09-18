@@ -3,27 +3,39 @@
     "id": "hn",
     "items": [
       {
-        "title": "US Treasuries Have Become Unappetizing for Foreign Central Banks and Governments",
-        "link": "https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/",
-        "pubDate": "2026-09-18T15:50",
+        "title": "The Implications of Linguistic Illegibility for LLM Security",
+        "link": "https://arxiv.org/abs/2609.02852",
+        "pubDate": "2026-09-18T19:00",
         "feedId": "hn"
       },
       {
-        "title": "AI is an elite crime spree",
-        "link": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-        "pubDate": "2026-09-18T15:15",
+        "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
+        "link": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
+        "pubDate": "2026-09-18T18:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "US Military had close call after using AI for hallucinated intelligence report",
+        "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+        "pubDate": "2026-09-18T17:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+        "link": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+        "pubDate": "2026-09-18T16:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "Systemd is a suite of basic building blocks",
+        "link": "https://brand.systemd.io/",
+        "pubDate": "2026-09-18T16:31",
         "feedId": "hn"
       },
       {
         "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
         "link": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
         "pubDate": "2026-09-18T15:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "Build Faster Feedback Loops Using Qualitative User Research",
-        "link": "https://blog.nseldeib.com/p/build-faster-feedback-loops-using",
-        "pubDate": "2026-09-18T14:58",
         "feedId": "hn"
       },
       {
@@ -57,9 +69,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Second Circuit Allows Government to Search Electronic Devices at the Border",
-        "link": "https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion",
-        "pubDate": "2026-09-18T14:11",
+        "title": "AI chatbots are becoming experts at changing people's minds",
+        "link": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+        "pubDate": "2026-09-18T13:39",
         "feedId": "hn"
       },
       {
@@ -69,7 +81,7 @@
         "feedId": "hn"
       },
       {
-        "title": "An Empirical Study of Harness Design for Coding Agents",
+        "title": "An empirical study of harness design for coding agents",
         "link": "https://arxiv.org/abs/2609.20804",
         "pubDate": "2026-09-18T13:06",
         "feedId": "hn"
@@ -78,18 +90,6 @@
         "title": "I don't like passkeys",
         "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
         "pubDate": "2026-09-18T12:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "Cekura (YC F24) Is Hiring",
-        "link": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
-        "pubDate": "2026-09-18T12:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
-        "link": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
-        "pubDate": "2026-09-18T11:01",
         "feedId": "hn"
       }
     ]
@@ -104,21 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What is still exciting in tech?",
-        "link": "https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech",
-        "pubDate": "2026-09-18T08:14",
-        "feedId": "lobsters"
-      },
-      {
         "title": "I don't like passkeys",
         "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
         "pubDate": "2026-09-18T12:52",
         "feedId": "lobsters"
       },
       {
-        "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials",
-        "link": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
-        "pubDate": "2026-09-17T21:21",
+        "title": "What is still exciting in tech?",
+        "link": "https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech",
+        "pubDate": "2026-09-18T08:14",
         "feedId": "lobsters"
       },
       {
@@ -140,6 +134,24 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials",
+        "link": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
+        "pubDate": "2026-09-17T21:21",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "FAQ: Why isn’t mutable a subtype of immutable, or vice versa?",
+        "link": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
+        "pubDate": "2026-09-18T15:30",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "There's no point at which turning your brain off will work",
+        "link": "https://danluu.com/brain-off/",
+        "pubDate": "2026-09-18T17:15",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language",
         "link": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
         "pubDate": "2026-09-17T15:10",
@@ -152,15 +164,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Everybody's Lost Their Minds",
-        "link": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
-        "pubDate": "2026-09-17T15:06",
+        "title": "The C++20’s u8/char8_t Backward-Compatibility Fiasco",
+        "link": "https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/",
+        "pubDate": "2026-09-18T09:21",
         "feedId": "lobsters"
       },
       {
-        "title": "I expected better from Google",
-        "link": "https://www.minitap.ai/blog/i-expected-better-from-google",
-        "pubDate": "2026-09-17T10:01",
+        "title": "Everybody's Lost Their Minds",
+        "link": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
+        "pubDate": "2026-09-17T15:06",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The C++20’s u8/char8_t Backward-Compatibility Fiasco",
-        "link": "https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/",
-        "pubDate": "2026-09-18T09:21",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Bend",
-        "link": "https://bend-lang.com/",
-        "pubDate": "2026-09-18T08:15",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Labeled matches: why is this not in every regex engine?",
-        "link": "https://iev.ee/blog/categorize-everything-all-at-once/",
-        "pubDate": "2026-09-17T16:44",
+        "title": "I expected better from Google",
+        "link": "https://www.minitap.ai/blog/i-expected-better-from-google",
+        "pubDate": "2026-09-17T10:01",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump says CNN, MS NOW and Politico are banned — and more could follow",
+        "link": "https://www.axios.com/2026/09/18/trump-ban-cnn-ms-now-politico-white-house",
+        "pubDate": "2026-09-18T19:24",
+        "feedId": "axios"
+      },
+      {
+        "title": "The House left town, but Hegseth impeachment, Epstein and a funding fight are waiting",
+        "link": "https://www.axios.com/2026/09/18/hegseth-impeachment-epstein-funding-house",
+        "pubDate": "2026-09-18T18:38",
+        "feedId": "axios"
+      },
+      {
         "title": "Khanna, Massie say they can force another Epstein vote",
         "link": "https://www.axios.com/2026/09/18/epstein-files-vote-massie-khanna-support",
         "pubDate": "2026-09-18T15:07",
@@ -363,18 +375,6 @@
         "title": "Fear and loathing in Trump's Miami backyard over immigration crackdown",
         "link": "https://www.axios.com/2026/09/17/republicans-immigration-trump-miami-backyard",
         "pubDate": "2026-09-17T19:11",
-        "feedId": "axios"
-      },
-      {
-        "title": "UN mission finds reasonable grounds to believe U.S. committed war crimes in Iran",
-        "link": "https://www.axios.com/2026/09/17/iran-war-crimes-un-mission-finds",
-        "pubDate": "2026-09-17T18:06",
-        "feedId": "axios"
-      },
-      {
-        "title": "White House pulls ICE nominee who drew MAGA pushback",
-        "link": "https://www.axios.com/2026/09/17/white-house-pulls-lance-schroyer-ice-nominee",
-        "pubDate": "2026-09-17T17:59",
         "feedId": "axios"
       }
     ]
