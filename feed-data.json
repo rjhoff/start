@@ -3,21 +3,15 @@
     "id": "hn",
     "items": [
       {
-        "title": "War may be coming. Are we psychologically ready?",
-        "link": "https://www.bbc.com/news/articles/cmn0jke547r5o",
-        "pubDate": "2026-09-18T21:50",
+        "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+        "link": "https://spectrum.ieee.org/llms-for-chip-design",
+        "pubDate": "2026-09-18T23:04",
         "feedId": "hn"
       },
       {
         "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
         "link": "https://code.claude.com/docs/en/changelog",
         "pubDate": "2026-09-18T21:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Korea raises data breach fines to 10% of revenue",
-        "link": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
-        "pubDate": "2026-09-18T20:02",
         "feedId": "hn"
       },
       {
@@ -48,12 +42,6 @@
         "title": "Xcode 27.1 Beta Release Notes",
         "link": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
         "pubDate": "2026-09-18T18:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
-        "link": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
-        "pubDate": "2026-09-18T18:08",
         "feedId": "hn"
       },
       {
@@ -91,6 +79,18 @@
         "link": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
         "pubDate": "2026-09-18T14:36",
         "feedId": "hn"
+      },
+      {
+        "title": "Cloudflare Quick Tunnels",
+        "link": "https://try.cloudflare.com/",
+        "pubDate": "2026-09-18T14:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Cekura (YC F24) Is Hiring",
+        "link": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+        "pubDate": "2026-09-18T12:00",
+        "feedId": "hn"
       }
     ]
   },
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What is still exciting in tech?",
-        "link": "https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech",
-        "pubDate": "2026-09-18T08:14",
-        "feedId": "lobsters"
-      },
-      {
         "title": "There's no point at which turning your brain off will work",
         "link": "https://danluu.com/brain-off/",
         "pubDate": "2026-09-18T17:15",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What is still exciting in tech?",
+        "link": "https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech",
+        "pubDate": "2026-09-18T08:14",
         "feedId": "lobsters"
       },
       {
@@ -134,27 +134,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/e1xglz/what_are_you_doing_this_weekend",
-        "pubDate": "2026-09-18T08:15",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials",
         "link": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
         "pubDate": "2026-09-17T21:21",
         "feedId": "lobsters"
       },
       {
-        "title": "Release v0.29.0 · warp-tech/warpgate",
-        "link": "https://github.com/warp-tech/warpgate/releases/tag/v0.29.0",
-        "pubDate": "2026-09-18T14:21",
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/e1xglz/what_are_you_doing_this_weekend",
+        "pubDate": "2026-09-18T08:15",
         "feedId": "lobsters"
       },
       {
         "title": "FAQ: Why isn’t mutable a subtype of immutable, or vice versa?",
         "link": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
         "pubDate": "2026-09-18T15:30",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Release v0.29.0 · warp-tech/warpgate",
+        "link": "https://github.com/warp-tech/warpgate/releases/tag/v0.29.0",
+        "pubDate": "2026-09-18T14:21",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +170,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "awesome-tunneling: List of tunneling software and services",
+        "link": "https://github.com/anderspitman/awesome-tunneling",
+        "pubDate": "2026-09-18T16:25",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The C++20’s u8/char8_t Backward-Compatibility Fiasco",
         "link": "https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/",
         "pubDate": "2026-09-18T09:21",
         "feedId": "lobsters"
       },
       {
-        "title": "Everybody's Lost Their Minds",
-        "link": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
-        "pubDate": "2026-09-17T15:06",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Introducing System One Models & Jev",
-        "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-        "pubDate": "2026-09-18T00:05",
+        "title": "Vale, code-like linting for prose",
+        "link": "https://vale.sh",
+        "pubDate": "2026-09-18T20:38",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+        "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+        "pubDate": "2026-09-18T20:26",
+        "feedId": "arstechnica"
+      },
       {
         "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
         "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
@@ -275,18 +281,30 @@
         "link": "https://arstechnica.com/health/2026/09/sketchy-iv-drips-at-wellness-clinics-have-poisoned-dozens-cdc-and-fda-warn/",
         "pubDate": "2026-09-17T17:43",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "2026 Hyundai Ioniq 5: Here's what we still like, here's what annoys us",
-        "link": "https://arstechnica.com/cars/2026/09/2026-hyundai-ioniq-5-heres-what-we-still-like-heres-what-annoys-us/",
-        "pubDate": "2026-09-17T17:30",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Google is the latest AI lab with a security testing mishap",
+        "link": "https://www.axios.com/2026/09/19/google-safety-incidents-testing-hacks",
+        "pubDate": "2026-09-19T00:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "DOJ won't enforce handgun ban for 18- to 20-year-olds",
+        "link": "https://www.axios.com/2026/09/18/trump-doj-handgun-sales-ban-under-21",
+        "pubDate": "2026-09-18T22:49",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump claims security, military deal with Denmark over Greenland",
+        "link": "https://www.axios.com/2026/09/18/trump-greenland-denmark-deal",
+        "pubDate": "2026-09-18T22:43",
+        "feedId": "axios"
+      },
       {
         "title": "Trump bans CNN, MS NOW and Politico from White House",
         "link": "https://www.axios.com/2026/09/18/trump-ban-cnn-ms-now-politico-white-house",
@@ -357,24 +375,6 @@
         "title": "Blanche warned of contempt risk in Epstein files case",
         "link": "https://www.axios.com/2026/09/17/epstein-files-doj-contempt-judge-blanche",
         "pubDate": "2026-09-18T00:37",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: Scalise puts GOP high-water mark at 225 House seats",
-        "link": "https://www.axios.com/2026/09/17/house-republicans-steve-scalise-midterm-elections",
-        "pubDate": "2026-09-17T22:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Trump expected to meet with Venezuela's new leader",
-        "link": "https://www.axios.com/2026/09/17/delcy-rodriguez-venezuela-trump-un-general-assembly",
-        "pubDate": "2026-09-17T21:43",
-        "feedId": "axios"
-      },
-      {
-        "title": "Inside House Democrats' behind-the-scenes food fight",
-        "link": "https://www.axios.com/2026/09/17/house-democrats-jeffries-clark-golden-perez-fight",
-        "pubDate": "2026-09-17T20:47",
         "feedId": "axios"
       }
     ]
