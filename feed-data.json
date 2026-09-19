@@ -3,7 +3,43 @@
     "id": "hn",
     "items": [
       {
-        "title": "AI posters don't have to be horrible",
+        "title": "Supabase (YC S20) Is Hiring for OrioleDB",
+        "link": "https://supabase.link/orioledbjob",
+        "pubDate": "2026-09-19T17:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Almost Never Use AI to Write Anything Substantive",
+        "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+        "pubDate": "2026-09-19T16:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "A graphical desktop for the ZX Spectrum",
+        "link": "https://github.com/mindbox77/zxdesk",
+        "pubDate": "2026-09-19T14:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "What Zig felt like, coming from Rust",
+        "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+        "pubDate": "2026-09-19T13:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tin: full-text search for Postgres",
+        "link": "https://planetscale.com/blog/introducing-tin",
+        "pubDate": "2026-09-19T13:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "I Built Non-Autoregressive Decision Models with RL a Year Ago",
+        "link": "https://laya.convaiinnovations.com/",
+        "pubDate": "2026-09-19T10:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI-generated posters don’t have to be horrible",
         "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
         "pubDate": "2026-09-19T09:20",
         "feedId": "hn"
@@ -21,21 +57,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
-        "link": "https://browser.geekbench.com/v7/cpu/389219",
-        "pubDate": "2026-09-19T06:19",
-        "feedId": "hn"
-      },
-      {
         "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
         "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
         "pubDate": "2026-09-19T05:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-        "link": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-        "pubDate": "2026-09-19T04:44",
         "feedId": "hn"
       },
       {
@@ -67,30 +91,6 @@
         "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
         "pubDate": "2026-09-18T19:03",
         "feedId": "hn"
-      },
-      {
-        "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-        "link": "https://arxiv.org/abs/2510.03215",
-        "pubDate": "2026-09-18T18:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "Saving another 100TB of RAM",
-        "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-        "pubDate": "2026-09-18T18:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-        "link": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-        "pubDate": "2026-09-18T16:54",
-        "feedId": "hn"
-      },
-      {
-        "title": "Cloudflare Quick Tunnels",
-        "link": "https://try.cloudflare.com/",
-        "pubDate": "2026-09-18T14:18",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Typst makes big strides",
-        "link": "https://lwn.net/Articles/1092993/",
-        "pubDate": "2026-09-18T13:14",
+        "title": "Don’t Let Architecture Astronauts Scare You (2001)",
+        "link": "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/",
+        "pubDate": "2026-09-19T12:08",
         "feedId": "lobsters"
       },
       {
-        "title": "I don't like passkeys",
-        "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
-        "pubDate": "2026-09-18T12:52",
+        "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
+        "link": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
+        "pubDate": "2026-09-19T12:38",
         "feedId": "lobsters"
       },
       {
@@ -116,9 +116,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "There's no point at which turning your brain off will work",
-        "link": "https://danluu.com/brain-off/",
-        "pubDate": "2026-09-18T17:15",
+        "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
+        "link": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
+        "pubDate": "2026-09-19T13:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Typst makes big strides",
+        "link": "https://lwn.net/Articles/1092993/",
+        "pubDate": "2026-09-18T13:14",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "“The Secret Life of Circuits” is here",
+        "link": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+        "pubDate": "2026-09-19T12:12",
         "feedId": "lobsters"
       },
       {
@@ -128,63 +140,51 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Benchmarking Wild vs Mold",
-        "link": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
-        "pubDate": "2026-09-18T15:25",
+        "title": "AI Is an Elite Crime Spree",
+        "link": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+        "pubDate": "2026-09-19T15:44",
         "feedId": "lobsters"
       },
       {
-        "title": "What is still exciting in tech?",
-        "link": "https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech",
-        "pubDate": "2026-09-18T08:14",
+        "title": "Write while learning",
+        "link": "https://purplesyringa.moe/blog/write-while-learning/",
+        "pubDate": "2026-09-19T06:56",
         "feedId": "lobsters"
       },
       {
-        "title": "CSS-Tricks could be a co-op",
-        "link": "https://ericwbailey.website/published/css-tricks-could-be-a-co-op/",
-        "pubDate": "2026-09-18T22:11",
+        "title": "Reviving the language that brought us the Jak & Daxter Series",
+        "link": "https://opengoal.dev/",
+        "pubDate": "2026-09-19T14:28",
         "feedId": "lobsters"
       },
       {
-        "title": "Saving another 100TB of RAM with math (and Rust)",
-        "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-        "pubDate": "2026-09-19T00:28",
+        "title": "I don't like passkeys",
+        "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
+        "pubDate": "2026-09-18T12:52",
         "feedId": "lobsters"
       },
       {
-        "title": "FAQ: Why isn’t mutable a subtype of immutable, or vice versa?",
-        "link": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
-        "pubDate": "2026-09-18T15:30",
+        "title": "What happens to TLDs when their country stops existing? (2022)",
+        "link": "https://astrid.tech/2022/04/05/0/dead-tlds/",
+        "pubDate": "2026-09-19T11:53",
         "feedId": "lobsters"
       },
       {
-        "title": "Vale, code-like linting for prose",
-        "link": "https://vale.sh",
-        "pubDate": "2026-09-18T20:38",
+        "title": "There's no point at which turning your brain off will work",
+        "link": "https://danluu.com/brain-off/",
+        "pubDate": "2026-09-18T17:15",
         "feedId": "lobsters"
       },
       {
-        "title": "Unit tests mark territory more than squash bugs",
-        "link": "https://yosefk.com/blog/unit-tests-mark-territory-more-than-squash-bugs.html",
-        "pubDate": "2026-09-18T22:08",
+        "title": "Faster JSON parsing with SVE2 on ARM processors",
+        "link": "https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/",
+        "pubDate": "2026-09-19T15:10",
         "feedId": "lobsters"
       },
       {
-        "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials",
-        "link": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
-        "pubDate": "2026-09-17T21:21",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Be alert: targeted attacks on prominent Rustaceans",
-        "link": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
-        "pubDate": "2026-09-17T18:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/e1xglz/what_are_you_doing_this_weekend",
-        "pubDate": "2026-09-18T08:15",
+        "title": "Secure VMs for Kubernetes: Hardening Kata containers",
+        "link": "https://srcreigh.ca/posts/auditable-kata/",
+        "pubDate": "2026-09-19T17:11",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Learning another language may be one of the best ways to keep your brain healthy",
+        "link": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+        "pubDate": "2026-09-19T11:10",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Rings around a tiny body have changed over the past decade",
+        "link": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
+        "pubDate": "2026-09-19T10:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
         "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
@@ -269,24 +281,30 @@
         "link": "https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/",
         "pubDate": "2026-09-17T19:07",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-        "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-        "pubDate": "2026-09-17T18:33",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "IV drips used for \"detoxification\" actually filled with toxins; dozens poisoned",
-        "link": "https://arstechnica.com/health/2026/09/sketchy-iv-drips-at-wellness-clinics-have-poisoned-dozens-cdc-and-fda-warn/",
-        "pubDate": "2026-09-17T17:43",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Trump bans CNN, MS NOW and Politico from White House",
+        "link": "https://www.axios.com/2026/09/18/trump-ban-cnn-ms-now-politico-white-house",
+        "pubDate": "2026-09-19T15:18",
+        "feedId": "axios"
+      },
+      {
+        "title": "Iran war causes global pain at the pump",
+        "link": "https://www.axios.com/2026/09/19/iran-war-global-pain-fuel-prices",
+        "pubDate": "2026-09-19T12:58",
+        "feedId": "axios"
+      },
+      {
+        "title": "Football drives GOP's TV ad blitz for the midterms",
+        "link": "https://www.axios.com/2026/09/19/gop-football-campaign-ads-midterms",
+        "pubDate": "2026-09-19T12:00",
+        "feedId": "axios"
+      },
       {
         "title": "Google is the latest AI lab with a security testing mishap",
         "link": "https://www.axios.com/2026/09/19/google-safety-incidents-testing-hacks",
@@ -303,12 +321,6 @@
         "title": "Trump claims security, military deal with Denmark over Greenland",
         "link": "https://www.axios.com/2026/09/18/trump-greenland-denmark-deal",
         "pubDate": "2026-09-18T22:43",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump bans CNN, MS NOW and Politico from White House",
-        "link": "https://www.axios.com/2026/09/18/trump-ban-cnn-ms-now-politico-white-house",
-        "pubDate": "2026-09-18T21:37",
         "feedId": "axios"
       },
       {
@@ -363,18 +375,6 @@
         "title": "\"The Axios Show\": Hasan Piker wants to campaign for AOC in 2028",
         "link": "https://www.axios.com/2026/09/18/hasan-piker-aoc-2028-axios-show",
         "pubDate": "2026-09-18T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Inside the scramble for trusted AI cops",
-        "link": "https://www.axios.com/2026/09/18/ai-safety-evaluators-metr-white-house-trump",
-        "pubDate": "2026-09-18T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Blanche warned of contempt risk in Epstein files case",
-        "link": "https://www.axios.com/2026/09/17/epstein-files-doj-contempt-judge-blanche",
-        "pubDate": "2026-09-18T00:37",
         "feedId": "axios"
       }
     ]
