@@ -3,6 +3,12 @@
     "id": "hn",
     "items": [
       {
+        "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+        "link": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+        "pubDate": "2026-09-19T18:11",
+        "feedId": "hn"
+      },
+      {
         "title": "Supabase (YC S20) Is Hiring for OrioleDB",
         "link": "https://supabase.link/orioledbjob",
         "pubDate": "2026-09-19T17:01",
@@ -12,6 +18,12 @@
         "title": "Almost Never Use AI to Write Anything Substantive",
         "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
         "pubDate": "2026-09-19T16:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+        "link": "https://github.com/trycua/cua",
+        "pubDate": "2026-09-19T15:52",
         "feedId": "hn"
       },
       {
@@ -33,7 +45,7 @@
         "feedId": "hn"
       },
       {
-        "title": "I Built Non-Autoregressive Decision Models with RL a Year Ago",
+        "title": "I built non-autoregressive decision models with RL a year ago",
         "link": "https://laya.convaiinnovations.com/",
         "pubDate": "2026-09-19T10:46",
         "feedId": "hn"
@@ -79,18 +91,6 @@
         "link": "https://jepedersen.dk/blog/202505_research/",
         "pubDate": "2026-09-19T02:21",
         "feedId": "hn"
-      },
-      {
-        "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-        "link": "https://spectrum.ieee.org/llms-for-chip-design",
-        "pubDate": "2026-09-18T23:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-        "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-        "pubDate": "2026-09-18T19:03",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,9 +98,21 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "AI Is an Elite Crime Spree",
+        "link": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+        "pubDate": "2026-09-19T15:44",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Don’t Let Architecture Astronauts Scare You (2001)",
         "link": "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/",
         "pubDate": "2026-09-19T12:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
+        "link": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
+        "pubDate": "2026-09-19T13:41",
         "feedId": "lobsters"
       },
       {
@@ -116,9 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
-        "link": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
-        "pubDate": "2026-09-19T13:41",
+        "title": "“The Secret Life of Circuits” is here",
+        "link": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+        "pubDate": "2026-09-19T12:12",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What happens to TLDs when their country stops existing? (2022)",
+        "link": "https://astrid.tech/2022/04/05/0/dead-tlds/",
+        "pubDate": "2026-09-19T11:53",
         "feedId": "lobsters"
       },
       {
@@ -128,27 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "“The Secret Life of Circuits” is here",
-        "link": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
-        "pubDate": "2026-09-19T12:12",
+        "title": "Write while learning",
+        "link": "https://purplesyringa.moe/blog/write-while-learning/",
+        "pubDate": "2026-09-19T06:56",
         "feedId": "lobsters"
       },
       {
         "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
         "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
         "pubDate": "2026-09-19T08:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "AI Is an Elite Crime Spree",
-        "link": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-        "pubDate": "2026-09-19T15:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Write while learning",
-        "link": "https://purplesyringa.moe/blog/write-while-learning/",
-        "pubDate": "2026-09-19T06:56",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What happens to TLDs when their country stops existing? (2022)",
-        "link": "https://astrid.tech/2022/04/05/0/dead-tlds/",
-        "pubDate": "2026-09-19T11:53",
-        "feedId": "lobsters"
-      },
-      {
         "title": "There's no point at which turning your brain off will work",
         "link": "https://danluu.com/brain-off/",
         "pubDate": "2026-09-18T17:15",
         "feedId": "lobsters"
       },
       {
-        "title": "Faster JSON parsing with SVE2 on ARM processors",
-        "link": "https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/",
-        "pubDate": "2026-09-19T15:10",
+        "title": "LispBM: Concurrent Lisp for Microcontrollers",
+        "link": "https://www.lispbm.com/",
+        "pubDate": "2026-09-19T11:36",
         "feedId": "lobsters"
       },
       {
-        "title": "Secure VMs for Kubernetes: Hardening Kata containers",
-        "link": "https://srcreigh.ca/posts/auditable-kata/",
-        "pubDate": "2026-09-19T17:11",
+        "title": "Faster JSON parsing with SVE2 on ARM processors",
+        "link": "https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/",
+        "pubDate": "2026-09-19T15:10",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump wants a new AI czar and an \"AI Force\" modeled on Space Force",
+        "link": "https://www.axios.com/2026/09/19/trump-ai-czar-space-force-safety",
+        "pubDate": "2026-09-19T19:20",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump bans CNN, MS NOW and Politico from White House",
         "link": "https://www.axios.com/2026/09/18/trump-ban-cnn-ms-now-politico-white-house",
         "pubDate": "2026-09-19T15:18",
@@ -369,12 +375,6 @@
         "title": "Oil's shrug emoji era",
         "link": "https://www.axios.com/2026/09/18/oils-shrug-emoji-era-iran-trump-hormuz-prices",
         "pubDate": "2026-09-18T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"The Axios Show\": Hasan Piker wants to campaign for AOC in 2028",
-        "link": "https://www.axios.com/2026/09/18/hasan-piker-aoc-2028-axios-show",
-        "pubDate": "2026-09-18T09:00",
         "feedId": "axios"
       }
     ]
