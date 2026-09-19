@@ -3,9 +3,45 @@
     "id": "hn",
     "items": [
       {
-        "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
-        "link": "https://bartosz.fenski.pl/modern-fs-benchmark/",
-        "pubDate": "2026-09-19T18:11",
+        "title": "Mayday Mysteries",
+        "link": "http://www.maydaymystery.org/mayday/",
+        "pubDate": "2026-09-19T21:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+        "link": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+        "pubDate": "2026-09-19T21:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+        "link": "https://chrono.fandom.com/wiki/Dream_Devourer",
+        "pubDate": "2026-09-19T21:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "English: A vs. An",
+        "link": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+        "pubDate": "2026-09-19T20:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "Measure internet censorship. Contribute to the largest open dataset",
+        "link": "https://ooni.org/install",
+        "pubDate": "2026-09-19T20:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+        "link": "https://eprint.iacr.org/2026/2039",
+        "pubDate": "2026-09-19T19:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+        "pubDate": "2026-09-19T18:21",
         "feedId": "hn"
       },
       {
@@ -15,7 +51,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Almost Never Use AI to Write Anything Substantive",
+        "title": "I think you should almost never use AI to write",
         "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
         "pubDate": "2026-09-19T16:35",
         "feedId": "hn"
@@ -27,15 +63,9 @@
         "feedId": "hn"
       },
       {
-        "title": "A graphical desktop for the ZX Spectrum",
-        "link": "https://github.com/mindbox77/zxdesk",
-        "pubDate": "2026-09-19T14:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "What Zig felt like, coming from Rust",
-        "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-        "pubDate": "2026-09-19T13:55",
+        "title": "Brood War Bench",
+        "link": "https://bw.swerdlow.dev/report",
+        "pubDate": "2026-09-19T14:44",
         "feedId": "hn"
       },
       {
@@ -60,36 +90,6 @@
         "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
         "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
         "pubDate": "2026-09-19T06:41",
-        "feedId": "hn"
-      },
-      {
-        "title": "If math is more than proof, we need to better celebrate the rest of it",
-        "link": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-        "pubDate": "2026-09-19T06:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-        "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-        "pubDate": "2026-09-19T05:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "San Francisco Onion Futures Company",
-        "link": "https://onionfutures.com/",
-        "pubDate": "2026-09-19T04:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "SDCC – Small Device C Compiler",
-        "link": "https://sdcc.sourceforge.net/",
-        "pubDate": "2026-09-19T02:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "Science Is Open Software",
-        "link": "https://jepedersen.dk/blog/202505_research/",
-        "pubDate": "2026-09-19T02:21",
         "feedId": "hn"
       }
     ]
@@ -116,15 +116,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
-        "link": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
-        "pubDate": "2026-09-19T12:38",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The scourge of x86 emulation",
-        "link": "https://fex-emu.com/Scourge-of-emulation/",
-        "pubDate": "2026-09-19T05:01",
+        "title": "we have a year to fix security everywhere",
+        "link": "https://jyn.dev/a-year-to-fix-security/",
+        "pubDate": "2026-09-19T19:27",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +128,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What happens to TLDs when their country stops existing? (2022)",
-        "link": "https://astrid.tech/2022/04/05/0/dead-tlds/",
-        "pubDate": "2026-09-19T11:53",
+        "title": "The scourge of x86 emulation",
+        "link": "https://fex-emu.com/Scourge-of-emulation/",
+        "pubDate": "2026-09-19T05:01",
         "feedId": "lobsters"
       },
       {
-        "title": "Typst makes big strides",
-        "link": "https://lwn.net/Articles/1092993/",
-        "pubDate": "2026-09-18T13:14",
+        "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
+        "link": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
+        "pubDate": "2026-09-19T12:38",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What happens to TLDs when their country stops existing? (2022)",
+        "link": "https://astrid.tech/2022/04/05/0/dead-tlds/",
+        "pubDate": "2026-09-19T11:53",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-        "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-        "pubDate": "2026-09-19T08:44",
+        "title": "Typst makes big strides",
+        "link": "https://lwn.net/Articles/1092993/",
+        "pubDate": "2026-09-18T13:14",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I don't like passkeys",
-        "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
-        "pubDate": "2026-09-18T12:52",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "There's no point at which turning your brain off will work",
-        "link": "https://danluu.com/brain-off/",
-        "pubDate": "2026-09-18T17:15",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "LispBM: Concurrent Lisp for Microcontrollers",
-        "link": "https://www.lispbm.com/",
-        "pubDate": "2026-09-19T11:36",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Faster JSON parsing with SVE2 on ARM processors",
         "link": "https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/",
         "pubDate": "2026-09-19T15:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+        "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+        "pubDate": "2026-09-19T08:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Thread-identity switcheroo for io_uring",
+        "link": "https://lwn.net/SubscriberLink/1094303/50affb2e7bd3e698/",
+        "pubDate": "2026-09-19T18:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I don't like passkeys",
+        "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
+        "pubDate": "2026-09-18T12:52",
         "feedId": "lobsters"
       }
     ]
