@@ -3,6 +3,30 @@
     "id": "hn",
     "items": [
       {
+        "title": "Google's Open Agentic Orchestrator",
+        "link": "https://agentexecutor.io",
+        "pubDate": "2026-09-20T22:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "Bill to Ban Private Equity from Owning Medical Practices",
+        "link": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
+        "pubDate": "2026-09-20T22:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nobody pays for FOSS, we can force them to",
+        "link": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+        "pubDate": "2026-09-20T21:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ogre Battle 64 Recompiled Project at 99.05%",
+        "link": "https://github.com/lfarroco/ogre-battle-64-recomp",
+        "pubDate": "2026-09-20T20:59",
+        "feedId": "hn"
+      },
+      {
         "title": "Frontier Labs Are Selling Garbage to Fools in Washington",
         "link": "https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage",
         "pubDate": "2026-09-20T19:55",
@@ -15,7 +39,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Software Sandboxing: The Basics",
+        "title": "Software Sandboxing: The Basics (2025)",
         "link": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
         "pubDate": "2026-09-20T18:42",
         "feedId": "hn"
@@ -63,33 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "I am often wrong",
-        "link": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
-        "pubDate": "2026-09-20T16:41",
-        "feedId": "hn"
-      },
-      {
         "title": "Prompts aren’t Real",
         "link": "https://evaluation.club",
         "pubDate": "2026-09-20T15:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
-        "link": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
-        "pubDate": "2026-09-20T15:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "Custom home server built from spare parts",
-        "link": "https://asmat.ca/blog/i-went-bananas/",
-        "pubDate": "2026-09-20T15:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "One-Electron Universe",
-        "link": "https://en.wikipedia.org/wiki/One-electron_universe",
-        "pubDate": "2026-09-20T15:28",
         "feedId": "hn"
       }
     ]
@@ -110,6 +110,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "An actively maintained and updated Motif fork actually exists",
+        "link": "https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/",
+        "pubDate": "2026-09-20T17:13",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Beyond jj: config & tools ecosystem",
         "link": "https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/",
         "pubDate": "2026-09-20T10:51",
@@ -122,27 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "An actively maintained and updated Motif fork actually exists",
-        "link": "https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/",
-        "pubDate": "2026-09-20T17:13",
-        "feedId": "lobsters"
-      },
-      {
         "title": "You Know GDPR Is Good Based on Who Hates It",
         "link": "https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/",
         "pubDate": "2026-09-20T05:46",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "AI Is an Elite Crime Spree",
-        "link": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-        "pubDate": "2026-09-19T15:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "we have a year to fix security everywhere",
-        "link": "https://jyn.dev/a-year-to-fix-security/",
-        "pubDate": "2026-09-19T19:27",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +140,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Using non-breakable spaces in test method names",
-        "link": "https://mnapoli.fr/using-non-breakable-spaces-in-test-method-names",
-        "pubDate": "2026-09-20T10:04",
+        "title": "AI Is an Elite Crime Spree",
+        "link": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+        "pubDate": "2026-09-19T15:44",
         "feedId": "lobsters"
       },
       {
-        "title": "V Language Review (2023)",
-        "link": "https://n-skvortsov-1997.github.io/reviews/",
-        "pubDate": "2026-09-19T22:36",
+        "title": "Deterministic Core, Non-Deterministic Shell",
+        "link": "https://outdata.net/blog/260803",
+        "pubDate": "2026-09-20T21:13",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "we have a year to fix security everywhere",
+        "link": "https://jyn.dev/a-year-to-fix-security/",
+        "pubDate": "2026-09-19T19:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Using non-breakable spaces in test method names",
+        "link": "https://mnapoli.fr/using-non-breakable-spaces-in-test-method-names",
+        "pubDate": "2026-09-20T10:04",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +170,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Scott Jenson: Are we really going to use the same Desktop UX forever?",
+        "link": "https://www.youtube.com/watch?v=V7AfAcQwLW0",
+        "pubDate": "2026-09-20T20:34",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Vim's UserGettingBored autocmd",
         "link": "https://evanhahn.com/usergettingbored-vim/",
         "pubDate": "2026-09-20T17:18",
         "feedId": "lobsters"
       },
       {
-        "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
-        "link": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
-        "pubDate": "2026-09-19T13:41",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Quarkdown: Turing-complete Markdown typesetting system",
-        "link": "https://github.com/iamgio/quarkdown",
-        "pubDate": "2026-09-20T03:37",
+        "title": "V Language Review (2023)",
+        "link": "https://n-skvortsov-1997.github.io/reviews/",
+        "pubDate": "2026-09-19T22:36",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "Exclusive: Beshear says next president must go big on housing",
+        "link": "https://www.axios.com/2026/09/20/beshear-housing-2028-president",
+        "pubDate": "2026-09-20T21:40",
+        "feedId": "axios"
+      },
+      {
+        "title": "Many ex-aides to Harris betting against a 2028 run",
+        "link": "https://www.axios.com/2026/09/20/kamala-harris-ex-aides-2028-campaign",
+        "pubDate": "2026-09-20T21:30",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump to meet with Zelensky as Russia-Ukraine attacks intensify",
         "link": "https://www.axios.com/2026/09/20/trump-zelensky-meeting-russia-ukraine-war-talks",
         "pubDate": "2026-09-20T19:25",
@@ -363,18 +375,6 @@
         "title": "USPS made mail slower to cut costs. Midterm ballots will test the system.",
         "link": "https://www.axios.com/2026/09/18/usps-slow-mail-cost-cuts-performance",
         "pubDate": "2026-09-18T21:18",
-        "feedId": "axios"
-      },
-      {
-        "title": "2028 Democrats like Newsom and Pritzker lean in on AI safety as Washington stalls",
-        "link": "https://www.axios.com/2026/09/18/newsom-ai-2028-focus",
-        "pubDate": "2026-09-18T20:59",
-        "feedId": "axios"
-      },
-      {
-        "title": "GOP's Latino gains fade as deeper gender and generational divides emerge",
-        "link": "https://www.axios.com/2026/09/18/latino-voters-shift-internal-divides-deepen",
-        "pubDate": "2026-09-18T20:12",
         "feedId": "axios"
       }
     ]
