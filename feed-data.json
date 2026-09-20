@@ -3,13 +3,73 @@
     "id": "hn",
     "items": [
       {
+        "title": "Frontier Labs Are Selling Garbage to Fools in Washington",
+        "link": "https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage",
+        "pubDate": "2026-09-20T19:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Hierarchy of Money",
+        "link": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
+        "pubDate": "2026-09-20T19:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "Software Sandboxing: The Basics",
+        "link": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
+        "pubDate": "2026-09-20T18:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "A Necessary History of the Oddest Letter: W",
+        "link": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
+        "pubDate": "2026-09-20T17:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "I turned Jev into a (lousy) chatbot",
+        "link": "https://github.com/kyle-pena-nlp/jevchat/",
+        "pubDate": "2026-09-20T17:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+        "link": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+        "pubDate": "2026-09-20T17:38",
+        "feedId": "hn"
+      },
+      {
+        "title": "Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++",
+        "link": "https://github.com/adonis-singh/re4",
+        "pubDate": "2026-09-20T17:38",
+        "feedId": "hn"
+      },
+      {
+        "title": "Trying the Software Factory Pattern",
+        "link": "https://lethain.com/software-factory-experiment/",
+        "pubDate": "2026-09-20T17:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "US Revokes Limits on Power Plants' Climate Pollution",
+        "link": "https://text.hrw.org/news/2026/09/17/us-revokes-limits-on-power-plants-climate-pollution",
+        "pubDate": "2026-09-20T17:19",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: Radius – A Meetup.com Alternative",
         "link": "https://radius.to/",
         "pubDate": "2026-09-20T16:51",
         "feedId": "hn"
       },
       {
-        "title": "Prompts Aren't Real",
+        "title": "I am often wrong",
+        "link": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
+        "pubDate": "2026-09-20T16:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "Prompts aren’t Real",
         "link": "https://evaluation.club",
         "pubDate": "2026-09-20T15:59",
         "feedId": "hn"
@@ -30,66 +90,6 @@
         "title": "One-Electron Universe",
         "link": "https://en.wikipedia.org/wiki/One-electron_universe",
         "pubDate": "2026-09-20T15:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "ChatGPT now knows what you do on other websites via ad collector",
-        "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-        "pubDate": "2026-09-20T15:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "Singapore Is Paying People to Put Down Their Phones and Read Books",
-        "link": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-        "pubDate": "2026-09-20T15:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "Pirate Face Rescues LLM Models from Deletion",
-        "link": "https://pirateface.co/",
-        "pubDate": "2026-09-20T15:16",
-        "feedId": "hn"
-      },
-      {
-        "title": "Sherline Tools Is Going Out of Business",
-        "link": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
-        "pubDate": "2026-09-20T15:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "The senior engineer death spiral",
-        "link": "https://sunilpai.dev/posts/the-senior-engineer-death-spiral/",
-        "pubDate": "2026-09-20T14:16",
-        "feedId": "hn"
-      },
-      {
-        "title": "Mathematical Billiards (2024)",
-        "link": "https://structures.uni-heidelberg.de/blog/posts/2024_01_costa/index.php",
-        "pubDate": "2026-09-20T13:42",
-        "feedId": "hn"
-      },
-      {
-        "title": "Do birds have accents? the regional differences in birdsong",
-        "link": "https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108",
-        "pubDate": "2026-09-20T13:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
-        "link": "https://qwen.ai/blog?id=qwen-image-2.1",
-        "pubDate": "2026-09-20T13:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Millennium Problems for Biology",
-        "link": "https://millenniumproblems.bio/",
-        "pubDate": "2026-09-20T12:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "UTF-8000: Unlimited UTF-8",
-        "link": "https://utf-8000.jb2170.com",
-        "pubDate": "2026-09-20T05:15",
         "feedId": "hn"
       }
     ]
@@ -122,6 +122,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "An actively maintained and updated Motif fork actually exists",
+        "link": "https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/",
+        "pubDate": "2026-09-20T17:13",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "You Know GDPR Is Good Based on Who Hates It",
+        "link": "https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/",
+        "pubDate": "2026-09-20T05:46",
+        "feedId": "lobsters"
+      },
+      {
         "title": "AI Is an Elite Crime Spree",
         "link": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
         "pubDate": "2026-09-19T15:44",
@@ -134,15 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "You Know GDPR Is Good Based on Who Hates It",
-        "link": "https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/",
-        "pubDate": "2026-09-20T05:46",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "V Language Review (2023)",
-        "link": "https://n-skvortsov-1997.github.io/reviews/",
-        "pubDate": "2026-09-19T22:36",
+        "title": "ChatGPT now knows what you do on other websites via ad collector",
+        "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+        "pubDate": "2026-09-20T17:43",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "An actively maintained and updated Motif fork actually exists",
-        "link": "https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/",
-        "pubDate": "2026-09-20T17:13",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
-        "link": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
-        "pubDate": "2026-09-19T13:41",
+        "title": "V Language Review (2023)",
+        "link": "https://n-skvortsov-1997.github.io/reviews/",
+        "pubDate": "2026-09-19T22:36",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +170,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Vim's UserGettingBored autocmd",
+        "link": "https://evanhahn.com/usergettingbored-vim/",
+        "pubDate": "2026-09-20T17:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
+        "link": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
+        "pubDate": "2026-09-19T13:41",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Quarkdown: Turing-complete Markdown typesetting system",
         "link": "https://github.com/iamgio/quarkdown",
         "pubDate": "2026-09-20T03:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Don’t Let Architecture Astronauts Scare You (2001)",
-        "link": "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/",
-        "pubDate": "2026-09-19T12:08",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What's been going on in w64devkit the past year",
-        "link": "https://nullprogram.com/blog/2026/09/20/",
-        "pubDate": "2026-09-20T15:31",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump to meet with Zelensky as Russia-Ukraine attacks intensify",
+        "link": "https://www.axios.com/2026/09/20/trump-zelensky-meeting-russia-ukraine-war-talks",
+        "pubDate": "2026-09-20T19:25",
+        "feedId": "axios"
+      },
+      {
         "title": "Three Republican power players walk into a D.C. bar, and ...",
         "link": "https://www.axios.com/2026/09/20/republicans-dc-bar-chat-trump-oil",
         "pubDate": "2026-09-20T12:26",
@@ -369,12 +375,6 @@
         "title": "GOP's Latino gains fade as deeper gender and generational divides emerge",
         "link": "https://www.axios.com/2026/09/18/latino-voters-shift-internal-divides-deepen",
         "pubDate": "2026-09-18T20:12",
-        "feedId": "axios"
-      },
-      {
-        "title": "The House left town, but Hegseth impeachment, Epstein and a funding fight are waiting",
-        "link": "https://www.axios.com/2026/09/18/hegseth-impeachment-epstein-funding-house",
-        "pubDate": "2026-09-18T18:38",
         "feedId": "axios"
       }
     ]
