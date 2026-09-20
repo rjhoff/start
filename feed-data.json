@@ -3,21 +3,33 @@
     "id": "hn",
     "items": [
       {
-        "title": "Benchmarking Wild vs. Mold",
-        "link": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
-        "pubDate": "2026-09-20T09:09",
+        "title": "Teen Social Media Bans Miss the Point",
+        "link": "https://thereader.mitpress.mit.edu/teen-social-media-bans-miss-the-point/",
+        "pubDate": "2026-09-20T13:32",
         "feedId": "hn"
       },
       {
-        "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-        "link": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-        "pubDate": "2026-09-20T09:08",
+        "title": "Do birds have accents? the regional differences in birdsong",
+        "link": "https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108",
+        "pubDate": "2026-09-20T13:19",
         "feedId": "hn"
       },
       {
-        "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
-        "link": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-        "pubDate": "2026-09-20T06:16",
+        "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+        "link": "https://qwen.ai/blog?id=qwen-image-2.1",
+        "pubDate": "2026-09-20T13:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
+        "link": "https://softwarecrisis.dev/letters/llmentalist/",
+        "pubDate": "2026-09-20T12:20",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Millennium Problems for Biology",
+        "link": "https://millenniumproblems.bio/",
+        "pubDate": "2026-09-20T12:17",
         "feedId": "hn"
       },
       {
@@ -51,12 +63,6 @@
         "feedId": "hn"
       },
       {
-        "title": "An open source roguelike adventure through dungeons",
-        "link": "https://crawl.develz.org/",
-        "pubDate": "2026-09-19T22:55",
-        "feedId": "hn"
-      },
-      {
         "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
         "link": "https://chrono.fandom.com/wiki/Dream_Devourer",
         "pubDate": "2026-09-19T21:25",
@@ -85,12 +91,6 @@
         "link": "https://bartosz.fenski.pl/modern-fs-benchmark/",
         "pubDate": "2026-09-19T18:11",
         "feedId": "hn"
-      },
-      {
-        "title": "The Lamentable Later Life of Lemmings",
-        "link": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
-        "pubDate": "2026-09-19T15:17",
-        "feedId": "hn"
       }
     ]
   },
@@ -116,6 +116,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "You Know GDPR Is Good Based on Who Hates It",
+        "link": "https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/",
+        "pubDate": "2026-09-20T05:46",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Beyond jj: config & tools ecosystem",
+        "link": "https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/",
+        "pubDate": "2026-09-20T10:51",
+        "feedId": "lobsters"
+      },
+      {
         "title": "V Language Review (2023)",
         "link": "https://n-skvortsov-1997.github.io/reviews/",
         "pubDate": "2026-09-19T22:36",
@@ -128,21 +140,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Software sandboxing: The basics (2025)",
+        "link": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
+        "pubDate": "2026-09-20T14:13",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Don’t Let Architecture Astronauts Scare You (2001)",
         "link": "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/",
         "pubDate": "2026-09-19T12:08",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "You Know GDPR Is Good Based on Who Hates It",
-        "link": "https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/",
-        "pubDate": "2026-09-20T05:46",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What happens to TLDs when their country stops existing? (2022)",
-        "link": "https://astrid.tech/2022/04/05/0/dead-tlds/",
-        "pubDate": "2026-09-19T11:53",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
-        "link": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
-        "pubDate": "2026-09-19T12:38",
+        "title": "What happens to TLDs when their country stops existing? (2022)",
+        "link": "https://astrid.tech/2022/04/05/0/dead-tlds/",
+        "pubDate": "2026-09-19T11:53",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The scourge of x86 emulation",
-        "link": "https://fex-emu.com/Scourge-of-emulation/",
-        "pubDate": "2026-09-19T05:01",
+        "title": "Using non-breakable spaces in test method names",
+        "link": "https://mnapoli.fr/using-non-breakable-spaces-in-test-method-names",
+        "pubDate": "2026-09-20T10:04",
         "feedId": "lobsters"
       },
       {
-        "title": "Thread-identity switcheroo for io_uring",
-        "link": "https://lwn.net/SubscriberLink/1094303/50affb2e7bd3e698/",
-        "pubDate": "2026-09-19T18:42",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Reviving the language that brought us the Jak & Daxter Series",
-        "link": "https://opengoal.dev/",
-        "pubDate": "2026-09-19T14:28",
+        "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
+        "link": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
+        "pubDate": "2026-09-19T12:38",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+        "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+        "pubDate": "2026-09-20T11:07",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Don't call it an SUV: The Ferrari Purosangue review",
+        "link": "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/",
+        "pubDate": "2026-09-20T10:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "T. rex teeth indicate it ran as warm as an elephant",
         "link": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
@@ -269,24 +281,30 @@
         "link": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
         "pubDate": "2026-09-17T22:12",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Google announces new experimental \"CC\" AI agent for families",
-        "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-        "pubDate": "2026-09-17T20:24",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
-        "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
-        "pubDate": "2026-09-17T20:10",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Three Republican power players walk into a D.C. bar, and ...",
+        "link": "https://www.axios.com/2026/09/20/republicans-dc-bar-chat-trump-oil",
+        "pubDate": "2026-09-20T12:26",
+        "feedId": "axios"
+      },
+      {
+        "title": "The tech battle to build your AI assistant",
+        "link": "https://www.axios.com/2026/09/20/ai-assistant-openai-meta-muse-instinct-grok-apple",
+        "pubDate": "2026-09-20T12:22",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump's proposed Washington arch to become sniper, drone facility",
+        "link": "https://www.axios.com/2026/09/20/trump-arch-washington-snipers-drones",
+        "pubDate": "2026-09-20T12:00",
+        "feedId": "axios"
+      },
       {
         "title": "How Trump 2.0's stock market stacks up with predecessors",
         "link": "https://www.axios.com/2026/09/20/trump-stock-market-predecessors",
@@ -357,24 +375,6 @@
         "title": "The House left town, but Hegseth impeachment, Epstein and a funding fight are waiting",
         "link": "https://www.axios.com/2026/09/18/hegseth-impeachment-epstein-funding-house",
         "pubDate": "2026-09-18T18:38",
-        "feedId": "axios"
-      },
-      {
-        "title": "Khanna, Massie say they can force another Epstein vote",
-        "link": "https://www.axios.com/2026/09/18/epstein-files-vote-massie-khanna-support",
-        "pubDate": "2026-09-18T15:07",
-        "feedId": "axios"
-      },
-      {
-        "title": "Why Sydney Sweeney's nude ad struck such a nerve with women athletes",
-        "link": "https://www.axios.com/2026/09/18/novig-sydney-sweeney-ad-backlash-women-in-sports",
-        "pubDate": "2026-09-18T14:36",
-        "feedId": "axios"
-      },
-      {
-        "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
-        "link": "https://www.axios.com/2026/09/18/warren-buffett-berkshire-hathaway-chairman",
-        "pubDate": "2026-09-18T10:44",
         "feedId": "axios"
       }
     ]
