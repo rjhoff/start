@@ -3,15 +3,33 @@
     "id": "hn",
     "items": [
       {
-        "title": "BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]",
-        "link": "https://www.youtube.com/watch?v=IQrnGK5FZXI",
-        "pubDate": "2026-09-20T04:46",
+        "title": "Benchmarking Wild vs. Mold",
+        "link": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
+        "pubDate": "2026-09-20T09:09",
         "feedId": "hn"
       },
       {
-        "title": "Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters",
-        "link": "https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0",
-        "pubDate": "2026-09-20T04:38",
+        "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
+        "link": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
+        "pubDate": "2026-09-20T09:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+        "link": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+        "pubDate": "2026-09-20T06:16",
+        "feedId": "hn"
+      },
+      {
+        "title": "UTF-8000: Unlimited UTF-8",
+        "link": "https://utf-8000.jb2170.com",
+        "pubDate": "2026-09-20T05:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "Telling a Computer to Do Things",
+        "link": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
+        "pubDate": "2026-09-20T05:11",
         "feedId": "hn"
       },
       {
@@ -69,27 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Supabase (YC S20) Is Hiring for OrioleDB",
-        "link": "https://supabase.link/orioledbjob",
-        "pubDate": "2026-09-19T17:01",
-        "feedId": "hn"
-      },
-      {
         "title": "The Lamentable Later Life of Lemmings",
         "link": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
         "pubDate": "2026-09-19T15:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "Brood War Bench",
-        "link": "https://bw.swerdlow.dev/report",
-        "pubDate": "2026-09-19T14:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "What Zig felt like, coming from Rust",
-        "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-        "pubDate": "2026-09-19T13:55",
         "feedId": "hn"
       }
     ]
@@ -104,15 +104,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Thoughts on the Future of Web Browsers",
+        "link": "https://sarahjamielewis.com/log/2026/future-of-web-browsers.html",
+        "pubDate": "2026-09-19T22:27",
+        "feedId": "lobsters"
+      },
+      {
         "title": "we have a year to fix security everywhere",
         "link": "https://jyn.dev/a-year-to-fix-security/",
         "pubDate": "2026-09-19T19:27",
         "feedId": "lobsters"
       },
       {
-        "title": "Thoughts on the Future of Web Browsers",
-        "link": "https://sarahjamielewis.com/log/2026/future-of-web-browsers.html",
-        "pubDate": "2026-09-19T22:27",
+        "title": "V Language Review (2023)",
+        "link": "https://n-skvortsov-1997.github.io/reviews/",
+        "pubDate": "2026-09-19T22:36",
         "feedId": "lobsters"
       },
       {
@@ -128,27 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Quarkdown: Turing-complete Markdown typesetting system",
-        "link": "https://github.com/iamgio/quarkdown",
-        "pubDate": "2026-09-20T03:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "“The Secret Life of Circuits” is here",
-        "link": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
-        "pubDate": "2026-09-19T12:12",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "V Language Review (2023)",
-        "link": "https://n-skvortsov-1997.github.io/reviews/",
-        "pubDate": "2026-09-19T22:36",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
-        "link": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
-        "pubDate": "2026-09-19T12:38",
+        "title": "You Know GDPR Is Good Based on Who Hates It",
+        "link": "https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/",
+        "pubDate": "2026-09-20T05:46",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +146,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The scourge of x86 emulation",
-        "link": "https://fex-emu.com/Scourge-of-emulation/",
-        "pubDate": "2026-09-19T05:01",
+        "title": "“The Secret Life of Circuits” is here",
+        "link": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+        "pubDate": "2026-09-19T12:12",
         "feedId": "lobsters"
       },
       {
-        "title": "Reviving the language that brought us the Jak & Daxter Series",
-        "link": "https://opengoal.dev/",
-        "pubDate": "2026-09-19T14:28",
+        "title": "Quarkdown: Turing-complete Markdown typesetting system",
+        "link": "https://github.com/iamgio/quarkdown",
+        "pubDate": "2026-09-20T03:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
+        "link": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
+        "pubDate": "2026-09-19T12:38",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "HEIF Heist",
+        "link": "https://heif-heist.com",
+        "pubDate": "2026-09-20T05:56",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The scourge of x86 emulation",
+        "link": "https://fex-emu.com/Scourge-of-emulation/",
+        "pubDate": "2026-09-19T05:01",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Union vs sum types",
-        "link": "https://viralinstruction.com/posts/uniontypes/",
-        "pubDate": "2026-09-19T23:45",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Write while learning",
-        "link": "https://purplesyringa.moe/blog/write-while-learning/",
-        "pubDate": "2026-09-19T06:56",
+        "title": "Reviving the language that brought us the Jak & Daxter Series",
+        "link": "https://opengoal.dev/",
+        "pubDate": "2026-09-19T14:28",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "T. rex teeth indicate it ran as warm as an elephant",
+        "link": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
+        "pubDate": "2026-09-20T09:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Learning another language may be one of the best ways to keep your brain healthy",
         "link": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
@@ -275,18 +281,18 @@
         "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
         "pubDate": "2026-09-17T20:10",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites",
-        "link": "https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/",
-        "pubDate": "2026-09-17T19:07",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "How Trump 2.0's stock market stacks up with predecessors",
+        "link": "https://www.axios.com/2026/09/20/trump-stock-market-predecessors",
+        "pubDate": "2026-09-20T10:00",
+        "feedId": "axios"
+      },
       {
         "title": "Trump wants a new AI czar and an \"AI Force\" modeled on Space Force",
         "link": "https://www.axios.com/2026/09/19/trump-ai-czar-space-force-safety",
@@ -369,12 +375,6 @@
         "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
         "link": "https://www.axios.com/2026/09/18/warren-buffett-berkshire-hathaway-chairman",
         "pubDate": "2026-09-18T10:44",
-        "feedId": "axios"
-      },
-      {
-        "title": "Oil's shrug emoji era",
-        "link": "https://www.axios.com/2026/09/18/oils-shrug-emoji-era-iran-trump-hormuz-prices",
-        "pubDate": "2026-09-18T09:30",
         "feedId": "axios"
       }
     ]
