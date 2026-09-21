@@ -3,21 +3,45 @@
     "id": "hn",
     "items": [
       {
-        "title": "Google's Open Agentic Orchestrator",
+        "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+        "link": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+        "pubDate": "2026-09-21T04:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "Winning the Visa Lottery",
+        "link": "https://www.aeaweb.org/research/immigration-restrictions-firms-workers",
+        "pubDate": "2026-09-21T03:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "Deterministic Core, Non-Deterministic Shell",
+        "link": "https://outdata.net/blog/260803",
+        "pubDate": "2026-09-21T02:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why back propagation goes backward",
+        "link": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
+        "pubDate": "2026-09-21T00:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "Amiga Unix, Again",
+        "link": "https://amigaux.org/",
+        "pubDate": "2026-09-20T23:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "What happened to the Snowden archive",
+        "link": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+        "pubDate": "2026-09-20T22:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "AX – Google’s Open Agentic Orchestrator",
         "link": "https://agentexecutor.io",
         "pubDate": "2026-09-20T22:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "Bill to Ban Private Equity from Owning Medical Practices",
-        "link": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
-        "pubDate": "2026-09-20T22:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nobody pays for FOSS, we can force them to",
-        "link": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
-        "pubDate": "2026-09-20T21:04",
         "feedId": "hn"
       },
       {
@@ -27,19 +51,13 @@
         "feedId": "hn"
       },
       {
-        "title": "Frontier Labs Are Selling Garbage to Fools in Washington",
-        "link": "https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage",
-        "pubDate": "2026-09-20T19:55",
+        "title": "Why MCP Was Always a Bad Idea?",
+        "link": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+        "pubDate": "2026-09-20T19:44",
         "feedId": "hn"
       },
       {
-        "title": "The Hierarchy of Money",
-        "link": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
-        "pubDate": "2026-09-20T19:37",
-        "feedId": "hn"
-      },
-      {
-        "title": "Software Sandboxing: The Basics (2025)",
+        "title": "Software sandboxing: The basics (2025)",
         "link": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
         "pubDate": "2026-09-20T18:42",
         "feedId": "hn"
@@ -69,27 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Trying the Software Factory Pattern",
-        "link": "https://lethain.com/software-factory-experiment/",
-        "pubDate": "2026-09-20T17:27",
-        "feedId": "hn"
-      },
-      {
-        "title": "US Revokes Limits on Power Plants' Climate Pollution",
-        "link": "https://text.hrw.org/news/2026/09/17/us-revokes-limits-on-power-plants-climate-pollution",
-        "pubDate": "2026-09-20T17:19",
-        "feedId": "hn"
-      },
-      {
         "title": "Show HN: Radius – A Meetup.com Alternative",
         "link": "https://radius.to/",
         "pubDate": "2026-09-20T16:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "Prompts aren’t Real",
-        "link": "https://evaluation.club",
-        "pubDate": "2026-09-20T15:59",
         "feedId": "hn"
       }
     ]
@@ -104,21 +104,39 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Lambda MicroEgg",
-        "link": "https://www.philipzucker.com/lambda_miller_egg/",
-        "pubDate": "2026-09-20T16:04",
-        "feedId": "lobsters"
-      },
-      {
         "title": "An actively maintained and updated Motif fork actually exists",
         "link": "https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/",
         "pubDate": "2026-09-20T17:13",
         "feedId": "lobsters"
       },
       {
+        "title": "Lambda MicroEgg",
+        "link": "https://www.philipzucker.com/lambda_miller_egg/",
+        "pubDate": "2026-09-20T16:04",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "ChatGPT now knows what you do on other websites via ad collector",
+        "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+        "pubDate": "2026-09-20T17:43",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Beyond jj: config & tools ecosystem",
         "link": "https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/",
         "pubDate": "2026-09-20T10:51",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Bot-free self-hosted analytics with GoatCounter on NixOS",
+        "link": "https://vincent.bernat.ch/en/blog/2026-goatcounter",
+        "pubDate": "2026-09-20T22:51",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Are we really going to use the same Desktop UX forever?",
+        "link": "https://www.youtube.com/watch?v=V7AfAcQwLW0",
+        "pubDate": "2026-09-20T20:34",
         "feedId": "lobsters"
       },
       {
@@ -134,45 +152,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "ChatGPT now knows what you do on other websites via ad collector",
-        "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-        "pubDate": "2026-09-20T17:43",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "AI Is an Elite Crime Spree",
-        "link": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-        "pubDate": "2026-09-19T15:44",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Deterministic Core, Non-Deterministic Shell",
         "link": "https://outdata.net/blog/260803",
         "pubDate": "2026-09-20T21:13",
         "feedId": "lobsters"
       },
       {
-        "title": "we have a year to fix security everywhere",
-        "link": "https://jyn.dev/a-year-to-fix-security/",
-        "pubDate": "2026-09-19T19:27",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Using non-breakable spaces in test method names",
-        "link": "https://mnapoli.fr/using-non-breakable-spaces-in-test-method-names",
-        "pubDate": "2026-09-20T10:04",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How Notion handles concurrent editing with CRDTs",
-        "link": "https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts",
-        "pubDate": "2026-09-20T12:06",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Scott Jenson: Are we really going to use the same Desktop UX forever?",
-        "link": "https://www.youtube.com/watch?v=V7AfAcQwLW0",
-        "pubDate": "2026-09-20T20:34",
+        "title": "Roku launches open-source Roku LT OS for creative programmers",
+        "link": "https://blog.roku.com/developer/roku-lt-os",
+        "pubDate": "2026-09-20T23:15",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "V Language Review (2023)",
-        "link": "https://n-skvortsov-1997.github.io/reviews/",
-        "pubDate": "2026-09-19T22:36",
+        "title": "AI Is an Elite Crime Spree",
+        "link": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+        "pubDate": "2026-09-19T15:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "we have a year to fix security everywhere",
+        "link": "https://jyn.dev/a-year-to-fix-security/",
+        "pubDate": "2026-09-19T19:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Adversarial examples for fast hash functions",
+        "link": "https://thomasahle.com/blog/adversarial-examples-for-hashes/",
+        "pubDate": "2026-09-20T19:14",
         "feedId": "lobsters"
       }
     ]
