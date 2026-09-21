@@ -3,93 +3,93 @@
     "id": "hn",
     "items": [
       {
+        "title": "Data Protection Commission fines Google €403M over processing of location data",
+        "link": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
+        "pubDate": "2026-09-21T22:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "I don't want to read what you didn't write",
+        "link": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+        "pubDate": "2026-09-21T22:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "Suspension of the de minimis administrative exemption for imports $800 or less",
+        "link": "https://www.personalimportation.org/advocacy",
+        "pubDate": "2026-09-21T20:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "Xiaomi MiMo v2.6",
+        "link": "https://mimo.xiaomi.com/mimo-v2-6",
+        "pubDate": "2026-09-21T20:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "Transformers Explained Visually",
+        "link": "https://poloclub.github.io/transformer-explainer/",
+        "pubDate": "2026-09-21T19:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+        "link": "https://linear.app/now/ci-bottleneck-reworked",
+        "pubDate": "2026-09-21T19:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+        "link": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+        "pubDate": "2026-09-21T19:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "NASA’s Mars Sample Return mission is dead",
+        "link": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+        "pubDate": "2026-09-21T19:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "In Search of a Compositional Theory of Self-Stabilization",
+        "link": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html",
+        "pubDate": "2026-09-21T19:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
+        "link": "https://robocurve.org/roboharm/",
+        "pubDate": "2026-09-21T18:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "Frontier AI on Your Own Hardware",
+        "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+        "pubDate": "2026-09-21T18:53",
+        "feedId": "hn"
+      },
+      {
         "title": "US halts flights at busy East Coast airports, says fiber line cut",
         "link": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
         "pubDate": "2026-09-21T18:41",
         "feedId": "hn"
       },
       {
-        "title": "Help 404 Media Find Out How Your Local Police Are Surveiling You",
-        "link": "https://www.404media.co/is-your-city-using-axon-license-plate-cameras-we-need-your-help/",
+        "title": "Why does mathmain need an encrypted loader?",
+        "link": "https://safedep.io/mathmain-encrypted-loader/",
         "pubDate": "2026-09-21T18:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Apple Copland D11E4 Booting in the Browser",
+        "link": "https://www.pagetable.com/300",
+        "pubDate": "2026-09-21T18:15",
         "feedId": "hn"
       },
       {
         "title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
         "link": "https://ieeexplore.ieee.org/document/689473",
         "pubDate": "2026-09-21T18:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-        "link": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
-        "pubDate": "2026-09-21T17:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "Advisory Group on Mathematics and Artificial Intelligence",
-        "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai/",
-        "pubDate": "2026-09-21T17:27",
-        "feedId": "hn"
-      },
-      {
-        "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-        "link": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
-        "pubDate": "2026-09-21T17:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "This Digital Radio Gets Messages to the World’s Remotest Locations",
-        "link": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
-        "pubDate": "2026-09-21T16:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "Fable 5 – Median thinking declined in August",
-        "link": "https://twitter.com/Lon/status/2101793422487204027",
-        "pubDate": "2026-09-21T16:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "How do Traffic Signals Work (2019)",
-        "link": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
-        "pubDate": "2026-09-21T16:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "Grok 4.7",
-        "link": "https://x.ai/news/grok-4-7",
-        "pubDate": "2026-09-21T15:50",
-        "feedId": "hn"
-      },
-      {
-        "title": "A restored PDP-11/83 serving this page on 211BSD Unix",
-        "link": "http://pdp1173.com/",
-        "pubDate": "2026-09-21T15:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "Attention is all you have",
-        "link": "https://alicegg.tech/2026/09/21/attention",
-        "pubDate": "2026-09-21T14:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich",
-        "link": "https://digitalescapetools.com/tools/noodlegallery.html",
-        "pubDate": "2026-09-21T14:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "Apple Mac mini review",
-        "link": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
-        "pubDate": "2026-09-21T14:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-        "link": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-        "pubDate": "2026-09-21T14:10",
         "feedId": "hn"
       }
     ]
@@ -107,6 +107,18 @@
         "title": "Textbook review: Is Parallel Programming Hard, And, If So, What Can You Do About It?",
         "link": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
         "pubDate": "2026-09-21T14:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Self-Hosting Behind CGNAT",
+        "link": "https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/",
+        "pubDate": "2026-09-21T17:53",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "rift - a tiling window manager for macos",
+        "link": "https://github.com/acsandmann/rift/",
+        "pubDate": "2026-09-21T18:02",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Software sandboxing: The basics (2025)",
-        "link": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
-        "pubDate": "2026-09-20T14:13",
+        "title": "Relation algebra is not relational algebra",
+        "link": "https://remy.wang/blog/ra-ra.html",
+        "pubDate": "2026-09-21T17:01",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +164,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Relation algebra is not relational algebra",
-        "link": "https://remy.wang/blog/ra-ra.html",
-        "pubDate": "2026-09-21T17:01",
+        "title": "Software sandboxing: The basics (2025)",
+        "link": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
+        "pubDate": "2026-09-20T14:13",
         "feedId": "lobsters"
       },
       {
-        "title": "Self-Hosting Behind CGNAT",
-        "link": "https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/",
-        "pubDate": "2026-09-21T17:53",
+        "title": "Running an Optimal Trace",
+        "link": "https://anishathalye.com/optimal-trace/",
+        "pubDate": "2026-09-21T15:13",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "An actively maintained and updated Motif fork actually exists",
-        "link": "https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/",
-        "pubDate": "2026-09-20T17:13",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why do computers look like this anyway?",
-        "link": "https://www.youtube.com/watch?v=dpIuNUn0PZc",
-        "pubDate": "2026-09-21T09:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "rift - a tiling window manager for macos",
-        "link": "https://github.com/acsandmann/rift/",
-        "pubDate": "2026-09-21T18:02",
+        "title": "Making a game for the GBA and PC from the same codebase",
+        "link": "https://mattgreer.dev/blog/making-a-game-for-gba-and-pc/",
+        "pubDate": "2026-09-21T16:02",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,24 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+        "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+        "pubDate": "2026-09-21T22:24",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
+        "link": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
+        "pubDate": "2026-09-21T21:07",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Saudi Arabia wants a car industry, launches Ceer with two EVs",
+        "link": "https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/",
+        "pubDate": "2026-09-21T20:55",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Google confirms Gemini models hacked three companies in May 2026",
         "link": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
@@ -263,24 +281,6 @@
         "link": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
         "pubDate": "2026-09-19T10:00",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
-        "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
-        "pubDate": "2026-09-18T20:26",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
-        "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
-        "pubDate": "2026-09-18T19:20",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
-        "link": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
-        "pubDate": "2026-09-18T17:57",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,9 +288,33 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump and Mamdani's unlikely rapport endures in New York",
+        "link": "https://www.axios.com/2026/09/21/trump-mamdani-new-york-city-meeting",
+        "pubDate": "2026-09-21T22:17",
+        "feedId": "axios"
+      },
+      {
+        "title": "\"People are pissed off\": House Dems sneer as one of their own backs a Republican",
+        "link": "https://www.axios.com/2026/09/21/jared-golden-mike-lawler-house-democrats-reaction",
+        "pubDate": "2026-09-21T21:40",
+        "feedId": "axios"
+      },
+      {
+        "title": "Ariz. activists build map to show federal agents at polls",
+        "link": "https://www.axios.com/2026/09/21/arizona-online-map-ice-agents-polls",
+        "pubDate": "2026-09-21T21:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "CNN, MS NOW, Politico sues White House over blocked access",
+        "link": "https://www.axios.com/2026/09/21/trump-cnn-msnow-politico-suit",
+        "pubDate": "2026-09-21T20:13",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump inaudible during White House TV pool blackout",
         "link": "https://www.axios.com/2026/09/21/trump-white-house-pool-tv-ban-audio",
-        "pubDate": "2026-09-21T18:55",
+        "pubDate": "2026-09-21T20:12",
         "feedId": "axios"
       },
       {
@@ -309,12 +333,6 @@
         "title": "Exclusive: How Sen. Schatz is talking about climate in an affordability crisis",
         "link": "https://www.axios.com/2026/09/21/sen-schatz-climate-change-affordability",
         "pubDate": "2026-09-21T15:23",
-        "feedId": "axios"
-      },
-      {
-        "title": "CNN, MS NOW, Politico sues White House over blocked access",
-        "link": "https://www.axios.com/2026/09/21/trump-cnn-msnow-politico-suit",
-        "pubDate": "2026-09-21T14:39",
         "feedId": "axios"
       },
       {
@@ -357,24 +375,6 @@
         "title": "The tech battle to build your AI assistant",
         "link": "https://www.axios.com/2026/09/20/ai-assistant-openai-meta-muse-instinct-grok-apple",
         "pubDate": "2026-09-20T12:22",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump's proposed Washington arch to become sniper, drone facility",
-        "link": "https://www.axios.com/2026/09/20/trump-arch-washington-snipers-drones",
-        "pubDate": "2026-09-20T12:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "How Trump 2.0's stock market stacks up with predecessors",
-        "link": "https://www.axios.com/2026/09/20/trump-stock-market-predecessors",
-        "pubDate": "2026-09-20T10:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump wants a new AI czar and an \"AI Force\" modeled on Space Force",
-        "link": "https://www.axios.com/2026/09/19/trump-ai-czar-space-force-safety",
-        "pubDate": "2026-09-19T19:20",
         "feedId": "axios"
       }
     ]
