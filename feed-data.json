@@ -3,25 +3,79 @@
     "id": "hn",
     "items": [
       {
-        "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-        "link": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-        "pubDate": "2026-09-21T04:28",
+        "title": "Raspberry Pi blocks changing RAM chips",
+        "link": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
+        "pubDate": "2026-09-21T12:54",
         "feedId": "hn"
       },
       {
-        "title": "Winning the Visa Lottery",
-        "link": "https://www.aeaweb.org/research/immigration-restrictions-firms-workers",
-        "pubDate": "2026-09-21T03:37",
+        "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
+        "link": "https://news.ycombinator.com/item?id=49786609",
+        "pubDate": "2026-09-21T12:47",
         "feedId": "hn"
       },
       {
-        "title": "Deterministic Core, Non-Deterministic Shell",
-        "link": "https://outdata.net/blog/260803",
-        "pubDate": "2026-09-21T02:02",
+        "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
+        "link": "https://github.com/aru-labs/lossless-memory",
+        "pubDate": "2026-09-21T12:28",
         "feedId": "hn"
       },
       {
-        "title": "Why back propagation goes backward",
+        "title": "ZuckOff Know when a camera is in the room",
+        "link": "https://zuckoff.app/",
+        "pubDate": "2026-09-21T10:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+        "link": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+        "pubDate": "2026-09-21T10:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "Jev-Leftpad",
+        "link": "https://github.com/f/jev-leftpad",
+        "pubDate": "2026-09-21T08:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
+        "link": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
+        "pubDate": "2026-09-21T07:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+        "link": "https://github.com/jaredpalmer/kev/tree/main",
+        "pubDate": "2026-09-21T07:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "Elektron Machinedrum in the Browser",
+        "link": "https://machinedrum-study.pages.dev/",
+        "pubDate": "2026-09-21T06:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+        "link": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+        "pubDate": "2026-09-21T05:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+        "link": "https://github.com/volotat/mini-AGI/",
+        "pubDate": "2026-09-21T04:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "Heretic removes restrictions from language models",
+        "link": "https://heretic-project.org/",
+        "pubDate": "2026-09-21T04:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why Backprop Goes Backward (2018)",
         "link": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
         "pubDate": "2026-09-21T00:42",
         "feedId": "hn"
@@ -37,60 +91,6 @@
         "link": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
         "pubDate": "2026-09-20T22:35",
         "feedId": "hn"
-      },
-      {
-        "title": "AX – Google’s Open Agentic Orchestrator",
-        "link": "https://agentexecutor.io",
-        "pubDate": "2026-09-20T22:32",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ogre Battle 64 Recompiled Project at 99.05%",
-        "link": "https://github.com/lfarroco/ogre-battle-64-recomp",
-        "pubDate": "2026-09-20T20:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why MCP Was Always a Bad Idea?",
-        "link": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
-        "pubDate": "2026-09-20T19:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "Software sandboxing: The basics (2025)",
-        "link": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
-        "pubDate": "2026-09-20T18:42",
-        "feedId": "hn"
-      },
-      {
-        "title": "A Necessary History of the Oddest Letter: W",
-        "link": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
-        "pubDate": "2026-09-20T17:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "I turned Jev into a (lousy) chatbot",
-        "link": "https://github.com/kyle-pena-nlp/jevchat/",
-        "pubDate": "2026-09-20T17:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-        "link": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-        "pubDate": "2026-09-20T17:38",
-        "feedId": "hn"
-      },
-      {
-        "title": "Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++",
-        "link": "https://github.com/adonis-singh/re4",
-        "pubDate": "2026-09-20T17:38",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Radius – A Meetup.com Alternative",
-        "link": "https://radius.to/",
-        "pubDate": "2026-09-20T16:51",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,9 +98,39 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "What Sun got wrong",
+        "link": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+        "pubDate": "2026-09-21T07:14",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What happened to the Snowden archive",
+        "link": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+        "pubDate": "2026-09-21T08:56",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/fyngrv/what_are_you_doing_this_week",
+        "pubDate": "2026-09-21T12:30",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Software sandboxing: The basics (2025)",
         "link": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
         "pubDate": "2026-09-20T14:13",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Do you use :visited on links?",
+        "link": "https://kevquirk.com/do-you-use-visited-on-links",
+        "pubDate": "2026-09-21T11:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Creating a Blog in Gemini://",
+        "link": "https://brennan.day/creating-a-blog-in-gemini/",
+        "pubDate": "2026-09-21T11:24",
         "feedId": "lobsters"
       },
       {
@@ -110,27 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Lambda MicroEgg",
-        "link": "https://www.philipzucker.com/lambda_miller_egg/",
-        "pubDate": "2026-09-20T16:04",
-        "feedId": "lobsters"
-      },
-      {
         "title": "ChatGPT now knows what you do on other websites via ad collector",
         "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
         "pubDate": "2026-09-20T17:43",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Beyond jj: config & tools ecosystem",
-        "link": "https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/",
-        "pubDate": "2026-09-20T10:51",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Bot-free self-hosted analytics with GoatCounter on NixOS",
-        "link": "https://vincent.bernat.ch/en/blog/2026-goatcounter",
-        "pubDate": "2026-09-20T22:51",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +152,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Thoughts on the Future of Web Browsers",
-        "link": "https://sarahjamielewis.com/log/2026/future-of-web-browsers.html",
-        "pubDate": "2026-09-19T22:27",
+        "title": "Bot-free self-hosted analytics with GoatCounter on NixOS",
+        "link": "https://vincent.bernat.ch/en/blog/2026-goatcounter",
+        "pubDate": "2026-09-20T22:51",
         "feedId": "lobsters"
       },
       {
-        "title": "You Know GDPR Is Good Based on Who Hates It",
-        "link": "https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/",
-        "pubDate": "2026-09-20T05:46",
+        "title": "Lambda MicroEgg",
+        "link": "https://www.philipzucker.com/lambda_miller_egg/",
+        "pubDate": "2026-09-20T16:04",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Beyond jj: config & tools ecosystem",
+        "link": "https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/",
+        "pubDate": "2026-09-20T10:51",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why do computers look like this anyway?",
+        "link": "https://www.youtube.com/watch?v=dpIuNUn0PZc",
+        "pubDate": "2026-09-21T09:37",
         "feedId": "lobsters"
       },
       {
@@ -161,30 +185,6 @@
         "title": "Roku launches open-source Roku LT OS for creative programmers",
         "link": "https://blog.roku.com/developer/roku-lt-os",
         "pubDate": "2026-09-20T23:15",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Vim's UserGettingBored autocmd",
-        "link": "https://evanhahn.com/usergettingbored-vim/",
-        "pubDate": "2026-09-20T17:18",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "AI Is an Elite Crime Spree",
-        "link": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-        "pubDate": "2026-09-19T15:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "we have a year to fix security everywhere",
-        "link": "https://jyn.dev/a-year-to-fix-security/",
-        "pubDate": "2026-09-19T19:27",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Adversarial examples for fast hash functions",
-        "link": "https://thomasahle.com/blog/adversarial-examples-for-hashes/",
-        "pubDate": "2026-09-20T19:14",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "CNN, MS NOW, Politico to sue White House over blocked access",
+        "link": "https://www.axios.com/2026/09/21/trump-cnn-msnow-politico-suit",
+        "pubDate": "2026-09-21T11:33",
+        "feedId": "axios"
+      },
+      {
         "title": "Exclusive: Beshear says next president must go big on housing",
         "link": "https://www.axios.com/2026/09/20/beshear-housing-2028-president",
         "pubDate": "2026-09-20T21:40",
@@ -369,12 +375,6 @@
         "title": "Trump claims security, military deal with Denmark over Greenland",
         "link": "https://www.axios.com/2026/09/18/trump-greenland-denmark-deal",
         "pubDate": "2026-09-18T22:43",
-        "feedId": "axios"
-      },
-      {
-        "title": "USPS made mail slower to cut costs. Midterm ballots will test the system.",
-        "link": "https://www.axios.com/2026/09/18/usps-slow-mail-cost-cuts-performance",
-        "pubDate": "2026-09-18T21:18",
         "feedId": "axios"
       }
     ]
