@@ -3,15 +3,57 @@
     "id": "hn",
     "items": [
       {
-        "title": "Can gzip be a language model?",
-        "link": "https://nathan.rs/posts/gzip-lm/",
-        "pubDate": "2026-09-22T06:08",
+        "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
+        "link": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/",
+        "pubDate": "2026-09-22T13:52",
         "feedId": "hn"
       },
       {
-        "title": "Used ThinkPad Buyer's Guide (2019)",
-        "link": "https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide",
-        "pubDate": "2026-09-22T04:14",
+        "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+        "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+        "pubDate": "2026-09-22T13:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "People Training OpenAI's AI Fired for Using AI to Train the AI",
+        "link": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/",
+        "pubDate": "2026-09-22T13:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI Has No Wisdom and Neither Will You",
+        "link": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+        "pubDate": "2026-09-22T12:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
+        "link": "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html",
+        "pubDate": "2026-09-22T10:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "Verda (Finland) raises $189M in Series B",
+        "link": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
+        "pubDate": "2026-09-22T09:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "AMD's random number generator can't generate a 0?",
+        "link": "https://board.flatassembler.net/topic.php?t=24261",
+        "pubDate": "2026-09-22T08:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "I said no and Apple said yes",
+        "link": "https://dbushell.com/2026/09/22/apple-intelligence/",
+        "pubDate": "2026-09-22T08:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Can gzip be a language model?",
+        "link": "https://nathan.rs/posts/gzip-lm/",
+        "pubDate": "2026-09-22T06:08",
         "feedId": "hn"
       },
       {
@@ -24,12 +66,6 @@
         "title": "Claude Status – Elevated errors for multiple models",
         "link": "https://status.claude.com/incidents/7g1qpkyz5gxh",
         "pubDate": "2026-09-22T01:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "Socrates vs. the Written Word (2011)",
-        "link": "https://wondermark.com/socrates-vs-writing/",
-        "pubDate": "2026-09-22T00:06",
         "feedId": "hn"
       },
       {
@@ -55,42 +91,6 @@
         "link": "https://mimo.xiaomi.com/mimo-v2-6",
         "pubDate": "2026-09-21T20:12",
         "feedId": "hn"
-      },
-      {
-        "title": "Transformers Explained Visually",
-        "link": "https://poloclub.github.io/transformer-explainer/",
-        "pubDate": "2026-09-21T19:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-        "link": "https://linear.app/now/ci-bottleneck-reworked",
-        "pubDate": "2026-09-21T19:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-        "link": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
-        "pubDate": "2026-09-21T19:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "NASA’s Mars Sample Return mission is dead",
-        "link": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-        "pubDate": "2026-09-21T19:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "Frontier AI on Your Own Hardware",
-        "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-        "pubDate": "2026-09-21T18:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why does mathmain need an encrypted loader?",
-        "link": "https://safedep.io/mathmain-encrypted-loader/",
-        "pubDate": "2026-09-21T18:33",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Self-Hosting Behind CGNAT",
-        "link": "https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/",
-        "pubDate": "2026-09-21T17:53",
+        "title": "Looking forward to Git 2.56 - and 3.0",
+        "link": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+        "pubDate": "2026-09-22T05:23",
         "feedId": "lobsters"
       },
       {
-        "title": "I said no and Apple said yes",
-        "link": "https://dbushell.com/2026/09/22/apple-intelligence/",
-        "pubDate": "2026-09-22T07:27",
+        "title": "Self-Hosting Behind CGNAT",
+        "link": "https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/",
+        "pubDate": "2026-09-21T17:53",
         "feedId": "lobsters"
       },
       {
@@ -116,9 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What Sun got wrong",
-        "link": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-        "pubDate": "2026-09-21T07:14",
+        "title": "Arguing about arguments",
+        "link": "https://steveklabnik.com/writing/arguing-about-arguments/",
+        "pubDate": "2026-09-22T04:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Fearless SIMD v1.0 is here",
+        "link": "https://linebender.org/blog/fearless-simd-1-0/",
+        "pubDate": "2026-09-22T12:10",
         "feedId": "lobsters"
       },
       {
@@ -128,21 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Looking forward to Git 2.56 - and 3.0",
-        "link": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
-        "pubDate": "2026-09-22T05:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Textbook review: Is Parallel Programming Hard, And, If So, What Can You Do About It?",
-        "link": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
-        "pubDate": "2026-09-21T14:28",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "evocation - Call forth the blue-green flame of computation from the universe, weave its energies into a fabric, that we may share our blood with it",
-        "link": "https://code.irenes.space/evocation/tree/README.txt",
-        "pubDate": "2026-09-21T21:51",
+        "title": "What Sun got wrong",
+        "link": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+        "pubDate": "2026-09-21T07:14",
         "feedId": "lobsters"
       },
       {
@@ -152,33 +146,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Cheap and easy throwaway VPN server",
-        "link": "https://a.l3x.in/blog/throwaway-vpn/",
-        "pubDate": "2026-09-22T06:56",
+        "title": "Textbook review: Is Parallel Programming Hard, And, If So, What Can You Do About It?",
+        "link": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
+        "pubDate": "2026-09-21T14:28",
         "feedId": "lobsters"
       },
       {
-        "title": "Do you use :visited on links?",
-        "link": "https://kevquirk.com/do-you-use-visited-on-links",
-        "pubDate": "2026-09-21T11:42",
+        "title": "Design your programming languages right (2024)",
+        "link": "https://blog.veritates.love/design-it-right",
+        "pubDate": "2026-09-22T05:21",
         "feedId": "lobsters"
       },
       {
-        "title": "Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)",
-        "link": "https://github.com/dtonon/squalk",
-        "pubDate": "2026-09-21T14:44",
+        "title": "AI Has No Wisdom and Neither Will You",
+        "link": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+        "pubDate": "2026-09-22T11:55",
         "feedId": "lobsters"
       },
       {
-        "title": "Relation algebra is not relational algebra",
-        "link": "https://remy.wang/blog/ra-ra.html",
-        "pubDate": "2026-09-21T17:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Creating a Blog in Gemini://",
-        "link": "https://brennan.day/creating-a-blog-in-gemini/",
-        "pubDate": "2026-09-21T11:24",
+        "title": "evocation - Call forth the blue-green flame of computation from the universe, weave its energies into a fabric, that we may share our blood with it",
+        "link": "https://code.irenes.space/evocation/tree/README.txt",
+        "pubDate": "2026-09-21T21:51",
         "feedId": "lobsters"
       },
       {
@@ -186,12 +174,30 @@
         "link": "https://arialdo.codeberg.page/ju-ju-tsu/",
         "pubDate": "2026-09-21T20:59",
         "feedId": "lobsters"
+      },
+      {
+        "title": "Extralite 3.1.0 is Here",
+        "link": "https://noteflakes.com/articles/2026-09-22-extralite-3-1-0",
+        "pubDate": "2026-09-22T09:38",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Reviving TEMPEST Attacks With An Injected Signal",
+        "link": "https://hackaday.com/2026/09/20/reviving-tempest-attacks-with-an-injected-signal/",
+        "pubDate": "2026-09-22T12:25",
+        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "NASA chief: I'm only interested in \"good deals\" from international partners",
+        "link": "https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/",
+        "pubDate": "2026-09-22T11:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
         "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
@@ -275,18 +281,42 @@
         "link": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
         "pubDate": "2026-09-19T11:10",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Rings around a tiny body have changed over the past decade",
-        "link": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
-        "pubDate": "2026-09-19T10:00",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Love is pricey. Here's what young Americans are doing about it",
+        "link": "https://www.axios.com/2026/09/22/the-rising-price-tag-of-romance",
+        "pubDate": "2026-09-22T13:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "A GOP senator wants Trump Jr. subpoenaed after Russian oligarch-funded wedding",
+        "link": "https://www.axios.com/2026/09/22/john-curtis-trump-jr-hunter-biden-subpoenas",
+        "pubDate": "2026-09-22T12:17",
+        "feedId": "axios"
+      },
+      {
+        "title": "The AI doomsday fear hidden in self-improving AI",
+        "link": "https://www.axios.com/2026/09/22/ai-rsi-meaning-recursive-self-improvement-doom",
+        "pubDate": "2026-09-22T09:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "With $7 trillion on the line, AI safety may always take a backseat to market domination",
+        "link": "https://www.axios.com/2026/09/22/ai-safety-vs-ai-speed",
+        "pubDate": "2026-09-22T09:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "U.S.-China \"red telephone\" could bring a Cold War guardrail to AI",
+        "link": "https://www.axios.com/2026/09/22/trump-china-ai-hotline-xi-summit",
+        "pubDate": "2026-09-22T09:00",
+        "feedId": "axios"
+      },
       {
         "title": "GOP's war for eyeballs",
         "link": "https://www.axios.com/2026/09/21/republicans-democrats-senate-campaign-ad-spending-impressions",
@@ -345,36 +375,6 @@
         "title": "Far-right AfD wins again as Germany's Merz slides",
         "link": "https://www.axios.com/2026/09/21/germany-election-results-afd-merz",
         "pubDate": "2026-09-21T13:51",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump weighed strikes against Houthis in Yemen before holding off",
-        "link": "https://www.axios.com/2026/09/21/trump-houthis-yemen-saudi-bin-salman",
-        "pubDate": "2026-09-21T13:46",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: Beshear says next president must go big on housing",
-        "link": "https://www.axios.com/2026/09/20/beshear-housing-2028-president",
-        "pubDate": "2026-09-20T21:40",
-        "feedId": "axios"
-      },
-      {
-        "title": "Many ex-aides to Harris betting against a 2028 run",
-        "link": "https://www.axios.com/2026/09/20/kamala-harris-ex-aides-2028-campaign",
-        "pubDate": "2026-09-20T21:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump to meet with Zelensky as Russia-Ukraine attacks intensify",
-        "link": "https://www.axios.com/2026/09/20/trump-zelensky-meeting-russia-ukraine-war-talks",
-        "pubDate": "2026-09-20T19:25",
-        "feedId": "axios"
-      },
-      {
-        "title": "Three Republican power players walk into a D.C. bar, and ...",
-        "link": "https://www.axios.com/2026/09/20/republicans-dc-bar-chat-trump-oil",
-        "pubDate": "2026-09-20T12:26",
         "feedId": "axios"
       }
     ]
