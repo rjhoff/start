@@ -3,21 +3,39 @@
     "id": "hn",
     "items": [
       {
-        "title": "Data Protection Commission fines Google €403M over processing of location data",
-        "link": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
-        "pubDate": "2026-09-21T22:33",
+        "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+        "link": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+        "pubDate": "2026-09-22T01:24",
+        "feedId": "hn"
+      },
+      {
+        "title": "Claude Status – Elevated errors for multiple models",
+        "link": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+        "pubDate": "2026-09-22T01:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "Socrates vs. the Written Word (2011)",
+        "link": "https://wondermark.com/socrates-vs-writing/",
+        "pubDate": "2026-09-22T00:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Looking forward to Git 2.56 – and 3.0",
+        "link": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+        "pubDate": "2026-09-21T23:16",
+        "feedId": "hn"
+      },
+      {
+        "title": "Spymarks, Not Watermarks",
+        "link": "https://brand.io/article/spymarks/",
+        "pubDate": "2026-09-21T23:03",
         "feedId": "hn"
       },
       {
         "title": "I don't want to read what you didn't write",
         "link": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
         "pubDate": "2026-09-21T22:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "Suspension of the de minimis administrative exemption for imports $800 or less",
-        "link": "https://www.personalimportation.org/advocacy",
-        "pubDate": "2026-09-21T20:58",
         "feedId": "hn"
       },
       {
@@ -51,12 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "In Search of a Compositional Theory of Self-Stabilization",
-        "link": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html",
-        "pubDate": "2026-09-21T19:04",
-        "feedId": "hn"
-      },
-      {
         "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
         "link": "https://robocurve.org/roboharm/",
         "pubDate": "2026-09-21T18:58",
@@ -66,12 +78,6 @@
         "title": "Frontier AI on Your Own Hardware",
         "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
         "pubDate": "2026-09-21T18:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "US halts flights at busy East Coast airports, says fiber line cut",
-        "link": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
-        "pubDate": "2026-09-21T18:41",
         "feedId": "hn"
       },
       {
@@ -85,18 +91,18 @@
         "link": "https://www.pagetable.com/300",
         "pubDate": "2026-09-21T18:15",
         "feedId": "hn"
-      },
-      {
-        "title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
-        "link": "https://ieeexplore.ieee.org/document/689473",
-        "pubDate": "2026-09-21T18:14",
-        "feedId": "hn"
       }
     ]
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "Self-Hosting Behind CGNAT",
+        "link": "https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/",
+        "pubDate": "2026-09-21T17:53",
+        "feedId": "lobsters"
+      },
       {
         "title": "What Sun got wrong",
         "link": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
@@ -110,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Self-Hosting Behind CGNAT",
-        "link": "https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/",
-        "pubDate": "2026-09-21T17:53",
-        "feedId": "lobsters"
-      },
-      {
         "title": "rift - a tiling window manager for macos",
         "link": "https://github.com/acsandmann/rift/",
         "pubDate": "2026-09-21T18:02",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Named and Optional Arguments are Awesome",
+        "link": "https://botahamec.dev/named-optional-args",
+        "pubDate": "2026-09-21T21:16",
         "feedId": "lobsters"
       },
       {
@@ -134,21 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/fyngrv/what_are_you_doing_this_week",
-        "pubDate": "2026-09-21T12:30",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)",
         "link": "https://github.com/dtonon/squalk",
         "pubDate": "2026-09-21T14:44",
         "feedId": "lobsters"
       },
       {
-        "title": "Markdown in /src",
-        "link": "https://htmx.org/essays/markdown-in-src/",
-        "pubDate": "2026-09-21T14:27",
+        "title": "evocation - Call forth the blue-green flame of computation from the universe, weave its energies into a fabric, that we may share our blood with it",
+        "link": "https://code.irenes.space/evocation/tree/README.txt",
+        "pubDate": "2026-09-21T21:51",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +158,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Canonical announces Zephyr 26.04 LTS",
-        "link": "https://canonical.com/blog/zephyr-lts-announcement",
-        "pubDate": "2026-09-21T13:53",
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/fyngrv/what_are_you_doing_this_week",
+        "pubDate": "2026-09-21T12:30",
         "feedId": "lobsters"
       },
       {
-        "title": "Software sandboxing: The basics (2025)",
-        "link": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
-        "pubDate": "2026-09-20T14:13",
+        "title": "Markdown in /src",
+        "link": "https://htmx.org/essays/markdown-in-src/",
+        "pubDate": "2026-09-21T14:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Attention is all you have",
+        "link": "https://alicegg.tech/2026/09/21/attention",
+        "pubDate": "2026-09-21T19:06",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Are we really going to use the same Desktop UX forever?",
-        "link": "https://www.youtube.com/watch?v=V7AfAcQwLW0",
-        "pubDate": "2026-09-20T20:34",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Making a game for the GBA and PC from the same codebase",
-        "link": "https://mattgreer.dev/blog/making-a-game-for-gba-and-pc/",
-        "pubDate": "2026-09-21T16:02",
+        "title": "Canonical announces Zephyr 26.04 LTS",
+        "link": "https://canonical.com/blog/zephyr-lts-announcement",
+        "pubDate": "2026-09-21T13:53",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "GOP's war for eyeballs",
+        "link": "https://www.axios.com/2026/09/21/republicans-democrats-senate-campaign-ad-spending-impressions",
+        "pubDate": "2026-09-21T23:26",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump and Mamdani's unlikely rapport endures in New York",
         "link": "https://www.axios.com/2026/09/21/trump-mamdani-new-york-city-meeting",
         "pubDate": "2026-09-21T22:17",
@@ -369,12 +375,6 @@
         "title": "Three Republican power players walk into a D.C. bar, and ...",
         "link": "https://www.axios.com/2026/09/20/republicans-dc-bar-chat-trump-oil",
         "pubDate": "2026-09-20T12:26",
-        "feedId": "axios"
-      },
-      {
-        "title": "The tech battle to build your AI assistant",
-        "link": "https://www.axios.com/2026/09/20/ai-assistant-openai-meta-muse-instinct-grok-apple",
-        "pubDate": "2026-09-20T12:22",
         "feedId": "axios"
       }
     ]
