@@ -3,9 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
-        "link": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
-        "pubDate": "2026-09-22T01:24",
+        "title": "Can gzip be a language model?",
+        "link": "https://nathan.rs/posts/gzip-lm/",
+        "pubDate": "2026-09-22T06:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "Used ThinkPad Buyer's Guide (2019)",
+        "link": "https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide",
+        "pubDate": "2026-09-22T04:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+        "link": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+        "pubDate": "2026-09-22T04:02",
         "feedId": "hn"
       },
       {
@@ -39,7 +51,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Xiaomi MiMo v2.6",
+        "title": "MiMo v2.6",
         "link": "https://mimo.xiaomi.com/mimo-v2-6",
         "pubDate": "2026-09-21T20:12",
         "feedId": "hn"
@@ -69,12 +81,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
-        "link": "https://robocurve.org/roboharm/",
-        "pubDate": "2026-09-21T18:58",
-        "feedId": "hn"
-      },
-      {
         "title": "Frontier AI on Your Own Hardware",
         "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
         "pubDate": "2026-09-21T18:53",
@@ -84,12 +90,6 @@
         "title": "Why does mathmain need an encrypted loader?",
         "link": "https://safedep.io/mathmain-encrypted-loader/",
         "pubDate": "2026-09-21T18:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "Apple Copland D11E4 Booting in the Browser",
-        "link": "https://www.pagetable.com/300",
-        "pubDate": "2026-09-21T18:15",
         "feedId": "hn"
       }
     ]
@@ -104,21 +104,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What Sun got wrong",
-        "link": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-        "pubDate": "2026-09-21T07:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Textbook review: Is Parallel Programming Hard, And, If So, What Can You Do About It?",
-        "link": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
-        "pubDate": "2026-09-21T14:28",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "rift - a tiling window manager for macos",
-        "link": "https://github.com/acsandmann/rift/",
-        "pubDate": "2026-09-21T18:02",
+        "title": "I said no and Apple said yes",
+        "link": "https://dbushell.com/2026/09/22/apple-intelligence/",
+        "pubDate": "2026-09-22T07:27",
         "feedId": "lobsters"
       },
       {
@@ -128,21 +116,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Do you use :visited on links?",
-        "link": "https://kevquirk.com/do-you-use-visited-on-links",
-        "pubDate": "2026-09-21T11:42",
+        "title": "What Sun got wrong",
+        "link": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+        "pubDate": "2026-09-21T07:14",
         "feedId": "lobsters"
       },
       {
-        "title": "Creating a Blog in Gemini://",
-        "link": "https://brennan.day/creating-a-blog-in-gemini/",
-        "pubDate": "2026-09-21T11:24",
+        "title": "rift - a tiling window manager for macos",
+        "link": "https://github.com/acsandmann/rift/",
+        "pubDate": "2026-09-21T18:02",
         "feedId": "lobsters"
       },
       {
-        "title": "Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)",
-        "link": "https://github.com/dtonon/squalk",
-        "pubDate": "2026-09-21T14:44",
+        "title": "Looking forward to Git 2.56 - and 3.0",
+        "link": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+        "pubDate": "2026-09-22T05:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Textbook review: Is Parallel Programming Hard, And, If So, What Can You Do About It?",
+        "link": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
+        "pubDate": "2026-09-21T14:28",
         "feedId": "lobsters"
       },
       {
@@ -152,39 +146,45 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Why 0xCAFEBABE?",
+        "link": "https://www.artima.com/insidejvm/whyCAFEBABE.html",
+        "pubDate": "2026-09-22T00:05",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Cheap and easy throwaway VPN server",
+        "link": "https://a.l3x.in/blog/throwaway-vpn/",
+        "pubDate": "2026-09-22T06:56",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Do you use :visited on links?",
+        "link": "https://kevquirk.com/do-you-use-visited-on-links",
+        "pubDate": "2026-09-21T11:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)",
+        "link": "https://github.com/dtonon/squalk",
+        "pubDate": "2026-09-21T14:44",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Relation algebra is not relational algebra",
         "link": "https://remy.wang/blog/ra-ra.html",
         "pubDate": "2026-09-21T17:01",
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/fyngrv/what_are_you_doing_this_week",
-        "pubDate": "2026-09-21T12:30",
+        "title": "Creating a Blog in Gemini://",
+        "link": "https://brennan.day/creating-a-blog-in-gemini/",
+        "pubDate": "2026-09-21T11:24",
         "feedId": "lobsters"
       },
       {
-        "title": "Markdown in /src",
-        "link": "https://htmx.org/essays/markdown-in-src/",
-        "pubDate": "2026-09-21T14:27",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Attention is all you have",
-        "link": "https://alicegg.tech/2026/09/21/attention",
-        "pubDate": "2026-09-21T19:06",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Running an Optimal Trace",
-        "link": "https://anishathalye.com/optimal-trace/",
-        "pubDate": "2026-09-21T15:13",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Canonical announces Zephyr 26.04 LTS",
-        "link": "https://canonical.com/blog/zephyr-lts-announcement",
-        "pubDate": "2026-09-21T13:53",
+        "title": "Ju! Ju! Tsu",
+        "link": "https://arialdo.codeberg.page/ju-ju-tsu/",
+        "pubDate": "2026-09-21T20:59",
         "feedId": "lobsters"
       }
     ]
