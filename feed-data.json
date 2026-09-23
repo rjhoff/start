@@ -3,21 +3,45 @@
     "id": "hn",
     "items": [
       {
-        "title": "Data-Only Attacks Are Easier Than You Think",
+        "title": "Netherlands bracing for potentially devastating US sanctions against the ICC",
+        "link": "https://apnews.com/article/icc-trump-sanctions-eu-israel-netherlands-2c1cc314732f920c2de59396d3b556f6",
+        "pubDate": "2026-09-23T09:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Abandoning Scientific Linux Was a Mistake",
+        "link": "https://blog.melashri.net/posts/scientific-linux-mistake/",
+        "pubDate": "2026-09-23T08:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "Jev in 25 Lines of Python",
+        "link": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+        "pubDate": "2026-09-23T07:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "How often do you think about the 1893 World's Fair?",
+        "link": "https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/",
+        "pubDate": "2026-09-23T05:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
+        "link": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
+        "pubDate": "2026-09-23T04:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Data-only attacks are easier than you think (2024)",
         "link": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
         "pubDate": "2026-09-23T03:49",
         "feedId": "hn"
       },
       {
-        "title": "Transit rewards (Waymo pays you to take the train)",
+        "title": "Transit rewards",
         "link": "https://waymo.com/blog/2026/09/transit-rewards/",
         "pubDate": "2026-09-23T02:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
-        "link": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
-        "pubDate": "2026-09-23T02:13",
         "feedId": "hn"
       },
       {
@@ -30,12 +54,6 @@
         "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
         "link": "https://foxscript.org/",
         "pubDate": "2026-09-22T21:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Native apps written in TypeScript and CSS",
-        "link": "https://github.com/geastack/examples",
-        "pubDate": "2026-09-22T19:42",
         "feedId": "hn"
       },
       {
@@ -73,24 +91,6 @@
         "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
         "pubDate": "2026-09-22T17:46",
         "feedId": "hn"
-      },
-      {
-        "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-        "link": "https://artificialanalysis.ai/models/claude-opus-5-5",
-        "pubDate": "2026-09-22T16:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
-        "link": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
-        "pubDate": "2026-09-22T16:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "Claude Opus 5.5",
-        "link": "https://www.anthropic.com/claude-opus-5-5",
-        "pubDate": "2026-09-22T16:29",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,21 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "That About Wraps It Up for Stock Mac UI",
-        "link": "https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html",
-        "pubDate": "2026-09-22T19:29",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Looking forward to Git 2.56 - and 3.0",
-        "link": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
-        "pubDate": "2026-09-22T05:23",
-        "feedId": "lobsters"
-      },
-      {
         "title": "No Sloptober",
         "link": "https://no-sloptober.com/",
         "pubDate": "2026-09-22T21:06",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "That About Wraps It Up for Stock Mac UI",
+        "link": "https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html",
+        "pubDate": "2026-09-22T19:29",
         "feedId": "lobsters"
       },
       {
@@ -128,9 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Arguing about arguments",
-        "link": "https://steveklabnik.com/writing/arguing-about-arguments/",
-        "pubDate": "2026-09-22T04:29",
+        "title": "Looking forward to Git 2.56 - and 3.0",
+        "link": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+        "pubDate": "2026-09-22T05:23",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +140,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Self-Hosting Behind CGNAT",
-        "link": "https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/",
-        "pubDate": "2026-09-21T17:53",
+        "title": "How to talk about \"AI\" without adding to the anthropomorphization",
+        "link": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
+        "pubDate": "2026-09-22T21:45",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Arguing about arguments",
+        "link": "https://steveklabnik.com/writing/arguing-about-arguments/",
+        "pubDate": "2026-09-22T04:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Parsing JSON Objects without intermediate ASTs",
+        "link": "https://arthi-chaud.github.io/posts/json-ir/",
+        "pubDate": "2026-09-23T04:28",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How to talk about \"AI\" without adding to the anthropomorphization",
-        "link": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
-        "pubDate": "2026-09-22T21:45",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Named and Optional Arguments are Awesome",
-        "link": "https://botahamec.dev/named-optional-args",
-        "pubDate": "2026-09-21T21:16",
+        "title": "Self-Hosting Behind CGNAT",
+        "link": "https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/",
+        "pubDate": "2026-09-21T17:53",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "rift - a tiling window manager for macos",
-        "link": "https://github.com/acsandmann/rift/",
-        "pubDate": "2026-09-21T18:02",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
         "link": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/",
         "pubDate": "2026-09-22T08:20",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Named and Optional Arguments are Awesome",
+        "link": "https://botahamec.dev/named-optional-args",
+        "pubDate": "2026-09-21T21:16",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,42 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump pursues last-ditch hunt for voter fraud",
+        "link": "https://www.axios.com/2026/09/23/trump-voter-fraud-citizens",
+        "pubDate": "2026-09-23T09:35",
+        "feedId": "axios"
+      },
+      {
+        "title": "The All-In-ification of Trump's AI agenda",
+        "link": "https://www.axios.com/2026/09/23/all-in-podcast-trump-ai-safety",
+        "pubDate": "2026-09-23T09:31",
+        "feedId": "axios"
+      },
+      {
+        "title": "Uber's robotaxi edge: human drivers",
+        "link": "https://www.axios.com/2026/09/23/uber-robotaxi-human-drivers",
+        "pubDate": "2026-09-23T09:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: Trump's Board of Peace to unveil $2.45 billion Gaza recovery plan",
+        "link": "https://www.axios.com/2026/09/23/trump-board-of-peace-gaza-reconstruction-plan",
+        "pubDate": "2026-09-23T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "Poll: Americans see rule of law declining in U.S.",
+        "link": "https://www.axios.com/2026/09/23/poll-americans-law-declining",
+        "pubDate": "2026-09-23T09:10",
+        "feedId": "axios"
+      },
+      {
+        "title": "AI labs are cutting model costs - and it could help them slow down safely",
+        "link": "https://www.axios.com/2026/09/23/price-war-pause-slowdown-ai-frontier",
+        "pubDate": "2026-09-23T09:00",
+        "feedId": "axios"
+      },
+      {
         "title": "FBI investigating claims that a major cybercrime group stole sensitive personnel data",
         "link": "https://www.axios.com/2026/09/22/shinyhunters-fbi-employees-data-hack",
         "pubDate": "2026-09-22T23:59",
@@ -339,42 +375,6 @@
         "title": "Love is pricey. Here's what young Americans are doing about it",
         "link": "https://www.axios.com/2026/09/22/the-rising-price-tag-of-romance",
         "pubDate": "2026-09-22T13:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "The AI doomsday fear hidden in self-improving AI",
-        "link": "https://www.axios.com/2026/09/22/ai-rsi-meaning-recursive-self-improvement-doom",
-        "pubDate": "2026-09-22T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "With $7 trillion on the line, AI safety may always take a backseat to market domination",
-        "link": "https://www.axios.com/2026/09/22/ai-safety-vs-ai-speed",
-        "pubDate": "2026-09-22T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "U.S.-China \"red telephone\" could bring a Cold War guardrail to AI",
-        "link": "https://www.axios.com/2026/09/22/trump-china-ai-hotline-xi-summit",
-        "pubDate": "2026-09-22T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "GOP's war for eyeballs",
-        "link": "https://www.axios.com/2026/09/21/republicans-democrats-senate-campaign-ad-spending-impressions",
-        "pubDate": "2026-09-21T23:26",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump and Mamdani's unlikely rapport endures in New York",
-        "link": "https://www.axios.com/2026/09/21/trump-mamdani-new-york-city-meeting",
-        "pubDate": "2026-09-21T22:17",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"People are pissed off\": House Dems sneer as one of their own backs a Republican",
-        "link": "https://www.axios.com/2026/09/21/jared-golden-mike-lawler-house-democrats-reaction",
-        "pubDate": "2026-09-21T21:40",
         "feedId": "axios"
       }
     ]
