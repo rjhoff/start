@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "Data-Only Attacks Are Easier Than You Think",
+        "link": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
+        "pubDate": "2026-09-23T03:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "Transit rewards (Waymo pays you to take the train)",
+        "link": "https://waymo.com/blog/2026/09/transit-rewards/",
+        "pubDate": "2026-09-23T02:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+        "link": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
+        "pubDate": "2026-09-23T02:13",
+        "feedId": "hn"
+      },
+      {
         "title": "The current balance of power in open models",
         "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
         "pubDate": "2026-09-22T22:03",
@@ -15,15 +33,15 @@
         "feedId": "hn"
       },
       {
-        "title": "The JavaScript Midlife Crisis",
-        "link": "https://maroun-baydoun.com/blog/javascript-midlife-crisis/",
-        "pubDate": "2026-09-22T19:58",
-        "feedId": "hn"
-      },
-      {
         "title": "Native apps written in TypeScript and CSS",
         "link": "https://github.com/geastack/examples",
         "pubDate": "2026-09-22T19:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "Obscura: VPN that can't log your activity",
+        "link": "https://obscura.com/#faq-technical",
+        "pubDate": "2026-09-22T19:40",
         "feedId": "hn"
       },
       {
@@ -57,18 +75,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
-        "link": "https://www.coveragecat.com/",
-        "pubDate": "2026-09-22T17:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
-        "link": "https://grapheneos.social/@GrapheneOS/117299954135808210",
-        "pubDate": "2026-09-22T17:12",
-        "feedId": "hn"
-      },
-      {
         "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
         "link": "https://artificialanalysis.ai/models/claude-opus-5-5",
         "pubDate": "2026-09-22T16:51",
@@ -85,12 +91,6 @@
         "link": "https://www.anthropic.com/claude-opus-5-5",
         "pubDate": "2026-09-22T16:29",
         "feedId": "hn"
-      },
-      {
-        "title": "16-bit Intel 8088 chip (c. 1985)",
-        "link": "https://allpoetry.com/16-bit-Intel-8088-chip",
-        "pubDate": "2026-09-22T16:11",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,9 +104,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "That About Wraps It Up for Stock Mac UI",
+        "link": "https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html",
+        "pubDate": "2026-09-22T19:29",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Looking forward to Git 2.56 - and 3.0",
         "link": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
         "pubDate": "2026-09-22T05:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "No Sloptober",
+        "link": "https://no-sloptober.com/",
+        "pubDate": "2026-09-22T21:06",
         "feedId": "lobsters"
       },
       {
@@ -122,15 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "That About Wraps It Up for Stock Mac UI",
-        "link": "https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html",
-        "pubDate": "2026-09-22T19:29",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Jev-powered autocorrection",
         "link": "https://levmiseri.com/nospace",
         "pubDate": "2026-09-22T18:55",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "tokens too cheap to meter",
+        "link": "https://jyn.dev/tokens-too-cheap-to-meter/",
+        "pubDate": "2026-09-22T16:28",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +152,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "tokens too cheap to meter",
-        "link": "https://jyn.dev/tokens-too-cheap-to-meter/",
-        "pubDate": "2026-09-22T16:28",
+        "title": "GitHub Actions leaking secrets when Miri output is cached",
+        "link": "https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/",
+        "pubDate": "2026-09-22T21:38",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How to talk about \"AI\" without adding to the anthropomorphization",
+        "link": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
+        "pubDate": "2026-09-22T21:45",
         "feedId": "lobsters"
       },
       {
@@ -158,12 +176,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "No Sloptober",
-        "link": "https://no-sloptober.com/",
-        "pubDate": "2026-09-22T21:06",
-        "feedId": "lobsters"
-      },
-      {
         "title": "rift - a tiling window manager for macos",
         "link": "https://github.com/acsandmann/rift/",
         "pubDate": "2026-09-21T18:02",
@@ -173,18 +185,6 @@
         "title": "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
         "link": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/",
         "pubDate": "2026-09-22T08:20",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why 0xCAFEBABE?",
-        "link": "https://www.artima.com/insidejvm/whyCAFEBABE.html",
-        "pubDate": "2026-09-22T00:05",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
-        "link": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
-        "pubDate": "2026-09-22T18:22",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "FBI investigating claims that a major cybercrime group stole sensitive personnel data",
+        "link": "https://www.axios.com/2026/09/22/shinyhunters-fbi-employees-data-hack",
+        "pubDate": "2026-09-22T23:59",
+        "feedId": "axios"
+      },
+      {
+        "title": "GOP breaking with an unpopular Trump",
+        "link": "https://www.axios.com/2026/09/22/republicans-trump-congresss-iran-diesel",
+        "pubDate": "2026-09-22T23:58",
+        "feedId": "axios"
+      },
+      {
         "title": "U.S. and Iran officials meet in New York to discuss ending the war",
         "link": "https://www.axios.com/2026/09/22/unga-iran-us-trump-war",
         "pubDate": "2026-09-22T23:42",
@@ -363,18 +375,6 @@
         "title": "\"People are pissed off\": House Dems sneer as one of their own backs a Republican",
         "link": "https://www.axios.com/2026/09/21/jared-golden-mike-lawler-house-democrats-reaction",
         "pubDate": "2026-09-21T21:40",
-        "feedId": "axios"
-      },
-      {
-        "title": "Ariz. activists build map to show federal agents at polls",
-        "link": "https://www.axios.com/2026/09/21/arizona-online-map-ice-agents-polls",
-        "pubDate": "2026-09-21T21:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "CNN, MS NOW, Politico sues White House over blocked access",
-        "link": "https://www.axios.com/2026/09/21/trump-cnn-msnow-politico-suit",
-        "pubDate": "2026-09-21T20:13",
         "feedId": "axios"
       }
     ]
