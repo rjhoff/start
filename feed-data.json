@@ -3,27 +3,69 @@
     "id": "hn",
     "items": [
       {
+        "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+        "link": "https://koi.rest",
+        "pubDate": "2026-09-24T21:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Board Game of the Alpha Nerds (2014)",
+        "link": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
+        "pubDate": "2026-09-24T20:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "Security headers on 4,688 small-business websites: 49.7% met none of 7 criteria",
+        "link": "https://rackcrunch.com/security-headers-2026",
+        "pubDate": "2026-09-24T20:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "California is chasing wealth that has feet",
+        "link": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+        "pubDate": "2026-09-24T20:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "Opus 5.5 is good at explainer videos",
+        "link": "https://launchvideo.io",
+        "pubDate": "2026-09-24T20:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+        "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+        "pubDate": "2026-09-24T19:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "August 27 TCRF DDoS Attack Postmortem",
+        "link": "https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/",
+        "pubDate": "2026-09-24T19:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+        "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+        "pubDate": "2026-09-24T19:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "Stable (YC W20) Is Hiring Product Engineers",
+        "link": "https://www.usestable.com/careers/product-engineer",
+        "pubDate": "2026-09-24T18:29",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
         "link": "https://github.com/devdotfast/whiteboard",
         "pubDate": "2026-09-24T17:21",
         "feedId": "hn"
       },
       {
-        "title": "LinkedIn wins court order blocking mass scraping of user data",
-        "link": "https://therecord.media/linkedin-wins-court-order-blocking-mass-scraping",
-        "pubDate": "2026-09-24T16:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "GitHub has not removed malicious imitation software after 3 weeks",
-        "link": "https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/",
-        "pubDate": "2026-09-24T15:50",
-        "feedId": "hn"
-      },
-      {
-        "title": "Experiencing writing at our recent Chinese calligraphy workshop",
-        "link": "https://viewsproject.wordpress.com/2026/09/06/chinese-calligraphy-workshop/",
-        "pubDate": "2026-09-24T15:40",
+        "title": "Why is the liver so weirdly regenerative?",
+        "link": "https://dynomight.substack.com/p/liver",
+        "pubDate": "2026-09-24T16:23",
         "feedId": "hn"
       },
       {
@@ -33,63 +75,21 @@
         "feedId": "hn"
       },
       {
-        "title": "Apple iPhone 4 “Antennagate” Q&A (2010) [video]",
-        "link": "https://www.youtube.com/watch?v=BiN5ERktXz0",
-        "pubDate": "2026-09-24T14:35",
+        "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+        "link": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+        "pubDate": "2026-09-24T15:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
+        "link": "https://eprint.iacr.org/2026/2131.pdf",
+        "pubDate": "2026-09-24T14:26",
         "feedId": "hn"
       },
       {
         "title": "Google’s Project Suncatcher to put ML infrastructure in space",
         "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
         "pubDate": "2026-09-24T13:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "Oracle cites 'force majeure' to shield itself on controversial data center",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center",
-        "pubDate": "2026-09-24T13:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-        "link": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-        "pubDate": "2026-09-24T11:54",
-        "feedId": "hn"
-      },
-      {
-        "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
-        "link": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/",
-        "pubDate": "2026-09-24T11:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "Two-tier encryption in the UK",
-        "link": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-        "pubDate": "2026-09-24T10:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nokia Design Archive (2025)",
-        "link": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
-        "pubDate": "2026-09-24T09:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "Search – A small, fast WebKit browser for macOS",
-        "link": "https://github.com/driceroland/Search",
-        "pubDate": "2026-09-24T09:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Year of Internal Tools",
-        "link": "https://www.geocod.io/code-and-coordinates/2026-09-23-the-year-of-internal-tools",
-        "pubDate": "2026-09-24T07:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "Contrastive Language Models",
-        "link": "https://contrastive-lm.notion.site/",
-        "pubDate": "2026-09-24T04:20",
         "feedId": "hn"
       }
     ]
@@ -98,9 +98,9 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "The Story of Mel",
-        "link": "https://users.cs.utah.edu/~elb/folklore/mel.html",
-        "pubDate": "2026-09-24T04:09",
+        "title": "We Have Named Arguments at Home",
+        "link": "https://corrode.dev/blog/named-arguments-at-home/",
+        "pubDate": "2026-09-24T17:04",
         "feedId": "lobsters"
       },
       {
@@ -110,9 +110,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Clankers Made Me Build a Second Brain",
-        "link": "https://jadarma.github.io/blog/posts/2026/09/clankers-made-me-build-a-second-brain/",
-        "pubDate": "2026-09-24T11:34",
+        "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+        "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
+        "pubDate": "2026-09-24T14:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "AI Workers' Inquiry 2026",
+        "link": "https://techworkersinquiry.org/ai/",
+        "pubDate": "2026-09-24T17:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Story of Mel",
+        "link": "https://users.cs.utah.edu/~elb/folklore/mel.html",
+        "pubDate": "2026-09-24T04:09",
         "feedId": "lobsters"
       },
       {
@@ -122,9 +134,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-        "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
-        "pubDate": "2026-09-24T14:57",
+        "title": "Clankers Made Me Build a Second Brain",
+        "link": "https://jadarma.github.io/blog/posts/2026/09/clankers-made-me-build-a-second-brain/",
+        "pubDate": "2026-09-24T11:34",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "F-Droid 2.0",
+        "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+        "pubDate": "2026-09-24T18:43",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "SourceHut account takeover via build logs (XSS in ansi2html.py)",
+        "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+        "pubDate": "2026-09-24T20:38",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "We Have Named Arguments at Home",
-        "link": "https://corrode.dev/blog/named-arguments-at-home/",
-        "pubDate": "2026-09-24T17:04",
+        "title": "Apple's Two-Tier Encryption in the UK",
+        "link": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+        "pubDate": "2026-09-24T18:05",
         "feedId": "lobsters"
       },
       {
@@ -146,45 +170,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "katamari architecture",
+        "link": "https://nove.dev/blog/katamari-architecture/",
+        "pubDate": "2026-09-24T18:20",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Pick OS is a Living Fossil of Computer History",
         "link": "https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557",
         "pubDate": "2026-09-24T06:14",
         "feedId": "lobsters"
       },
       {
-        "title": "I want my mesh networks to be signed, not encrypted",
-        "link": "https://andanti.no/blog/SignedMesh.html",
-        "pubDate": "2026-09-23T14:39",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "agent-shell 0.78 updates",
-        "link": "https://xenodium.com/agent-shell-0-78-updates",
-        "pubDate": "2026-09-24T11:34",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Beware overreliance on metaphor",
-        "link": "https://evnm.substack.com/p/beware-overreliance-on-metaphor",
-        "pubDate": "2026-09-23T23:39",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Forging 1024-bit RSA signatures in nearly SNFS time",
         "link": "https://eprint.iacr.org/2026/2131.pdf",
         "pubDate": "2026-09-24T15:13",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "whatsnewt: A TUI text adventure through what's new in Python 3.15",
-        "link": "https://pypi.org/project/whatsnewt/",
-        "pubDate": "2026-09-24T12:19",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The GNOME LLM Policy That I Want",
-        "link": "https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/",
-        "pubDate": "2026-09-23T10:28",
         "feedId": "lobsters"
       }
     ]
@@ -193,7 +193,55 @@
     "id": "arstechnica",
     "items": [
       {
-        "title": "NASA chief concerned China may deny access to parts of South Pole",
+        "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
+        "link": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
+        "pubDate": "2026-09-24T19:30",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "New York defies Trump admin, asks court to shut down Polymarket gambling",
+        "link": "https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/",
+        "pubDate": "2026-09-24T19:07",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
+        "link": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
+        "pubDate": "2026-09-24T18:52",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
+        "link": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
+        "pubDate": "2026-09-24T18:39",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
+        "link": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
+        "pubDate": "2026-09-24T18:20",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google's first Suncatcher orbital data center test launches October 1",
+        "link": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+        "pubDate": "2026-09-24T16:16",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+        "link": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
+        "pubDate": "2026-09-24T16:01",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Formula 1 looks at 3.0 L V8 turbos and smaller hybrids for 2030",
+        "link": "https://arstechnica.com/cars/2026/09/formula-1-looks-at-3-0-l-v8-turbos-and-smaller-hybrids-for-2030/",
+        "pubDate": "2026-09-24T15:48",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "NASA chief concerned China may deny access to parts of Moon's south pole",
         "link": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/",
         "pubDate": "2026-09-24T14:57",
         "feedId": "arstechnica"
@@ -233,60 +281,18 @@
         "link": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
         "pubDate": "2026-09-23T21:18",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Here's the Torcal, the first fully electric Bentley",
-        "link": "https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/",
-        "pubDate": "2026-09-23T21:06",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
-        "link": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
-        "pubDate": "2026-09-23T20:52",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
-        "link": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
-        "pubDate": "2026-09-23T20:28",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Discord age verification rolls out today with changes spurred by user backlash",
-        "link": "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash/",
-        "pubDate": "2026-09-23T20:05",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "YouTube promises custom feeds and a lot more AI later this year",
-        "link": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
-        "pubDate": "2026-09-23T19:35",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Contrary to some reports, you don't have two brains",
-        "link": "https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains/",
-        "pubDate": "2026-09-23T18:47",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Netflix releases trailer for Brad Bird's Ray Gunn",
-        "link": "https://arstechnica.com/culture/2026/09/netflix-drops-trailer-for-brad-birds-ray-gunn/",
-        "pubDate": "2026-09-23T18:26",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
-        "link": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
-        "pubDate": "2026-09-23T17:39",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Federal judge blasts ICE over \"inhumane\" NYC detention conditions",
+        "link": "https://www.axios.com/2026/09/24/ice-nyc-detention-center-unconstitutional-conditions",
+        "pubDate": "2026-09-24T19:11",
+        "feedId": "axios"
+      },
       {
         "title": "White House reinstates access for banned reporters",
         "link": "https://www.axios.com/2026/09/24/white-house-press-ban-court-order",
@@ -369,12 +375,6 @@
         "title": "Exclusive: Thune plans another leader bid as Senate GOP fights to survive",
         "link": "https://www.axios.com/2026/09/23/john-thune-senate-republican-leader-trump",
         "pubDate": "2026-09-23T23:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump greets Xi on tarmac in rare gesture",
-        "link": "https://www.axios.com/2026/09/23/trump-xi-china-state-visit-joint-base-andrews",
-        "pubDate": "2026-09-23T22:13",
         "feedId": "axios"
       }
     ]
