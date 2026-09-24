@@ -3,15 +3,57 @@
     "id": "hn",
     "items": [
       {
-        "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-        "link": "https://transluce.org/agent-activity",
-        "pubDate": "2026-09-24T05:21",
+        "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
+        "link": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+        "pubDate": "2026-09-24T12:23",
         "feedId": "hn"
       },
       {
-        "title": "Six-year-old breaks women's world Rubik's Cube record [video]",
-        "link": "https://www.youtube.com/watch?v=UCMRgvyTm08",
-        "pubDate": "2026-09-24T05:07",
+        "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+        "link": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+        "pubDate": "2026-09-24T11:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
+        "link": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/",
+        "pubDate": "2026-09-24T11:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection",
+        "link": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+        "pubDate": "2026-09-24T10:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Starlink ground station in Poland hit by fire in suspected arson attack",
+        "link": "https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/",
+        "pubDate": "2026-09-24T09:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nokia Design Archive (2025)",
+        "link": "https://nokiadesignarchive.aalto.fi/index.html",
+        "pubDate": "2026-09-24T09:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+        "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+        "pubDate": "2026-09-24T08:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Year of Internal Tools",
+        "link": "https://www.geocod.io/code-and-coordinates/2026-09-23-the-year-of-internal-tools",
+        "pubDate": "2026-09-24T07:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+        "link": "https://transluce.org/agent-activity",
+        "pubDate": "2026-09-24T05:21",
         "feedId": "hn"
       },
       {
@@ -27,27 +69,15 @@
         "feedId": "hn"
       },
       {
-        "title": "FLAWED's Flaws and What This Means for Industry Research",
-        "link": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
-        "pubDate": "2026-09-24T01:16",
+        "title": "OpenAI agent hacked Australian government website, PM says",
+        "link": "https://www.bbc.com/news/live/cvgl73pxgndwt",
+        "pubDate": "2026-09-24T02:44",
         "feedId": "hn"
       },
       {
         "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
         "link": "https://github.com/nestrilabs/virtio-nvgpu",
         "pubDate": "2026-09-24T01:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
-        "link": "https://carbon.ms/self-hosted",
-        "pubDate": "2026-09-24T00:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "Feds Target AI Critics as \"Foreign Agents\"",
-        "link": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-        "pubDate": "2026-09-24T00:41",
         "feedId": "hn"
       },
       {
@@ -60,36 +90,6 @@
         "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
         "link": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
         "pubDate": "2026-09-23T22:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "Linux support is coming to Snapdragon X2 Series",
-        "link": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-        "pubDate": "2026-09-23T22:38",
-        "feedId": "hn"
-      },
-      {
-        "title": "Mercury 2.5 LLM hits 770 tokens per second",
-        "link": "https://artificialanalysis.ai/models/mercury-2-5",
-        "pubDate": "2026-09-23T22:16",
-        "feedId": "hn"
-      },
-      {
-        "title": "OpenAI breaches Medicare, Albanese reveals",
-        "link": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-        "pubDate": "2026-09-23T21:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "VSCode's SSH Agent Is Bananas (2025)",
-        "link": "https://fly.io/blog/vscode-ssh-wtf/",
-        "pubDate": "2026-09-23T21:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
-        "link": "https://huggingface.co/apple/LensVLM-9B",
-        "pubDate": "2026-09-23T18:36",
         "feedId": "hn"
       }
     ]
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I want my mesh networks to be signed, not encrypted",
-        "link": "https://andanti.no/blog/SignedMesh.html",
-        "pubDate": "2026-09-23T14:39",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The Story of Mel",
         "link": "https://users.cs.utah.edu/~elb/folklore/mel.html",
         "pubDate": "2026-09-24T04:09",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I want my mesh networks to be signed, not encrypted",
+        "link": "https://andanti.no/blog/SignedMesh.html",
+        "pubDate": "2026-09-23T14:39",
         "feedId": "lobsters"
       },
       {
@@ -122,39 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The GNOME LLM Policy That I Want",
-        "link": "https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/",
-        "pubDate": "2026-09-23T10:28",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "KDE for People",
-        "link": "https://kdeforpeople.com",
-        "pubDate": "2026-09-23T16:08",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Beware overreliance on metaphor",
-        "link": "https://evnm.substack.com/p/beware-overreliance-on-metaphor",
-        "pubDate": "2026-09-23T23:39",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Abandoning Scientific Linux Was a Mistake",
-        "link": "https://blog.melashri.net/posts/scientific-linux-mistake/",
-        "pubDate": "2026-09-23T09:53",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A brief history of Windows scroll bar shortcuts",
-        "link": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
-        "pubDate": "2026-09-23T19:51",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "No Sloptober",
-        "link": "https://no-sloptober.com/",
-        "pubDate": "2026-09-22T21:06",
+        "title": "agent-shell 0.78 updates",
+        "link": "https://xenodium.com/agent-shell-0-78-updates",
+        "pubDate": "2026-09-24T11:34",
         "feedId": "lobsters"
       },
       {
@@ -164,15 +134,45 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Zig Journey",
-        "link": "https://kristoff.it/blog/the-zig-journey/",
-        "pubDate": "2026-09-23T15:25",
+        "title": "The GNOME LLM Policy That I Want",
+        "link": "https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/",
+        "pubDate": "2026-09-23T10:28",
         "feedId": "lobsters"
       },
       {
-        "title": "Automatically detecting AI text in my browser",
-        "link": "https://www.seangoedecke.com/deckard/",
-        "pubDate": "2026-09-24T01:38",
+        "title": "Beware overreliance on metaphor",
+        "link": "https://evnm.substack.com/p/beware-overreliance-on-metaphor",
+        "pubDate": "2026-09-23T23:39",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A brief history of Windows scroll bar shortcuts",
+        "link": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+        "pubDate": "2026-09-23T19:51",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Parsing Expression Grammar vs. regexes: Building Org parser in Lisp that exports to HTML (via SXML)",
+        "link": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
+        "pubDate": "2026-09-24T12:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Abandoning Scientific Linux Was a Mistake",
+        "link": "https://blog.melashri.net/posts/scientific-linux-mistake/",
+        "pubDate": "2026-09-23T09:53",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "KDE for People",
+        "link": "https://kdeforpeople.com",
+        "pubDate": "2026-09-23T16:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Clankers Made Me Build a Second Brain",
+        "link": "https://jadarma.github.io/blog/posts/2026/09/clankers-made-me-build-a-second-brain/",
+        "pubDate": "2026-09-24T11:34",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Cheaper LLM labelling",
-        "link": "https://entropicthoughts.com/cheaper-llm-labeling",
-        "pubDate": "2026-09-23T13:14",
+        "title": "Automatically detecting AI text in my browser",
+        "link": "https://www.seangoedecke.com/deckard/",
+        "pubDate": "2026-09-24T01:38",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "There's a new way to break RSA that's faster than anything we've seen before",
+        "link": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
+        "pubDate": "2026-09-24T11:15",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Review: Apple's hyper-pricey M5 Ultra Mac Studio made me into a vibe coder",
+        "link": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
+        "pubDate": "2026-09-24T11:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
         "link": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
@@ -269,24 +281,48 @@
         "link": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
         "pubDate": "2026-09-23T14:20",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "America gave up its rare earth edge. China took full advantage.",
-        "link": "https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/",
-        "pubDate": "2026-09-23T13:37",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Small undersea volcanoes may unleash outsized tsunamis",
-        "link": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/",
-        "pubDate": "2026-09-23T11:15",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "White House ordered to restore access to banned news outlets",
+        "link": "https://www.axios.com/2026/09/24/cnn-white-house-ms-politico-access",
+        "pubDate": "2026-09-24T12:55",
+        "feedId": "axios"
+      },
+      {
+        "title": "Why Treasury yields are ripping higher",
+        "link": "https://www.axios.com/2026/09/24/treasury-yields-inflation-bonds",
+        "pubDate": "2026-09-24T10:41",
+        "feedId": "axios"
+      },
+      {
+        "title": "Judge tosses Trump's lawsuit against Des Moines Register",
+        "link": "https://www.axios.com/2026/09/23/trump-des-moines-register-lawsuit-dismissed",
+        "pubDate": "2026-09-24T10:06",
+        "feedId": "axios"
+      },
+      {
+        "title": "Inside China's mind on AI",
+        "link": "https://www.axios.com/2026/09/24/china-ai-plan-trump-xi-visit",
+        "pubDate": "2026-09-24T09:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "Adapting to extreme heat takes more than changing the clock",
+        "link": "https://www.axios.com/2026/09/24/extreme-heat-work-schedules",
+        "pubDate": "2026-09-24T09:15",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: Trump allies open new front on Anthropic CEO as face of AI \"doomerism\"",
+        "link": "https://www.axios.com/2026/09/24/trump-anthropic-ai-doomerism-dario-amodei",
+        "pubDate": "2026-09-24T09:00",
+        "feedId": "axios"
+      },
       {
         "title": "OpenAI agents breached Australian portal, attempted other hacks in routine data collection.",
         "link": "https://www.axios.com/2026/09/24/openai-agents-australia-data-breach",
@@ -324,12 +360,6 @@
         "feedId": "axios"
       },
       {
-        "title": "Judge tosses Trump's lawsuit against Des Moines Register",
-        "link": "https://www.axios.com/2026/09/23/trump-des-moines-register-lawsuit-dismissed",
-        "pubDate": "2026-09-23T23:15",
-        "feedId": "axios"
-      },
-      {
         "title": "Trump greets Xi on tarmac in rare gesture",
         "link": "https://www.axios.com/2026/09/23/trump-xi-china-state-visit-joint-base-andrews",
         "pubDate": "2026-09-23T22:13",
@@ -345,36 +375,6 @@
         "title": "\"We have a choice\": AI leaders sound alarm at UN",
         "link": "https://www.axios.com/2026/09/23/ai-leaders-un-security-council-global-safeguards",
         "pubDate": "2026-09-23T20:50",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: Thune believes Trump is open on AI guardrails despite public defiance",
-        "link": "https://www.axios.com/2026/09/23/trump-thune-ai-regulations",
-        "pubDate": "2026-09-23T19:43",
-        "feedId": "axios"
-      },
-      {
-        "title": "Dems grapple with how to pace the AI race",
-        "link": "https://www.axios.com/2026/09/23/sanders-casar-bill-dem-ai-approach-regulation",
-        "pubDate": "2026-09-23T18:41",
-        "feedId": "axios"
-      },
-      {
-        "title": "Cook nudges three Senate races toward Democrats",
-        "link": "https://www.axios.com/2026/09/23/midterms-senate-georgia-kansas-south-carolina-forecast",
-        "pubDate": "2026-09-23T18:14",
-        "feedId": "axios"
-      },
-      {
-        "title": "Chicago mayor proposes 12-month moratorium on new data centers",
-        "link": "https://www.axios.com/local/chicago/2026/09/23/chicago-12-month-moratorium-data-centers-ai-johnson-pritzker-trump",
-        "pubDate": "2026-09-23T16:40",
-        "feedId": "axios"
-      },
-      {
-        "title": "Iran president: We have been \"victims of terrorism\"",
-        "link": "https://www.axios.com/2026/09/23/pezeshkian-trump-iran-terrorists-victims",
-        "pubDate": "2026-09-23T15:49",
         "feedId": "axios"
       }
     ]
