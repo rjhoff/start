@@ -3,9 +3,51 @@
     "id": "hn",
     "items": [
       {
-        "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
-        "link": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-        "pubDate": "2026-09-24T12:23",
+        "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+        "link": "https://github.com/devdotfast/whiteboard",
+        "pubDate": "2026-09-24T17:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "LinkedIn wins court order blocking mass scraping of user data",
+        "link": "https://therecord.media/linkedin-wins-court-order-blocking-mass-scraping",
+        "pubDate": "2026-09-24T16:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "GitHub has not removed malicious imitation software after 3 weeks",
+        "link": "https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/",
+        "pubDate": "2026-09-24T15:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "Experiencing writing at our recent Chinese calligraphy workshop",
+        "link": "https://viewsproject.wordpress.com/2026/09/06/chinese-calligraphy-workshop/",
+        "pubDate": "2026-09-24T15:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "F-Droid 2.0",
+        "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+        "pubDate": "2026-09-24T15:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "Apple iPhone 4 “Antennagate” Q&A (2010) [video]",
+        "link": "https://www.youtube.com/watch?v=BiN5ERktXz0",
+        "pubDate": "2026-09-24T14:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+        "pubDate": "2026-09-24T13:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "Oracle cites 'force majeure' to shield itself on controversial data center",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center",
+        "pubDate": "2026-09-24T13:04",
         "feedId": "hn"
       },
       {
@@ -21,27 +63,21 @@
         "feedId": "hn"
       },
       {
-        "title": "Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection",
+        "title": "Two-tier encryption in the UK",
         "link": "https://macanorak.com/two-tier-encryption-in-the-uk/",
         "pubDate": "2026-09-24T10:39",
         "feedId": "hn"
       },
       {
-        "title": "Starlink ground station in Poland hit by fire in suspected arson attack",
-        "link": "https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/",
-        "pubDate": "2026-09-24T09:52",
-        "feedId": "hn"
-      },
-      {
         "title": "Nokia Design Archive (2025)",
-        "link": "https://nokiadesignarchive.aalto.fi/index.html",
+        "link": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
         "pubDate": "2026-09-24T09:49",
         "feedId": "hn"
       },
       {
-        "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-        "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-        "pubDate": "2026-09-24T08:23",
+        "title": "Search – A small, fast WebKit browser for macOS",
+        "link": "https://github.com/driceroland/Search",
+        "pubDate": "2026-09-24T09:11",
         "feedId": "hn"
       },
       {
@@ -51,45 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-        "link": "https://transluce.org/agent-activity",
-        "pubDate": "2026-09-24T05:21",
-        "feedId": "hn"
-      },
-      {
         "title": "Contrastive Language Models",
         "link": "https://contrastive-lm.notion.site/",
         "pubDate": "2026-09-24T04:20",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ideas on modernizing the open-source desktop",
-        "link": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
-        "pubDate": "2026-09-24T02:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "OpenAI agent hacked Australian government website, PM says",
-        "link": "https://www.bbc.com/news/live/cvgl73pxgndwt",
-        "pubDate": "2026-09-24T02:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
-        "link": "https://github.com/nestrilabs/virtio-nvgpu",
-        "pubDate": "2026-09-24T01:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "Meta VR Glasses",
-        "link": "https://www.meta.com/vr-glasses/",
-        "pubDate": "2026-09-23T23:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-        "link": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-        "pubDate": "2026-09-23T22:45",
         "feedId": "hn"
       }
     ]
@@ -98,75 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
-        "link": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html",
-        "pubDate": "2026-09-23T14:34",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The Story of Mel",
         "link": "https://users.cs.utah.edu/~elb/folklore/mel.html",
         "pubDate": "2026-09-24T04:09",
         "feedId": "lobsters"
       },
       {
-        "title": "I want my mesh networks to be signed, not encrypted",
-        "link": "https://andanti.no/blog/SignedMesh.html",
-        "pubDate": "2026-09-23T14:39",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Ideas on modernizing the open-source desktop",
-        "link": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
-        "pubDate": "2026-09-23T19:49",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "agent-shell 0.78 updates",
-        "link": "https://xenodium.com/agent-shell-0-78-updates",
-        "pubDate": "2026-09-24T11:34",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Pick OS is a Living Fossil of Computer History",
-        "link": "https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557",
-        "pubDate": "2026-09-24T06:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The GNOME LLM Policy That I Want",
-        "link": "https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/",
-        "pubDate": "2026-09-23T10:28",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Beware overreliance on metaphor",
-        "link": "https://evnm.substack.com/p/beware-overreliance-on-metaphor",
-        "pubDate": "2026-09-23T23:39",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A brief history of Windows scroll bar shortcuts",
-        "link": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
-        "pubDate": "2026-09-23T19:51",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Parsing Expression Grammar vs. regexes: Building Org parser in Lisp that exports to HTML (via SXML)",
-        "link": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
-        "pubDate": "2026-09-24T12:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Abandoning Scientific Linux Was a Mistake",
-        "link": "https://blog.melashri.net/posts/scientific-linux-mistake/",
-        "pubDate": "2026-09-23T09:53",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "KDE for People",
-        "link": "https://kdeforpeople.com",
-        "pubDate": "2026-09-23T16:08",
+        "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8 GB",
+        "link": "https://mouse.dev/blog/muse-runtime-export/",
+        "pubDate": "2026-09-24T14:55",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +116,75 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Do not let your type system reason about aliasing in your programming language",
-        "link": "https://futhark-lang.org/blog/2026-09-22-aliasing.html",
-        "pubDate": "2026-09-23T14:07",
+        "title": "Parsing Expression Grammar vs. regexes: Building Org parser in Lisp that exports to HTML (via SXML)",
+        "link": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
+        "pubDate": "2026-09-24T12:11",
         "feedId": "lobsters"
       },
       {
-        "title": "Automatically detecting AI text in my browser",
-        "link": "https://www.seangoedecke.com/deckard/",
-        "pubDate": "2026-09-24T01:38",
+        "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+        "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
+        "pubDate": "2026-09-24T14:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+        "link": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html",
+        "pubDate": "2026-09-23T14:34",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "We Have Named Arguments at Home",
+        "link": "https://corrode.dev/blog/named-arguments-at-home/",
+        "pubDate": "2026-09-24T17:04",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Ideas on modernizing the open-source desktop",
+        "link": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+        "pubDate": "2026-09-23T19:49",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Pick OS is a Living Fossil of Computer History",
+        "link": "https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557",
+        "pubDate": "2026-09-24T06:14",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I want my mesh networks to be signed, not encrypted",
+        "link": "https://andanti.no/blog/SignedMesh.html",
+        "pubDate": "2026-09-23T14:39",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "agent-shell 0.78 updates",
+        "link": "https://xenodium.com/agent-shell-0-78-updates",
+        "pubDate": "2026-09-24T11:34",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Beware overreliance on metaphor",
+        "link": "https://evnm.substack.com/p/beware-overreliance-on-metaphor",
+        "pubDate": "2026-09-23T23:39",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Forging 1024-bit RSA signatures in nearly SNFS time",
+        "link": "https://eprint.iacr.org/2026/2131.pdf",
+        "pubDate": "2026-09-24T15:13",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "whatsnewt: A TUI text adventure through what's new in Python 3.15",
+        "link": "https://pypi.org/project/whatsnewt/",
+        "pubDate": "2026-09-24T12:19",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The GNOME LLM Policy That I Want",
+        "link": "https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/",
+        "pubDate": "2026-09-23T10:28",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "NASA chief concerned China may deny access to parts of South Pole",
+        "link": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/",
+        "pubDate": "2026-09-24T14:57",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Meta puts its AI assistant on a keychain",
+        "link": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
+        "pubDate": "2026-09-24T14:03",
+        "feedId": "arstechnica"
+      },
       {
         "title": "There's a new way to break RSA that's faster than anything we've seen before",
         "link": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
@@ -269,18 +281,6 @@
         "link": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
         "pubDate": "2026-09-23T17:39",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Former NASA chief sounds alarm on China's lunar \"exploration\" plans",
-        "link": "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/",
-        "pubDate": "2026-09-23T17:10",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
-        "link": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
-        "pubDate": "2026-09-23T14:20",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,9 +288,21 @@
     "id": "axios",
     "items": [
       {
+        "title": "White House reinstates access for banned reporters",
+        "link": "https://www.axios.com/2026/09/24/white-house-press-ban-court-order",
+        "pubDate": "2026-09-24T17:58",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump and Xi's summit revives panda diplomacy",
+        "link": "https://www.axios.com/2026/09/24/xi-trump-panda-diplomacy-zoo-atlanta",
+        "pubDate": "2026-09-24T16:29",
+        "feedId": "axios"
+      },
+      {
         "title": "White House ordered to restore access to banned news outlets",
         "link": "https://www.axios.com/2026/09/24/cnn-white-house-ms-politico-access",
-        "pubDate": "2026-09-24T12:55",
+        "pubDate": "2026-09-24T13:23",
         "feedId": "axios"
       },
       {
@@ -363,18 +375,6 @@
         "title": "Trump greets Xi on tarmac in rare gesture",
         "link": "https://www.axios.com/2026/09/23/trump-xi-china-state-visit-joint-base-andrews",
         "pubDate": "2026-09-23T22:13",
-        "feedId": "axios"
-      },
-      {
-        "title": "White House press ban set to continue for now after hearing ends without ruling",
-        "link": "https://www.axios.com/2026/09/23/white-house-press-ban-access",
-        "pubDate": "2026-09-23T21:24",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"We have a choice\": AI leaders sound alarm at UN",
-        "link": "https://www.axios.com/2026/09/23/ai-leaders-un-security-council-global-safeguards",
-        "pubDate": "2026-09-23T20:50",
         "feedId": "axios"
       }
     ]
