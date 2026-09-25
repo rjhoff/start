@@ -1,34 +1,106 @@
 {
   "hn": {
     "id": "hn",
-    "error": "Request timed out after 10000ms",
-    "items": []
+    "items": [
+      {
+        "title": "Issues with Codex – Identified – Full Outage",
+        "link": "https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39",
+        "pubDate": "2026-09-25T23:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tell HN: Codex Is Down",
+        "link": "https://news.ycombinator.com/item?id=49851032",
+        "pubDate": "2026-09-25T22:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "What even is an OS now?",
+        "link": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+        "pubDate": "2026-09-25T21:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+        "link": "https://swarmtraces.org/",
+        "pubDate": "2026-09-25T21:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Teaching a World Model to Play Pokemon",
+        "link": "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/",
+        "pubDate": "2026-09-25T21:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "Excel now supports multiple values in a single cell",
+        "link": "https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756",
+        "pubDate": "2026-09-25T20:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "How we learned to stop worrying and love campus surveillance",
+        "link": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
+        "pubDate": "2026-09-25T19:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+        "link": "https://news.ycombinator.com/item?id=49848955",
+        "pubDate": "2026-09-25T19:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+        "link": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+        "pubDate": "2026-09-25T18:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+        "link": "https://ollaya.dev/",
+        "pubDate": "2026-09-25T18:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+        "link": "https://mouse.dev/blog/muse-special/",
+        "pubDate": "2026-09-25T18:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: I discovered roads in the US across > 1000 themes",
+        "link": "https://road-about-a-theme.pinedesk.biz/",
+        "pubDate": "2026-09-25T16:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "Gravity seems holographic. What does that mean for reality?",
+        "link": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
+        "pubDate": "2026-09-25T15:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+        "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+        "pubDate": "2026-09-25T15:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Jev Plays Pokémon Red",
+        "link": "https://jev-pokemon.vercel.app/",
+        "pubDate": "2026-09-25T14:28",
+        "feedId": "hn"
+      }
+    ]
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
       {
-        "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
-        "link": "https://greasyfork.org/en/scripts?by=1646191",
-        "pubDate": "2026-09-25T05:33",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Goodbye Google",
         "link": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
         "pubDate": "2026-09-25T05:51",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "LLM Policies: Progress At All Costs",
-        "link": "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/",
-        "pubDate": "2026-09-25T12:30",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Amiga screens: a primer",
-        "link": "https://www.datagubbe.se/amscr/",
-        "pubDate": "2026-09-25T13:01",
         "feedId": "lobsters"
       },
       {
@@ -38,33 +110,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-        "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
-        "pubDate": "2026-09-24T14:57",
+        "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
+        "link": "https://greasyfork.org/en/scripts?by=1646191",
+        "pubDate": "2026-09-25T05:33",
         "feedId": "lobsters"
       },
       {
-        "title": "CommonGrid: The open source registry of the US power grid",
-        "link": "https://commongrid.info",
-        "pubDate": "2026-09-25T16:12",
+        "title": "Commodified Intelligence",
+        "link": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
+        "pubDate": "2026-09-25T18:24",
         "feedId": "lobsters"
       },
       {
-        "title": "SourceHut account takeover via build logs (XSS in ansi2html.py)",
-        "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
-        "pubDate": "2026-09-24T20:38",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Every package is already installed",
-        "link": "https://fzakaria.com/2026/09/24/every-package-is-already-installed",
-        "pubDate": "2026-09-25T06:39",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Who Is Open Source About?",
-        "link": "https://blog.glyph.im/2026/09/who-is-open-source-about.html",
-        "pubDate": "2026-09-25T10:57",
+        "title": "Amiga screens: a primer",
+        "link": "https://www.datagubbe.se/amscr/",
+        "pubDate": "2026-09-25T13:01",
         "feedId": "lobsters"
       },
       {
@@ -74,15 +134,45 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Who Is Open Source About?",
+        "link": "https://blog.glyph.im/2026/09/who-is-open-source-about.html",
+        "pubDate": "2026-09-25T10:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+        "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
+        "pubDate": "2026-09-24T14:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A Type Stronger than the Sum of its Components",
+        "link": "https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/",
+        "pubDate": "2026-09-25T15:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Every package is already installed",
+        "link": "https://fzakaria.com/2026/09/24/every-package-is-already-installed",
+        "pubDate": "2026-09-25T06:39",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "SourceHut account takeover via build logs (XSS in ansi2html.py)",
+        "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+        "pubDate": "2026-09-24T20:38",
+        "feedId": "lobsters"
+      },
+      {
         "title": "File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS",
         "link": "https://inoti.fyi/",
         "pubDate": "2026-09-25T02:50",
         "feedId": "lobsters"
       },
       {
-        "title": "F-Droid 2.0",
-        "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-        "pubDate": "2026-09-24T18:43",
+        "title": "Grieving the loss of details",
+        "link": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+        "pubDate": "2026-09-25T11:29",
         "feedId": "lobsters"
       },
       {
@@ -92,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Grieving the loss of details",
-        "link": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-        "pubDate": "2026-09-25T11:29",
+        "title": "F-Droid 2.0",
+        "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+        "pubDate": "2026-09-24T18:43",
         "feedId": "lobsters"
       }
     ]
@@ -198,6 +288,30 @@
     "id": "axios",
     "items": [
       {
+        "title": "OpenAI agents posted user images online, disclose dozens of third party incidents",
+        "link": "https://www.axios.com/2026/09/25/openai-models-posted-user-images-online-in-latest-security-episode",
+        "pubDate": "2026-09-25T22:36",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump-appointed judge again holds admin in contempt over deportation",
+        "link": "https://www.axios.com/2026/09/25/trump-dhs-contempt-asylum-seeker-deportation",
+        "pubDate": "2026-09-25T21:23",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump administration can use revamped voter screening tool for now, SCOTUS rules",
+        "link": "https://www.axios.com/2026/09/25/trump-administration-revamped-voter-database-supreme-court",
+        "pubDate": "2026-09-25T18:19",
+        "feedId": "axios"
+      },
+      {
+        "title": "Inside Trump's \"super intelligence\" naming problem",
+        "link": "https://www.axios.com/2026/09/25/trump-ai-super-intelligence-tech-definition",
+        "pubDate": "2026-09-25T18:10",
+        "feedId": "axios"
+      },
+      {
         "title": "Federal judge blasts ICE over \"inhumane\" NYC detention conditions",
         "link": "https://www.axios.com/2026/09/24/ice-nyc-detention-center-unconstitutional-conditions",
         "pubDate": "2026-09-25T17:54",
@@ -207,12 +321,6 @@
         "title": "\"Washington is broken\": Democrats running for office turn sharply against their own party",
         "link": "https://www.axios.com/2026/09/25/democrats-midterm-ads-2026-corruption-parties",
         "pubDate": "2026-09-25T16:38",
-        "feedId": "axios"
-      },
-      {
-        "title": "Tillis rips Trump's Xi meeting as a \"WTF moment\"",
-        "link": "https://www.axios.com/2026/09/25/tillis-trump-xi-meeting-white-house-china",
-        "pubDate": "2026-09-25T16:00",
         "feedId": "axios"
       },
       {
@@ -267,24 +375,6 @@
         "title": "Scoop: NRSC pleads for $9M to defend three red seats",
         "link": "https://www.axios.com/2026/09/24/nrsc-republicans-alaska-iowa-ohio",
         "pubDate": "2026-09-24T23:37",
-        "feedId": "axios"
-      },
-      {
-        "title": "White House reinstates access for banned reporters",
-        "link": "https://www.axios.com/2026/09/24/white-house-press-ban-court-order",
-        "pubDate": "2026-09-24T17:58",
-        "feedId": "axios"
-      },
-      {
-        "title": "AI's never-before-seen capital grab",
-        "link": "https://www.axios.com/2026/09/24/ai-private-credit-capital-grab",
-        "pubDate": "2026-09-24T17:31",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump and Xi's summit revives panda diplomacy",
-        "link": "https://www.axios.com/2026/09/24/xi-trump-panda-diplomacy-zoo-atlanta",
-        "pubDate": "2026-09-24T16:29",
         "feedId": "axios"
       }
     ]
