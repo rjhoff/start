@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "GitLab Outage",
+        "link": "https://status.gitlab.com/",
+        "pubDate": "2026-09-24T23:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "Back and shoulder surgery is often worse than useless",
+        "link": "https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless",
+        "pubDate": "2026-09-24T22:15",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: Koi.rest – watch some fish and regain your balance",
         "link": "https://koi.rest",
         "pubDate": "2026-09-24T21:33",
@@ -12,12 +24,6 @@
         "title": "The Board Game of the Alpha Nerds (2014)",
         "link": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
         "pubDate": "2026-09-24T20:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "Security headers on 4,688 small-business websites: 49.7% met none of 7 criteria",
-        "link": "https://rackcrunch.com/security-headers-2026",
-        "pubDate": "2026-09-24T20:42",
         "feedId": "hn"
       },
       {
@@ -36,12 +42,6 @@
         "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
         "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
         "pubDate": "2026-09-24T19:54",
-        "feedId": "hn"
-      },
-      {
-        "title": "August 27 TCRF DDoS Attack Postmortem",
-        "link": "https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/",
-        "pubDate": "2026-09-24T19:46",
         "feedId": "hn"
       },
       {
@@ -98,9 +98,9 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "We Have Named Arguments at Home",
-        "link": "https://corrode.dev/blog/named-arguments-at-home/",
-        "pubDate": "2026-09-24T17:04",
+        "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+        "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
+        "pubDate": "2026-09-24T14:57",
         "feedId": "lobsters"
       },
       {
@@ -110,9 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-        "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
-        "pubDate": "2026-09-24T14:57",
+        "title": "F-Droid 2.0",
+        "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+        "pubDate": "2026-09-24T18:43",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "SourceHut account takeover via build logs (XSS in ansi2html.py)",
+        "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+        "pubDate": "2026-09-24T20:38",
         "feedId": "lobsters"
       },
       {
@@ -140,21 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "F-Droid 2.0",
-        "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-        "pubDate": "2026-09-24T18:43",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "SourceHut account takeover via build logs (XSS in ansi2html.py)",
-        "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
-        "pubDate": "2026-09-24T20:38",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
         "link": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html",
         "pubDate": "2026-09-23T14:34",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "katamari architecture",
+        "link": "https://nove.dev/blog/katamari-architecture/",
+        "pubDate": "2026-09-24T18:20",
         "feedId": "lobsters"
       },
       {
@@ -170,9 +170,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "katamari architecture",
-        "link": "https://nove.dev/blog/katamari-architecture/",
-        "pubDate": "2026-09-24T18:20",
+        "title": "Forging 1024-bit RSA signatures in nearly SNFS time",
+        "link": "https://eprint.iacr.org/2026/2131.pdf",
+        "pubDate": "2026-09-24T15:13",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Forging 1024-bit RSA signatures in nearly SNFS time",
-        "link": "https://eprint.iacr.org/2026/2131.pdf",
-        "pubDate": "2026-09-24T15:13",
+        "title": "agent-shell 0.78 updates",
+        "link": "https://xenodium.com/agent-shell-0-78-updates",
+        "pubDate": "2026-09-24T11:34",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
+        "link": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
+        "pubDate": "2026-09-24T22:29",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Donald Duck's uncle was partly based on Wernher von Braun",
+        "link": "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/",
+        "pubDate": "2026-09-24T21:40",
+        "feedId": "arstechnica"
+      },
       {
         "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
         "link": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
@@ -269,24 +281,24 @@
         "link": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
         "pubDate": "2026-09-23T22:17",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
-        "link": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
-        "pubDate": "2026-09-23T21:46",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
-        "link": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
-        "pubDate": "2026-09-23T21:18",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Senate Democrats put Trump's D.C. makeover on notice",
+        "link": "https://www.axios.com/2026/09/24/democrats-trump-kennedy-center-triumphal-arch",
+        "pubDate": "2026-09-24T23:41",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: NRSC pleads for $9M to defend three red seats",
+        "link": "https://www.axios.com/2026/09/24/nrsc-republicans-alaska-iowa-ohio",
+        "pubDate": "2026-09-24T23:37",
+        "feedId": "axios"
+      },
       {
         "title": "Federal judge blasts ICE over \"inhumane\" NYC detention conditions",
         "link": "https://www.axios.com/2026/09/24/ice-nyc-detention-center-unconstitutional-conditions",
@@ -363,18 +375,6 @@
         "title": "Trump to Venezuela's Rodriguez: Elections need to happen",
         "link": "https://www.axios.com/2026/09/23/trump-venezuela-rodriguez-meeting-elections",
         "pubDate": "2026-09-24T00:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Hands-on with Meta's next VR headset",
-        "link": "https://www.axios.com/2026/09/23/hands-on-with-metas-next-vr-headset",
-        "pubDate": "2026-09-23T23:46",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: Thune plans another leader bid as Senate GOP fights to survive",
-        "link": "https://www.axios.com/2026/09/23/john-thune-senate-republican-leader-trump",
-        "pubDate": "2026-09-23T23:30",
         "feedId": "axios"
       }
     ]
