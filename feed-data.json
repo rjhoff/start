@@ -3,15 +3,9 @@
     "id": "hn",
     "items": [
       {
-        "title": "GitLab Outage",
-        "link": "https://status.gitlab.com/",
-        "pubDate": "2026-09-24T23:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "Back and shoulder surgery is often worse than useless",
-        "link": "https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless",
-        "pubDate": "2026-09-24T22:15",
+        "title": "Goodbye Google",
+        "link": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+        "pubDate": "2026-09-25T04:52",
         "feedId": "hn"
       },
       {
@@ -75,12 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-        "link": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-        "pubDate": "2026-09-24T15:09",
-        "feedId": "hn"
-      },
-      {
         "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
         "link": "https://eprint.iacr.org/2026/2131.pdf",
         "pubDate": "2026-09-24T14:26",
@@ -90,6 +78,18 @@
         "title": "Google’s Project Suncatcher to put ML infrastructure in space",
         "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
         "pubDate": "2026-09-24T13:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "Two-tier encryption in the UK",
+        "link": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+        "pubDate": "2026-09-24T10:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nokia Design Archive (2025)",
+        "link": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
+        "pubDate": "2026-09-24T09:49",
         "feedId": "hn"
       }
     ]
@@ -101,6 +101,12 @@
         "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
         "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
         "pubDate": "2026-09-24T14:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "SourceHut account takeover via build logs (XSS in ansi2html.py)",
+        "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+        "pubDate": "2026-09-24T20:38",
         "feedId": "lobsters"
       },
       {
@@ -116,21 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "SourceHut account takeover via build logs (XSS in ansi2html.py)",
-        "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
-        "pubDate": "2026-09-24T20:38",
-        "feedId": "lobsters"
-      },
-      {
         "title": "AI Workers' Inquiry 2026",
         "link": "https://techworkersinquiry.org/ai/",
         "pubDate": "2026-09-24T17:41",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Story of Mel",
-        "link": "https://users.cs.utah.edu/~elb/folklore/mel.html",
-        "pubDate": "2026-09-24T04:09",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
-        "link": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html",
-        "pubDate": "2026-09-23T14:34",
+        "title": "The Story of Mel",
+        "link": "https://users.cs.utah.edu/~elb/folklore/mel.html",
+        "pubDate": "2026-09-24T04:09",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS",
+        "link": "https://inoti.fyi/",
+        "pubDate": "2026-09-25T02:50",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +158,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
+        "link": "https://greasyfork.org/en/scripts?by=1646191",
+        "pubDate": "2026-09-25T05:33",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Apple's Two-Tier Encryption in the UK",
         "link": "https://macanorak.com/two-tier-encryption-in-the-uk/",
         "pubDate": "2026-09-24T18:05",
         "feedId": "lobsters"
       },
       {
+        "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+        "link": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html",
+        "pubDate": "2026-09-23T14:34",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Introducing Lev",
+        "link": "https://yogthos.net/posts/2026-09-24-introducing-lev.html",
+        "pubDate": "2026-09-24T23:11",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Ideas on modernizing the open-source desktop",
         "link": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
         "pubDate": "2026-09-23T19:49",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Forging 1024-bit RSA signatures in nearly SNFS time",
-        "link": "https://eprint.iacr.org/2026/2131.pdf",
-        "pubDate": "2026-09-24T15:13",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Pick OS is a Living Fossil of Computer History",
-        "link": "https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557",
-        "pubDate": "2026-09-24T06:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "agent-shell 0.78 updates",
-        "link": "https://xenodium.com/agent-shell-0-78-updates",
-        "pubDate": "2026-09-24T11:34",
         "feedId": "lobsters"
       }
     ]
