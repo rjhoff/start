@@ -3,27 +3,75 @@
     "id": "hn",
     "items": [
       {
-        "title": "Goodbye Google",
-        "link": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
-        "pubDate": "2026-09-25T04:52",
+        "title": "Uproar in France over award-winning author accused of using AI",
+        "link": "https://www.bbc.com/news/articles/ck7v4y45893go",
+        "pubDate": "2026-09-25T10:48",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Koi.rest – watch some fish and regain your balance",
-        "link": "https://koi.rest",
-        "pubDate": "2026-09-24T21:33",
+        "title": "The Mafia may be keeping fentanyl out of Italy",
+        "link": "https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy",
+        "pubDate": "2026-09-25T10:20",
+        "feedId": "hn"
+      },
+      {
+        "title": "Oracle on the hook to pay data centre investors even if site has no electricity",
+        "link": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016",
+        "pubDate": "2026-09-25T10:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ink and Switch Interactive Homepage",
+        "link": "https://www.inkandswitch.com/",
+        "pubDate": "2026-09-25T09:50",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tech Needs Humanists More",
+        "link": "https://passo.uno/tech-needs-humanists-more-than-ever/",
+        "pubDate": "2026-09-25T09:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "Special Projects (2016)",
+        "link": "https://openai.com/index/special-projects/",
+        "pubDate": "2026-09-25T08:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+        "link": "https://www.dawo.community/en/",
+        "pubDate": "2026-09-25T08:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Amiga Screens: A Primer",
+        "link": "https://www.datagubbe.se/amscr/",
+        "pubDate": "2026-09-25T07:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+        "link": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+        "pubDate": "2026-09-25T07:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+        "link": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+        "pubDate": "2026-09-25T07:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "What About Rails?",
+        "link": "https://jardo.dev/what-about-rails",
+        "pubDate": "2026-09-25T02:50",
         "feedId": "hn"
       },
       {
         "title": "The Board Game of the Alpha Nerds (2014)",
         "link": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
         "pubDate": "2026-09-24T20:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "California is chasing wealth that has feet",
-        "link": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
-        "pubDate": "2026-09-24T20:34",
         "feedId": "hn"
       },
       {
@@ -43,54 +91,6 @@
         "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
         "pubDate": "2026-09-24T19:14",
         "feedId": "hn"
-      },
-      {
-        "title": "Stable (YC W20) Is Hiring Product Engineers",
-        "link": "https://www.usestable.com/careers/product-engineer",
-        "pubDate": "2026-09-24T18:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-        "link": "https://github.com/devdotfast/whiteboard",
-        "pubDate": "2026-09-24T17:21",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why is the liver so weirdly regenerative?",
-        "link": "https://dynomight.substack.com/p/liver",
-        "pubDate": "2026-09-24T16:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "F-Droid 2.0",
-        "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-        "pubDate": "2026-09-24T15:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
-        "link": "https://eprint.iacr.org/2026/2131.pdf",
-        "pubDate": "2026-09-24T14:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Google’s Project Suncatcher to put ML infrastructure in space",
-        "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
-        "pubDate": "2026-09-24T13:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "Two-tier encryption in the UK",
-        "link": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-        "pubDate": "2026-09-24T10:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nokia Design Archive (2025)",
-        "link": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
-        "pubDate": "2026-09-24T09:49",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "SourceHut account takeover via build logs (XSS in ansi2html.py)",
-        "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
-        "pubDate": "2026-09-24T20:38",
+        "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
+        "link": "https://greasyfork.org/en/scripts?by=1646191",
+        "pubDate": "2026-09-25T05:33",
         "feedId": "lobsters"
       },
       {
-        "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8 GB",
-        "link": "https://mouse.dev/blog/muse-runtime-export/",
-        "pubDate": "2026-09-24T14:55",
+        "title": "SourceHut account takeover via build logs (XSS in ansi2html.py)",
+        "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+        "pubDate": "2026-09-24T20:38",
         "feedId": "lobsters"
       },
       {
@@ -122,27 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "AI Workers' Inquiry 2026",
-        "link": "https://techworkersinquiry.org/ai/",
-        "pubDate": "2026-09-24T17:41",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Parsing Expression Grammar vs. regexes: Building Org parser in Lisp that exports to HTML (via SXML)",
-        "link": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
-        "pubDate": "2026-09-24T12:11",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Clankers Made Me Build a Second Brain",
-        "link": "https://jadarma.github.io/blog/posts/2026/09/clankers-made-me-build-a-second-brain/",
-        "pubDate": "2026-09-24T11:34",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Story of Mel",
-        "link": "https://users.cs.utah.edu/~elb/folklore/mel.html",
-        "pubDate": "2026-09-24T04:09",
+        "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8 GB",
+        "link": "https://mouse.dev/blog/muse-runtime-export/",
+        "pubDate": "2026-09-24T14:55",
         "feedId": "lobsters"
       },
       {
@@ -152,39 +134,57 @@
         "feedId": "lobsters"
       },
       {
-        "title": "katamari architecture",
-        "link": "https://nove.dev/blog/katamari-architecture/",
-        "pubDate": "2026-09-24T18:20",
+        "title": "Goodbye Google",
+        "link": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+        "pubDate": "2026-09-25T05:51",
         "feedId": "lobsters"
       },
       {
-        "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
-        "link": "https://greasyfork.org/en/scripts?by=1646191",
-        "pubDate": "2026-09-25T05:33",
+        "title": "Pencils Down, Eyes Open: A Rails Developer After Rails World",
+        "link": "https://caio.ca/blog/pencils-down-eyes-open-rails-world",
+        "pubDate": "2026-09-25T01:31",
         "feedId": "lobsters"
       },
       {
-        "title": "Apple's Two-Tier Encryption in the UK",
-        "link": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-        "pubDate": "2026-09-24T18:05",
+        "title": "AI Workers' Inquiry 2026",
+        "link": "https://techworkersinquiry.org/ai/",
+        "pubDate": "2026-09-24T17:41",
         "feedId": "lobsters"
       },
       {
-        "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
-        "link": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html",
-        "pubDate": "2026-09-23T14:34",
+        "title": "Understanding NvPCRs in systemd v262",
+        "link": "https://katexochen.aro.bz/posts/systemd-v262-nvpcrs/",
+        "pubDate": "2026-09-25T08:26",
         "feedId": "lobsters"
       },
       {
-        "title": "Introducing Lev",
-        "link": "https://yogthos.net/posts/2026-09-24-introducing-lev.html",
-        "pubDate": "2026-09-24T23:11",
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/bubfjf/what_are_you_doing_this_weekend",
+        "pubDate": "2026-09-25T09:13",
         "feedId": "lobsters"
       },
       {
-        "title": "Ideas on modernizing the open-source desktop",
-        "link": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
-        "pubDate": "2026-09-23T19:49",
+        "title": "Every package is already installed",
+        "link": "https://fzakaria.com/2026/09/24/every-package-is-already-installed",
+        "pubDate": "2026-09-25T06:39",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Clankers Made Me Build a Second Brain",
+        "link": "https://jadarma.github.io/blog/posts/2026/09/clankers-made-me-build-a-second-brain/",
+        "pubDate": "2026-09-24T11:34",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Parsing Expression Grammar vs. regexes: Building Org parser in Lisp that exports to HTML (via SXML)",
+        "link": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
+        "pubDate": "2026-09-24T12:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Story of Mel",
+        "link": "https://users.cs.utah.edu/~elb/folklore/mel.html",
+        "pubDate": "2026-09-24T04:09",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,24 @@
     "id": "axios",
     "items": [
       {
+        "title": "3 big questions as GOP nears moment of truth",
+        "link": "https://www.axios.com/2026/09/25/gop-october-midterms-key-moment",
+        "pubDate": "2026-09-25T09:34",
+        "feedId": "axios"
+      },
+      {
+        "title": "Debate-shy: Candidates aren't sharing the stage like they used to",
+        "link": "https://www.axios.com/2026/09/25/debates-decline-2026-midterm-elections",
+        "pubDate": "2026-09-25T09:15",
+        "feedId": "axios"
+      },
+      {
+        "title": "Meta's new motto: we care about privacy",
+        "link": "https://www.axios.com/2026/09/25/meta-ai-muse-privacy",
+        "pubDate": "2026-09-25T09:00",
+        "feedId": "axios"
+      },
+      {
         "title": "Senate Democrats put Trump's D.C. makeover on notice",
         "link": "https://www.axios.com/2026/09/24/democrats-trump-kennedy-center-triumphal-arch",
         "pubDate": "2026-09-24T23:41",
@@ -309,6 +327,12 @@
         "title": "White House reinstates access for banned reporters",
         "link": "https://www.axios.com/2026/09/24/white-house-press-ban-court-order",
         "pubDate": "2026-09-24T17:58",
+        "feedId": "axios"
+      },
+      {
+        "title": "AI's never-before-seen capital grab",
+        "link": "https://www.axios.com/2026/09/24/ai-private-credit-capital-grab",
+        "pubDate": "2026-09-24T17:31",
         "feedId": "axios"
       },
       {
@@ -351,30 +375,6 @@
         "title": "Scoop: Trump allies open new front on Anthropic CEO as face of AI \"doomerism\"",
         "link": "https://www.axios.com/2026/09/24/trump-anthropic-ai-doomerism-dario-amodei",
         "pubDate": "2026-09-24T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "OpenAI agents breached Australian portal, attempted other hacks in routine data collection.",
-        "link": "https://www.axios.com/2026/09/24/openai-agents-australia-data-breach",
-        "pubDate": "2026-09-24T05:46",
-        "feedId": "axios"
-      },
-      {
-        "title": "Zelensky: U.S. pushing energy ceasefire, trilateral talks with Russia",
-        "link": "https://www.axios.com/2026/09/24/zelensky-ukraine-russia-war-energy-ceasefire-grain",
-        "pubDate": "2026-09-24T03:25",
-        "feedId": "axios"
-      },
-      {
-        "title": "Mark Zuckerberg predicts Muse will become a \"personal superintelligence\" for billions.",
-        "link": "https://www.axios.com/2026/09/23/meta-muse-ai-hardware-handheld-glasses",
-        "pubDate": "2026-09-24T00:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump to Venezuela's Rodriguez: Elections need to happen",
-        "link": "https://www.axios.com/2026/09/23/trump-venezuela-rodriguez-meeting-elections",
-        "pubDate": "2026-09-24T00:00",
         "feedId": "axios"
       }
     ]
