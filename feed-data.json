@@ -3,15 +3,33 @@
     "id": "hn",
     "items": [
       {
-        "title": "Issues with Codex – Identified – Full Outage",
-        "link": "https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39",
-        "pubDate": "2026-09-25T23:04",
+        "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+        "link": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+        "pubDate": "2026-09-26T01:36",
         "feedId": "hn"
       },
       {
-        "title": "Tell HN: Codex Is Down",
-        "link": "https://news.ycombinator.com/item?id=49851032",
-        "pubDate": "2026-09-25T22:51",
+        "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+        "link": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+        "pubDate": "2026-09-26T00:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "TiddlyInstall: A universal, reusable, install system",
+        "link": "https://robertsdotpm.github.io/_static/tiddlyinstall.html",
+        "pubDate": "2026-09-26T00:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: A game about fake news and memes",
+        "link": "https://unspin.app/",
+        "pubDate": "2026-09-26T00:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
+        "link": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
+        "pubDate": "2026-09-25T22:28",
         "feedId": "hn"
       },
       {
@@ -21,20 +39,20 @@
         "feedId": "hn"
       },
       {
+        "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
+        "link": "https://www.gptbeyond.com/try?home=1",
+        "pubDate": "2026-09-25T21:09",
+        "feedId": "hn"
+      },
+      {
         "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
         "link": "https://swarmtraces.org/",
         "pubDate": "2026-09-25T21:09",
         "feedId": "hn"
       },
       {
-        "title": "Teaching a World Model to Play Pokemon",
-        "link": "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/",
-        "pubDate": "2026-09-25T21:02",
-        "feedId": "hn"
-      },
-      {
         "title": "Excel now supports multiple values in a single cell",
-        "link": "https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756",
+        "link": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
         "pubDate": "2026-09-25T20:55",
         "feedId": "hn"
       },
@@ -42,12 +60,6 @@
         "title": "How we learned to stop worrying and love campus surveillance",
         "link": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
         "pubDate": "2026-09-25T19:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
-        "link": "https://news.ycombinator.com/item?id=49848955",
-        "pubDate": "2026-09-25T19:37",
         "feedId": "hn"
       },
       {
@@ -60,18 +72,6 @@
         "title": "Ollaya – Ollama for open-source, Jev-style decision models",
         "link": "https://ollaya.dev/",
         "pubDate": "2026-09-25T18:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-        "link": "https://mouse.dev/blog/muse-special/",
-        "pubDate": "2026-09-25T18:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: I discovered roads in the US across > 1000 themes",
-        "link": "https://road-about-a-theme.pinedesk.biz/",
-        "pubDate": "2026-09-25T16:05",
         "feedId": "hn"
       },
       {
@@ -98,9 +98,9 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Goodbye Google",
-        "link": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
-        "pubDate": "2026-09-25T05:51",
+        "title": "Commodified Intelligence",
+        "link": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
+        "pubDate": "2026-09-25T18:24",
         "feedId": "lobsters"
       },
       {
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
-        "link": "https://greasyfork.org/en/scripts?by=1646191",
-        "pubDate": "2026-09-25T05:33",
+        "title": "Goodbye Google",
+        "link": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+        "pubDate": "2026-09-25T05:51",
         "feedId": "lobsters"
       },
       {
-        "title": "Commodified Intelligence",
-        "link": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
-        "pubDate": "2026-09-25T18:24",
+        "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
+        "link": "https://greasyfork.org/en/scripts?by=1646191",
+        "pubDate": "2026-09-25T05:33",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-        "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
-        "pubDate": "2026-09-24T14:57",
+        "title": "We’re gonna need a lot more mathematicians",
+        "link": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+        "pubDate": "2026-09-25T18:27",
         "feedId": "lobsters"
       },
       {
-        "title": "A Type Stronger than the Sum of its Components",
-        "link": "https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/",
-        "pubDate": "2026-09-25T15:23",
+        "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+        "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
+        "pubDate": "2026-09-24T14:57",
         "feedId": "lobsters"
       },
       {
@@ -164,9 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS",
-        "link": "https://inoti.fyi/",
-        "pubDate": "2026-09-25T02:50",
+        "title": "A Type Stronger than the Sum of its Components",
+        "link": "https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/",
+        "pubDate": "2026-09-25T15:23",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-        "link": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
-        "pubDate": "2026-09-25T16:28",
+        "title": "File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS",
+        "link": "https://inoti.fyi/",
+        "pubDate": "2026-09-25T02:50",
         "feedId": "lobsters"
       },
       {
-        "title": "F-Droid 2.0",
-        "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-        "pubDate": "2026-09-24T18:43",
+        "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+        "link": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+        "pubDate": "2026-09-25T16:28",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,30 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
+        "link": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
+        "pubDate": "2026-09-25T23:00",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+        "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+        "pubDate": "2026-09-25T21:36",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+        "link": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+        "pubDate": "2026-09-25T21:10",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+        "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+        "pubDate": "2026-09-25T19:38",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
         "link": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
@@ -256,30 +280,6 @@
         "title": "Rocket Report: Era of cheap launch is over? Astra sets early 2027 target for return",
         "link": "https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/",
         "pubDate": "2026-09-25T11:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
-        "link": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
-        "pubDate": "2026-09-24T22:29",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Donald Duck's uncle was partly based on Wernher von Braun",
-        "link": "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/",
-        "pubDate": "2026-09-24T21:40",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
-        "link": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
-        "pubDate": "2026-09-24T19:30",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "New York defies Trump admin, asks court to shut down Polymarket gambling",
-        "link": "https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/",
-        "pubDate": "2026-09-24T19:07",
         "feedId": "arstechnica"
       }
     ]
