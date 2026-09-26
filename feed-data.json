@@ -3,21 +3,57 @@
     "id": "hn",
     "items": [
       {
-        "title": "CAPTCHAs don't prove you're human – they prove you're American",
-        "link": "https://shkspr.mobi/blog/2017/11/captchas-dont-prove-youre-human-they-prove-youre-american/",
-        "pubDate": "2026-09-26T08:27",
+        "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+        "link": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+        "pubDate": "2026-09-26T13:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "CEO of Mistral: AI is software. It can be controlled",
+        "link": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+        "pubDate": "2026-09-26T12:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+        "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
+        "pubDate": "2026-09-26T10:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "One Month Without AI",
+        "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+        "pubDate": "2026-09-26T10:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Copilot+ PC brand is dead",
+        "link": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+        "pubDate": "2026-09-26T09:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Fifteen years later, the Apple Cards origin story",
+        "link": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+        "pubDate": "2026-09-26T09:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "Floci: Locally emulating any cloud service",
+        "link": "https://floci.io",
+        "pubDate": "2026-09-26T08:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "The far side of the Moon provides clues to a previous magnetic field",
+        "link": "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html",
+        "pubDate": "2026-09-26T07:49",
         "feedId": "hn"
       },
       {
         "title": "Is your Postgres migration safe or not safe?",
         "link": "https://safenotsafe.dev/",
         "pubDate": "2026-09-26T07:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "Alberta's image as world's only rat-free region shattered by discovery of rat",
-        "link": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
-        "pubDate": "2026-09-26T06:51",
         "feedId": "hn"
       },
       {
@@ -45,12 +81,6 @@
         "feedId": "hn"
       },
       {
-        "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
-        "link": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
-        "pubDate": "2026-09-26T00:59",
-        "feedId": "hn"
-      },
-      {
         "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
         "link": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
         "pubDate": "2026-09-25T22:28",
@@ -60,36 +90,6 @@
         "title": "What even is an OS now?",
         "link": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
         "pubDate": "2026-09-25T21:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-        "link": "https://swarmtraces.org/",
-        "pubDate": "2026-09-25T21:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "Excel now supports multiple values in a single cell",
-        "link": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
-        "pubDate": "2026-09-25T20:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
-        "link": "https://news.ycombinator.com/item?id=49848955",
-        "pubDate": "2026-09-25T19:37",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-        "link": "https://ollaya.dev/",
-        "pubDate": "2026-09-25T18:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "Gravity seems holographic. What does that mean for reality?",
-        "link": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-        "pubDate": "2026-09-25T15:31",
         "feedId": "hn"
       }
     ]
@@ -116,45 +116,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
-        "link": "https://greasyfork.org/en/scripts?by=1646191",
-        "pubDate": "2026-09-25T05:33",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "This Month in Redox - August 2026",
-        "link": "https://www.redox-os.org/news/this-month-260831/",
-        "pubDate": "2026-09-25T15:59",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Amiga screens: a primer",
-        "link": "https://www.datagubbe.se/amscr/",
-        "pubDate": "2026-09-25T13:01",
-        "feedId": "lobsters"
-      },
-      {
         "title": "NetBSD Playing with disklabels",
         "link": "https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html",
         "pubDate": "2026-09-26T02:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "We’re gonna need a lot more mathematicians",
-        "link": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-        "pubDate": "2026-09-25T18:27",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Who Is Open Source About?",
-        "link": "https://blog.glyph.im/2026/09/who-is-open-source-about.html",
-        "pubDate": "2026-09-25T10:57",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Ukraine's army is experimenting with using Steam Decks to remote-control gun turrets (2023)",
-        "link": "https://www.pcgamer.com/ukraines-army-is-experimenting-with-using-steam-decks-to-remote-control-gun-turrets/",
-        "pubDate": "2026-09-26T06:10",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +128,63 @@
         "feedId": "lobsters"
       },
       {
+        "title": "The state of SIMD in Rust in 2026",
+        "link": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+        "pubDate": "2026-09-26T08:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "This Month in Redox - August 2026",
+        "link": "https://www.redox-os.org/news/this-month-260831/",
+        "pubDate": "2026-09-25T15:59",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
+        "link": "https://greasyfork.org/en/scripts?by=1646191",
+        "pubDate": "2026-09-25T05:33",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "If we do not stop to help each other, what do we become?",
+        "link": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+        "pubDate": "2026-09-26T11:02",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "We’re gonna need a lot more mathematicians",
+        "link": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+        "pubDate": "2026-09-25T18:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Go concurrency distilled",
+        "link": "https://antonz.org/go-concurrency-distilled/",
+        "pubDate": "2026-09-26T12:14",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Ukraine's army is experimenting with using Steam Decks to remote-control gun turrets (2023)",
+        "link": "https://www.pcgamer.com/ukraines-army-is-experimenting-with-using-steam-decks-to-remote-control-gun-turrets/",
+        "pubDate": "2026-09-26T06:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Amiga screens: a primer",
+        "link": "https://www.datagubbe.se/amscr/",
+        "pubDate": "2026-09-25T13:01",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Who Is Open Source About?",
+        "link": "https://blog.glyph.im/2026/09/who-is-open-source-about.html",
+        "pubDate": "2026-09-25T10:57",
+        "feedId": "lobsters"
+      },
+      {
         "title": "How to keep enjoying programming in a world of LLMs",
         "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
         "pubDate": "2026-09-25T23:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A Type Stronger than the Sum of its Components",
-        "link": "https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/",
-        "pubDate": "2026-09-25T15:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Every package is already installed",
-        "link": "https://fzakaria.com/2026/09/24/every-package-is-already-installed",
-        "pubDate": "2026-09-25T06:39",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-        "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
-        "pubDate": "2026-09-24T14:57",
         "feedId": "lobsters"
       }
     ]
@@ -199,7 +199,7 @@
         "feedId": "arstechnica"
       },
       {
-        "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+        "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
         "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
         "pubDate": "2026-09-25T21:36",
         "feedId": "arstechnica"
@@ -288,6 +288,24 @@
     "id": "axios",
     "items": [
       {
+        "title": "GOP election outlook goes from bad to \"craptastic\"",
+        "link": "https://www.axios.com/2026/09/26/trump-republicans-midterm-election-house-senate",
+        "pubDate": "2026-09-26T13:05",
+        "feedId": "axios"
+      },
+      {
+        "title": "U.S. and China agree to \"super intelligence\" dialogue amid AI tensions",
+        "link": "https://www.axios.com/2026/09/26/us-china-ai-si-deal",
+        "pubDate": "2026-09-26T11:16",
+        "feedId": "axios"
+      },
+      {
+        "title": "U.S., China reach $30 billion tariff deal after Trump-Xi summit",
+        "link": "https://www.axios.com/2026/09/26/us-china-tariffs-trade-30-billion",
+        "pubDate": "2026-09-26T11:03",
+        "feedId": "axios"
+      },
+      {
         "title": "OpenAI agents posted user images online, disclose dozens of third party incidents",
         "link": "https://www.axios.com/2026/09/25/openai-models-posted-user-images-online-in-latest-security-episode",
         "pubDate": "2026-09-25T22:36",
@@ -357,24 +375,6 @@
         "title": "Debate-shy: Candidates aren't sharing the stage like they used to",
         "link": "https://www.axios.com/2026/09/25/debates-decline-2026-midterm-elections",
         "pubDate": "2026-09-25T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Meta's new motto: we care about privacy",
-        "link": "https://www.axios.com/2026/09/25/meta-ai-muse-privacy",
-        "pubDate": "2026-09-25T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Senate Democrats put Trump's D.C. makeover on notice",
-        "link": "https://www.axios.com/2026/09/24/democrats-trump-kennedy-center-triumphal-arch",
-        "pubDate": "2026-09-24T23:41",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: NRSC pleads for $9M to defend three red seats",
-        "link": "https://www.axios.com/2026/09/24/nrsc-republicans-alaska-iowa-ohio",
-        "pubDate": "2026-09-24T23:37",
         "feedId": "axios"
       }
     ]
