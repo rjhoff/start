@@ -3,6 +3,42 @@
     "id": "hn",
     "items": [
       {
+        "title": "CAPTCHAs don't prove you're human – they prove you're American",
+        "link": "https://shkspr.mobi/blog/2017/11/captchas-dont-prove-youre-human-they-prove-youre-american/",
+        "pubDate": "2026-09-26T08:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "Is your Postgres migration safe or not safe?",
+        "link": "https://safenotsafe.dev/",
+        "pubDate": "2026-09-26T07:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Alberta's image as world's only rat-free region shattered by discovery of rat",
+        "link": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
+        "pubDate": "2026-09-26T06:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "A single function Jev-like wrapper for LLMs, including vision models",
+        "link": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+        "pubDate": "2026-09-26T04:20",
+        "feedId": "hn"
+      },
+      {
+        "title": "We're gonna need a lot more mathematicians",
+        "link": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+        "pubDate": "2026-09-26T02:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "HomelabFest will be in St. Louis in September 2027",
+        "link": "https://www.homelabfest.org",
+        "pubDate": "2026-09-26T02:03",
+        "feedId": "hn"
+      },
+      {
         "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
         "link": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
         "pubDate": "2026-09-26T01:36",
@@ -12,18 +48,6 @@
         "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
         "link": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
         "pubDate": "2026-09-26T00:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "TiddlyInstall: A universal, reusable, install system",
-        "link": "https://robertsdotpm.github.io/_static/tiddlyinstall.html",
-        "pubDate": "2026-09-26T00:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: A game about fake news and memes",
-        "link": "https://unspin.app/",
-        "pubDate": "2026-09-26T00:11",
         "feedId": "hn"
       },
       {
@@ -39,12 +63,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
-        "link": "https://www.gptbeyond.com/try?home=1",
-        "pubDate": "2026-09-25T21:09",
-        "feedId": "hn"
-      },
-      {
         "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
         "link": "https://swarmtraces.org/",
         "pubDate": "2026-09-25T21:09",
@@ -57,15 +75,9 @@
         "feedId": "hn"
       },
       {
-        "title": "How we learned to stop worrying and love campus surveillance",
-        "link": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
-        "pubDate": "2026-09-25T19:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
-        "link": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
-        "pubDate": "2026-09-25T18:37",
+        "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+        "link": "https://news.ycombinator.com/item?id=49848955",
+        "pubDate": "2026-09-25T19:37",
         "feedId": "hn"
       },
       {
@@ -78,18 +90,6 @@
         "title": "Gravity seems holographic. What does that mean for reality?",
         "link": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
         "pubDate": "2026-09-25T15:31",
-        "feedId": "hn"
-      },
-      {
-        "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-        "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-        "pubDate": "2026-09-25T15:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Jev Plays Pokémon Red",
-        "link": "https://jev-pokemon.vercel.app/",
-        "pubDate": "2026-09-25T14:28",
         "feedId": "hn"
       }
     ]
@@ -122,21 +122,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Amiga screens: a primer",
-        "link": "https://www.datagubbe.se/amscr/",
-        "pubDate": "2026-09-25T13:01",
-        "feedId": "lobsters"
-      },
-      {
         "title": "This Month in Redox - August 2026",
         "link": "https://www.redox-os.org/news/this-month-260831/",
         "pubDate": "2026-09-25T15:59",
         "feedId": "lobsters"
       },
       {
-        "title": "Who Is Open Source About?",
-        "link": "https://blog.glyph.im/2026/09/who-is-open-source-about.html",
-        "pubDate": "2026-09-25T10:57",
+        "title": "Amiga screens: a primer",
+        "link": "https://www.datagubbe.se/amscr/",
+        "pubDate": "2026-09-25T13:01",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "NetBSD Playing with disklabels",
+        "link": "https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html",
+        "pubDate": "2026-09-26T02:14",
         "feedId": "lobsters"
       },
       {
@@ -146,21 +146,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-        "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
-        "pubDate": "2026-09-24T14:57",
+        "title": "Who Is Open Source About?",
+        "link": "https://blog.glyph.im/2026/09/who-is-open-source-about.html",
+        "pubDate": "2026-09-25T10:57",
         "feedId": "lobsters"
       },
       {
-        "title": "Every package is already installed",
-        "link": "https://fzakaria.com/2026/09/24/every-package-is-already-installed",
-        "pubDate": "2026-09-25T06:39",
+        "title": "Ukraine's army is experimenting with using Steam Decks to remote-control gun turrets (2023)",
+        "link": "https://www.pcgamer.com/ukraines-army-is-experimenting-with-using-steam-decks-to-remote-control-gun-turrets/",
+        "pubDate": "2026-09-26T06:10",
         "feedId": "lobsters"
       },
       {
-        "title": "SourceHut account takeover via build logs (XSS in ansi2html.py)",
-        "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
-        "pubDate": "2026-09-24T20:38",
+        "title": "Keep if clauses side-effect free",
+        "link": "https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html",
+        "pubDate": "2026-09-26T03:45",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How to keep enjoying programming in a world of LLMs",
+        "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+        "pubDate": "2026-09-25T23:22",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Grieving the loss of details",
-        "link": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-        "pubDate": "2026-09-25T11:29",
+        "title": "Every package is already installed",
+        "link": "https://fzakaria.com/2026/09/24/every-package-is-already-installed",
+        "pubDate": "2026-09-25T06:39",
         "feedId": "lobsters"
       },
       {
-        "title": "File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS",
-        "link": "https://inoti.fyi/",
-        "pubDate": "2026-09-25T02:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-        "link": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
-        "pubDate": "2026-09-25T16:28",
+        "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+        "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
+        "pubDate": "2026-09-24T14:57",
         "feedId": "lobsters"
       }
     ]
