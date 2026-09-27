@@ -3,15 +3,75 @@
     "id": "hn",
     "items": [
       {
-        "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-        "link": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
-        "pubDate": "2026-09-27T16:29",
+        "title": "EV Sales Are Booming in Europe with Gasoline at $10 a Gallon",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-24/electric-car-sales-soar-52-in-europe-with-fuel-at-record-highs",
+        "pubDate": "2026-09-27T21:15",
         "feedId": "hn"
       },
       {
-        "title": "There are no \"rogue\" AI agents",
-        "link": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-        "pubDate": "2026-09-27T16:19",
+        "title": "Lunar Terminator Paradox",
+        "link": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+        "pubDate": "2026-09-27T21:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "My Recent Woodworking Projects",
+        "link": "https://notoriousbfg.com/recent-woodworking-projects/",
+        "pubDate": "2026-09-27T20:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "When did Google get so weird?",
+        "link": "https://sancho.bearblog.dev/google-weird/",
+        "pubDate": "2026-09-27T20:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "Self-Hosting on the Dark Web",
+        "link": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+        "pubDate": "2026-09-27T20:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
+        "link": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+        "pubDate": "2026-09-27T19:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "Imp is a full port of DSPy to the BEAM",
+        "link": "https://github.com/deepfates/imp",
+        "pubDate": "2026-09-27T19:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "What I did at Recurse Center",
+        "link": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
+        "pubDate": "2026-09-27T19:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+        "link": "https://loficities.com/",
+        "pubDate": "2026-09-27T18:44",
+        "feedId": "hn"
+      },
+      {
+        "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
+        "link": "https://www.youtube.com/watch?v=e1Xn3030IvM",
+        "pubDate": "2026-09-27T18:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ember-1",
+        "link": "https://fireworks.ai/blog/ember-1",
+        "pubDate": "2026-09-27T17:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "Don't couple your Go code to GitHub",
+        "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+        "pubDate": "2026-09-27T16:50",
         "feedId": "hn"
       },
       {
@@ -21,75 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "postmarketOS Rebrand: Nura",
-        "link": "https://nura.eco/blog/2026/09/27/nura-rename/",
-        "pubDate": "2026-09-27T15:31",
-        "feedId": "hn"
-      },
-      {
         "title": "The Normalization of Inexplicable Failures",
         "link": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
         "pubDate": "2026-09-27T15:26",
         "feedId": "hn"
       },
       {
-        "title": "Installing NeoVim caused original Vim undo files to be deleted",
+        "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
         "link": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
         "pubDate": "2026-09-27T14:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "10 Tells of a Slop UI",
-        "link": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
-        "pubDate": "2026-09-27T14:41",
-        "feedId": "hn"
-      },
-      {
-        "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
-        "link": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
-        "pubDate": "2026-09-27T14:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: I spent 10 months building a Markdown editor for Mac, iOS and web",
-        "link": "https://www.markdown.beauty/",
-        "pubDate": "2026-09-27T13:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ten Lines of Code That Changed My World",
-        "link": "https://pixelambacht.nl/2026/ten-lines-of-code/",
-        "pubDate": "2026-09-27T13:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "Replacing the old battery on rechargeable bike lights",
-        "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-        "pubDate": "2026-09-27T13:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-        "link": "https://arxiv.org/abs/2609.25021",
-        "pubDate": "2026-09-27T10:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Rusty thoughts on \"Parse, don't validate\"",
-        "link": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
-        "pubDate": "2026-09-27T08:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-        "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-        "pubDate": "2026-09-27T06:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "The internet discovers TLA+. Now what?",
-        "link": "https://reasonable.io/blog/tla-tutorial/",
-        "pubDate": "2026-09-27T05:26",
         "feedId": "hn"
       }
     ]
@@ -104,9 +104,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "One month without AI",
-        "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-        "pubDate": "2026-09-27T06:22",
+        "title": "postmarketOS rebrands as Nura",
+        "link": "https://nura.eco/blog/2026/09/27/nura-rename/",
+        "pubDate": "2026-09-27T17:34",
         "feedId": "lobsters"
       },
       {
@@ -116,9 +116,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "One month without AI",
+        "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+        "pubDate": "2026-09-27T06:22",
+        "feedId": "lobsters"
+      },
+      {
         "title": "LuaRocks Security Incident September 2026",
         "link": "https://luarocks.org/security-incident-september-2026",
         "pubDate": "2026-09-27T13:58",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Don't couple your Go code to GitHub",
+        "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+        "pubDate": "2026-09-27T20:17",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +146,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Reverse Engineering the iPod Classic's Undocumented Mikey Chip",
+        "link": "https://terminalbytes.com/reverse-engineering-ipod-classic-mikey-chip/",
+        "pubDate": "2026-09-27T19:58",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Deshittification Part 2: Bypassing the App Store Gatekeeper",
+        "link": "https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/",
+        "pubDate": "2026-09-27T14:47",
+        "feedId": "lobsters"
+      },
+      {
         "title": "What Improves Developer Productivity at Google? Code Quality (2022)",
         "link": "https://dl.acm.org/doi/pdf/10.1145/3540250.3558940",
         "pubDate": "2026-09-27T12:52",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Writing Efficient C++ Code",
+        "link": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+        "pubDate": "2026-09-27T18:03",
         "feedId": "lobsters"
       },
       {
@@ -155,36 +185,6 @@
         "title": "AI Agents Push Humans Out of the Loop",
         "link": "https://arxiv.org/abs/2608.23642",
         "pubDate": "2026-09-26T19:21",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "If we do not stop to help each other, what do we become?",
-        "link": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
-        "pubDate": "2026-09-26T11:02",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Deploying Guix images on Linode",
-        "link": "https://dthompson.us/posts/deploying-guix-images-on-linode.html",
-        "pubDate": "2026-09-27T00:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Go concurrency distilled",
-        "link": "https://antonz.org/go-concurrency-distilled/",
-        "pubDate": "2026-09-26T12:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Deshittification Part 2: Bypassing the App Store Gatekeeper",
-        "link": "https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/",
-        "pubDate": "2026-09-27T14:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The JavaScript Pun: tagged template literal",
-        "link": "https://shukla.io/blog/2026-09/pun.html",
-        "pubDate": "2026-09-26T15:37",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "AOC test-runs a Senate bid in upstate New York",
+        "link": "https://www.axios.com/2026/09/27/aoc-tests-senate-bid-new-york",
+        "pubDate": "2026-09-27T21:45",
+        "feedId": "axios"
+      },
+      {
+        "title": "Amodei critics target Trump with hit piece before White House dinner",
+        "link": "https://www.axios.com/2026/09/27/amodei-trump-anthropic-white-house-briefing",
+        "pubDate": "2026-09-27T18:57",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump: 5 terrorism suspects in U.K. base incident were under investigation",
         "link": "https://www.axios.com/2026/09/27/terrorism-raf-fairford-base-us-air-force",
         "pubDate": "2026-09-27T16:19",
@@ -363,18 +375,6 @@
         "title": "Trump-appointed judge again holds admin in contempt over deportation",
         "link": "https://www.axios.com/2026/09/25/trump-dhs-contempt-asylum-seeker-deportation",
         "pubDate": "2026-09-25T21:23",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump administration can use revamped voter screening tool for now, SCOTUS rules",
-        "link": "https://www.axios.com/2026/09/25/trump-administration-revamped-voter-database-supreme-court",
-        "pubDate": "2026-09-25T18:19",
-        "feedId": "axios"
-      },
-      {
-        "title": "Inside Trump's \"super intelligence\" naming problem",
-        "link": "https://www.axios.com/2026/09/25/trump-ai-super-intelligence-tech-definition",
-        "pubDate": "2026-09-25T18:10",
         "feedId": "axios"
       }
     ]
