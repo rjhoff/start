@@ -3,93 +3,93 @@
     "id": "hn",
     "items": [
       {
-        "title": "If we do not stop to help each other, what do we become?",
-        "link": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
-        "pubDate": "2026-09-27T03:20",
+        "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+        "link": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+        "pubDate": "2026-09-27T16:29",
         "feedId": "hn"
       },
       {
-        "title": "What is the size of Yemen? (2024)",
-        "link": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
-        "pubDate": "2026-09-27T02:40",
+        "title": "There are no \"rogue\" AI agents",
+        "link": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+        "pubDate": "2026-09-27T16:19",
         "feedId": "hn"
       },
       {
-        "title": "OpenAI agents tried to bruteforce a UN website's API fields",
-        "link": "https://swarmcha.se/posts/openai-unctad",
-        "pubDate": "2026-09-27T01:08",
+        "title": "Show HN: TinyAIArena watch AI agents battle it out",
+        "link": "https://tinyaiarena.com/",
+        "pubDate": "2026-09-27T15:51",
         "feedId": "hn"
       },
       {
-        "title": "Real-time feedback: My closing move in every interview",
-        "link": "https://mgrebler.substack.com/p/real-time-feedback-my-closing-move",
-        "pubDate": "2026-09-27T01:01",
+        "title": "postmarketOS Rebrand: Nura",
+        "link": "https://nura.eco/blog/2026/09/27/nura-rename/",
+        "pubDate": "2026-09-27T15:31",
         "feedId": "hn"
       },
       {
-        "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
-        "link": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
-        "pubDate": "2026-09-26T20:08",
+        "title": "The Normalization of Inexplicable Failures",
+        "link": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+        "pubDate": "2026-09-27T15:26",
         "feedId": "hn"
       },
       {
-        "title": "DeepSeek Elastic Compute (DSec)",
-        "link": "https://arxiv.org/abs/2609.22978",
-        "pubDate": "2026-09-26T18:22",
+        "title": "Installing NeoVim caused original Vim undo files to be deleted",
+        "link": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+        "pubDate": "2026-09-27T14:45",
         "feedId": "hn"
       },
       {
-        "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
-        "link": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
-        "pubDate": "2026-09-26T17:26",
+        "title": "10 Tells of a Slop UI",
+        "link": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+        "pubDate": "2026-09-27T14:41",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-        "link": "https://github.com/reladraw/reladraw",
-        "pubDate": "2026-09-26T17:10",
+        "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
+        "link": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+        "pubDate": "2026-09-27T14:30",
         "feedId": "hn"
       },
       {
-        "title": "The Evolution of Vending Machines",
-        "link": "https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/",
-        "pubDate": "2026-09-26T17:01",
+        "title": "Show HN: I spent 10 months building a Markdown editor for Mac, iOS and web",
+        "link": "https://www.markdown.beauty/",
+        "pubDate": "2026-09-27T13:44",
         "feedId": "hn"
       },
       {
-        "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-        "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-        "pubDate": "2026-09-26T15:56",
+        "title": "Ten Lines of Code That Changed My World",
+        "link": "https://pixelambacht.nl/2026/ten-lines-of-code/",
+        "pubDate": "2026-09-27T13:33",
         "feedId": "hn"
       },
       {
-        "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
-        "link": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-        "pubDate": "2026-09-26T15:49",
+        "title": "Replacing the old battery on rechargeable bike lights",
+        "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+        "pubDate": "2026-09-27T13:30",
         "feedId": "hn"
       },
       {
-        "title": "Go Concurrency Distilled",
-        "link": "https://antonz.org/go-concurrency-distilled/",
-        "pubDate": "2026-09-26T14:34",
+        "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+        "link": "https://arxiv.org/abs/2609.25021",
+        "pubDate": "2026-09-27T10:26",
         "feedId": "hn"
       },
       {
-        "title": "Improving site performance by shipping more CSS",
-        "link": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
-        "pubDate": "2026-09-26T13:10",
+        "title": "Rusty thoughts on \"Parse, don't validate\"",
+        "link": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+        "pubDate": "2026-09-27T08:59",
         "feedId": "hn"
       },
       {
-        "title": "How to keep enjoying programming in a world of LLMs",
-        "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-        "pubDate": "2026-09-26T09:41",
+        "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+        "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+        "pubDate": "2026-09-27T06:19",
         "feedId": "hn"
       },
       {
-        "title": "Fifteen years later, the Apple Cards origin story",
-        "link": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-        "pubDate": "2026-09-26T09:13",
+        "title": "The internet discovers TLA+. Now what?",
+        "link": "https://reasonable.io/blog/tla-tutorial/",
+        "pubDate": "2026-09-27T05:26",
         "feedId": "hn"
       }
     ]
@@ -98,39 +98,27 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Infecting the Steam Link with NixOS",
-        "link": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
-        "pubDate": "2026-09-26T13:45",
+        "title": "“They had no concept of a duty of care to their users.”",
+        "link": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+        "pubDate": "2026-09-27T14:44",
         "feedId": "lobsters"
       },
       {
-        "title": "If we do not stop to help each other, what do we become?",
-        "link": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
-        "pubDate": "2026-09-26T11:02",
+        "title": "One month without AI",
+        "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+        "pubDate": "2026-09-27T06:22",
         "feedId": "lobsters"
       },
       {
-        "title": "Rusty thoughts on \"Parse, don't validate\"",
-        "link": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
-        "pubDate": "2026-09-26T20:45",
+        "title": "Ten Lines Of Code That Changed My World",
+        "link": "https://pixelambacht.nl/2026/ten-lines-of-code/",
+        "pubDate": "2026-09-27T13:05",
         "feedId": "lobsters"
       },
       {
-        "title": "AI Agents Push Humans Out of the Loop",
-        "link": "https://arxiv.org/abs/2608.23642",
-        "pubDate": "2026-09-26T19:21",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Go concurrency distilled",
-        "link": "https://antonz.org/go-concurrency-distilled/",
-        "pubDate": "2026-09-26T12:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The JavaScript Pun: tagged template literal",
-        "link": "https://shukla.io/blog/2026-09/pun.html",
-        "pubDate": "2026-09-26T15:37",
+        "title": "LuaRocks Security Incident September 2026",
+        "link": "https://luarocks.org/security-incident-september-2026",
+        "pubDate": "2026-09-27T13:58",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Teaching GPU programming in p5.js: now with compute shaders",
-        "link": "https://www.davepagurek.com/blog/p5-compute-shaders/",
-        "pubDate": "2026-09-27T00:28",
+        "title": "Rusty thoughts on \"Parse, don't validate\"",
+        "link": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+        "pubDate": "2026-09-26T20:45",
         "feedId": "lobsters"
       },
       {
-        "title": "Commodified Intelligence",
-        "link": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
-        "pubDate": "2026-09-25T18:24",
+        "title": "What Improves Developer Productivity at Google? Code Quality (2022)",
+        "link": "https://dl.acm.org/doi/pdf/10.1145/3540250.3558940",
+        "pubDate": "2026-09-27T12:52",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +146,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The state of SIMD in Rust in 2026",
-        "link": "https://shnatsel.github.io/state-of-simd-rust-2026/",
-        "pubDate": "2026-09-26T08:28",
+        "title": "Infecting the Steam Link with NixOS",
+        "link": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
+        "pubDate": "2026-09-26T13:45",
         "feedId": "lobsters"
       },
       {
-        "title": "Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC",
-        "link": "http://www.righto.com/2026/09/8087-tangent-cordic.html",
-        "pubDate": "2026-09-26T19:01",
+        "title": "AI Agents Push Humans Out of the Loop",
+        "link": "https://arxiv.org/abs/2608.23642",
+        "pubDate": "2026-09-26T19:21",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "If we do not stop to help each other, what do we become?",
+        "link": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+        "pubDate": "2026-09-26T11:02",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Suggestion to replace LibreOffice with Collabora as default on Fedora",
-        "link": "https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office",
-        "pubDate": "2026-09-26T09:13",
+        "title": "Go concurrency distilled",
+        "link": "https://antonz.org/go-concurrency-distilled/",
+        "pubDate": "2026-09-26T12:14",
         "feedId": "lobsters"
       },
       {
-        "title": "Keep if clauses side-effect free",
-        "link": "https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html",
-        "pubDate": "2026-09-26T03:45",
+        "title": "Deshittification Part 2: Bypassing the App Store Gatekeeper",
+        "link": "https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/",
+        "pubDate": "2026-09-27T14:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The JavaScript Pun: tagged template literal",
+        "link": "https://shukla.io/blog/2026-09/pun.html",
+        "pubDate": "2026-09-26T15:37",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "How the Smithsonian became the latest front in Trump’s culture war",
+        "link": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
+        "pubDate": "2026-09-27T11:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
         "link": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
@@ -275,18 +281,42 @@
         "link": "https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/",
         "pubDate": "2026-09-25T13:45",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-        "link": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
-        "pubDate": "2026-09-25T11:00",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Trump: 5 terrorism suspects in U.K. base incident were under investigation",
+        "link": "https://www.axios.com/2026/09/27/terrorism-raf-fairford-base-us-air-force",
+        "pubDate": "2026-09-27T16:19",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: Anthropic's Dario Amodei to have White House dinner with Trump",
+        "link": "https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite",
+        "pubDate": "2026-09-27T15:26",
+        "feedId": "axios"
+      },
+      {
+        "title": "After nixing Iran proposal, Trump tells Axios he expects talks this week",
+        "link": "https://www.axios.com/2026/09/27/trump-iran-war-hormuz-blockade-negotiations",
+        "pubDate": "2026-09-27T14:55",
+        "feedId": "axios"
+      },
+      {
+        "title": "The most pressing midterm issues for rural voters",
+        "link": "https://www.axios.com/2026/09/27/rural-voters-cost-of-living-midterms",
+        "pubDate": "2026-09-27T10:55",
+        "feedId": "axios"
+      },
+      {
+        "title": "It's a 5% world. We're just living in it",
+        "link": "https://www.axios.com/2026/09/27/rates-borrowing-yields-fiscal",
+        "pubDate": "2026-09-27T10:30",
+        "feedId": "axios"
+      },
       {
         "title": "Scoop: \"Delusional\" Senate forecast rattles Sea Island retreat",
         "link": "https://www.axios.com/2026/09/26/senate-republicans-sea-island-midterms-nrsc",
@@ -345,36 +375,6 @@
         "title": "Inside Trump's \"super intelligence\" naming problem",
         "link": "https://www.axios.com/2026/09/25/trump-ai-super-intelligence-tech-definition",
         "pubDate": "2026-09-25T18:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "Federal judge blasts ICE over \"inhumane\" NYC detention conditions",
-        "link": "https://www.axios.com/2026/09/24/ice-nyc-detention-center-unconstitutional-conditions",
-        "pubDate": "2026-09-25T17:54",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"Washington is broken\": Democrats running for office turn sharply against their own party",
-        "link": "https://www.axios.com/2026/09/25/democrats-midterm-ads-2026-corruption-parties",
-        "pubDate": "2026-09-25T16:38",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump asked Xi to stop supporting Iran",
-        "link": "https://www.axios.com/2026/09/25/trump-xi-china-iran-war-support",
-        "pubDate": "2026-09-25T15:56",
-        "feedId": "axios"
-      },
-      {
-        "title": "House Republicans on track to lose majority",
-        "link": "https://www.axios.com/2026/09/25/house-republicans-majority-democrats-battleground",
-        "pubDate": "2026-09-25T15:12",
-        "feedId": "axios"
-      },
-      {
-        "title": "ICE wasted millions in rush to expand detention, government watchdog finds",
-        "link": "https://www.axios.com/2026/09/25/ice-detention-expansion-waste-gao-report",
-        "pubDate": "2026-09-25T14:44",
         "feedId": "axios"
       }
     ]
