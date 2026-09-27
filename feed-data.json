@@ -3,27 +3,39 @@
     "id": "hn",
     "items": [
       {
+        "title": "If we do not stop to help each other, what do we become?",
+        "link": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+        "pubDate": "2026-09-27T03:20",
+        "feedId": "hn"
+      },
+      {
+        "title": "What is the size of Yemen? (2024)",
+        "link": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
+        "pubDate": "2026-09-27T02:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "OpenAI agents tried to bruteforce a UN website's API fields",
+        "link": "https://swarmcha.se/posts/openai-unctad",
+        "pubDate": "2026-09-27T01:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "Real-time feedback: My closing move in every interview",
+        "link": "https://mgrebler.substack.com/p/real-time-feedback-my-closing-move",
+        "pubDate": "2026-09-27T01:01",
+        "feedId": "hn"
+      },
+      {
         "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
         "link": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
         "pubDate": "2026-09-26T20:08",
         "feedId": "hn"
       },
       {
-        "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
-        "link": "https://tml.stanford.edu/homebody/",
-        "pubDate": "2026-09-26T18:42",
-        "feedId": "hn"
-      },
-      {
         "title": "DeepSeek Elastic Compute (DSec)",
         "link": "https://arxiv.org/abs/2609.22978",
         "pubDate": "2026-09-26T18:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "Japan moves to tighten rules for foreigners",
-        "link": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-        "pubDate": "2026-09-26T17:43",
         "feedId": "hn"
       },
       {
@@ -63,9 +75,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Reading’s Bayeux Tapestry",
-        "link": "https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html",
-        "pubDate": "2026-09-26T10:48",
+        "title": "Improving site performance by shipping more CSS",
+        "link": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+        "pubDate": "2026-09-26T13:10",
         "feedId": "hn"
       },
       {
@@ -78,18 +90,6 @@
         "title": "Fifteen years later, the Apple Cards origin story",
         "link": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
         "pubDate": "2026-09-26T09:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "An agent used DNS to reach an external chatbot",
-        "link": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-        "pubDate": "2026-09-26T04:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
-        "link": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
-        "pubDate": "2026-09-26T03:23",
         "feedId": "hn"
       }
     ]
@@ -110,6 +110,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Rusty thoughts on \"Parse, don't validate\"",
+        "link": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+        "pubDate": "2026-09-26T20:45",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "AI Agents Push Humans Out of the Loop",
+        "link": "https://arxiv.org/abs/2608.23642",
+        "pubDate": "2026-09-26T19:21",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Go concurrency distilled",
         "link": "https://antonz.org/go-concurrency-distilled/",
         "pubDate": "2026-09-26T12:14",
@@ -119,6 +131,30 @@
         "title": "The JavaScript Pun: tagged template literal",
         "link": "https://shukla.io/blog/2026-09/pun.html",
         "pubDate": "2026-09-26T15:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming",
+        "link": "https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave",
+        "pubDate": "2026-09-27T03:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Teaching GPU programming in p5.js: now with compute shaders",
+        "link": "https://www.davepagurek.com/blog/p5-compute-shaders/",
+        "pubDate": "2026-09-27T00:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Commodified Intelligence",
+        "link": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
+        "pubDate": "2026-09-25T18:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "This is a modern motherfucking website",
+        "link": "https://modernmotherfuckingwebsite.dreamstation.systems/",
+        "pubDate": "2026-09-27T00:04",
         "feedId": "lobsters"
       },
       {
@@ -134,6 +170,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Deploying Guix images on Linode",
+        "link": "https://dthompson.us/posts/deploying-guix-images-on-linode.html",
+        "pubDate": "2026-09-27T00:10",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Suggestion to replace LibreOffice with Collabora as default on Fedora",
         "link": "https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office",
         "pubDate": "2026-09-26T09:13",
@@ -143,48 +185,6 @@
         "title": "Keep if clauses side-effect free",
         "link": "https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html",
         "pubDate": "2026-09-26T03:45",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Can we have reachability properties in TLA⁺?",
-        "link": "https://ahelwer.ca/post/2026-09-26-reachability/",
-        "pubDate": "2026-09-26T15:49",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "NetBSD Playing with disklabels",
-        "link": "https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html",
-        "pubDate": "2026-09-26T02:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-        "link": "https://swarmtraces.org/",
-        "pubDate": "2026-09-26T16:27",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Tuning a Server for Benchmarking",
-        "link": "https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/",
-        "pubDate": "2026-09-26T11:48",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Goodbye Google",
-        "link": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
-        "pubDate": "2026-09-25T05:51",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "This Month in Redox - August 2026",
-        "link": "https://www.redox-os.org/news/this-month-260831/",
-        "pubDate": "2026-09-25T15:59",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Rusty thoughts on \"Parse, don't validate\"",
-        "link": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
-        "pubDate": "2026-09-26T20:45",
         "feedId": "lobsters"
       }
     ]
