@@ -3,51 +3,75 @@
     "id": "hn",
     "items": [
       {
-        "title": "US jury says Apple owes record $5.7B in haptic technology patent case",
-        "link": "https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/",
-        "pubDate": "2026-09-26T16:46",
+        "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+        "link": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
+        "pubDate": "2026-09-26T20:08",
         "feedId": "hn"
       },
       {
-        "title": "I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband",
-        "link": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
-        "pubDate": "2026-09-26T16:12",
+        "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
+        "link": "https://tml.stanford.edu/homebody/",
+        "pubDate": "2026-09-26T18:42",
         "feedId": "hn"
       },
       {
-        "title": "Make Claude your assistant in excalidraw",
+        "title": "DeepSeek Elastic Compute (DSec)",
+        "link": "https://arxiv.org/abs/2609.22978",
+        "pubDate": "2026-09-26T18:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "Japan moves to tighten rules for foreigners",
+        "link": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+        "pubDate": "2026-09-26T17:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+        "link": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+        "pubDate": "2026-09-26T17:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+        "link": "https://github.com/reladraw/reladraw",
+        "pubDate": "2026-09-26T17:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Evolution of Vending Machines",
+        "link": "https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/",
+        "pubDate": "2026-09-26T17:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Drawgent: Coding agent on a live Excalidraw canvas",
         "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
         "pubDate": "2026-09-26T15:56",
         "feedId": "hn"
       },
       {
-        "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
-        "link": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
-        "pubDate": "2026-09-26T15:48",
+        "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+        "link": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+        "pubDate": "2026-09-26T15:49",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: A Claude Code skill to analyze your chess games",
-        "link": "https://github.com/brumar/chess-postmortem-skills",
-        "pubDate": "2026-09-26T15:34",
+        "title": "Go Concurrency Distilled",
+        "link": "https://antonz.org/go-concurrency-distilled/",
+        "pubDate": "2026-09-26T14:34",
         "feedId": "hn"
       },
       {
-        "title": "New Satellite Engine Could Use Earth's Atmosphere to Stay in Orbit Indefinitely",
-        "link": "https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/",
-        "pubDate": "2026-09-26T15:10",
+        "title": "Reading’s Bayeux Tapestry",
+        "link": "https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html",
+        "pubDate": "2026-09-26T10:48",
         "feedId": "hn"
       },
       {
-        "title": "OpenAI bots meddled with multiple US Government agency sites",
-        "link": "https://www.bbc.com/news/articles/cw62jje658dlo",
-        "pubDate": "2026-09-26T14:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-        "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
-        "pubDate": "2026-09-26T10:55",
+        "title": "How to keep enjoying programming in a world of LLMs",
+        "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+        "pubDate": "2026-09-26T09:41",
         "feedId": "hn"
       },
       {
@@ -57,39 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Floci: Locally emulating any cloud service",
-        "link": "https://floci.io",
-        "pubDate": "2026-09-26T08:31",
+        "title": "An agent used DNS to reach an external chatbot",
+        "link": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+        "pubDate": "2026-09-26T04:14",
         "feedId": "hn"
       },
       {
-        "title": "Is your Postgres migration safe or not safe?",
-        "link": "https://safenotsafe.dev/",
-        "pubDate": "2026-09-26T07:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "A single function Jev-like wrapper for LLMs, including vision models",
-        "link": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-        "pubDate": "2026-09-26T04:20",
-        "feedId": "hn"
-      },
-      {
-        "title": "We're gonna need a lot more mathematicians",
-        "link": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-        "pubDate": "2026-09-26T02:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "What even is an OS now?",
-        "link": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-        "pubDate": "2026-09-25T21:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-        "link": "https://swarmtraces.org/",
-        "pubDate": "2026-09-25T21:09",
+        "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
+        "link": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
+        "pubDate": "2026-09-26T03:23",
         "feedId": "hn"
       }
     ]
@@ -98,27 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "If we do not stop to help each other, what do we become?",
-        "link": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
-        "pubDate": "2026-09-26T11:02",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Infecting the Steam Link with NixOS",
         "link": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
         "pubDate": "2026-09-26T13:45",
         "feedId": "lobsters"
       },
       {
-        "title": "Commodified Intelligence",
-        "link": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
-        "pubDate": "2026-09-25T18:24",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The state of SIMD in Rust in 2026",
-        "link": "https://shnatsel.github.io/state-of-simd-rust-2026/",
-        "pubDate": "2026-09-26T08:28",
+        "title": "If we do not stop to help each other, what do we become?",
+        "link": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+        "pubDate": "2026-09-26T11:02",
         "feedId": "lobsters"
       },
       {
@@ -128,15 +116,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What About Rails?",
-        "link": "https://jardo.dev/what-about-rails",
-        "pubDate": "2026-09-25T14:44",
+        "title": "The JavaScript Pun: tagged template literal",
+        "link": "https://shukla.io/blog/2026-09/pun.html",
+        "pubDate": "2026-09-26T15:37",
         "feedId": "lobsters"
       },
       {
-        "title": "Keep if clauses side-effect free",
-        "link": "https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html",
-        "pubDate": "2026-09-26T03:45",
+        "title": "The state of SIMD in Rust in 2026",
+        "link": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+        "pubDate": "2026-09-26T08:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC",
+        "link": "http://www.righto.com/2026/09/8087-tangent-cordic.html",
+        "pubDate": "2026-09-26T19:01",
         "feedId": "lobsters"
       },
       {
@@ -146,21 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Wrong, not broken",
-        "link": "https://aws.amazon.com/blogs/aws-insights/wrong-not-broken/",
-        "pubDate": "2026-09-26T17:08",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Goodbye Google",
-        "link": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
-        "pubDate": "2026-09-25T05:51",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "NetBSD Playing with disklabels",
-        "link": "https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html",
-        "pubDate": "2026-09-26T02:14",
+        "title": "Keep if clauses side-effect free",
+        "link": "https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html",
+        "pubDate": "2026-09-26T03:45",
         "feedId": "lobsters"
       },
       {
@@ -170,9 +152,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The JavaScript Pun: tagged template literal",
-        "link": "https://shukla.io/blog/2026-09/pun.html",
-        "pubDate": "2026-09-26T15:37",
+        "title": "NetBSD Playing with disklabels",
+        "link": "https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html",
+        "pubDate": "2026-09-26T02:14",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+        "link": "https://swarmtraces.org/",
+        "pubDate": "2026-09-26T16:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Tuning a Server for Benchmarking",
+        "link": "https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/",
+        "pubDate": "2026-09-26T11:48",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Goodbye Google",
+        "link": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+        "pubDate": "2026-09-25T05:51",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Tuning a Server for Benchmarking",
-        "link": "https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/",
-        "pubDate": "2026-09-26T11:48",
+        "title": "Rusty thoughts on \"Parse, don't validate\"",
+        "link": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+        "pubDate": "2026-09-26T20:45",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "Scoop: \"Delusional\" Senate forecast rattles Sea Island retreat",
+        "link": "https://www.axios.com/2026/09/26/senate-republicans-sea-island-midterms-nrsc",
+        "pubDate": "2026-09-26T23:39",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: Top AI companies probing tens of thousands of security incidents",
+        "link": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents",
+        "pubDate": "2026-09-26T22:35",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump says he rejected the latest Iranian proposal",
         "link": "https://www.axios.com/2026/09/26/trump-iran-un-proposal",
         "pubDate": "2026-09-26T14:27",
@@ -363,18 +375,6 @@
         "title": "ICE wasted millions in rush to expand detention, government watchdog finds",
         "link": "https://www.axios.com/2026/09/25/ice-detention-expansion-waste-gao-report",
         "pubDate": "2026-09-25T14:44",
-        "feedId": "axios"
-      },
-      {
-        "title": "Bill Gates warns AI is powerful enough to cause \"a billion deaths\"",
-        "link": "https://www.axios.com/2026/09/25/bill-gates-ai-deaths-doom",
-        "pubDate": "2026-09-25T12:52",
-        "feedId": "axios"
-      },
-      {
-        "title": "3 big questions as GOP nears moment of truth",
-        "link": "https://www.axios.com/2026/09/25/gop-october-midterms-key-moment",
-        "pubDate": "2026-09-25T09:34",
         "feedId": "axios"
       }
     ]
