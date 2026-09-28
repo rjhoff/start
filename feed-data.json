@@ -3,37 +3,79 @@
     "id": "hn",
     "items": [
       {
-        "title": "Claude Sonnet 5.5",
-        "link": "https://www.anthropic.com/news/claude-sonnet-5-5",
-        "pubDate": "2026-09-28T18:00",
+        "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+        "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+        "pubDate": "2026-09-28T21:26",
         "feedId": "hn"
       },
       {
-        "title": "Claude Sonnet 5.5",
+        "title": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline",
+        "link": "https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/",
+        "pubDate": "2026-09-28T21:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+        "link": "https://github.com/firelex/jeff",
+        "pubDate": "2026-09-28T20:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "Best of British Design",
+        "link": "https://best-of-british-design.vercel.app/",
+        "pubDate": "2026-09-28T20:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "World Labs Is Joining AMD",
+        "link": "https://www.worldlabs.ai/blog/amd-announcement",
+        "pubDate": "2026-09-28T20:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Scientists solve 1840s space weather mystery",
+        "link": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
+        "pubDate": "2026-09-28T20:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "It's Time to Investigate the AI Labs",
+        "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+        "pubDate": "2026-09-28T19:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "First Steps of the PLC Organization – Independent Public Ledger of Credentials",
+        "link": "https://blog.plcred.org/3mwlphq42d227",
+        "pubDate": "2026-09-28T19:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+        "link": "https://stateofutopia.com/experiments/microllmlab/",
+        "pubDate": "2026-09-28T18:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "GrapheneOS – When an app is slow",
+        "link": "https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html",
+        "pubDate": "2026-09-28T18:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "Sonnet 5.5",
         "link": "https://www.anthropic.com/claude-sonnet-5-5",
         "pubDate": "2026-09-28T17:58",
         "feedId": "hn"
       },
       {
-        "title": "I made a visual workspace for AI Automations",
-        "link": "https://www.biom.dev/",
-        "pubDate": "2026-09-28T17:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "Definitely not Windows (Win 11 parody)",
-        "link": "https://definitelynotwindows.com/",
-        "pubDate": "2026-09-28T17:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "Who Wrote Elizabeth I's Most Scathing Letters?",
+        "title": "Who wrote Elizabeth I's most scathing letters?",
         "link": "https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised-her-correspondence-to-emphasize-her-temper-180989565/",
         "pubDate": "2026-09-28T17:47",
         "feedId": "hn"
       },
       {
-        "title": "The Teen Portraits That Captivated Sofia Coppola",
+        "title": "Joseph Szabo’s pictures of American adolescents",
         "link": "https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola",
         "pubDate": "2026-09-28T17:41",
         "feedId": "hn"
@@ -45,51 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-        "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-        "pubDate": "2026-09-28T17:33",
-        "feedId": "hn"
-      },
-      {
         "title": "Show HN: Destroy Any Website with Stickman",
         "link": "https://destroy.spritefusion.com/",
         "pubDate": "2026-09-28T16:31",
-        "feedId": "hn"
-      },
-      {
-        "title": "The problem is not AI code, but not knowing about system architecture or intent",
-        "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
-        "pubDate": "2026-09-28T16:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "13 Months Sober (2025)",
-        "link": "https://www.bobbytables.io/p/13-months-sober",
-        "pubDate": "2026-09-28T16:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "Pirating the Pirates",
-        "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
-        "pubDate": "2026-09-28T15:54",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hijacking the PS5's RTMP Stream",
-        "link": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
-        "pubDate": "2026-09-28T15:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
-        "link": "https://www.thisamericanlife.org/897/transcript",
-        "pubDate": "2026-09-28T15:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "Cf: The Agentic CLI for the Cloudflare API",
-        "link": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
-        "pubDate": "2026-09-28T15:28",
         "feedId": "hn"
       }
     ]
@@ -101,6 +101,18 @@
         "title": "Yes, no AI is now a feature",
         "link": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/",
         "pubDate": "2026-09-28T09:58",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Bill Gates tries to install Movie Maker",
+        "link": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+        "pubDate": "2026-09-28T16:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What Would A Serious AI Product Look Like?",
+        "link": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+        "pubDate": "2026-09-28T17:01",
         "feedId": "lobsters"
       },
       {
@@ -116,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What makes Lisp difficult to read?",
-        "link": "https://paultm.nl/paren-thesis",
-        "pubDate": "2026-09-28T04:44",
-        "feedId": "lobsters"
-      },
-      {
         "title": "When did Google get so weird?",
         "link": "https://sancho.bearblog.dev/google-weird/",
         "pubDate": "2026-09-28T09:16",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What makes Lisp difficult to read?",
+        "link": "https://paultm.nl/paren-thesis",
+        "pubDate": "2026-09-28T04:44",
         "feedId": "lobsters"
       },
       {
@@ -134,33 +146,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "HardenedBSD August / September 2026 Status Report",
+        "link": "https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report",
+        "pubDate": "2026-09-28T16:14",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Rickrolling with a Pharmacy cross",
         "link": "https://hugoarnal.com/blog/rickroll-pharmacy-cross/",
         "pubDate": "2026-09-28T07:52",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Bill Gates tries to install Movie Maker",
-        "link": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
-        "pubDate": "2026-09-28T16:18",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/hgmgp2/what_are_you_doing_this_week",
-        "pubDate": "2026-09-28T12:42",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "postmarketOS rebrands as Nura",
-        "link": "https://nura.eco/blog/2026/09/27/nura-rename/",
-        "pubDate": "2026-09-27T17:34",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What Would A Serious AI Product Look Like?",
-        "link": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-        "pubDate": "2026-09-28T17:01",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +164,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/hgmgp2/what_are_you_doing_this_week",
+        "pubDate": "2026-09-28T12:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "State of the (Tagged) Union Address by Andrew Kelley",
+        "link": "https://www.youtube.com/watch?v=zwi5b5xSsKA",
+        "pubDate": "2026-09-28T20:35",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "postmarketOS rebrands as Nura",
+        "link": "https://nura.eco/blog/2026/09/27/nura-rename/",
+        "pubDate": "2026-09-27T17:34",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Fool's Expertise",
         "link": "https://bcantrill.dtrace.org/2026/09/27/fools-expertise/",
         "pubDate": "2026-09-28T03:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "HardenedBSD August / September 2026 Status Report",
-        "link": "https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report",
-        "pubDate": "2026-09-28T16:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Don't couple your Go code to GitHub",
-        "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-        "pubDate": "2026-09-27T20:17",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,66 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
+        "link": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/",
+        "pubDate": "2026-09-28T22:24",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+        "link": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+        "pubDate": "2026-09-28T21:49",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
+        "link": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
+        "pubDate": "2026-09-28T21:26",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+        "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+        "pubDate": "2026-09-28T20:49",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "New device captures carbon dioxide by pumping it across a battery",
+        "link": "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/",
+        "pubDate": "2026-09-28T20:31",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "To keep drug prices high, pharma has been piling up the patents",
+        "link": "https://arstechnica.com/health/2026/09/to-keep-drug-prices-high-pharma-has-been-piling-up-the-patents/",
+        "pubDate": "2026-09-28T19:53",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Trump cuts fuel economy standards back to 2014 levels",
+        "link": "https://arstechnica.com/cars/2026/09/trump-cuts-fuel-economy-standards-back-to-2014-levels/",
+        "pubDate": "2026-09-28T19:35",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Kalshi loses again as judges rule prediction markets must obey gambling laws",
+        "link": "https://arstechnica.com/tech-policy/2026/09/another-court-rules-kalshi-sports-bets-arent-swaps-says-states-can-crack-down/",
+        "pubDate": "2026-09-28T19:04",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
+        "link": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
+        "pubDate": "2026-09-28T18:04",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Scientists solve 1840s space weather mystery",
+        "link": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
+        "pubDate": "2026-09-28T17:56",
+        "feedId": "arstechnica"
+      },
       {
         "title": "F1 in Azerbaijan: That was almost a close-run thing",
         "link": "https://arstechnica.com/cars/2026/09/f1-in-azerbaijan-that-was-almost-a-close-run-thing/",
@@ -205,7 +265,7 @@
         "feedId": "arstechnica"
       },
       {
-        "title": "NASA, for the time being, is unable to move the space station's large robotic arm",
+        "title": "NASA 'troubleshooting' transporter for space station's robotic arm [Updated]",
         "link": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/",
         "pubDate": "2026-09-28T16:03",
         "feedId": "arstechnica"
@@ -221,72 +281,36 @@
         "link": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
         "pubDate": "2026-09-27T11:00",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
-        "link": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
-        "pubDate": "2026-09-26T10:45",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
-        "link": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
-        "pubDate": "2026-09-25T23:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-        "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-        "pubDate": "2026-09-25T21:36",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-        "link": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-        "pubDate": "2026-09-25T21:10",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
-        "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
-        "pubDate": "2026-09-25T19:38",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
-        "link": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
-        "pubDate": "2026-09-25T19:34",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
-        "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
-        "pubDate": "2026-09-25T19:11",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
-        "link": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/",
-        "pubDate": "2026-09-25T18:42",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Is solar's growth finally slowing in the US?",
-        "link": "https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/",
-        "pubDate": "2026-09-25T18:27",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-        "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
-        "pubDate": "2026-09-25T17:57",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Trump offers Iran economic relief for concrete nuclear concessions",
+        "link": "https://www.axios.com/2026/09/28/trump-iran-war-sanctions-blockade-nuclear",
+        "pubDate": "2026-09-28T21:58",
+        "feedId": "axios"
+      },
+      {
+        "title": "Nvidia says new tool can contain rogue AI agents in \"milliseconds\"",
+        "link": "https://www.axios.com/2026/09/28/nvidia-ai-agent-safety",
+        "pubDate": "2026-09-28T21:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "Pope Leo rejects AI \"fake news\" claims after Trump calls fears a \"hoax\"",
+        "link": "https://www.axios.com/2026/09/28/pope-leo-ai-fears-fake-news-trump",
+        "pubDate": "2026-09-28T21:12",
+        "feedId": "axios"
+      },
+      {
+        "title": "Exclusive: Hegseth directs Defense Dept. to fight foreigners who \"meddle\" in U.S. elections",
+        "link": "https://www.axios.com/2026/09/28/hegseth-elections-security-order",
+        "pubDate": "2026-09-28T19:48",
+        "feedId": "axios"
+      },
       {
         "title": "Kash Patel's FBI loses another top official",
         "link": "https://www.axios.com/2026/09/28/fbi-kash-patel-andrew-bailey-leaves",
@@ -297,6 +321,12 @@
         "title": "Florida asks for order to halt ChatGPT development",
         "link": "https://www.axios.com/2026/09/28/florida-openai-chatgpt-injunction-uthmeier",
         "pubDate": "2026-09-28T16:43",
+        "feedId": "axios"
+      },
+      {
+        "title": "The economic legacy of the Biden immigration surge",
+        "link": "https://www.axios.com/2026/09/28/economic-legacy-biden-immigration-surge",
+        "pubDate": "2026-09-28T16:27",
         "feedId": "axios"
       },
       {
@@ -345,36 +375,6 @@
         "title": "Amodei critics target Trump with hit piece before White House dinner",
         "link": "https://www.axios.com/2026/09/27/amodei-trump-anthropic-white-house-briefing",
         "pubDate": "2026-09-27T18:57",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump: 5 terrorism suspects in U.K. base incident were under investigation",
-        "link": "https://www.axios.com/2026/09/27/terrorism-raf-fairford-base-us-air-force",
-        "pubDate": "2026-09-27T16:19",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Anthropic's Dario Amodei to have White House dinner with Trump",
-        "link": "https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite",
-        "pubDate": "2026-09-27T15:26",
-        "feedId": "axios"
-      },
-      {
-        "title": "After nixing Iran proposal, Trump tells Axios he expects talks this week",
-        "link": "https://www.axios.com/2026/09/27/trump-iran-war-hormuz-blockade-negotiations",
-        "pubDate": "2026-09-27T14:55",
-        "feedId": "axios"
-      },
-      {
-        "title": "The most pressing midterm issues for rural voters",
-        "link": "https://www.axios.com/2026/09/27/rural-voters-cost-of-living-midterms",
-        "pubDate": "2026-09-27T10:55",
-        "feedId": "axios"
-      },
-      {
-        "title": "It's a 5% world. We're just living in it",
-        "link": "https://www.axios.com/2026/09/27/rates-borrowing-yields-fiscal",
-        "pubDate": "2026-09-27T10:30",
         "feedId": "axios"
       }
     ]
