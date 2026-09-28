@@ -3,21 +3,57 @@
     "id": "hn",
     "items": [
       {
-        "title": "EV Sales Are Booming in Europe with Gasoline at $10 a Gallon",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-24/electric-car-sales-soar-52-in-europe-with-fuel-at-record-highs",
-        "pubDate": "2026-09-27T21:15",
+        "title": "Microsoft drops Copilot+ branding from its new laptops",
+        "link": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
+        "pubDate": "2026-09-28T02:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nissan's third generation e-POWER powertrain",
+        "link": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+        "pubDate": "2026-09-28T02:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14",
+        "link": "https://efraingaray.com/en/blog/tabpfn-vs-xgboost/",
+        "pubDate": "2026-09-28T02:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "Musk, the Movie",
+        "link": "https://bleeckerstreetmedia.com/musk",
+        "pubDate": "2026-09-28T02:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "Owed a billion dollars in Nvidia stock",
+        "link": "https://colo.to/nvidia-stock-narrative.html",
+        "pubDate": "2026-09-28T02:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "As A.I. makes law firms more efficient, clients ask: 'Where's my discount?'",
+        "link": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
+        "pubDate": "2026-09-28T01:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "Research finds 485 chemicals in US pesticide products linked to breast cancer",
+        "link": "https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products",
+        "pubDate": "2026-09-28T01:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "Self-parking car using genetic algorithm (2021)",
+        "link": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
+        "pubDate": "2026-09-28T01:21",
         "feedId": "hn"
       },
       {
         "title": "Lunar Terminator Paradox",
         "link": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
         "pubDate": "2026-09-27T21:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "My Recent Woodworking Projects",
-        "link": "https://notoriousbfg.com/recent-woodworking-projects/",
-        "pubDate": "2026-09-27T20:33",
         "feedId": "hn"
       },
       {
@@ -51,45 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
-        "link": "https://loficities.com/",
-        "pubDate": "2026-09-27T18:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
-        "link": "https://www.youtube.com/watch?v=e1Xn3030IvM",
-        "pubDate": "2026-09-27T18:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ember-1",
-        "link": "https://fireworks.ai/blog/ember-1",
-        "pubDate": "2026-09-27T17:31",
-        "feedId": "hn"
-      },
-      {
-        "title": "Don't couple your Go code to GitHub",
-        "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-        "pubDate": "2026-09-27T16:50",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: TinyAIArena watch AI agents battle it out",
-        "link": "https://tinyaiarena.com/",
-        "pubDate": "2026-09-27T15:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Normalization of Inexplicable Failures",
-        "link": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
-        "pubDate": "2026-09-27T15:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
-        "link": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
-        "pubDate": "2026-09-27T14:45",
+        "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
+        "link": "https://www.inkandswitch.com/essay/malleable-software/",
+        "pubDate": "2026-09-27T19:01",
         "feedId": "hn"
       }
     ]
@@ -116,9 +116,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "One month without AI",
-        "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-        "pubDate": "2026-09-27T06:22",
+        "title": "Don't couple your Go code to GitHub",
+        "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+        "pubDate": "2026-09-27T20:17",
         "feedId": "lobsters"
       },
       {
@@ -128,9 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Don't couple your Go code to GitHub",
-        "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-        "pubDate": "2026-09-27T20:17",
+        "title": "Dropping Swift entirely from our Bevy iOS crates",
+        "link": "https://rustunit.com/blog/2026/09-04-bevy-ios-crates-objc2/",
+        "pubDate": "2026-09-27T23:22",
         "feedId": "lobsters"
       },
       {
@@ -146,18 +146,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Reverse Engineering the iPod Classic's Undocumented Mikey Chip",
-        "link": "https://terminalbytes.com/reverse-engineering-ipod-classic-mikey-chip/",
-        "pubDate": "2026-09-27T19:58",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Deshittification Part 2: Bypassing the App Store Gatekeeper",
-        "link": "https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/",
-        "pubDate": "2026-09-27T14:47",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What Improves Developer Productivity at Google? Code Quality (2022)",
         "link": "https://dl.acm.org/doi/pdf/10.1145/3540250.3558940",
         "pubDate": "2026-09-27T12:52",
@@ -170,9 +158,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "This is a modern motherfucking website",
-        "link": "https://modernmotherfuckingwebsite.dreamstation.systems/",
-        "pubDate": "2026-09-27T00:04",
+        "title": "Deshittification Part 2: Bypassing the App Store Gatekeeper",
+        "link": "https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/",
+        "pubDate": "2026-09-27T14:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Syncing Rust GCC backend or how to test Murphy's law",
+        "link": "https://blog.guillaume-gomez.fr/articles/2026-09-22+Syncing+Rust+GCC+backend+or+how+to+test+Murphy%27s+law",
+        "pubDate": "2026-09-28T00:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Replacing the old battery on rechargeable bike lights",
+        "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+        "pubDate": "2026-09-28T03:27",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "AI Agents Push Humans Out of the Loop",
-        "link": "https://arxiv.org/abs/2608.23642",
-        "pubDate": "2026-09-26T19:21",
+        "title": "If we do not stop to help each other, what do we become?",
+        "link": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+        "pubDate": "2026-09-26T11:02",
         "feedId": "lobsters"
       }
     ]
