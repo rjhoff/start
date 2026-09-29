@@ -3,19 +3,61 @@
     "id": "hn",
     "items": [
       {
-        "title": "Tcl/Tk 9.1 Released",
+        "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+        "link": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+        "pubDate": "2026-09-29T19:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "Memory Companies Have Destroyed the Consumer Market",
+        "link": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
+        "pubDate": "2026-09-29T19:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
+        "link": "https://github.com/lostmsu/TurboGPT",
+        "pubDate": "2026-09-29T19:20",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nicholas Polson has authored 258 academic papers in 2026 (so far)",
+        "link": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
+        "pubDate": "2026-09-29T19:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+        "link": "https://space.bl2.net/",
+        "pubDate": "2026-09-29T19:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+        "link": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+        "pubDate": "2026-09-29T17:31",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tcl/Tk 9.1",
         "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
         "pubDate": "2026-09-29T17:13",
         "feedId": "hn"
       },
       {
-        "title": "Dots",
+        "title": "Dots: Always-on agents",
         "link": "https://openai.com/index/introducing-dots/",
         "pubDate": "2026-09-29T17:07",
         "feedId": "hn"
       },
       {
-        "title": "GPT 6.1 Sol",
+        "title": "DevDay 2026 Recap",
+        "link": "https://openai.com/index/devday-2026-recap/",
+        "pubDate": "2026-09-29T17:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
         "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
         "pubDate": "2026-09-29T17:06",
         "feedId": "hn"
@@ -27,69 +69,27 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: NSL – WSL for Linux",
-        "link": "https://frostyard.github.io/nsl/",
-        "pubDate": "2026-09-29T14:51",
+        "title": "What if Jev spoke Arrow?",
+        "link": "https://columnar.tech/blog/what-if-jev-spoke-arrow/",
+        "pubDate": "2026-09-29T16:25",
         "feedId": "hn"
       },
       {
-        "title": "macOS Golden Gate Is a Buggy Mess",
-        "link": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
-        "pubDate": "2026-09-29T14:32",
+        "title": "PS5 Relapse Exploit",
+        "link": "https://github.com/ntfargo/Relapse-Exploit",
+        "pubDate": "2026-09-29T15:44",
         "feedId": "hn"
       },
       {
-        "title": "Google ending ChromeOS support two years early",
-        "link": "https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674",
-        "pubDate": "2026-09-29T14:12",
+        "title": "America.gov",
+        "link": "https://america.gov/",
+        "pubDate": "2026-09-29T14:04",
         "feedId": "hn"
       },
       {
-        "title": "How Delhi cut electricity loss from 50 to 5 percent",
-        "link": "https://spectrum.ieee.org/delhi-electricity-loss",
-        "pubDate": "2026-09-29T12:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "Without the Hot Air",
-        "link": "https://www.withouthotair.com/",
-        "pubDate": "2026-09-29T12:38",
-        "feedId": "hn"
-      },
-      {
-        "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
-        "link": "https://www.cbc.ca/lite/story/9.7361622",
-        "pubDate": "2026-09-29T12:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",
-        "link": "https://jevstiller.pages.dev/posts/the-guarantee/",
-        "pubDate": "2026-09-29T12:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
-        "link": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
-        "pubDate": "2026-09-29T11:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "You are no longer invited to dinner",
-        "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
-        "pubDate": "2026-09-29T11:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "Jeeves. Reasoning improves Jev-like decision models",
-        "link": "https://github.com/PostHog/jeeves",
-        "pubDate": "2026-09-29T11:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-        "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-        "pubDate": "2026-09-29T09:03",
+        "title": "Ask HN: What are you reading?",
+        "link": "https://news.ycombinator.com/item?id=49893157",
+        "pubDate": "2026-09-29T13:44",
         "feedId": "hn"
       }
     ]
@@ -110,9 +110,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Bill Gates tries to install Movie Maker",
-        "link": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
-        "pubDate": "2026-09-28T16:18",
+        "title": "Aho-Corasick Algorithm",
+        "link": "https://compiler.club/aho-corasick/",
+        "pubDate": "2026-09-29T14:49",
         "feedId": "lobsters"
       },
       {
@@ -122,15 +122,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What Would A Serious AI Product Look Like?",
-        "link": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-        "pubDate": "2026-09-28T17:01",
+        "title": "The Shell & Email",
+        "link": "https://www.machtiani.chat/blogs/the-shell",
+        "pubDate": "2026-09-29T20:14",
         "feedId": "lobsters"
       },
       {
-        "title": "Aho-Corasick Algorithm",
-        "link": "https://compiler.club/aho-corasick/",
-        "pubDate": "2026-09-29T14:49",
+        "title": "Bill Gates tries to install Movie Maker",
+        "link": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+        "pubDate": "2026-09-28T16:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Nura (postmarketOS): The road to daily-drivable mainline phones",
+        "link": "https://postmarketos.org/blog/2026/09/29/road-to-main-category/",
+        "pubDate": "2026-09-29T19:20",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Yes, no AI is now a feature",
-        "link": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/",
-        "pubDate": "2026-09-28T09:58",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "AI Didn’t Make Programming Easier. It Just Made It Differently Difficult",
-        "link": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
-        "pubDate": "2026-09-29T09:40",
+        "title": "What Would A Serious AI Product Look Like?",
+        "link": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+        "pubDate": "2026-09-28T17:01",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +158,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Hijacking the PS5's RTMP Stream",
-        "link": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
-        "pubDate": "2026-09-28T11:45",
+        "title": "Getting root on OnePlus 15 from an untrusted app",
+        "link": "https://blog.nns.ee/2026/09/24/oneplus-root/",
+        "pubDate": "2026-09-29T17:25",
         "feedId": "lobsters"
       },
       {
-        "title": "Leaving them behind",
-        "link": "https://dbushell.com/2026/09/28/leaving-them-behind/",
-        "pubDate": "2026-09-28T09:44",
+        "title": "AI Didn’t Make Programming Easier. It Just Made It Differently Difficult",
+        "link": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+        "pubDate": "2026-09-29T09:40",
         "feedId": "lobsters"
       },
       {
-        "title": "State of the (Tagged) Union Address by Andrew Kelley",
-        "link": "https://www.youtube.com/watch?v=zwi5b5xSsKA",
-        "pubDate": "2026-09-28T20:35",
+        "title": "Yes, no AI is now a feature",
+        "link": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/",
+        "pubDate": "2026-09-28T09:58",
         "feedId": "lobsters"
       },
       {
-        "title": "When did Google get so weird?",
-        "link": "https://sancho.bearblog.dev/google-weird/",
-        "pubDate": "2026-09-28T09:16",
+        "title": "Two Kinds of SQL Query Builders",
+        "link": "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
+        "pubDate": "2026-09-29T20:47",
         "feedId": "lobsters"
       },
       {
-        "title": "What makes Lisp difficult to read?",
-        "link": "https://paultm.nl/paren-thesis",
-        "pubDate": "2026-09-28T04:44",
+        "title": "How I Built an iPhone App in Four Days with Opus 5.5",
+        "link": "https://projectautonomy.substack.com/p/i-built-an-iphone-app-in-four-days",
+        "pubDate": "2026-09-29T18:57",
         "feedId": "lobsters"
       }
     ]
@@ -193,7 +193,31 @@
     "id": "arstechnica",
     "items": [
       {
-        "title": "Apple worked with Trump admin to remove ICE-tracking apps, lawmaker says",
+        "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+        "link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+        "pubDate": "2026-09-29T21:14",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Trump ads paid for by US government allegedly violate anti-propaganda laws",
+        "link": "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/",
+        "pubDate": "2026-09-29T20:23",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
+        "link": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
+        "pubDate": "2026-09-29T18:34",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+        "link": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+        "pubDate": "2026-09-29T18:11",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Apple pressured to explain Trump role in ICE-tracking app removals",
         "link": "https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/",
         "pubDate": "2026-09-29T17:29",
         "feedId": "arstechnica"
@@ -257,36 +281,54 @@
         "link": "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/",
         "pubDate": "2026-09-28T20:31",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "To keep drug prices high, pharma has been piling up the patents",
-        "link": "https://arstechnica.com/health/2026/09/to-keep-drug-prices-high-pharma-has-been-piling-up-the-patents/",
-        "pubDate": "2026-09-28T19:53",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Trump cuts fuel economy standards back to 2014 levels",
-        "link": "https://arstechnica.com/cars/2026/09/trump-cuts-fuel-economy-standards-back-to-2014-levels/",
-        "pubDate": "2026-09-28T19:35",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Kalshi loses again as judges rule prediction markets must obey gambling laws",
-        "link": "https://arstechnica.com/tech-policy/2026/09/another-court-rules-kalshi-sports-bets-arent-swaps-says-states-can-crack-down/",
-        "pubDate": "2026-09-28T19:04",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
-        "link": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
-        "pubDate": "2026-09-28T18:04",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Boeing nabs $20B contract for Navy's futuristic fighter",
+        "link": "https://www.axios.com/2026/09/29/navy-boeing-fighter-contract-f47",
+        "pubDate": "2026-09-29T21:42",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump floats Jay Clayton as AI czar as he looks to fill the position in days",
+        "link": "https://www.axios.com/2026/09/29/ai-czar-white-house-trump-jay-clayton",
+        "pubDate": "2026-09-29T21:16",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump, top AI leaders agree to voluntary ​AI ​standards",
+        "link": "https://www.axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg",
+        "pubDate": "2026-09-29T20:50",
+        "feedId": "axios"
+      },
+      {
+        "title": "Supreme Court green-lights Trump's third-country deportations",
+        "link": "https://www.axios.com/2026/09/29/supreme-court-trump-third-country-deportations",
+        "pubDate": "2026-09-29T20:40",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump leans on SCOTUS shadow docket more than Biden, Obama and Bush combined",
+        "link": "https://www.axios.com/2026/09/29/trump-supreme-court-shadow-docket-41-applications",
+        "pubDate": "2026-09-29T19:55",
+        "feedId": "axios"
+      },
+      {
+        "title": "OpenAI hit with landmark lawsuit following Hugging Face hack",
+        "link": "https://www.axios.com/2026/09/29/openai-sued-hugging-face-breach",
+        "pubDate": "2026-09-29T19:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: Trump's hand-picked, taxpayer-funded ads about to ramp up",
+        "link": "https://www.axios.com/2026/09/29/trump-ads-taxpayer-funds",
+        "pubDate": "2026-09-29T18:43",
+        "feedId": "axios"
+      },
       {
         "title": "\"Love Me\" artist doesn't love Trump using his song",
         "link": "https://www.axios.com/2026/09/29/love-me-artist-trump-ad-cease-desist-jmsn",
@@ -333,48 +375,6 @@
         "title": "The AI industry's contradictions take center stage in Washington, Silicon Valley",
         "link": "https://www.axios.com/2026/09/29/washington-ai-regulation-openai-devday-anthropic",
         "pubDate": "2026-09-29T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Senate passes sweeping college sports package",
-        "link": "https://www.axios.com/2026/09/29/protect-college-sports-act-nil-senate",
-        "pubDate": "2026-09-29T02:09",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump offers Iran economic relief for concrete nuclear concessions",
-        "link": "https://www.axios.com/2026/09/28/trump-iran-war-sanctions-blockade-nuclear",
-        "pubDate": "2026-09-28T21:58",
-        "feedId": "axios"
-      },
-      {
-        "title": "Nvidia says new tool can contain rogue AI agents in \"milliseconds\"",
-        "link": "https://www.axios.com/2026/09/28/nvidia-ai-agent-safety",
-        "pubDate": "2026-09-28T21:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "Pope Leo rejects AI \"fake news\" claims after Trump calls fears a \"hoax\"",
-        "link": "https://www.axios.com/2026/09/28/pope-leo-ai-fears-fake-news-trump",
-        "pubDate": "2026-09-28T21:12",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: Hegseth directs Defense Dept. to fight foreigners who \"meddle\" in U.S. elections",
-        "link": "https://www.axios.com/2026/09/28/hegseth-elections-security-order",
-        "pubDate": "2026-09-28T19:48",
-        "feedId": "axios"
-      },
-      {
-        "title": "Kash Patel's FBI loses another top official",
-        "link": "https://www.axios.com/2026/09/28/fbi-kash-patel-andrew-bailey-leaves",
-        "pubDate": "2026-09-28T18:09",
-        "feedId": "axios"
-      },
-      {
-        "title": "Florida asks for order to halt ChatGPT development",
-        "link": "https://www.axios.com/2026/09/28/florida-openai-chatgpt-injunction-uthmeier",
-        "pubDate": "2026-09-28T16:43",
         "feedId": "axios"
       }
     ]
