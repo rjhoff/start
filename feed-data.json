@@ -1,22 +1,118 @@
 {
   "hn": {
     "id": "hn",
-    "error": "Request timed out after 10000ms",
-    "items": []
+    "items": [
+      {
+        "title": "Tcl/Tk 9.1 Released",
+        "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+        "pubDate": "2026-09-29T17:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "Dots",
+        "link": "https://openai.com/index/introducing-dots/",
+        "pubDate": "2026-09-29T17:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "GPT 6.1 Sol",
+        "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
+        "pubDate": "2026-09-29T17:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+        "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+        "pubDate": "2026-09-29T16:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: NSL – WSL for Linux",
+        "link": "https://frostyard.github.io/nsl/",
+        "pubDate": "2026-09-29T14:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "macOS Golden Gate Is a Buggy Mess",
+        "link": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
+        "pubDate": "2026-09-29T14:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "Google ending ChromeOS support two years early",
+        "link": "https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674",
+        "pubDate": "2026-09-29T14:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "How Delhi cut electricity loss from 50 to 5 percent",
+        "link": "https://spectrum.ieee.org/delhi-electricity-loss",
+        "pubDate": "2026-09-29T12:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Without the Hot Air",
+        "link": "https://www.withouthotair.com/",
+        "pubDate": "2026-09-29T12:38",
+        "feedId": "hn"
+      },
+      {
+        "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
+        "link": "https://www.cbc.ca/lite/story/9.7361622",
+        "pubDate": "2026-09-29T12:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",
+        "link": "https://jevstiller.pages.dev/posts/the-guarantee/",
+        "pubDate": "2026-09-29T12:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
+        "link": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
+        "pubDate": "2026-09-29T11:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "You are no longer invited to dinner",
+        "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+        "pubDate": "2026-09-29T11:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "Jeeves. Reasoning improves Jev-like decision models",
+        "link": "https://github.com/PostHog/jeeves",
+        "pubDate": "2026-09-29T11:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+        "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+        "pubDate": "2026-09-29T09:03",
+        "feedId": "hn"
+      }
+    ]
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
       {
-        "title": "Bill Gates tries to install Movie Maker",
-        "link": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
-        "pubDate": "2026-09-28T16:18",
+        "title": "CoW — a stacking window manager for Wayland",
+        "link": "https://cow-wm.codeberg.page/cow/",
+        "pubDate": "2026-09-29T09:07",
         "feedId": "lobsters"
       },
       {
-        "title": "What Would A Serious AI Product Look Like?",
-        "link": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-        "pubDate": "2026-09-28T17:01",
+        "title": "Pining for Arc Downcasting in Rust",
+        "link": "https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/",
+        "pubDate": "2026-09-29T15:35",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Bill Gates tries to install Movie Maker",
+        "link": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+        "pubDate": "2026-09-28T16:18",
         "feedId": "lobsters"
       },
       {
@@ -26,15 +122,39 @@
         "feedId": "lobsters"
       },
       {
+        "title": "What Would A Serious AI Product Look Like?",
+        "link": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+        "pubDate": "2026-09-28T17:01",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Aho-Corasick Algorithm",
+        "link": "https://compiler.club/aho-corasick/",
+        "pubDate": "2026-09-29T14:49",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Switching To Emacs as a Neovim User",
+        "link": "https://eliasebner.com/blog/thoughts/switching-to-emacs-as-a-neovim-user/",
+        "pubDate": "2026-09-29T03:41",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Yes, no AI is now a feature",
         "link": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/",
         "pubDate": "2026-09-28T09:58",
         "feedId": "lobsters"
       },
       {
-        "title": "CoW — a stacking window manager for Wayland",
-        "link": "https://cow-wm.codeberg.page/cow/",
-        "pubDate": "2026-09-29T09:07",
+        "title": "AI Didn’t Make Programming Easier. It Just Made It Differently Difficult",
+        "link": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+        "pubDate": "2026-09-29T09:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "MotifCentral - All Things Motif/Xt/Xlib",
+        "link": "https://motif-central.org/",
+        "pubDate": "2026-09-29T09:01",
         "feedId": "lobsters"
       },
       {
@@ -50,15 +170,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "When did Google get so weird?",
-        "link": "https://sancho.bearblog.dev/google-weird/",
-        "pubDate": "2026-09-28T09:16",
-        "feedId": "lobsters"
-      },
-      {
         "title": "State of the (Tagged) Union Address by Andrew Kelley",
         "link": "https://www.youtube.com/watch?v=zwi5b5xSsKA",
         "pubDate": "2026-09-28T20:35",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "When did Google get so weird?",
+        "link": "https://sancho.bearblog.dev/google-weird/",
+        "pubDate": "2026-09-28T09:16",
         "feedId": "lobsters"
       },
       {
@@ -66,42 +186,48 @@
         "link": "https://paultm.nl/paren-thesis",
         "pubDate": "2026-09-28T04:44",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Switching To Emacs as a Neovim User",
-        "link": "https://eliasebner.com/blog/thoughts/switching-to-emacs-as-a-neovim-user/",
-        "pubDate": "2026-09-29T03:41",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "HardenedBSD August / September 2026 Status Report",
-        "link": "https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report",
-        "pubDate": "2026-09-28T16:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Rickrolling with a Pharmacy cross",
-        "link": "https://hugoarnal.com/blog/rickroll-pharmacy-cross/",
-        "pubDate": "2026-09-28T07:52",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "“They had no concept of a duty of care to their users.”",
-        "link": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
-        "pubDate": "2026-09-27T14:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "AI Didn’t Make Programming Easier. It Just Made It Differently Difficult",
-        "link": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
-        "pubDate": "2026-09-29T09:40",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Apple worked with Trump admin to remove ICE-tracking apps, lawmaker says",
+        "link": "https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/",
+        "pubDate": "2026-09-29T17:29",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "This study looks at how and with whom connected cars share your data",
+        "link": "https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/",
+        "pubDate": "2026-09-29T14:49",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Less protein for maggots means longer lives for fruit flies",
+        "link": "https://arstechnica.com/science/2026/09/fruit-flies-remember-their-larval-diet-which-influences-their-longevity/",
+        "pubDate": "2026-09-29T14:39",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+        "link": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+        "pubDate": "2026-09-29T14:22",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+        "link": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+        "pubDate": "2026-09-29T14:10",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
+        "link": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
+        "pubDate": "2026-09-29T13:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
         "link": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/",
@@ -155,42 +281,6 @@
         "link": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
         "pubDate": "2026-09-28T18:04",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Scientists solve 1840s space weather mystery",
-        "link": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
-        "pubDate": "2026-09-28T17:56",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "F1 in Azerbaijan: That was almost a close-run thing",
-        "link": "https://arstechnica.com/cars/2026/09/f1-in-azerbaijan-that-was-almost-a-close-run-thing/",
-        "pubDate": "2026-09-28T17:41",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-        "link": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
-        "pubDate": "2026-09-28T16:43",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "NASA 'troubleshooting' transporter for space station's robotic arm [Updated]",
-        "link": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/",
-        "pubDate": "2026-09-28T16:03",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
-        "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
-        "pubDate": "2026-09-28T11:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "How the Smithsonian became the latest front in Trump’s culture war",
-        "link": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
-        "pubDate": "2026-09-27T11:00",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -198,7 +288,31 @@
     "id": "axios",
     "items": [
       {
-        "title": "The solution to the AI safety crisis is more AI",
+        "title": "\"Love Me\" artist doesn't love Trump using his song",
+        "link": "https://www.axios.com/2026/09/29/love-me-artist-trump-ad-cease-desist-jmsn",
+        "pubDate": "2026-09-29T17:28",
+        "feedId": "axios"
+      },
+      {
+        "title": "Meet OpenAI's \"dots\" — a new AI assistant meant to take on Meta's Muse.",
+        "link": "https://www.axios.com/2026/09/29/openai-dots-ai-assistant-devday",
+        "pubDate": "2026-09-29T17:15",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: OpenAI's annual recurring revenue nears $70B",
+        "link": "https://www.axios.com/2026/09/29/scoop-openais-annual-recurring-revenue-nears-70b",
+        "pubDate": "2026-09-29T14:15",
+        "feedId": "axios"
+      },
+      {
+        "title": "Exclusive: Full list of attendees at White House AI lunch",
+        "link": "https://www.axios.com/2026/09/29/trump-ai-meeting-list-ceos-johnson",
+        "pubDate": "2026-09-29T13:40",
+        "feedId": "axios"
+      },
+      {
+        "title": "The future is AI vs. AI",
         "link": "https://www.axios.com/2026/09/29/the-future-is-ai-vs-ai",
         "pubDate": "2026-09-29T09:50",
         "feedId": "axios"
@@ -207,6 +321,12 @@
         "title": "\"Brace for losing everything\": Farm crisis fears grip GOP in Iowa",
         "link": "https://www.axios.com/2026/09/29/iowa-midterms-farms-trump",
         "pubDate": "2026-09-29T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "Midterm pocketbook pain bites Trump",
+        "link": "https://www.axios.com/2026/09/29/midterms-economy-inflation-wages",
+        "pubDate": "2026-09-29T09:10",
         "feedId": "axios"
       },
       {
@@ -255,36 +375,6 @@
         "title": "Florida asks for order to halt ChatGPT development",
         "link": "https://www.axios.com/2026/09/28/florida-openai-chatgpt-injunction-uthmeier",
         "pubDate": "2026-09-28T16:43",
-        "feedId": "axios"
-      },
-      {
-        "title": "The economic legacy of the Biden immigration surge",
-        "link": "https://www.axios.com/2026/09/28/economic-legacy-biden-immigration-surge",
-        "pubDate": "2026-09-28T16:27",
-        "feedId": "axios"
-      },
-      {
-        "title": "SpaceX brings Starship home early after first orbital flight",
-        "link": "https://www.axios.com/2026/09/28/spacex-starship-orbital-flight",
-        "pubDate": "2026-09-28T16:13",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"Window for action may close\" if AI begins improving itself, AI pioneers warn",
-        "link": "https://www.axios.com/2026/09/28/ai-pioneers-intelligence-explosion",
-        "pubDate": "2026-09-28T15:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: AI giants, unions join forces for data center fight",
-        "link": "https://www.axios.com/2026/09/28/ai-industry-unions-data-centers",
-        "pubDate": "2026-09-28T10:57",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: Mike Johnson to travel to 22 states in final midterm sprint",
-        "link": "https://www.axios.com/2026/09/28/mike-johnson-midterms-house-republicans",
-        "pubDate": "2026-09-28T10:00",
         "feedId": "axios"
       }
     ]
