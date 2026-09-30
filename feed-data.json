@@ -3,93 +3,93 @@
     "id": "hn",
     "items": [
       {
+        "title": "EDG C++ front-end goes public",
+        "link": "https://edgcpp.org/#transition",
+        "pubDate": "2026-09-30T19:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "Surprisingly Complex Waves Reveal the Brain's Inner Workings",
+        "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+        "pubDate": "2026-09-30T19:04",
+        "feedId": "hn"
+      },
+      {
+        "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+        "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+        "pubDate": "2026-09-30T18:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+        "link": "https://github.com/magnitudedev/magnitude",
+        "pubDate": "2026-09-30T17:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "Commit description as a thinking tool",
+        "link": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+        "pubDate": "2026-09-30T17:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+        "link": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+        "pubDate": "2026-09-30T17:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603",
+        "pubDate": "2026-09-30T15:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
+        "link": "https://strata.do/",
+        "pubDate": "2026-09-30T14:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "SDF Public Access Unix System ... est. 1987",
+        "link": "https://sdf.org/",
+        "pubDate": "2026-09-30T14:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "A brief history of the Bloomberg terminal",
+        "link": "https://spectrum.ieee.org/bloomberg-terminal",
+        "pubDate": "2026-09-30T14:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "What TLA+ can and can't check",
+        "link": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+        "pubDate": "2026-09-30T13:57",
+        "feedId": "hn"
+      },
+      {
         "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
         "link": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
         "pubDate": "2026-09-30T13:50",
         "feedId": "hn"
       },
       {
-        "title": "Upgrade your desktop: Ubuntu 26.04.1 LTS is now available",
-        "link": "https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts",
-        "pubDate": "2026-09-30T13:36",
+        "title": "The last time my family was replaced by technology",
+        "link": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+        "pubDate": "2026-09-30T13:06",
         "feedId": "hn"
       },
       {
-        "title": "Most data centers refusing to say how much water, electricity they use",
-        "link": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
-        "pubDate": "2026-09-30T10:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "Pi.dev: You Said No MCP",
+        "title": "You said no MCP",
         "link": "https://earendil.com/posts/you-said-no-mcp/",
         "pubDate": "2026-09-30T09:55",
         "feedId": "hn"
       },
       {
-        "title": "September 2026: The world today, as seen by one Polish guy",
-        "link": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
-        "pubDate": "2026-09-30T07:12",
-        "feedId": "hn"
-      },
-      {
-        "title": "RSS Feeds for Last.fm",
-        "link": "https://lfm.xiffy.nl/",
-        "pubDate": "2026-09-30T03:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Floppy Emu Hardware Failure Analysis Results",
-        "link": "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/",
-        "pubDate": "2026-09-29T23:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
-        "link": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river",
-        "pubDate": "2026-09-29T23:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-        "link": "https://github.com/ninjahawk/livenerf",
-        "pubDate": "2026-09-29T22:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-        "link": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-        "pubDate": "2026-09-29T19:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-        "link": "https://space.bl2.net/",
-        "pubDate": "2026-09-29T19:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "Vermont replacing power plants with home batteries",
-        "link": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
-        "pubDate": "2026-09-29T18:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "Dots: Always-on agents",
-        "link": "https://openai.com/index/introducing-dots/",
-        "pubDate": "2026-09-29T17:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-        "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
-        "pubDate": "2026-09-29T17:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "Needed 1+1, built a functional programming language",
-        "link": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
-        "pubDate": "2026-09-29T16:18",
+        "title": "LinkedIn Larpmaxxing",
+        "link": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
+        "pubDate": "2026-09-30T04:19",
         "feedId": "hn"
       }
     ]
@@ -98,51 +98,21 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "How to speed up the Rust compiler in September 2026",
-        "link": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-        "pubDate": "2026-09-30T02:08",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The Cuckoo's Egg",
         "link": "https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)",
         "pubDate": "2026-09-30T08:48",
         "feedId": "lobsters"
       },
       {
-        "title": "Pining for Arc Downcasting in Rust",
-        "link": "https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/",
-        "pubDate": "2026-09-29T15:35",
+        "title": "Tcl/Tk 9.1",
+        "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+        "pubDate": "2026-09-30T15:27",
         "feedId": "lobsters"
       },
       {
-        "title": "Differences between `foldl` and `foldr`",
-        "link": "https://blog.haskell.org/foldl-and-foldr/",
-        "pubDate": "2026-09-30T12:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "CoW — a stacking window manager for Wayland",
-        "link": "https://cow-wm.codeberg.page/cow/",
-        "pubDate": "2026-09-29T09:07",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Deser: Rethinking Rust Serialization",
-        "link": "https://lucumr.pocoo.org/2026/9/29/deser/",
-        "pubDate": "2026-09-29T22:02",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Two Kinds of SQL Query Builders",
-        "link": "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
-        "pubDate": "2026-09-29T20:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Only Intuitive Interface Is The Nipple",
-        "link": "https://www.greenend.org.uk/rjk/misc/nipple.html",
-        "pubDate": "2026-09-30T03:45",
+        "title": "Hanami, Why?: Introductions",
+        "link": "https://aaronmallen.me/writing/hanami-why-introductions",
+        "pubDate": "2026-09-30T15:55",
         "feedId": "lobsters"
       },
       {
@@ -152,27 +122,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Hardly Promethean",
-        "link": "https://jardo.dev/hardly-promethean",
-        "pubDate": "2026-09-30T02:10",
+        "title": "Differences between `foldl` and `foldr`",
+        "link": "https://blog.haskell.org/foldl-and-foldr/",
+        "pubDate": "2026-09-30T12:47",
         "feedId": "lobsters"
       },
       {
-        "title": "Aho-Corasick Algorithm",
-        "link": "https://compiler.club/aho-corasick/",
-        "pubDate": "2026-09-29T14:49",
+        "title": "How to speed up the Rust compiler in September 2026",
+        "link": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+        "pubDate": "2026-09-30T02:08",
         "feedId": "lobsters"
       },
       {
-        "title": "Nura (postmarketOS): The road to daily-drivable mainline phones",
-        "link": "https://postmarketos.org/blog/2026/09/29/road-to-main-category/",
-        "pubDate": "2026-09-29T19:20",
+        "title": "Turbo Haskell",
+        "link": "https://comonad.com/reader/2026/turbo-haskell/",
+        "pubDate": "2026-09-30T13:35",
         "feedId": "lobsters"
       },
       {
-        "title": "Dirty Optimization Secrets (C for Playdate)",
-        "link": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011",
-        "pubDate": "2026-09-30T05:05",
+        "title": "Pining for Arc Downcasting in Rust",
+        "link": "https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/",
+        "pubDate": "2026-09-29T15:35",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +152,39 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Shell & Email",
-        "link": "https://www.machtiani.chat/blogs/the-shell",
-        "pubDate": "2026-09-29T20:14",
+        "title": "Deser: Rethinking Rust Serialization",
+        "link": "https://lucumr.pocoo.org/2026/9/29/deser/",
+        "pubDate": "2026-09-29T22:02",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "CoW — a stacking window manager for Wayland",
+        "link": "https://cow-wm.codeberg.page/cow/",
+        "pubDate": "2026-09-29T09:07",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Coding is not solved",
+        "link": "https://blog.alexewerlof.com/p/coding-is-not-solved",
+        "pubDate": "2026-09-30T09:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Two Kinds of SQL Query Builders",
+        "link": "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
+        "pubDate": "2026-09-29T20:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Branch Target Reuse: Spectre-v2 Attacks in JIT Engines",
+        "link": "https://www.vusec.net/projects/btr/",
+        "pubDate": "2026-09-30T18:06",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Dirty Optimization Secrets (C for Playdate)",
+        "link": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011",
+        "pubDate": "2026-09-30T05:05",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,60 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Lawsuit demands OpenAI halt unsafe development that caused Hugging Face hack",
+        "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+        "pubDate": "2026-09-30T18:25",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "So what's happening with Russia's new, long-delayed crewed spacecraft?",
+        "link": "https://arstechnica.com/space/2026/09/so-whats-happening-with-russias-new-long-delayed-crewed-spacecraft/",
+        "pubDate": "2026-09-30T16:48",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google's early attempt to pay websites for AI answers is struggling",
+        "link": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
+        "pubDate": "2026-09-30T16:03",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google figures out how to watermark AI-designed proteins",
+        "link": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+        "pubDate": "2026-09-30T15:54",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "The PS5 hacking scene just took a big leap forward",
+        "link": "https://arstechnica.com/gaming/2026/09/ps5-jailbreaks-just-got-a-lot-more-useful/",
+        "pubDate": "2026-09-30T15:12",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Discord gives more advertisers more tools to target its users",
+        "link": "https://arstechnica.com/gadgets/2026/09/discord-gives-advertisers-more-tools-to-target-its-users/",
+        "pubDate": "2026-09-30T15:01",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "What butterfly wings have in common with barbershop poles",
+        "link": "https://arstechnica.com/science/2026/09/what-butterfly-wings-have-in-common-with-barbershop-poles/",
+        "pubDate": "2026-09-30T15:00",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "BMW reveals US 3 series pricing: The EV carries a hefty premium",
+        "link": "https://arstechnica.com/cars/2026/09/bmw-opens-us-order-books-for-the-new-gas-and-electric-3-series/",
+        "pubDate": "2026-09-30T14:42",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "OpenAI delays IPO over AI safety concerns",
+        "link": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+        "pubDate": "2026-09-30T14:06",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Cloudflare plans to issue quantum-safe TLS certificates",
         "link": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
@@ -227,66 +281,48 @@
         "link": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
         "pubDate": "2026-09-29T18:34",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
-        "link": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
-        "pubDate": "2026-09-29T18:11",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Apple pressured to explain Trump role in ICE-tracking app removals",
-        "link": "https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/",
-        "pubDate": "2026-09-29T17:29",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "This study looks at how and with whom connected cars share your data",
-        "link": "https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/",
-        "pubDate": "2026-09-29T14:49",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Less protein for maggots means longer lives for fruit flies",
-        "link": "https://arstechnica.com/science/2026/09/fruit-flies-remember-their-larval-diet-which-influences-their-longevity/",
-        "pubDate": "2026-09-29T14:39",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "OpenAI says planned GPT-6.1 is too insecure to release",
-        "link": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
-        "pubDate": "2026-09-29T14:22",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Anthropic’s IPO pitch includes a warning about human extinction",
-        "link": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
-        "pubDate": "2026-09-29T14:10",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
-        "link": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
-        "pubDate": "2026-09-29T13:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
-        "link": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/",
-        "pubDate": "2026-09-28T22:24",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
-        "link": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
-        "pubDate": "2026-09-28T21:49",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Trump's DOJ takes its fight with federal judges to Minnesota",
+        "link": "https://www.axios.com/2026/09/30/doj-misconduct-complaint-minnesota-judges",
+        "pubDate": "2026-09-30T19:35",
+        "feedId": "axios"
+      },
+      {
+        "title": "Jack Smith faces new lawsuit over congressional phone records",
+        "link": "https://www.axios.com/2026/09/30/jack-smith-arctic-frost-phone-records-lawsuit-blackburn",
+        "pubDate": "2026-09-30T18:43",
+        "feedId": "axios"
+      },
+      {
+        "title": "Fed watchdog clears former chair Powell in renovation probe",
+        "link": "https://www.axios.com/2026/09/30/fed-powell-ig-building",
+        "pubDate": "2026-09-30T18:13",
+        "feedId": "axios"
+      },
+      {
+        "title": "944 children abused by Catholic clergy, Mass. AG says — but no new charges",
+        "link": "https://www.axios.com/2026/09/30/massachusetts-catholic-clergy-sex-abuse-report",
+        "pubDate": "2026-09-30T17:48",
+        "feedId": "axios"
+      },
+      {
+        "title": "Exclusive: Cornell rape allegations fuel House Democratic women's Title IX push",
+        "link": "https://www.axios.com/2026/09/30/cornell-rape-allegations-house-democratic-women-title-ix",
+        "pubDate": "2026-09-30T16:47",
+        "feedId": "axios"
+      },
+      {
+        "title": "Tennessee inmate Christa Pike's execution halted an hour beforehand",
+        "link": "https://www.axios.com/local/nashville/2026/09/30/christa-pike-execution-stayed-appeals-court",
+        "pubDate": "2026-09-30T14:58",
+        "feedId": "axios"
+      },
       {
         "title": "Trump's AI \"constitution\" crowns day of accelerating ambition",
         "link": "https://www.axios.com/2026/09/30/ai-constitution-trump-white-house",
@@ -339,42 +375,6 @@
         "title": "Supreme Court green-lights Trump's third-country deportations",
         "link": "https://www.axios.com/2026/09/29/supreme-court-trump-third-country-deportations",
         "pubDate": "2026-09-29T20:40",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump leans on SCOTUS shadow docket more than Biden, Obama and Bush combined",
-        "link": "https://www.axios.com/2026/09/29/trump-supreme-court-shadow-docket-41-applications",
-        "pubDate": "2026-09-29T19:55",
-        "feedId": "axios"
-      },
-      {
-        "title": "OpenAI hit with landmark lawsuit following Hugging Face hack",
-        "link": "https://www.axios.com/2026/09/29/openai-sued-hugging-face-breach",
-        "pubDate": "2026-09-29T19:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Trump's hand-picked, taxpayer-funded ads about to ramp up",
-        "link": "https://www.axios.com/2026/09/29/trump-ads-taxpayer-funds",
-        "pubDate": "2026-09-29T18:43",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"Love Me\" artist doesn't love Trump using his song",
-        "link": "https://www.axios.com/2026/09/29/love-me-artist-trump-ad-cease-desist-jmsn",
-        "pubDate": "2026-09-29T17:28",
-        "feedId": "axios"
-      },
-      {
-        "title": "Meet OpenAI's \"dots\" — a new AI assistant meant to take on Meta's Muse.",
-        "link": "https://www.axios.com/2026/09/29/openai-dots-ai-assistant-devday",
-        "pubDate": "2026-09-29T17:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: OpenAI's annual recurring revenue nears $70B",
-        "link": "https://www.axios.com/2026/09/29/scoop-openais-annual-recurring-revenue-nears-70b",
-        "pubDate": "2026-09-29T14:15",
         "feedId": "axios"
       }
     ]
