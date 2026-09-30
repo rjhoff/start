@@ -3,27 +3,33 @@
     "id": "hn",
     "items": [
       {
+        "title": "How our vibe coded website looks like a designer made it",
+        "link": "https://railcode.dev/blog/vibe-coded-website",
+        "pubDate": "2026-09-29T22:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+        "link": "https://github.com/ninjahawk/livenerf",
+        "pubDate": "2026-09-29T22:36",
+        "feedId": "hn"
+      },
+      {
+        "title": "UnoDOS",
+        "link": "https://github.com/hmofet/unodos",
+        "pubDate": "2026-09-29T22:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "Deser: Rethinking Rust Serialization",
+        "link": "https://lucumr.pocoo.org/2026/9/29/deser/",
+        "pubDate": "2026-09-29T21:48",
+        "feedId": "hn"
+      },
+      {
         "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
         "link": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
         "pubDate": "2026-09-29T19:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "Memory Companies Have Destroyed the Consumer Market",
-        "link": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
-        "pubDate": "2026-09-29T19:27",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
-        "link": "https://github.com/lostmsu/TurboGPT",
-        "pubDate": "2026-09-29T19:20",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nicholas Polson has authored 258 academic papers in 2026 (so far)",
-        "link": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
-        "pubDate": "2026-09-29T19:15",
         "feedId": "hn"
       },
       {
@@ -33,9 +39,21 @@
         "feedId": "hn"
       },
       {
-        "title": "GLM-5.3 and the spread of advanced cyber capabilities",
-        "link": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
-        "pubDate": "2026-09-29T17:31",
+        "title": "We’re forgetting what darkness feels like",
+        "link": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
+        "pubDate": "2026-09-29T18:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "Vermont replacing power plants with home batteries",
+        "link": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+        "pubDate": "2026-09-29T18:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: A working 3D model of an Enigma machine",
+        "link": "https://enigma.design",
+        "pubDate": "2026-09-29T17:15",
         "feedId": "hn"
       },
       {
@@ -45,33 +63,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Dots: Always-on agents",
-        "link": "https://openai.com/index/introducing-dots/",
-        "pubDate": "2026-09-29T17:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "DevDay 2026 Recap",
-        "link": "https://openai.com/index/devday-2026-recap/",
-        "pubDate": "2026-09-29T17:07",
-        "feedId": "hn"
-      },
-      {
         "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
         "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
         "pubDate": "2026-09-29T17:06",
         "feedId": "hn"
       },
       {
-        "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
-        "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-        "pubDate": "2026-09-29T16:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "What if Jev spoke Arrow?",
-        "link": "https://columnar.tech/blog/what-if-jev-spoke-arrow/",
-        "pubDate": "2026-09-29T16:25",
+        "title": "Needed 1+1, built a functional programming language",
+        "link": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
+        "pubDate": "2026-09-29T16:18",
         "feedId": "hn"
       },
       {
@@ -81,15 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "America.gov",
-        "link": "https://america.gov/",
-        "pubDate": "2026-09-29T14:04",
+        "title": "Show HN: NSL – WSL for Linux",
+        "link": "https://frostyard.github.io/nsl/",
+        "pubDate": "2026-09-29T14:51",
         "feedId": "hn"
       },
       {
-        "title": "Ask HN: What are you reading?",
-        "link": "https://news.ycombinator.com/item?id=49893157",
-        "pubDate": "2026-09-29T13:44",
+        "title": "America.gov",
+        "link": "https://america.gov/",
+        "pubDate": "2026-09-29T14:04",
         "feedId": "hn"
       }
     ]
@@ -122,6 +122,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Nura (postmarketOS): The road to daily-drivable mainline phones",
+        "link": "https://postmarketos.org/blog/2026/09/29/road-to-main-category/",
+        "pubDate": "2026-09-29T19:20",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Deser: Rethinking Rust Serialization",
+        "link": "https://lucumr.pocoo.org/2026/9/29/deser/",
+        "pubDate": "2026-09-29T22:02",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The Shell & Email",
         "link": "https://www.machtiani.chat/blogs/the-shell",
         "pubDate": "2026-09-29T20:14",
@@ -134,33 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Nura (postmarketOS): The road to daily-drivable mainline phones",
-        "link": "https://postmarketos.org/blog/2026/09/29/road-to-main-category/",
-        "pubDate": "2026-09-29T19:20",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Switching To Emacs as a Neovim User",
-        "link": "https://eliasebner.com/blog/thoughts/switching-to-emacs-as-a-neovim-user/",
-        "pubDate": "2026-09-29T03:41",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What Would A Serious AI Product Look Like?",
-        "link": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-        "pubDate": "2026-09-28T17:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "MotifCentral - All Things Motif/Xt/Xlib",
-        "link": "https://motif-central.org/",
-        "pubDate": "2026-09-29T09:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Getting root on OnePlus 15 from an untrusted app",
-        "link": "https://blog.nns.ee/2026/09/24/oneplus-root/",
-        "pubDate": "2026-09-29T17:25",
+        "title": "Two Kinds of SQL Query Builders",
+        "link": "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
+        "pubDate": "2026-09-29T20:47",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +158,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Switching To Emacs as a Neovim User",
+        "link": "https://eliasebner.com/blog/thoughts/switching-to-emacs-as-a-neovim-user/",
+        "pubDate": "2026-09-29T03:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "MotifCentral - All Things Motif/Xt/Xlib",
+        "link": "https://motif-central.org/",
+        "pubDate": "2026-09-29T09:01",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What Would A Serious AI Product Look Like?",
+        "link": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+        "pubDate": "2026-09-28T17:01",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Getting root on OnePlus 15 from an untrusted app",
+        "link": "https://blog.nns.ee/2026/09/24/oneplus-root/",
+        "pubDate": "2026-09-29T17:25",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Yes, no AI is now a feature",
         "link": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/",
         "pubDate": "2026-09-28T09:58",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Two Kinds of SQL Query Builders",
-        "link": "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
-        "pubDate": "2026-09-29T20:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How I Built an iPhone App in Four Days with Opus 5.5",
-        "link": "https://projectautonomy.substack.com/p/i-built-an-iphone-app-in-four-days",
-        "pubDate": "2026-09-29T18:57",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
+        "link": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
+        "pubDate": "2026-09-29T22:30",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Protests against OpenAI get increasingly creative",
+        "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+        "pubDate": "2026-09-29T21:52",
+        "feedId": "arstechnica"
+      },
       {
         "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
         "link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
@@ -269,24 +281,18 @@
         "link": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
         "pubDate": "2026-09-28T21:26",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
-        "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
-        "pubDate": "2026-09-28T20:49",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "New device captures carbon dioxide by pumping it across a battery",
-        "link": "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/",
-        "pubDate": "2026-09-28T20:31",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "U.S.-Iran talks yield little, raising odds of renewed combat",
+        "link": "https://www.axios.com/2026/09/29/trump-iran-war-qatar-diplomacy",
+        "pubDate": "2026-09-29T22:27",
+        "feedId": "axios"
+      },
       {
         "title": "Boeing nabs $20B contract for Navy's futuristic fighter",
         "link": "https://www.axios.com/2026/09/29/navy-boeing-fighter-contract-f47",
@@ -369,12 +375,6 @@
         "title": "Midterm pocketbook pain bites Trump",
         "link": "https://www.axios.com/2026/09/29/midterms-economy-inflation-wages",
         "pubDate": "2026-09-29T09:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "The AI industry's contradictions take center stage in Washington, Silicon Valley",
-        "link": "https://www.axios.com/2026/09/29/washington-ai-regulation-openai-devday-anthropic",
-        "pubDate": "2026-09-29T09:00",
         "feedId": "axios"
       }
     ]
