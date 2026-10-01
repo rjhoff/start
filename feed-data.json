@@ -3,21 +3,15 @@
     "id": "hn",
     "items": [
       {
-        "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
-        "link": "https://github.com/TantrixAuto/yantra",
-        "pubDate": "2026-10-01T02:30",
+        "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+        "link": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+        "pubDate": "2026-10-01T10:21",
         "feedId": "hn"
       },
       {
-        "title": "Cities Are Forced to Funnel License Plate Data to a Federal Surveillance Program",
-        "link": "https://www.404media.co/how-cities-are-forced-to-funnel-license-plate-data-to-a-massive-federal-surveillance-program-hidta/",
-        "pubDate": "2026-10-01T02:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Jevotron: Multiple Jev integrations from the command line",
-        "link": "https://cmungall.github.io/jevotron/",
-        "pubDate": "2026-10-01T02:12",
+        "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
+        "link": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
+        "pubDate": "2026-10-01T09:48",
         "feedId": "hn"
       },
       {
@@ -30,12 +24,6 @@
         "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
         "link": "https://www.thespacereview.com/article/4951/1",
         "pubDate": "2026-09-30T22:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Functional Ultrasound Imaging (fUSI) from scratch",
-        "link": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
-        "pubDate": "2026-09-30T20:06",
         "feedId": "hn"
       },
       {
@@ -91,6 +79,18 @@
         "link": "https://www.software3d.com/MillersMonster.php",
         "pubDate": "2026-09-30T17:00",
         "feedId": "hn"
+      },
+      {
+        "title": "Coltrane's Tone Circle",
+        "link": "https://jtomschroeder.com/blog/tone-circle/",
+        "pubDate": "2026-09-30T14:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "A brief history of the Bloomberg terminal",
+        "link": "https://spectrum.ieee.org/bloomberg-terminal",
+        "pubDate": "2026-09-30T14:34",
+        "feedId": "hn"
       }
     ]
   },
@@ -98,27 +98,15 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "IANA's email about why example.com changed",
+        "link": "https://www.oliverdunk.com/2026/09/30/iana-reply",
+        "pubDate": "2026-10-01T08:47",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Hanami, Why?: Introductions",
         "link": "https://aaronmallen.me/writing/hanami-why-introductions",
         "pubDate": "2026-09-30T15:55",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What TLA+ can and can't check",
-        "link": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
-        "pubDate": "2026-09-30T14:02",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Tcl/Tk 9.1",
-        "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-        "pubDate": "2026-09-30T15:27",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Cuckoo's Egg",
-        "link": "https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)",
-        "pubDate": "2026-09-30T08:48",
         "feedId": "lobsters"
       },
       {
@@ -128,21 +116,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Differences between `foldl` and `foldr`",
-        "link": "https://blog.haskell.org/foldl-and-foldr/",
-        "pubDate": "2026-09-30T12:47",
+        "title": "Reviving Valve's 15-year-old e-book",
+        "link": "https://nikolan.net/posts/portal2/",
+        "pubDate": "2026-10-01T06:02",
         "feedId": "lobsters"
       },
       {
-        "title": "Finding Bugs",
-        "link": "https://matklad.github.io/2026/09/19/finding-bugs.html",
-        "pubDate": "2026-09-30T19:57",
+        "title": "Who's hiring? Q4 2026",
+        "link": "https://lobste.rs/s/bmcnwp/who_s_hiring_q4_2026",
+        "pubDate": "2026-10-01T10:03",
         "feedId": "lobsters"
       },
       {
-        "title": "Rust to WGSL transpiler `wgsl-rs` released",
-        "link": "https://renderling.xyz/articles/wgsl-rs-beta-release.html",
-        "pubDate": "2026-10-01T00:13",
+        "title": "Tcl/Tk 9.1",
+        "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+        "pubDate": "2026-09-30T15:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What TLA+ can and can't check",
+        "link": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+        "pubDate": "2026-09-30T14:02",
         "feedId": "lobsters"
       },
       {
@@ -152,39 +146,45 @@
         "feedId": "lobsters"
       },
       {
-        "title": "We used a database as a message queue. Now we use Kafka",
-        "link": "https://www.tigrisdata.com/blog/quick-fdb-kafka/",
-        "pubDate": "2026-09-30T20:28",
+        "title": "Finding Bugs",
+        "link": "https://matklad.github.io/2026/09/19/finding-bugs.html",
+        "pubDate": "2026-09-30T19:57",
         "feedId": "lobsters"
       },
       {
-        "title": "How to speed up the Rust compiler in September 2026",
-        "link": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-        "pubDate": "2026-09-30T02:08",
+        "title": "The Cuckoo's Egg",
+        "link": "https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)",
+        "pubDate": "2026-09-30T08:48",
         "feedId": "lobsters"
       },
       {
-        "title": "Q2 2026 Backblaze Drive Stats: Hard Drive Failure Rates",
-        "link": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
-        "pubDate": "2026-09-30T14:28",
+        "title": "Typeclasses vs Modules",
+        "link": "https://sm2n.ca/articles/typeclasses-vs-modules/",
+        "pubDate": "2026-10-01T05:13",
         "feedId": "lobsters"
       },
       {
-        "title": "Turbo Haskell",
-        "link": "https://comonad.com/reader/2026/turbo-haskell/",
-        "pubDate": "2026-09-30T13:35",
+        "title": "Differences between `foldl` and `foldr`",
+        "link": "https://blog.haskell.org/foldl-and-foldr/",
+        "pubDate": "2026-09-30T12:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The AI Pascal’s Wager",
+        "link": "https://ploum.net/2026-10-01-pascal_wager.html",
+        "pubDate": "2026-10-01T02:03",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Rust to WGSL transpiler `wgsl-rs` released",
+        "link": "https://renderling.xyz/articles/wgsl-rs-beta-release.html",
+        "pubDate": "2026-10-01T00:13",
         "feedId": "lobsters"
       },
       {
         "title": "Major rsync upgrade in Debian because of 33 CVEs",
         "link": "https://lobste.rs/s/sqyhgt/major_rsync_upgrade_debian_because_33",
         "pubDate": "2026-10-01T00:02",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Coding is not solved",
-        "link": "https://blog.alexewerlof.com/p/coding-is-not-solved",
-        "pubDate": "2026-09-30T09:40",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,24 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump, Big AI go all-in together",
+        "link": "https://www.axios.com/2026/10/01/trump-ai-industry-risks-safety-gamble",
+        "pubDate": "2026-10-01T09:52",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump, CEOs try to shed AI's toxic branding",
+        "link": "https://www.axios.com/2026/10/01/superintelligence-si-ai-trump",
+        "pubDate": "2026-10-01T09:35",
+        "feedId": "axios"
+      },
+      {
+        "title": "How Trump's signature issue fell off voters' radar",
+        "link": "https://www.axios.com/2026/10/01/trump-immigration-midterms-polling-economy",
+        "pubDate": "2026-10-01T09:20",
+        "feedId": "axios"
+      },
+      {
         "title": "GOP senators endure painful week with little to show for it",
         "link": "https://www.axios.com/2026/10/01/republican-senators-trump-midterm-elections",
         "pubDate": "2026-10-01T02:45",
@@ -357,24 +375,6 @@
         "title": "Jack Smith faces new lawsuit over congressional phone records",
         "link": "https://www.axios.com/2026/09/30/jack-smith-arctic-frost-phone-records-lawsuit-blackburn",
         "pubDate": "2026-09-30T18:43",
-        "feedId": "axios"
-      },
-      {
-        "title": "944 children abused by Catholic clergy, Mass. AG says — but no new charges",
-        "link": "https://www.axios.com/2026/09/30/massachusetts-catholic-clergy-sex-abuse-report",
-        "pubDate": "2026-09-30T17:48",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"Strong indications\" Iran had role in U.K. bomb plot, PM Andy Burnham says",
-        "link": "https://www.axios.com/2026/09/30/uk-bomb-plot-raf-fairford-burnham",
-        "pubDate": "2026-09-30T17:29",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: Cornell rape allegations fuel House Democratic women's Title IX push",
-        "link": "https://www.axios.com/2026/09/30/cornell-rape-allegations-house-democratic-women-title-ix",
-        "pubDate": "2026-09-30T16:47",
         "feedId": "axios"
       }
     ]
