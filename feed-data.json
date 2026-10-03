@@ -3,27 +3,51 @@
     "id": "hn",
     "items": [
       {
-        "title": "Debian Inference Portal",
-        "link": "https://inference.debian.net/",
-        "pubDate": "2026-10-02T22:43",
+        "title": "An Update on Orion for Linux and Windows",
+        "link": "https://blog.kagi.com/update-orion-linux-windows",
+        "pubDate": "2026-10-03T04:53",
         "feedId": "hn"
       },
       {
-        "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-        "link": "https://allenai.org/blog/astabrief",
-        "pubDate": "2026-10-02T21:25",
+        "title": "What if AI worked at 1.000.000 tokens per seconds?",
+        "link": "https://www.echohive.ai/one-million-tokens-per-second",
+        "pubDate": "2026-10-03T04:22",
         "feedId": "hn"
       },
       {
-        "title": "Every SaaS business will become a harness around a model",
-        "link": "https://blog.sshh.io/p/the-harness-is-the-company",
-        "pubDate": "2026-10-02T21:06",
+        "title": "Extra Big Ass Intelligence",
+        "link": "https://www.extrabigassintelligence.com/",
+        "pubDate": "2026-10-03T03:19",
         "feedId": "hn"
       },
       {
-        "title": "Zig v0.17.0",
-        "link": "https://ziglang.org/download/0.17.0/release-notes.html",
-        "pubDate": "2026-10-02T20:56",
+        "title": "Cloudflare OHTTP gateway",
+        "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+        "pubDate": "2026-10-03T03:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+        "link": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
+        "pubDate": "2026-10-03T01:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Newgrounds.com – A community of games, music, and art",
+        "link": "https://www.newgrounds.com/",
+        "pubDate": "2026-10-03T00:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Where Is the Planet",
+        "link": "http://whereistheplanet.com",
+        "pubDate": "2026-10-03T00:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "Things that apparently cause cancer",
+        "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+        "pubDate": "2026-10-03T00:23",
         "feedId": "hn"
       },
       {
@@ -57,9 +81,9 @@
         "feedId": "hn"
       },
       {
-        "title": "One month coding with GLM 5.3 Flash",
-        "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
-        "pubDate": "2026-10-02T15:29",
+        "title": "There's a new sea spider in town",
+        "link": "https://nautil.us/theres-a-new-sea-spider-in-town-1285470",
+        "pubDate": "2026-10-02T17:48",
         "feedId": "hn"
       },
       {
@@ -67,42 +91,12 @@
         "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
         "pubDate": "2026-10-02T14:22",
         "feedId": "hn"
-      },
-      {
-        "title": "With most information hidden, the game Stratego had stumped AI until now",
-        "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-        "pubDate": "2026-10-02T14:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Legend of von Neumann (1973) [pdf]",
-        "link": "https://gwern.net/doc/math/1973-halmos.pdf",
-        "pubDate": "2026-10-02T13:18",
-        "feedId": "hn"
-      },
-      {
-        "title": "Venice’s failed war against Constantinople led to the first bond market",
-        "link": "https://bigthink.com/books/a-fabulous-debt/",
-        "pubDate": "2026-10-02T13:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "The first packet sent via RFC1149 avian carrier is up for auction at Christie's",
-        "link": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
-        "pubDate": "2026-10-02T12:46",
-        "feedId": "hn"
       }
     ]
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
-      {
-        "title": "Actual RFC1149 packet being auctioned",
-        "link": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
-        "pubDate": "2026-10-02T14:17",
-        "feedId": "lobsters"
-      },
       {
         "title": "Zig 0.17.0 Release Notes",
         "link": "https://ziglang.org/download/0.17.0/release-notes.html",
@@ -116,21 +110,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Actual RFC1149 packet being auctioned",
+        "link": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
+        "pubDate": "2026-10-02T14:17",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Lobsters Interview with Sjamaan",
         "link": "https://alexalejandre.com/interviews/peter-bex/",
         "pubDate": "2026-10-02T22:01",
         "feedId": "lobsters"
       },
       {
-        "title": "The forgetful CPU (Linux on M4)",
-        "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
-        "pubDate": "2026-10-02T14:01",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The Four Horsemen of Agentic Coding",
         "link": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
         "pubDate": "2026-10-02T16:48",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The forgetful CPU (Linux on M4)",
+        "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+        "pubDate": "2026-10-02T14:01",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/hfmcxi/what_are_you_doing_this_weekend",
-        "pubDate": "2026-10-02T08:18",
+        "title": "Keeping Futhark off the GPU",
+        "link": "https://futhark-lang.org/blog/2026-10-02-cpu_function.html",
+        "pubDate": "2026-10-02T20:17",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +164,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "gVisor is being donated to CNCF",
+        "link": "https://gvisor.dev/blog/2026/10/02/gvisor-cncf/",
+        "pubDate": "2026-10-03T02:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/hfmcxi/what_are_you_doing_this_weekend",
+        "pubDate": "2026-10-02T08:18",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
         "link": "https://blog.gitbutler.com/git-3-sha-256",
         "pubDate": "2026-10-01T18:26",
         "feedId": "lobsters"
       },
       {
-        "title": "Keeping Futhark off the GPU",
-        "link": "https://futhark-lang.org/blog/2026-10-02-cpu_function.html",
-        "pubDate": "2026-10-02T20:17",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "IANA's email about why example.com changed",
-        "link": "https://www.oliverdunk.com/2026/09/30/iana-reply",
-        "pubDate": "2026-10-01T08:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "SequenceHash: multihashing for the rest of us",
-        "link": "https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/",
-        "pubDate": "2026-10-02T14:37",
+        "title": "Driving the GDEH0154D67 e-paper display with Rust",
+        "link": "https://sgt.hootr.club/blog/driving-gdeh0154d67-with-rust/",
+        "pubDate": "2026-10-02T17:55",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+        "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+        "pubDate": "2026-10-02T23:03",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Someone got Doom in an SQL database",
         "link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
@@ -275,18 +281,18 @@
         "link": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
         "pubDate": "2026-10-01T22:27",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "SpaceX describes surgical intervention before launch of latest crew mission",
-        "link": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
-        "pubDate": "2026-10-01T22:07",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Scoop: Trump's top national security aides meet secretly at Camp David on Iran, Yemen",
+        "link": "https://www.axios.com/2026/10/03/trumps-cabinet-camp-david-iran-war-yemen-houthis",
+        "pubDate": "2026-10-03T02:56",
+        "feedId": "axios"
+      },
       {
         "title": "Saudis plan major offensive against the Houthis, but U.S. won't join for now",
         "link": "https://www.axios.com/2026/10/02/saudis-yemen-houthis-bab-al-mandeb-strait",
@@ -369,12 +375,6 @@
         "title": "Why Washington and Tehran keep talking past each other",
         "link": "https://www.axios.com/2026/10/02/iran-trump-negotiations-war-reasons-fail",
         "pubDate": "2026-10-02T09:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"Strange bedfellows\": Bernie Sanders, Florida Dems and a benchmark $250k donation",
-        "link": "https://www.axios.com/2026/10/02/bernie-sanders-angie-nixon-florida-dems",
-        "pubDate": "2026-10-02T09:10",
         "feedId": "axios"
       }
     ]
