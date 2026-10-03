@@ -3,15 +3,27 @@
     "id": "hn",
     "items": [
       {
-        "title": "An Update on Orion for Linux and Windows",
-        "link": "https://blog.kagi.com/update-orion-linux-windows",
-        "pubDate": "2026-10-03T04:53",
+        "title": "GitHub's new dashboard experience now the default",
+        "link": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
+        "pubDate": "2026-10-03T09:59",
         "feedId": "hn"
       },
       {
-        "title": "What if AI worked at 1.000.000 tokens per seconds?",
-        "link": "https://www.echohive.ai/one-million-tokens-per-second",
-        "pubDate": "2026-10-03T04:22",
+        "title": "Gemini ending free use of Flash and Pro models",
+        "link": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/",
+        "pubDate": "2026-10-03T09:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Offrun – manage every coding agent from one workspace",
+        "link": "https://offrun.dev/",
+        "pubDate": "2026-10-03T08:40",
+        "feedId": "hn"
+      },
+      {
+        "title": "An Update on Orion for Linux and Windows",
+        "link": "https://blog.kagi.com/update-orion-linux-windows",
+        "pubDate": "2026-10-03T04:53",
         "feedId": "hn"
       },
       {
@@ -27,39 +39,27 @@
         "feedId": "hn"
       },
       {
-        "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-        "link": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
-        "pubDate": "2026-10-03T01:09",
-        "feedId": "hn"
-      },
-      {
         "title": "Newgrounds.com – A community of games, music, and art",
         "link": "https://www.newgrounds.com/",
         "pubDate": "2026-10-03T00:55",
         "feedId": "hn"
       },
       {
-        "title": "Where Is the Planet",
-        "link": "http://whereistheplanet.com",
-        "pubDate": "2026-10-03T00:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Things that apparently cause cancer",
-        "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
-        "pubDate": "2026-10-03T00:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Made an open-source Lego AI generator",
-        "link": "https://github.com/anteloc/ldraw-nova",
-        "pubDate": "2026-10-02T20:00",
+        "title": "Barcodes are about to go extinct",
+        "link": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
+        "pubDate": "2026-10-02T20:37",
         "feedId": "hn"
       },
       {
         "title": "Updates to Full Disk Access in macOS",
         "link": "https://developer.apple.com/news/?id=p6zjojqw",
         "pubDate": "2026-10-02T19:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "Make Tmux the OS",
+        "link": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
+        "pubDate": "2026-10-02T19:29",
         "feedId": "hn"
       },
       {
@@ -75,21 +75,21 @@
         "feedId": "hn"
       },
       {
+        "title": "The Nintendo 64 Partner-N64 Development Kit",
+        "link": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
+        "pubDate": "2026-10-02T18:53",
+        "feedId": "hn"
+      },
+      {
         "title": "From the creator of Redis; run LLM locally with ds4",
         "link": "https://dwarfstar.sh/",
         "pubDate": "2026-10-02T18:01",
         "feedId": "hn"
       },
       {
-        "title": "There's a new sea spider in town",
-        "link": "https://nautil.us/theres-a-new-sea-spider-in-town-1285470",
-        "pubDate": "2026-10-02T17:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Forgetful CPU (Linux on M4)",
-        "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
-        "pubDate": "2026-10-02T14:22",
+        "title": "One month coding with GLM 5.3 Flash",
+        "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+        "pubDate": "2026-10-02T15:29",
         "feedId": "hn"
       }
     ]
@@ -98,21 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Zig 0.17.0 Release Notes",
-        "link": "https://ziglang.org/download/0.17.0/release-notes.html",
-        "pubDate": "2026-10-02T21:10",
-        "feedId": "lobsters"
-      },
-      {
         "title": "I got targeted: Trying to get your credentials via a git post-checkout hook",
         "link": "https://frankwiles.com/posts/i-got-targeted/",
         "pubDate": "2026-10-02T22:19",
         "feedId": "lobsters"
       },
       {
-        "title": "Actual RFC1149 packet being auctioned",
-        "link": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
-        "pubDate": "2026-10-02T14:17",
+        "title": "Zig 0.17.0 Release Notes",
+        "link": "https://ziglang.org/download/0.17.0/release-notes.html",
+        "pubDate": "2026-10-02T21:10",
         "feedId": "lobsters"
       },
       {
@@ -122,9 +116,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Actual RFC1149 packet being auctioned",
+        "link": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
+        "pubDate": "2026-10-02T14:17",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "gVisor is being donated to CNCF",
+        "link": "https://gvisor.dev/blog/2026/10/02/gvisor-cncf/",
+        "pubDate": "2026-10-03T02:41",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The Four Horsemen of Agentic Coding",
         "link": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
         "pubDate": "2026-10-02T16:48",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Updates to Full Disk Access in macOS",
+        "link": "https://developer.apple.com/news/?id=p6zjojqw",
+        "pubDate": "2026-10-02T20:10",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +146,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Updates to Full Disk Access in macOS",
-        "link": "https://developer.apple.com/news/?id=p6zjojqw",
-        "pubDate": "2026-10-02T20:10",
+        "title": "Keeping Futhark off the GPU",
+        "link": "https://futhark-lang.org/blog/2026-10-02-cpu_function.html",
+        "pubDate": "2026-10-02T20:17",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Rust for CPython (Python Language Summit 2026)",
+        "link": "https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/",
+        "pubDate": "2026-10-03T09:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How to Hack Time, With C2PA",
+        "link": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+        "pubDate": "2026-10-03T11:58",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Era of Programming Languages Exploration is upon Us",
+        "link": "https://kirancodes.me/posts/log-end-of-pl.html",
+        "pubDate": "2026-10-03T04:56",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The hidden design compromises of Docker layers",
+        "link": "https://loige.co/hidden-design-compromises-of-docker-layers/",
+        "pubDate": "2026-10-02T08:29",
         "feedId": "lobsters"
       },
       {
@@ -149,42 +185,6 @@
         "title": "Generic Const Args and You",
         "link": "https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/",
         "pubDate": "2026-10-02T09:20",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Keeping Futhark off the GPU",
-        "link": "https://futhark-lang.org/blog/2026-10-02-cpu_function.html",
-        "pubDate": "2026-10-02T20:17",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The hidden design compromises of Docker layers",
-        "link": "https://loige.co/hidden-design-compromises-of-docker-layers/",
-        "pubDate": "2026-10-02T08:29",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "gVisor is being donated to CNCF",
-        "link": "https://gvisor.dev/blog/2026/10/02/gvisor-cncf/",
-        "pubDate": "2026-10-03T02:41",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/hfmcxi/what_are_you_doing_this_weekend",
-        "pubDate": "2026-10-02T08:18",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
-        "link": "https://blog.gitbutler.com/git-3-sha-256",
-        "pubDate": "2026-10-01T18:26",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Driving the GDEH0154D67 e-paper display with Rust",
-        "link": "https://sgt.hootr.club/blog/driving-gdeh0154d67-with-rust/",
-        "pubDate": "2026-10-02T17:55",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump promises $100 checks for 20 million seniors for Medicare",
+        "link": "https://www.axios.com/2026/10/03/trump-medicare-100-seniors-improvement-fund",
+        "pubDate": "2026-10-03T10:58",
+        "feedId": "axios"
+      },
+      {
         "title": "Scoop: Trump's top national security aides meet secretly at Camp David on Iran, Yemen",
         "link": "https://www.axios.com/2026/10/03/trumps-cabinet-camp-david-iran-war-yemen-houthis",
         "pubDate": "2026-10-03T02:56",
@@ -369,12 +375,6 @@
         "title": "Inside the AI industry's grassroots rebellion, led by elite researchers at frontier companies",
         "link": "https://www.axios.com/2026/10/02/openai-anthropic-ai-researchers-rebellion",
         "pubDate": "2026-10-02T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Why Washington and Tehran keep talking past each other",
-        "link": "https://www.axios.com/2026/10/02/iran-trump-negotiations-war-reasons-fail",
-        "pubDate": "2026-10-02T09:20",
         "feedId": "axios"
       }
     ]
