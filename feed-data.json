@@ -3,15 +3,45 @@
     "id": "hn",
     "items": [
       {
-        "title": "GitHub's new dashboard experience now the default",
-        "link": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
-        "pubDate": "2026-10-03T09:59",
+        "title": "City building games have a Soul Problem pt.2",
+        "link": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
+        "pubDate": "2026-10-03T15:52",
         "feedId": "hn"
       },
       {
-        "title": "Gemini ending free use of Flash and Pro models",
-        "link": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/",
-        "pubDate": "2026-10-03T09:13",
+        "title": "FTL: A new operating system for clouds",
+        "link": "https://ftl-os.org/",
+        "pubDate": "2026-10-03T15:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "US killer's sentence quashed because of AI video of victim shown in court",
+        "link": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+        "pubDate": "2026-10-03T13:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
+        "link": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
+        "pubDate": "2026-10-03T12:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Escalation of War in Ethiopia",
+        "link": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
+        "pubDate": "2026-10-03T11:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+        "link": "https://tej.as/blog/aleph-alpha-kolibri",
+        "pubDate": "2026-10-03T10:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+        "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+        "pubDate": "2026-10-03T09:36",
         "feedId": "hn"
       },
       {
@@ -45,9 +75,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Barcodes are about to go extinct",
-        "link": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
-        "pubDate": "2026-10-02T20:37",
+        "title": "Woking Electrical Control Room (2016)",
+        "link": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
+        "pubDate": "2026-10-02T20:44",
         "feedId": "hn"
       },
       {
@@ -61,36 +91,6 @@
         "link": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
         "pubDate": "2026-10-02T19:29",
         "feedId": "hn"
-      },
-      {
-        "title": "Muse Gadgets",
-        "link": "https://gadgets.muse.ai",
-        "pubDate": "2026-10-02T19:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Apple Pass Designer",
-        "link": "https://developer.apple.com/pass-designer/",
-        "pubDate": "2026-10-02T19:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Nintendo 64 Partner-N64 Development Kit",
-        "link": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
-        "pubDate": "2026-10-02T18:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "From the creator of Redis; run LLM locally with ds4",
-        "link": "https://dwarfstar.sh/",
-        "pubDate": "2026-10-02T18:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "One month coding with GLM 5.3 Flash",
-        "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
-        "pubDate": "2026-10-02T15:29",
-        "feedId": "hn"
       }
     ]
   },
@@ -101,6 +101,12 @@
         "title": "I got targeted: Trying to get your credentials via a git post-checkout hook",
         "link": "https://frankwiles.com/posts/i-got-targeted/",
         "pubDate": "2026-10-02T22:19",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Era of Software Quality, or the Era of Ostriches?",
+        "link": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
+        "pubDate": "2026-10-03T13:31",
         "feedId": "lobsters"
       },
       {
@@ -116,9 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Actual RFC1149 packet being auctioned",
-        "link": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
-        "pubDate": "2026-10-02T14:17",
+        "title": "How to Hack Time, With C2PA",
+        "link": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+        "pubDate": "2026-10-03T11:58",
         "feedId": "lobsters"
       },
       {
@@ -128,27 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Four Horsemen of Agentic Coding",
-        "link": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
-        "pubDate": "2026-10-02T16:48",
+        "title": "Two-Stack Sliding-Window Aggregation",
+        "link": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
+        "pubDate": "2026-10-03T12:39",
         "feedId": "lobsters"
       },
       {
-        "title": "Updates to Full Disk Access in macOS",
-        "link": "https://developer.apple.com/news/?id=p6zjojqw",
-        "pubDate": "2026-10-02T20:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The forgetful CPU (Linux on M4)",
-        "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
-        "pubDate": "2026-10-02T14:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Keeping Futhark off the GPU",
-        "link": "https://futhark-lang.org/blog/2026-10-02-cpu_function.html",
-        "pubDate": "2026-10-02T20:17",
+        "title": "Actual RFC1149 packet being auctioned",
+        "link": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
+        "pubDate": "2026-10-02T14:17",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +152,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How to Hack Time, With C2PA",
-        "link": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
-        "pubDate": "2026-10-03T11:58",
+        "title": "The Four Horsemen of Agentic Coding",
+        "link": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
+        "pubDate": "2026-10-02T16:48",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Writing the Cyclone Scheme Compiler (2017)",
+        "link": "https://justinethier.github.io/cyclone/docs/Writing-the-Cyclone-Scheme-Compiler-Revised-2017",
+        "pubDate": "2026-10-03T13:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Updates to Full Disk Access in macOS",
+        "link": "https://developer.apple.com/news/?id=p6zjojqw",
+        "pubDate": "2026-10-02T20:10",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The hidden design compromises of Docker layers",
-        "link": "https://loige.co/hidden-design-compromises-of-docker-layers/",
-        "pubDate": "2026-10-02T08:29",
+        "title": "Security in the LLM Age",
+        "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+        "pubDate": "2026-10-03T11:57",
         "feedId": "lobsters"
       },
       {
-        "title": "Waterfox 6.7.5 Adds a Built-in Feed Reader",
-        "link": "https://www.waterfox.com/releases/6.7.5/",
-        "pubDate": "2026-10-02T02:17",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Generic Const Args and You",
-        "link": "https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/",
-        "pubDate": "2026-10-02T09:20",
+        "title": "The forgetful CPU (Linux on M4)",
+        "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+        "pubDate": "2026-10-02T14:01",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "The dawn of the age of the exoskeleton",
+        "link": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
+        "pubDate": "2026-10-03T11:15",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
         "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
@@ -275,18 +281,30 @@
         "link": "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/",
         "pubDate": "2026-10-02T10:30",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Venus' mysterious haze is actually cosmic dust",
-        "link": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
-        "pubDate": "2026-10-01T22:27",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Departure comes as the state investigates what went wrong during Pike's lethal injection.",
+        "link": "https://www.axios.com/local/nashville/2026/10/03/christa-pike-execution-tennessee-prison-chief-resigns",
+        "pubDate": "2026-10-03T16:24",
+        "feedId": "axios"
+      },
+      {
+        "title": "OpenAI's Altman: Ascribing religion to models a \"safety issue\"",
+        "link": "https://www.axios.com/2026/10/03/openai-anthropic-altman-amodei-religious-force-models",
+        "pubDate": "2026-10-03T15:41",
+        "feedId": "axios"
+      },
+      {
+        "title": "Rogue AI agents expose internet's frail foundation",
+        "link": "https://www.axios.com/2026/10/03/rogue-ai-agents-internet-defenses",
+        "pubDate": "2026-10-03T13:14",
+        "feedId": "axios"
+      },
       {
         "title": "Trump promises $100 checks for 20 million seniors for Medicare",
         "link": "https://www.axios.com/2026/10/03/trump-medicare-100-seniors-improvement-fund",
@@ -355,26 +373,8 @@
       },
       {
         "title": "Pope Leo says AI lacks the \"spark of humanity\" — and wants artists and the church to fight back",
-        "link": "https://www.axios.com/2026/10/02/pope-leo-xiv-catcholic-church-ai-waring-artists",
+        "link": "https://www.axios.com/2026/10/02/pope-leo-xiv-catholic-church-ai-warning-artists",
         "pubDate": "2026-10-02T12:50",
-        "feedId": "axios"
-      },
-      {
-        "title": "What to watch in the Supreme Court's big climate case",
-        "link": "https://www.axios.com/2026/10/02/supreme-court-state-climate-lawsuits-preemption",
-        "pubDate": "2026-10-02T12:48",
-        "feedId": "axios"
-      },
-      {
-        "title": "Behind the Curtain: AI's existential legal crisis",
-        "link": "https://www.axios.com/2026/10/02/artificial-intelligence-ai-legal-liability",
-        "pubDate": "2026-10-02T09:46",
-        "feedId": "axios"
-      },
-      {
-        "title": "Inside the AI industry's grassroots rebellion, led by elite researchers at frontier companies",
-        "link": "https://www.axios.com/2026/10/02/openai-anthropic-ai-researchers-rebellion",
-        "pubDate": "2026-10-02T09:30",
         "feedId": "axios"
       }
     ]
