@@ -3,6 +3,42 @@
     "id": "hn",
     "items": [
       {
+        "title": "ADHD, autism or complex trauma? [pdf]",
+        "link": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf",
+        "pubDate": "2026-10-03T18:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "Hole Punch: Sling your spaceship around gravitational fields",
+        "link": "https://notoriousbfg.com/hole-punch/",
+        "pubDate": "2026-10-03T18:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Pop!_OS bans AI-generated code from much of its codebase",
+        "link": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+        "pubDate": "2026-10-03T17:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "Vx – One Language, Every Chip",
+        "link": "https://vxlang.org/",
+        "pubDate": "2026-10-03T17:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "Kolibri – Tech Report [pdf]",
+        "link": "https://aleph-alpha.com/downloads/tech-report.pdf",
+        "pubDate": "2026-10-03T17:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "RetailReady (YC W24) Is Hiring",
+        "link": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
+        "pubDate": "2026-10-03T17:00",
+        "feedId": "hn"
+      },
+      {
         "title": "City building games have a Soul Problem pt.2",
         "link": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
         "pubDate": "2026-10-03T15:52",
@@ -15,51 +51,21 @@
         "feedId": "hn"
       },
       {
-        "title": "US killer's sentence quashed because of AI video of victim shown in court",
-        "link": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
-        "pubDate": "2026-10-03T13:34",
-        "feedId": "hn"
-      },
-      {
-        "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
-        "link": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
-        "pubDate": "2026-10-03T12:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Escalation of War in Ethiopia",
-        "link": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
-        "pubDate": "2026-10-03T11:54",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
-        "link": "https://tej.as/blog/aleph-alpha-kolibri",
-        "pubDate": "2026-10-03T10:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+        "title": "Kolibri: A Sovereign Open-Weight Model",
         "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
         "pubDate": "2026-10-03T09:36",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Offrun – manage every coding agent from one workspace",
-        "link": "https://offrun.dev/",
-        "pubDate": "2026-10-03T08:40",
+        "title": "The characters of plastics (2024)",
+        "link": "https://yarchive.net/blog/plastics/",
+        "pubDate": "2026-10-03T06:14",
         "feedId": "hn"
       },
       {
         "title": "An Update on Orion for Linux and Windows",
         "link": "https://blog.kagi.com/update-orion-linux-windows",
         "pubDate": "2026-10-03T04:53",
-        "feedId": "hn"
-      },
-      {
-        "title": "Extra Big Ass Intelligence",
-        "link": "https://www.extrabigassintelligence.com/",
-        "pubDate": "2026-10-03T03:19",
         "feedId": "hn"
       },
       {
@@ -81,15 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Updates to Full Disk Access in macOS",
-        "link": "https://developer.apple.com/news/?id=p6zjojqw",
-        "pubDate": "2026-10-02T19:37",
-        "feedId": "hn"
-      },
-      {
-        "title": "Make Tmux the OS",
-        "link": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
-        "pubDate": "2026-10-02T19:29",
+        "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+        "link": "https://pipod.dev/",
+        "pubDate": "2026-10-02T19:10",
         "feedId": "hn"
       }
     ]
@@ -146,15 +146,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "The Four Horsemen of Agentic Coding",
+        "link": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
+        "pubDate": "2026-10-02T16:48",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Rust for CPython (Python Language Summit 2026)",
         "link": "https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/",
         "pubDate": "2026-10-03T09:40",
         "feedId": "lobsters"
       },
       {
-        "title": "The Four Horsemen of Agentic Coding",
-        "link": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
-        "pubDate": "2026-10-02T16:48",
+        "title": "Security in the LLM Age",
+        "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+        "pubDate": "2026-10-03T11:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Problems and solutions to the modern desktop (Make tmux the OS)",
+        "link": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
+        "pubDate": "2026-10-03T08:17",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Era of Programming Languages Exploration is upon Us",
+        "link": "https://kirancodes.me/posts/log-end-of-pl.html",
+        "pubDate": "2026-10-03T04:56",
         "feedId": "lobsters"
       },
       {
@@ -167,24 +185,6 @@
         "title": "Updates to Full Disk Access in macOS",
         "link": "https://developer.apple.com/news/?id=p6zjojqw",
         "pubDate": "2026-10-02T20:10",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Era of Programming Languages Exploration is upon Us",
-        "link": "https://kirancodes.me/posts/log-end-of-pl.html",
-        "pubDate": "2026-10-03T04:56",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Security in the LLM Age",
-        "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-        "pubDate": "2026-10-03T11:57",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The forgetful CPU (Linux on M4)",
-        "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
-        "pubDate": "2026-10-02T14:01",
         "feedId": "lobsters"
       }
     ]
@@ -253,7 +253,7 @@
         "feedId": "arstechnica"
       },
       {
-        "title": "How I kept cool with NYC's free battery program for window AC units",
+        "title": "This startup pays NYC residents to run air conditioners on free batteries",
         "link": "https://arstechnica.com/gadgets/2026/10/how-i-kept-cool-with-nycs-free-battery-program-for-window-ac-units/",
         "pubDate": "2026-10-02T17:20",
         "feedId": "arstechnica"
@@ -287,6 +287,12 @@
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Iranian diplomats \"kicked out\" of U.S. after ignoring order to leave",
+        "link": "https://www.axios.com/2026/10/03/iran-un-kicked-out-rubio",
+        "pubDate": "2026-10-03T19:25",
+        "feedId": "axios"
+      },
       {
         "title": "Departure comes as the state investigates what went wrong during Pike's lethal injection.",
         "link": "https://www.axios.com/local/nashville/2026/10/03/christa-pike-execution-tennessee-prison-chief-resigns",
@@ -369,12 +375,6 @@
         "title": "Trump expected to tap DNI Jay Clayton as new AI czar",
         "link": "https://www.axios.com/2026/10/02/trump-new-ai-czar-jay-clayton-dni",
         "pubDate": "2026-10-02T15:35",
-        "feedId": "axios"
-      },
-      {
-        "title": "Pope Leo says AI lacks the \"spark of humanity\" — and wants artists and the church to fight back",
-        "link": "https://www.axios.com/2026/10/02/pope-leo-xiv-catholic-church-ai-warning-artists",
-        "pubDate": "2026-10-02T12:50",
         "feedId": "axios"
       }
     ]
