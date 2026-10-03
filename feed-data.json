@@ -3,15 +3,27 @@
     "id": "hn",
     "items": [
       {
-        "title": "Three AI agents, two countries, and one uneven world wide web",
-        "link": "https://royapakzad.substack.com/p/multilingual-ai-agents",
-        "pubDate": "2026-10-02T20:39",
+        "title": "Debian Inference Portal",
+        "link": "https://inference.debian.net/",
+        "pubDate": "2026-10-02T22:43",
         "feedId": "hn"
       },
       {
-        "title": "Everyone's Packing Up",
-        "link": "https://widdershins.verja.net/everyones-packing-up/",
-        "pubDate": "2026-10-02T20:13",
+        "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+        "link": "https://allenai.org/blog/astabrief",
+        "pubDate": "2026-10-02T21:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "Every SaaS business will become a harness around a model",
+        "link": "https://blog.sshh.io/p/the-harness-is-the-company",
+        "pubDate": "2026-10-02T21:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Zig v0.17.0",
+        "link": "https://ziglang.org/download/0.17.0/release-notes.html",
+        "pubDate": "2026-10-02T20:56",
         "feedId": "hn"
       },
       {
@@ -21,9 +33,9 @@
         "feedId": "hn"
       },
       {
-        "title": "GrapheneOS has fixed the Android 17 QPR1 kernel performance regression",
-        "link": "https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression",
-        "pubDate": "2026-10-02T19:45",
+        "title": "Updates to Full Disk Access in macOS",
+        "link": "https://developer.apple.com/news/?id=p6zjojqw",
+        "pubDate": "2026-10-02T19:37",
         "feedId": "hn"
       },
       {
@@ -33,21 +45,9 @@
         "feedId": "hn"
       },
       {
-        "title": "\"The only intuitive interface is the nipple\" (2012)",
-        "link": "https://www.greenend.org.uk/rjk/misc/nipple.html",
-        "pubDate": "2026-10-02T19:18",
-        "feedId": "hn"
-      },
-      {
         "title": "Apple Pass Designer",
         "link": "https://developer.apple.com/pass-designer/",
         "pubDate": "2026-10-02T19:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "What if we stopped using GPUs? [video]",
-        "link": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
-        "pubDate": "2026-10-02T18:09",
         "feedId": "hn"
       },
       {
@@ -57,21 +57,15 @@
         "feedId": "hn"
       },
       {
-        "title": "STS-51-F Abort-to-Orbit (1985)",
-        "link": "https://en.wikipedia.org/wiki/STS-51-F",
-        "pubDate": "2026-10-02T16:56",
-        "feedId": "hn"
-      },
-      {
         "title": "One month coding with GLM 5.3 Flash",
         "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
         "pubDate": "2026-10-02T15:29",
         "feedId": "hn"
       },
       {
-        "title": "How accurately calibrated is Jev?",
-        "link": "https://maximumeffort.substack.com/p/jev-is-poorly-calibrated",
-        "pubDate": "2026-10-02T15:12",
+        "title": "The Forgetful CPU (Linux on M4)",
+        "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+        "pubDate": "2026-10-02T14:22",
         "feedId": "hn"
       },
       {
@@ -91,6 +85,12 @@
         "link": "https://bigthink.com/books/a-fabulous-debt/",
         "pubDate": "2026-10-02T13:17",
         "feedId": "hn"
+      },
+      {
+        "title": "The first packet sent via RFC1149 avian carrier is up for auction at Christie's",
+        "link": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
+        "pubDate": "2026-10-02T12:46",
+        "feedId": "hn"
       }
     ]
   },
@@ -104,21 +104,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Zig 0.17.0 Release Notes",
+        "link": "https://ziglang.org/download/0.17.0/release-notes.html",
+        "pubDate": "2026-10-02T21:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I got targeted: Trying to get your credentials via a git post-checkout hook",
+        "link": "https://frankwiles.com/posts/i-got-targeted/",
+        "pubDate": "2026-10-02T22:19",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Lobsters Interview with Sjamaan",
+        "link": "https://alexalejandre.com/interviews/peter-bex/",
+        "pubDate": "2026-10-02T22:01",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The forgetful CPU (Linux on M4)",
         "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
         "pubDate": "2026-10-02T14:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Waterfox 6.7.5 Adds a Built-in Feed Reader",
-        "link": "https://www.waterfox.com/releases/6.7.5/",
-        "pubDate": "2026-10-02T02:17",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/hfmcxi/what_are_you_doing_this_weekend",
-        "pubDate": "2026-10-02T08:18",
         "feedId": "lobsters"
       },
       {
@@ -128,15 +134,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Updates to Full Disk Access in macOS",
+        "link": "https://developer.apple.com/news/?id=p6zjojqw",
+        "pubDate": "2026-10-02T20:10",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Waterfox 6.7.5 Adds a Built-in Feed Reader",
+        "link": "https://www.waterfox.com/releases/6.7.5/",
+        "pubDate": "2026-10-02T02:17",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Generic Const Args and You",
         "link": "https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/",
         "pubDate": "2026-10-02T09:20",
         "feedId": "lobsters"
       },
       {
-        "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
-        "link": "https://blog.gitbutler.com/git-3-sha-256",
-        "pubDate": "2026-10-01T18:26",
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/hfmcxi/what_are_you_doing_this_weekend",
+        "pubDate": "2026-10-02T08:18",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +164,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Updates to Full Disk Access in macOS",
-        "link": "https://developer.apple.com/news/?id=p6zjojqw",
-        "pubDate": "2026-10-02T20:10",
+        "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+        "link": "https://blog.gitbutler.com/git-3-sha-256",
+        "pubDate": "2026-10-01T18:26",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Keeping Futhark off the GPU",
+        "link": "https://futhark-lang.org/blog/2026-10-02-cpu_function.html",
+        "pubDate": "2026-10-02T20:17",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Reducing the cognitive load of AI changes",
-        "link": "https://amoffat.github.io/blog/cognitive-load.html",
-        "pubDate": "2026-10-01T12:57",
-        "feedId": "lobsters"
-      },
-      {
         "title": "SequenceHash: multihashing for the rest of us",
         "link": "https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/",
         "pubDate": "2026-10-02T14:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Announcing Rust 1.99.0",
-        "link": "https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/",
-        "pubDate": "2026-10-01T13:08",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Thrust vs. Steer (or: Yet Another Anecdotal Case of the Dunning-Kruger Effect)",
-        "link": "https://write.as/tmcb/thrust-vs-steer-or-yet-another-anecdotal-case-of-the-dunning-kruger-effect",
-        "pubDate": "2026-10-02T08:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Advice to a beginning software engineer",
-        "link": "https://www.seangoedecke.com/advice-to-a-beginning-software-engineer/",
-        "pubDate": "2026-10-02T13:19",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Someone got Doom in an SQL database",
+        "link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
+        "pubDate": "2026-10-02T21:19",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
         "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
@@ -275,18 +281,24 @@
         "link": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
         "pubDate": "2026-10-01T22:07",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
-        "link": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
-        "pubDate": "2026-10-01T20:28",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Saudis plan major offensive against the Houthis, but U.S. won't join for now",
+        "link": "https://www.axios.com/2026/10/02/saudis-yemen-houthis-bab-al-mandeb-strait",
+        "pubDate": "2026-10-02T23:08",
+        "feedId": "axios"
+      },
+      {
+        "title": "Big Bend border wall construction blocked by judge",
+        "link": "https://www.axios.com/2026/10/02/judge-blocks-big-bend-border-wall-texas",
+        "pubDate": "2026-10-02T21:24",
+        "feedId": "axios"
+      },
       {
         "title": "Christa Pike survived lethal injection. How your state carries out executions",
         "link": "https://www.axios.com/2026/10/02/christa-pike-lethal-injection-state-execution-methods",
@@ -363,18 +375,6 @@
         "title": "\"Strange bedfellows\": Bernie Sanders, Florida Dems and a benchmark $250k donation",
         "link": "https://www.axios.com/2026/10/02/bernie-sanders-angie-nixon-florida-dems",
         "pubDate": "2026-10-02T09:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"We're not asking for charity\": Wikimedia CEO calls out AI for unpaid data use",
-        "link": "https://www.axios.com/2026/10/02/wikipedia-ceo-ai-traffic-loss",
-        "pubDate": "2026-10-02T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: U.S. sent more Patriots to protect Saudi, Qatari energy sites",
-        "link": "https://www.axios.com/2026/10/02/patriot-missiles-iran-war-saudi-arabia-qatar",
-        "pubDate": "2026-10-02T00:35",
         "feedId": "axios"
       }
     ]
