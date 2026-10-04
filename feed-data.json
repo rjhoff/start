@@ -3,15 +3,39 @@
     "id": "hn",
     "items": [
       {
-        "title": "In Ukraine, distributed renewables foil Russia's assaults",
-        "link": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
-        "pubDate": "2026-10-04T08:39",
+        "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+        "link": "https://github.com/Niko1221/Strata",
+        "pubDate": "2026-10-04T12:51",
         "feedId": "hn"
       },
       {
-        "title": "UK Government Body Kept Files on People Criticizing Prevent Program",
-        "link": "https://reclaimthenet.org/uk-prevent-unit-tracked-online-critics",
-        "pubDate": "2026-10-04T06:10",
+        "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
+        "link": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
+        "pubDate": "2026-10-04T11:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: AI search for every photo and every frame of video on macOS",
+        "link": "https://github.com/allenv0/SCM",
+        "pubDate": "2026-10-04T09:24",
+        "feedId": "hn"
+      },
+      {
+        "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+        "link": "https://gamehistory.org/5k-magazines/",
+        "pubDate": "2026-10-04T09:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "What's the Future for Pure Math Research in the Age of AI?",
+        "link": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+        "pubDate": "2026-10-04T07:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+        "link": "https://github.com/PowderworksCode/headstart",
+        "pubDate": "2026-10-04T06:26",
         "feedId": "hn"
       },
       {
@@ -51,12 +75,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Surely you have ultra-wideband radios on your bins too?",
-        "link": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
-        "pubDate": "2026-10-03T20:27",
-        "feedId": "hn"
-      },
-      {
         "title": "We want you to build the next Git platform on Cloudflare",
         "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
         "pubDate": "2026-10-03T19:33",
@@ -73,24 +91,6 @@
         "link": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
         "pubDate": "2026-10-03T18:52",
         "feedId": "hn"
-      },
-      {
-        "title": "What Meta got right with Muse",
-        "link": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
-        "pubDate": "2026-10-03T18:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hole Punch: Sling your spaceship around gravitational fields",
-        "link": "https://notoriousbfg.com/hole-punch/",
-        "pubDate": "2026-10-03T18:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "Treachery in the Rodin Museum 3D scan verdict",
-        "link": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-        "pubDate": "2026-10-03T18:01",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,39 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "Rust's derive often implies inline",
+        "link": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
+        "pubDate": "2026-10-04T01:41",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Why don’t more developers \"use the platform\"?",
         "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
         "pubDate": "2026-10-03T21:35",
         "feedId": "lobsters"
       },
       {
-        "title": "Rust's derive often implies inline",
-        "link": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
-        "pubDate": "2026-10-04T01:41",
+        "title": "We’re going to need default hard budget caps on pretty much everything",
+        "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+        "pubDate": "2026-10-04T07:58",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Kolibri: A Sovereign Open-Weight Model",
+        "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+        "pubDate": "2026-10-04T07:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "grubby: static site generator for git repos written in Ruby",
+        "link": "https://git.btxx.org/grubby",
+        "pubDate": "2026-10-04T10:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The complement of true is true, except when it's false",
+        "link": "https://dryperspective.github.io/posts/complement-of-true/",
+        "pubDate": "2026-10-04T12:30",
         "feedId": "lobsters"
       },
       {
@@ -122,21 +146,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Our RISC-V emulator PasRISCV",
+        "link": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
+        "pubDate": "2026-10-04T08:40",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The Era of Software Quality, or the Era of Ostriches?",
         "link": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
         "pubDate": "2026-10-03T13:31",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Kolibri: A Sovereign Open-Weight Model",
-        "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-        "pubDate": "2026-10-04T07:57",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How to Hack Time, With C2PA",
-        "link": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
-        "pubDate": "2026-10-03T11:58",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +164,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Zig 0.17.0 Release Notes",
-        "link": "https://ziglang.org/download/0.17.0/release-notes.html",
-        "pubDate": "2026-10-02T21:10",
+        "title": "Obelisk 0.42: Durable Agents, Layered Sandboxes",
+        "link": "https://obeli.sk/blog/announcing-obelisk-0-42/",
+        "pubDate": "2026-10-04T14:30",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Improving and Stabilizing the racoon2 IKE Daemon in NetBSD",
+        "link": "https://blog.netbsd.org/tnf/entry/gsoc2026_racoon2",
+        "pubDate": "2026-10-04T12:46",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Two-Stack Sliding-Window Aggregation",
-        "link": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
-        "pubDate": "2026-10-03T12:39",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why I recommend Renovate over any other dependency update tools (2024)",
-        "link": "https://www.jvt.me/posts/2024/04/12/use-renovate/",
-        "pubDate": "2026-10-03T22:54",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Lobsters Interview with Sjamaan",
-        "link": "https://alexalejandre.com/interviews/peter-bex/",
-        "pubDate": "2026-10-02T22:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "gVisor is being donated to CNCF",
-        "link": "https://gvisor.dev/blog/2026/10/02/gvisor-cncf/",
-        "pubDate": "2026-10-03T02:41",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Our RISC-V emulator PasRISCV",
-        "link": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
-        "pubDate": "2026-10-04T08:40",
+        "title": "How to Hack Time, With C2PA",
+        "link": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+        "pubDate": "2026-10-03T11:58",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "All hail electrification. But let’s talk about the hard part.",
+        "link": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
+        "pubDate": "2026-10-04T11:05",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
         "link": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
@@ -275,12 +281,6 @@
         "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
         "pubDate": "2026-10-02T14:52",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
-        "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
-        "pubDate": "2026-10-02T13:54",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -290,7 +290,25 @@
       {
         "title": "Iranian diplomats \"kicked out\" of U.S. after ignoring order to leave",
         "link": "https://www.axios.com/2026/10/03/iran-un-kicked-out-rubio",
-        "pubDate": "2026-10-03T19:25",
+        "pubDate": "2026-10-04T14:39",
+        "feedId": "axios"
+      },
+      {
+        "title": "Yemeni and Saudi forces launch counteroffensive against the Houthis",
+        "link": "https://www.axios.com/2026/10/04/yemen-saudi-houthis-counteroffensive",
+        "pubDate": "2026-10-04T14:38",
+        "feedId": "axios"
+      },
+      {
+        "title": "New York has a socialist mayor. Los Angeles may be next",
+        "link": "https://www.axios.com/2026/10/04/la-nyc-south-asian-immigrant-socialist-mayors",
+        "pubDate": "2026-10-04T12:52",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: A powerful new model from startup Reflection is set to shake up the AI race",
+        "link": "https://www.axios.com/2026/10/04/reflection-open-weight-ai",
+        "pubDate": "2026-10-04T12:49",
         "feedId": "axios"
       },
       {
@@ -357,24 +375,6 @@
         "title": "House Democrats want to win big. It could cost them.",
         "link": "https://www.axios.com/2026/10/02/house-democrats-midterm-candidates-jeffries",
         "pubDate": "2026-10-02T18:33",
-        "feedId": "axios"
-      },
-      {
-        "title": "Brazil's Lula-Bolsonaro showdown unfolds in Trump's shadow — with the Amazon at stake",
-        "link": "https://www.axios.com/2026/10/02/brazil-election-lula-flavio-bolsonaro-trump-amazon",
-        "pubDate": "2026-10-02T16:57",
-        "feedId": "axios"
-      },
-      {
-        "title": "AI campaign deepfakes are starting to draw legal threats",
-        "link": "https://www.axios.com/2026/10/02/ai-deepfake-election-campaign-lawsuits",
-        "pubDate": "2026-10-02T16:38",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump expected to tap DNI Jay Clayton as new AI czar",
-        "link": "https://www.axios.com/2026/10/02/trump-new-ai-czar-jay-clayton-dni",
-        "pubDate": "2026-10-02T15:35",
         "feedId": "axios"
       }
     ]
