@@ -3,15 +3,39 @@
     "id": "hn",
     "items": [
       {
-        "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-        "link": "https://github.com/Niko1221/Strata",
-        "pubDate": "2026-10-04T12:51",
+        "title": "The CISA Alert: Security Beyond Solitary Confinement",
+        "link": "https://jnior.com/blog/the-cisa-alert-security-beyond-solitary-confinement/",
+        "pubDate": "2026-10-04T18:19",
         "feedId": "hn"
       },
       {
-        "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
-        "link": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
-        "pubDate": "2026-10-04T11:58",
+        "title": "Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN",
+        "link": "https://awesomedataviz.com/",
+        "pubDate": "2026-10-04T17:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "Building a RAG Pipeline for Semantic Code Search",
+        "link": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
+        "pubDate": "2026-10-04T17:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "Blindsight (Watts Novel)",
+        "link": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
+        "pubDate": "2026-10-04T16:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "Car is a smartphone on wheels. Here's who's listening",
+        "link": "https://automatictransmission.khoury.northeastern.edu/",
+        "pubDate": "2026-10-04T15:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+        "link": "https://github.com/Niko1221/Strata",
+        "pubDate": "2026-10-04T12:51",
         "feedId": "hn"
       },
       {
@@ -45,18 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Religious scholars met with Anthropic",
-        "link": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-        "pubDate": "2026-10-04T02:34",
-        "feedId": "hn"
-      },
-      {
-        "title": "We're working on a new RuneScape MMO",
-        "link": "https://play.runescape.com/4",
-        "pubDate": "2026-10-04T01:12",
-        "feedId": "hn"
-      },
-      {
         "title": "Tell HN: Bob Cringely has died",
         "link": "https://news.ycombinator.com/item?id=49949438",
         "pubDate": "2026-10-04T00:50",
@@ -75,21 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "We want you to build the next Git platform on Cloudflare",
-        "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
-        "pubDate": "2026-10-03T19:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-        "link": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-        "pubDate": "2026-10-03T19:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "How to hack time, with C2PA",
-        "link": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
-        "pubDate": "2026-10-03T18:52",
+        "title": "'Neanderthals Among Us' by Peter Sahlins Review",
+        "link": "https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review",
+        "pubDate": "2026-10-03T20:41",
         "feedId": "hn"
       }
     ]
@@ -110,21 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "We’re going to need default hard budget caps on pretty much everything",
-        "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-        "pubDate": "2026-10-04T07:58",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Kolibri: A Sovereign Open-Weight Model",
-        "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-        "pubDate": "2026-10-04T07:57",
-        "feedId": "lobsters"
-      },
-      {
         "title": "grubby: static site generator for git repos written in Ruby",
         "link": "https://git.btxx.org/grubby",
         "pubDate": "2026-10-04T10:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "We’re going to need default hard budget caps on pretty much everything",
+        "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+        "pubDate": "2026-10-04T07:58",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I got targeted: Trying to get your credentials via a git post-checkout hook",
-        "link": "https://frankwiles.com/posts/i-got-targeted/",
-        "pubDate": "2026-10-02T22:19",
+        "title": "Kolibri: A Sovereign Open-Weight Model",
+        "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+        "pubDate": "2026-10-04T07:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Flatpak from the CLI sucks",
+        "link": "https://kowalski7cc.xyz/blog/flatpak-from-the-cli-sucks/",
+        "pubDate": "2026-10-04T15:21",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +146,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "I got targeted: Trying to get your credentials via a git post-checkout hook",
+        "link": "https://frankwiles.com/posts/i-got-targeted/",
+        "pubDate": "2026-10-02T22:19",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Our RISC-V emulator PasRISCV",
         "link": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
         "pubDate": "2026-10-04T08:40",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Hacking the Go compiler to efficiently map IPv4 to IPv6",
+        "link": "https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6",
+        "pubDate": "2026-10-04T18:49",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Obelisk 0.42: Durable Agents, Layered Sandboxes",
-        "link": "https://obeli.sk/blog/announcing-obelisk-0-42/",
-        "pubDate": "2026-10-04T14:30",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Improving and Stabilizing the racoon2 IKE Daemon in NetBSD",
         "link": "https://blog.netbsd.org/tnf/entry/gsoc2026_racoon2",
         "pubDate": "2026-10-04T12:46",
         "feedId": "lobsters"
       },
       {
-        "title": "Rust, In Sickness & In Health",
-        "link": "https://www.youtube.com/watch?v=3kbPyuAtk7g",
-        "pubDate": "2026-10-03T20:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How to Hack Time, With C2PA",
-        "link": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
-        "pubDate": "2026-10-03T11:58",
+        "title": "Thoreau BASIC",
+        "link": "https://thoreaubasic.com/",
+        "pubDate": "2026-10-04T16:37",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
+        "link": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
+        "pubDate": "2026-10-04T15:34",
+        "feedId": "arstechnica"
+      },
       {
         "title": "All hail electrification. But let’s talk about the hard part.",
         "link": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
@@ -274,12 +280,6 @@
         "title": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3",
         "link": "https://arstechnica.com/cars/2026/10/tesla-sales-drop-2-percent-in-underwhelming-q3-2026/",
         "pubDate": "2026-10-02T16:05",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
-        "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
-        "pubDate": "2026-10-02T14:52",
         "feedId": "arstechnica"
       }
     ]
