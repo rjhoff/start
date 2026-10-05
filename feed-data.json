@@ -3,6 +3,30 @@
     "id": "hn",
     "items": [
       {
+        "title": "The logic of gambling undergirds everything coming out of Silicon Valley",
+        "link": "https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html",
+        "pubDate": "2026-10-05T00:58",
+        "feedId": "hn"
+      },
+      {
+        "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+        "link": "https://getartcraft.com/apps",
+        "pubDate": "2026-10-04T23:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+        "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+        "pubDate": "2026-10-04T22:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "In the wake of closure, a digital archive of animated materials appears online",
+        "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+        "pubDate": "2026-10-04T21:01",
+        "feedId": "hn"
+      },
+      {
         "title": "Homa: The end of TCP for AI clusters [video]",
         "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
         "pubDate": "2026-10-04T19:42",
@@ -33,12 +57,6 @@
         "feedId": "hn"
       },
       {
-        "title": "All I wanted was a custom domain email",
-        "link": "https://jacobg.co/emails-at-jacobg-co/",
-        "pubDate": "2026-10-04T17:47",
-        "feedId": "hn"
-      },
-      {
         "title": "Incentives in Academic Research",
         "link": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
         "pubDate": "2026-10-04T17:42",
@@ -48,12 +66,6 @@
         "title": "Xray-core concealed a certificate verification bypass vulnerability",
         "link": "https://github.com/net4people/bbs/issues/672",
         "pubDate": "2026-10-04T17:38",
-        "feedId": "hn"
-      },
-      {
-        "title": "The evolution of effective altruism",
-        "link": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
-        "pubDate": "2026-10-04T13:30",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
         "pubDate": "2026-10-04T08:41",
         "feedId": "hn"
-      },
-      {
-        "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
-        "link": "https://github.com/PowderworksCode/headstart",
-        "pubDate": "2026-10-04T06:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why don't more developers “use the platform”?",
-        "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-        "pubDate": "2026-10-04T04:10",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Rust's derive often implies inline",
-        "link": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
-        "pubDate": "2026-10-04T01:41",
-        "feedId": "lobsters"
-      },
-      {
         "title": "ncdu: NCurses Disk Usage (an updated fork)",
         "link": "https://github.com/rcalixte/ncdu",
         "pubDate": "2026-10-04T19:30",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Rust's derive often implies inline",
+        "link": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
+        "pubDate": "2026-10-04T01:41",
         "feedId": "lobsters"
       },
       {
@@ -116,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "grubby: static site generator for git repos written in Ruby",
-        "link": "https://git.btxx.org/grubby",
-        "pubDate": "2026-10-04T10:28",
-        "feedId": "lobsters"
-      },
-      {
         "title": "We’re going to need default hard budget caps on pretty much everything",
         "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
         "pubDate": "2026-10-04T07:58",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "grubby: static site generator for git repos written in Ruby",
+        "link": "https://git.btxx.org/grubby",
+        "pubDate": "2026-10-04T10:28",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Kolibri: A Sovereign Open-Weight Model",
-        "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-        "pubDate": "2026-10-04T07:57",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Iroh global content discovery",
         "link": "https://www.iroh.computer/blog/iroh-global-content-discovery",
         "pubDate": "2026-10-04T19:19",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Kolibri: A Sovereign Open-Weight Model",
+        "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+        "pubDate": "2026-10-04T07:57",
         "feedId": "lobsters"
       },
       {
