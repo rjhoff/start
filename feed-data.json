@@ -3,19 +3,49 @@
     "id": "hn",
     "items": [
       {
+        "title": "Resurrecting iChat Audio and Video Conferencing",
+        "link": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
+        "pubDate": "2026-10-06T03:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why Common Lisp is now the best programming language",
+        "link": "https://www.vivienhenz.com/common-lisp",
+        "pubDate": "2026-10-06T02:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "Photopea creator weighs in on Photosuite project",
+        "link": "https://github.com/eolix/photosuite/issues/77",
+        "pubDate": "2026-10-06T00:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
+        "link": "https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days",
+        "pubDate": "2026-10-06T00:24",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI tutoring with Khanmigo in a two-year school experiment",
+        "link": "https://edworkingpapers.com/ai26-1551",
+        "pubDate": "2026-10-06T00:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Samon: Designing a Zen Garden Raking Puzzle",
+        "link": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+        "pubDate": "2026-10-05T23:35",
+        "feedId": "hn"
+      },
+      {
         "title": "Ephemeral Testing",
         "link": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
         "pubDate": "2026-10-05T23:06",
         "feedId": "hn"
       },
       {
-        "title": "Worth Building",
-        "link": "https://armstr.ng/writing/worth-building",
-        "pubDate": "2026-10-05T22:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "Example.com Just Launched the Biggest Redesign in Decades",
+        "title": "Example.com just launched the biggest redesign in decades",
         "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
         "pubDate": "2026-10-05T22:55",
         "feedId": "hn"
@@ -33,21 +63,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]",
-        "link": "https://nivdayan.github.io/dostoevsky.pdf",
-        "pubDate": "2026-10-05T22:25",
+        "title": "Friendship ended with Deno, now Node is my best friend",
+        "link": "https://dbushell.com/2026/10/03/deno-to-node/",
+        "pubDate": "2026-10-05T22:30",
         "feedId": "hn"
       },
       {
         "title": "Texas city demands $2M for public records on Flock usage",
         "link": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
         "pubDate": "2026-10-05T22:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "Graphical UI",
-        "link": "https://www.graphicalui.com/",
-        "pubDate": "2026-10-05T21:51",
         "feedId": "hn"
       },
       {
@@ -66,30 +90,6 @@
         "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
         "link": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
         "pubDate": "2026-10-05T21:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "A third way of using Linux",
-        "link": "https://hisvirusness.com/third-is-the-way",
-        "pubDate": "2026-10-05T20:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "Incident with Actions",
-        "link": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
-        "pubDate": "2026-10-05T20:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Future of Mathematics",
-        "link": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/",
-        "pubDate": "2026-10-05T19:22",
-        "feedId": "hn"
-      },
-      {
-        "title": "Beam: Reflection's 501B open-weight model",
-        "link": "https://reflection.ai/blog/introducing-beam",
-        "pubDate": "2026-10-05T19:16",
         "feedId": "hn"
       }
     ]
@@ -128,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Mold 3.0.0 Released",
-        "link": "https://github.com/rui314/mold/releases/tag/v3.0.0",
-        "pubDate": "2026-10-05T14:24",
+        "title": "Open Source as We Know It Is Dead",
+        "link": "https://jross.me/open-source-as-we-know-it-is-dead/",
+        "pubDate": "2026-10-05T23:25",
         "feedId": "lobsters"
       },
       {
-        "title": "Using docker-compose with Podman rootless",
-        "link": "https://elou.world/en/tutorial/podman-docker-compose",
-        "pubDate": "2026-10-05T09:51",
+        "title": "Mold 3.0.0 Released",
+        "link": "https://github.com/rui314/mold/releases/tag/v3.0.0",
+        "pubDate": "2026-10-05T14:24",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "ncdu: NCurses Disk Usage (an updated fork)",
-        "link": "https://github.com/rcalixte/ncdu",
-        "pubDate": "2026-10-04T19:30",
+        "title": "Using docker-compose with Podman rootless",
+        "link": "https://elou.world/en/tutorial/podman-docker-compose",
+        "pubDate": "2026-10-05T09:51",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Refinement E-Graphs",
-        "link": "https://www.philipzucker.com/refinement_egraph/",
-        "pubDate": "2026-10-05T02:23",
+        "title": "ncdu: NCurses Disk Usage (an updated fork)",
+        "link": "https://github.com/rcalixte/ncdu",
+        "pubDate": "2026-10-04T19:30",
         "feedId": "lobsters"
       },
       {
@@ -176,9 +176,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Reverse Engineering Comanche Terrain Maps",
-        "link": "https://pikuma.com/blog/comanche-maps-reverse-engineering",
-        "pubDate": "2026-10-05T10:45",
+        "title": "Refinement E-Graphs",
+        "link": "https://www.philipzucker.com/refinement_egraph/",
+        "pubDate": "2026-10-05T02:23",
         "feedId": "lobsters"
       },
       {
