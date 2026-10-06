@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "ASOS app users receive push notifications apparently sent by hackers",
+        "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
+        "pubDate": "2026-10-06T10:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nobel Prize in Physics goes to Francis Halzen",
+        "link": "https://www.nobelprize.org/prizes/physics/2026/",
+        "pubDate": "2026-10-06T09:48",
+        "feedId": "hn"
+      },
+      {
+        "title": "Gleam doesn't compile to Erlang source anymore",
+        "link": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+        "pubDate": "2026-10-06T08:08",
+        "feedId": "hn"
+      },
+      {
         "title": "Resurrecting iChat Audio and Video Conferencing",
         "link": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
         "pubDate": "2026-10-06T03:39",
@@ -12,24 +30,6 @@
         "title": "Why Common Lisp is now the best programming language",
         "link": "https://www.vivienhenz.com/common-lisp",
         "pubDate": "2026-10-06T02:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "Photopea creator weighs in on Photosuite project",
-        "link": "https://github.com/eolix/photosuite/issues/77",
-        "pubDate": "2026-10-06T00:41",
-        "feedId": "hn"
-      },
-      {
-        "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
-        "link": "https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days",
-        "pubDate": "2026-10-06T00:24",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI tutoring with Khanmigo in a two-year school experiment",
-        "link": "https://edworkingpapers.com/ai26-1551",
-        "pubDate": "2026-10-06T00:00",
         "feedId": "hn"
       },
       {
@@ -69,12 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Texas city demands $2M for public records on Flock usage",
-        "link": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
-        "pubDate": "2026-10-05T22:05",
-        "feedId": "hn"
-      },
-      {
         "title": "Find the flattest route between any two points in SF",
         "link": "https://flattensf.com/",
         "pubDate": "2026-10-05T21:40",
@@ -91,6 +85,12 @@
         "link": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
         "pubDate": "2026-10-05T21:00",
         "feedId": "hn"
+      },
+      {
+        "title": "Beam: Reflection's 501B open-weight model",
+        "link": "https://reflection.ai/blog/introducing-beam",
+        "pubDate": "2026-10-05T19:16",
+        "feedId": "hn"
       }
     ]
   },
@@ -98,9 +98,9 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Gleam doesn't compile to Erlang source anymore",
-        "link": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-        "pubDate": "2026-10-05T17:29",
+        "title": "Email Self Hosters - what are you using?",
+        "link": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
+        "pubDate": "2026-10-06T08:09",
         "feedId": "lobsters"
       },
       {
@@ -110,9 +110,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Gleam doesn't compile to Erlang source anymore",
+        "link": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+        "pubDate": "2026-10-05T17:29",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Flirt is now Open-Source",
         "link": "https://blog.buenzli.dev/flirt-is-open-source/",
         "pubDate": "2026-10-05T09:34",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Open Source as We Know It Is Dead",
+        "link": "https://jross.me/open-source-as-we-know-it-is-dead/",
+        "pubDate": "2026-10-05T23:25",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Montray - a tray icon for systemd service health",
+        "link": "https://github.com/dimonomid/montray/",
+        "pubDate": "2026-10-06T09:07",
         "feedId": "lobsters"
       },
       {
@@ -128,12 +146,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Open Source as We Know It Is Dead",
-        "link": "https://jross.me/open-source-as-we-know-it-is-dead/",
-        "pubDate": "2026-10-05T23:25",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Mold 3.0.0 Released",
         "link": "https://github.com/rui314/mold/releases/tag/v3.0.0",
         "pubDate": "2026-10-05T14:24",
@@ -146,21 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Using docker-compose with Podman rootless",
-        "link": "https://elou.world/en/tutorial/podman-docker-compose",
-        "pubDate": "2026-10-05T09:51",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What are you doing this week?",
         "link": "https://lobste.rs/s/nvkrb9/what_are_you_doing_this_week",
         "pubDate": "2026-10-05T16:07",
         "feedId": "lobsters"
       },
       {
-        "title": "ncdu: NCurses Disk Usage (an updated fork)",
-        "link": "https://github.com/rcalixte/ncdu",
-        "pubDate": "2026-10-04T19:30",
+        "title": "Using docker-compose with Podman rootless",
+        "link": "https://elou.world/en/tutorial/podman-docker-compose",
+        "pubDate": "2026-10-05T09:51",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Refinement E-Graphs",
-        "link": "https://www.philipzucker.com/refinement_egraph/",
-        "pubDate": "2026-10-05T02:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "You don't need an effect system",
-        "link": "https://burningwitness.github.io/blog/posts/against-effect-systems/",
-        "pubDate": "2026-10-05T18:03",
+        "title": "ncdu: NCurses Disk Usage (an updated fork)",
+        "link": "https://github.com/rcalixte/ncdu",
+        "pubDate": "2026-10-04T19:30",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,60 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump has a new target: The words Americans use",
+        "link": "https://www.axios.com/2026/10/06/trump-super-intelligence-war-words-ai-affordability",
+        "pubDate": "2026-10-06T10:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "Missing details keep U.S. plague response on hold",
+        "link": "https://www.axios.com/2026/10/06/missing-details-us-plague-response",
+        "pubDate": "2026-10-06T09:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: Senate GOP to send $5m to shore up Graham in South Carolina",
+        "link": "https://www.axios.com/2026/10/06/south-carolina-senate-gop-graham-money",
+        "pubDate": "2026-10-06T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "Longevity guru Bryan Johnson: \"People really want me to die\"",
+        "link": "https://www.axios.com/2026/10/06/bryan-johnson-dont-die-autoimmune-diagnosis",
+        "pubDate": "2026-10-06T09:10",
+        "feedId": "axios"
+      },
+      {
+        "title": "Wall Street on track for record profits",
+        "link": "https://www.axios.com/2026/10/06/wall-street-profits-banks",
+        "pubDate": "2026-10-06T09:02",
+        "feedId": "axios"
+      },
+      {
+        "title": "Latino group bets on bilingual AI to cut voter confusion before the midterms",
+        "link": "https://www.axios.com/2026/10/06/latino-voters-ai-guide-midterms-nubi",
+        "pubDate": "2026-10-06T09:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: Gun safety groups jump into midterms with $10 million assist for Democrats",
+        "link": "https://www.axios.com/2026/10/06/democrats-election-gun-control-moms-demand-action",
+        "pubDate": "2026-10-06T09:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "Inside Trump's new AI playbook",
+        "link": "https://www.axios.com/2026/10/06/trump-ai-strategy-task-force",
+        "pubDate": "2026-10-06T09:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "The most-watched election in U.S. history",
+        "link": "https://www.axios.com/2026/10/06/us-elections-election-monitors",
+        "pubDate": "2026-10-06T09:00",
+        "feedId": "axios"
+      },
+      {
         "title": "Inside the transgender rights fight injecting chaos into Democrats' midterm efforts",
         "link": "https://www.axios.com/2026/10/05/democrats-transgender-sports-ads-election-kaptur",
         "pubDate": "2026-10-05T22:44",
@@ -321,60 +375,6 @@
         "title": "House GOP whip: Limit spending to districts with \"biggest return\"",
         "link": "https://www.axios.com/2026/10/05/redistricting-house-republicans-midterms-tom-emmer",
         "pubDate": "2026-10-05T17:18",
-        "feedId": "axios"
-      },
-      {
-        "title": "Eurodrama in currency markets raises U.S. dollar's standing",
-        "link": "https://www.axios.com/2026/10/05/euro-dollar-france-spain",
-        "pubDate": "2026-10-05T16:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Dennis Hastert, disgraced ex-House speaker, dies at 84",
-        "link": "https://www.axios.com/2026/10/05/dennis-hastert-dies-house-speaker-sex-abuse-scandal",
-        "pubDate": "2026-10-05T16:02",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump's economic tightrope messaging of strong economy, high prices",
-        "link": "https://www.axios.com/2026/10/05/trump-economy-bessent-sentiment",
-        "pubDate": "2026-10-05T16:01",
-        "feedId": "axios"
-      },
-      {
-        "title": "The Iran war is hitting America's school buses — and kids are paying the price",
-        "link": "https://www.axios.com/2026/10/05/iran-war-diesel-fuel-costs-school-bus",
-        "pubDate": "2026-10-05T15:59",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Trump's top national security aides meet secretly at Camp David on Iran, Yemen",
-        "link": "https://www.axios.com/2026/10/03/trumps-cabinet-camp-david-iran-war-yemen-houthis",
-        "pubDate": "2026-10-05T13:59",
-        "feedId": "axios"
-      },
-      {
-        "title": "A Trump-sized shadow looms over the Supreme Court's new term",
-        "link": "https://www.axios.com/2026/10/05/supreme-court-new-term-trump-cases",
-        "pubDate": "2026-10-05T09:43",
-        "feedId": "axios"
-      },
-      {
-        "title": "Strong data. Bad vibes. Voters are judging Trump's economy by prices.",
-        "link": "https://www.axios.com/2026/10/05/trump-economy-prices-voters-polling",
-        "pubDate": "2026-10-05T09:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "Latino men swung hard to Trump in 2024. Now they're swinging back",
-        "link": "https://www.axios.com/2026/10/05/latinos-democrats-trump",
-        "pubDate": "2026-10-05T09:05",
-        "feedId": "axios"
-      },
-      {
-        "title": "App-makers are having a blast with the iPhone Duo, turning it into a retro Walkman",
-        "link": "https://www.axios.com/2026/10/05/apple-iphone-duo-foldable-walkman-app",
-        "pubDate": "2026-10-05T09:00",
         "feedId": "axios"
       }
     ]
