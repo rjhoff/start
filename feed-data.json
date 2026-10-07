@@ -1,98 +1,8 @@
 {
   "hn": {
     "id": "hn",
-    "items": [
-      {
-        "title": "Sharing AI Progress in Mathematics",
-        "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-        "pubDate": "2026-10-06T22:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ask HN: Why is Ask HN only showing me 14 posts?",
-        "link": "https://news.ycombinator.com/item?id=49984484",
-        "pubDate": "2026-10-06T21:37",
-        "feedId": "hn"
-      },
-      {
-        "title": "Decisions API is in public beta",
-        "link": "https://developers.openai.com/api/docs/guides/decisions",
-        "pubDate": "2026-10-06T20:57",
-        "feedId": "hn"
-      },
-      {
-        "title": "OpenSSH 10.6",
-        "link": "https://www.openssh.org/releasenotes.html#10.6",
-        "pubDate": "2026-10-06T20:41",
-        "feedId": "hn"
-      },
-      {
-        "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
-        "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
-        "pubDate": "2026-10-06T20:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "System-level ad-blocking in Android",
-        "link": "https://kevinboone.me/adblock.html",
-        "pubDate": "2026-10-06T20:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "Berthd",
-        "link": "https://berthd.app/",
-        "pubDate": "2026-10-06T19:14",
-        "feedId": "hn"
-      },
-      {
-        "title": "Toronto-Based VPN Provider Plans to Quit Canada over Lawful-Access Bill",
-        "link": "https://citizenlab.ca/toronto-based-vpn-provider-plans-to-quit-canada-over-lawful-access-bill/",
-        "pubDate": "2026-10-06T18:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-        "link": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-        "pubDate": "2026-10-06T18:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-        "link": "https://github.com/FeSens/openTPU",
-        "pubDate": "2026-10-06T16:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-        "link": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-        "pubDate": "2026-10-06T16:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Early History of Smalltalk (1993)",
-        "link": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
-        "pubDate": "2026-10-06T15:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
-        "link": "https://peterszentkiralyi.eu/darkplug/",
-        "pubDate": "2026-10-06T13:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
-        "link": "https://www.parseable.com",
-        "pubDate": "2026-10-06T13:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "Mistral Large 4",
-        "link": "https://mistral.ai/news/mistral-large-4/\\",
-        "pubDate": "2026-10-06T13:15",
-        "feedId": "hn"
-      }
-    ]
+    "error": "Request timed out after 10000ms",
+    "items": []
   },
   "lobsters": {
     "id": "lobsters",
@@ -104,15 +14,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Email Self Hosters - what are you using?",
-        "link": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
-        "pubDate": "2026-10-06T08:09",
-        "feedId": "lobsters"
-      },
-      {
         "title": "A sustainable web career, for when all this blows over",
         "link": "https://dbushell.com/2026/10/07/sustainable-web-career/",
         "pubDate": "2026-10-06T18:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "That Time I Worked With a Laptop Thief (2025)",
+        "link": "https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/",
+        "pubDate": "2026-10-06T20:16",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Email Self Hosters - what are you using?",
+        "link": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
+        "pubDate": "2026-10-06T08:09",
         "feedId": "lobsters"
       },
       {
@@ -122,39 +38,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "That Time I Worked With a Laptop Thief",
-        "link": "https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/",
-        "pubDate": "2026-10-06T20:16",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Async Rust: Where does the scheduler live?",
-        "link": "https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/",
-        "pubDate": "2026-10-05T18:31",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Last rites for Gentoo's Chromium package",
         "link": "https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/",
         "pubDate": "2026-10-06T17:46",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Gleam doesn't compile to Erlang source anymore",
-        "link": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-        "pubDate": "2026-10-05T17:29",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Bidirectional Type Slicing",
-        "link": "https://arxiv.org/pdf/2607.12197",
-        "pubDate": "2026-10-06T13:36",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What is Codemode",
-        "link": "https://lucumr.pocoo.org/2026/10/6/codemode/",
-        "pubDate": "2026-10-06T14:27",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +50,51 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why We Should Inject Dependencies",
-        "link": "https://gist.github.com/alassek/1a185a8cdae20ddd991a8cd3cd90d347",
-        "pubDate": "2026-10-06T18:03",
+        "title": "A Terminal Protocol for Program Status (OSC 7501)",
+        "link": "https://mitchellh.com/writing/program-status-osc7501",
+        "pubDate": "2026-10-06T21:12",
         "feedId": "lobsters"
       },
       {
-        "title": "Open Source as We Know It Is Dead",
-        "link": "https://jross.me/open-source-as-we-know-it-is-dead/",
-        "pubDate": "2026-10-05T23:25",
+        "title": "Async Rust: Where does the scheduler live?",
+        "link": "https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/",
+        "pubDate": "2026-10-05T18:31",
         "feedId": "lobsters"
       },
       {
-        "title": "Release of Polars 2.0",
-        "link": "https://pola.rs/posts/release-polars-2/",
-        "pubDate": "2026-10-06T14:30",
+        "title": "Is COSMIC DE mogging KDE Plasma?",
+        "link": "https://thelibre.news/is-cosmic-de-mogging-kde-plasma/",
+        "pubDate": "2026-10-07T00:15",
         "feedId": "lobsters"
       },
       {
-        "title": "Extend Lua with Zig 1: Hello World",
-        "link": "https://www.robbielyman.com/blog/extend-lua-with-zig-1/",
-        "pubDate": "2026-10-06T11:58",
+        "title": "Bidirectional Type Slicing",
+        "link": "https://arxiv.org/pdf/2607.12197",
+        "pubDate": "2026-10-06T13:36",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Gleam doesn't compile to Erlang source anymore",
+        "link": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+        "pubDate": "2026-10-05T17:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What is Codemode",
+        "link": "https://lucumr.pocoo.org/2026/10/6/codemode/",
+        "pubDate": "2026-10-06T14:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
+        "link": "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/",
+        "pubDate": "2026-10-06T22:26",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "When random is not actually random enough",
+        "link": "https://ersc.io/blog/when-random-isnt-random-enough",
+        "pubDate": "2026-10-07T00:43",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +198,24 @@
     "id": "axios",
     "items": [
       {
+        "title": "\"You suck\": Emmer unloads on Senate Republicans",
+        "link": "https://www.axios.com/2026/10/06/tom-emmer-senate-republicans-frustration-save-act",
+        "pubDate": "2026-10-06T22:55",
+        "feedId": "axios"
+      },
+      {
+        "title": "House GOP leaders admit redistricting fell short",
+        "link": "https://www.axios.com/2026/10/06/house-republicans-redistricting-midterm-elections",
+        "pubDate": "2026-10-06T22:55",
+        "feedId": "axios"
+      },
+      {
+        "title": "CDC: Monitoring Russian plague risk, \"prepared\" for any threat",
+        "link": "https://www.axios.com/2026/10/06/cdc-russia-pneumonic-plague-outbreak-threat-us-risk",
+        "pubDate": "2026-10-06T21:50",
+        "feedId": "axios"
+      },
+      {
         "title": "A brutal winter heating bill is coming for some homes",
         "link": "https://www.axios.com/2026/10/06/winter-heating-costs-increase-iran-ukraine-war",
         "pubDate": "2026-10-06T20:54",
@@ -357,24 +285,6 @@
         "title": "Scoop: Senate GOP to send $5m to shore up Graham in South Carolina",
         "link": "https://www.axios.com/2026/10/06/south-carolina-senate-gop-graham-money",
         "pubDate": "2026-10-06T09:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "Longevity guru Bryan Johnson: \"People really want me to die\"",
-        "link": "https://www.axios.com/2026/10/06/bryan-johnson-dont-die-autoimmune-diagnosis",
-        "pubDate": "2026-10-06T09:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "Wall Street on track for record profits",
-        "link": "https://www.axios.com/2026/10/06/wall-street-profits-banks",
-        "pubDate": "2026-10-06T09:02",
-        "feedId": "axios"
-      },
-      {
-        "title": "Latino group bets on bilingual AI to cut voter confusion before the midterms",
-        "link": "https://www.axios.com/2026/10/06/latino-voters-ai-guide-midterms-nubi",
-        "pubDate": "2026-10-06T09:00",
         "feedId": "axios"
       }
     ]
