@@ -1,88 +1,106 @@
 {
   "hn": {
     "id": "hn",
-    "error": "Request timed out after 10000ms",
-    "items": []
+    "items": [
+      {
+        "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
+        "pubDate": "2026-10-07T16:07",
+        "feedId": "hn"
+      },
+      {
+        "title": "A Cop's Case for Flock",
+        "link": "https://worksinprogress.co/issue/a-cops-case-for-flock/",
+        "pubDate": "2026-10-07T16:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Open source 160 sound visualization experiments",
+        "link": "https://www.kagan.in/iwrzwr/visual-archive/",
+        "pubDate": "2026-10-07T15:46",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Trigora – durable execution without history replay",
+        "link": "https://github.com/trigora-dev/trigora",
+        "pubDate": "2026-10-07T15:44",
+        "feedId": "hn"
+      },
+      {
+        "title": "Navier–Stokes Lost in Translation",
+        "link": "https://arxiv.org/abs/2610.08144",
+        "pubDate": "2026-10-07T15:24",
+        "feedId": "hn"
+      },
+      {
+        "title": "Across the Globe, People Increasingly Say Social Media Is Harming Democracy",
+        "link": "https://www.pewresearch.org/global/2026/10/01/across-the-globe-people-increasingly-say-social-media-is-harming-democracy/",
+        "pubDate": "2026-10-07T15:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "Reverse Engineering of the M-VAVE FM-1 Pocket Synthesizer Firmware",
+        "link": "https://github.com/AL-255/FM-1-RE",
+        "pubDate": "2026-10-07T15:19",
+        "feedId": "hn"
+      },
+      {
+        "title": "GitHub Incident with Git Operations, Pull Requests and Actions",
+        "link": "https://www.githubstatus.com/incidents/djlmxz2zd0j7",
+        "pubDate": "2026-10-07T15:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "ShinyHunters Extorted Boeing Spin-Off Prior to Arrests",
+        "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+        "pubDate": "2026-10-07T15:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
+        "link": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+        "pubDate": "2026-10-07T15:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Animated ASCII Art for Web Pages",
+        "link": "https://ascii.rest/",
+        "pubDate": "2026-10-07T15:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI-assisted proof of optimal packing for 11 squares",
+        "link": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
+        "pubDate": "2026-10-07T14:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "All the numbers: Amazon Prime Day 2026 powered by AWS",
+        "link": "https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/",
+        "pubDate": "2026-10-07T13:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "Google Playground",
+        "link": "https://labs.google/playground",
+        "pubDate": "2026-10-07T13:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "Anti-Patterns in Software Blogging",
+        "link": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+        "pubDate": "2026-10-07T13:08",
+        "feedId": "hn"
+      }
+    ]
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
       {
-        "title": "Brut, the Brutal Router for Unix Tools",
-        "link": "https://brut.sh",
-        "pubDate": "2026-10-06T17:17",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A sustainable web career, for when all this blows over",
-        "link": "https://dbushell.com/2026/10/07/sustainable-web-career/",
-        "pubDate": "2026-10-06T18:29",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "That Time I Worked With a Laptop Thief (2025)",
-        "link": "https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/",
-        "pubDate": "2026-10-06T20:16",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Email Self Hosters - what are you using?",
-        "link": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
-        "pubDate": "2026-10-06T08:09",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Montray - a tray icon for systemd service health",
-        "link": "https://github.com/dimonomid/montray/",
-        "pubDate": "2026-10-06T09:07",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Last rites for Gentoo's Chromium package",
-        "link": "https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/",
-        "pubDate": "2026-10-06T17:46",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Pared - remove unwanted Apple Intelligence models without disabling SIP",
-        "link": "https://github.com/4evy/pared",
-        "pubDate": "2026-10-06T18:27",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A Terminal Protocol for Program Status (OSC 7501)",
-        "link": "https://mitchellh.com/writing/program-status-osc7501",
-        "pubDate": "2026-10-06T21:12",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Async Rust: Where does the scheduler live?",
-        "link": "https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/",
-        "pubDate": "2026-10-05T18:31",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Is COSMIC DE mogging KDE Plasma?",
-        "link": "https://thelibre.news/is-cosmic-de-mogging-kde-plasma/",
-        "pubDate": "2026-10-07T00:15",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Bidirectional Type Slicing",
-        "link": "https://arxiv.org/pdf/2607.12197",
-        "pubDate": "2026-10-06T13:36",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Gleam doesn't compile to Erlang source anymore",
-        "link": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-        "pubDate": "2026-10-05T17:29",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What is Codemode",
-        "link": "https://lucumr.pocoo.org/2026/10/6/codemode/",
-        "pubDate": "2026-10-06T14:27",
+        "title": "Anti-Patterns in Software Blogging",
+        "link": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+        "pubDate": "2026-10-07T13:09",
         "feedId": "lobsters"
       },
       {
@@ -92,9 +110,81 @@
         "feedId": "lobsters"
       },
       {
-        "title": "When random is not actually random enough",
-        "link": "https://ersc.io/blog/when-random-isnt-random-enough",
-        "pubDate": "2026-10-07T00:43",
+        "title": "That Time I Worked With a Laptop Thief (2025)",
+        "link": "https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/",
+        "pubDate": "2026-10-06T20:16",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "C for Rust Programmers",
+        "link": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
+        "pubDate": "2026-10-07T14:30",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Shipping JPEG XL in Chrome",
+        "link": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+        "pubDate": "2026-10-07T11:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Is COSMIC DE mogging KDE Plasma?",
+        "link": "https://thelibre.news/is-cosmic-de-mogging-kde-plasma/",
+        "pubDate": "2026-10-07T00:15",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+        "link": "https://github.com/storytold/photocraft",
+        "pubDate": "2026-10-07T12:04",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Reasons to dislike AI coding",
+        "link": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/",
+        "pubDate": "2026-10-07T05:34",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Creating distro build tooling for a small community",
+        "link": "https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html",
+        "pubDate": "2026-10-07T16:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Brut, the Brutal Router for Unix Tools",
+        "link": "https://brut.sh",
+        "pubDate": "2026-10-06T17:17",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Explaining the Magelight XP glitch in Skyrim",
+        "link": "https://blog.alexbeals.com/posts/explaining-the-magelight-xp-glitch-in-skyrim",
+        "pubDate": "2026-10-07T09:08",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A sustainable web career, for when all this blows over",
+        "link": "https://dbushell.com/2026/10/07/sustainable-web-career/",
+        "pubDate": "2026-10-06T18:29",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Last rites for Gentoo's Chromium package",
+        "link": "https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/",
+        "pubDate": "2026-10-06T17:46",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A Terminal Protocol for Program Status (OSC 7501)",
+        "link": "https://mitchellh.com/writing/program-status-osc7501",
+        "pubDate": "2026-10-06T21:12",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Faster streaming HTML with batches and aggregates",
+        "link": "https://andersmurphy.com/2026/09/29/faster-streaming-html-with-batches-and-aggregates.html",
+        "pubDate": "2026-10-07T09:26",
         "feedId": "lobsters"
       }
     ]
@@ -102,6 +192,48 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Jaguar Type 01 debuts; now, no one remembers the electric Ferrari",
+        "link": "https://arstechnica.com/cars/2026/10/jaguar-makes-its-controversial-all-ev-return-with-the-type-01/",
+        "pubDate": "2026-10-07T15:48",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Trade group crunches numbers on Trump’s impossible push for 100% US-made tech",
+        "link": "https://arstechnica.com/tech-policy/2026/10/trade-group-crunches-numbers-on-trumps-impossible-push-for-100-us-made-tech/",
+        "pubDate": "2026-10-07T15:19",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+        "link": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
+        "pubDate": "2026-10-07T14:12",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google rolls out improved SynthID AI content detector, now available globally",
+        "link": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+        "pubDate": "2026-10-07T14:00",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "AI/ML is becoming a performance factor in motorsport",
+        "link": "https://arstechnica.com/cars/2026/10/ai-ml-setups-became-a-tool-in-indycar-champion-alex-palous-toolbox/",
+        "pubDate": "2026-10-07T13:56",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Review: Fine, let's talk about Digger",
+        "link": "https://arstechnica.com/culture/2026/10/review-digger-is-both-frustrating-and-brilliant-by-design/",
+        "pubDate": "2026-10-07T13:01",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency",
+        "link": "https://arstechnica.com/space/2026/10/nasa-is-keen-on-pursuing-at-least-one-joint-science-mission-with-europe/",
+        "pubDate": "2026-10-07T11:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
         "link": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
@@ -149,54 +281,54 @@
         "link": "https://arstechnica.com/gadgets/2026/10/amazon-bricks-alexas-ability-to-control-echo-speakers-aux-input/",
         "pubDate": "2026-10-06T17:03",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Neutrino physicist wins 2026 Nobel Physics Prize",
-        "link": "https://arstechnica.com/science/2026/10/neutrino-physicist-wins-2026-nobel-physics-prize/",
-        "pubDate": "2026-10-06T16:53",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Googlebook \"Better Together\" phone features don't work with Samsung at launch",
-        "link": "https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/",
-        "pubDate": "2026-10-06T16:15",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Why is NASA bringing 7,500 contractors back to work as civil servants?",
-        "link": "https://arstechnica.com/space/2026/10/why-is-nasa-bringing-7500-contractors-back-to-work-as-civil-servants/",
-        "pubDate": "2026-10-06T16:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "All-electric camping gets a solar upgrade: The 2027 Pebble Flow",
-        "link": "https://arstechnica.com/cars/2026/10/this-self-parking-electric-travel-trailer-gets-a-solar-upgrade-for-2027/",
-        "pubDate": "2026-10-06T15:23",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Big Oil asks Supreme Court to kill climate lawsuits before trial",
-        "link": "https://arstechnica.com/tech-policy/2026/10/big-oil-asks-supreme-court-to-kill-climate-lawsuits-before-trial/",
-        "pubDate": "2026-10-06T13:29",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-        "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-        "pubDate": "2026-10-06T12:21",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
-        "link": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
-        "pubDate": "2026-10-06T12:00",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Why France is a warning sign for the markets",
+        "link": "https://www.axios.com/2026/10/07/france-global-bond-markets",
+        "pubDate": "2026-10-07T15:58",
+        "feedId": "axios"
+      },
+      {
+        "title": "Raskin seeks to preserve Trump's D.C. \"propaganda\" in Smithsonian",
+        "link": "https://www.axios.com/2026/10/07/raskin-trump-dc-banners-signs-smithsonian",
+        "pubDate": "2026-10-07T14:55",
+        "feedId": "axios"
+      },
+      {
+        "title": "\"The beginning of a new scientific paradigm\": Zuckerberg's Biohub, U.S. and Google build virtual cell",
+        "link": "https://www.axios.com/2026/10/07/zuckerberg-biohub-ai-biology-data",
+        "pubDate": "2026-10-07T13:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "America's changing disaster risk hits energy",
+        "link": "https://www.axios.com/2026/10/07/extreme-weather-thunderstorms-insurance-energy-grid",
+        "pubDate": "2026-10-07T09:25",
+        "feedId": "axios"
+      },
+      {
+        "title": "Exclusive: Paxton privately blames campaign woes on Iran war, gas prices",
+        "link": "https://www.axios.com/2026/10/07/ken-paxton-iran-war-gas-prices-audio-trump-texas",
+        "pubDate": "2026-10-07T09:15",
+        "feedId": "axios"
+      },
+      {
+        "title": "3 years later, Netanyahu faces reckoning over Oct. 7 in Israeli election",
+        "link": "https://www.axios.com/2026/10/07/netanyahu-oct-7-warning-israel-election-polls",
+        "pubDate": "2026-10-07T09:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "\"Not safe for kids\": Advocacy group urges OpenAI to keep teens off ChatGPT",
+        "link": "https://www.axios.com/2026/10/07/chatgpt-teens-safety-risk-common-sense-media",
+        "pubDate": "2026-10-07T09:00",
+        "feedId": "axios"
+      },
       {
         "title": "\"You suck\": Emmer unloads on Senate Republicans",
         "link": "https://www.axios.com/2026/10/06/tom-emmer-senate-republicans-frustration-save-act",
@@ -243,48 +375,6 @@
         "title": "Paramount closes historic $110B deal for Warner Bros. Discovery to create Skydance",
         "link": "https://www.axios.com/2026/10/06/paramount-warner-bros-discovery-deal-skydance",
         "pubDate": "2026-10-06T16:26",
-        "feedId": "axios"
-      },
-      {
-        "title": "SF Fed president: AI demand could extend energy shock",
-        "link": "https://www.axios.com/2026/10/06/fed-ai-daly-inflation-chips",
-        "pubDate": "2026-10-06T15:55",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump remarks that Iran could \"take out\" Los Angeles, San Diego draw backlash",
-        "link": "https://www.axios.com/2026/10/06/trump-iran-take-out-la-san-diego",
-        "pubDate": "2026-10-06T14:11",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"I don't want an oligopoly\": New open-weight AI models mount a comeback against China",
-        "link": "https://www.axios.com/2026/10/06/reflection-mistral-open-weight-ai-models-china",
-        "pubDate": "2026-10-06T13:05",
-        "feedId": "axios"
-      },
-      {
-        "title": "The midterms are an energy election — and here are five places to look",
-        "link": "https://www.axios.com/2026/10/06/midterm-election-energy-costs",
-        "pubDate": "2026-10-06T12:42",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump has a new target: The words Americans use",
-        "link": "https://www.axios.com/2026/10/06/trump-super-intelligence-war-words-ai-affordability",
-        "pubDate": "2026-10-06T10:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "Missing details keep U.S. plague response on hold",
-        "link": "https://www.axios.com/2026/10/06/missing-details-us-plague-response",
-        "pubDate": "2026-10-06T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Senate GOP to send $5m to shore up Graham in South Carolina",
-        "link": "https://www.axios.com/2026/10/06/south-carolina-senate-gop-graham-money",
-        "pubDate": "2026-10-06T09:20",
         "feedId": "axios"
       }
     ]
