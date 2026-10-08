@@ -3,26 +3,62 @@
     "id": "hn",
     "items": [
       {
-        "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
-        "pubDate": "2026-10-07T16:07",
+        "title": "Margaret Hamilton has died",
+        "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+        "pubDate": "2026-10-07T21:16",
         "feedId": "hn"
       },
       {
-        "title": "A Cop's Case for Flock",
-        "link": "https://worksinprogress.co/issue/a-cops-case-for-flock/",
-        "pubDate": "2026-10-07T16:00",
+        "title": "'Jonathan' is the oldest land animal on Earth",
+        "link": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+        "pubDate": "2026-10-07T20:01",
         "feedId": "hn"
       },
       {
-        "title": "Open source 160 sound visualization experiments",
-        "link": "https://www.kagan.in/iwrzwr/visual-archive/",
-        "pubDate": "2026-10-07T15:46",
+        "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+        "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+        "pubDate": "2026-10-07T18:49",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Trigora – durable execution without history replay",
-        "link": "https://github.com/trigora-dev/trigora",
+        "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+        "link": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+        "pubDate": "2026-10-07T18:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Claude Haiku 5.5",
+        "link": "https://www.anthropic.com/claude-haiku-5-5",
+        "pubDate": "2026-10-07T18:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "GPT‑6 and Intelligent UI for everyone",
+        "link": "https://openai.com/index/gpt-6-for-everyone/",
+        "pubDate": "2026-10-07T18:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
+        "link": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
+        "pubDate": "2026-10-07T17:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "Docker Agent",
+        "link": "https://github.com/docker/docker-agent",
+        "pubDate": "2026-10-07T17:48",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+        "link": "https://agent.reviews/",
+        "pubDate": "2026-10-07T16:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+        "link": "https://bigwords.page/",
         "pubDate": "2026-10-07T15:44",
         "feedId": "hn"
       },
@@ -33,32 +69,14 @@
         "feedId": "hn"
       },
       {
-        "title": "Across the Globe, People Increasingly Say Social Media Is Harming Democracy",
-        "link": "https://www.pewresearch.org/global/2026/10/01/across-the-globe-people-increasingly-say-social-media-is-harming-democracy/",
-        "pubDate": "2026-10-07T15:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "Reverse Engineering of the M-VAVE FM-1 Pocket Synthesizer Firmware",
-        "link": "https://github.com/AL-255/FM-1-RE",
-        "pubDate": "2026-10-07T15:19",
-        "feedId": "hn"
-      },
-      {
-        "title": "GitHub Incident with Git Operations, Pull Requests and Actions",
-        "link": "https://www.githubstatus.com/incidents/djlmxz2zd0j7",
-        "pubDate": "2026-10-07T15:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "ShinyHunters Extorted Boeing Spin-Off Prior to Arrests",
-        "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-        "pubDate": "2026-10-07T15:15",
-        "feedId": "hn"
-      },
-      {
-        "title": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
+        "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
         "link": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+        "pubDate": "2026-10-07T15:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why were Victorian elites so effective?",
+        "link": "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/",
         "pubDate": "2026-10-07T15:09",
         "feedId": "hn"
       },
@@ -69,27 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "AI-assisted proof of optimal packing for 11 squares",
-        "link": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
-        "pubDate": "2026-10-07T14:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "All the numbers: Amazon Prime Day 2026 powered by AWS",
-        "link": "https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/",
-        "pubDate": "2026-10-07T13:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "Google Playground",
-        "link": "https://labs.google/playground",
-        "pubDate": "2026-10-07T13:42",
-        "feedId": "hn"
-      },
-      {
-        "title": "Anti-Patterns in Software Blogging",
-        "link": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
-        "pubDate": "2026-10-07T13:08",
+        "title": "SynthID Detector",
+        "link": "https://synthid.com/",
+        "pubDate": "2026-10-07T14:16",
         "feedId": "hn"
       }
     ]
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
-        "link": "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/",
-        "pubDate": "2026-10-06T22:26",
+        "title": "Software developers are not okay",
+        "link": "https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/",
+        "pubDate": "2026-10-07T19:35",
         "feedId": "lobsters"
       },
       {
-        "title": "That Time I Worked With a Laptop Thief (2025)",
-        "link": "https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/",
-        "pubDate": "2026-10-06T20:16",
+        "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
+        "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+        "pubDate": "2026-10-07T21:38",
         "feedId": "lobsters"
       },
       {
@@ -122,27 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Shipping JPEG XL in Chrome",
-        "link": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
-        "pubDate": "2026-10-07T11:57",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Is COSMIC DE mogging KDE Plasma?",
-        "link": "https://thelibre.news/is-cosmic-de-mogging-kde-plasma/",
-        "pubDate": "2026-10-07T00:15",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
-        "link": "https://github.com/storytold/photocraft",
-        "pubDate": "2026-10-07T12:04",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Reasons to dislike AI coding",
-        "link": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/",
-        "pubDate": "2026-10-07T05:34",
+        "title": "Calling a function in C without naming it",
+        "link": "https://wiro.world/posts/calling-c-func-without-naming-it/",
+        "pubDate": "2026-10-07T18:15",
         "feedId": "lobsters"
       },
       {
@@ -152,39 +134,57 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Brut, the Brutal Router for Unix Tools",
-        "link": "https://brut.sh",
-        "pubDate": "2026-10-06T17:17",
+        "title": "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
+        "link": "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/",
+        "pubDate": "2026-10-06T22:26",
         "feedId": "lobsters"
       },
       {
-        "title": "Explaining the Magelight XP glitch in Skyrim",
-        "link": "https://blog.alexbeals.com/posts/explaining-the-magelight-xp-glitch-in-skyrim",
-        "pubDate": "2026-10-07T09:08",
+        "title": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+        "link": "https://github.com/storytold/photocraft",
+        "pubDate": "2026-10-07T12:04",
         "feedId": "lobsters"
       },
       {
-        "title": "A sustainable web career, for when all this blows over",
-        "link": "https://dbushell.com/2026/10/07/sustainable-web-career/",
-        "pubDate": "2026-10-06T18:29",
+        "title": "Shipping JPEG XL in Chrome",
+        "link": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+        "pubDate": "2026-10-07T11:57",
         "feedId": "lobsters"
       },
       {
-        "title": "Last rites for Gentoo's Chromium package",
-        "link": "https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/",
-        "pubDate": "2026-10-06T17:46",
+        "title": "rat's minimal register allocator",
+        "link": "https://hexrat.cc/pages/blog/2026_10_07",
+        "pubDate": "2026-10-07T18:01",
         "feedId": "lobsters"
       },
       {
-        "title": "A Terminal Protocol for Program Status (OSC 7501)",
-        "link": "https://mitchellh.com/writing/program-status-osc7501",
-        "pubDate": "2026-10-06T21:12",
+        "title": "Zeroization, part 1: Wiping can make things worse",
+        "link": "https://00f.net/2026/10/06/zeroization-1/",
+        "pubDate": "2026-10-07T16:22",
         "feedId": "lobsters"
       },
       {
-        "title": "Faster streaming HTML with batches and aggregates",
-        "link": "https://andersmurphy.com/2026/09/29/faster-streaming-html-with-batches-and-aggregates.html",
-        "pubDate": "2026-10-07T09:26",
+        "title": "When Submarine Cables Go Dark: Understanding and Preparing for the Risks of Taiwan's International Internet Disconnection",
+        "link": "https://resilience.ocf.tw/web/report/en.html",
+        "pubDate": "2026-10-07T19:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "That Time I Worked With a Laptop Thief (2025)",
+        "link": "https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/",
+        "pubDate": "2026-10-06T20:16",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Is COSMIC DE mogging KDE Plasma?",
+        "link": "https://thelibre.news/is-cosmic-de-mogging-kde-plasma/",
+        "pubDate": "2026-10-07T00:15",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Twenty-two pending curl vulnerabilities",
+        "link": "https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/",
+        "pubDate": "2026-10-07T15:04",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,48 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+        "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+        "pubDate": "2026-10-08T00:00",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+        "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+        "pubDate": "2026-10-07T21:56",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated",
+        "link": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/",
+        "pubDate": "2026-10-07T20:01",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "TP-Link problems in US grow amid FCC router ban and four state lawsuits",
+        "link": "https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/",
+        "pubDate": "2026-10-07T19:53",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Chemistry Nobel goes to reactions like those that gave life a hand",
+        "link": "https://arstechnica.com/science/2026/10/chemistry-nobel-goes-to-reactions-like-those-that-gave-life-a-hand/",
+        "pubDate": "2026-10-07T18:48",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Pediatricians renew call to ban raw milk as anti-science rhetoric reigns",
+        "link": "https://arstechnica.com/health/2026/10/pediatricians-renew-call-to-ban-raw-milk-as-anti-science-rhetoric-reigns/",
+        "pubDate": "2026-10-07T18:24",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+        "link": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
+        "pubDate": "2026-10-07T17:57",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Jaguar Type 01 debuts; now, no one remembers the electric Ferrari",
         "link": "https://arstechnica.com/cars/2026/10/jaguar-makes-its-controversial-all-ev-return-with-the-type-01/",
@@ -239,54 +281,60 @@
         "link": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
         "pubDate": "2026-10-06T21:31",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-        "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
-        "pubDate": "2026-10-06T20:50",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "HBO Max, Paramount+, and Discovery+ \"will unify into a single service”",
-        "link": "https://arstechnica.com/gadgets/2026/10/hbo-max-paramount-and-discovery-will-unify-into-a-single-service/",
-        "pubDate": "2026-10-06T20:32",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "It looks like the Atlantic storm season may finally produce a hurricane",
-        "link": "https://arstechnica.com/science/2026/10/it-looks-like-the-atlantic-storm-season-may-finally-produce-a-hurricane/",
-        "pubDate": "2026-10-06T19:55",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-        "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-        "pubDate": "2026-10-06T19:21",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Paramount completes $111B Warner merger, creating “Skydance” behemoth",
-        "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
-        "pubDate": "2026-10-06T17:33",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Support Ars and get a better reading experience in return",
-        "link": "https://arstechnica.com/staff/2026/10/make-ars-better-with-an-arspro-subscription/",
-        "pubDate": "2026-10-06T17:21",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Amazon kills Alexa’s ability to control Echo speakers' AUX input",
-        "link": "https://arstechnica.com/gadgets/2026/10/amazon-bricks-alexas-ability-to-control-echo-speakers-aux-input/",
-        "pubDate": "2026-10-06T17:03",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "DNC sues to stop Trump's taxpayer-funded ad blitz",
+        "link": "https://www.axios.com/2026/10/07/dnc-trump-lawsuit-taxpayer-funded-ads",
+        "pubDate": "2026-10-07T23:24",
+        "feedId": "axios"
+      },
+      {
+        "title": "Military ordered to be ready for possible Iran strikes as Trump weighs timing",
+        "link": "https://www.axios.com/2026/10/07/trump-us-central-command-iran-israel-war-elections",
+        "pubDate": "2026-10-07T23:08",
+        "feedId": "axios"
+      },
+      {
+        "title": "Student protest unrest spreads across Europe",
+        "link": "https://www.axios.com/2026/10/07/europe-student-protests-france-belgium",
+        "pubDate": "2026-10-07T21:34",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump's midterm strategists draw scrutiny over Russia-aligned work",
+        "link": "https://www.axios.com/2026/10/07/trump-midterm-advisers-foreign-consulting-lacivita-blair",
+        "pubDate": "2026-10-07T19:54",
+        "feedId": "axios"
+      },
+      {
+        "title": "Syria considering sending troops to Yemen to fight Houthis",
+        "link": "https://www.axios.com/2026/10/07/saudi-arabia-syria-houthis-yemen-troops",
+        "pubDate": "2026-10-07T19:37",
+        "feedId": "axios"
+      },
+      {
+        "title": "Exclusive: Inside Trump's AI science summit",
+        "link": "https://www.axios.com/2026/10/07/exclusive-inside-trumps-ai-science-summit",
+        "pubDate": "2026-10-07T19:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "Microsoft looks to reboot the AI PC with Nvidia",
+        "link": "https://www.axios.com/2026/10/07/microsoft-looks-to-reboot-the-ai-pc-with-nvidia",
+        "pubDate": "2026-10-07T18:23",
+        "feedId": "axios"
+      },
+      {
+        "title": "Americans don't want taxpayer dollars funding campaign ads: poll",
+        "link": "https://www.axios.com/2026/10/07/trump-taxpayer-funded-ads-poll",
+        "pubDate": "2026-10-07T17:34",
+        "feedId": "axios"
+      },
       {
         "title": "Why France is a warning sign for the markets",
         "link": "https://www.axios.com/2026/10/07/france-global-bond-markets",
@@ -327,54 +375,6 @@
         "title": "\"Not safe for kids\": Advocacy group urges OpenAI to keep teens off ChatGPT",
         "link": "https://www.axios.com/2026/10/07/chatgpt-teens-safety-risk-common-sense-media",
         "pubDate": "2026-10-07T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"You suck\": Emmer unloads on Senate Republicans",
-        "link": "https://www.axios.com/2026/10/06/tom-emmer-senate-republicans-frustration-save-act",
-        "pubDate": "2026-10-06T22:55",
-        "feedId": "axios"
-      },
-      {
-        "title": "House GOP leaders admit redistricting fell short",
-        "link": "https://www.axios.com/2026/10/06/house-republicans-redistricting-midterm-elections",
-        "pubDate": "2026-10-06T22:55",
-        "feedId": "axios"
-      },
-      {
-        "title": "CDC: Monitoring Russian plague risk, \"prepared\" for any threat",
-        "link": "https://www.axios.com/2026/10/06/cdc-russia-pneumonic-plague-outbreak-threat-us-risk",
-        "pubDate": "2026-10-06T21:50",
-        "feedId": "axios"
-      },
-      {
-        "title": "A brutal winter heating bill is coming for some homes",
-        "link": "https://www.axios.com/2026/10/06/winter-heating-costs-increase-iran-ukraine-war",
-        "pubDate": "2026-10-06T20:54",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump's PAC won't pay taxpayers back for his ads",
-        "link": "https://www.axios.com/2026/10/06/trump-super-pac-taxpayer-funded-ads-reimbursement",
-        "pubDate": "2026-10-06T19:32",
-        "feedId": "axios"
-      },
-      {
-        "title": "DOJ moves to strip citizenship from 40 people",
-        "link": "https://www.axios.com/2026/10/06/doj-strip-citizenship-denaturalization-cases-40-people",
-        "pubDate": "2026-10-06T18:14",
-        "feedId": "axios"
-      },
-      {
-        "title": "AI tools flood into underground cybercrime markets",
-        "link": "https://www.axios.com/2026/10/06/ai-cybercrime-hacker-tools-marketplace",
-        "pubDate": "2026-10-06T17:51",
-        "feedId": "axios"
-      },
-      {
-        "title": "Paramount closes historic $110B deal for Warner Bros. Discovery to create Skydance",
-        "link": "https://www.axios.com/2026/10/06/paramount-warner-bros-discovery-deal-skydance",
-        "pubDate": "2026-10-06T16:26",
         "feedId": "axios"
       }
     ]
