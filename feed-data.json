@@ -3,15 +3,81 @@
     "id": "hn",
     "items": [
       {
-        "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
-        "link": "https://dat-ecosystem.org/",
-        "pubDate": "2026-10-08T06:43",
+        "title": "The Deeply Impersonal Personalized Recruiter Mail",
+        "link": "https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/",
+        "pubDate": "2026-10-08T17:15",
         "feedId": "hn"
       },
       {
-        "title": "Classic PC demoscene productions running natively in the browser",
-        "link": "https://treylorswift.github.io/demoscene-recomp/web/",
-        "pubDate": "2026-10-08T06:29",
+        "title": "Whistle: Speech to Text in 16.9 MB",
+        "link": "https://cactuscompute.com/blog/whistle",
+        "pubDate": "2026-10-08T16:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "OpenAI annualised revenues $20B less than previously signalled",
+        "link": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a",
+        "pubDate": "2026-10-08T16:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+        "link": "https://openrouter.ai/stepfun/step-5-preview",
+        "pubDate": "2026-10-08T16:20",
+        "feedId": "hn"
+      },
+      {
+        "title": "4-hour battery storage is cheaper to install than gas turbines all across globe",
+        "link": "https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/",
+        "pubDate": "2026-10-08T16:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "Trump administration is suspending Microsoft from a green card program",
+        "link": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+        "pubDate": "2026-10-08T15:15",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+        "link": "https://news.ycombinator.com/item?id=50006366",
+        "pubDate": "2026-10-08T14:39",
+        "feedId": "hn"
+      },
+      {
+        "title": "2027 Web Platform Feature Ranking",
+        "link": "https://interop-rank.fxdx.dev/",
+        "pubDate": "2026-10-08T13:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "Sub-1-Bit LLM Compression via Latent Factorization",
+        "link": "https://github.com/SamsungLabs/LittleBit",
+        "pubDate": "2026-10-08T13:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Beauty in DVD Menus",
+        "link": "https://vale.rocks/posts/dvd-menus",
+        "pubDate": "2026-10-08T13:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "Telnet BBS Guide",
+        "link": "https://www.telnetbbsguide.com/",
+        "pubDate": "2026-10-08T12:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+        "link": "https://quesma.com/blog/invisible-cities-one-shot/",
+        "pubDate": "2026-10-08T12:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "OpenAI withdraws three mathematical results",
+        "link": "https://twitter.com/danintheory/status/2108065033070789090",
+        "pubDate": "2026-10-08T07:05",
         "feedId": "hn"
       },
       {
@@ -21,75 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-        "link": "https://github.com/pingdotgg/ts-rust",
-        "pubDate": "2026-10-08T00:46",
-        "feedId": "hn"
-      },
-      {
-        "title": "Margaret Hamilton has died",
-        "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-        "pubDate": "2026-10-07T21:16",
-        "feedId": "hn"
-      },
-      {
-        "title": "'Jonathan' is the oldest land animal on Earth",
-        "link": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
-        "pubDate": "2026-10-07T20:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Mathocalypse",
-        "link": "https://scottaaronson.blog/?p=10169",
-        "pubDate": "2026-10-07T19:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "As We Become Cameras (2016)",
-        "link": "https://thebrowser.com/r/f132aafd?m=c6bf87ab-387d-49ae-9584-ab31c2b12376",
-        "pubDate": "2026-10-07T19:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
-        "link": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
-        "pubDate": "2026-10-07T18:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "Claude Haiku 5.5",
-        "link": "https://www.anthropic.com/claude-haiku-5-5",
-        "pubDate": "2026-10-07T18:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "GPT‑6 and Intelligent UI for everyone",
-        "link": "https://openai.com/index/gpt-6-for-everyone/",
-        "pubDate": "2026-10-07T18:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
-        "link": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
-        "pubDate": "2026-10-07T17:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "Docker Agent",
-        "link": "https://github.com/docker/docker-agent",
-        "pubDate": "2026-10-07T17:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
-        "link": "https://bigwords.page/",
-        "pubDate": "2026-10-07T15:44",
-        "feedId": "hn"
-      },
-      {
-        "title": "Navier–Stokes Lost in Translation",
-        "link": "https://arxiv.org/abs/2610.08144",
-        "pubDate": "2026-10-07T15:24",
+        "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
+        "link": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
+        "pubDate": "2026-10-07T21:25",
         "feedId": "hn"
       }
     ]
@@ -98,15 +98,27 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Anti-Patterns in Software Blogging",
-        "link": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
-        "pubDate": "2026-10-07T13:09",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
         "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
         "pubDate": "2026-10-07T21:38",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The people holding up the internet",
+        "link": "https://sheets.works/data-viz/holding-up-the-internet",
+        "pubDate": "2026-10-08T08:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I've Been Deindexed by Google",
+        "link": "https://kennyqin.com/deindexed-by-google/",
+        "pubDate": "2026-10-08T07:59",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Anti-Patterns in Software Blogging",
+        "link": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+        "pubDate": "2026-10-07T13:09",
         "feedId": "lobsters"
       },
       {
@@ -122,21 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "C for Rust Programmers",
-        "link": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
-        "pubDate": "2026-10-07T14:30",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Creating distro build tooling for a small community",
-        "link": "https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html",
-        "pubDate": "2026-10-07T16:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "rat's minimal register allocator",
-        "link": "https://hexrat.cc/pages/blog/2026_10_07",
-        "pubDate": "2026-10-07T18:01",
+        "title": "jujutsu (jj) 0.46.0",
+        "link": "https://github.com/jj-vcs/jj/releases/tag/v0.46.0",
+        "pubDate": "2026-10-08T09:02",
         "feedId": "lobsters"
       },
       {
@@ -146,45 +146,45 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I've Been Deindexed by Google",
-        "link": "https://kennyqin.com/deindexed-by-google/",
-        "pubDate": "2026-10-08T07:59",
+        "title": "Gentoo infrastructure sponsors wanted",
+        "link": "https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html",
+        "pubDate": "2026-10-08T09:23",
         "feedId": "lobsters"
       },
       {
-        "title": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
-        "link": "https://github.com/storytold/photocraft",
-        "pubDate": "2026-10-07T12:04",
+        "title": "Extending Guix",
+        "link": "https://guix.gnu.org/en/blog/2026/extending-guix/",
+        "pubDate": "2026-10-08T13:20",
         "feedId": "lobsters"
       },
       {
-        "title": "The people holding up the internet",
-        "link": "https://sheets.works/data-viz/holding-up-the-internet",
-        "pubDate": "2026-10-08T08:18",
+        "title": "Beyond the &",
+        "link": "https://lwn.net/SubscriberLink/1096028/7524dbcae1be7205/",
+        "pubDate": "2026-10-08T09:04",
         "feedId": "lobsters"
       },
       {
-        "title": "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
-        "link": "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/",
-        "pubDate": "2026-10-06T22:26",
+        "title": "C for Rust Programmers",
+        "link": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
+        "pubDate": "2026-10-07T14:30",
         "feedId": "lobsters"
       },
       {
-        "title": "Shipping JPEG XL in Chrome",
-        "link": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
-        "pubDate": "2026-10-07T11:57",
+        "title": "Thinking will become a hobby",
+        "link": "https://www.spinellis.gr/blog/20261008/?li261008",
+        "pubDate": "2026-10-08T12:23",
         "feedId": "lobsters"
       },
       {
-        "title": "The Mathocalypse",
-        "link": "https://scottaaronson.blog/?p=10169",
-        "pubDate": "2026-10-07T22:48",
+        "title": "Ending the Casuarina Linux Experiment",
+        "link": "https://casuarina.org/news/ending-the-casuarina-linux-experiment/",
+        "pubDate": "2026-10-08T13:08",
         "feedId": "lobsters"
       },
       {
-        "title": "Twenty-two pending curl vulnerabilities",
-        "link": "https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/",
-        "pubDate": "2026-10-07T15:04",
+        "title": "Creating distro build tooling for a small community",
+        "link": "https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html",
+        "pubDate": "2026-10-07T16:23",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,36 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
+        "link": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
+        "pubDate": "2026-10-08T16:32",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Amazon builds 1,000th satellite, will launch space internet service by end of year",
+        "link": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/",
+        "pubDate": "2026-10-08T15:28",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+        "link": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
+        "pubDate": "2026-10-08T14:04",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+        "link": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+        "pubDate": "2026-10-08T11:15",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist",
+        "link": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/",
+        "pubDate": "2026-10-08T11:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
         "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
@@ -251,42 +281,54 @@
         "link": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
         "pubDate": "2026-10-07T14:12",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Google rolls out improved SynthID AI content detector, now available globally",
-        "link": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
-        "pubDate": "2026-10-07T14:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "AI/ML is becoming a performance factor in motorsport",
-        "link": "https://arstechnica.com/cars/2026/10/ai-ml-setups-became-a-tool-in-indycar-champion-alex-palous-toolbox/",
-        "pubDate": "2026-10-07T13:56",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Review: Fine, let's talk about Digger",
-        "link": "https://arstechnica.com/culture/2026/10/review-digger-is-both-frustrating-and-brilliant-by-design/",
-        "pubDate": "2026-10-07T13:01",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency",
-        "link": "https://arstechnica.com/space/2026/10/nasa-is-keen-on-pursuing-at-least-one-joint-science-mission-with-europe/",
-        "pubDate": "2026-10-07T11:00",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
-        "link": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
-        "pubDate": "2026-10-06T21:31",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Trump rules out Iran strikes before midterms",
+        "link": "https://www.axios.com/2026/10/08/trump-iran-strikes-midterm-elections",
+        "pubDate": "2026-10-08T16:55",
+        "feedId": "axios"
+      },
+      {
+        "title": "Labor Department marks low layoffs milestone",
+        "link": "https://www.axios.com/2026/10/08/layoffs-unemployment-labor",
+        "pubDate": "2026-10-08T16:10",
+        "feedId": "axios"
+      },
+      {
+        "title": "The Fed's going to take its time with rate hikes",
+        "link": "https://www.axios.com/2026/10/08/interest-rate-hikes-fed-waller",
+        "pubDate": "2026-10-08T15:55",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump's foreign worker crackdown comes for Microsoft, Adobe, IT firms",
+        "link": "https://www.axios.com/2026/10/08/trumps-foreign-worker-crackdown-comes-for-microsoft-adobe-it-firms",
+        "pubDate": "2026-10-08T15:45",
+        "feedId": "axios"
+      },
+      {
+        "title": "Nicolás Maduro and his wife hit with fresh torture charge",
+        "link": "https://www.axios.com/2026/10/08/maduro-torture-charges-court-case",
+        "pubDate": "2026-10-08T15:38",
+        "feedId": "axios"
+      },
+      {
+        "title": "DNC sues to stop Trump's taxpayer-funded ad blitz",
+        "link": "https://www.axios.com/2026/10/07/dnc-trump-lawsuit-taxpayer-funded-ads",
+        "pubDate": "2026-10-08T12:32",
+        "feedId": "axios"
+      },
+      {
+        "title": "Republicans squirm as Latino support slips in South Texas",
+        "link": "https://www.axios.com/2026/10/08/south-texas-gop-latino-warning-democrats",
+        "pubDate": "2026-10-08T10:00",
+        "feedId": "axios"
+      },
       {
         "title": "\"The Axios Show\": Inside Bryan Johnson's quest to make 300 the new 70",
         "link": "https://www.axios.com/2026/10/08/bryan-johnson-dont-die-longevity",
@@ -330,51 +372,9 @@
         "feedId": "axios"
       },
       {
-        "title": "DNC sues to stop Trump's taxpayer-funded ad blitz",
-        "link": "https://www.axios.com/2026/10/07/dnc-trump-lawsuit-taxpayer-funded-ads",
-        "pubDate": "2026-10-07T23:24",
-        "feedId": "axios"
-      },
-      {
         "title": "Military ordered to be ready for possible Iran strikes as Trump weighs timing",
         "link": "https://www.axios.com/2026/10/07/trump-us-central-command-iran-israel-war-elections",
         "pubDate": "2026-10-07T23:08",
-        "feedId": "axios"
-      },
-      {
-        "title": "Student protest unrest spreads across Europe",
-        "link": "https://www.axios.com/2026/10/07/europe-student-protests-france-belgium",
-        "pubDate": "2026-10-07T21:34",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump's midterm strategists draw scrutiny over Russia-aligned work",
-        "link": "https://www.axios.com/2026/10/07/trump-midterm-advisers-foreign-consulting-lacivita-blair",
-        "pubDate": "2026-10-07T19:54",
-        "feedId": "axios"
-      },
-      {
-        "title": "Syria considering sending troops to Yemen to fight Houthis",
-        "link": "https://www.axios.com/2026/10/07/saudi-arabia-syria-houthis-yemen-troops",
-        "pubDate": "2026-10-07T19:37",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: Inside Trump's AI science summit",
-        "link": "https://www.axios.com/2026/10/07/exclusive-inside-trumps-ai-science-summit",
-        "pubDate": "2026-10-07T19:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Microsoft looks to reboot the AI PC with Nvidia",
-        "link": "https://www.axios.com/2026/10/07/microsoft-looks-to-reboot-the-ai-pc-with-nvidia",
-        "pubDate": "2026-10-07T18:23",
-        "feedId": "axios"
-      },
-      {
-        "title": "Americans don't want taxpayer dollars funding campaign ads: poll",
-        "link": "https://www.axios.com/2026/10/07/trump-taxpayer-funded-ads-poll",
-        "pubDate": "2026-10-07T17:34",
         "feedId": "axios"
       }
     ]
