@@ -3,6 +3,30 @@
     "id": "hn",
     "items": [
       {
+        "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
+        "link": "https://dat-ecosystem.org/",
+        "pubDate": "2026-10-08T06:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Classic PC demoscene productions running natively in the browser",
+        "link": "https://treylorswift.github.io/demoscene-recomp/web/",
+        "pubDate": "2026-10-08T06:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "“Math 2.0” will need to value mathematical progress more holistically",
+        "link": "https://mathstodon.xyz/@tao/117395269325940185",
+        "pubDate": "2026-10-08T05:14",
+        "feedId": "hn"
+      },
+      {
+        "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+        "link": "https://github.com/pingdotgg/ts-rust",
+        "pubDate": "2026-10-08T00:46",
+        "feedId": "hn"
+      },
+      {
         "title": "Margaret Hamilton has died",
         "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
         "pubDate": "2026-10-07T21:16",
@@ -15,9 +39,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-        "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-        "pubDate": "2026-10-07T18:49",
+        "title": "The Mathocalypse",
+        "link": "https://scottaaronson.blog/?p=10169",
+        "pubDate": "2026-10-07T19:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "As We Become Cameras (2016)",
+        "link": "https://thebrowser.com/r/f132aafd?m=c6bf87ab-387d-49ae-9584-ab31c2b12376",
+        "pubDate": "2026-10-07T19:28",
         "feedId": "hn"
       },
       {
@@ -51,12 +81,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-        "link": "https://agent.reviews/",
-        "pubDate": "2026-10-07T16:59",
-        "feedId": "hn"
-      },
-      {
         "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
         "link": "https://bigwords.page/",
         "pubDate": "2026-10-07T15:44",
@@ -66,30 +90,6 @@
         "title": "Navier–Stokes Lost in Translation",
         "link": "https://arxiv.org/abs/2610.08144",
         "pubDate": "2026-10-07T15:24",
-        "feedId": "hn"
-      },
-      {
-        "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
-        "link": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
-        "pubDate": "2026-10-07T15:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why were Victorian elites so effective?",
-        "link": "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/",
-        "pubDate": "2026-10-07T15:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "Animated ASCII Art for Web Pages",
-        "link": "https://ascii.rest/",
-        "pubDate": "2026-10-07T15:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "SynthID Detector",
-        "link": "https://synthid.com/",
-        "pubDate": "2026-10-07T14:16",
         "feedId": "hn"
       }
     ]
@@ -104,21 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Software developers are not okay",
-        "link": "https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/",
-        "pubDate": "2026-10-07T19:35",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
         "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
         "pubDate": "2026-10-07T21:38",
         "feedId": "lobsters"
       },
       {
-        "title": "C for Rust Programmers",
-        "link": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
-        "pubDate": "2026-10-07T14:30",
+        "title": "Software developers are not okay",
+        "link": "https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/",
+        "pubDate": "2026-10-07T19:35",
         "feedId": "lobsters"
       },
       {
@@ -128,27 +122,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "C for Rust Programmers",
+        "link": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
+        "pubDate": "2026-10-07T14:30",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Creating distro build tooling for a small community",
         "link": "https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html",
         "pubDate": "2026-10-07T16:23",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
-        "link": "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/",
-        "pubDate": "2026-10-06T22:26",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
-        "link": "https://github.com/storytold/photocraft",
-        "pubDate": "2026-10-07T12:04",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Shipping JPEG XL in Chrome",
-        "link": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
-        "pubDate": "2026-10-07T11:57",
         "feedId": "lobsters"
       },
       {
@@ -158,27 +140,45 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Zeroization, part 1: Wiping can make things worse",
-        "link": "https://00f.net/2026/10/06/zeroization-1/",
-        "pubDate": "2026-10-07T16:22",
+        "title": "A rant about APIs",
+        "link": "https://dev.clintonblackburn.com/2026/10/08/a-rant-about-apis.html",
+        "pubDate": "2026-10-08T06:07",
         "feedId": "lobsters"
       },
       {
-        "title": "When Submarine Cables Go Dark: Understanding and Preparing for the Risks of Taiwan's International Internet Disconnection",
-        "link": "https://resilience.ocf.tw/web/report/en.html",
-        "pubDate": "2026-10-07T19:44",
+        "title": "I've Been Deindexed by Google",
+        "link": "https://kennyqin.com/deindexed-by-google/",
+        "pubDate": "2026-10-08T07:59",
         "feedId": "lobsters"
       },
       {
-        "title": "That Time I Worked With a Laptop Thief (2025)",
-        "link": "https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/",
-        "pubDate": "2026-10-06T20:16",
+        "title": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+        "link": "https://github.com/storytold/photocraft",
+        "pubDate": "2026-10-07T12:04",
         "feedId": "lobsters"
       },
       {
-        "title": "Is COSMIC DE mogging KDE Plasma?",
-        "link": "https://thelibre.news/is-cosmic-de-mogging-kde-plasma/",
-        "pubDate": "2026-10-07T00:15",
+        "title": "The people holding up the internet",
+        "link": "https://sheets.works/data-viz/holding-up-the-internet",
+        "pubDate": "2026-10-08T08:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
+        "link": "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/",
+        "pubDate": "2026-10-06T22:26",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Shipping JPEG XL in Chrome",
+        "link": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+        "pubDate": "2026-10-07T11:57",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Mathocalypse",
+        "link": "https://scottaaronson.blog/?p=10169",
+        "pubDate": "2026-10-07T22:48",
         "feedId": "lobsters"
       },
       {
@@ -288,6 +288,48 @@
     "id": "axios",
     "items": [
       {
+        "title": "\"The Axios Show\": Inside Bryan Johnson's quest to make 300 the new 70",
+        "link": "https://www.axios.com/2026/10/08/bryan-johnson-dont-die-longevity",
+        "pubDate": "2026-10-08T09:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "Inside Trump's blow-up at Fox News over El-Sayed coverage",
+        "link": "https://www.axios.com/2026/10/08/trump-fox-news-tension-el-sayed",
+        "pubDate": "2026-10-08T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "OpenAI's math breakthrough points beyond math",
+        "link": "https://www.axios.com/2026/10/08/openai-math-proofs-ai-model",
+        "pubDate": "2026-10-08T09:20",
+        "feedId": "axios"
+      },
+      {
+        "title": "Data centers face a sweeping new power regime",
+        "link": "https://www.axios.com/2026/10/08/data-centers-power-regime",
+        "pubDate": "2026-10-08T09:15",
+        "feedId": "axios"
+      },
+      {
+        "title": "Republican midterm triage puts bleak outlook into focus",
+        "link": "https://www.axios.com/2026/10/08/republicans-triage-campaign-midterms",
+        "pubDate": "2026-10-08T09:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "Exclusive: Mike Johnson raises record $156 million for House GOP",
+        "link": "https://www.axios.com/2026/10/08/mike-johnson-fundraising-house-republicans-midterms",
+        "pubDate": "2026-10-08T09:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "Americans' trust in the food safety net is spoiling",
+        "link": "https://www.axios.com/2026/10/08/food-safety-confidence-record-low-poll",
+        "pubDate": "2026-10-08T08:01",
+        "feedId": "axios"
+      },
+      {
         "title": "DNC sues to stop Trump's taxpayer-funded ad blitz",
         "link": "https://www.axios.com/2026/10/07/dnc-trump-lawsuit-taxpayer-funded-ads",
         "pubDate": "2026-10-07T23:24",
@@ -333,48 +375,6 @@
         "title": "Americans don't want taxpayer dollars funding campaign ads: poll",
         "link": "https://www.axios.com/2026/10/07/trump-taxpayer-funded-ads-poll",
         "pubDate": "2026-10-07T17:34",
-        "feedId": "axios"
-      },
-      {
-        "title": "Why France is a warning sign for the markets",
-        "link": "https://www.axios.com/2026/10/07/france-global-bond-markets",
-        "pubDate": "2026-10-07T15:58",
-        "feedId": "axios"
-      },
-      {
-        "title": "Raskin seeks to preserve Trump's D.C. \"propaganda\" in Smithsonian",
-        "link": "https://www.axios.com/2026/10/07/raskin-trump-dc-banners-signs-smithsonian",
-        "pubDate": "2026-10-07T14:55",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"The beginning of a new scientific paradigm\": Zuckerberg's Biohub, U.S. and Google build virtual cell",
-        "link": "https://www.axios.com/2026/10/07/zuckerberg-biohub-ai-biology-data",
-        "pubDate": "2026-10-07T13:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "America's changing disaster risk hits energy",
-        "link": "https://www.axios.com/2026/10/07/extreme-weather-thunderstorms-insurance-energy-grid",
-        "pubDate": "2026-10-07T09:25",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: Paxton privately blames campaign woes on Iran war, gas prices",
-        "link": "https://www.axios.com/2026/10/07/ken-paxton-iran-war-gas-prices-audio-trump-texas",
-        "pubDate": "2026-10-07T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "3 years later, Netanyahu faces reckoning over Oct. 7 in Israeli election",
-        "link": "https://www.axios.com/2026/10/07/netanyahu-oct-7-warning-israel-election-polls",
-        "pubDate": "2026-10-07T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"Not safe for kids\": Advocacy group urges OpenAI to keep teens off ChatGPT",
-        "link": "https://www.axios.com/2026/10/07/chatgpt-teens-safety-risk-common-sense-media",
-        "pubDate": "2026-10-07T09:00",
         "feedId": "axios"
       }
     ]
