@@ -3,21 +3,63 @@
     "id": "hn",
     "items": [
       {
+        "title": "REA Reverse – Engineer Anything",
+        "link": "https://rea.tools/",
+        "pubDate": "2026-10-10T00:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "Has the Autonomous Trucking Revolution Arrived?",
+        "link": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
+        "pubDate": "2026-10-09T23:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
+        "link": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
+        "pubDate": "2026-10-09T23:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "The logarithms of rational numbers have irrationality exponent 2 [pdf]",
+        "link": "https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf",
+        "pubDate": "2026-10-09T23:32",
+        "feedId": "hn"
+      },
+      {
+        "title": "Compiling Rust to readable C with Eurydice",
+        "link": "https://lwn.net/Articles/1055211/",
+        "pubDate": "2026-10-09T23:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "Rewriting Prime Agent in Rust",
+        "link": "https://www.primeintellect.ai/blog/prime-agent-rust",
+        "pubDate": "2026-10-09T23:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "Atari Falcon",
+        "link": "https://atarimuseum.nl/atari-falcon/",
+        "pubDate": "2026-10-09T22:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025",
+        "link": "https://www.nber.org/papers/w35854",
+        "pubDate": "2026-10-09T22:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+        "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+        "pubDate": "2026-10-09T22:00",
+        "feedId": "hn"
+      },
+      {
         "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
         "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
         "pubDate": "2026-10-09T21:06",
-        "feedId": "hn"
-      },
-      {
-        "title": "No Man Is an Island",
-        "link": "https://borretti.me/article/no-man-is-an-island",
-        "pubDate": "2026-10-09T20:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "You might want to try being less creative",
-        "link": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
-        "pubDate": "2026-10-09T18:39",
         "feedId": "hn"
       },
       {
@@ -33,7 +75,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Ideas aren't getting harder to find, anyone who tells you otherwise is a coward",
+        "title": "Ideas aren't getting harder to find (2022)",
         "link": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
         "pubDate": "2026-10-09T18:16",
         "feedId": "hn"
@@ -45,51 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: The rarest tech books and docs you've probably never read",
-        "link": "https://readrare.com/",
-        "pubDate": "2026-10-09T17:39",
-        "feedId": "hn"
-      },
-      {
-        "title": "Typesafe AI raises $870M at $7.5B",
-        "link": "https://typesafe.ai/blog/series-ai",
-        "pubDate": "2026-10-09T17:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "Triple-A Minesweeper",
-        "link": "https://minesweeper.mikelacher.com/",
-        "pubDate": "2026-10-09T15:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "A statement on the Tor Project's relationship with Mullvad",
-        "link": "https://blog.torproject.org/on-tor-relationship-with-mullvad/",
-        "pubDate": "2026-10-09T15:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "Germany transforms former coal mines into Europe's largest lake landscape",
-        "link": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
-        "pubDate": "2026-10-09T15:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why Are Coding Agents So Dumb?",
-        "link": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
-        "pubDate": "2026-10-09T14:21",
-        "feedId": "hn"
-      },
-      {
-        "title": "'Wallace and Gromit,' 90% Alone",
-        "link": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
-        "pubDate": "2026-10-09T13:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "Our $445M Series D",
-        "link": "https://oxide.computer/blog/our-445m-series-d",
-        "pubDate": "2026-10-09T13:12",
+        "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+        "link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+        "pubDate": "2026-10-09T17:42",
         "feedId": "hn"
       }
     ]
@@ -134,21 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/t3xjln/what_are_you_doing_this_weekend",
-        "pubDate": "2026-10-09T12:53",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "\"Robot\" Is A Social Construct: Why Your Dishwasher Is Not A Robot",
-        "link": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/",
-        "pubDate": "2026-10-09T14:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Branches in branch-free code",
-        "link": "https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/",
-        "pubDate": "2026-10-09T19:31",
+        "title": "Lifeguard: A static analyzer for Python lazy imports compatibility",
+        "link": "https://github.com/Facebook/lifeguard",
+        "pubDate": "2026-10-09T21:44",
         "feedId": "lobsters"
       },
       {
@@ -158,21 +146,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Bevy 0.20",
-        "link": "https://bevy.org/news/bevy-0-20/",
-        "pubDate": "2026-10-08T23:21",
+        "title": "Cloudflare shutting down Deno is news, not just PR",
+        "link": "https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not",
+        "pubDate": "2026-10-09T21:20",
         "feedId": "lobsters"
       },
       {
-        "title": "Lifeguard: A static analyzer for Python lazy imports compatibility",
-        "link": "https://github.com/Facebook/lifeguard",
-        "pubDate": "2026-10-09T21:44",
+        "title": "\"Robot\" Is A Social Construct: Why Your Dishwasher Is Not A Robot",
+        "link": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/",
+        "pubDate": "2026-10-09T14:14",
         "feedId": "lobsters"
       },
       {
-        "title": "A minimal kernel in Swift, running in QEMU",
-        "link": "https://carette.xyz/posts/minimal_swift_kernel_on_qemu/",
-        "pubDate": "2026-10-09T12:17",
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/t3xjln/what_are_you_doing_this_weekend",
+        "pubDate": "2026-10-09T12:53",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Branches in branch-free code",
+        "link": "https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/",
+        "pubDate": "2026-10-09T19:31",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Missing Piece in Rust Error Handling",
-        "link": "https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/",
-        "pubDate": "2026-10-08T14:43",
+        "title": "A minimal kernel in Swift, running in QEMU",
+        "link": "https://carette.xyz/posts/minimal_swift_kernel_on_qemu/",
+        "pubDate": "2026-10-09T12:17",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Bevy 0.20",
+        "link": "https://bevy.org/news/bevy-0-20/",
+        "pubDate": "2026-10-08T23:21",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,36 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Neanderthal wooden tools from Spain found preserved in stone",
+        "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+        "pubDate": "2026-10-09T22:34",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+        "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+        "pubDate": "2026-10-09T22:04",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+        "link": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+        "pubDate": "2026-10-09T21:51",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "NASA issues long-awaited call to industry for private space stations",
+        "link": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+        "pubDate": "2026-10-09T21:34",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "What's been driving Hawaii's lava fountains?",
+        "link": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
+        "pubDate": "2026-10-09T21:05",
+        "feedId": "arstechnica"
+      },
       {
         "title": "AI coding agents generate more code, but not more software",
         "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
@@ -251,42 +281,18 @@
         "link": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
         "pubDate": "2026-10-08T21:37",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
-        "link": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/",
-        "pubDate": "2026-10-08T20:53",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
-        "link": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
-        "pubDate": "2026-10-08T20:39",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Feds get ready to rewrite car headlight rules",
-        "link": "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/",
-        "pubDate": "2026-10-08T20:26",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
-        "link": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
-        "pubDate": "2026-10-08T20:15",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027",
-        "link": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/",
-        "pubDate": "2026-10-08T19:57",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "U.S. official: Trump cut deal with Putin after Zelensky ignored his requests",
+        "link": "https://www.axios.com/2026/10/10/trump-zelensky-putin-diesel-deal-war",
+        "pubDate": "2026-10-10T00:35",
+        "feedId": "axios"
+      },
       {
         "title": "JD Vance says he won't watch livestream execution of Fort Hood shooter",
         "link": "https://www.axios.com/2026/10/09/jd-vance-fort-hood-shooter-livestream-execution",
@@ -369,12 +375,6 @@
         "title": "\"Not a fetish, not a taboo\": Democrats weigh another Trump impeachment",
         "link": "https://www.axios.com/2026/10/09/democrats-weigh-trump-impeachment-midterms",
         "pubDate": "2026-10-09T08:45",
-        "feedId": "axios"
-      },
-      {
-        "title": "California threatens to worsen House Democrats' 2027 headaches",
-        "link": "https://www.axios.com/2026/10/08/california-house-elections-democrats-jeffries",
-        "pubDate": "2026-10-08T23:12",
         "feedId": "axios"
       }
     ]
