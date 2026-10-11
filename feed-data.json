@@ -3,9 +3,63 @@
     "id": "hn",
     "items": [
       {
-        "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-        "pubDate": "2026-10-10T21:19",
+        "title": "Nitter: Update Oct 10th seeking funding and legal help",
+        "link": "https://nitter.net",
+        "pubDate": "2026-10-11T10:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
+        "link": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/",
+        "pubDate": "2026-10-11T10:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "IRCv3",
+        "link": "https://ircv3.net/",
+        "pubDate": "2026-10-11T10:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "I wish you the best in the Offline",
+        "link": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
+        "pubDate": "2026-10-11T07:53",
+        "feedId": "hn"
+      },
+      {
+        "title": "3rd Yandex Cloud Data Center Was Hit",
+        "link": "https://status.yandex.cloud/en/incidents/2136",
+        "pubDate": "2026-10-11T07:34",
+        "feedId": "hn"
+      },
+      {
+        "title": "LineageOS 24.0",
+        "link": "https://lineageos.org/Changelog-32/",
+        "pubDate": "2026-10-11T06:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+        "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+        "pubDate": "2026-10-11T02:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "European Alternatives",
+        "link": "https://buy-european.net/en/alternatives",
+        "pubDate": "2026-10-11T01:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "PSPi 6 – Raspberry Pi in a PSP",
+        "link": "https://github.com/othermod/PSPi-Version-6",
+        "pubDate": "2026-10-11T00:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "Build your own decision model",
+        "link": "https://nishtahir.com/build-your-own-decision-model/",
+        "pubDate": "2026-10-10T22:50",
         "feedId": "hn"
       },
       {
@@ -15,45 +69,9 @@
         "feedId": "hn"
       },
       {
-        "title": "50MB operating system can resurrect your old PC",
-        "link": "https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/",
-        "pubDate": "2026-10-10T19:59",
-        "feedId": "hn"
-      },
-      {
-        "title": "Takeshi's Castle",
-        "link": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
-        "pubDate": "2026-10-10T19:12",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-        "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-        "pubDate": "2026-10-10T18:48",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why DuckDB 2.0 is faster",
-        "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-        "pubDate": "2026-10-10T18:08",
-        "feedId": "hn"
-      },
-      {
         "title": "Knuth reward check",
         "link": "https://www.thomas-huehn.com/knuth-reward-check/",
         "pubDate": "2026-10-10T15:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "How Protein Took over the World",
-        "link": "https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd",
-        "pubDate": "2026-10-10T15:40",
-        "feedId": "hn"
-      },
-      {
-        "title": "Bitwarden Dual License Model",
-        "link": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-        "pubDate": "2026-10-10T14:32",
         "feedId": "hn"
       },
       {
@@ -63,33 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "I would like the value of my home to rise, while my property taxes fall",
-        "link": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
-        "pubDate": "2026-10-10T13:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "Apple/macOS removed from official Unix registry",
-        "link": "https://www.opengroup.org//openbrand/register/",
-        "pubDate": "2026-10-10T10:57",
-        "feedId": "hn"
-      },
-      {
         "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
         "link": "https://github.com/rociiu/talorys",
         "pubDate": "2026-10-10T10:52",
         "feedId": "hn"
       },
       {
-        "title": "`123456' password used in Danish CPR data breach",
-        "link": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-        "pubDate": "2026-10-10T09:51",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Lightbulb Computer",
-        "link": "https://lightbulbcomputer.com/",
-        "pubDate": "2026-10-10T04:12",
+        "title": "Cyril Hilsum invented the flat-screen displays that hold us in thrall",
+        "link": "https://www.economist.com/obituary/2026/10/08/cyril-hilsum-invented-the-flat-screen-displays-that-hold-us-in-thrall",
+        "pubDate": "2026-10-10T07:25",
         "feedId": "hn"
       }
     ]
@@ -98,21 +98,21 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "LineageOS 24.0 released",
+        "link": "https://lineageos.org/Changelog-32/",
+        "pubDate": "2026-10-11T06:21",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What's Wrong with GitHub",
+        "link": "https://www.gnu.org/philosophy/whats-wrong-with-github.html",
+        "pubDate": "2026-10-11T09:37",
+        "feedId": "lobsters"
+      },
+      {
         "title": "oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c",
         "link": "https://sebsite.pw/w/20261009-strtod.html",
         "pubDate": "2026-10-10T05:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "No Man Is an Island",
-        "link": "https://borretti.me/article/no-man-is-an-island",
-        "pubDate": "2026-10-10T01:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "There's little that's \"inevitable\" about AI",
-        "link": "https://deadsimpletech.com/blog/llms-arent-inevitable",
-        "pubDate": "2026-10-10T09:08",
         "feedId": "lobsters"
       },
       {
@@ -122,9 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Iframes that finally fit their content",
-        "link": "https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html",
-        "pubDate": "2026-10-10T12:54",
+        "title": "Consistency is not a localized property",
+        "link": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+        "pubDate": "2026-10-11T00:51",
         "feedId": "lobsters"
       },
       {
@@ -134,51 +134,51 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Mars Pathfinder Priority Inversion Bug: What Really Happened",
-        "link": "https://nerdyelectronics.com/mars-pathfinder-what-really-happened/",
-        "pubDate": "2026-10-10T12:24",
+        "title": "No Man Is an Island",
+        "link": "https://borretti.me/article/no-man-is-an-island",
+        "pubDate": "2026-10-10T01:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Inside a 1980s filter chip that uses switched capacitors",
+        "link": "http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html",
+        "pubDate": "2026-10-10T21:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Making np.searchsorted up to 25× Faster in NumPy 2.5",
+        "link": "https://blog.scientific-python.org/numpy/searchsorted/",
+        "pubDate": "2026-10-10T23:25",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How shredding JSON is giving Logfire 1000x query speedups",
+        "link": "https://pydantic.dev/articles/dynamic-shredding-2026-01-26",
+        "pubDate": "2026-10-11T06:16",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How big is a Git commit? - ratfactor",
+        "link": "https://ratfactor.com/cards/git-commit-size",
+        "pubDate": "2026-10-11T09:25",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Iframes that finally fit their content",
+        "link": "https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html",
+        "pubDate": "2026-10-10T12:54",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The 2D physics prototype behind GTA’s vehicles",
+        "link": "https://patkerr.co.uk/2d-vehicles/",
+        "pubDate": "2026-10-10T21:06",
         "feedId": "lobsters"
       },
       {
         "title": "SNTPings, draw on a canvas using ICMPv6",
         "link": "https://pings.utwente.io/",
         "pubDate": "2026-10-10T17:05",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda",
-        "link": "https://blueberrywren.dev/blog/primes/",
-        "pubDate": "2026-10-09T14:30",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why 'externalized' proofs of cyclic trait impls does not work",
-        "link": "https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/",
-        "pubDate": "2026-10-10T16:56",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Python 3.15.0",
-        "link": "https://www.python.org/downloads/release/python-3150/",
-        "pubDate": "2026-10-09T17:07",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Programming Isn’t Special",
-        "link": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
-        "pubDate": "2026-10-09T11:09",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "culpert - rust heap profiling with span awareness and regression tooling",
-        "link": "https://github.com/rupert648/culpert",
-        "pubDate": "2026-10-10T14:49",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Unison Cloud is now open source",
-        "link": "https://www.unison-lang.org/blog/unison-cloud-open-source/",
-        "pubDate": "2026-10-09T15:32",
         "feedId": "lobsters"
       },
       {
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "Pope Leo to have \"nodule\" removed from lung",
+        "link": "https://www.axios.com/2026/10/11/pope-leo-nodule-lung",
+        "pubDate": "2026-10-11T10:53",
+        "feedId": "axios"
+      },
+      {
+        "title": "As youth sports booms, churches compete for American families' Sundays",
+        "link": "https://www.axios.com/2026/10/11/youth-sports-sunday-morning-church-attendance",
+        "pubDate": "2026-10-11T10:00",
+        "feedId": "axios"
+      },
+      {
         "title": "House Republican, invoking Reagan, moves to block Trump's Russia oil deal",
         "link": "https://www.axios.com/2026/10/10/fitzpatrick-trump-russia-diesel-discharge-petition",
         "pubDate": "2026-10-10T21:50",
@@ -363,18 +375,6 @@
         "title": "DHS faces blowback over its attack on a Democratic House candidate",
         "link": "https://www.axios.com/2026/10/09/dhs-ice-stelson-democrat-congress-pennsylvania",
         "pubDate": "2026-10-09T17:13",
-        "feedId": "axios"
-      },
-      {
-        "title": "The surprising post-pandemic drop in income inequality",
-        "link": "https://www.axios.com/2026/10/09/income-biden-pandemic-inflation",
-        "pubDate": "2026-10-09T15:58",
-        "feedId": "axios"
-      },
-      {
-        "title": "Cook Political Report tilts 18 House races toward Democrats",
-        "link": "https://www.axios.com/2026/10/09/cook-report-18-house-races-move-democrats",
-        "pubDate": "2026-10-09T14:35",
         "feedId": "axios"
       }
     ]
