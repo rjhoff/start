@@ -3,93 +3,93 @@
     "id": "hn",
     "items": [
       {
-        "title": "Type-safe HTML templating in Zig",
-        "link": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
-        "pubDate": "2026-10-12T05:02",
+        "title": "Muse Wonder",
+        "link": "https://research.meta.ai/blog/muse-wonder",
+        "pubDate": "2026-10-12T16:48",
         "feedId": "hn"
       },
       {
-        "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-        "link": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
-        "pubDate": "2026-10-12T04:54",
+        "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+        "link": "https://news.ycombinator.com/item?id=50059096",
+        "pubDate": "2026-10-12T16:46",
         "feedId": "hn"
       },
       {
-        "title": "Crest – an Arc-inspired open-source browser for Mac",
-        "link": "https://crestbrowser.com/",
-        "pubDate": "2026-10-12T03:37",
+        "title": "Reverse engineer anything with agents, from app behavior down to native binaries",
+        "link": "https://github.com/morluto/rea",
+        "pubDate": "2026-10-12T16:31",
         "feedId": "hn"
       },
       {
-        "title": "Doory – Open-Source Canva",
-        "link": "https://github.com/shaongitbd/doory",
-        "pubDate": "2026-10-12T00:48",
+        "title": "A Modern Web App in C",
+        "link": "https://prophitt.me/writing/a-modern-web-app-in-c",
+        "pubDate": "2026-10-12T16:13",
         "feedId": "hn"
       },
       {
-        "title": "Local Indexing to reduce tool calling and token usage",
-        "link": "https://tedhaley.ca/pensieve/",
-        "pubDate": "2026-10-12T00:03",
+        "title": "GLM-Legal: Advancing Agentic Legal Intelligence",
+        "link": "https://z.ai/blog/glm-legal",
+        "pubDate": "2026-10-12T16:11",
         "feedId": "hn"
       },
       {
-        "title": "HashiCorp archives the Boundary open source repo",
-        "link": "https://github.com/hashicorp/boundary",
-        "pubDate": "2026-10-12T00:02",
+        "title": "French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack",
+        "link": "https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html",
+        "pubDate": "2026-10-12T15:36",
         "feedId": "hn"
       },
       {
-        "title": "Whatever became of holography? (2011)",
-        "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
-        "pubDate": "2026-10-11T23:50",
+        "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+        "link": "https://taylor.town/kk-ai-2026",
+        "pubDate": "2026-10-12T15:16",
         "feedId": "hn"
       },
       {
-        "title": "Illustration Beyond Proof",
-        "link": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
-        "pubDate": "2026-10-11T23:22",
+        "title": "Fridges in French supermarkets hit by cyber attack",
+        "link": "https://www.bbc.com/news/articles/crq5nzxv9q4yo",
+        "pubDate": "2026-10-12T15:08",
         "feedId": "hn"
       },
       {
-        "title": "ClickHouse C – Talk to ClickHouse using its native binary protocol",
-        "link": "https://github.com/ClickHouse/clickhouse-c",
-        "pubDate": "2026-10-11T23:08",
+        "title": "Hackers heat French supermarket fridges, sparking fires and food losses",
+        "link": "https://www.reuters.com/business/retail-consumer/french-supermarket-chain-intermarche-hit-by-cyberattack-150-stories-targeted-2026-10-12/",
+        "pubDate": "2026-10-12T14:59",
         "feedId": "hn"
       },
       {
-        "title": "Fingerprints are the new cookies",
-        "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
-        "pubDate": "2026-10-11T22:33",
+        "title": "Deep dive into Azure Maia 300 architecture",
+        "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
+        "pubDate": "2026-10-12T14:45",
         "feedId": "hn"
       },
       {
-        "title": "Google is illegaly cutting forest to build data centers",
-        "link": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
-        "pubDate": "2026-10-11T22:33",
+        "title": "An Unmade Film Shaped Hayao Miyazaki",
+        "link": "https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki",
+        "pubDate": "2026-10-12T14:34",
         "feedId": "hn"
       },
       {
-        "title": "Recursive self-improvement through collective intelligence",
-        "link": "https://pub.sakana.ai/mass/",
-        "pubDate": "2026-10-11T22:22",
+        "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+        "link": "https://github.com/h0m3us3r/w1700k-sdr",
+        "pubDate": "2026-10-12T12:41",
         "feedId": "hn"
       },
       {
-        "title": "Shredding JSON columns gave Logfire up to 1000x faster queries",
-        "link": "https://pydantic.dev/articles/dynamic-shredding-2026-01-26",
-        "pubDate": "2026-10-11T22:18",
+        "title": "Incident with Actions, Pull Requests and Issues",
+        "link": "https://www.githubstatus.com/incidents/93njd414rpbx",
+        "pubDate": "2026-10-12T12:23",
         "feedId": "hn"
       },
       {
-        "title": "Passkeys are a trap",
-        "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-        "pubDate": "2026-10-11T21:59",
+        "title": "QGIS: No A contributions permitted",
+        "link": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+        "pubDate": "2026-10-12T11:22",
         "feedId": "hn"
       },
       {
-        "title": "Tattoos you can turn on and off",
-        "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
-        "pubDate": "2026-10-11T21:04",
+        "title": "Living in the Weimar Era of Ruby",
+        "link": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
+        "pubDate": "2026-10-12T10:53",
         "feedId": "hn"
       }
     ]
@@ -98,9 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "I'm sorry, but you still have to think",
-        "link": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
-        "pubDate": "2026-10-11T18:09",
+        "title": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
+        "link": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+        "pubDate": "2026-10-12T10:11",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Living in the Weimar era of Ruby",
+        "link": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
+        "pubDate": "2026-10-12T10:59",
         "feedId": "lobsters"
       },
       {
@@ -110,15 +116,39 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I'm still around.. I'm just not writing here",
-        "link": "https://rachelbythebay.com/w/2026/10/08/idle/",
-        "pubDate": "2026-10-11T14:44",
+        "title": "Writing a Demoscene Intro for the ZX Spectrum",
+        "link": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+        "pubDate": "2026-10-12T08:46",
         "feedId": "lobsters"
       },
       {
-        "title": "What's Wrong with GitHub",
-        "link": "https://www.gnu.org/philosophy/whats-wrong-with-github.html",
-        "pubDate": "2026-10-11T09:37",
+        "title": "Fingerprints are the new cookies",
+        "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
+        "pubDate": "2026-10-12T09:05",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I'm sorry, but you still have to think",
+        "link": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+        "pubDate": "2026-10-11T18:09",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "(Post-Quantum) Cryptographic Right Answers",
+        "link": "https://words.filippo.io/right-answers/",
+        "pubDate": "2026-10-12T13:44",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "French supermarket chains say cyberattack forced refrigerator shutdown",
+        "link": "https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown",
+        "pubDate": "2026-10-12T12:23",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Finding a $90,000 Remote Code Execution Vulnerability in Google",
+        "link": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+        "pubDate": "2026-10-12T14:40",
         "feedId": "lobsters"
       },
       {
@@ -128,15 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-        "link": "https://verdagon.dev/blog/valen-group-borrowing",
-        "pubDate": "2026-10-11T12:23",
+        "title": "I'm still around.. I'm just not writing here",
+        "link": "https://rachelbythebay.com/w/2026/10/08/idle/",
+        "pubDate": "2026-10-11T14:44",
         "feedId": "lobsters"
       },
       {
-        "title": "The wild west of polyglot docs sites",
-        "link": "https://technicalwriting.dev/blog/2026/10/polyglot/index.html",
-        "pubDate": "2026-10-11T17:43",
+        "title": "Linux boots on iPhone 11",
+        "link": "https://www.patreon.com/partshacker/posts/linux-boots-on-172091834",
+        "pubDate": "2026-10-12T08:59",
         "feedId": "lobsters"
       },
       {
@@ -146,45 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Highlights from \"I spent 6 years developing a game in Rust and it just shipped, AMA\" (2024)",
-        "link": "https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust",
-        "pubDate": "2026-10-11T23:28",
+        "title": "Type-safe HTML templating in Zig",
+        "link": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+        "pubDate": "2026-10-12T10:39",
         "feedId": "lobsters"
       },
       {
-        "title": "How big is a Git commit?",
-        "link": "https://ratfactor.com/cards/git-commit-size",
-        "pubDate": "2026-10-11T09:25",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "LineageOS 24.0 released",
-        "link": "https://lineageos.org/Changelog-32/",
-        "pubDate": "2026-10-11T06:21",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Refurb weekend II: Alpha Micro Eagle 300 and friends",
-        "link": "https://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html",
-        "pubDate": "2026-10-12T01:49",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "CSS for underlines",
-        "link": "https://www.rubenerd.au/css-for-underlines/",
-        "pubDate": "2026-10-12T01:43",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The next-gen borrow checker, a drop-in replacement for Rust borrow checking",
-        "link": "https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061",
-        "pubDate": "2026-10-11T19:21",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "When LLM Decompilers Recompile More and Preserve Less",
-        "link": "https://arxiv.org/abs/2609.05370",
-        "pubDate": "2026-10-12T02:44",
+        "title": "Parsing JSON at tens of gigabytes per second… in Python",
+        "link": "https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/",
+        "pubDate": "2026-10-12T15:24",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,30 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
+        "link": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
+        "pubDate": "2026-10-12T16:01",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "F1 in Singapore: There's a new fastest car now",
+        "link": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/",
+        "pubDate": "2026-10-12T14:43",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
+        "link": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
+        "pubDate": "2026-10-12T13:00",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
+        "link": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+        "pubDate": "2026-10-12T12:43",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Review: 4-hour Musk documentary feels like two different films",
         "link": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
@@ -257,36 +281,48 @@
         "link": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
         "pubDate": "2026-10-09T18:54",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "AI disqualification yields new Nikon Small World in Motion winner",
-        "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
-        "pubDate": "2026-10-09T18:44",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Your artwork could be featured in the next Debian release",
-        "link": "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/",
-        "pubDate": "2026-10-09T18:33",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Starlink spectrum deal boosts Musk plan to beat AT&T, T-Mobile, and Verizon",
-        "link": "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/",
-        "pubDate": "2026-10-09T18:24",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Microsoft barred from sponsoring foreign workers for US residency",
-        "link": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
-        "pubDate": "2026-10-09T13:14",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Trump's Russia deal leaves GOP candidates with a Putin problem",
+        "link": "https://www.axios.com/2026/10/12/trump-russia-diesel-deal-republicans-midterms",
+        "pubDate": "2026-10-12T17:12",
+        "feedId": "axios"
+      },
+      {
+        "title": "U.K. prime minister attributes plot against U.S. bomber base to Iran",
+        "link": "https://www.axios.com/2026/10/12/uk-prime-minister-plot-bombers-base-iran",
+        "pubDate": "2026-10-12T16:44",
+        "feedId": "axios"
+      },
+      {
+        "title": "Feds search Rep. Ilhan Omar's home in immigration probe",
+        "link": "https://www.axios.com/2026/10/12/ilhan-omar-search-immigration",
+        "pubDate": "2026-10-12T16:14",
+        "feedId": "axios"
+      },
+      {
+        "title": "Business faces a more interventionist Washington post-midterms",
+        "link": "https://www.axios.com/2026/10/12/beyond-november-business-faces-a-more-interventionist-washington-post-midterms",
+        "pubDate": "2026-10-12T12:14",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump privately expresses doubts about livestreaming execution",
+        "link": "https://www.axios.com/2026/10/12/trump-livestream-execution",
+        "pubDate": "2026-10-12T12:01",
+        "feedId": "axios"
+      },
+      {
+        "title": "Two U.S. professors win Nobel prize in economics",
+        "link": "https://www.axios.com/2026/10/12/nobel-prize-economics-2026-hall-woodford",
+        "pubDate": "2026-10-12T11:10",
+        "feedId": "axios"
+      },
       {
         "title": "Judge halts Trump administration's taxpayer-funded ads",
         "link": "https://www.axios.com/2026/10/12/trump-taxpayer-funded-ads-judge-order",
@@ -339,42 +375,6 @@
         "title": "Trump tells Ukraine to replace Zelensky over Russia fuel deal",
         "link": "https://www.axios.com/2026/10/10/trump-ukraine-zelensky-replace-putin-diesel",
         "pubDate": "2026-10-10T17:27",
-        "feedId": "axios"
-      },
-      {
-        "title": "Christa Pike left the hospital and returned to Tennessee prison after failed lethal injection",
-        "link": "https://www.axios.com/local/nashville/2026/10/10/christa-pike-hospital-failed-lethal-injection-tennessee",
-        "pubDate": "2026-10-10T16:29",
-        "feedId": "axios"
-      },
-      {
-        "title": "The big unknown behind Democrats' polling leads",
-        "link": "https://www.axios.com/2026/10/10/poll-democratic-wave-questions-oversampling-gop",
-        "pubDate": "2026-10-10T12:50",
-        "feedId": "axios"
-      },
-      {
-        "title": "Hegseth's public execution plan meets the age of viral violence",
-        "link": "https://www.axios.com/2026/10/10/hegseth-public-execution-nidal-hasan",
-        "pubDate": "2026-10-10T12:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump rages over Nobel Peace Prize loss",
-        "link": "https://www.axios.com/2026/10/10/trump-nobel-peace-prize-reaction",
-        "pubDate": "2026-10-10T10:53",
-        "feedId": "axios"
-      },
-      {
-        "title": "U.S. official: Trump cut deal with Putin after Zelensky ignored his requests",
-        "link": "https://www.axios.com/2026/10/10/trump-zelensky-putin-diesel-deal-war",
-        "pubDate": "2026-10-10T00:35",
-        "feedId": "axios"
-      },
-      {
-        "title": "JD Vance says he won't watch livestream execution of Fort Hood shooter",
-        "link": "https://www.axios.com/2026/10/09/jd-vance-fort-hood-shooter-livestream-execution",
-        "pubDate": "2026-10-09T22:01",
         "feedId": "axios"
       }
     ]
