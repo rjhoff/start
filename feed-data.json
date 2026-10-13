@@ -3,93 +3,93 @@
     "id": "hn",
     "items": [
       {
-        "title": "Nearly all 19 car brands send driver data to third parties (Northeastern/CR)",
-        "link": "https://news.auravision.co/car-is-spying/",
+        "title": "OpenAI finds recording device in one of their offices",
+        "link": "https://twitter.com/OpenAINewsroom/status/2110095403198849132",
+        "pubDate": "2026-10-13T19:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Four Colour Theorem: The first time machines mogged mathematicians",
+        "link": "https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians",
+        "pubDate": "2026-10-13T19:17",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+        "link": "https://guitoro.com/",
+        "pubDate": "2026-10-13T19:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain",
+        "link": "https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain",
+        "pubDate": "2026-10-13T18:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "A plea not to use uv-build",
+        "link": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+        "pubDate": "2026-10-13T18:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: XY Music Notation",
+        "link": "https://music.xy.dev/",
+        "pubDate": "2026-10-13T17:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Coris (YC S22) Is Hiring Back End Engineer",
+        "link": "https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations",
+        "pubDate": "2026-10-13T17:00",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: How Random Are You?",
+        "link": "https://lab.specr.net/rigged-draw/",
+        "pubDate": "2026-10-13T16:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "Gemini 4 Argon for Robotics",
+        "link": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+        "pubDate": "2026-10-13T16:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Gemini 4 Argon",
+        "link": "https://deepmind.google/models/gemini/",
+        "pubDate": "2026-10-13T16:03",
+        "feedId": "hn"
+      },
+      {
+        "title": "Redesigning source control at Anthropic",
+        "link": "https://www.anthropic.com/engineering/redesigning-source-control",
+        "pubDate": "2026-10-13T15:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
+        "link": "https://news.ycombinator.com/item?id=50073471",
+        "pubDate": "2026-10-13T15:41",
+        "feedId": "hn"
+      },
+      {
+        "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+        "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+        "pubDate": "2026-10-13T15:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "The United Kingdom generates less electricity per person than in the 1970s",
+        "link": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+        "pubDate": "2026-10-13T15:12",
+        "feedId": "hn"
+      },
+      {
+        "title": "Thunderbird for iOS",
+        "link": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
         "pubDate": "2026-10-13T15:07",
-        "feedId": "hn"
-      },
-      {
-        "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
-        "link": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
-        "pubDate": "2026-10-13T14:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "A Book That Will Never Be Read",
-        "link": "https://forbetterscience.com/2026/09/22/a-book-that-will-never-be-read/",
-        "pubDate": "2026-10-13T14:21",
-        "feedId": "hn"
-      },
-      {
-        "title": "New Apple TV 4K",
-        "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-        "pubDate": "2026-10-13T13:21",
-        "feedId": "hn"
-      },
-      {
-        "title": "Apple HomeView",
-        "link": "https://www.apple.com/apple-homeview/",
-        "pubDate": "2026-10-13T13:02",
-        "feedId": "hn"
-      },
-      {
-        "title": "BB(10) > Graham's Number",
-        "link": "https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md",
-        "pubDate": "2026-10-13T12:40",
-        "feedId": "hn"
-      },
-      {
-        "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
-        "link": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
-        "pubDate": "2026-10-13T12:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Mozilla Introduces Firefox Enterprise",
-        "link": "https://www.firefox.com/en-US/enterprise/",
-        "pubDate": "2026-10-13T12:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "A Visual Intro to Complex Numbers",
-        "link": "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers",
-        "pubDate": "2026-10-13T12:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
-        "link": "https://eg2.haku.sh/",
-        "pubDate": "2026-10-13T11:27",
-        "feedId": "hn"
-      },
-      {
-        "title": "11 year old unsoundness bugs found in Rust borrow checker",
-        "link": "https://github.com/rust-lang/rust/issues/164250",
-        "pubDate": "2026-10-13T10:27",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Use your OpenAI subscription to create audiobooks",
-        "link": "https://pdftomp3.com/connect-ai/",
-        "pubDate": "2026-10-13T10:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
-        "link": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
-        "pubDate": "2026-10-13T10:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "Document Review with Unsiloed and TypeSafe Jev",
-        "link": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
-        "pubDate": "2026-10-13T08:24",
-        "feedId": "hn"
-      },
-      {
-        "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-        "link": "https://blog.character.ai/an-update-on-character-ai/",
-        "pubDate": "2026-10-13T07:28",
         "feedId": "hn"
       }
     ]
@@ -97,6 +97,18 @@
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "A plea not to use uv-build",
+        "link": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+        "pubDate": "2026-10-13T14:36",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Did Ente Locker copy my code without attribution?",
+        "link": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
+        "pubDate": "2026-10-13T13:44",
+        "feedId": "lobsters"
+      },
       {
         "title": "Who is vfmaddrnd231pd??",
         "link": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
@@ -110,6 +122,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "The reverts will continue until morale improves",
+        "link": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+        "pubDate": "2026-10-13T11:37",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Vi Hart's Big Navier-Stokes Post",
         "link": "https://www.patreon.com/vihart/posts/vi-harts-big-171939430",
         "pubDate": "2026-10-13T01:29",
@@ -119,12 +137,6 @@
         "title": "Lotus Improv on the NeXT",
         "link": "https://stonetools.ghost.io/lotusimprov-next/",
         "pubDate": "2026-10-13T11:15",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The reverts will continue until morale improves",
-        "link": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
-        "pubDate": "2026-10-13T11:37",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A plea not to use uv-build",
-        "link": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
-        "pubDate": "2026-10-13T14:36",
+        "title": "Easylang: A Simple, Browser-Based Programming Language in the Spirit of the Old Home Computer BASIC",
+        "link": "https://easylang.online/ide",
+        "pubDate": "2026-10-13T13:37",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +170,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Did Ente Locker copy my code without attribution?",
-        "link": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
-        "pubDate": "2026-10-13T13:44",
+        "title": "Can Ease of Creation Lead to Decrease in Quality & Value?",
+        "link": "https://pikuma.com/blog/ease-creation-decrease-quality-value",
+        "pubDate": "2026-10-13T13:52",
         "feedId": "lobsters"
       },
       {
-        "title": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
-        "link": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
-        "pubDate": "2026-10-12T10:11",
+        "title": "Data-oriented Design for Mortals",
+        "link": "https://www.youtube.com/watch?v=uI1Yx1CJAB0",
+        "pubDate": "2026-10-13T18:54",
         "feedId": "lobsters"
       },
       {
@@ -174,24 +186,42 @@
         "link": "https://words.filippo.io/right-answers/",
         "pubDate": "2026-10-12T13:44",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Speeding up the Unreal editor by… not using unnecessarily secure hash methods",
-        "link": "https://larstofus.com/2026/10/11/speeding-up-the-unreal-editor-by-not-using-unnecessarily-secure-hash-methods/",
-        "pubDate": "2026-10-12T18:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What Happened to the Desktop Metaphor?",
-        "link": "https://deadparrotbbs.com/what-happened-to-the-desktop-metaphor/",
-        "pubDate": "2026-10-13T09:55",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "The Paris Auto Show is full of interesting cars Americans can’t have",
+        "link": "https://arstechnica.com/cars/2026/10/europe-shows-a-better-alternative-to-big-suvs-at-the-paris-auto-show/",
+        "pubDate": "2026-10-13T17:33",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google wants to host your personal vibe-coded apps in the Play Store",
+        "link": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
+        "pubDate": "2026-10-13T17:00",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+        "link": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+        "pubDate": "2026-10-13T16:00",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Apple’s first smart display is the 7-inch HomeView for $299",
+        "link": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
+        "pubDate": "2026-10-13T15:29",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "They war-gamed dimming the Sun. It went even worse than you think.",
+        "link": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+        "pubDate": "2026-10-13T15:17",
+        "feedId": "arstechnica"
+      },
       {
         "title": "High-speed video reveals how honey bee stingers pump venom",
         "link": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
@@ -251,36 +281,6 @@
         "link": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
         "pubDate": "2026-10-12T13:00",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
-        "link": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-        "pubDate": "2026-10-12T12:43",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Review: 4-hour Musk documentary feels like two different films",
-        "link": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
-        "pubDate": "2026-10-11T18:10",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
-        "link": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
-        "pubDate": "2026-10-11T14:50",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "One with the world? A new look at brains transformed by psychedelics.",
-        "link": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
-        "pubDate": "2026-10-10T11:15",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Neanderthal wooden tools from Spain found preserved in stone",
-        "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
-        "pubDate": "2026-10-09T22:34",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,9 +288,51 @@
     "id": "axios",
     "items": [
       {
+        "title": "Rep. Ilhan Omar under investigation by Jeanine Pirro's office",
+        "link": "https://www.axios.com/2026/10/13/ilhan-omar-investigation-finances-pirro",
+        "pubDate": "2026-10-13T20:52",
+        "feedId": "axios"
+      },
+      {
+        "title": "Pope Leo diagnosed with lung cancer",
+        "link": "https://www.axios.com/2026/10/13/pope-leo-lung-nodule-surgery-successful",
+        "pubDate": "2026-10-13T20:26",
+        "feedId": "axios"
+      },
+      {
+        "title": "Inside Trump, Netanyahu's dilemma: Strike Iran before elections or wait",
+        "link": "https://www.axios.com/2026/10/13/netanyahu-trump-iran-war-elections",
+        "pubDate": "2026-10-13T18:43",
+        "feedId": "axios"
+      },
+      {
+        "title": "Hegseth wants a livestream execution. Here's how firing squads work",
+        "link": "https://www.axios.com/2026/10/13/execution-nidal-hasan-firing-squad-hegseth-stream",
+        "pubDate": "2026-10-13T18:07",
+        "feedId": "axios"
+      },
+      {
+        "title": "Russian diesel deal \"a betrayal,\" bipartisan coalition says",
+        "link": "https://www.axios.com/2026/10/13/trump-russian-diesel-deal-betrayal-bipartisan-letter",
+        "pubDate": "2026-10-13T17:49",
+        "feedId": "axios"
+      },
+      {
+        "title": "Companies are building with AI — and exposing new security risks",
+        "link": "https://www.axios.com/2026/10/13/censys-ai-vibe-coding-exposures",
+        "pubDate": "2026-10-13T17:11",
+        "feedId": "axios"
+      },
+      {
         "title": "White House pushes out Kimberly Guilfoyle after misconduct reports",
         "link": "https://www.axios.com/2026/10/13/kimberly-guilfoyle-greece-ambassador-resigns-trump",
-        "pubDate": "2026-10-13T15:27",
+        "pubDate": "2026-10-13T16:24",
+        "feedId": "axios"
+      },
+      {
+        "title": "Europe's alternative to Trump's China trade war",
+        "link": "https://www.axios.com/2026/10/13/europes-alternative-to-trumps-china-trade-war",
+        "pubDate": "2026-10-13T15:59",
         "feedId": "axios"
       },
       {
@@ -333,48 +375,6 @@
         "title": "Feds search Rep. Ilhan Omar's home in immigration probe",
         "link": "https://www.axios.com/2026/10/12/ilhan-omar-search-immigration",
         "pubDate": "2026-10-12T22:08",
-        "feedId": "axios"
-      },
-      {
-        "title": "U.K. prime minister attributes plot against U.S. bomber base to Iran",
-        "link": "https://www.axios.com/2026/10/12/uk-prime-minister-plot-bombers-base-iran",
-        "pubDate": "2026-10-12T17:43",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump's Russia deal leaves GOP candidates with a Putin problem",
-        "link": "https://www.axios.com/2026/10/12/trump-russia-diesel-deal-republicans-midterms",
-        "pubDate": "2026-10-12T17:12",
-        "feedId": "axios"
-      },
-      {
-        "title": "Business faces a more interventionist Washington post-midterms",
-        "link": "https://www.axios.com/2026/10/12/beyond-november-business-faces-a-more-interventionist-washington-post-midterms",
-        "pubDate": "2026-10-12T12:14",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump privately expresses doubts about livestreaming execution",
-        "link": "https://www.axios.com/2026/10/12/trump-livestream-execution",
-        "pubDate": "2026-10-12T12:01",
-        "feedId": "axios"
-      },
-      {
-        "title": "Two U.S. professors win Nobel prize in economics",
-        "link": "https://www.axios.com/2026/10/12/nobel-prize-economics-2026-hall-woodford",
-        "pubDate": "2026-10-12T11:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "Judge halts Trump administration's taxpayer-funded ads",
-        "link": "https://www.axios.com/2026/10/12/trump-taxpayer-funded-ads-judge-order",
-        "pubDate": "2026-10-12T02:12",
-        "feedId": "axios"
-      },
-      {
-        "title": "Buttigieg gambles on a different path for 2028",
-        "link": "https://www.axios.com/2026/10/11/buttigieg-gambles-on-a-different-path-for-2028",
-        "pubDate": "2026-10-11T21:45",
         "feedId": "axios"
       }
     ]
