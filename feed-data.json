@@ -3,9 +3,33 @@
     "id": "hn",
     "items": [
       {
-        "title": "Casey Newton and John Gruber Slink Back to X",
-        "link": "https://karlbode.com/casey-newton-and-john-gruber-slink-back-to-elon-musks-right-wing-propaganda-machine/",
-        "pubDate": "2026-10-14T19:44",
+        "title": "Tiny Little Office",
+        "link": "https://tinylittleoffice.com/",
+        "pubDate": "2026-10-14T22:10",
+        "feedId": "hn"
+      },
+      {
+        "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+        "link": "https://typesafe.ai/blog/jev-1-14",
+        "pubDate": "2026-10-14T21:11",
+        "feedId": "hn"
+      },
+      {
+        "title": "OpenCode 2.0",
+        "link": "https://anoma.ly/notes/opencode-2-0/",
+        "pubDate": "2026-10-14T20:48",
+        "feedId": "hn"
+      },
+      {
+        "title": "Anthropic's Scion is heavily inspired by Mononoke",
+        "link": "https://sunshowers.io/posts/anthropic-mononoke/",
+        "pubDate": "2026-10-14T20:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+        "link": "https://blog.cloudflare.com/yandex-outage/",
+        "pubDate": "2026-10-14T20:29",
         "feedId": "hn"
       },
       {
@@ -15,7 +39,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Things to know if you get cancer in 2026",
+        "title": "Things to know when you get cancer – 2026 Edition",
         "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
         "pubDate": "2026-10-14T19:26",
         "feedId": "hn"
@@ -45,19 +69,19 @@
         "feedId": "hn"
       },
       {
-        "title": "America Didn't Lose Its Rare Earth Industry. It Sold It",
+        "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+        "link": "https://oxide.computer/blog/voxel-labs",
+        "pubDate": "2026-10-14T18:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "America didn't lose its rare earth industry, it sold it",
         "link": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
         "pubDate": "2026-10-14T17:50",
         "feedId": "hn"
       },
       {
-        "title": "Neckbeard – a DevOps/platform/SRE plugin for your agent",
-        "link": "https://github.com/bealesh/neckbeard",
-        "pubDate": "2026-10-14T17:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+        "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
         "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
         "pubDate": "2026-10-14T17:45",
         "feedId": "hn"
@@ -66,30 +90,6 @@
         "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
         "link": "https://clova.email/",
         "pubDate": "2026-10-14T17:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",
-        "link": "https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges",
-        "pubDate": "2026-10-14T16:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "Better HTTP/1 connection reuse in Go 1.27",
-        "link": "https://go.dev/blog/http-connection-reuse",
-        "pubDate": "2026-10-14T16:29",
-        "feedId": "hn"
-      },
-      {
-        "title": "Google is silently linking your phone number across all signed-in accounts",
-        "link": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
-        "pubDate": "2026-10-14T16:28",
-        "feedId": "hn"
-      },
-      {
-        "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
-        "link": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
-        "pubDate": "2026-10-14T16:24",
         "feedId": "hn"
       }
     ]
@@ -101,6 +101,12 @@
         "title": "Introducing Firefox Enterprise",
         "link": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
         "pubDate": "2026-10-14T11:06",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Anthropic's Scion is heavily inspired by Mononoke",
+        "link": "https://sunshowers.io/posts/anthropic-mononoke/",
+        "pubDate": "2026-10-14T20:56",
         "feedId": "lobsters"
       },
       {
@@ -128,21 +134,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Fixing C Strings With String Views",
+        "link": "https://eliasebner.com/blog/guides/fixing-strings-in-c/",
+        "pubDate": "2026-10-14T21:04",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
         "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
         "pubDate": "2026-10-14T07:54",
         "feedId": "lobsters"
       },
       {
-        "title": "yet another place where a linux man page is inaccurate",
-        "link": "https://sebsite.pw/w/20261014-initstate.html",
-        "pubDate": "2026-10-14T11:18",
+        "title": "GitLab warns of max severity code execution vulnerability",
+        "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
+        "pubDate": "2026-10-14T15:55",
         "feedId": "lobsters"
       },
       {
         "title": "Awesome Gaming on Linux Without Cheating",
         "link": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
         "pubDate": "2026-10-14T15:13",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "yet another place where a linux man page is inaccurate",
+        "link": "https://sebsite.pw/w/20261014-initstate.html",
+        "pubDate": "2026-10-14T11:18",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +176,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "GitLab warns of max severity code execution vulnerability",
-        "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
-        "pubDate": "2026-10-14T15:55",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A plea not to use uv-build",
-        "link": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
-        "pubDate": "2026-10-13T14:36",
+        "title": "Better HTTP/1 connection reuse",
+        "link": "https://go.dev/blog/http-connection-reuse",
+        "pubDate": "2026-10-14T17:42",
         "feedId": "lobsters"
       },
       {
@@ -174,24 +186,54 @@
         "link": "https://www.youtube.com/watch?v=NaW0d7Tghw0",
         "pubDate": "2026-10-14T10:50",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Did Ente Locker copy my code without attribution?",
-        "link": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
-        "pubDate": "2026-10-13T13:44",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Compiler bootstrapping depends on more than you might think",
-        "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges",
-        "pubDate": "2026-10-14T05:34",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+        "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+        "pubDate": "2026-10-14T21:35",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+        "link": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+        "pubDate": "2026-10-14T21:15",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
+        "link": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
+        "pubDate": "2026-10-14T21:03",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
+        "link": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+        "pubDate": "2026-10-14T20:48",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Schools across US protest FCC plan that could disconnect kids from Internet",
+        "link": "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/",
+        "pubDate": "2026-10-14T20:15",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation",
+        "link": "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/",
+        "pubDate": "2026-10-14T19:53",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Software development and rules stability: Prototype racing in 2030",
+        "link": "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/",
+        "pubDate": "2026-10-14T19:44",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
         "link": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
@@ -239,54 +281,30 @@
         "link": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
         "pubDate": "2026-10-14T11:00",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
-        "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
-        "pubDate": "2026-10-13T22:48",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
-        "link": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/",
-        "pubDate": "2026-10-13T21:55",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Topgolf saved over $11.3 million after leaving VMware",
-        "link": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
-        "pubDate": "2026-10-13T21:33",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Trump commercial railing against his enemies kept airing after court blocked it",
-        "link": "https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/",
-        "pubDate": "2026-10-13T19:50",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-        "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
-        "pubDate": "2026-10-13T18:23",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Skydance’s Discovery+ prices increase by up to 20 percent",
-        "link": "https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent/",
-        "pubDate": "2026-10-13T18:06",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "The Paris Auto Show is full of interesting cars Americans can’t have",
-        "link": "https://arstechnica.com/cars/2026/10/europe-shows-a-better-alternative-to-big-suvs-at-the-paris-auto-show/",
-        "pubDate": "2026-10-13T17:33",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Unexpected House battles pop up deep in Trump country",
+        "link": "https://www.axios.com/2026/10/14/house-candidates-trump-districts-democrats",
+        "pubDate": "2026-10-14T23:31",
+        "feedId": "axios"
+      },
+      {
+        "title": "Republicans brace for three-way leader fight if they lose",
+        "link": "https://www.axios.com/2026/10/14/house-gop-brewing-three-way-leadership-fight",
+        "pubDate": "2026-10-14T23:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "ICE says no to automatic body-cams",
+        "link": "https://www.axios.com/2026/10/14/ice-body-cam-automatic-gao-report",
+        "pubDate": "2026-10-14T20:42",
+        "feedId": "axios"
+      },
       {
         "title": "Ukraine's Starlink restrictions raise suspicions of Musk, Trump retaliation",
         "link": "https://www.axios.com/2026/10/14/ukraine-starlink-zelensky-spacex-musk-trump",
@@ -303,12 +321,6 @@
         "title": "DOJ gave California a voter list, a 48-hour deadline — and a threat of court action",
         "link": "https://www.axios.com/2026/10/14/doj-california-noncitizen-voters-mail-ballots",
         "pubDate": "2026-10-14T18:54",
-        "feedId": "axios"
-      },
-      {
-        "title": "ICE says no to automatic body-cams",
-        "link": "https://www.axios.com/2026/10/14/ice-body-cam-automatic-gao-report",
-        "pubDate": "2026-10-14T17:46",
         "feedId": "axios"
       },
       {
@@ -363,18 +375,6 @@
         "title": "Exclusive: AI safety money floods into political races",
         "link": "https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million",
         "pubDate": "2026-10-14T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Ossoff rejects 2028 buzz amid bruising night of Senate debates",
-        "link": "https://www.axios.com/2026/10/14/senate-midterm-debates-ossoff-georgia-maine-iowa",
-        "pubDate": "2026-10-14T08:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Judge orders White House to reinstate press access until litigation concludes",
-        "link": "https://www.axios.com/2026/10/14/white-house-cnn-ms-now-politico-access",
-        "pubDate": "2026-10-14T03:35",
         "feedId": "axios"
       }
     ]
