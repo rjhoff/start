@@ -3,9 +3,45 @@
     "id": "hn",
     "items": [
       {
-        "title": "OpenAI finds recording device in one of their offices",
-        "link": "https://twitter.com/OpenAINewsroom/status/2110095403198849132",
-        "pubDate": "2026-10-13T19:55",
+        "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+        "link": "https://pulseos.finance",
+        "pubDate": "2026-10-13T23:13",
+        "feedId": "hn"
+      },
+      {
+        "title": "Recreational Programming",
+        "link": "https://www.cphiri.dev/presentations/recreational-programming",
+        "pubDate": "2026-10-13T22:33",
+        "feedId": "hn"
+      },
+      {
+        "title": "AlphaNIST",
+        "link": "https://alpha-nist.github.io/",
+        "pubDate": "2026-10-13T21:57",
+        "feedId": "hn"
+      },
+      {
+        "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
+        "link": "https://www.pi.website/blog/api-beta",
+        "pubDate": "2026-10-13T21:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+        "link": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+        "pubDate": "2026-10-13T21:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "OpenAI engineer arrested in bugging of executive conference room",
+        "link": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+        "pubDate": "2026-10-13T20:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+        "link": "https://parsimony.lasu.dev/",
+        "pubDate": "2026-10-13T19:50",
         "feedId": "hn"
       },
       {
@@ -18,36 +54,6 @@
         "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
         "link": "https://guitoro.com/",
         "pubDate": "2026-10-13T19:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain",
-        "link": "https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain",
-        "pubDate": "2026-10-13T18:37",
-        "feedId": "hn"
-      },
-      {
-        "title": "A plea not to use uv-build",
-        "link": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
-        "pubDate": "2026-10-13T18:09",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: XY Music Notation",
-        "link": "https://music.xy.dev/",
-        "pubDate": "2026-10-13T17:43",
-        "feedId": "hn"
-      },
-      {
-        "title": "Coris (YC S22) Is Hiring Back End Engineer",
-        "link": "https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations",
-        "pubDate": "2026-10-13T17:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: How Random Are You?",
-        "link": "https://lab.specr.net/rigged-draw/",
-        "pubDate": "2026-10-13T16:57",
         "feedId": "hn"
       },
       {
@@ -66,12 +72,6 @@
         "title": "Redesigning source control at Anthropic",
         "link": "https://www.anthropic.com/engineering/redesigning-source-control",
         "pubDate": "2026-10-13T15:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
-        "link": "https://news.ycombinator.com/item?id=50073471",
-        "pubDate": "2026-10-13T15:41",
         "feedId": "hn"
       },
       {
@@ -116,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Where is all the new, good software?",
-        "link": "https://www.natemeyvis.com/where-is-all-the-new-good-software/",
-        "pubDate": "2026-10-13T09:14",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The reverts will continue until morale improves",
         "link": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
         "pubDate": "2026-10-13T11:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Where is all the new, good software?",
+        "link": "https://www.natemeyvis.com/where-is-all-the-new-good-software/",
+        "pubDate": "2026-10-13T09:14",
         "feedId": "lobsters"
       },
       {
@@ -152,27 +152,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Living in the Weimar era of Ruby",
-        "link": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
-        "pubDate": "2026-10-12T10:59",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Easylang: A Simple, Browser-Based Programming Language in the Spirit of the Old Home Computer BASIC",
         "link": "https://easylang.online/ide",
         "pubDate": "2026-10-13T13:37",
         "feedId": "lobsters"
       },
       {
-        "title": "Chasing a -O2 pessimization in antcc",
-        "link": "https://386s.org/w/lua-antcc-pessimization/",
-        "pubDate": "2026-10-13T09:33",
+        "title": "Announcing Lix 2.96 “Bingsu”",
+        "link": "https://lix.systems/blog/2026-10-13-lix-2.96-release/",
+        "pubDate": "2026-10-13T21:17",
         "feedId": "lobsters"
       },
       {
-        "title": "Can Ease of Creation Lead to Decrease in Quality & Value?",
-        "link": "https://pikuma.com/blog/ease-creation-decrease-quality-value",
-        "pubDate": "2026-10-13T13:52",
+        "title": "Redesigning source control at Anthropic",
+        "link": "https://www.anthropic.com/engineering/redesigning-source-control",
+        "pubDate": "2026-10-13T20:37",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "(Post-Quantum) Cryptographic Right Answers",
-        "link": "https://words.filippo.io/right-answers/",
-        "pubDate": "2026-10-12T13:44",
+        "title": "Living in the Weimar era of Ruby",
+        "link": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
+        "pubDate": "2026-10-12T10:59",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Can Ease of Creation Lead to Decrease in Quality & Value?",
+        "link": "https://pikuma.com/blog/ease-creation-decrease-quality-value",
+        "pubDate": "2026-10-13T13:52",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,42 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+        "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
+        "pubDate": "2026-10-13T22:48",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
+        "link": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/",
+        "pubDate": "2026-10-13T21:55",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Topgolf saved over $11.3 million after leaving VMware",
+        "link": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
+        "pubDate": "2026-10-13T21:33",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Trump commercial railing against his enemies kept airing after court blocked it",
+        "link": "https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/",
+        "pubDate": "2026-10-13T19:50",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+        "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+        "pubDate": "2026-10-13T18:23",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Skydance’s Discovery+ prices increase by up to 20 percent",
+        "link": "https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent/",
+        "pubDate": "2026-10-13T18:06",
+        "feedId": "arstechnica"
+      },
       {
         "title": "The Paris Auto Show is full of interesting cars Americans can’t have",
         "link": "https://arstechnica.com/cars/2026/10/europe-shows-a-better-alternative-to-big-suvs-at-the-paris-auto-show/",
@@ -245,48 +281,24 @@
         "link": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
         "pubDate": "2026-10-12T20:26",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "WHO report on Russian lab worker death highlights \"key uncertainty\"",
-        "link": "https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/",
-        "pubDate": "2026-10-12T18:46",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-        "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-        "pubDate": "2026-10-12T18:21",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Russia was not ready for the data center war it started with Ukraine",
-        "link": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
-        "pubDate": "2026-10-12T17:52",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
-        "link": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
-        "pubDate": "2026-10-12T16:01",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "F1 in Singapore: There's a new fastest car now",
-        "link": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/",
-        "pubDate": "2026-10-12T14:43",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
-        "link": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
-        "pubDate": "2026-10-12T13:00",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Mike Johnson's Latino voter problem keeps getting worse",
+        "link": "https://www.axios.com/2026/10/13/trump-mike-johnson-latino-voters-house",
+        "pubDate": "2026-10-13T23:26",
+        "feedId": "axios"
+      },
+      {
+        "title": "Democrats fear \"more October surprises\" after \"bullshit\" raid on Ilhan Omar's home",
+        "link": "https://www.axios.com/2026/10/13/ilhan-omar-raid-democrats-reaction-midterms-2026",
+        "pubDate": "2026-10-13T23:25",
+        "feedId": "axios"
+      },
       {
         "title": "Rep. Ilhan Omar under investigation by Jeanine Pirro's office",
         "link": "https://www.axios.com/2026/10/13/ilhan-omar-investigation-finances-pirro",
@@ -363,18 +375,6 @@
         "title": "Dems' red-state showings raise prospect of a bigger 2028 map",
         "link": "https://www.axios.com/2026/10/13/2028-map-swing-states-democrats-red-conservatives",
         "pubDate": "2026-10-13T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Top Trump operative enlisted to rescue Kansas senator's campaign",
-        "link": "https://www.axios.com/2026/10/12/top-trump-operative-kansas-senate-race",
-        "pubDate": "2026-10-12T23:47",
-        "feedId": "axios"
-      },
-      {
-        "title": "Feds search Rep. Ilhan Omar's home in immigration probe",
-        "link": "https://www.axios.com/2026/10/12/ilhan-omar-search-immigration",
-        "pubDate": "2026-10-12T22:08",
         "feedId": "axios"
       }
     ]
