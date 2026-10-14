@@ -1,8 +1,98 @@
 {
   "hn": {
     "id": "hn",
-    "error": "Request timed out after 10000ms",
-    "items": []
+    "items": [
+      {
+        "title": "Show HN: Building an LLM from Scratch in TypeScript",
+        "link": "https://book.humanexperiences.io/",
+        "pubDate": "2026-10-14T10:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
+        "link": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
+        "pubDate": "2026-10-14T10:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
+        "link": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
+        "pubDate": "2026-10-14T10:26",
+        "feedId": "hn"
+      },
+      {
+        "title": "I let an AI run my startup for a week",
+        "link": "https://daily.tinyprojects.dev/221",
+        "pubDate": "2026-10-14T10:25",
+        "feedId": "hn"
+      },
+      {
+        "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
+        "link": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
+        "pubDate": "2026-10-14T10:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ask HN: What is the current trajectory of a senior engineer?",
+        "link": "https://news.ycombinator.com/item?id=50084969",
+        "pubDate": "2026-10-14T09:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
+        "link": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
+        "pubDate": "2026-10-14T09:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "Amazon pushes up prices across the Internet",
+        "link": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+        "pubDate": "2026-10-14T09:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "What agents mean for Rust (and vice versa)",
+        "link": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
+        "pubDate": "2026-10-14T08:49",
+        "feedId": "hn"
+      },
+      {
+        "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+        "link": "https://typeof.net/Iosevka/",
+        "pubDate": "2026-10-14T08:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+        "link": "https://github.com/android/ndk/issues/2260",
+        "pubDate": "2026-10-14T06:18",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why is every rationalist blog post way too long?",
+        "link": "https://alexwennerberg.com/blog/2026-10-13-long.html",
+        "pubDate": "2026-10-14T06:02",
+        "feedId": "hn"
+      },
+      {
+        "title": "Felix Rieseberg Homepage",
+        "link": "https://felixrieseberg.com/",
+        "pubDate": "2026-10-14T04:42",
+        "feedId": "hn"
+      },
+      {
+        "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
+        "link": "https://strafe.chat/",
+        "pubDate": "2026-10-14T03:28",
+        "feedId": "hn"
+      },
+      {
+        "title": "Recreational Programming",
+        "link": "https://www.cphiri.dev/presentations/recreational-programming",
+        "pubDate": "2026-10-13T22:33",
+        "feedId": "hn"
+      }
+    ]
   },
   "lobsters": {
     "id": "lobsters",
@@ -20,6 +110,24 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Apple: Switch to Safari (from Chrome)",
+        "link": "https://www.apple.com/safari/switch/",
+        "pubDate": "2026-10-14T04:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Redesigning source control at Anthropic",
+        "link": "https://www.anthropic.com/engineering/redesigning-source-control",
+        "pubDate": "2026-10-13T20:37",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Fancy Curl Sites",
+        "link": "https://nytpu.com/gemlog/2026-03-18",
+        "pubDate": "2026-10-14T06:24",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The reverts will continue until morale improves",
         "link": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
         "pubDate": "2026-10-13T11:37",
@@ -32,9 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Redesigning source control at Anthropic",
-        "link": "https://www.anthropic.com/engineering/redesigning-source-control",
-        "pubDate": "2026-10-13T20:37",
+        "title": "Announcing Lix 2.96 “Bingsu”",
+        "link": "https://lix.systems/blog/2026-10-13-lix-2.96-release/",
+        "pubDate": "2026-10-13T21:17",
         "feedId": "lobsters"
       },
       {
@@ -44,9 +152,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Announcing Lix 2.96 “Bingsu”",
-        "link": "https://lix.systems/blog/2026-10-13-lix-2.96-release/",
-        "pubDate": "2026-10-13T21:17",
+        "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+        "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+        "pubDate": "2026-10-14T07:54",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Compiler bootstrapping depends on more than you might think",
+        "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges",
+        "pubDate": "2026-10-14T05:34",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Bru: Send and read SMS from the browser",
+        "link": "https://sverre.me/projects/bru/",
+        "pubDate": "2026-10-14T01:14",
         "feedId": "lobsters"
       },
       {
@@ -62,39 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Apple: Switch to Safari (from Chrome)",
-        "link": "https://www.apple.com/safari/switch/",
-        "pubDate": "2026-10-14T04:18",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Creusot 0.14.0 release - Contracts for Rust, formally proved",
-        "link": "https://devlog.creusot.rs/v0-14-0/",
-        "pubDate": "2026-10-13T07:57",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Bru: Send and read SMS from the browser",
-        "link": "https://sverre.me/projects/bru/",
-        "pubDate": "2026-10-14T01:14",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Easylang: A Simple, Browser-Based Programming Language in the Spirit of the Old Home Computer BASIC",
-        "link": "https://easylang.online/ide",
-        "pubDate": "2026-10-13T13:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Please stop hashing the public key first (or: ML-DSA's µ annoys me)",
-        "link": "https://blog.erincandescent.net/2026/10/mu-annoys-me/",
-        "pubDate": "2026-10-13T22:01",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A slightly faster slimmer curl",
-        "link": "https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/",
-        "pubDate": "2026-10-13T06:26",
+        "title": "Linux Lockdown and Hibernation (again)",
+        "link": "https://codon.org.uk/~mjg59/blog/p/linux-lockdown-and-hibernation-again/",
+        "pubDate": "2026-10-14T08:52",
         "feedId": "lobsters"
       }
     ]
@@ -198,6 +288,36 @@
     "id": "axios",
     "items": [
       {
+        "title": "Apple bets AI can finally make us want a smart home",
+        "link": "https://www.axios.com/2026/10/14/apple-ai-hardware-smart-display-homeview",
+        "pubDate": "2026-10-14T09:30",
+        "feedId": "axios"
+      },
+      {
+        "title": "AI's extreme heat challenge is moving from prediction to protection",
+        "link": "https://www.axios.com/2026/10/14/ai-extreme-heat-weather-forecast-protection",
+        "pubDate": "2026-10-14T09:15",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump plays Russian roulette on eve of midterms",
+        "link": "https://www.axios.com/2026/10/14/trump-putin-diesel-deal-midterms-russia",
+        "pubDate": "2026-10-14T09:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "Exclusive: AI safety money floods into political races",
+        "link": "https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million",
+        "pubDate": "2026-10-14T09:00",
+        "feedId": "axios"
+      },
+      {
+        "title": "Ossoff rejects 2028 buzz amid bruising night of Senate debates",
+        "link": "https://www.axios.com/2026/10/14/senate-midterm-debates-ossoff-georgia-maine-iowa",
+        "pubDate": "2026-10-14T08:00",
+        "feedId": "axios"
+      },
+      {
         "title": "Judge orders White House to reinstate press access until litigation concludes",
         "link": "https://www.axios.com/2026/10/14/white-house-cnn-ms-now-politico-access",
         "pubDate": "2026-10-14T03:35",
@@ -255,36 +375,6 @@
         "title": "Companies are building with AI — and exposing new security risks",
         "link": "https://www.axios.com/2026/10/13/censys-ai-vibe-coding-exposures",
         "pubDate": "2026-10-13T17:11",
-        "feedId": "axios"
-      },
-      {
-        "title": "White House pushes out Kimberly Guilfoyle after misconduct reports",
-        "link": "https://www.axios.com/2026/10/13/kimberly-guilfoyle-greece-ambassador-resigns-trump",
-        "pubDate": "2026-10-13T16:24",
-        "feedId": "axios"
-      },
-      {
-        "title": "Europe's alternative to Trump's China trade war",
-        "link": "https://www.axios.com/2026/10/13/europes-alternative-to-trumps-china-trade-war",
-        "pubDate": "2026-10-13T15:59",
-        "feedId": "axios"
-      },
-      {
-        "title": "Five things to watch after Trump's Russian diesel deal",
-        "link": "https://www.axios.com/2026/10/13/trump-russia-diesel-deal",
-        "pubDate": "2026-10-13T12:36",
-        "feedId": "axios"
-      },
-      {
-        "title": "Axios-Ipsos poll: \"Medicare for All\" support surges",
-        "link": "https://www.axios.com/2026/10/13/axios-ipsos-poll-medicare-for-all-support-surges",
-        "pubDate": "2026-10-13T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "A golden age of corporate profits",
-        "link": "https://www.axios.com/2026/10/13/earnings-3q-ai-stocks",
-        "pubDate": "2026-10-13T09:10",
         "feedId": "axios"
       }
     ]
