@@ -1,98 +1,8 @@
 {
   "hn": {
     "id": "hn",
-    "items": [
-      {
-        "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-        "link": "https://pulseos.finance",
-        "pubDate": "2026-10-13T23:13",
-        "feedId": "hn"
-      },
-      {
-        "title": "Recreational Programming",
-        "link": "https://www.cphiri.dev/presentations/recreational-programming",
-        "pubDate": "2026-10-13T22:33",
-        "feedId": "hn"
-      },
-      {
-        "title": "AlphaNIST",
-        "link": "https://alpha-nist.github.io/",
-        "pubDate": "2026-10-13T21:57",
-        "feedId": "hn"
-      },
-      {
-        "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
-        "link": "https://www.pi.website/blog/api-beta",
-        "pubDate": "2026-10-13T21:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
-        "link": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
-        "pubDate": "2026-10-13T21:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "OpenAI engineer arrested in bugging of executive conference room",
-        "link": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-        "pubDate": "2026-10-13T20:23",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
-        "link": "https://parsimony.lasu.dev/",
-        "pubDate": "2026-10-13T19:50",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Four Colour Theorem: The first time machines mogged mathematicians",
-        "link": "https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians",
-        "pubDate": "2026-10-13T19:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-        "link": "https://guitoro.com/",
-        "pubDate": "2026-10-13T19:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "Gemini 4 Argon for Robotics",
-        "link": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
-        "pubDate": "2026-10-13T16:55",
-        "feedId": "hn"
-      },
-      {
-        "title": "Gemini 4 Argon",
-        "link": "https://deepmind.google/models/gemini/",
-        "pubDate": "2026-10-13T16:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Redesigning source control at Anthropic",
-        "link": "https://www.anthropic.com/engineering/redesigning-source-control",
-        "pubDate": "2026-10-13T15:49",
-        "feedId": "hn"
-      },
-      {
-        "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-        "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-        "pubDate": "2026-10-13T15:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "The United Kingdom generates less electricity per person than in the 1970s",
-        "link": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
-        "pubDate": "2026-10-13T15:12",
-        "feedId": "hn"
-      },
-      {
-        "title": "Thunderbird for iOS",
-        "link": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-        "pubDate": "2026-10-13T15:07",
-        "feedId": "hn"
-      }
-    ]
+    "error": "Request timed out after 10000ms",
+    "items": []
   },
   "lobsters": {
     "id": "lobsters",
@@ -110,21 +20,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Who is vfmaddrnd231pd??",
-        "link": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-        "pubDate": "2026-10-13T04:43",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The reverts will continue until morale improves",
         "link": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
         "pubDate": "2026-10-13T11:37",
         "feedId": "lobsters"
       },
       {
+        "title": "Who is vfmaddrnd231pd??",
+        "link": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+        "pubDate": "2026-10-13T04:43",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Redesigning source control at Anthropic",
+        "link": "https://www.anthropic.com/engineering/redesigning-source-control",
+        "pubDate": "2026-10-13T20:37",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Where is all the new, good software?",
         "link": "https://www.natemeyvis.com/where-is-all-the-new-good-software/",
         "pubDate": "2026-10-13T09:14",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Announcing Lix 2.96 “Bingsu”",
+        "link": "https://lix.systems/blog/2026-10-13-lix-2.96-release/",
+        "pubDate": "2026-10-13T21:17",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +62,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Apple: Switch to Safari (from Chrome)",
+        "link": "https://www.apple.com/safari/switch/",
+        "pubDate": "2026-10-14T04:18",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Creusot 0.14.0 release - Contracts for Rust, formally proved",
         "link": "https://devlog.creusot.rs/v0-14-0/",
         "pubDate": "2026-10-13T07:57",
         "feedId": "lobsters"
       },
       {
-        "title": "A slightly faster slimmer curl",
-        "link": "https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/",
-        "pubDate": "2026-10-13T06:26",
+        "title": "Bru: Send and read SMS from the browser",
+        "link": "https://sverre.me/projects/bru/",
+        "pubDate": "2026-10-14T01:14",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +86,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Announcing Lix 2.96 “Bingsu”",
-        "link": "https://lix.systems/blog/2026-10-13-lix-2.96-release/",
-        "pubDate": "2026-10-13T21:17",
+        "title": "Please stop hashing the public key first (or: ML-DSA's µ annoys me)",
+        "link": "https://blog.erincandescent.net/2026/10/mu-annoys-me/",
+        "pubDate": "2026-10-13T22:01",
         "feedId": "lobsters"
       },
       {
-        "title": "Redesigning source control at Anthropic",
-        "link": "https://www.anthropic.com/engineering/redesigning-source-control",
-        "pubDate": "2026-10-13T20:37",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Data-oriented Design for Mortals",
-        "link": "https://www.youtube.com/watch?v=uI1Yx1CJAB0",
-        "pubDate": "2026-10-13T18:54",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Living in the Weimar era of Ruby",
-        "link": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
-        "pubDate": "2026-10-12T10:59",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Can Ease of Creation Lead to Decrease in Quality & Value?",
-        "link": "https://pikuma.com/blog/ease-creation-decrease-quality-value",
-        "pubDate": "2026-10-13T13:52",
+        "title": "A slightly faster slimmer curl",
+        "link": "https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/",
+        "pubDate": "2026-10-13T06:26",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +198,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Judge orders White House to reinstate press access until litigation concludes",
+        "link": "https://www.axios.com/2026/10/14/white-house-cnn-ms-now-politico-access",
+        "pubDate": "2026-10-14T03:35",
+        "feedId": "axios"
+      },
+      {
         "title": "Mike Johnson's Latino voter problem keeps getting worse",
         "link": "https://www.axios.com/2026/10/13/trump-mike-johnson-latino-voters-house",
         "pubDate": "2026-10-13T23:26",
@@ -297,6 +213,12 @@
         "title": "Democrats fear \"more October surprises\" after \"bullshit\" raid on Ilhan Omar's home",
         "link": "https://www.axios.com/2026/10/13/ilhan-omar-raid-democrats-reaction-midterms-2026",
         "pubDate": "2026-10-13T23:25",
+        "feedId": "axios"
+      },
+      {
+        "title": "Bank of America hit with $1.2 billion penalty over money laundering allegations",
+        "link": "https://www.axios.com/2026/10/13/treasury-bank-america-fine",
+        "pubDate": "2026-10-13T21:03",
         "feedId": "axios"
       },
       {
@@ -363,18 +285,6 @@
         "title": "A golden age of corporate profits",
         "link": "https://www.axios.com/2026/10/13/earnings-3q-ai-stocks",
         "pubDate": "2026-10-13T09:10",
-        "feedId": "axios"
-      },
-      {
-        "title": "Every major Nvidia customer is now a competitor as Microsoft reveals new Maia chip",
-        "link": "https://www.axios.com/2026/10/13/big-tech-ai-chips-nvidia-rivals",
-        "pubDate": "2026-10-13T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Dems' red-state showings raise prospect of a bigger 2028 map",
-        "link": "https://www.axios.com/2026/10/13/2028-map-swing-states-democrats-red-conservatives",
-        "pubDate": "2026-10-13T09:00",
         "feedId": "axios"
       }
     ]
