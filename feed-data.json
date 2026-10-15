@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+        "link": "https://github.com/awslabs/aidlc-workflows",
+        "pubDate": "2026-10-15T07:20",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
+        "link": "https://github.com/andunieee/flipflop",
+        "pubDate": "2026-10-15T04:25",
+        "feedId": "hn"
+      },
+      {
         "title": "The Double Headed Stack Allocator",
         "link": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
         "pubDate": "2026-10-15T02:06",
@@ -12,6 +24,12 @@
         "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
         "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
         "pubDate": "2026-10-14T23:59",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Ito – Build Terminal UIs in Lua",
+        "link": "https://uji.sh/ito/",
+        "pubDate": "2026-10-14T22:23",
         "feedId": "hn"
       },
       {
@@ -33,18 +51,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Anthropic's Scion is heavily inspired by Mononoke",
-        "link": "https://sunshowers.io/posts/anthropic-mononoke/",
-        "pubDate": "2026-10-14T20:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
-        "link": "https://blog.cloudflare.com/yandex-outage/",
-        "pubDate": "2026-10-14T20:29",
-        "feedId": "hn"
-      },
-      {
         "title": "Fancy Curl Sites",
         "link": "https://nytpu.com/gemlog/2026-03-18",
         "pubDate": "2026-10-14T19:29",
@@ -57,39 +63,33 @@
         "feedId": "hn"
       },
       {
-        "title": "Suicide rates highest ever among middle-aged men",
-        "link": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
-        "pubDate": "2026-10-14T19:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-        "link": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-        "pubDate": "2026-10-14T18:37",
-        "feedId": "hn"
-      },
-      {
-        "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-        "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-        "pubDate": "2026-10-14T18:32",
-        "feedId": "hn"
-      },
-      {
         "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
         "link": "https://petal.live/",
         "pubDate": "2026-10-14T18:23",
         "feedId": "hn"
       },
       {
-        "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
-        "link": "https://oxide.computer/blog/voxel-labs",
-        "pubDate": "2026-10-14T18:21",
-        "feedId": "hn"
-      },
-      {
         "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
         "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
         "pubDate": "2026-10-14T17:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "Better HTTP/1 connection reuse in Go 1.27",
+        "link": "https://go.dev/blog/http-connection-reuse",
+        "pubDate": "2026-10-14T16:29",
+        "feedId": "hn"
+      },
+      {
+        "title": "Americans' social activity has steeply declined in the past 30 years",
+        "link": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+        "pubDate": "2026-10-14T16:09",
+        "feedId": "hn"
+      },
+      {
+        "title": "Submarine cable resilience",
+        "link": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+        "pubDate": "2026-10-14T15:31",
         "feedId": "hn"
       }
     ]
@@ -116,6 +116,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Fixing C Strings With String Views",
+        "link": "https://eliasebner.com/blog/guides/fixing-strings-in-c/",
+        "pubDate": "2026-10-14T21:04",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Plasma 6.8 released (KDE's 30th birthday)",
         "link": "https://kde.org/announcements/plasma/6/6.8.0/",
         "pubDate": "2026-10-14T11:29",
@@ -134,9 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Fixing C Strings With String Views",
-        "link": "https://eliasebner.com/blog/guides/fixing-strings-in-c/",
-        "pubDate": "2026-10-14T21:04",
+        "title": "Better HTTP/1 connection reuse",
+        "link": "https://go.dev/blog/http-connection-reuse",
+        "pubDate": "2026-10-14T17:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Haxy on Haxy",
+        "link": "https://try.haxy.net/haxy:haxy",
+        "pubDate": "2026-10-15T07:58",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Better HTTP/1 connection reuse",
-        "link": "https://go.dev/blog/http-connection-reuse",
-        "pubDate": "2026-10-14T17:42",
+        "title": "ito - build terminal ui in lua",
+        "link": "https://uji.sh/ito",
+        "pubDate": "2026-10-14T22:27",
         "feedId": "lobsters"
       },
       {
-        "title": "ZXC: Lossless compression built for ultra-fast decode",
-        "link": "https://libzxc.org/",
-        "pubDate": "2026-10-14T14:36",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Apple: Switch to Safari (from Chrome)",
-        "link": "https://www.apple.com/safari/switch/",
-        "pubDate": "2026-10-14T04:18",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "My Game's Procedural Dialogue System",
-        "link": "https://www.youtube.com/watch?v=NaW0d7Tghw0",
-        "pubDate": "2026-10-14T10:50",
+        "title": "Furifont: furigana built into the font",
+        "link": "https://furifont.antfu.me/",
+        "pubDate": "2026-10-15T05:00",
         "feedId": "lobsters"
       }
     ]
