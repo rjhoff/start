@@ -3,6 +3,18 @@
     "id": "hn",
     "items": [
       {
+        "title": "The Double Headed Stack Allocator",
+        "link": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+        "pubDate": "2026-10-15T02:06",
+        "feedId": "hn"
+      },
+      {
+        "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+        "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+        "pubDate": "2026-10-14T23:59",
+        "feedId": "hn"
+      },
+      {
         "title": "Tiny Little Office",
         "link": "https://tinylittleoffice.com/",
         "pubDate": "2026-10-14T22:10",
@@ -39,7 +51,7 @@
         "feedId": "hn"
       },
       {
-        "title": "Things to know when you get cancer – 2026 Edition",
+        "title": "Things to know when you get cancer",
         "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
         "pubDate": "2026-10-14T19:26",
         "feedId": "hn"
@@ -75,21 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "America didn't lose its rare earth industry, it sold it",
-        "link": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
-        "pubDate": "2026-10-14T17:50",
-        "feedId": "hn"
-      },
-      {
         "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
         "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
         "pubDate": "2026-10-14T17:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
-        "link": "https://clova.email/",
-        "pubDate": "2026-10-14T17:00",
         "feedId": "hn"
       }
     ]
@@ -98,19 +98,19 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Introducing Firefox Enterprise",
-        "link": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
-        "pubDate": "2026-10-14T11:06",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Anthropic's Scion is heavily inspired by Mononoke",
         "link": "https://sunshowers.io/posts/anthropic-mononoke/",
         "pubDate": "2026-10-14T20:56",
         "feedId": "lobsters"
       },
       {
-        "title": "What I Self-Host | Aspirational Self Hosting Guide",
+        "title": "Introducing Firefox Enterprise",
+        "link": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
+        "pubDate": "2026-10-14T11:06",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What I Self-Host",
         "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
         "pubDate": "2026-10-14T15:32",
         "feedId": "lobsters"
@@ -122,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Fancy Curl Sites",
-        "link": "https://nytpu.com/gemlog/2026-03-18",
-        "pubDate": "2026-10-14T06:24",
+        "title": "Awesome Gaming on Linux Without Cheating",
+        "link": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
+        "pubDate": "2026-10-14T15:13",
         "feedId": "lobsters"
       },
       {
-        "title": "Factor 0.102 now available",
-        "link": "https://re.factorcode.org/2026/10/factor-0-102-now-available.html",
-        "pubDate": "2026-10-14T13:42",
+        "title": "Fancy Curl Sites",
+        "link": "https://nytpu.com/gemlog/2026-03-18",
+        "pubDate": "2026-10-14T06:24",
         "feedId": "lobsters"
       },
       {
@@ -140,21 +140,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-        "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-        "pubDate": "2026-10-14T07:54",
-        "feedId": "lobsters"
-      },
-      {
         "title": "GitLab warns of max severity code execution vulnerability",
         "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
         "pubDate": "2026-10-14T15:55",
         "feedId": "lobsters"
       },
       {
-        "title": "Awesome Gaming on Linux Without Cheating",
-        "link": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
-        "pubDate": "2026-10-14T15:13",
+        "title": "Factor 0.102 now available",
+        "link": "https://re.factorcode.org/2026/10/factor-0-102-now-available.html",
+        "pubDate": "2026-10-14T13:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+        "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+        "pubDate": "2026-10-14T07:54",
         "feedId": "lobsters"
       },
       {
@@ -164,9 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Apple: Switch to Safari (from Chrome)",
-        "link": "https://www.apple.com/safari/switch/",
-        "pubDate": "2026-10-14T04:18",
+        "title": "Better HTTP/1 connection reuse",
+        "link": "https://go.dev/blog/http-connection-reuse",
+        "pubDate": "2026-10-14T17:42",
         "feedId": "lobsters"
       },
       {
@@ -176,9 +176,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Better HTTP/1 connection reuse",
-        "link": "https://go.dev/blog/http-connection-reuse",
-        "pubDate": "2026-10-14T17:42",
+        "title": "Apple: Switch to Safari (from Chrome)",
+        "link": "https://www.apple.com/safari/switch/",
+        "pubDate": "2026-10-14T04:18",
         "feedId": "lobsters"
       },
       {
