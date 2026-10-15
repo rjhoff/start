@@ -3,73 +3,67 @@
     "id": "hn",
     "items": [
       {
+        "title": "What I Self-Host",
+        "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+        "pubDate": "2026-10-15T20:23",
+        "feedId": "hn"
+      },
+      {
+        "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+        "link": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+        "pubDate": "2026-10-15T19:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+        "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+        "pubDate": "2026-10-15T19:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "We are entering a period of overlapping crises",
+        "link": "https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/",
+        "pubDate": "2026-10-15T18:54",
+        "feedId": "hn"
+      },
+      {
+        "title": "E Ink Kaleido 4",
+        "link": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
+        "pubDate": "2026-10-15T18:38",
+        "feedId": "hn"
+      },
+      {
         "title": "Muse Spark Open",
         "link": "https://research.meta.ai/blog/muse-spark-open",
         "pubDate": "2026-10-15T17:47",
         "feedId": "hn"
       },
       {
-        "title": "Anthropic Update on Independent Evaluators",
-        "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-        "pubDate": "2026-10-15T17:30",
-        "feedId": "hn"
-      },
-      {
-        "title": "More on Anthropic's Scion ripping off Mononoke",
-        "link": "https://sunshowers.io/posts/anthropic-mononoke-2/",
-        "pubDate": "2026-10-15T17:05",
-        "feedId": "hn"
-      },
-      {
-        "title": "An Israeli firm is sending zero-click spyware through online ads",
-        "link": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware",
-        "pubDate": "2026-10-15T17:01",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally",
-        "link": "https://sygal.app",
-        "pubDate": "2026-10-15T16:26",
-        "feedId": "hn"
-      },
-      {
-        "title": "Jev Meets the Trolley Problem",
+        "title": "Jev meets the Trolley Problem",
         "link": "https://zachlandes.com/trolley-problem/",
         "pubDate": "2026-10-15T16:24",
         "feedId": "hn"
       },
       {
-        "title": "Market selloff, rising rates test AI data centre deal boom",
-        "link": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/",
-        "pubDate": "2026-10-15T16:17",
-        "feedId": "hn"
-      },
-      {
-        "title": "The technical actions needed to ensure the continuity of UTC",
-        "link": "https://www.bipm.org/en/cgpm-2026/resolution-5",
-        "pubDate": "2026-10-15T16:11",
-        "feedId": "hn"
-      },
-      {
-        "title": "Krea 3 – Frontier Image Model 4× faster than Nano Banana Pro",
+        "title": "Krea 3 – An image model built for editing at scale",
         "link": "https://www.krea.ai/krea-3",
         "pubDate": "2026-10-15T16:04",
         "feedId": "hn"
       },
       {
-        "title": "Neural Networks Are Already Clean",
+        "title": "Neural networks are clean",
         "link": "https://already-clean.goodfire.com/",
         "pubDate": "2026-10-15T16:04",
         "feedId": "hn"
       },
       {
-        "title": "Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher",
+        "title": "Steam Client is now faster than Epic's new vibe coded launcher",
         "link": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
         "pubDate": "2026-10-15T16:03",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Proa – a Rust web framework with fast SSR and multi-target rendering",
+        "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering",
         "link": "https://proa.so/",
         "pubDate": "2026-10-15T15:52",
         "feedId": "hn"
@@ -87,9 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Prompt injection in HTTP headers: what 217M web responses show",
-        "link": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
-        "pubDate": "2026-10-15T14:36",
+        "title": "Using AI to reverse engineer hardware",
+        "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+        "pubDate": "2026-10-15T14:35",
+        "feedId": "hn"
+      },
+      {
+        "title": "I know why the mathematicians weep",
+        "link": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+        "pubDate": "2026-10-15T13:44",
         "feedId": "hn"
       }
     ]
@@ -101,18 +101,6 @@
         "title": "Sunsetting decomp.dev",
         "link": "https://decomp.dev/",
         "pubDate": "2026-10-15T13:27",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Anthropic's Scion is heavily inspired by Mononoke",
-        "link": "https://sunshowers.io/posts/anthropic-mononoke/",
-        "pubDate": "2026-10-14T20:56",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Haxy on Haxy",
-        "link": "https://try.haxy.net/haxy:haxy",
-        "pubDate": "2026-10-15T07:58",
         "feedId": "lobsters"
       },
       {
@@ -128,33 +116,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Haxy on Haxy",
+        "link": "https://try.haxy.net/haxy:haxy",
+        "pubDate": "2026-10-15T07:58",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Anthropic's Scion is heavily inspired by Mononoke",
+        "link": "https://sunshowers.io/posts/anthropic-mononoke/",
+        "pubDate": "2026-10-14T20:56",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The Costa GUI",
         "link": "https://costa.jacobpalm.dk",
         "pubDate": "2026-10-15T12:06",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Haxy.net is live! — HAXY (git forge) devlog",
-        "link": "https://youtu.be/89yAiqYEwKg",
-        "pubDate": "2026-10-15T07:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Introducing Firefox Enterprise",
-        "link": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
-        "pubDate": "2026-10-14T11:06",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "sslx: A fast, modern alternative to OpenSSL's CLI",
-        "link": "https://github.com/glincker/sslx",
-        "pubDate": "2026-10-15T10:02",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What I Self-Host",
-        "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-        "pubDate": "2026-10-14T15:32",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +146,45 @@
         "feedId": "lobsters"
       },
       {
+        "title": "sslx: A fast, modern alternative to OpenSSL's CLI",
+        "link": "https://github.com/glincker/sslx",
+        "pubDate": "2026-10-15T10:02",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Forgejo v17.0 is available",
+        "link": "https://forgejo.org/2026-10-release-v17-0/",
+        "pubDate": "2026-10-15T19:43",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Haxy.net is live! — HAXY (git forge) devlog",
+        "link": "https://youtu.be/89yAiqYEwKg",
+        "pubDate": "2026-10-15T07:47",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Introducing Firefox Enterprise",
+        "link": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
+        "pubDate": "2026-10-14T11:06",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What I Self-Host",
+        "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+        "pubDate": "2026-10-14T15:32",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Remote Attestation Should Not Be Tolerated",
+        "link": "https://lumi.codeberg.page/blog/remote-attestation.html",
+        "pubDate": "2026-10-15T14:02",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Furifont: furigana built into the font",
         "link": "https://furifont.antfu.me/",
         "pubDate": "2026-10-15T05:00",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Fixing C Strings With String Views",
-        "link": "https://eliasebner.com/blog/guides/fixing-strings-in-c/",
-        "pubDate": "2026-10-14T21:04",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Libreboot 26.10 “Ominous Olive” released with full UEFI support",
-        "link": "https://libreboot.org/news/libreboot2610.html",
-        "pubDate": "2026-10-15T14:03",
         "feedId": "lobsters"
       }
     ]
@@ -193,7 +193,55 @@
     "id": "arstechnica",
     "items": [
       {
-        "title": "Rocket Lab announces another delay for its medium-lift Neutron rocket",
+        "title": "Plex now helps sell movie theater tickets",
+        "link": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
+        "pubDate": "2026-10-15T21:22",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Hegseth’s dubious low-T screening may flag up to 25 percent of the Army",
+        "link": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
+        "pubDate": "2026-10-15T21:09",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+        "link": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+        "pubDate": "2026-10-15T20:32",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Above the 911? Porsche previews a new mid-engined supercar.",
+        "link": "https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/",
+        "pubDate": "2026-10-15T20:30",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "What did the Liberty Bell sound like? Science is on the case.",
+        "link": "https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/",
+        "pubDate": "2026-10-15T19:10",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Black Sea drone attacks enter NATO country's territorial waters for first time",
+        "link": "https://arstechnica.com/gadgets/2026/10/black-sea-drone-attacks-enter-nato-countrys-territorial-waters-for-first-time/",
+        "pubDate": "2026-10-15T18:48",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Microplastics in water aren’t inert and make damaging chemicals on their own",
+        "link": "https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own/",
+        "pubDate": "2026-10-15T18:39",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Trump cancels Pentagon plans to livestream firing squad execution",
+        "link": "https://arstechnica.com/tech-policy/2026/10/trump-cancels-pentagon-plans-to-livestream-firing-squad-execution/",
+        "pubDate": "2026-10-15T18:16",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Neutron's first launch slips again amid trouble with carbon composites",
         "link": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
         "pubDate": "2026-10-15T16:57",
         "feedId": "arstechnica"
@@ -229,57 +277,9 @@
         "feedId": "arstechnica"
       },
       {
-        "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
-        "link": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
-        "pubDate": "2026-10-14T21:03",
-        "feedId": "arstechnica"
-      },
-      {
         "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
         "link": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
         "pubDate": "2026-10-14T20:48",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Schools across US protest FCC plan that could disconnect kids from Internet",
-        "link": "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/",
-        "pubDate": "2026-10-14T20:15",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation",
-        "link": "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/",
-        "pubDate": "2026-10-14T19:53",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Software development and rules stability: Prototype racing in 2030",
-        "link": "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/",
-        "pubDate": "2026-10-14T19:44",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
-        "link": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
-        "pubDate": "2026-10-14T19:10",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Researchers use AI to design proteins that cut up other proteins",
-        "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
-        "pubDate": "2026-10-14T17:10",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-        "link": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-        "pubDate": "2026-10-14T16:41",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Legendary FPS level designer Richard \"Levelord\" Gray dies at 68",
-        "link": "https://arstechnica.com/gaming/2026/10/legendary-fps-level-designer-richard-levelord-gray-passes-away-at-68/",
-        "pubDate": "2026-10-14T16:02",
         "feedId": "arstechnica"
       }
     ]
@@ -287,6 +287,12 @@
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Rubio urges Lebanon to resist Hezbollah pressure over seized explosives",
+        "link": "https://www.axios.com/2026/10/15/lebanon-hezbollah-explosives-israel-rubio",
+        "pubDate": "2026-10-15T21:49",
+        "feedId": "axios"
+      },
       {
         "title": "Trump says Fort Hood shooter's execution will not be livestreamed",
         "link": "https://www.axios.com/2026/10/15/trump-hegseth-fort-hood-execution-livestream",
@@ -369,12 +375,6 @@
         "title": "Scoop: The FTC demanded documents from AI giants over recent safety incidents",
         "link": "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation",
         "pubDate": "2026-10-15T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Unexpected House battles pop up deep in Trump country",
-        "link": "https://www.axios.com/2026/10/14/house-candidates-trump-districts-democrats",
-        "pubDate": "2026-10-14T23:31",
         "feedId": "axios"
       }
     ]
