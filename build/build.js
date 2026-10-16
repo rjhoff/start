@@ -15,7 +15,7 @@ function main() {
   const feedDataMap = JSON.parse(fs.readFileSync(FEED_DATA_PATH, 'utf8'));
   let template = fs.readFileSync(TEMPLATE_PATH, 'utf8');
 
-  const builtAt = new Date().toISOString().slice(0, 16);
+  const builtAt = new Date().toISOString().slice(0, 16) + 'Z';
 
   const searchConfig = {
     defaultEngine: process.env.SEARCH_ENGINE_DEFAULT || 'google',

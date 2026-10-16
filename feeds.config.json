@@ -31,6 +31,14 @@
       "url": "https://www.axios.com/feeds/feed.rss",
       "limit": 15,
       "category": "news"
+    },
+    {
+      "id": "longreads",
+      "type": "rss-feed",
+      "title": "Longreads",
+      "url": "https://longreads.com/rss",
+      "limit": 15,
+      "category": "news"
     }
   ]
 }

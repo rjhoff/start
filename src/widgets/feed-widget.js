@@ -15,17 +15,17 @@ function render(feedData, config) {
   const hasItems = feedData.items && feedData.items.length > 0;
 
   const header = `  <div class="widget-header">
-    <span class="widget-title">${escapeHtml(config.title)}</span>
+    <h3 class="widget-title" id="feed-heading-${escapeHtml(config.id)}">${escapeHtml(config.title)}</h3>
     ${config.category ? `<span class="widget-category">${escapeHtml(config.category)}</span>` : ''}
   </div>`;
 
   if (feedData.error || !hasItems) {
-    return `<div class="widget feed-widget" id="feed-${escapeHtml(config.id)}">
+    return `<section class="widget feed-widget" id="feed-${escapeHtml(config.id)}" aria-labelledby="feed-heading-${escapeHtml(config.id)}">
 ${header}
   <div class="widget-body">
     <p class="feed-unavailable">feed unavailable</p>
   </div>
-</div>`;
+</section>`;
   }
 
   const items = feedData.items
@@ -40,12 +40,12 @@ ${header}
     })
     .join('\n');
 
-  return `<div class="widget feed-widget" id="feed-${escapeHtml(config.id)}">
+  return `<section class="widget feed-widget" id="feed-${escapeHtml(config.id)}" aria-labelledby="feed-heading-${escapeHtml(config.id)}">
 ${header}
   <ul class="widget-body feed-list">
 ${items}
   </ul>
-</div>`;
+</section>`;
 }
 
 module.exports = { render };

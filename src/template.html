@@ -7,14 +7,39 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body data-built-at="{{BUILT_AT}}">
-  <header class="page-header">
+  <header class="app-toolbar">
+    <div class="app-identity">
+      <span class="app-mark" aria-hidden="true"></span>
+      <h1 class="app-name">START</h1>
+    </div>
     {{SEARCH_WIDGET}}
   </header>
-  <main class="widget-grid">
-    {{WIDGET_GRID}}
+  <main class="workspace">
+    <section class="rss-workspace" aria-labelledby="rss-heading">
+      <div class="workspace-header">
+        <h2 id="rss-heading">RSS</h2>
+        <span class="workspace-note">HEADLINES</span>
+      </div>
+      <div class="rss-content">
+        <div class="widget-grid">
+          {{WIDGET_GRID}}
+        </div>
+      </div>
+    </section>
+    <section class="future-workspace" aria-labelledby="future-heading">
+      <div class="workspace-header">
+        <h2 id="future-heading">WORKSPACE</h2>
+        <span class="workspace-note">FUTURE</span>
+      </div>
+      <div class="future-content">
+        <span class="future-label">RESERVED FOR FUTURE WIDGETS</span>
+      </div>
+    </section>
+    <p class="viewport-warning">Increase the window size to view the dashboard.</p>
   </main>
-  <footer class="page-footer">
-    <span class="built-at">built <time id="built-at-time" datetime="{{BUILT_AT}}">{{BUILT_AT}}</time></span>
+  <footer class="status-bar">
+    <span class="status-label">START</span>
+    <span class="built-at">BUILT <time id="built-at-time" datetime="{{BUILT_AT}}">{{BUILT_AT}}</time></span>
   </footer>
   <script>
     (function () {
