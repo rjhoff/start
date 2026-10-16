@@ -21,12 +21,6 @@
         "feedId": "hn"
       },
       {
-        "title": "We are entering a period of overlapping crises",
-        "link": "https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/",
-        "pubDate": "2026-10-15T18:54",
-        "feedId": "hn"
-      },
-      {
         "title": "E Ink Kaleido 4",
         "link": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
         "pubDate": "2026-10-15T18:38",
@@ -81,6 +75,12 @@
         "feedId": "hn"
       },
       {
+        "title": "Prompt injection in HTTP headers: what 217M web responses show",
+        "link": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
+        "pubDate": "2026-10-15T14:36",
+        "feedId": "hn"
+      },
+      {
         "title": "Using AI to reverse engineer hardware",
         "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
         "pubDate": "2026-10-15T14:35",
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Sunsetting decomp.dev",
-        "link": "https://decomp.dev/",
-        "pubDate": "2026-10-15T13:27",
-        "feedId": "lobsters"
-      },
-      {
         "title": "JPEG XL vs AVIF for web use-cases",
         "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
         "pubDate": "2026-10-15T14:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Sunsetting decomp.dev",
+        "link": "https://decomp.dev/",
+        "pubDate": "2026-10-15T13:27",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "End-to-end encrypted relays for OCapN",
-        "link": "https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html",
-        "pubDate": "2026-10-15T14:42",
+        "title": "Forgejo v17.0 is available",
+        "link": "https://forgejo.org/2026-10-release-v17-0/",
+        "pubDate": "2026-10-15T19:43",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +146,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "End-to-end encrypted relays for OCapN",
+        "link": "https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html",
+        "pubDate": "2026-10-15T14:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "About time",
+        "link": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+        "pubDate": "2026-10-15T20:22",
+        "feedId": "lobsters"
+      },
+      {
         "title": "sslx: A fast, modern alternative to OpenSSL's CLI",
         "link": "https://github.com/glincker/sslx",
         "pubDate": "2026-10-15T10:02",
         "feedId": "lobsters"
       },
       {
-        "title": "Forgejo v17.0 is available",
-        "link": "https://forgejo.org/2026-10-release-v17-0/",
-        "pubDate": "2026-10-15T19:43",
+        "title": "Announcing Rust 1.99.1",
+        "link": "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
+        "pubDate": "2026-10-15T23:03",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Gleam case exhaustiveness, as a fan",
+        "link": "https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp",
+        "pubDate": "2026-10-15T19:33",
         "feedId": "lobsters"
       },
       {
@@ -167,24 +185,6 @@
         "title": "Introducing Firefox Enterprise",
         "link": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
         "pubDate": "2026-10-14T11:06",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What I Self-Host",
-        "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-        "pubDate": "2026-10-14T15:32",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Remote Attestation Should Not Be Tolerated",
-        "link": "https://lumi.codeberg.page/blog/remote-attestation.html",
-        "pubDate": "2026-10-15T14:02",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Furifont: furigana built into the font",
-        "link": "https://furifont.antfu.me/",
-        "pubDate": "2026-10-15T05:00",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "GOP senator: Cancel Thanksgiving recess if we lose",
+        "link": "https://www.axios.com/2026/10/15/moreno-midterms-senate-republicans",
+        "pubDate": "2026-10-15T23:54",
+        "feedId": "axios"
+      },
+      {
         "title": "Rubio urges Lebanon to resist Hezbollah pressure over seized explosives",
         "link": "https://www.axios.com/2026/10/15/lebanon-hezbollah-explosives-israel-rubio",
         "pubDate": "2026-10-15T21:49",
@@ -368,12 +374,6 @@
       {
         "title": "Scoop: Inside Elon Musk's massive Texas rescue mission",
         "link": "https://www.axios.com/2026/10/15/elon-musk-texas-rescue-mission",
-        "pubDate": "2026-10-15T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: The FTC demanded documents from AI giants over recent safety incidents",
-        "link": "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation",
         "pubDate": "2026-10-15T09:00",
         "feedId": "axios"
       }
