@@ -3,7 +3,49 @@
     "id": "hn",
     "items": [
       {
-        "title": "What I Self-Host",
+        "title": "Tesla makes cars that fly? [video]",
+        "link": "https://www.youtube.com/watch?v=7p5LxFdc-Qg",
+        "pubDate": "2026-10-16T04:27",
+        "feedId": "hn"
+      },
+      {
+        "title": "Comparing Chromium Development at Google and Igalia",
+        "link": "https://lwn.net/Articles/1094721/",
+        "pubDate": "2026-10-16T01:56",
+        "feedId": "hn"
+      },
+      {
+        "title": "Any window from your Mac, on your iPhone and iPad",
+        "link": "https://github.com/Saffsanity/sill",
+        "pubDate": "2026-10-16T01:43",
+        "feedId": "hn"
+      },
+      {
+        "title": "Thank You, Deno",
+        "link": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
+        "pubDate": "2026-10-16T00:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "RPKI now protects 70% of internet routes",
+        "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+        "pubDate": "2026-10-16T00:52",
+        "feedId": "hn"
+      },
+      {
+        "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+        "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+        "pubDate": "2026-10-15T23:37",
+        "feedId": "hn"
+      },
+      {
+        "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+        "link": "https://github.com/johnrash/bebox",
+        "pubDate": "2026-10-15T23:22",
+        "feedId": "hn"
+      },
+      {
+        "title": "What I self-host",
         "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
         "pubDate": "2026-10-15T20:23",
         "feedId": "hn"
@@ -39,57 +81,15 @@
         "feedId": "hn"
       },
       {
+        "title": "BIPM decides to stop adding leap seconds to UTC",
+        "link": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+        "pubDate": "2026-10-15T16:11",
+        "feedId": "hn"
+      },
+      {
         "title": "Krea 3 – An image model built for editing at scale",
         "link": "https://www.krea.ai/krea-3",
         "pubDate": "2026-10-15T16:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "Neural networks are clean",
-        "link": "https://already-clean.goodfire.com/",
-        "pubDate": "2026-10-15T16:04",
-        "feedId": "hn"
-      },
-      {
-        "title": "Steam Client is now faster than Epic's new vibe coded launcher",
-        "link": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
-        "pubDate": "2026-10-15T16:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering",
-        "link": "https://proa.so/",
-        "pubDate": "2026-10-15T15:52",
-        "feedId": "hn"
-      },
-      {
-        "title": "Celebrating 70 Years of Fortran",
-        "link": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
-        "pubDate": "2026-10-15T15:03",
-        "feedId": "hn"
-      },
-      {
-        "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-        "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-        "pubDate": "2026-10-15T14:58",
-        "feedId": "hn"
-      },
-      {
-        "title": "Prompt injection in HTTP headers: what 217M web responses show",
-        "link": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
-        "pubDate": "2026-10-15T14:36",
-        "feedId": "hn"
-      },
-      {
-        "title": "Using AI to reverse engineer hardware",
-        "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-        "pubDate": "2026-10-15T14:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "I know why the mathematicians weep",
-        "link": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
-        "pubDate": "2026-10-15T13:44",
         "feedId": "hn"
       }
     ]
@@ -104,21 +104,45 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Sunsetting decomp.dev",
-        "link": "https://decomp.dev/",
-        "pubDate": "2026-10-15T13:27",
-        "feedId": "lobsters"
-      },
-      {
         "title": "My C23 Conventions",
         "link": "https://abner.page/post/c23-conventions-1/",
         "pubDate": "2026-10-15T15:32",
         "feedId": "lobsters"
       },
       {
+        "title": "Sunsetting decomp.dev",
+        "link": "https://decomp.dev/",
+        "pubDate": "2026-10-15T13:27",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Announcing Rust 1.99.1",
+        "link": "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
+        "pubDate": "2026-10-15T23:03",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Forgejo v17.0 is available",
+        "link": "https://forgejo.org/2026-10-release-v17-0/",
+        "pubDate": "2026-10-15T19:43",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Haxy on Haxy",
         "link": "https://try.haxy.net/haxy:haxy",
         "pubDate": "2026-10-15T07:58",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Linus Torvalds on AI-assisted kernel contributions",
+        "link": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
+        "pubDate": "2026-10-16T02:50",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "On the technical actions needed to ensure the continuity of UTC",
+        "link": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+        "pubDate": "2026-10-15T20:22",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Forgejo v17.0 is available",
-        "link": "https://forgejo.org/2026-10-release-v17-0/",
-        "pubDate": "2026-10-15T19:43",
+        "title": "My self-hosted infrastructure with Incus OS",
+        "link": "https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html",
+        "pubDate": "2026-10-16T03:25",
         "feedId": "lobsters"
       },
       {
-        "title": "Microsoft Defender for Linux",
-        "link": "https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822",
-        "pubDate": "2026-10-15T10:04",
+        "title": "Epic's EAC2 v2 seems fairly easily bypassable",
+        "link": "https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/",
+        "pubDate": "2026-10-15T22:48",
         "feedId": "lobsters"
       },
       {
@@ -152,21 +176,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "About time",
-        "link": "https://www.bipm.org/en/cgpm-2026/resolution-5",
-        "pubDate": "2026-10-15T20:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "sslx: A fast, modern alternative to OpenSSL's CLI",
-        "link": "https://github.com/glincker/sslx",
-        "pubDate": "2026-10-15T10:02",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Announcing Rust 1.99.1",
-        "link": "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
-        "pubDate": "2026-10-15T23:03",
+        "title": "Microsoft Defender for Linux",
+        "link": "https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822",
+        "pubDate": "2026-10-15T10:04",
         "feedId": "lobsters"
       },
       {
@@ -174,24 +186,18 @@
         "link": "https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp",
         "pubDate": "2026-10-15T19:33",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Haxy.net is live! — HAXY (git forge) devlog",
-        "link": "https://youtu.be/89yAiqYEwKg",
-        "pubDate": "2026-10-15T07:47",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Introducing Firefox Enterprise",
-        "link": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
-        "pubDate": "2026-10-14T11:06",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
+        "link": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
+        "pubDate": "2026-10-15T22:21",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Plex now helps sell movie theater tickets",
         "link": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
@@ -275,18 +281,24 @@
         "link": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
         "pubDate": "2026-10-14T21:15",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
-        "link": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
-        "pubDate": "2026-10-14T20:48",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "\"Oh, shut up\": Maine Senate debate gets testy",
+        "link": "https://www.axios.com/2026/10/16/susan-collins-troy-jackson-maine-senate-debate",
+        "pubDate": "2026-10-16T00:31",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump names scapegoats as Republicans sweat in Texas",
+        "link": "https://www.axios.com/2026/10/16/trump-texas-paxton-cornyn-rove-talarico",
+        "pubDate": "2026-10-16T00:20",
+        "feedId": "axios"
+      },
       {
         "title": "GOP senator: Cancel Thanksgiving recess if we lose",
         "link": "https://www.axios.com/2026/10/15/moreno-midterms-senate-republicans",
@@ -297,6 +309,18 @@
         "title": "Rubio urges Lebanon to resist Hezbollah pressure over seized explosives",
         "link": "https://www.axios.com/2026/10/15/lebanon-hezbollah-explosives-israel-rubio",
         "pubDate": "2026-10-15T21:49",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump sues California to prevent counting 20,000 voters' ballots",
+        "link": "https://www.axios.com/2026/10/15/trump-doj-california-voters-ballots-lawsuit",
+        "pubDate": "2026-10-15T21:03",
+        "feedId": "axios"
+      },
+      {
+        "title": "Fired FBI agents sue Kash Patel to get jobs back",
+        "link": "https://www.axios.com/2026/10/15/trump-fbi-agents-lawsuit-classified-documents-firings",
+        "pubDate": "2026-10-15T20:17",
         "feedId": "axios"
       },
       {
@@ -351,30 +375,6 @@
         "title": "Gen Z and millennials are running for Congress in record numbers, but few reach November",
         "link": "https://www.axios.com/2026/10/15/gen-z-millennials-congress-gen-x-baby-boomers",
         "pubDate": "2026-10-15T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "America's not ready for the consequences of space warfare",
-        "link": "https://www.axios.com/2026/10/15/space-war-china-russia",
-        "pubDate": "2026-10-15T09:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "Anthropic brings Wall Street an AI bull case",
-        "link": "https://www.axios.com/2026/10/15/anthropic-q3-revenue-cash-flow",
-        "pubDate": "2026-10-15T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: \"OG\" Bill Gates returns to wage war on AI risks",
-        "link": "https://www.axios.com/2026/10/15/bill-gates-ai-safety-push",
-        "pubDate": "2026-10-15T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Inside Elon Musk's massive Texas rescue mission",
-        "link": "https://www.axios.com/2026/10/15/elon-musk-texas-rescue-mission",
-        "pubDate": "2026-10-15T09:00",
         "feedId": "axios"
       }
     ]
