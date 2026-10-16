@@ -3,93 +3,93 @@
     "id": "hn",
     "items": [
       {
-        "title": "Hello Toronto – Waymo Is En Route",
-        "link": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
-        "pubDate": "2026-10-16T14:44",
+        "title": "Why harnesses matter for energy (and token) efficiency",
+        "link": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
+        "pubDate": "2026-10-16T21:01",
         "feedId": "hn"
       },
       {
-        "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-        "link": "https://calif.io/research/big-fish",
-        "pubDate": "2026-10-16T14:44",
+        "title": "I never authorized an integration that scans my secrets",
+        "link": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+        "pubDate": "2026-10-16T20:33",
         "feedId": "hn"
       },
       {
-        "title": "Redesigning Source Control at Anthropic",
-        "link": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
-        "pubDate": "2026-10-16T14:34",
+        "title": "FLUX 3 Image Klein",
+        "link": "https://bfl.ai/blog/flux-3-image-klein",
+        "pubDate": "2026-10-16T19:47",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Gemini 4 Argon plays StarCraft",
-        "link": "https://starskirmish.com/bench/v0-2/",
-        "pubDate": "2026-10-16T14:18",
+        "title": "The Fatal Flaw of 911",
+        "link": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
+        "pubDate": "2026-10-16T19:33",
         "feedId": "hn"
       },
       {
-        "title": "How to make System 1 LLMs show System 2 competencies?",
-        "link": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
-        "pubDate": "2026-10-16T14:16",
+        "title": "How the Claude Code team does code review",
+        "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+        "pubDate": "2026-10-16T19:04",
         "feedId": "hn"
       },
       {
-        "title": "How to Formalize All of Mathematics",
-        "link": "https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/",
-        "pubDate": "2026-10-16T14:01",
+        "title": "You could have invented transformers from memory",
+        "link": "https://alexwang.ai/posts/associative-memory/",
+        "pubDate": "2026-10-16T19:01",
         "feedId": "hn"
       },
       {
-        "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-        "link": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-        "pubDate": "2026-10-16T13:43",
+        "title": "Claude reveals ECDSA curve origins",
+        "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
+        "pubDate": "2026-10-16T18:55",
         "feedId": "hn"
       },
       {
-        "title": "What was a Token Ring network?",
-        "link": "https://dfarq.homeip.net/what-was-a-token-ring-network/",
-        "pubDate": "2026-10-16T13:43",
+        "title": "C++26: The New Debugging Header",
+        "link": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+        "pubDate": "2026-10-16T18:52",
         "feedId": "hn"
       },
       {
-        "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
-        "link": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
-        "pubDate": "2026-10-16T13:38",
+        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+        "link": "https://github.com/cobanov/PS5LM",
+        "pubDate": "2026-10-16T18:32",
         "feedId": "hn"
       },
       {
-        "title": "Seized server Autistici/Inventati (A/I) in Amsterdam for U.S. authorities",
-        "link": "https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations",
-        "pubDate": "2026-10-16T13:09",
+        "title": "Anthropic assigned highest junk credit rating in June",
+        "link": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+        "pubDate": "2026-10-16T18:11",
         "feedId": "hn"
       },
       {
-        "title": "I Love Software Rendering",
-        "link": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-        "pubDate": "2026-10-16T12:52",
+        "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+        "link": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+        "pubDate": "2026-10-16T18:06",
         "feedId": "hn"
       },
       {
-        "title": "Bark: The Toll-Free BBS for 90s Teens",
-        "link": "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens",
-        "pubDate": "2026-10-16T12:22",
+        "title": "Designing more efficient quantum circuits with Claude",
+        "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+        "pubDate": "2026-10-16T18:00",
         "feedId": "hn"
       },
       {
-        "title": "The Folders Programming Language",
-        "link": "https://danieltemkin.com/esolangs/folders",
-        "pubDate": "2026-10-16T05:11",
+        "title": "GifCities",
+        "link": "https://gifcities.org/",
+        "pubDate": "2026-10-16T17:35",
         "feedId": "hn"
       },
       {
-        "title": "Any window from your Mac, on your iPhone and iPad",
-        "link": "https://github.com/Saffsanity/sill",
-        "pubDate": "2026-10-16T01:43",
+        "title": "Piramidal (YC W24) Is Hiring",
+        "link": "https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009",
+        "pubDate": "2026-10-16T17:08",
         "feedId": "hn"
       },
       {
-        "title": "RPKI now protects 70% of internet routes",
-        "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-        "pubDate": "2026-10-16T00:52",
+        "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+        "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
+        "pubDate": "2026-10-16T17:08",
         "feedId": "hn"
       }
     ]
@@ -98,21 +98,9 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Linus Torvalds on AI-assisted kernel contributions",
-        "link": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
-        "pubDate": "2026-10-16T02:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "JPEG XL vs AVIF for web use-cases",
-        "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-        "pubDate": "2026-10-15T14:42",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why are we even doing all this?",
-        "link": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
-        "pubDate": "2026-10-16T05:28",
+        "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+        "link": "https://words.filippo.io/seeds-solved/",
+        "pubDate": "2026-10-16T20:18",
         "feedId": "lobsters"
       },
       {
@@ -122,9 +110,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "My C23 Conventions",
-        "link": "https://abner.page/post/c23-conventions-1/",
-        "pubDate": "2026-10-15T15:32",
+        "title": "Why are we even doing all this?",
+        "link": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
+        "pubDate": "2026-10-16T05:28",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Linus Torvalds on AI-assisted kernel contributions",
+        "link": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
+        "pubDate": "2026-10-16T02:50",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
+        "link": "https://maevyn.codes/decoherence",
+        "pubDate": "2026-10-16T16:36",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +134,51 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Epic's EAC2 v2 seems fairly easily bypassable",
-        "link": "https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/",
-        "pubDate": "2026-10-15T22:48",
+        "title": "Mull: note-taking with a language server / vscode extension",
+        "link": "https://github.com/stepchowfun/mull",
+        "pubDate": "2026-10-16T12:54",
         "feedId": "lobsters"
       },
       {
-        "title": "Sunsetting decomp.dev",
-        "link": "https://decomp.dev/",
-        "pubDate": "2026-10-15T13:27",
+        "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+        "link": "https://calif.io/research/big-fish",
+        "pubDate": "2026-10-16T15:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "JPEG XL vs AVIF for web use-cases",
+        "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+        "pubDate": "2026-10-15T14:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Getting Canceled",
+        "link": "https://www.youtube.com/watch?v=5zIOfBLQ3U4",
+        "pubDate": "2026-10-16T18:54",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "We're sunsetting Codeberg Pages v2",
+        "link": "https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html",
+        "pubDate": "2026-10-16T18:03",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Introducing GNOME OS Preview",
+        "link": "https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/",
+        "pubDate": "2026-10-16T18:25",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "My C23 Conventions",
+        "link": "https://abner.page/post/c23-conventions-1/",
+        "pubDate": "2026-10-15T15:32",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Epic's EAC2 v2 seems fairly easily bypassable",
+        "link": "https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/",
+        "pubDate": "2026-10-15T22:48",
         "feedId": "lobsters"
       },
       {
@@ -150,48 +186,60 @@
         "link": "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
         "pubDate": "2026-10-15T23:03",
         "feedId": "lobsters"
-      },
-      {
-        "title": "My self-hosted infrastructure with Incus OS",
-        "link": "https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html",
-        "pubDate": "2026-10-16T03:25",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Forgejo v17.0 is available",
-        "link": "https://forgejo.org/2026-10-release-v17-0/",
-        "pubDate": "2026-10-15T19:43",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend",
-        "pubDate": "2026-10-16T08:19",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Mull: note-taking with a language server / vscode extension",
-        "link": "https://github.com/stepchowfun/mull",
-        "pubDate": "2026-10-16T12:54",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "On the technical actions needed to ensure the continuity of UTC",
-        "link": "https://www.bipm.org/en/cgpm-2026/resolution-5",
-        "pubDate": "2026-10-15T20:22",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Folders Esoteric Language",
-        "link": "https://danieltemkin.com/esolangs/folders",
-        "pubDate": "2026-10-16T08:46",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+        "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+        "pubDate": "2026-10-16T20:20",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
+        "link": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
+        "pubDate": "2026-10-16T19:41",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+        "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+        "pubDate": "2026-10-16T19:11",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
+        "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
+        "pubDate": "2026-10-16T17:05",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+        "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+        "pubDate": "2026-10-16T15:41",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Polymarket saw $600 million in election trades after the elections were over",
+        "link": "https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/",
+        "pubDate": "2026-10-16T14:19",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
+        "link": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
+        "pubDate": "2026-10-16T14:03",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
+        "link": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
+        "pubDate": "2026-10-16T14:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
         "link": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
@@ -233,60 +281,48 @@
         "link": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
         "pubDate": "2026-10-15T21:09",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
-        "link": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
-        "pubDate": "2026-10-15T20:32",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Above the 911? Porsche previews a new mid-engined supercar.",
-        "link": "https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/",
-        "pubDate": "2026-10-15T20:30",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "What did the Liberty Bell sound like? Science is on the case.",
-        "link": "https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/",
-        "pubDate": "2026-10-15T19:10",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Black Sea drone attacks enter NATO country's territorial waters for first time",
-        "link": "https://arstechnica.com/gadgets/2026/10/black-sea-drone-attacks-enter-nato-countrys-territorial-waters-for-first-time/",
-        "pubDate": "2026-10-15T18:48",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Microplastics in water aren’t inert and make damaging chemicals on their own",
-        "link": "https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own/",
-        "pubDate": "2026-10-15T18:39",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Trump cancels Pentagon plans to livestream firing squad execution",
-        "link": "https://arstechnica.com/tech-policy/2026/10/trump-cancels-pentagon-plans-to-livestream-firing-squad-execution/",
-        "pubDate": "2026-10-15T18:16",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Neutron's first launch slips again amid trouble with carbon composites",
-        "link": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
-        "pubDate": "2026-10-15T16:57",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-        "link": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-        "pubDate": "2026-10-15T15:43",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Iran-backed militias sending money back to cash-starved IRGC, U.S. says",
+        "link": "https://www.axios.com/2026/10/16/iran-backed-militias-sending-money-irgc-centcom",
+        "pubDate": "2026-10-16T20:22",
+        "feedId": "axios"
+      },
+      {
+        "title": "Hill leaders brace for miserable 2027",
+        "link": "https://www.axios.com/2026/10/16/congress-hill-leaders-johnson-thune-jeffries-schumer",
+        "pubDate": "2026-10-16T19:47",
+        "feedId": "axios"
+      },
+      {
+        "title": "ICE shooting leads to rare Jeffries-Mamdani collaboration",
+        "link": "https://www.axios.com/2026/10/16/ice-shooting-mamdani-jeffries-schumer-new-york",
+        "pubDate": "2026-10-16T19:33",
+        "feedId": "axios"
+      },
+      {
+        "title": "Katie Zacharia ousted as White House press secretary",
+        "link": "https://www.axios.com/2026/10/16/trump-katie-zacharia-press-secretary",
+        "pubDate": "2026-10-16T19:25",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump: White House didn't impede satellite system in Ukraine",
+        "link": "https://www.axios.com/2026/10/16/trump-starlink-musk-ukraine-zelensky",
+        "pubDate": "2026-10-16T18:52",
+        "feedId": "axios"
+      },
+      {
+        "title": "That Y2K feeling: Why today's economy resembles 2000",
+        "link": "https://www.axios.com/2026/10/16/that-y2k-feeling-why-todays-economy-resembles-2000",
+        "pubDate": "2026-10-16T15:50",
+        "feedId": "axios"
+      },
       {
         "title": "Warsh signals steady Fed outlook despite inflation jump",
         "link": "https://www.axios.com/2026/10/16/warsh-federal-reserve-interest-rates",
@@ -339,42 +375,6 @@
         "title": "Rubio urges Lebanon to resist Hezbollah pressure over seized explosives",
         "link": "https://www.axios.com/2026/10/15/lebanon-hezbollah-explosives-israel-rubio",
         "pubDate": "2026-10-15T21:49",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump sues California to prevent counting 20,000 voters' ballots",
-        "link": "https://www.axios.com/2026/10/15/trump-doj-california-voters-ballots-lawsuit",
-        "pubDate": "2026-10-15T21:03",
-        "feedId": "axios"
-      },
-      {
-        "title": "Fired FBI agents sue Kash Patel to get jobs back",
-        "link": "https://www.axios.com/2026/10/15/trump-fbi-agents-lawsuit-classified-documents-firings",
-        "pubDate": "2026-10-15T20:17",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump says Fort Hood shooter's execution will not be livestreamed",
-        "link": "https://www.axios.com/2026/10/15/trump-hegseth-fort-hood-execution-livestream",
-        "pubDate": "2026-10-15T17:30",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"Mommy and daddy\" play nice: Apple and Meta team up to bring open-source Muse to Macs",
-        "link": "https://www.axios.com/2026/10/15/apple-and-meta-bury-the-hatchet-for-ai",
-        "pubDate": "2026-10-15T17:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "The too-hot-for-comfort economy",
-        "link": "https://www.axios.com/2026/10/15/fed-inflation-ppi-warsh",
-        "pubDate": "2026-10-15T16:23",
-        "feedId": "axios"
-      },
-      {
-        "title": "DOJ gave California a voter list, a 48-hour deadline — and a threat of court action",
-        "link": "https://www.axios.com/2026/10/14/doj-california-noncitizen-voters-mail-ballots",
-        "pubDate": "2026-10-15T15:04",
         "feedId": "axios"
       }
     ]
