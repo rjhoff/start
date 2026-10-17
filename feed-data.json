@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
+        "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+        "pubDate": "2026-10-17T14:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Making Chicken Transparent Using Dorito Dust",
+        "link": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+        "pubDate": "2026-10-17T13:55",
+        "feedId": "hn"
+      },
+      {
+        "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
+        "link": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
+        "pubDate": "2026-10-17T10:59",
+        "feedId": "hn"
+      },
+      {
         "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
         "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
         "pubDate": "2026-10-17T08:37",
@@ -12,12 +30,6 @@
         "title": "DeepSeek-v4.1-Flash-1017",
         "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "pubDate": "2026-10-17T08:21",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
-        "link": "https://github.com/CLoaKY233/siltop",
-        "pubDate": "2026-10-17T07:01",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
         "pubDate": "2026-10-16T18:06",
         "feedId": "hn"
-      },
-      {
-        "title": "Designing more efficient quantum circuits with Claude",
-        "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-        "pubDate": "2026-10-16T18:00",
-        "feedId": "hn"
-      },
-      {
-        "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-        "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
-        "pubDate": "2026-10-16T17:08",
-        "feedId": "hn"
       }
     ]
   },
@@ -116,27 +116,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Intuitive concurrent programming in any language",
+        "link": "https://www.lf-lang.org/",
+        "pubDate": "2026-10-17T12:17",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Why are we even doing all this?",
         "link": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
         "pubDate": "2026-10-16T05:28",
         "feedId": "lobsters"
       },
       {
+        "title": "Interactive refactoring in gopls",
+        "link": "https://go.dev/blog/interactive-refactoring",
+        "pubDate": "2026-10-17T01:12",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Introducing GNOME OS Preview",
         "link": "https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/",
         "pubDate": "2026-10-16T18:25",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Linus Torvalds on AI-assisted kernel contributions",
-        "link": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
-        "pubDate": "2026-10-16T02:50",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Making a 88x31 button book using ImageMagick",
-        "link": "https://k.sosnierz.me/08-11-24/",
-        "pubDate": "2026-10-16T11:21",
         "feedId": "lobsters"
       },
       {
@@ -152,6 +152,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Making a 88x31 button book using ImageMagick",
+        "link": "https://k.sosnierz.me/08-11-24/",
+        "pubDate": "2026-10-16T11:21",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Linus Torvalds on AI-assisted kernel contributions",
+        "link": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
+        "pubDate": "2026-10-16T02:50",
+        "feedId": "lobsters"
+      },
+      {
         "title": "We're sunsetting Codeberg Pages v2",
         "link": "https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html",
         "pubDate": "2026-10-16T18:03",
@@ -164,21 +176,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Interactive refactoring in gopls",
-        "link": "https://go.dev/blog/interactive-refactoring",
-        "pubDate": "2026-10-17T01:12",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Mull: note-taking with a language server / vscode extension",
-        "link": "https://github.com/stepchowfun/mull",
-        "pubDate": "2026-10-16T12:54",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Developing for Debugging (2025)",
-        "link": "https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/",
-        "pubDate": "2026-10-17T07:21",
+        "title": "orib: Bringing back the old Reddit interface, with a few new enhancements",
+        "link": "https://github.com/rajtilakjee/orib",
+        "pubDate": "2026-10-17T04:22",
         "feedId": "lobsters"
       },
       {
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Science says your boss should talk less in meetings",
+        "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+        "pubDate": "2026-10-17T11:15",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
+        "link": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
+        "pubDate": "2026-10-17T11:00",
+        "feedId": "arstechnica"
+      },
       {
         "title": "OpenAI models hacked a crypto wallet and breached more websites",
         "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
@@ -269,18 +281,6 @@
         "link": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/",
         "pubDate": "2026-10-16T10:00",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
-        "link": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
-        "pubDate": "2026-10-15T22:21",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Plex now helps sell movie theater tickets",
-        "link": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
-        "pubDate": "2026-10-15T21:22",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -290,7 +290,37 @@
       {
         "title": "Trump waives new Russia sanctions in the \"national interests\"",
         "link": "https://www.axios.com/2026/10/17/trump-russia-sanctions",
-        "pubDate": "2026-10-17T09:55",
+        "pubDate": "2026-10-17T14:44",
+        "feedId": "axios"
+      },
+      {
+        "title": "Zelensky says Musk-owned satellite system still restricted in Ukraine",
+        "link": "https://www.axios.com/2026/10/17/zelensky-starlink-elon-musk-trump",
+        "pubDate": "2026-10-17T14:40",
+        "feedId": "axios"
+      },
+      {
+        "title": "A welcome recovery milestone for Pope Leo after cancer surgery",
+        "link": "https://www.axios.com/2026/10/17/pope-leo-xiv-lung-cancer-treatment-hospital-discharge",
+        "pubDate": "2026-10-17T13:36",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump ratchets up the chaos in an October barrage",
+        "link": "https://www.axios.com/2026/10/17/trump-october-midterms-controversy",
+        "pubDate": "2026-10-17T12:40",
+        "feedId": "axios"
+      },
+      {
+        "title": "Exclusive: Musk tells Isaacson \"AI and robots\" will need to fix deficit",
+        "link": "https://www.axios.com/2026/10/17/elon-musk-doge-walter-isaacson-podcast",
+        "pubDate": "2026-10-17T12:23",
+        "feedId": "axios"
+      },
+      {
+        "title": "Black voters test the socialist left's ceiling",
+        "link": "https://www.axios.com/2026/10/17/black-voters-democratic-socialists",
+        "pubDate": "2026-10-17T12:20",
         "feedId": "axios"
       },
       {
@@ -345,36 +375,6 @@
         "title": "Geothermal finds rare political sweet spot amid AI boom",
         "link": "https://www.axios.com/2026/10/16/geothermal-rare-political-sweet-spot-ai-boom",
         "pubDate": "2026-10-16T09:15",
-        "feedId": "axios"
-      },
-      {
-        "title": "Banks are pulling back as AI's massive debt pile disconnects from economic reality",
-        "link": "https://www.axios.com/2026/10/16/wall-street-limit-ai-spending-debt",
-        "pubDate": "2026-10-16T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump's MAGA allies openly discuss martial law",
-        "link": "https://www.axios.com/2026/10/16/trumps-maga-allies-openly-discuss-martial-law",
-        "pubDate": "2026-10-16T09:00",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"Oh, shut up\": Maine Senate debate gets testy",
-        "link": "https://www.axios.com/2026/10/16/susan-collins-troy-jackson-maine-senate-debate",
-        "pubDate": "2026-10-16T00:31",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump names scapegoats as Republicans sweat in Texas",
-        "link": "https://www.axios.com/2026/10/16/trump-texas-paxton-cornyn-rove-talarico",
-        "pubDate": "2026-10-16T00:20",
-        "feedId": "axios"
-      },
-      {
-        "title": "GOP senator: Cancel Thanksgiving recess if we lose",
-        "link": "https://www.axios.com/2026/10/15/moreno-midterms-senate-republicans",
-        "pubDate": "2026-10-15T23:54",
         "feedId": "axios"
       }
     ]
