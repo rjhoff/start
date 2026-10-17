@@ -64,6 +64,29 @@ describe('build metadata', () => {
       expect(json).not.toContain('</script>');
     } finally { rmSync(directory, { recursive: true, force: true }); }
   });
+
+  test('generated headlines and URLs preserve literal replacement patterns', () => {
+    const directory = mkdtempSync(join(tmpdir(), 'start-replacement-test-'));
+    try {
+      const configPath = join(directory, 'config.json');
+      const dataPath = join(directory, 'data.json');
+      const patterns = ['$&', '$$', "$'", '$`'];
+      writeFileSync(configPath, JSON.stringify({ feeds: [{ id: 'one', title: 'One' }] }));
+      writeFileSync(dataPath, JSON.stringify({ one: { items: patterns.map((pattern, index) => ({
+        title: `Headline ${pattern} ${index}`,
+        link: `https://example.com/article/${index}/${pattern}`,
+        pubDate: null,
+      })) } }));
+      build({ configPath, feedDataPath: dataPath, outDir: directory, builtAt, version: 'patterns-1' });
+      const html = readFileSync(join(directory, 'index.html'), 'utf8');
+      const escaped = ['$&amp;', '$$', '$&#39;', '$`'];
+      for (const [index, pattern] of escaped.entries()) {
+        expect(html).toContain(`href="https://example.com/article/${index}/${pattern}"`);
+        expect(html).toContain(`>Headline ${pattern} ${index}</a>`);
+      }
+      expect(html).not.toContain('{{WIDGET_GRID}}');
+    } finally { rmSync(directory, { recursive: true, force: true }); }
+  });
 });
 
 describe('loaded status and publication decisions', () => {

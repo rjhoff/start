@@ -20,10 +20,11 @@ function render(feedData, config) {
   </div>`;
 
   if (feedData.error || !hasItems) {
+    const empty = !feedData.error;
     return `<section class="widget feed-widget" id="feed-${escapeHtml(config.id)}" aria-labelledby="feed-heading-${escapeHtml(config.id)}" tabindex="-1">
 ${header}
   <div class="widget-body">
-    <p class="feed-unavailable">feed unavailable</p>
+    <p class="${empty ? 'feed-empty' : 'feed-unavailable'}">${empty ? 'No headlines available' : 'feed unavailable'}</p>
   </div>
 </section>`;
   }

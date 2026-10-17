@@ -39,9 +39,11 @@ test('renders error state when feedData has error property', () => {
   assert.ok(html.includes('Test Feed'), 'header should still render in error state');
 });
 
-test('renders error state when items array is empty', () => {
+test('renders a neutral state when a successful feed has no items', () => {
   const html = render({ items: [] }, config);
-  assert.ok(html.includes('feed unavailable'));
+  assert.ok(html.includes('No headlines available'));
+  assert.ok(html.includes('class="feed-empty"'));
+  assert.ok(!html.includes('feed unavailable'));
 });
 
 test('escapes HTML entities in item title to prevent XSS', () => {

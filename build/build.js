@@ -44,8 +44,8 @@ function build({ configPath = CONFIG_PATH, feedDataPath = FEED_DATA_PATH, outDir
     .replaceAll('{{RSS_HEALTH}}', `RSS ${metadata.successCount}/${metadata.feedCount}`)
     .replaceAll('{{HEALTH_LABEL}}', metadata.successCount === metadata.feedCount ? 'READY' : 'DEGRADED')
     .replace('{{HEALTH_CLASS}}', metadata.successCount === metadata.feedCount ? '' : 'is-degraded')
-    .replace('{{SEARCH_WIDGET}}', searchHtml)
-    .replace('{{WIDGET_GRID}}', widgetGrid);
+    .replace('{{SEARCH_WIDGET}}', () => searchHtml)
+    .replace('{{WIDGET_GRID}}', () => widgetGrid);
 
   fs.mkdirSync(outDir, { recursive: true });
   fs.writeFileSync(path.join(outDir, 'index.html'), template, 'utf8');

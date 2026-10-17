@@ -46,6 +46,17 @@ test('successful feed fixture reports ready health', async ({ page }) => {
   await expect(page.locator('.status-bar')).toContainText('RSS 5/5');
 });
 
+test('successful empty feed is healthy while a separate failed feed is unavailable', async ({ page }) => {
+  await page.setViewportSize({ width: 1280, height: 720 });
+  await page.goto('/empty/');
+  await expect(page.locator('.status-bar')).toContainText('RSS 4/5');
+  await expect(page.locator('#feed-axios .feed-unavailable')).toHaveText('feed unavailable');
+  await page.getByRole('button', { name: 'Next RSS page' }).click();
+  await expect(page.locator('#feed-longreads .feed-empty')).toHaveText('No headlines available');
+  await expect(page.locator('#feed-longreads .feed-unavailable')).toHaveCount(0);
+  expect((await new AxeBuilder({ page }).analyze()).violations).toEqual([]);
+});
+
 test('without status JavaScript the exact build time and feed health remain visible', async ({ page }) => {
   await page.route(/\/build-status\.js(?:\?|$)/, route => route.abort());
   await page.reload();

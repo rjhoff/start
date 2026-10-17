@@ -1,7 +1,10 @@
 import { afterEach, test, expect, vi } from 'vitest';
+import { mkdtempSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
+import { tmpdir } from 'node:os';
+import { join } from 'node:path';
 import fetchFeeds from '../build/fetch-feeds.js';
 
-const { fetchFeed } = fetchFeeds;
+const { fetchFeed, main } = fetchFeeds;
 const config = { id: 'fixture', url: 'https://example.com/feed.xml', limit: 1 };
 
 afterEach(() => vi.unstubAllGlobals());
@@ -50,4 +53,30 @@ test('honors a feed response charset when decoding XML', async () => {
   const result = await fetchFeed(config);
 
   expect(result.items[0].title).toBe('Café notes');
+});
+
+test.each([
+  ['complete success', [{ id: 'one', items: [{ title: 'One' }] }, { id: 'two', items: [] }], false],
+  ['partial success', [{ id: 'one', items: [] }, { id: 'two', error: 'timeout', items: [] }], false],
+  ['complete failure', [{ id: 'one', error: 'timeout', items: [] }, { id: 'two', error: 'HTTP 429', items: [] }], true],
+  ['empty configuration', [], false],
+])('fetch command handles %s without live feeds', async (_case, results, shouldFail) => {
+  const directory = mkdtempSync(join(tmpdir(), 'start-fetch-outcome-'));
+  const output = join(directory, 'feed-data.json');
+  const configPath = join(directory, 'feeds.config.json');
+  const feeds = results.map(({ id }) => ({ id, title: id, url: `https://example.com/${id}` }));
+  const fetchFeedImpl = vi.fn(async feed => results.find(result => result.id === feed.id));
+  const log = vi.spyOn(process.stdout, 'write').mockImplementation(() => true);
+  try {
+    writeFileSync(configPath, JSON.stringify({ feeds }));
+    const run = main({ configPath, outPath: output, fetchFeedImpl });
+    if (shouldFail) await expect(run).rejects.toThrow('All configured RSS feeds failed');
+    else await expect(run).resolves.toBeUndefined();
+    expect(fetchFeedImpl).toHaveBeenCalledTimes(feeds.length);
+    expect(JSON.parse(readFileSync(output, 'utf8'))).toEqual(Object.fromEntries(results.map(result => [result.id, result])));
+    expect(log).toHaveBeenCalledWith(expect.stringContaining(`Fetched ${results.filter(result => !result.error).length}/${results.length} feeds`));
+  } finally {
+    log.mockRestore();
+    rmSync(directory, { recursive: true, force: true });
+  }
 });

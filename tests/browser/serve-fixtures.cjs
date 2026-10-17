@@ -19,7 +19,7 @@ build({
   searchEngineDefault: 'google',
 });
 
-for (const [variant, count] of [['many', 9], ['one', 1], ['none', 0], ['healthy', 5]]) {
+for (const [variant, count] of [['many', 9], ['one', 1], ['none', 0], ['healthy', 5], ['empty', 5]]) {
   const feeds = Array.from({ length: count }, (_, index) => {
     const original = fixtureConfig.feeds[index % fixtureConfig.feeds.length];
     return index < fixtureConfig.feeds.length ? original : {
@@ -31,6 +31,10 @@ for (const [variant, count] of [['many', 9], ['one', 1], ['none', 0], ['healthy'
     title: 'A long essay about a quiet city', link: 'https://example.com/longreads/1',
     pubDate: '2026-10-16T10:00:00.000Z', feedId: 'longreads',
   }] };
+  if (variant === 'empty') {
+    data.longreads = { id: 'longreads', items: [] };
+    data.axios = { id: 'axios', error: 'fixture failure', items: [] };
+  }
   for (const feed of feeds) {
     if (feed.id.startsWith('extra-')) {
       data[feed.id] = {
@@ -73,7 +77,7 @@ const files = new Map([
 
 const server = http.createServer((request, response) => {
   const pathname = new URL(request.url, 'http://localhost').pathname;
-  const match = pathname.match(/^\/(many|one|none|healthy)(\/.*)?$/);
+  const match = pathname.match(/^\/(many|one|none|healthy|empty)(\/.*)?$/);
   const variant = match?.[1];
   const relativePath = match ? (match[2] || '/') : pathname;
   const file = files.get(relativePath);

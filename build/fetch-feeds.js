@@ -38,20 +38,23 @@ async function fetchFeed(feedConfig, timeoutMs = FETCH_TIMEOUT_MS) {
   }
 }
 
-async function main() {
-  const config = JSON.parse(fs.readFileSync(CONFIG_PATH, 'utf8'));
-  fs.mkdirSync(DIST_DIR, { recursive: true });
+async function main({ configPath = CONFIG_PATH, outPath = OUT_PATH, fetchFeedImpl = fetchFeed } = {}) {
+  const config = JSON.parse(fs.readFileSync(configPath, 'utf8'));
+  fs.mkdirSync(path.dirname(outPath), { recursive: true });
 
   const rssFeedConfigs = config.feeds.filter(
     (f) => !f.type || f.type === 'rss-feed'
   );
 
-  const results = await Promise.all(rssFeedConfigs.map((feed) => fetchFeed(feed)));
+  const results = await Promise.all(rssFeedConfigs.map((feed) => fetchFeedImpl(feed)));
   const feedDataMap = Object.fromEntries(results.map((r) => [r.id, r]));
 
-  fs.writeFileSync(OUT_PATH, JSON.stringify(feedDataMap, null, 2), 'utf8');
+  fs.writeFileSync(outPath, JSON.stringify(feedDataMap, null, 2), 'utf8');
   const count = results.filter((r) => !r.error).length;
-  process.stdout.write(`[fetch-feeds] Fetched ${count}/${results.length} feeds → ${OUT_PATH}\n`);
+  process.stdout.write(`[fetch-feeds] Fetched ${count}/${results.length} feeds → ${outPath}\n`);
+  if (results.length > 0 && count === 0) {
+    throw new Error('All configured RSS feeds failed');
+  }
 }
 
 if (require.main === module) {
@@ -61,4 +64,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { fetchFeed };
+module.exports = { fetchFeed, main };

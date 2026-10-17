@@ -508,7 +508,7 @@ a:focus-visible {
   text-align: right;
   white-space: nowrap;
 }
-.feed-unavailable { margin: 0; padding: calc(var(--space-unit) * 1.5); color: var(--color-muted); font-size: 11px; }
+.feed-unavailable, .feed-empty { margin: 0; padding: calc(var(--space-unit) * 1.5); color: var(--color-muted); font-size: 11px; }
 
 @media (max-width: 760px) {
   .app-toolbar .search-container { display: none; }
