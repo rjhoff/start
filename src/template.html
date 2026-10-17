@@ -3,8 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="dashboard-version" content="{{BUILD_VERSION}}">
   <title>Start</title>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="styles.css?v={{ASSET_VERSION}}">
 </head>
 <body data-built-at="{{BUILT_AT}}">
   <header class="app-toolbar">
@@ -61,11 +62,29 @@
     </section>
     <p class="viewport-warning">Increase the window size to view the dashboard.</p>
   </main>
-  <footer class="status-bar">
-    <span class="status-label">START</span>
+  <footer class="status-bar {{HEALTH_CLASS}}">
+    <button type="button" class="status-details-trigger" id="status-details-trigger" aria-label="Build details: {{HEALTH_LABEL}}, {{RSS_HEALTH}}" hidden><span aria-hidden="true">●</span> {{HEALTH_LABEL}}</button>
+    <span class="status-label status-static" id="status-static">{{HEALTH_LABEL}}</span>
+    <span class="status-health">{{RSS_HEALTH}}</span>
     <span class="built-at">BUILT <time id="built-at-time" datetime="{{BUILT_AT}}">{{BUILT_AT}}</time></span>
+    <span class="status-next" id="status-next" hidden>NEXT <span id="next-countdown"></span></span>
+    <span class="status-update" id="status-update" role="status" aria-live="polite" hidden>UPDATE AVAILABLE</span>
+    <button type="button" class="status-refresh" id="status-refresh" hidden><span aria-hidden="true">[R]</span> REFRESH</button>
     <button type="button" class="status-help" id="status-help" aria-label="Keyboard shortcuts" hidden><span aria-hidden="true">[?]</span> HELP</button>
   </footer>
+  <dialog class="shortcut-dialog build-dialog" id="build-details" aria-labelledby="build-details-heading">
+    <div class="shortcut-dialog-header"><h2 id="build-details-heading">BUILD DETAILS</h2></div>
+    <dl class="build-details-list">
+      <div><dt>Loaded build</dt><dd id="details-built-at">{{BUILT_AT}}</dd></div>
+      <div><dt>Version</dt><dd id="details-version"></dd></div>
+      <div><dt>Feeds</dt><dd id="details-feeds">{{RSS_HEALTH}}</dd></div>
+      <div><dt>Failed feeds</dt><dd id="details-failed">None</dd></div>
+      <div><dt>Schedule</dt><dd id="details-schedule"></dd></div>
+      <div><dt>Next expected</dt><dd id="details-next"></dd></div>
+      <div><dt>Published update</dt><dd id="details-update">Not confirmed</dd></div>
+    </dl>
+    <div class="shortcut-dialog-footer"><button type="button" id="build-details-close"><span aria-hidden="true">[Esc]</span> CLOSE</button></div>
+  </dialog>
   <dialog class="shortcut-dialog" id="shortcut-help" aria-labelledby="shortcut-help-heading">
     <div class="shortcut-dialog-header">
       <h2 id="shortcut-help-heading">KEYBOARD SHORTCUTS</h2>
@@ -78,24 +97,15 @@
       <div><dt><kbd>Shift+Tab</kbd></dt><dd>Previous control</dd></div>
       <div><dt><kbd>Enter</kbd></dt><dd>Open / activate</dd></div>
       <div><dt><kbd>?</kbd></dt><dd>Show help</dd></div>
+      <div id="shortcut-refresh" hidden><dt><kbd>R</kbd></dt><dd>Refresh published update</dd></div>
     </dl>
     <div class="shortcut-dialog-footer">
       <button type="button" id="shortcut-close"><span aria-hidden="true">[Esc]</span> CLOSE</button>
     </div>
   </dialog>
-  <script>
-    (function () {
-      var el = document.getElementById('built-at-time');
-      if (!el) return;
-      var d = new Date(el.getAttribute('datetime'));
-      if (isNaN(d.getTime())) return;
-      var diff = Math.floor((Date.now() - d) / 60000);
-      if (diff < 1) el.textContent = 'just now';
-      else if (diff < 60) el.textContent = diff + 'm ago';
-      else el.textContent = Math.floor(diff / 60) + 'h ago';
-    })();
-  </script>
-  <script defer src="relative-time.js"></script>
-  <script defer src="dashboard.js"></script>
+  <script id="build-metadata" type="application/json">{{BUILD_METADATA}}</script>
+  <script defer src="relative-time.js?v={{ASSET_VERSION}}"></script>
+  <script defer src="dashboard.js?v={{ASSET_VERSION}}"></script>
+  <script defer src="build-status.js?v={{ASSET_VERSION}}"></script>
 </body>
 </html>

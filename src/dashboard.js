@@ -118,7 +118,7 @@
       rssContext: workspace.contains(target),
       canPrevious: !navigation.hidden && !previous.disabled,
       canNext: !navigation.hidden && !next.disabled,
-      helpOpen: helpDialog.open,
+      helpOpen: Boolean(document.querySelector('dialog[open]')),
     });
     if (!action) return;
     event.preventDefault();

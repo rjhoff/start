@@ -236,6 +236,7 @@ a:focus-visible {
   color: var(--color-muted);
   font-size: 11px;
   white-space: nowrap;
+  overflow: hidden;
 }
 
 .status-label {
@@ -243,9 +244,43 @@ a:focus-visible {
   font-weight: 700;
   letter-spacing: 0.08em;
 }
+.status-bar.is-degraded .status-label { color: var(--color-yellow); }
 
 .built-at { overflow: hidden; text-overflow: ellipsis; }
 .built-at time { color: var(--color-fg); }
+
+.status-details-trigger,
+.status-refresh {
+  flex: none;
+  padding: 2px 6px;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 0;
+  background: var(--color-bg);
+  color: var(--color-fg);
+  cursor: pointer;
+  font-size: 11px;
+  white-space: nowrap;
+}
+
+.status-details-trigger:hover,
+.status-refresh:hover { background: var(--color-border); }
+.status-details-trigger span { color: var(--color-green); }
+.status-bar.is-degraded .status-details-trigger span { color: var(--color-yellow); }
+.status-refresh span, .status-update { color: var(--color-yellow); }
+.status-next { flex: none; font-variant-numeric: tabular-nums; }
+.status-health { flex: none; color: var(--color-fg); }
+.status-update { flex: none; }
+.status-help { flex: none; }
+.status-bar.has-update .status-next { display: none; }
+
+@media (max-width: 900px) {
+  .status-bar { gap: var(--space-unit); }
+  .status-next { display: none; }
+}
+
+@media (max-width: 760px) {
+  .status-health, .status-update { display: none; }
+}
 
 .status-help {
   margin-left: auto;
@@ -325,6 +360,12 @@ a:focus-visible {
 .shortcut-dialog-footer button:hover { background: var(--color-border); }
 .shortcut-dialog-footer button:focus { outline: 2px solid var(--color-blue); outline-offset: 2px; }
 .shortcut-dialog-footer button span { color: var(--color-yellow); }
+
+.build-dialog { width: min(520px, calc(100vw - 32px)); }
+.build-details-list { margin: 0; padding: 8px 14px; }
+.build-details-list > div { display: grid; grid-template-columns: 125px minmax(0, 1fr); gap: 10px; padding: 5px 0; }
+.build-details-list dt { color: var(--color-muted); }
+.build-details-list dd { min-width: 0; margin: 0; overflow-wrap: anywhere; }
 
 /* Search */
 .search-container { flex: 1; min-width: 0; }

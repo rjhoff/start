@@ -306,7 +306,7 @@ test('relative dates update from a shared timer while exact UTC dates remain ava
 });
 
 test('without JavaScript, timestamp fallback remains absolute and semantic', async ({ page }) => {
-  await page.route('**/dashboard.js', route => route.abort());
+  await page.route(/\/dashboard\.js(?:\?|$)/, route => route.abort());
   await page.reload();
   const first = page.locator('#feed-hn .feed-item-date').first();
   await expect(first).toHaveText('Oct 16');
@@ -464,7 +464,7 @@ test('too-short workspace explains the constraint without losing feeds', async (
 });
 
 test('static fallback retains every feed when dashboard script is unavailable', async ({ page }) => {
-  await page.route('**/dashboard.js', route => route.abort());
+  await page.route(/\/dashboard\.js(?:\?|$)/, route => route.abort());
   await page.reload();
   await expect(page.locator('.widget-grid > .feed-widget')).toHaveCount(5);
   await expect(page.locator('.rss-content')).toHaveCSS('overflow-y', 'auto');
