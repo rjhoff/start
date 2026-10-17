@@ -3,15 +3,27 @@
     "id": "hn",
     "items": [
       {
-        "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-        "link": "https://llmspeed.dev/",
-        "pubDate": "2026-10-17T04:36",
+        "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+        "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+        "pubDate": "2026-10-17T08:37",
         "feedId": "hn"
       },
       {
-        "title": "\"In every study that considered the question\"",
-        "link": "https://unsung.aresluna.org/in-every-study-that-considered-the-question/",
-        "pubDate": "2026-10-17T04:08",
+        "title": "DeepSeek-v4.1-Flash-1017",
+        "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "pubDate": "2026-10-17T08:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
+        "link": "https://github.com/CLoaKY233/siltop",
+        "pubDate": "2026-10-17T07:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+        "link": "https://llmspeed.dev/",
+        "pubDate": "2026-10-17T04:36",
         "feedId": "hn"
       },
       {
@@ -57,12 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "C++26: The New Debugging Header",
-        "link": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
-        "pubDate": "2026-10-16T18:52",
-        "feedId": "hn"
-      },
-      {
         "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
         "link": "https://github.com/cobanov/PS5LM",
         "pubDate": "2026-10-16T18:32",
@@ -84,12 +90,6 @@
         "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
         "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
         "pubDate": "2026-10-16T17:08",
-        "feedId": "hn"
-      },
-      {
-        "title": "JPEG XL vs. AVIF for web use-cases",
-        "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-        "pubDate": "2026-10-16T16:12",
         "feedId": "hn"
       }
     ]
@@ -122,6 +122,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Introducing GNOME OS Preview",
+        "link": "https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/",
+        "pubDate": "2026-10-16T18:25",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Linus Torvalds on AI-assisted kernel contributions",
         "link": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
         "pubDate": "2026-10-16T02:50",
@@ -134,45 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Introducing GNOME OS Preview",
-        "link": "https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/",
-        "pubDate": "2026-10-16T18:25",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-        "link": "https://calif.io/research/big-fish",
-        "pubDate": "2026-10-16T15:41",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Getting Canceled",
         "link": "https://www.youtube.com/watch?v=5zIOfBLQ3U4",
         "pubDate": "2026-10-16T18:54",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Mull: note-taking with a language server / vscode extension",
-        "link": "https://github.com/stepchowfun/mull",
-        "pubDate": "2026-10-16T12:54",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "We're sunsetting Codeberg Pages v2",
-        "link": "https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html",
-        "pubDate": "2026-10-16T18:03",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "JPEG XL vs AVIF for web use-cases",
-        "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-        "pubDate": "2026-10-15T14:42",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Ubuntu 26.10 (Stonking Stingray) released",
-        "link": "https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html",
-        "pubDate": "2026-10-16T18:01",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +152,39 @@
         "feedId": "lobsters"
       },
       {
-        "title": "There's never been a better time to go into math",
-        "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-        "pubDate": "2026-10-16T20:49",
+        "title": "We're sunsetting Codeberg Pages v2",
+        "link": "https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html",
+        "pubDate": "2026-10-16T18:03",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+        "link": "https://calif.io/research/big-fish",
+        "pubDate": "2026-10-16T15:41",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Interactive refactoring in gopls",
+        "link": "https://go.dev/blog/interactive-refactoring",
+        "pubDate": "2026-10-17T01:12",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Mull: note-taking with a language server / vscode extension",
+        "link": "https://github.com/stepchowfun/mull",
+        "pubDate": "2026-10-16T12:54",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Developing for Debugging (2025)",
+        "link": "https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/",
+        "pubDate": "2026-10-17T07:21",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Some quick thoughts on Unit Testing ActivityPub",
+        "link": "https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/",
+        "pubDate": "2026-10-17T06:12",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump waives new Russia sanctions in the \"national interests\"",
+        "link": "https://www.axios.com/2026/10/17/trump-russia-sanctions",
+        "pubDate": "2026-10-17T09:55",
+        "feedId": "axios"
+      },
+      {
         "title": "Katie Zacharia ousted as White House press secretary",
         "link": "https://www.axios.com/2026/10/16/trump-katie-zacharia-press-secretary",
         "pubDate": "2026-10-17T01:15",
@@ -369,12 +375,6 @@
         "title": "GOP senator: Cancel Thanksgiving recess if we lose",
         "link": "https://www.axios.com/2026/10/15/moreno-midterms-senate-republicans",
         "pubDate": "2026-10-15T23:54",
-        "feedId": "axios"
-      },
-      {
-        "title": "Rubio urges Lebanon to resist Hezbollah pressure over seized explosives",
-        "link": "https://www.axios.com/2026/10/15/lebanon-hezbollah-explosives-israel-rubio",
-        "pubDate": "2026-10-15T21:49",
         "feedId": "axios"
       }
     ]
