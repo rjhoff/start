@@ -1,6 +1,8 @@
-const { test } = require('node:test');
-const assert = require('node:assert/strict');
-const { render } = require('../src/widgets/search-widget.js');
+import { test } from 'vitest';
+import assert from 'node:assert/strict';
+import searchWidget from '../src/widgets/search-widget.js';
+
+const { render } = searchWidget;
 
 test('renders a form with GET method and id=search-form', () => {
   const html = render({ defaultEngine: 'google' });

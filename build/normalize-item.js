@@ -4,7 +4,7 @@ function normalizeItem(item, feedId) {
   if (raw) {
     const d = new Date(raw);
     if (!isNaN(d.getTime())) {
-      pubDate = d.toISOString().slice(0, 16);
+      pubDate = d.toISOString();
     }
   }
   return {

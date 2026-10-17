@@ -1,12 +1,14 @@
-const { test } = require('node:test');
-const assert = require('node:assert/strict');
-const { render } = require('../src/widgets/feed-widget.js');
+import { test } from 'vitest';
+import assert from 'node:assert/strict';
+import feedWidget from '../src/widgets/feed-widget.js';
+
+const { render } = feedWidget;
 
 const config = { id: 'test-feed', title: 'Test Feed', category: 'tech' };
 const feedData = {
   items: [
-    { title: 'Article One', link: 'https://example.com/1', pubDate: '2026-07-04T12:00', feedId: 'test-feed' },
-    { title: 'Article Two', link: 'https://example.com/2', pubDate: '2026-07-03T10:00', feedId: 'test-feed' },
+    { title: 'Article One', link: 'https://example.com/1', pubDate: '2026-07-04T12:00:00.000Z', feedId: 'test-feed' },
+    { title: 'Article Two', link: 'https://example.com/2', pubDate: '2026-07-03T10:00:00.000Z', feedId: 'test-feed' },
   ],
 };
 
@@ -23,10 +25,12 @@ test('renders each item title as a link opening in new tab', () => {
   assert.ok(html.includes('target="_blank"'));
 });
 
-test('renders ISO-8601 timestamp for each item', () => {
+test('renders exact semantic UTC time and an absolute static fallback', () => {
   const html = render(feedData, config);
-  assert.ok(html.includes('2026-07-04T12:00'));
-  assert.ok(html.includes('datetime="2026-07-04T12:00"'));
+  assert.ok(html.includes('datetime="2026-07-04T12:00:00.000Z"'));
+  assert.ok(html.includes('title="2026-07-04 12:00 UTC"'));
+  assert.ok(html.includes('aria-label="2026-07-04 12:00 UTC"'));
+  assert.ok(html.includes('>Jul 4</time>'));
 });
 
 test('renders error state when feedData has error property', () => {
@@ -76,11 +80,11 @@ test('sets id attribute on widget root element', () => {
   assert.ok(html.includes('id="feed-test-feed"'));
 });
 
-test('escapes pubDate in datetime attribute and content', () => {
+test('omits malformed or injected timestamps', () => {
   const xssDate = {
     items: [{ title: 'Test', link: 'https://example.com', pubDate: '" onmouseover="alert(1)', feedId: 'f' }],
   };
   const html = render(xssDate, config);
-  assert.ok(!html.includes('" onmouseover="'), 'unescaped quote in datetime attribute must not appear');
-  assert.ok(html.includes('&quot;'), 'quote should be escaped');
+  assert.ok(!html.includes('<time'), 'invalid date should not render as a timestamp');
+  assert.ok(!html.includes('onmouseover'), 'injected attribute must not appear');
 });

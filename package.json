@@ -6,9 +6,18 @@
     "fetch": "node build/fetch-feeds.js",
     "build:only": "node build/build.js",
     "build": "node build/fetch-feeds.js && node build/build.js",
-    "test": "node --test tests/normalize-item.test.js tests/feed-widget.test.js tests/search-widget.test.js"
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:browser": "playwright test",
+    "test:all": "npm run test && npm run test:browser"
   },
   "dependencies": {
     "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "4.10.2",
+    "@fontsource/ibm-plex-mono": "^5.3.0",
+    "@playwright/test": "^1.64.1",
+    "vitest": "^4.1.12"
   }
 }

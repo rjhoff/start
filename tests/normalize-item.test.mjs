@@ -1,6 +1,8 @@
-const { test } = require('node:test');
-const assert = require('node:assert/strict');
-const { normalizeItem } = require('../build/normalize-item.js');
+import { test } from 'vitest';
+import assert from 'node:assert/strict';
+import normalize from '../build/normalize-item.js';
+
+const { normalizeItem } = normalize;
 
 test('normalizes a complete item with isoDate', () => {
   const item = {
@@ -12,7 +14,7 @@ test('normalizes a complete item with isoDate', () => {
   assert.equal(result.title, 'Test Article');
   assert.equal(result.link, 'https://example.com/article');
   assert.equal(result.feedId, 'test-feed');
-  assert.match(result.pubDate, /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}$/);
+  assert.equal(result.pubDate, '2026-07-04T12:00:00.000Z');
 });
 
 test('falls back to pubDate when isoDate is missing', () => {
@@ -23,7 +25,7 @@ test('falls back to pubDate when isoDate is missing', () => {
   };
   const result = normalizeItem(item, 'feed-2');
   assert.ok(result.pubDate, 'pubDate should be set');
-  assert.match(result.pubDate, /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}$/);
+  assert.equal(result.pubDate, '2026-07-04T12:00:00.000Z');
 });
 
 test('uses guid as link fallback', () => {

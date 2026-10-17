@@ -1,0 +1,159 @@
+{
+  "hn": {
+    "id": "hn",
+    "items": [
+      {
+        "title": "A small tool for faster local builds",
+        "link": "https://example.com/hn/1",
+        "pubDate": "2026-10-16T11:40:00.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "How a very long headline wraps naturally when its source panel is narrow and the dashboard window is resized",
+        "link": "https://example.com/hn/2",
+        "pubDate": "2026-10-16T10:30:00.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "SQLite notes",
+        "link": "https://example.com/hn/3",
+        "pubDate": null,
+        "feedId": "hn"
+      },
+      {
+        "title": "Building an accessible terminal-inspired interface",
+        "link": "https://example.com/hn/4",
+        "pubDate": "2026-10-15T22:00:00.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "A practical guide to profiling CSS layout",
+        "link": "https://example.com/hn/5",
+        "pubDate": "2026-10-15T18:00:00.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "A new approach to static websites",
+        "link": "https://example.com/hn/6",
+        "pubDate": "2026-10-15T12:00:00.000Z",
+        "feedId": "hn"
+      }
+    ]
+  },
+  "lobsters": {
+    "id": "lobsters",
+    "items": [
+      {
+        "title": "Rust release notes",
+        "link": "https://example.com/lobsters/1",
+        "pubDate": "2026-10-16T11:20:00.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What happens when a simple headline grows into a multi-line account of a tricky production incident",
+        "link": "https://example.com/lobsters/2",
+        "pubDate": "2026-10-16T09:00:00.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Postgres query plans",
+        "link": "https://example.com/lobsters/3",
+        "pubDate": "2026-10-15T21:00:00.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Readable diffs",
+        "link": "https://example.com/lobsters/4",
+        "pubDate": "2026-10-15T17:00:00.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The shape of a good command line program",
+        "link": "https://example.com/lobsters/5",
+        "pubDate": "2026-10-15T16:00:00.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Notes on software maintenance",
+        "link": "https://example.com/lobsters/6",
+        "pubDate": "2026-10-15T14:00:00.000Z",
+        "feedId": "lobsters"
+      }
+    ]
+  },
+  "arstechnica": {
+    "id": "arstechnica",
+    "items": [
+      {
+        "title": "A compact desktop computer arrives",
+        "link": "https://example.com/ars/1",
+        "pubDate": "2026-10-16T11:00:00.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Researchers describe an unexpectedly long series of experiments with next-generation battery materials",
+        "link": "https://example.com/ars/2",
+        "pubDate": "2026-10-16T08:00:00.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Browser security update",
+        "link": "https://example.com/ars/3",
+        "pubDate": "2026-10-15T20:00:00.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "A telescope returns new observations",
+        "link": "https://example.com/ars/4",
+        "pubDate": "2026-10-15T15:00:00.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "The history of a familiar file format",
+        "link": "https://example.com/ars/5",
+        "pubDate": "2026-10-15T11:00:00.000Z",
+        "feedId": "arstechnica"
+      }
+    ]
+  },
+  "axios": {
+    "id": "axios",
+    "items": [
+      {
+        "title": "Morning briefing",
+        "link": "https://example.com/axios/1",
+        "pubDate": "2026-10-16T10:00:00.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "A longer look at the week ahead for cities, transit systems, and public infrastructure",
+        "link": "https://example.com/axios/2",
+        "pubDate": "2026-10-16T09:30:00.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Energy policy update",
+        "link": "https://example.com/axios/3",
+        "pubDate": "2026-10-15T19:00:00.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Global markets at a glance",
+        "link": "https://example.com/axios/4",
+        "pubDate": null,
+        "feedId": "axios"
+      },
+      {
+        "title": "A new public data release",
+        "link": "https://example.com/axios/5",
+        "pubDate": "2026-10-15T10:00:00.000Z",
+        "feedId": "axios"
+      }
+    ]
+  },
+  "longreads": {
+    "id": "longreads",
+    "error": "fixture feed unavailable",
+    "items": []
+  }
+}

@@ -20,7 +20,7 @@ function render(feedData, config) {
   </div>`;
 
   if (feedData.error || !hasItems) {
-    return `<section class="widget feed-widget" id="feed-${escapeHtml(config.id)}" aria-labelledby="feed-heading-${escapeHtml(config.id)}">
+    return `<section class="widget feed-widget" id="feed-${escapeHtml(config.id)}" aria-labelledby="feed-heading-${escapeHtml(config.id)}" tabindex="-1">
 ${header}
   <div class="widget-body">
     <p class="feed-unavailable">feed unavailable</p>
@@ -31,8 +31,14 @@ ${header}
   const items = feedData.items
     .map((item) => {
       const safeLink = isSafeUrl(item.link) ? escapeHtml(item.link) : '#';
-      const dateEl = item.pubDate
-        ? `\n      <time class="feed-item-date" datetime="${escapeHtml(item.pubDate)}">${escapeHtml(item.pubDate)}</time>`
+      const date = parseUtcTimestamp(item.pubDate);
+      const utc = date?.toISOString();
+      const exact = utc ? `${utc.slice(0, 10)} ${utc.slice(11, 16)} UTC` : null;
+      const fallback = utc ? new Intl.DateTimeFormat('en-US', {
+        month: 'short', day: 'numeric', timeZone: 'UTC',
+      }).format(date) : null;
+      const dateEl = utc
+        ? `\n      <time class="feed-item-date" datetime="${escapeHtml(utc)}" title="${escapeHtml(exact)}" aria-label="${escapeHtml(exact)}">${escapeHtml(fallback)}</time>`
         : '';
       return `    <li class="feed-item">
       <a href="${safeLink}" target="_blank" rel="noopener noreferrer" class="feed-item-title">${escapeHtml(item.title)}</a>${dateEl}
@@ -40,7 +46,7 @@ ${header}
     })
     .join('\n');
 
-  return `<section class="widget feed-widget" id="feed-${escapeHtml(config.id)}" aria-labelledby="feed-heading-${escapeHtml(config.id)}">
+  return `<section class="widget feed-widget" id="feed-${escapeHtml(config.id)}" aria-labelledby="feed-heading-${escapeHtml(config.id)}" tabindex="-1">
 ${header}
   <ul class="widget-body feed-list">
 ${items}
@@ -49,3 +55,4 @@ ${items}
 }
 
 module.exports = { render };
+const { parseUtcTimestamp } = require('../relative-time.js');

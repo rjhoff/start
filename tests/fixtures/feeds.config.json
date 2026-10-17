@@ -1,0 +1,9 @@
+{
+  "feeds": [
+    { "id": "hn", "title": "Hacker News", "category": "tech", "limit": 15 },
+    { "id": "lobsters", "title": "Lobsters", "category": "tech", "limit": 15 },
+    { "id": "arstechnica", "title": "Ars Technica", "category": "tech", "limit": 15 },
+    { "id": "axios", "title": "Axios", "category": "news", "limit": 15 },
+    { "id": "longreads", "title": "Longreads: Essays and Investigations", "category": "news", "limit": 15 }
+  ]
+}

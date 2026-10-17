@@ -8,10 +8,26 @@ const DIST_DIR = path.join(__dirname, '..', 'dist');
 const OUT_PATH = path.join(DIST_DIR, 'feed-data.json');
 const FETCH_TIMEOUT_MS = 10000;
 
-async function fetchFeed(feedConfig) {
-  const parser = new Parser({ timeout: FETCH_TIMEOUT_MS });
+async function fetchFeed(feedConfig, timeoutMs = FETCH_TIMEOUT_MS) {
+  const parser = new Parser();
   try {
-    const feed = await parser.parseURL(feedConfig.url);
+    const response = await fetch(feedConfig.url, {
+      headers: { 'User-Agent': 'rss-parser', Accept: 'application/rss+xml' },
+      signal: AbortSignal.timeout(timeoutMs),
+    });
+    if (!response.ok) throw new Error(`Status code ${response.status}`);
+    const charset = response.headers?.get('content-type')?.match(/charset\s*=\s*["']?([^;"'\s]+)/i)?.[1];
+    let xml;
+    if (charset && !/^utf-?8$/i.test(charset)) {
+      const bytes = await response.arrayBuffer();
+      let decoder;
+      try { decoder = new TextDecoder(charset); }
+      catch { decoder = new TextDecoder(); }
+      xml = decoder.decode(bytes);
+    } else {
+      xml = await response.text();
+    }
+    const feed = await parser.parseString(xml);
     const items = feed.items
       .slice(0, feedConfig.limit)
       .map((item) => normalizeItem(item, feedConfig.id));
@@ -30,7 +46,7 @@ async function main() {
     (f) => !f.type || f.type === 'rss-feed'
   );
 
-  const results = await Promise.all(rssFeedConfigs.map(fetchFeed));
+  const results = await Promise.all(rssFeedConfigs.map((feed) => fetchFeed(feed)));
   const feedDataMap = Object.fromEntries(results.map((r) => [r.id, r]));
 
   fs.writeFileSync(OUT_PATH, JSON.stringify(feedDataMap, null, 2), 'utf8');
@@ -38,7 +54,11 @@ async function main() {
   process.stdout.write(`[fetch-feeds] Fetched ${count}/${results.length} feeds → ${OUT_PATH}\n`);
 }
 
-main().catch((err) => {
-  process.stderr.write(`[fetch-feeds] FATAL: ${err.message}\n${err.stack}\n`);
-  process.exit(1);
-});
+if (require.main === module) {
+  main().catch((err) => {
+    process.stderr.write(`[fetch-feeds] FATAL: ${err.message}\n${err.stack}\n`);
+    process.exitCode = 1;
+  });
+}
+
+module.exports = { fetchFeed };

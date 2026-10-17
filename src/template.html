@@ -18,13 +18,19 @@
     <section class="rss-workspace" aria-labelledby="rss-heading">
       <div class="workspace-header">
         <h2 id="rss-heading">RSS</h2>
-        <span class="workspace-note">HEADLINES</span>
+        <div class="rss-navigation" id="rss-navigation" hidden>
+          <button type="button" id="rss-previous" aria-label="Previous RSS page">←</button>
+          <span id="rss-page-indicator" aria-label="RSS page"></span>
+          <button type="button" id="rss-next" aria-label="Next RSS page">→</button>
+        </div>
       </div>
       <div class="rss-content">
         <div class="widget-grid">
           {{WIDGET_GRID}}
         </div>
+        <p class="rss-size-warning" id="rss-size-warning" tabindex="-1" hidden>Window too short for RSS panels. Increase its height to view feeds.</p>
       </div>
+      <p class="visually-hidden" id="rss-page-announcement" role="status" aria-live="polite"></p>
     </section>
     <section class="future-workspace" aria-labelledby="future-heading">
       <div class="workspace-header">
@@ -53,5 +59,7 @@
       else el.textContent = Math.floor(diff / 60) + 'h ago';
     })();
   </script>
+  <script defer src="relative-time.js"></script>
+  <script defer src="dashboard.js"></script>
 </body>
 </html>
