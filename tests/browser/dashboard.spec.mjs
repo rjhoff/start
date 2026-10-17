@@ -278,7 +278,7 @@ test('headlines stay dense, wrap fully, and do not overflow narrow feed panels',
 });
 
 test('a minimum-height panel exposes two representative wrapped headlines', async ({ page }) => {
-  await page.setViewportSize({ width: 853, height: 364 });
+  await page.setViewportSize({ width: 853, height: 382 });
   await expect(page.locator('#rss-page-indicator')).toHaveText('01 / 03');
   // Reserve at least a classic 12px scrollbar gutter, including on overlay-scrollbar systems.
   await page.locator('#feed-hn .widget-body').evaluate(body => {
@@ -295,7 +295,7 @@ test('a minimum-height panel exposes two representative wrapped headlines', asyn
       scrollable: body.scrollHeight > body.clientHeight,
     };
   });
-  expect(geometry.panelHeight).toBeGreaterThanOrEqual(226);
+  expect(geometry.panelHeight).toBeGreaterThanOrEqual(244);
   expect(geometry.secondBottom).toBeLessThanOrEqual(geometry.bodyBottom);
   expect(geometry.scrollable).toBe(true);
 });

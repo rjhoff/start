@@ -5,12 +5,12 @@ const { rowsForHeight, pagesForFeeds, pageForFeed, shortcutForKey } = layout;
 const feeds = Array.from({ length: 9 }, (_, index) => `feed-${index + 1}`);
 
 test('height threshold includes content padding and inter-panel gap', () => {
-  expect(rowsForHeight(241)).toBe(0);
-  expect(rowsForHeight(242)).toBe(1);
-  expect(rowsForHeight(475)).toBe(1);
-  expect(rowsForHeight(476)).toBe(2);
-  expect(rowsForHeight(709)).toBe(2);
-  expect(rowsForHeight(710)).toBe(3);
+  expect(rowsForHeight(259)).toBe(0);
+  expect(rowsForHeight(260)).toBe(1);
+  expect(rowsForHeight(511)).toBe(1);
+  expect(rowsForHeight(512)).toBe(2);
+  expect(rowsForHeight(763)).toBe(2);
+  expect(rowsForHeight(764)).toBe(3);
 });
 
 test('invalid or unusable dimensions produce no rows', () => {

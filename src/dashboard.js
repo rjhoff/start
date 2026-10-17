@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  const MIN_PANEL_HEIGHT = 226;
+  const MIN_PANEL_HEIGHT = 244;
   const PANEL_GAP = 8;
   const CONTENT_PADDING = 8;
 
