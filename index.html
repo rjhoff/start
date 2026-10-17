@@ -3,18 +3,24 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="dashboard-version" content="2026-10-17T22:19:37.440Z-39074532860-1">
   <title>Start</title>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="styles.css?v=2026-10-17T22%3A19%3A37.440Z-39074532860-1">
 </head>
-<body data-built-at="2026-10-17T17:54">
-  <header class="page-header">
+<body data-built-at="2026-10-17T22:19:37.440Z">
+  <header class="app-toolbar">
+    <div class="app-identity">
+      <span class="app-mark" aria-hidden="true"></span>
+      <h1 class="app-name">START</h1>
+    </div>
     <div class="search-container">
   <form id="search-form" action="https://www.google.com/search" method="GET">
-    <input type="search" name="q" autofocus placeholder="search..." class="search-input" autocomplete="off" />
-    <div class="engine-toggle">
-      <button type="button" data-engine="google">Google</button>
-      <button type="button" data-engine="kagi">Kagi</button>
-      <button type="button" data-engine="ddg">DDG</button>
+    <label class="visually-hidden" for="search-input">Search the web</label>
+    <input id="search-input" type="search" name="q" autofocus placeholder="Search the web" class="search-input" autocomplete="off" />
+    <div class="engine-toggle" role="group" aria-label="Search destination">
+      <button type="button" data-engine="google" aria-pressed="true">Google</button>
+      <button type="button" data-engine="kagi" aria-pressed="false">Kagi</button>
+      <button type="button" data-engine="ddg" aria-pressed="false">DDG</button>
     </div>
   </form>
   <script>
@@ -24,313 +30,464 @@
         kagi:   { action: 'https://kagi.com/search',        param: 'q' },
         ddg:    { action: 'https://duckduckgo.com/',         param: 'q' }
       };
-      var saved = localStorage.getItem('search-engine') || 'google';
+      var saved;
+      try { saved = localStorage.getItem('search-engine') || 'google'; }
+      catch (err) { saved = 'google'; }
+      if (!engines[saved]) saved = 'google';
       var form = document.getElementById('search-form');
-      form.action = engines[saved].action;
-      form.querySelector('input[type=search]').name = engines[saved].param;
-      document.querySelectorAll('.engine-toggle button').forEach(function (btn) {
-        btn.classList.toggle('active', btn.dataset.engine === saved);
+      var input = document.getElementById('search-input');
+      var buttons = document.querySelectorAll('.engine-toggle button');
+      function selectEngine(engine) {
+        form.action = engines[engine].action;
+        input.name = engines[engine].param;
+        buttons.forEach(function (btn) {
+          var active = btn.dataset.engine === engine;
+          btn.classList.toggle('active', active);
+          btn.setAttribute('aria-pressed', String(active));
+        });
+      }
+      selectEngine(saved);
+      buttons.forEach(function (btn) {
         btn.addEventListener('click', function () {
-          localStorage.setItem('search-engine', btn.dataset.engine);
-          form.action = engines[btn.dataset.engine].action;
-          form.querySelector('input[type=search]').name = engines[btn.dataset.engine].param;
-          document.querySelectorAll('.engine-toggle button').forEach(function (b) {
-            b.classList.toggle('active', b.dataset.engine === btn.dataset.engine);
-          });
+          selectEngine(btn.dataset.engine);
+          try { localStorage.setItem('search-engine', btn.dataset.engine); }
+          catch (err) { /* The selection still works for this page. */ }
         });
       });
     })();
   </script>
 </div>
   </header>
-  <main class="widget-grid">
-    <div class="widget feed-widget" id="feed-hn">
+  <main class="workspace">
+    <section class="rss-workspace" aria-labelledby="rss-heading">
+      <div class="workspace-header">
+        <h2 id="rss-heading" tabindex="-1">RSS</h2>
+        <div class="rss-navigation" id="rss-navigation" hidden>
+          <span class="rss-shortcut-hint" aria-hidden="true">[←→]</span>
+          <button type="button" id="rss-previous" aria-label="Previous RSS page">←</button>
+          <span id="rss-page-indicator" aria-label="RSS page"></span>
+          <button type="button" id="rss-next" aria-label="Next RSS page">→</button>
+        </div>
+      </div>
+      <div class="rss-content">
+        <div class="widget-grid">
+          <section class="widget feed-widget" id="feed-hn" aria-labelledby="feed-heading-hn" tabindex="-1">
   <div class="widget-header">
-    <span class="widget-title">Hacker News</span>
+    <h3 class="widget-title" id="feed-heading-hn">Hacker News</h3>
     <span class="widget-category">tech</span>
   </div>
   <ul class="widget-body feed-list">
     <li class="feed-item">
+      <a href="https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Chrome and Edge are removing XSLT: what breaks and what does not</a>
+      <time class="feed-item-date" datetime="2026-10-17T20:07:33.000Z" title="2026-10-17 20:07 UTC" aria-label="2026-10-17 20:07 UTC">Oct 17</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise" target="_blank" rel="noopener noreferrer" class="feed-item-title">Microsoft and CMU Team Up to Train Early Career Software Engineers</a>
+      <time class="feed-item-date" datetime="2026-10-17T18:45:07.000Z" title="2026-10-17 18:45 UTC" aria-label="2026-10-17 18:45 UTC">Oct 17</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://blog.scottstevenson.net/p/pattern-matching-beats-narrative" target="_blank" rel="noopener noreferrer" class="feed-item-title">Pattern Matching Beats Narrative Reasoning</a>
+      <time class="feed-item-date" datetime="2026-10-17T18:34:13.000Z" title="2026-10-17 18:34 UTC" aria-label="2026-10-17 18:34 UTC">Oct 17</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://twitter.com/opencode/status/2111516673953935833" target="_blank" rel="noopener noreferrer" class="feed-item-title">OpenCode Hacked: User credentials leaked</a>
+      <time class="feed-item-date" datetime="2026-10-17T18:01:41.000Z" title="2026-10-17 18:01 UTC" aria-label="2026-10-17 18:01 UTC">Oct 17</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://github.com/openai/codex/issues/25921" target="_blank" rel="noopener noreferrer" class="feed-item-title">Codex is EATING my Mac&#39;s disk space</a>
+      <time class="feed-item-date" datetime="2026-10-17T17:45:08.000Z" title="2026-10-17 17:45 UTC" aria-label="2026-10-17 17:45 UTC">Oct 17</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://www.derekwessman.com/blog-1/natural" target="_blank" rel="noopener noreferrer" class="feed-item-title">I Became a Citizen of Japan</a>
+      <time class="feed-item-date" datetime="2026-10-17T17:36:17.000Z" title="2026-10-17 17:36 UTC" aria-label="2026-10-17 17:36 UTC">Oct 17</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://lwn.net/Articles/1088776/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Development statistics for the 7.2 kernel</a>
+      <time class="feed-item-date" datetime="2026-10-17T17:14:12.000Z" title="2026-10-17 17:14 UTC" aria-label="2026-10-17 17:14 UTC">Oct 17</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://www.numismaticnews.net/gold-now-top-u-s-export" target="_blank" rel="noopener noreferrer" class="feed-item-title">Gold is now the top U.S. export</a>
+      <time class="feed-item-date" datetime="2026-10-17T17:06:07.000Z" title="2026-10-17 17:06 UTC" aria-label="2026-10-17 17:06 UTC">Oct 17</time>
+    </li>
+    <li class="feed-item">
       <a href="https://www.artie.com/careers" target="_blank" rel="noopener noreferrer" class="feed-item-title">Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers</a>
-      <time class="feed-item-date" datetime="2026-10-17T17:02">2026-10-17T17:02</time>
+      <time class="feed-item-date" datetime="2026-10-17T17:02:50.000Z" title="2026-10-17 17:02 UTC" aria-label="2026-10-17 17:02 UTC">Oct 17</time>
     </li>
     <li class="feed-item">
-      <a href="https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/" target="_blank" rel="noopener noreferrer" class="feed-item-title">OpenAI discloses four more rogue incidents</a>
-      <time class="feed-item-date" datetime="2026-10-17T16:31">2026-10-17T16:31</time>
-    </li>
-    <li class="feed-item">
-      <a href="https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging" target="_blank" rel="noopener noreferrer" class="feed-item-title">GLP-1 may slow biological aging</a>
-      <time class="feed-item-date" datetime="2026-10-17T16:10">2026-10-17T16:10</time>
-    </li>
-    <li class="feed-item">
-      <a href="https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses</a>
-      <time class="feed-item-date" datetime="2026-10-17T16:04">2026-10-17T16:04</time>
+      <a href="https://pele.run/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Pele – Mermaid diagrams as themeable SVG</a>
+      <time class="feed-item-date" datetime="2026-10-17T15:55:09.000Z" title="2026-10-17 15:55 UTC" aria-label="2026-10-17 15:55 UTC">Oct 17</time>
     </li>
     <li class="feed-item">
       <a href="https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Solar surpasses nuclear power globally for first time</a>
-      <time class="feed-item-date" datetime="2026-10-17T14:01">2026-10-17T14:01</time>
+      <time class="feed-item-date" datetime="2026-10-17T14:01:01.000Z" title="2026-10-17 14:01 UTC" aria-label="2026-10-17 14:01 UTC">Oct 17</time>
     </li>
     <li class="feed-item">
-      <a href="https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using" target="_blank" rel="noopener noreferrer" class="feed-item-title">Making Chicken Transparent Using Dorito Dust</a>
-      <time class="feed-item-date" datetime="2026-10-17T13:55">2026-10-17T13:55</time>
+      <a href="https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using" target="_blank" rel="noopener noreferrer" class="feed-item-title">Making chicken transparent using Dorito dust</a>
+      <time class="feed-item-date" datetime="2026-10-17T13:55:28.000Z" title="2026-10-17 13:55 UTC" aria-label="2026-10-17 13:55 UTC">Oct 17</time>
     </li>
     <li class="feed-item">
       <a href="https://github.com/mikroverk/esp32sim" target="_blank" rel="noopener noreferrer" class="feed-item-title">Show HN: Esp32sim – Run ESP32 firmware in the browser</a>
-      <time class="feed-item-date" datetime="2026-10-17T13:51">2026-10-17T13:51</time>
+      <time class="feed-item-date" datetime="2026-10-17T13:51:08.000Z" title="2026-10-17 13:51 UTC" aria-label="2026-10-17 13:51 UTC">Oct 17</time>
     </li>
     <li class="feed-item">
-      <a href="https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/" target="_blank" rel="noopener noreferrer" class="feed-item-title">MapQuest will now show you where Flock cameras are in your neighborhood</a>
-      <time class="feed-item-date" datetime="2026-10-17T10:59">2026-10-17T10:59</time>
+      <a href="https://celphase.github.io/duck-pond/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Show HN: High-quality duck audio synthesizer</a>
+      <time class="feed-item-date" datetime="2026-10-17T13:28:46.000Z" title="2026-10-17 13:28 UTC" aria-label="2026-10-17 13:28 UTC">Oct 17</time>
     </li>
     <li class="feed-item">
-      <a href="https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf" target="_blank" rel="noopener noreferrer" class="feed-item-title">&quot;Tame&quot; boar and deer are instinctively adapting to the wolf in the Netherlands</a>
-      <time class="feed-item-date" datetime="2026-10-17T09:08">2026-10-17T09:08</time>
-    </li>
-    <li class="feed-item">
-      <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017" target="_blank" rel="noopener noreferrer" class="feed-item-title">DeepSeek-v4.1-Flash-1017</a>
-      <time class="feed-item-date" datetime="2026-10-17T08:21">2026-10-17T08:21</time>
-    </li>
-    <li class="feed-item">
-      <a href="https://llmspeed.dev/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware</a>
-      <time class="feed-item-date" datetime="2026-10-17T04:36">2026-10-17T04:36</time>
-    </li>
-    <li class="feed-item">
-      <a href="https://bfl.ai/blog/flux-3-image-klein" target="_blank" rel="noopener noreferrer" class="feed-item-title">FLUX 3 Image Klein</a>
-      <time class="feed-item-date" datetime="2026-10-16T19:47">2026-10-16T19:47</time>
-    </li>
-    <li class="feed-item">
-      <a href="https://alexwang.ai/posts/associative-memory/" target="_blank" rel="noopener noreferrer" class="feed-item-title">You could have invented transformers from memory</a>
-      <time class="feed-item-date" datetime="2026-10-16T19:01">2026-10-16T19:01</time>
-    </li>
-    <li class="feed-item">
-      <a href="https://www.anthropic.com/research/ecdsa-curve-origins" target="_blank" rel="noopener noreferrer" class="feed-item-title">Claude reveals ECDSA curve origins</a>
-      <time class="feed-item-date" datetime="2026-10-16T18:55">2026-10-16T18:55</time>
-    </li>
-    <li class="feed-item">
-      <a href="https://github.com/cobanov/PS5LM" target="_blank" rel="noopener noreferrer" class="feed-item-title">Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console</a>
-      <time class="feed-item-date" datetime="2026-10-16T18:32">2026-10-16T18:32</time>
+      <a href="https://dl.acm.org/doi/10.1145/358453.358459" target="_blank" rel="noopener noreferrer" class="feed-item-title">The future of programming (1982)</a>
+      <time class="feed-item-date" datetime="2026-10-17T11:20:52.000Z" title="2026-10-17 11:20 UTC" aria-label="2026-10-17 11:20 UTC">Oct 17</time>
     </li>
   </ul>
-</div>
-<div class="widget feed-widget" id="feed-lobsters">
+</section>
+<section class="widget feed-widget" id="feed-lobsters" aria-labelledby="feed-heading-lobsters" tabindex="-1">
   <div class="widget-header">
-    <span class="widget-title">Lobsters</span>
+    <h3 class="widget-title" id="feed-heading-lobsters">Lobsters</h3>
     <span class="widget-category">tech</span>
   </div>
   <ul class="widget-body feed-list">
     <li class="feed-item">
       <a href="https://words.filippo.io/seeds-solved/" target="_blank" rel="noopener noreferrer" class="feed-item-title">The NIST Elliptic Curves Seeds Bounty Has Been Claimed</a>
-      <time class="feed-item-date" datetime="2026-10-16T20:18">2026-10-16T20:18</time>
+      <time class="feed-item-date" datetime="2026-10-16T20:18:36.000Z" title="2026-10-16 20:18 UTC" aria-label="2026-10-16 20:18 UTC">Oct 16</time>
     </li>
     <li class="feed-item">
       <a href="https://www.lf-lang.org/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Intuitive concurrent programming in any language</a>
-      <time class="feed-item-date" datetime="2026-10-17T12:17">2026-10-17T12:17</time>
+      <time class="feed-item-date" datetime="2026-10-17T12:17:20.000Z" title="2026-10-17 12:17 UTC" aria-label="2026-10-17 12:17 UTC">Oct 17</time>
     </li>
     <li class="feed-item">
       <a href="https://maevyn.codes/decoherence" target="_blank" rel="noopener noreferrer" class="feed-item-title">The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise</a>
-      <time class="feed-item-date" datetime="2026-10-16T16:36">2026-10-16T16:36</time>
-    </li>
-    <li class="feed-item">
-      <a href="https://www.iroh.computer/blog/the-road-to-iroh-1-0" target="_blank" rel="noopener noreferrer" class="feed-item-title">The road to iroh 1.0</a>
-      <time class="feed-item-date" datetime="2026-10-16T12:02">2026-10-16T12:02</time>
-    </li>
-    <li class="feed-item">
-      <a href="https://go.dev/blog/interactive-refactoring" target="_blank" rel="noopener noreferrer" class="feed-item-title">Interactive refactoring in gopls</a>
-      <time class="feed-item-date" datetime="2026-10-17T01:12">2026-10-17T01:12</time>
-    </li>
-    <li class="feed-item">
-      <a href="https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Why are we even doing all this?</a>
-      <time class="feed-item-date" datetime="2026-10-16T05:28">2026-10-16T05:28</time>
-    </li>
-    <li class="feed-item">
-      <a href="https://www.youtube.com/watch?v=5zIOfBLQ3U4" target="_blank" rel="noopener noreferrer" class="feed-item-title">Getting Canceled</a>
-      <time class="feed-item-date" datetime="2026-10-16T18:54">2026-10-16T18:54</time>
-    </li>
-    <li class="feed-item">
-      <a href="https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Introducing GNOME OS Preview</a>
-      <time class="feed-item-date" datetime="2026-10-16T18:25">2026-10-16T18:25</time>
-    </li>
-    <li class="feed-item">
-      <a href="https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your" target="_blank" rel="noopener noreferrer" class="feed-item-title">Do you let LLMs write both your tests and your code?</a>
-      <time class="feed-item-date" datetime="2026-10-16T23:53">2026-10-16T23:53</time>
+      <time class="feed-item-date" datetime="2026-10-16T16:36:29.000Z" title="2026-10-16 16:36 UTC" aria-label="2026-10-16 16:36 UTC">Oct 16</time>
     </li>
     <li class="feed-item">
       <a href="https://kennedn.com/blog/posts/glitching/" target="_blank" rel="noopener noreferrer" class="feed-item-title">It took me nine years to hack my Xbox 360</a>
-      <time class="feed-item-date" datetime="2026-10-17T16:13">2026-10-17T16:13</time>
+      <time class="feed-item-date" datetime="2026-10-17T16:13:32.000Z" title="2026-10-17 16:13 UTC" aria-label="2026-10-17 16:13 UTC">Oct 17</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://go.dev/blog/interactive-refactoring" target="_blank" rel="noopener noreferrer" class="feed-item-title">Interactive refactoring in gopls</a>
+      <time class="feed-item-date" datetime="2026-10-17T01:12:09.000Z" title="2026-10-17 01:12 UTC" aria-label="2026-10-17 01:12 UTC">Oct 17</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://www.iroh.computer/blog/the-road-to-iroh-1-0" target="_blank" rel="noopener noreferrer" class="feed-item-title">The road to iroh 1.0</a>
+      <time class="feed-item-date" datetime="2026-10-16T12:02:05.000Z" title="2026-10-16 12:02 UTC" aria-label="2026-10-16 12:02 UTC">Oct 16</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Why are we even doing all this?</a>
+      <time class="feed-item-date" datetime="2026-10-16T05:28:29.000Z" title="2026-10-16 05:28 UTC" aria-label="2026-10-16 05:28 UTC">Oct 16</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your" target="_blank" rel="noopener noreferrer" class="feed-item-title">Do you let LLMs write both your tests and your code?</a>
+      <time class="feed-item-date" datetime="2026-10-16T23:53:05.000Z" title="2026-10-16 23:53 UTC" aria-label="2026-10-16 23:53 UTC">Oct 16</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Introducing GNOME OS Preview</a>
+      <time class="feed-item-date" datetime="2026-10-16T18:25:15.000Z" title="2026-10-16 18:25 UTC" aria-label="2026-10-16 18:25 UTC">Oct 16</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://www.youtube.com/watch?v=5zIOfBLQ3U4" target="_blank" rel="noopener noreferrer" class="feed-item-title">Getting Canceled</a>
+      <time class="feed-item-date" datetime="2026-10-16T18:54:16.000Z" title="2026-10-16 18:54 UTC" aria-label="2026-10-16 18:54 UTC">Oct 16</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://pwn.ai/blog/pwnescape" target="_blank" rel="noopener noreferrer" class="feed-item-title">PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)</a>
+      <time class="feed-item-date" datetime="2026-10-17T18:24:39.000Z" title="2026-10-17 18:24 UTC" aria-label="2026-10-17 18:24 UTC">Oct 17</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://abolish-ai.net/abolish-ai-a-manifesto/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Abolish AI! Manifesto</a>
+      <time class="feed-item-date" datetime="2026-10-17T18:25:58.000Z" title="2026-10-17 18:25 UTC" aria-label="2026-10-17 18:25 UTC">Oct 17</time>
     </li>
     <li class="feed-item">
       <a href="https://k.sosnierz.me/08-11-24/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Making a 88x31 button book using ImageMagick</a>
-      <time class="feed-item-date" datetime="2026-10-16T11:21">2026-10-16T11:21</time>
+      <time class="feed-item-date" datetime="2026-10-16T11:21:12.000Z" title="2026-10-16 11:21 UTC" aria-label="2026-10-16 11:21 UTC">Oct 16</time>
     </li>
     <li class="feed-item">
       <a href="https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Some quick thoughts on Unit Testing ActivityPub</a>
-      <time class="feed-item-date" datetime="2026-10-17T06:12">2026-10-17T06:12</time>
+      <time class="feed-item-date" datetime="2026-10-17T06:12:46.000Z" title="2026-10-17 06:12 UTC" aria-label="2026-10-17 06:12 UTC">Oct 17</time>
     </li>
     <li class="feed-item">
       <a href="https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Linus Torvalds on AI-assisted kernel contributions</a>
-      <time class="feed-item-date" datetime="2026-10-16T02:50">2026-10-16T02:50</time>
-    </li>
-    <li class="feed-item">
-      <a href="https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html" target="_blank" rel="noopener noreferrer" class="feed-item-title">We&#39;re sunsetting Codeberg Pages v2</a>
-      <time class="feed-item-date" datetime="2026-10-16T18:03">2026-10-16T18:03</time>
-    </li>
-    <li class="feed-item">
-      <a href="https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Developing for Debugging (2025)</a>
-      <time class="feed-item-date" datetime="2026-10-17T07:21">2026-10-17T07:21</time>
+      <time class="feed-item-date" datetime="2026-10-16T02:50:33.000Z" title="2026-10-16 02:50 UTC" aria-label="2026-10-16 02:50 UTC">Oct 16</time>
     </li>
   </ul>
-</div>
-<div class="widget feed-widget" id="feed-arstechnica">
+</section>
+<section class="widget feed-widget" id="feed-arstechnica" aria-labelledby="feed-heading-arstechnica" tabindex="-1">
   <div class="widget-header">
-    <span class="widget-title">Ars Technica</span>
+    <h3 class="widget-title" id="feed-heading-arstechnica">Ars Technica</h3>
     <span class="widget-category">tech</span>
   </div>
   <ul class="widget-body feed-list">
     <li class="feed-item">
       <a href="https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Science says your boss should talk less in meetings</a>
-      <time class="feed-item-date" datetime="2026-10-17T11:15">2026-10-17T11:15</time>
+      <time class="feed-item-date" datetime="2026-10-17T11:15:11.000Z" title="2026-10-17 11:15 UTC" aria-label="2026-10-17 11:15 UTC">Oct 17</time>
     </li>
     <li class="feed-item">
       <a href="https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Why BioWare&#39;s Neverwinter Nights still has thousands of active players</a>
-      <time class="feed-item-date" datetime="2026-10-17T11:00">2026-10-17T11:00</time>
+      <time class="feed-item-date" datetime="2026-10-17T11:00:21.000Z" title="2026-10-17 11:00 UTC" aria-label="2026-10-17 11:00 UTC">Oct 17</time>
     </li>
     <li class="feed-item">
       <a href="https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/" target="_blank" rel="noopener noreferrer" class="feed-item-title">OpenAI models hacked a crypto wallet and breached more websites</a>
-      <time class="feed-item-date" datetime="2026-10-16T20:59">2026-10-16T20:59</time>
+      <time class="feed-item-date" datetime="2026-10-16T20:59:01.000Z" title="2026-10-16 20:59 UTC" aria-label="2026-10-16 20:59 UTC">Oct 16</time>
     </li>
     <li class="feed-item">
       <a href="https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/" target="_blank" rel="noopener noreferrer" class="feed-item-title">“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops</a>
-      <time class="feed-item-date" datetime="2026-10-16T20:20">2026-10-16T20:20</time>
+      <time class="feed-item-date" datetime="2026-10-16T20:20:07.000Z" title="2026-10-16 20:20 UTC" aria-label="2026-10-16 20:20 UTC">Oct 16</time>
     </li>
     <li class="feed-item">
       <a href="https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/" target="_blank" rel="noopener noreferrer" class="feed-item-title">US Rep proposes bill to give video game buyers &quot;ownership,&quot; not &quot;a license&quot;</a>
-      <time class="feed-item-date" datetime="2026-10-16T19:41">2026-10-16T19:41</time>
+      <time class="feed-item-date" datetime="2026-10-16T19:41:18.000Z" title="2026-10-16 19:41 UTC" aria-label="2026-10-16 19:41 UTC">Oct 16</time>
     </li>
     <li class="feed-item">
       <a href="https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality</a>
-      <time class="feed-item-date" datetime="2026-10-16T19:11">2026-10-16T19:11</time>
+      <time class="feed-item-date" datetime="2026-10-16T19:11:50.000Z" title="2026-10-16 19:11 UTC" aria-label="2026-10-16 19:11 UTC">Oct 16</time>
     </li>
     <li class="feed-item">
       <a href="https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/" target="_blank" rel="noopener noreferrer" class="feed-item-title">RFK Jr. proposes FDA look the other way on unproven peptides, report says</a>
-      <time class="feed-item-date" datetime="2026-10-16T17:05">2026-10-16T17:05</time>
+      <time class="feed-item-date" datetime="2026-10-16T17:05:59.000Z" title="2026-10-16 17:05 UTC" aria-label="2026-10-16 17:05 UTC">Oct 16</time>
     </li>
     <li class="feed-item">
       <a href="https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees</a>
-      <time class="feed-item-date" datetime="2026-10-16T15:41">2026-10-16T15:41</time>
+      <time class="feed-item-date" datetime="2026-10-16T15:41:00.000Z" title="2026-10-16 15:41 UTC" aria-label="2026-10-16 15:41 UTC">Oct 16</time>
     </li>
     <li class="feed-item">
       <a href="https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Polymarket saw $600 million in election trades after the elections were over</a>
-      <time class="feed-item-date" datetime="2026-10-16T14:19">2026-10-16T14:19</time>
+      <time class="feed-item-date" datetime="2026-10-16T14:19:22.000Z" title="2026-10-16 14:19 UTC" aria-label="2026-10-16 14:19 UTC">Oct 16</time>
     </li>
     <li class="feed-item">
       <a href="https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Tesla turns to 50-year-old stunt technology as it tries to Roadster again</a>
-      <time class="feed-item-date" datetime="2026-10-16T14:03">2026-10-16T14:03</time>
+      <time class="feed-item-date" datetime="2026-10-16T14:03:25.000Z" title="2026-10-16 14:03 UTC" aria-label="2026-10-16 14:03 UTC">Oct 16</time>
     </li>
     <li class="feed-item">
       <a href="https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Super Scam Me documentary shows what it takes to catch a romance scammer</a>
-      <time class="feed-item-date" datetime="2026-10-16T14:00">2026-10-16T14:00</time>
+      <time class="feed-item-date" datetime="2026-10-16T14:00:59.000Z" title="2026-10-16 14:00 UTC" aria-label="2026-10-16 14:00 UTC">Oct 16</time>
     </li>
     <li class="feed-item">
       <a href="https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/" target="_blank" rel="noopener noreferrer" class="feed-item-title">The Surface Laptop Ultra delivers on most of Microsoft&#39;s promises</a>
-      <time class="feed-item-date" datetime="2026-10-16T12:00">2026-10-16T12:00</time>
+      <time class="feed-item-date" datetime="2026-10-16T12:00:05.000Z" title="2026-10-16 12:00 UTC" aria-label="2026-10-16 12:00 UTC">Oct 16</time>
     </li>
     <li class="feed-item">
       <a href="https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Rocket Report: FAA eyes more Starbase traffic; India&#39;s Skyroot snares US customer</a>
-      <time class="feed-item-date" datetime="2026-10-16T11:00">2026-10-16T11:00</time>
+      <time class="feed-item-date" datetime="2026-10-16T11:00:53.000Z" title="2026-10-16 11:00 UTC" aria-label="2026-10-16 11:00 UTC">Oct 16</time>
     </li>
     <li class="feed-item">
       <a href="https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Blue Origin is going all in on the New Glenn rocket</a>
-      <time class="feed-item-date" datetime="2026-10-16T10:00">2026-10-16T10:00</time>
+      <time class="feed-item-date" datetime="2026-10-16T10:00:54.000Z" title="2026-10-16 10:00 UTC" aria-label="2026-10-16 10:00 UTC">Oct 16</time>
     </li>
     <li class="feed-item">
       <a href="https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Googlebook review: Android on a laptop is still Android</a>
-      <time class="feed-item-date" datetime="2026-10-16T10:00">2026-10-16T10:00</time>
+      <time class="feed-item-date" datetime="2026-10-16T10:00:32.000Z" title="2026-10-16 10:00 UTC" aria-label="2026-10-16 10:00 UTC">Oct 16</time>
     </li>
   </ul>
-</div>
-<div class="widget feed-widget" id="feed-axios">
+</section>
+<section class="widget feed-widget" id="feed-axios" aria-labelledby="feed-heading-axios" tabindex="-1">
   <div class="widget-header">
-    <span class="widget-title">Axios</span>
+    <h3 class="widget-title" id="feed-heading-axios">Axios</h3>
     <span class="widget-category">news</span>
   </div>
   <ul class="widget-body feed-list">
     <li class="feed-item">
+      <a href="https://www.axios.com/2026/10/17/trump-russia-waiver-putin-republicans-democrats" target="_blank" rel="noopener noreferrer" class="feed-item-title">Trump&#39;s Russia waiver draws instant bipartisan backlash</a>
+      <time class="feed-item-date" datetime="2026-10-17T19:18:15.000Z" title="2026-10-17 19:18 UTC" aria-label="2026-10-17 19:18 UTC">Oct 17</time>
+    </li>
+    <li class="feed-item">
       <a href="https://www.axios.com/2026/10/17/trump-russia-sanctions" target="_blank" rel="noopener noreferrer" class="feed-item-title">Trump waives new Russia sanctions in the &quot;national interests&quot;</a>
-      <time class="feed-item-date" datetime="2026-10-17T17:20">2026-10-17T17:20</time>
+      <time class="feed-item-date" datetime="2026-10-17T17:20:45.000Z" title="2026-10-17 17:20 UTC" aria-label="2026-10-17 17:20 UTC">Oct 17</time>
     </li>
     <li class="feed-item">
       <a href="https://www.axios.com/2026/10/17/zelensky-starlink-elon-musk-trump" target="_blank" rel="noopener noreferrer" class="feed-item-title">Zelensky says Musk-owned satellite system still restricted in Ukraine</a>
-      <time class="feed-item-date" datetime="2026-10-17T14:40">2026-10-17T14:40</time>
+      <time class="feed-item-date" datetime="2026-10-17T14:40:21.000Z" title="2026-10-17 14:40 UTC" aria-label="2026-10-17 14:40 UTC">Oct 17</time>
     </li>
     <li class="feed-item">
       <a href="https://www.axios.com/2026/10/17/pope-leo-xiv-lung-cancer-treatment-hospital-discharge" target="_blank" rel="noopener noreferrer" class="feed-item-title">A welcome recovery milestone for Pope Leo after cancer surgery</a>
-      <time class="feed-item-date" datetime="2026-10-17T13:36">2026-10-17T13:36</time>
+      <time class="feed-item-date" datetime="2026-10-17T13:36:50.000Z" title="2026-10-17 13:36 UTC" aria-label="2026-10-17 13:36 UTC">Oct 17</time>
     </li>
     <li class="feed-item">
       <a href="https://www.axios.com/2026/10/17/trump-october-midterms-controversy" target="_blank" rel="noopener noreferrer" class="feed-item-title">Trump ratchets up the chaos in an October barrage</a>
-      <time class="feed-item-date" datetime="2026-10-17T12:40">2026-10-17T12:40</time>
+      <time class="feed-item-date" datetime="2026-10-17T12:40:07.000Z" title="2026-10-17 12:40 UTC" aria-label="2026-10-17 12:40 UTC">Oct 17</time>
     </li>
     <li class="feed-item">
       <a href="https://www.axios.com/2026/10/17/elon-musk-doge-walter-isaacson-podcast" target="_blank" rel="noopener noreferrer" class="feed-item-title">Exclusive: Musk tells Isaacson &quot;AI and robots&quot; will need to fix deficit</a>
-      <time class="feed-item-date" datetime="2026-10-17T12:23">2026-10-17T12:23</time>
+      <time class="feed-item-date" datetime="2026-10-17T12:23:16.000Z" title="2026-10-17 12:23 UTC" aria-label="2026-10-17 12:23 UTC">Oct 17</time>
     </li>
     <li class="feed-item">
       <a href="https://www.axios.com/2026/10/17/black-voters-democratic-socialists" target="_blank" rel="noopener noreferrer" class="feed-item-title">Black voters test the socialist left&#39;s ceiling</a>
-      <time class="feed-item-date" datetime="2026-10-17T12:20">2026-10-17T12:20</time>
+      <time class="feed-item-date" datetime="2026-10-17T12:20:07.000Z" title="2026-10-17 12:20 UTC" aria-label="2026-10-17 12:20 UTC">Oct 17</time>
     </li>
     <li class="feed-item">
       <a href="https://www.axios.com/2026/10/16/trump-katie-zacharia-press-secretary" target="_blank" rel="noopener noreferrer" class="feed-item-title">Katie Zacharia ousted as White House press secretary</a>
-      <time class="feed-item-date" datetime="2026-10-17T01:15">2026-10-17T01:15</time>
+      <time class="feed-item-date" datetime="2026-10-17T01:15:45.000Z" title="2026-10-17 01:15 UTC" aria-label="2026-10-17 01:15 UTC">Oct 17</time>
     </li>
     <li class="feed-item">
       <a href="https://www.axios.com/2026/10/16/iran-backed-militias-sending-money-irgc-centcom" target="_blank" rel="noopener noreferrer" class="feed-item-title">Iran-backed militias sending money back to cash-starved IRGC, U.S. says</a>
-      <time class="feed-item-date" datetime="2026-10-16T20:22">2026-10-16T20:22</time>
+      <time class="feed-item-date" datetime="2026-10-16T20:22:57.000Z" title="2026-10-16 20:22 UTC" aria-label="2026-10-16 20:22 UTC">Oct 16</time>
     </li>
     <li class="feed-item">
       <a href="https://www.axios.com/2026/10/16/congress-hill-leaders-johnson-thune-jeffries-schumer" target="_blank" rel="noopener noreferrer" class="feed-item-title">Hill leaders brace for miserable 2027</a>
-      <time class="feed-item-date" datetime="2026-10-16T19:47">2026-10-16T19:47</time>
+      <time class="feed-item-date" datetime="2026-10-16T19:47:24.000Z" title="2026-10-16 19:47 UTC" aria-label="2026-10-16 19:47 UTC">Oct 16</time>
     </li>
     <li class="feed-item">
       <a href="https://www.axios.com/2026/10/16/ice-shooting-mamdani-jeffries-schumer-new-york" target="_blank" rel="noopener noreferrer" class="feed-item-title">ICE shooting leads to rare Jeffries-Mamdani collaboration</a>
-      <time class="feed-item-date" datetime="2026-10-16T19:33">2026-10-16T19:33</time>
+      <time class="feed-item-date" datetime="2026-10-16T19:33:20.000Z" title="2026-10-16 19:33 UTC" aria-label="2026-10-16 19:33 UTC">Oct 16</time>
     </li>
     <li class="feed-item">
       <a href="https://www.axios.com/2026/10/16/trump-starlink-musk-ukraine-zelensky" target="_blank" rel="noopener noreferrer" class="feed-item-title">Trump: White House didn&#39;t impede satellite system in Ukraine</a>
-      <time class="feed-item-date" datetime="2026-10-16T18:52">2026-10-16T18:52</time>
+      <time class="feed-item-date" datetime="2026-10-16T18:52:48.000Z" title="2026-10-16 18:52 UTC" aria-label="2026-10-16 18:52 UTC">Oct 16</time>
     </li>
     <li class="feed-item">
       <a href="https://www.axios.com/2026/10/16/that-y2k-feeling-why-todays-economy-resembles-2000" target="_blank" rel="noopener noreferrer" class="feed-item-title">That Y2K feeling: Why today&#39;s economy resembles 2000</a>
-      <time class="feed-item-date" datetime="2026-10-16T15:50">2026-10-16T15:50</time>
+      <time class="feed-item-date" datetime="2026-10-16T15:50:18.000Z" title="2026-10-16 15:50 UTC" aria-label="2026-10-16 15:50 UTC">Oct 16</time>
     </li>
     <li class="feed-item">
       <a href="https://www.axios.com/2026/10/16/warsh-federal-reserve-interest-rates" target="_blank" rel="noopener noreferrer" class="feed-item-title">Warsh signals steady Fed outlook despite inflation jump</a>
-      <time class="feed-item-date" datetime="2026-10-16T10:25">2026-10-16T10:25</time>
+      <time class="feed-item-date" datetime="2026-10-16T10:25:29.000Z" title="2026-10-16 10:25 UTC" aria-label="2026-10-16 10:25 UTC">Oct 16</time>
     </li>
     <li class="feed-item">
       <a href="https://www.axios.com/2026/10/16/democrats-midterms-fundraising-senate" target="_blank" rel="noopener noreferrer" class="feed-item-title">Democrats post &quot;mind-blowing&quot; numbers ahead of 2026 midterms</a>
-      <time class="feed-item-date" datetime="2026-10-16T09:30">2026-10-16T09:30</time>
-    </li>
-    <li class="feed-item">
-      <a href="https://www.axios.com/2026/10/16/geothermal-rare-political-sweet-spot-ai-boom" target="_blank" rel="noopener noreferrer" class="feed-item-title">Geothermal finds rare political sweet spot amid AI boom</a>
-      <time class="feed-item-date" datetime="2026-10-16T09:15">2026-10-16T09:15</time>
+      <time class="feed-item-date" datetime="2026-10-16T09:30:05.000Z" title="2026-10-16 09:30 UTC" aria-label="2026-10-16 09:30 UTC">Oct 16</time>
     </li>
   </ul>
-</div>
+</section>
+<section class="widget feed-widget" id="feed-longreads" aria-labelledby="feed-heading-longreads" tabindex="-1">
+  <div class="widget-header">
+    <h3 class="widget-title" id="feed-heading-longreads">Longreads</h3>
+    <span class="widget-category">news</span>
+  </div>
+  <ul class="widget-body feed-list">
+    <li class="feed-item">
+      <a href="https://longreads.com/2026/10/16/camping-faith-isolation-fear/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Tishomingo Burn Ban</a>
+      <time class="feed-item-date" datetime="2026-10-16T11:00:00.000Z" title="2026-10-16 11:00 UTC" aria-label="2026-10-16 11:00 UTC">Oct 16</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://longreads.com/2026/10/16/top-5-629/" target="_blank" rel="noopener noreferrer" class="feed-item-title">The Top 5 Longreads of the Week</a>
+      <time class="feed-item-date" datetime="2026-10-16T10:00:00.000Z" title="2026-10-16 10:00 UTC" aria-label="2026-10-16 10:00 UTC">Oct 16</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://longreads.com/2026/10/15/domestic-abuse-suicide/" target="_blank" rel="noopener noreferrer" class="feed-item-title">What Happens When Your Abuser Kills Himself?</a>
+      <time class="feed-item-date" datetime="2026-10-15T15:00:00.000Z" title="2026-10-15 15:00 UTC" aria-label="2026-10-15 15:00 UTC">Oct 15</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://longreads.com/2026/10/15/krill-supplement-carbon-fishing-antarctic-activism/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Supplemental Journey</a>
+      <time class="feed-item-date" datetime="2026-10-15T14:52:28.000Z" title="2026-10-15 14:52 UTC" aria-label="2026-10-15 14:52 UTC">Oct 15</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://longreads.com/2026/10/15/body-deskilling-embodied-intelligence/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Deskilling the Body</a>
+      <time class="feed-item-date" datetime="2026-10-15T13:00:00.000Z" title="2026-10-15 13:00 UTC" aria-label="2026-10-15 13:00 UTC">Oct 15</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://longreads.com/2026/10/15/tree-rings-american-history/" target="_blank" rel="noopener noreferrer" class="feed-item-title">How Tree Rings Challenged the Myth of American Wilderness</a>
+      <time class="feed-item-date" datetime="2026-10-15T11:00:00.000Z" title="2026-10-15 11:00 UTC" aria-label="2026-10-15 11:00 UTC">Oct 15</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://longreads.com/2026/10/15/mother-museum-skulls-grief-agni/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Beyond the Glass</a>
+      <time class="feed-item-date" datetime="2026-10-15T10:00:00.000Z" title="2026-10-15 10:00 UTC" aria-label="2026-10-15 10:00 UTC">Oct 15</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://longreads.com/2026/10/14/starting-private-schools/" target="_blank" rel="noopener noreferrer" class="feed-item-title">We’re Reporters, Not Teachers. We Were Able to Start Private Schools Anyway.</a>
+      <time class="feed-item-date" datetime="2026-10-14T13:00:00.000Z" title="2026-10-14 13:00 UTC" aria-label="2026-10-14 13:00 UTC">Oct 14</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://longreads.com/2026/10/14/therians-kids-identity/" target="_blank" rel="noopener noreferrer" class="feed-item-title">The Kids Who Identify as Animals</a>
+      <time class="feed-item-date" datetime="2026-10-14T11:00:00.000Z" title="2026-10-14 11:00 UTC" aria-label="2026-10-14 11:00 UTC">Oct 14</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://longreads.com/2026/10/13/trumps-death-penalty-louisiana/" target="_blank" rel="noopener noreferrer" class="feed-item-title">In Trump’s America, the Death Penalty Has Been Resurrected</a>
+      <time class="feed-item-date" datetime="2026-10-13T11:00:00.000Z" title="2026-10-13 11:00 UTC" aria-label="2026-10-13 11:00 UTC">Oct 13</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://longreads.com/2026/10/13/american-forest-development-property-hugh-maxwell/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Where the Forest Went</a>
+      <time class="feed-item-date" datetime="2026-10-13T10:00:00.000Z" title="2026-10-13 10:00 UTC" aria-label="2026-10-13 10:00 UTC">Oct 13</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://longreads.com/2026/10/12/steffen-skjottelvik-braverman/" target="_blank" rel="noopener noreferrer" class="feed-item-title">He Went Out on an Epic Wilderness Adventure. Only His Dogs Came Back.</a>
+      <time class="feed-item-date" datetime="2026-10-12T19:09:20.000Z" title="2026-10-12 19:09 UTC" aria-label="2026-10-12 19:09 UTC">Oct 12</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://longreads.com/2026/10/09/john-mcphee-geological-time-nonfiction-journalism/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Up a Creek</a>
+      <time class="feed-item-date" datetime="2026-10-09T16:48:55.000Z" title="2026-10-09 16:48 UTC" aria-label="2026-10-09 16:48 UTC">Oct 9</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://longreads.com/2026/10/09/the-top-5-longreads-of-the-week-628/" target="_blank" rel="noopener noreferrer" class="feed-item-title">The Top 5 Longreads of the Week</a>
+      <time class="feed-item-date" datetime="2026-10-09T10:00:00.000Z" title="2026-10-09 10:00 UTC" aria-label="2026-10-09 10:00 UTC">Oct 9</time>
+    </li>
+    <li class="feed-item">
+      <a href="https://longreads.com/2026/10/08/male-loneliness-subreddit/" target="_blank" rel="noopener noreferrer" class="feed-item-title">Inside the Subreddit Where Men Share Their Dinners—And Their Most Intimate Feelings</a>
+      <time class="feed-item-date" datetime="2026-10-08T14:48:53.000Z" title="2026-10-08 14:48 UTC" aria-label="2026-10-08 14:48 UTC">Oct 8</time>
+    </li>
+  </ul>
+</section>
+        </div>
+        <p class="rss-size-warning" id="rss-size-warning" tabindex="-1" hidden>Window too short for RSS panels. Increase its height to view feeds.</p>
+      </div>
+      <p class="visually-hidden" id="rss-page-announcement" role="status" aria-live="polite"></p>
+    </section>
+    <section class="future-workspace" aria-labelledby="future-heading">
+      <div class="workspace-header">
+        <h2 id="future-heading">WORKSPACE</h2>
+        <span class="workspace-note">FUTURE</span>
+      </div>
+      <div class="future-content">
+        <section class="reserved-slot reserved-slot-wide" aria-labelledby="metrics-heading">
+          <div class="reserved-slot-header">
+            <h3 id="metrics-heading">METRICS</h3>
+            <span>RESERVED</span>
+          </div>
+        </section>
+        <section class="reserved-slot" aria-labelledby="home-heading">
+          <div class="reserved-slot-header">
+            <h3 id="home-heading">HOME</h3>
+            <span>RESERVED</span>
+          </div>
+        </section>
+        <section class="reserved-slot" aria-labelledby="utilities-heading">
+          <div class="reserved-slot-header">
+            <h3 id="utilities-heading">UTILITIES</h3>
+            <span>RESERVED</span>
+          </div>
+        </section>
+      </div>
+    </section>
+    <p class="viewport-warning">Increase the window size to view the dashboard.</p>
   </main>
-  <footer class="page-footer">
-    <span class="built-at">built <time id="built-at-time" datetime="2026-10-17T17:54">2026-10-17T17:54</time></span>
+  <footer class="status-bar ">
+    <button type="button" class="status-details-trigger" id="status-details-trigger" aria-label="Build details: READY, RSS 5/5" hidden><span aria-hidden="true">●</span> READY</button>
+    <span class="status-label status-static" id="status-static">READY</span>
+    <span class="status-health">RSS 5/5</span>
+    <span class="built-at">BUILT <time id="built-at-time" datetime="2026-10-17T22:19:37.440Z">2026-10-17T22:19:37.440Z</time></span>
+    <span class="status-next" id="status-next" hidden>NEXT <span id="next-countdown"></span></span>
+    <span class="status-update" id="status-update" role="status" aria-live="polite" hidden>UPDATE AVAILABLE</span>
+    <button type="button" class="status-refresh" id="status-refresh" hidden><span aria-hidden="true">[R]</span> REFRESH</button>
+    <button type="button" class="status-help" id="status-help" aria-label="Keyboard shortcuts" hidden><span aria-hidden="true">[?]</span> HELP</button>
   </footer>
-  <script>
-    (function () {
-      var el = document.getElementById('built-at-time');
-      if (!el) return;
-      var d = new Date(el.getAttribute('datetime'));
-      if (isNaN(d.getTime())) return;
-      var diff = Math.floor((Date.now() - d) / 60000);
-      if (diff < 1) el.textContent = 'just now';
-      else if (diff < 60) el.textContent = diff + 'm ago';
-      else el.textContent = Math.floor(diff / 60) + 'h ago';
-    })();
-  </script>
+  <dialog class="shortcut-dialog build-dialog" id="build-details" aria-labelledby="build-details-heading">
+    <div class="shortcut-dialog-header"><h2 id="build-details-heading">BUILD DETAILS</h2></div>
+    <dl class="build-details-list">
+      <div><dt>Loaded build</dt><dd id="details-built-at">2026-10-17T22:19:37.440Z</dd></div>
+      <div><dt>Version</dt><dd id="details-version"></dd></div>
+      <div><dt>Feeds</dt><dd id="details-feeds">RSS 5/5</dd></div>
+      <div><dt>Failed feeds</dt><dd id="details-failed">None</dd></div>
+      <div><dt>Schedule</dt><dd id="details-schedule"></dd></div>
+      <div><dt>Next expected</dt><dd id="details-next"></dd></div>
+      <div><dt>Published update</dt><dd id="details-update">Not confirmed</dd></div>
+    </dl>
+    <div class="shortcut-dialog-footer"><button type="button" id="build-details-close"><span aria-hidden="true">[Esc]</span> CLOSE</button></div>
+  </dialog>
+  <dialog class="shortcut-dialog" id="shortcut-help" aria-labelledby="shortcut-help-heading">
+    <div class="shortcut-dialog-header">
+      <h2 id="shortcut-help-heading">KEYBOARD SHORTCUTS</h2>
+    </div>
+    <dl class="shortcut-list">
+      <div><dt><kbd>/</kbd></dt><dd>Focus search</dd></div>
+      <div><dt><kbd>Esc</kbd></dt><dd>Leave search / close help</dd></div>
+      <div id="shortcut-pages" hidden><dt><kbd>←</kbd> <kbd>→</kbd></dt><dd>RSS pages</dd></div>
+      <div><dt><kbd>Tab</kbd></dt><dd>Next control</dd></div>
+      <div><dt><kbd>Shift+Tab</kbd></dt><dd>Previous control</dd></div>
+      <div><dt><kbd>Enter</kbd></dt><dd>Open / activate</dd></div>
+      <div><dt><kbd>?</kbd></dt><dd>Show help</dd></div>
+      <div id="shortcut-refresh" hidden><dt><kbd>R</kbd></dt><dd>Refresh published update</dd></div>
+    </dl>
+    <div class="shortcut-dialog-footer">
+      <button type="button" id="shortcut-close"><span aria-hidden="true">[Esc]</span> CLOSE</button>
+    </div>
+  </dialog>
+  <script id="build-metadata" type="application/json">{"version":"2026-10-17T22:19:37.440Z-39074532860-1","builtAt":"2026-10-17T22:19:37.440Z","schedule":"0 * * * *","feedCount":5,"successCount":5,"feeds":[{"id":"hn","name":"Hacker News","ok":true},{"id":"lobsters","name":"Lobsters","ok":true},{"id":"arstechnica","name":"Ars Technica","ok":true},{"id":"axios","name":"Axios","ok":true},{"id":"longreads","name":"Longreads","ok":true}]}</script>
+  <script defer src="relative-time.js?v=2026-10-17T22%3A19%3A37.440Z-39074532860-1"></script>
+  <script defer src="dashboard.js?v=2026-10-17T22%3A19%3A37.440Z-39074532860-1"></script>
+  <script defer src="build-status.js?v=2026-10-17T22%3A19%3A37.440Z-39074532860-1"></script>
 </body>
 </html>
