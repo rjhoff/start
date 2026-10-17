@@ -3,27 +3,39 @@
     "id": "hn",
     "items": [
       {
-        "title": "Why harnesses matter for energy (and token) efficiency",
-        "link": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
-        "pubDate": "2026-10-16T21:01",
+        "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+        "link": "https://llmspeed.dev/",
+        "pubDate": "2026-10-17T04:36",
         "feedId": "hn"
       },
       {
-        "title": "I never authorized an integration that scans my secrets",
-        "link": "https://github.com/home-assistant/home-assistant.io/issues/49314",
-        "pubDate": "2026-10-16T20:33",
+        "title": "\"In every study that considered the question\"",
+        "link": "https://unsung.aresluna.org/in-every-study-that-considered-the-question/",
+        "pubDate": "2026-10-17T04:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "Butlerian Jihad",
+        "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+        "pubDate": "2026-10-17T02:21",
+        "feedId": "hn"
+      },
+      {
+        "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+        "link": "https://www.flexport.com/company/careers/",
+        "pubDate": "2026-10-17T01:01",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nine-Inch Snails",
+        "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+        "pubDate": "2026-10-16T22:21",
         "feedId": "hn"
       },
       {
         "title": "FLUX 3 Image Klein",
         "link": "https://bfl.ai/blog/flux-3-image-klein",
         "pubDate": "2026-10-16T19:47",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Fatal Flaw of 911",
-        "link": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
-        "pubDate": "2026-10-16T19:33",
         "feedId": "hn"
       },
       {
@@ -57,12 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Anthropic assigned highest junk credit rating in June",
-        "link": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-        "pubDate": "2026-10-16T18:11",
-        "feedId": "hn"
-      },
-      {
         "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
         "link": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
         "pubDate": "2026-10-16T18:06",
@@ -75,21 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "GifCities",
-        "link": "https://gifcities.org/",
-        "pubDate": "2026-10-16T17:35",
-        "feedId": "hn"
-      },
-      {
-        "title": "Piramidal (YC W24) Is Hiring",
-        "link": "https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009",
-        "pubDate": "2026-10-16T17:08",
-        "feedId": "hn"
-      },
-      {
         "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
         "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
         "pubDate": "2026-10-16T17:08",
+        "feedId": "hn"
+      },
+      {
+        "title": "JPEG XL vs. AVIF for web use-cases",
+        "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+        "pubDate": "2026-10-16T16:12",
         "feedId": "hn"
       }
     ]
@@ -101,6 +101,12 @@
         "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
         "link": "https://words.filippo.io/seeds-solved/",
         "pubDate": "2026-10-16T20:18",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
+        "link": "https://maevyn.codes/decoherence",
+        "pubDate": "2026-10-16T16:36",
         "feedId": "lobsters"
       },
       {
@@ -122,45 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
-        "link": "https://maevyn.codes/decoherence",
-        "pubDate": "2026-10-16T16:36",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Making a 88x31 button book using ImageMagick",
         "link": "https://k.sosnierz.me/08-11-24/",
         "pubDate": "2026-10-16T11:21",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Mull: note-taking with a language server / vscode extension",
-        "link": "https://github.com/stepchowfun/mull",
-        "pubDate": "2026-10-16T12:54",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-        "link": "https://calif.io/research/big-fish",
-        "pubDate": "2026-10-16T15:41",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "JPEG XL vs AVIF for web use-cases",
-        "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-        "pubDate": "2026-10-15T14:42",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Getting Canceled",
-        "link": "https://www.youtube.com/watch?v=5zIOfBLQ3U4",
-        "pubDate": "2026-10-16T18:54",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "We're sunsetting Codeberg Pages v2",
-        "link": "https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html",
-        "pubDate": "2026-10-16T18:03",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +140,51 @@
         "feedId": "lobsters"
       },
       {
-        "title": "My C23 Conventions",
-        "link": "https://abner.page/post/c23-conventions-1/",
-        "pubDate": "2026-10-15T15:32",
+        "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+        "link": "https://calif.io/research/big-fish",
+        "pubDate": "2026-10-16T15:41",
         "feedId": "lobsters"
       },
       {
-        "title": "Epic's EAC2 v2 seems fairly easily bypassable",
-        "link": "https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/",
-        "pubDate": "2026-10-15T22:48",
+        "title": "Getting Canceled",
+        "link": "https://www.youtube.com/watch?v=5zIOfBLQ3U4",
+        "pubDate": "2026-10-16T18:54",
         "feedId": "lobsters"
       },
       {
-        "title": "Announcing Rust 1.99.1",
-        "link": "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
-        "pubDate": "2026-10-15T23:03",
+        "title": "Mull: note-taking with a language server / vscode extension",
+        "link": "https://github.com/stepchowfun/mull",
+        "pubDate": "2026-10-16T12:54",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "We're sunsetting Codeberg Pages v2",
+        "link": "https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html",
+        "pubDate": "2026-10-16T18:03",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "JPEG XL vs AVIF for web use-cases",
+        "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+        "pubDate": "2026-10-15T14:42",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Ubuntu 26.10 (Stonking Stingray) released",
+        "link": "https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html",
+        "pubDate": "2026-10-16T18:01",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Do you let LLMs write both your tests and your code?",
+        "link": "https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your",
+        "pubDate": "2026-10-16T23:53",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "There's never been a better time to go into math",
+        "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+        "pubDate": "2026-10-16T20:49",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "OpenAI models hacked a crypto wallet and breached more websites",
+        "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+        "pubDate": "2026-10-16T20:59",
+        "feedId": "arstechnica"
+      },
       {
         "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
         "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
@@ -275,18 +281,18 @@
         "link": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
         "pubDate": "2026-10-15T21:22",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Hegseth’s dubious low-T screening may flag up to 25 percent of the Army",
-        "link": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
-        "pubDate": "2026-10-15T21:09",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Katie Zacharia ousted as White House press secretary",
+        "link": "https://www.axios.com/2026/10/16/trump-katie-zacharia-press-secretary",
+        "pubDate": "2026-10-17T01:15",
+        "feedId": "axios"
+      },
       {
         "title": "Iran-backed militias sending money back to cash-starved IRGC, U.S. says",
         "link": "https://www.axios.com/2026/10/16/iran-backed-militias-sending-money-irgc-centcom",
@@ -303,12 +309,6 @@
         "title": "ICE shooting leads to rare Jeffries-Mamdani collaboration",
         "link": "https://www.axios.com/2026/10/16/ice-shooting-mamdani-jeffries-schumer-new-york",
         "pubDate": "2026-10-16T19:33",
-        "feedId": "axios"
-      },
-      {
-        "title": "Katie Zacharia ousted as White House press secretary",
-        "link": "https://www.axios.com/2026/10/16/trump-katie-zacharia-press-secretary",
-        "pubDate": "2026-10-16T19:25",
         "feedId": "axios"
       },
       {
