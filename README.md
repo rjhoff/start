@@ -33,6 +33,10 @@ With JavaScript unavailable, the original generated grid remains scrollable and 
 
 RSS dates are normalized to full UTC ISO timestamps during the build. Generated `<time>` elements show an absolute UTC date without JavaScript and retain an exact UTC date and time in their attributes. One browser timer updates the visible labels once per minute to `now`, minutes, hours, days, or weeks. Missing and invalid dates produce no timestamp. Headline lists use native, individually scrollable panels with thin Gruvbox scrollbars.
 
+## Reserved workspace
+
+The right workspace has three intentionally nonfunctional regions: a full-width Metrics slot above separate Home and Utilities slots. Their labels and borders mark space for future dashboard features; each region can be replaced as functionality is added.
+
 ## Keyboard use
 
 Search retains autofocus. Outside editable fields, `/` focuses and selects its query, `?` opens native dialog help, and `Escape` in search moves focus to the visible RSS page. Left and right arrows change RSS pages only while focus is in the RSS workspace and another page exists. Tab, Shift+Tab, and Enter retain native browser behavior. The footer help button provides mouse and keyboard access to the same instructions. The dialog closes with Escape or its close button and restores the opener's focus where possible.

@@ -48,6 +48,40 @@ for (const [width, height] of [[1280, 720], [1440, 900], [1024, 576], [853, 480]
   });
 }
 
+test('reserved workspace has three noninteractive slots that fit at desktop sizes', async ({ page }) => {
+  for (const [width, height] of [[1280, 720], [1440, 900], [960, 600], [853, 480]]) {
+    await page.setViewportSize({ width, height });
+    const workspace = page.getByRole('region', { name: 'WORKSPACE' });
+    const metrics = page.getByRole('region', { name: 'METRICS' });
+    const home = page.getByRole('region', { name: 'HOME' });
+    const utilities = page.getByRole('region', { name: 'UTILITIES' });
+    for (const slot of [metrics, home, utilities]) {
+      await expect(slot).toBeVisible();
+      await expect(slot).toContainText('RESERVED');
+      expect(await slot.evaluate(element =>
+        element.scrollWidth <= element.clientWidth && element.scrollHeight <= element.clientHeight
+      )).toBe(true);
+    }
+    await expect(workspace.locator('a, button, input, select, textarea, [tabindex]')).toHaveCount(0);
+
+    const boxes = await Promise.all([workspace, metrics, home, utilities].map(locator => locator.boundingBox()));
+    const [outer, top, lowerLeft, lowerRight] = boxes;
+    expect(top.x).toBe(lowerLeft.x);
+    expect(top.width).toBeGreaterThan(lowerLeft.width);
+    expect(top.x + top.width).toBeGreaterThan(lowerRight.x + lowerRight.width - 1);
+    expect(lowerLeft.y).toBe(lowerRight.y);
+    expect(lowerLeft.x + lowerLeft.width).toBeLessThan(lowerRight.x);
+    for (const box of [top, lowerLeft, lowerRight]) {
+      expect(box.x).toBeGreaterThanOrEqual(outer.x);
+      expect(box.y).toBeGreaterThanOrEqual(outer.y);
+      expect(box.x + box.width).toBeLessThanOrEqual(outer.x + outer.width);
+      expect(box.y + box.height).toBeLessThanOrEqual(outer.y + outer.height);
+    }
+    expect(await page.evaluate(() => document.documentElement.scrollWidth)).toBe(width);
+    expect(await page.evaluate(() => document.documentElement.scrollHeight)).toBe(height);
+  }
+});
+
 test('search is labelled, autofocuses, and offers three destinations', async ({ page }) => {
   const search = page.getByRole('searchbox', { name: 'Search the web' });
   await expect(search).toBeFocused();
