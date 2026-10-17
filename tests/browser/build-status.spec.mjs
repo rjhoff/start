@@ -1,5 +1,6 @@
 import { test, expect } from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
+import { expectDashboardAppearance } from './dashboard-appearance.mjs';
 
 const now = new Date('2026-10-16T12:10:00Z');
 const newer = { version: 'published-build-2', builtAt: '2026-10-16T13:01:00.000Z' };
@@ -188,7 +189,7 @@ test('visual baseline loaded status, update, and build details', async ({ page }
   await page.setViewportSize({ width: 1280, height: 720 });
   await simulatePublication(page);
   await expect(page.locator('#status-update')).toBeVisible();
-  await expect(page.locator('body')).toHaveScreenshot('dashboard-update-1280x720.png');
+  await expectDashboardAppearance(page, 'dashboard-update-1280x720.png');
   await page.getByRole('button', { name: 'Build details' }).click();
   await expect(page).toHaveScreenshot('build-details-1280x720.png');
 });
@@ -198,5 +199,5 @@ test('visual baseline ready health at 1440x900', async ({ page }) => {
   await page.goto('/healthy/');
   await page.addStyleTag({ content: testFont });
   await page.evaluate(() => document.fonts.ready);
-  await expect(page.locator('body')).toHaveScreenshot('dashboard-ready-1440x900.png');
+  await expectDashboardAppearance(page, 'dashboard-ready-1440x900.png');
 });

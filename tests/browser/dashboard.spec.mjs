@@ -1,5 +1,6 @@
 import { test, expect } from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
+import { expectDashboardAppearance } from './dashboard-appearance.mjs';
 
 const fixedNow = new Date('2026-10-16T12:10:00Z');
 const testFont = `
@@ -279,6 +280,11 @@ test('headlines stay dense, wrap fully, and do not overflow narrow feed panels',
 test('a minimum-height panel exposes two representative wrapped headlines', async ({ page }) => {
   await page.setViewportSize({ width: 853, height: 364 });
   await expect(page.locator('#rss-page-indicator')).toHaveText('01 / 03');
+  // Reserve at least a classic 12px scrollbar gutter, including on overlay-scrollbar systems.
+  await page.locator('#feed-hn .widget-body').evaluate(body => {
+    const gutter = body.offsetWidth - body.clientWidth;
+    body.style.paddingRight = `${Math.max(0, 12 - gutter)}px`;
+  });
   const geometry = await page.locator('#feed-hn').evaluate(panel => {
     const body = panel.querySelector('.widget-body');
     const second = body.querySelectorAll('.feed-item')[1];
@@ -502,20 +508,22 @@ test('principal view has no automated axe violations', async ({ page }) => {
 for (const [width, height] of [[1280, 720], [1440, 900]]) {
   test(`visual baseline ${width}x${height}`, async ({ page }) => {
     await page.setViewportSize({ width, height });
-    await expect(page.locator('body')).toHaveScreenshot(`dashboard-${width}x${height}.png`);
+    await expectDashboardAppearance(page, `dashboard-${width}x${height}.png`);
   });
 }
 
 test('visual baseline compact RSS workspace at 960x600', async ({ page }) => {
   await page.setViewportSize({ width: 960, height: 600 });
-  await expect(page.locator('body')).toHaveScreenshot('dashboard-960x600.png');
+  await expectDashboardAppearance(page, 'dashboard-960x600.png');
 });
 
 test('visual baseline second RSS page at 1280x720', async ({ page }) => {
   await page.setViewportSize({ width: 1280, height: 720 });
   await page.goto('/many/');
+  await page.addStyleTag({ content: testFont });
+  await page.evaluate(() => document.fonts.ready);
   await page.getByRole('button', { name: 'Next RSS page' }).click();
-  await expect(page.locator('body')).toHaveScreenshot('dashboard-second-page-1280x720.png');
+  await expectDashboardAppearance(page, 'dashboard-second-page-1280x720.png');
 });
 
 for (const [width, height] of [[1280, 720], [1440, 900], [960, 600]]) {
