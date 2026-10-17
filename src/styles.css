@@ -149,6 +149,9 @@ a:focus-visible {
 
 .rss-navigation button:hover:not(:disabled) { background: var(--color-border); }
 .rss-navigation button:disabled { color: var(--color-muted); cursor: default; opacity: 0.55; }
+.rss-shortcut-hint { color: var(--color-muted); letter-spacing: 0.04em; }
+
+#rss-heading:focus { outline: 2px solid var(--color-blue); outline-offset: 2px; }
 
 .rss-size-warning {
   margin: var(--space-unit);
@@ -226,6 +229,85 @@ a:focus-visible {
 
 .built-at { overflow: hidden; text-overflow: ellipsis; }
 .built-at time { color: var(--color-fg); }
+
+.status-help {
+  margin-left: auto;
+  padding: 2px 6px;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 0;
+  background: var(--color-bg);
+  color: var(--color-fg);
+  cursor: pointer;
+  font-size: 11px;
+  white-space: nowrap;
+}
+
+.status-help span { color: var(--color-yellow); }
+.status-help:hover { background: var(--color-border); }
+
+.shortcut-dialog {
+  width: min(420px, calc(100vw - 32px));
+  max-height: calc(100dvh - 32px);
+  margin: auto;
+  padding: 0;
+  overflow: auto;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 0;
+  background: var(--color-surface);
+  color: var(--color-fg);
+  font-family: var(--font-mono);
+  font-size: 12px;
+}
+
+.shortcut-dialog::backdrop { background: rgb(20 20 20 / 72%); }
+
+.shortcut-dialog-header {
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.shortcut-dialog-header h2 {
+  margin: 0;
+  color: var(--color-yellow);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+}
+
+.shortcut-list { margin: 0; padding: 8px 14px; }
+.shortcut-list > div { display: grid; grid-template-columns: 100px minmax(0, 1fr); align-items: baseline; gap: 10px; padding: 5px 0; }
+.shortcut-list dt, .shortcut-list dd { margin: 0; }
+.shortcut-list dd { color: var(--color-muted); }
+.shortcut-list kbd {
+  display: inline-block;
+  padding: 1px 4px;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 0;
+  background: var(--color-bg);
+  color: var(--color-fg);
+  font: inherit;
+  white-space: nowrap;
+}
+
+.shortcut-dialog-footer {
+  display: flex;
+  justify-content: flex-end;
+  padding: 8px 14px;
+  border-top: 1px solid var(--color-border);
+}
+
+.shortcut-dialog-footer button {
+  padding: 3px 6px;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 0;
+  background: var(--color-bg);
+  color: var(--color-fg);
+  cursor: pointer;
+  font-size: 11px;
+}
+
+.shortcut-dialog-footer button:hover { background: var(--color-border); }
+.shortcut-dialog-footer button:focus { outline: 2px solid var(--color-blue); outline-offset: 2px; }
+.shortcut-dialog-footer button span { color: var(--color-yellow); }
 
 /* Search */
 .search-container { flex: 1; min-width: 0; }

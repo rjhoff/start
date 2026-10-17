@@ -1,7 +1,7 @@
 import { test, expect } from 'vitest';
 import layout from '../src/dashboard.js';
 
-const { rowsForHeight, pagesForFeeds, pageForFeed } = layout;
+const { rowsForHeight, pagesForFeeds, pageForFeed, shortcutForKey } = layout;
 const feeds = Array.from({ length: 9 }, (_, index) => `feed-${index + 1}`);
 
 test('height threshold includes content padding and inter-panel gap', () => {
@@ -52,4 +52,33 @@ test('anchor mapping follows capacity changes and clamps at the last page', () =
   expect(pageForFeed(-5, 2, 9)).toBe(0);
   expect(pageForFeed(2, 0, 9)).toBe(0);
   expect(pageForFeed(2, 2, 0)).toBe(0);
+});
+
+test('shortcuts respect editable fields, RSS context, and page availability', () => {
+  const context = { editable: false, searchFocused: false, rssContext: true,
+    canPrevious: false, canNext: true, helpOpen: false };
+  const key = (value, options = {}) => ({ key: value, ...options });
+  expect(shortcutForKey(key('/'), context)).toBe('search');
+  expect(shortcutForKey(key('?'), context)).toBe('help');
+  expect(shortcutForKey(key('ArrowRight'), context)).toBe('next');
+  expect(shortcutForKey(key('ArrowLeft'), context)).toBeNull();
+  expect(shortcutForKey(key('ArrowRight'), { ...context, rssContext: false })).toBeNull();
+  expect(shortcutForKey(key('ArrowRight'), { ...context, canNext: false })).toBeNull();
+  expect(shortcutForKey(key('?'), { ...context, editable: true })).toBeNull();
+  expect(shortcutForKey(key('Escape'), { ...context, editable: true, searchFocused: true })).toBe('leave-search');
+  expect(shortcutForKey(key('x'), context)).toBeNull();
+});
+
+test('modifier keys, IME composition, and an open modal suppress routing', () => {
+  const context = { editable: false, searchFocused: false, rssContext: true,
+    canPrevious: true, canNext: true, helpOpen: false };
+  for (const options of [{ altKey: true }, { ctrlKey: true }, { metaKey: true },
+    { isComposing: true }, { keyCode: 229 }, { defaultPrevented: true }]) {
+    expect(shortcutForKey({ key: '/', ...options }, context)).toBeNull();
+  }
+  expect(shortcutForKey({ key: 'ArrowRight', shiftKey: true }, context)).toBeNull();
+  expect(shortcutForKey({ key: '?', shiftKey: true }, context)).toBe('help');
+  expect(shortcutForKey({ key: '/', shiftKey: true }, context)).toBe('help');
+  expect(shortcutForKey({ key: '?' }, { ...context, helpOpen: true })).toBeNull();
+  expect(shortcutForKey({ key: '?', repeat: true }, context)).toBeNull();
 });

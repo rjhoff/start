@@ -29,8 +29,22 @@
     return Math.min(last, Math.max(0, Math.floor(Math.max(0, feedIndex) / (rows * 2))));
   }
 
+  function shortcutForKey(event, context) {
+    if (event.defaultPrevented || event.isComposing || event.keyCode === 229 ||
+      event.altKey || event.ctrlKey || event.metaKey || context.helpOpen) return null;
+    if (event.key === 'Escape' && !event.shiftKey) return context.searchFocused ? 'leave-search' : null;
+    if (context.editable) return null;
+    if ((event.key === '?' || (event.key === '/' && event.shiftKey)) && !event.repeat) return 'help';
+    if (event.shiftKey) return null;
+    if (event.key === '/') return 'search';
+    if (!context.rssContext) return null;
+    if (event.key === 'ArrowLeft' && context.canPrevious) return 'previous';
+    if (event.key === 'ArrowRight' && context.canNext) return 'next';
+    return null;
+  }
+
   if (typeof module !== 'undefined' && module.exports) {
-    module.exports = { rowsForHeight, pagesForFeeds, pageForFeed };
+    module.exports = { rowsForHeight, pagesForFeeds, pageForFeed, shortcutForKey };
   }
 
   if (typeof document === 'undefined') return;
@@ -52,14 +66,74 @@
   if (!workspace || !content || !grid) return;
 
   const feeds = Array.from(grid.querySelectorAll(':scope > .feed-widget'));
-  if (feeds.length === 0) return;
-
+  const search = document.getElementById('search-input');
+  const rssHeading = document.getElementById('rss-heading');
+  const warning = document.getElementById('rss-size-warning');
   const navigation = document.getElementById('rss-navigation');
   const previous = document.getElementById('rss-previous');
   const next = document.getElementById('rss-next');
+  const helpButton = document.getElementById('status-help');
+  const helpDialog = document.getElementById('shortcut-help');
+  const closeHelp = document.getElementById('shortcut-close');
+  const pagesHint = document.getElementById('shortcut-pages');
+  let restoreTarget = null;
+
+  function focusRssTarget() {
+    if (!warning.hidden) return warning.focus({ preventScroll: true });
+    const feed = grid.querySelector('.rss-column:not([hidden]) .feed-widget') ||
+      grid.querySelector(':scope > .feed-widget');
+    (feed?.querySelector('.feed-item-title') || feed || rssHeading).focus({ preventScroll: true });
+  }
+
+  function openHelp() {
+    if (helpDialog.open) return;
+    restoreTarget = document.activeElement;
+    pagesHint.hidden = navigation.hidden;
+    helpDialog.showModal();
+    closeHelp.focus();
+  }
+
+  helpButton.hidden = false;
+  helpButton.addEventListener('click', openHelp);
+  closeHelp.addEventListener('click', () => helpDialog.close());
+  helpDialog.addEventListener('keydown', (event) => {
+    if (event.key === 'Tab') {
+      event.preventDefault();
+      closeHelp.focus();
+    }
+  });
+  helpDialog.addEventListener('close', () => {
+    if (restoreTarget?.isConnected && restoreTarget.getClientRects().length &&
+      !restoreTarget.closest('[hidden]') && restoreTarget !== document.body) {
+      restoreTarget.focus({ preventScroll: true });
+    } else focusRssTarget();
+    restoreTarget = null;
+  });
+
+  document.addEventListener('keydown', (event) => {
+    const target = event.target;
+    const action = shortcutForKey(event, {
+      editable: target.matches('input, textarea, select') || target.isContentEditable,
+      searchFocused: target === search,
+      rssContext: workspace.contains(target),
+      canPrevious: !navigation.hidden && !previous.disabled,
+      canNext: !navigation.hidden && !next.disabled,
+      helpOpen: helpDialog.open,
+    });
+    if (!action) return;
+    event.preventDefault();
+    if (action === 'search') {
+      search.focus();
+      search.select();
+    } else if (action === 'leave-search') focusRssTarget();
+    else if (action === 'help') openHelp();
+    else changePage(action === 'next' ? 1 : -1);
+  });
+
+  if (feeds.length === 0) return;
+
   const indicator = document.getElementById('rss-page-indicator');
   const announcement = document.getElementById('rss-page-announcement');
-  const warning = document.getElementById('rss-size-warning');
   const columns = [document.createElement('div'), document.createElement('div')];
   const inactive = document.createElement('div');
   columns.forEach((column) => {
@@ -169,17 +243,6 @@
 
   previous.addEventListener('click', () => changePage(-1));
   next.addEventListener('click', () => changePage(1));
-  workspace.addEventListener('keydown', (event) => {
-    if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey || event.defaultPrevented) return;
-    if (event.target.closest('input, textarea, select, [contenteditable="true"]')) return;
-    if (event.key === 'ArrowLeft' || event.key === 'ArrowRight') {
-      const target = pageIndex + (event.key === 'ArrowRight' ? 1 : -1);
-      if (target < 0 || target >= pagesForFeeds(feeds, rows).length) return;
-      event.preventDefault();
-      changePage(event.key === 'ArrowRight' ? 1 : -1);
-    }
-  });
-
   measure();
   new ResizeObserver(measure).observe(content);
 })();

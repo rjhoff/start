@@ -57,6 +57,124 @@ test('search is labelled, autofocuses, and offers three destinations', async ({ 
   await expect(page.getByRole('button', { name: 'Google' })).toHaveAttribute('aria-pressed', 'true');
 });
 
+test('search accepts immediate typing and Escape leaves its query intact', async ({ page }) => {
+  const search = page.getByRole('searchbox', { name: 'Search the web' });
+  await expect(search).toBeFocused();
+  await page.keyboard.type('ordinary words');
+  await expect(search).toHaveValue('ordinary words');
+  await search.press('Escape');
+  await expect(page.getByRole('link', { name: 'A small tool for faster local builds' })).toBeFocused();
+  await expect(search).toHaveValue('ordinary words');
+  await page.keyboard.press('/');
+  await expect(search).toBeFocused();
+  expect(await search.evaluate(el => [el.selectionStart, el.selectionEnd])).toEqual([0, 'ordinary words'.length]);
+});
+
+test('editable search treats question mark and page arrows as ordinary input', async ({ page }) => {
+  const search = page.getByRole('searchbox', { name: 'Search the web' });
+  await page.keyboard.type('?');
+  await expect(search).toHaveValue('?');
+  await expect(page.getByRole('dialog', { name: 'KEYBOARD SHORTCUTS' })).toBeHidden();
+  await search.press('ArrowRight');
+  await expect(page.locator('#rss-page-indicator')).toHaveText('01 / 02');
+});
+
+test('help is modal, keyboard accessible, and restores article focus after Escape', async ({ page }) => {
+  const link = page.getByRole('link', { name: 'A small tool for faster local builds' });
+  await link.focus();
+  await page.keyboard.press('Shift+/');
+  const dialog = page.getByRole('dialog', { name: 'KEYBOARD SHORTCUTS' });
+  const close = page.getByRole('button', { name: 'CLOSE' });
+  await expect(dialog).toBeVisible();
+  await expect(close).toBeFocused();
+  await expect(close).toHaveCSS('outline-color', 'rgb(131, 165, 152)');
+  await expect(page.locator('#shortcut-pages')).toBeVisible();
+  await page.keyboard.press('Tab');
+  expect(await page.evaluate(() => {
+    const dialog = document.getElementById('shortcut-help');
+    return document.activeElement === dialog || dialog.contains(document.activeElement);
+  })).toBe(true);
+  await page.keyboard.press('Shift+Tab');
+  expect(await page.evaluate(() => {
+    const dialog = document.getElementById('shortcut-help');
+    return document.activeElement === dialog || dialog.contains(document.activeElement);
+  })).toBe(true);
+  await page.keyboard.press('ArrowRight');
+  await expect(page.locator('#rss-page-indicator')).toHaveText('01 / 02');
+  await page.keyboard.press('Shift+/');
+  await expect(page.locator('dialog[open]')).toHaveCount(1);
+  await page.keyboard.press('Escape');
+  await expect(dialog).toBeHidden();
+  await expect(link).toBeFocused();
+});
+
+test('footer help button and close button restore footer focus', async ({ page }) => {
+  const help = page.getByRole('button', { name: 'Keyboard shortcuts' });
+  await expect(help).toBeVisible();
+  await help.click();
+  await expect(page.getByRole('dialog', { name: 'KEYBOARD SHORTCUTS' })).toBeVisible();
+  await page.getByRole('button', { name: 'CLOSE' }).click();
+  await expect(help).toBeFocused();
+});
+
+test('Escape and help have useful targets with one or zero feeds', async ({ page }) => {
+  const search = page.getByRole('searchbox', { name: 'Search the web' });
+  await page.goto('/one/');
+  await search.press('Escape');
+  await expect(page.getByRole('link', { name: 'A small tool for faster local builds' })).toBeFocused();
+  await page.keyboard.press('Shift+/');
+  await expect(page.locator('#shortcut-pages')).toBeHidden();
+  await page.keyboard.press('Escape');
+  await page.goto('/none/');
+  await search.press('Escape');
+  await expect(page.locator('#rss-heading')).toBeFocused();
+  await page.keyboard.press('Shift+/');
+  await expect(page.getByRole('dialog', { name: 'KEYBOARD SHORTCUTS' })).toBeVisible();
+  await page.keyboard.press('Escape');
+  await expect(page.locator('#rss-heading')).toBeFocused();
+});
+
+test('Escape from search focuses an unavailable feed on the selected RSS page', async ({ page }) => {
+  await page.setViewportSize({ width: 1280, height: 720 });
+  await page.getByRole('button', { name: 'Next RSS page' }).click();
+  const search = page.getByRole('searchbox', { name: 'Search the web' });
+  await search.focus();
+  await search.press('Escape');
+  await expect(page.locator('#feed-longreads')).toBeFocused();
+});
+
+test('help keeps the document fixed and passes axe at desktop viewport sizes', async ({ page }) => {
+  for (const [width, height] of [[1280, 720], [1440, 900], [960, 600]]) {
+    await page.setViewportSize({ width, height });
+    await page.getByRole('button', { name: 'Keyboard shortcuts' }).click();
+    const geometry = await page.evaluate(() => {
+      const dialog = document.getElementById('shortcut-help').getBoundingClientRect();
+      return { documentWidth: document.documentElement.scrollWidth,
+        documentHeight: document.documentElement.scrollHeight,
+        viewportWidth: innerWidth, viewportHeight: innerHeight,
+        dialogTop: dialog.top, dialogBottom: dialog.bottom };
+    });
+    expect(geometry.documentWidth).toBe(width);
+    expect(geometry.documentHeight).toBe(height);
+    expect(geometry.dialogTop).toBeGreaterThanOrEqual(0);
+    expect(geometry.dialogBottom).toBeLessThanOrEqual(height);
+    const results = await new AxeBuilder({ page }).analyze();
+    expect(results.violations).toEqual([]);
+    await page.keyboard.press('Escape');
+  }
+});
+
+test('closing help after resize falls back from a hidden opener to a visible RSS target', async ({ page }) => {
+  await page.setViewportSize({ width: 1440, height: 900 });
+  await page.goto('/many/');
+  await page.locator('#feed-longreads').focus();
+  await page.keyboard.press('Shift+/');
+  await page.setViewportSize({ width: 1280, height: 720 });
+  await expect(page.locator('#rss-page-indicator')).toHaveText('01 / 03');
+  await page.keyboard.press('Escape');
+  await expect(page.getByRole('link', { name: 'A small tool for faster local builds' })).toBeFocused();
+});
+
 test('search selection persists and invalid storage falls back to Google', async ({ page }) => {
   await page.getByRole('button', { name: 'Kagi' }).click();
   await expect(page.getByRole('button', { name: 'Kagi' })).toHaveAttribute('aria-pressed', 'true');
@@ -190,6 +308,8 @@ test('Tab reaches article links and focus is visible', async ({ page }) => {
   const firstArticle = page.getByRole('link', { name: 'A small tool for faster local builds' });
   await expect(firstArticle).toBeFocused();
   await expect(firstArticle).toHaveCSS('outline-style', 'solid');
+  await page.keyboard.press('Shift+Tab');
+  await expect(page.getByRole('button', { name: 'Next RSS page' })).toBeFocused();
 });
 
 test('five feeds paginate at 1280x720 and fit at 1440x900', async ({ page }) => {
@@ -279,6 +399,7 @@ test('all links remain reachable across pages and article lists scroll independe
   await page.getByRole('button', { name: 'Previous RSS page' }).click();
   const first = page.locator('#feed-hn .widget-body');
   const second = page.locator('#feed-lobsters .widget-body');
+  await first.evaluate(() => new Promise(resolve => requestAnimationFrame(() => requestAnimationFrame(resolve))));
   await first.evaluate(el => { el.scrollTop = 100; });
   await expect.poll(() => first.evaluate(el => el.scrollTop)).toBeGreaterThan(0);
   expect(await second.evaluate(el => el.scrollTop)).toBe(0);
@@ -313,6 +434,7 @@ test('static fallback retains every feed when dashboard script is unavailable', 
   await page.reload();
   await expect(page.locator('.widget-grid > .feed-widget')).toHaveCount(5);
   await expect(page.locator('.rss-content')).toHaveCSS('overflow-y', 'auto');
+  await expect(page.locator('#status-help')).toBeHidden();
 });
 
 test('pagination controls pass axe and remain outside hidden content', async ({ page }) => {
@@ -333,6 +455,8 @@ test('status is visible and scripts raise no page errors', async ({ page }) => {
   const status = page.locator('.status-bar');
   await expect(status).toBeVisible();
   await expect(status).toContainText('BUILT 10m ago');
+  await page.getByRole('button', { name: 'Keyboard shortcuts' }).click();
+  await page.keyboard.press('Escape');
   expect(errors).toEqual([]);
 });
 
@@ -359,3 +483,11 @@ test('visual baseline second RSS page at 1280x720', async ({ page }) => {
   await page.getByRole('button', { name: 'Next RSS page' }).click();
   await expect(page.locator('body')).toHaveScreenshot('dashboard-second-page-1280x720.png');
 });
+
+for (const [width, height] of [[1280, 720], [1440, 900], [960, 600]]) {
+  test(`visual baseline keyboard help at ${width}x${height}`, async ({ page }) => {
+    await page.setViewportSize({ width, height });
+    await page.getByRole('button', { name: 'Keyboard shortcuts' }).click();
+    await expect(page).toHaveScreenshot(`keyboard-help-${width}x${height}.png`);
+  });
+}

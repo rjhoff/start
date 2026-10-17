@@ -32,3 +32,7 @@ The generated feed panels remain the source of content. `src/dashboard.js` place
 With JavaScript unavailable, the original generated grid remains scrollable and all feeds remain in the document. If the RSS area is shorter than one usable panel, JavaScript shows a window-size message instead of compressing the panels. The browser fixture server also exposes `/many/`, `/one/`, and `/none/` for deterministic feed-count tests. Its viewport tests reduce CSS viewport dimensions to approximate zoom constraints; they do not change browser zoom itself.
 
 RSS dates are normalized to full UTC ISO timestamps during the build. Generated `<time>` elements show an absolute UTC date without JavaScript and retain an exact UTC date and time in their attributes. One browser timer updates the visible labels once per minute to `now`, minutes, hours, days, or weeks. Missing and invalid dates produce no timestamp. Headline lists use native, individually scrollable panels with thin Gruvbox scrollbars.
+
+## Keyboard use
+
+Search retains autofocus. Outside editable fields, `/` focuses and selects its query, `?` opens native dialog help, and `Escape` in search moves focus to the visible RSS page. Left and right arrows change RSS pages only while focus is in the RSS workspace and another page exists. Tab, Shift+Tab, and Enter retain native browser behavior. The footer help button provides mouse and keyboard access to the same instructions. The dialog closes with Escape or its close button and restores the opener's focus where possible.

@@ -17,8 +17,9 @@
   <main class="workspace">
     <section class="rss-workspace" aria-labelledby="rss-heading">
       <div class="workspace-header">
-        <h2 id="rss-heading">RSS</h2>
+        <h2 id="rss-heading" tabindex="-1">RSS</h2>
         <div class="rss-navigation" id="rss-navigation" hidden>
+          <span class="rss-shortcut-hint" aria-hidden="true">[←→]</span>
           <button type="button" id="rss-previous" aria-label="Previous RSS page">←</button>
           <span id="rss-page-indicator" aria-label="RSS page"></span>
           <button type="button" id="rss-next" aria-label="Next RSS page">→</button>
@@ -46,7 +47,25 @@
   <footer class="status-bar">
     <span class="status-label">START</span>
     <span class="built-at">BUILT <time id="built-at-time" datetime="{{BUILT_AT}}">{{BUILT_AT}}</time></span>
+    <button type="button" class="status-help" id="status-help" aria-label="Keyboard shortcuts" hidden><span aria-hidden="true">[?]</span> HELP</button>
   </footer>
+  <dialog class="shortcut-dialog" id="shortcut-help" aria-labelledby="shortcut-help-heading">
+    <div class="shortcut-dialog-header">
+      <h2 id="shortcut-help-heading">KEYBOARD SHORTCUTS</h2>
+    </div>
+    <dl class="shortcut-list">
+      <div><dt><kbd>/</kbd></dt><dd>Focus search</dd></div>
+      <div><dt><kbd>Esc</kbd></dt><dd>Leave search / close help</dd></div>
+      <div id="shortcut-pages" hidden><dt><kbd>←</kbd> <kbd>→</kbd></dt><dd>RSS pages</dd></div>
+      <div><dt><kbd>Tab</kbd></dt><dd>Next control</dd></div>
+      <div><dt><kbd>Shift+Tab</kbd></dt><dd>Previous control</dd></div>
+      <div><dt><kbd>Enter</kbd></dt><dd>Open / activate</dd></div>
+      <div><dt><kbd>?</kbd></dt><dd>Show help</dd></div>
+    </dl>
+    <div class="shortcut-dialog-footer">
+      <button type="button" id="shortcut-close"><span aria-hidden="true">[Esc]</span> CLOSE</button>
+    </div>
+  </dialog>
   <script>
     (function () {
       var el = document.getElementById('built-at-time');
