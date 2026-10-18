@@ -3,51 +3,39 @@
     "id": "hn",
     "items": [
       {
-        "title": "US threatens Europe over Starlink restrictions",
-        "link": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa",
-        "pubDate": "2026-10-18T19:24:30.000Z",
+        "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+        "link": "https://github.com/finereli/whatsapp-mcp",
+        "pubDate": "2026-10-18T21:36:10.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Personal software factories are a waste of time",
-        "link": "https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/",
-        "pubDate": "2026-10-18T19:02:11.000Z",
+        "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+        "link": "https://arxiv.org/abs/2610.18861",
+        "pubDate": "2026-10-18T20:48:14.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Free Pascal Compiler Now Supports Dynamic Packages",
+        "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
+        "link": "https://github.com/Netflix/vmaf",
+        "pubDate": "2026-10-18T20:43:40.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Free Pascal compiler now supports dynamic packages",
         "link": "https://www.getlazarus.org/dynamic/",
         "pubDate": "2026-10-18T18:48:04.000Z",
         "feedId": "hn"
       },
       {
-        "title": "HOA's are making the home crisis worse",
+        "title": "Florida's HOAs and condo associations are making the housing crisis worse",
         "link": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
         "pubDate": "2026-10-18T18:40:16.000Z",
         "feedId": "hn"
       },
       {
-        "title": "CFPB Opens Debanking Investigation into Nine Large National Banks",
-        "link": "https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/",
-        "pubDate": "2026-10-18T18:26:40.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Investing in the Public Benefit",
-        "link": "https://www.anthropic.com/news/public-benefit-fund",
-        "pubDate": "2026-10-18T18:15:10.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "PalmOS Lemmings by Aaron Ardiri",
+        "title": "PalmOS Lemmings",
         "link": "https://github.com/ardiri/palmos-lemmings",
         "pubDate": "2026-10-18T17:56:59.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Mitos editor is a fork of Helix",
-        "link": "https://mitos.computer/",
-        "pubDate": "2026-10-18T17:19:34.000Z",
         "feedId": "hn"
       },
       {
@@ -69,27 +57,39 @@
         "feedId": "hn"
       },
       {
-        "title": "macOS 15.8.2 Breaks OpenGL",
-        "link": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
-        "pubDate": "2026-10-18T15:26:06.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Will it be a golden age or a dark age for mathematics (and science)?",
-        "link": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
-        "pubDate": "2026-10-18T15:00:40.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Java sealed classes and exhaustive pattern matching",
         "link": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
         "pubDate": "2026-10-18T14:47:37.000Z",
         "feedId": "hn"
       },
       {
+        "title": "Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN",
+        "link": "https://ranet3.com/",
+        "pubDate": "2026-10-18T14:31:52.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "RepRapMicron",
         "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
         "pubDate": "2026-10-18T13:48:48.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+        "link": "https://legendofhyrule.com/",
+        "pubDate": "2026-10-18T13:06:54.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+        "link": "https://github.com/0x23/MicroManipulatorStepper",
+        "pubDate": "2026-10-18T11:16:22.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Parser Combinators",
+        "link": "https://t3.at/blog/2026-10-17-parser-combinators/",
+        "pubDate": "2026-10-18T08:19:53.000Z",
         "feedId": "hn"
       }
     ]
@@ -116,9 +116,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Brain Sandwich",
-        "link": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
-        "pubDate": "2026-10-18T03:03:36.000Z",
+        "title": "Men in tech #YesAllMen",
+        "link": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+        "pubDate": "2026-10-18T18:35:01.000Z",
         "feedId": "lobsters"
       },
       {
@@ -128,51 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Men in tech #YesAllMen",
-        "link": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
-        "pubDate": "2026-10-18T18:35:01.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "My obituary for programming",
-        "link": "https://dumbmatter.com/2026/10/programming-obituary/",
-        "pubDate": "2026-10-18T16:44:36.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Inside the Intel 8087 chip: floating-point addition and subtraction",
-        "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
-        "pubDate": "2026-10-18T17:59:21.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Ghidra + CBMC = Assembly Model Checker",
-        "link": "https://www.philipzucker.com/asmc_cpp/",
-        "pubDate": "2026-10-18T16:58:24.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Algorithmic Sound Design with L-Systems and Granular Synthesis",
-        "link": "https://nathanho.me/posts/evograin/",
-        "pubDate": "2026-10-18T12:06:05.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "QML for C & Zig",
-        "link": "https://gist.github.com/rcalixte/d2de5c816fc1de3970cc501b5ae9706e",
-        "pubDate": "2026-10-18T19:10:04.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
-        "link": "https://words.filippo.io/seeds-solved/",
-        "pubDate": "2026-10-16T20:18:36.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "It's time to talk about TEEs",
-        "link": "https://alinush.github.io//tee",
-        "pubDate": "2026-10-18T03:00:39.000Z",
+        "title": "The Brain Sandwich",
+        "link": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+        "pubDate": "2026-10-18T03:03:36.000Z",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +140,51 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Using timers to perform weekly tasks",
-        "link": "https://mbork.pl/2026-10-17_Using_timers_to_perform_weekly_tasks",
-        "pubDate": "2026-10-18T14:52:34.000Z",
+        "title": "Inside the Intel 8087 chip: floating-point addition and subtraction",
+        "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+        "pubDate": "2026-10-18T17:59:21.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "My obituary for programming",
+        "link": "https://dumbmatter.com/2026/10/programming-obituary/",
+        "pubDate": "2026-10-18T16:44:36.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "QML for C & Zig",
+        "link": "https://gist.github.com/rcalixte/d2de5c816fc1de3970cc501b5ae9706e",
+        "pubDate": "2026-10-18T19:10:04.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Ghidra + CBMC = Assembly Model Checker",
+        "link": "https://www.philipzucker.com/asmc_cpp/",
+        "pubDate": "2026-10-18T16:58:24.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How Discover-Tech turned targeted ads into a pipeline for zero-click spywares",
+        "link": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+        "pubDate": "2026-10-18T20:55:02.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Algorithmic Sound Design with L-Systems and Granular Synthesis",
+        "link": "https://nathanho.me/posts/evograin/",
+        "pubDate": "2026-10-18T12:06:05.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Real-time Software On Linux: How Hard Can It Be?",
+        "link": "https://www.youtube.com/watch?v=-0D0rFdU6HY",
+        "pubDate": "2026-10-18T19:45:33.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Problem with C++ Safety: Why “It Works” Isn’t Good Enough",
+        "link": "https://www.modernescpp.com/index.php/cpp-and-memory-safety-part-1/",
+        "pubDate": "2026-10-18T16:10:47.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -288,15 +288,21 @@
     "id": "axios",
     "items": [
       {
-        "title": "95% of MAGA Republicans approve of Trump. For non-MAGA Republicans, it's 47%.",
-        "link": "https://www.axios.com/2026/10/18/trump-approval-polls-maga-gop-midterms-2026",
-        "pubDate": "2026-10-18T19:53:17.000Z",
+        "title": "Rivals pile on Beshear over his resistance to Latinos' push for Texas funds",
+        "link": "https://www.axios.com/2026/10/18/beshear-rivals-latinos-texas-funding",
+        "pubDate": "2026-10-18T21:45:07.000Z",
         "feedId": "axios"
       },
       {
         "title": "Zelensky speaks to Witkoff, Kushner amid U.S.-Ukraine crisis",
         "link": "https://www.axios.com/2026/10/18/zelensky-witkoff-kushner-ukraine-russia-crisis",
-        "pubDate": "2026-10-18T18:04:23.000Z",
+        "pubDate": "2026-10-18T20:51:10.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "95% of MAGA Republicans approve of Trump. For non-MAGA Republicans, it's 47%.",
+        "link": "https://www.axios.com/2026/10/18/trump-approval-polls-maga-gop-midterms-2026",
+        "pubDate": "2026-10-18T19:53:17.000Z",
         "feedId": "axios"
       },
       {
@@ -369,12 +375,6 @@
         "title": "Trump ratchets up the chaos in an October barrage",
         "link": "https://www.axios.com/2026/10/17/trump-october-midterms-controversy",
         "pubDate": "2026-10-17T12:40:07.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: Musk tells Isaacson \"AI and robots\" will need to fix deficit",
-        "link": "https://www.axios.com/2026/10/17/elon-musk-doge-walter-isaacson-podcast",
-        "pubDate": "2026-10-17T12:23:16.000Z",
         "feedId": "axios"
       }
     ]
