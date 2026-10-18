@@ -3,13 +3,61 @@
     "id": "hn",
     "items": [
       {
-        "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
-        "link": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
-        "pubDate": "2026-10-18T17:27:30.000Z",
+        "title": "US threatens Europe over Starlink restrictions",
+        "link": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa",
+        "pubDate": "2026-10-18T19:24:30.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Someone Behind the Software",
+        "title": "Personal software factories are a waste of time",
+        "link": "https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/",
+        "pubDate": "2026-10-18T19:02:11.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Free Pascal Compiler Now Supports Dynamic Packages",
+        "link": "https://www.getlazarus.org/dynamic/",
+        "pubDate": "2026-10-18T18:48:04.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "HOA's are making the home crisis worse",
+        "link": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+        "pubDate": "2026-10-18T18:40:16.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "CFPB Opens Debanking Investigation into Nine Large National Banks",
+        "link": "https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/",
+        "pubDate": "2026-10-18T18:26:40.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Investing in the Public Benefit",
+        "link": "https://www.anthropic.com/news/public-benefit-fund",
+        "pubDate": "2026-10-18T18:15:10.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "PalmOS Lemmings by Aaron Ardiri",
+        "link": "https://github.com/ardiri/palmos-lemmings",
+        "pubDate": "2026-10-18T17:56:59.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Mitos editor is a fork of Helix",
+        "link": "https://mitos.computer/",
+        "pubDate": "2026-10-18T17:19:34.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Namecheap just seized and disabled all my domains",
+        "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+        "pubDate": "2026-10-18T16:56:56.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Someone behind the software",
         "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
         "pubDate": "2026-10-18T16:32:00.000Z",
         "feedId": "hn"
@@ -33,12 +81,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Websites are closing their doors to AI agents",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-        "pubDate": "2026-10-18T14:58:10.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Java sealed classes and exhaustive pattern matching",
         "link": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
         "pubDate": "2026-10-18T14:47:37.000Z",
@@ -48,48 +90,6 @@
         "title": "RepRapMicron",
         "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
         "pubDate": "2026-10-18T13:48:48.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Electronic Disturbance Theater and Electronic Civil Disobedience (1998)",
-        "link": "https://www.thing.net/~rdom/ecd/EDTECD.html",
-        "pubDate": "2026-10-18T13:41:06.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-        "link": "https://legendofhyrule.com/",
-        "pubDate": "2026-10-18T13:06:54.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-        "link": "https://www.vals.ai/blogs/impossible-refund",
-        "pubDate": "2026-10-18T12:22:58.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
-        "link": "https://github.com/0x23/MicroManipulatorStepper",
-        "pubDate": "2026-10-18T11:16:22.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Brain Sandwich",
-        "link": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
-        "pubDate": "2026-10-18T11:15:37.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
-        "link": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
-        "pubDate": "2026-10-18T10:21:51.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Parser Combinators",
-        "link": "https://t3.at/blog/2026-10-17-parser-combinators/",
-        "pubDate": "2026-10-18T08:19:53.000Z",
         "feedId": "hn"
       }
     ]
@@ -128,9 +128,39 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Men in tech #YesAllMen",
+        "link": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+        "pubDate": "2026-10-18T18:35:01.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "My obituary for programming",
+        "link": "https://dumbmatter.com/2026/10/programming-obituary/",
+        "pubDate": "2026-10-18T16:44:36.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Inside the Intel 8087 chip: floating-point addition and subtraction",
+        "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+        "pubDate": "2026-10-18T17:59:21.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Ghidra + CBMC = Assembly Model Checker",
+        "link": "https://www.philipzucker.com/asmc_cpp/",
+        "pubDate": "2026-10-18T16:58:24.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Algorithmic Sound Design with L-Systems and Granular Synthesis",
         "link": "https://nathanho.me/posts/evograin/",
         "pubDate": "2026-10-18T12:06:05.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "QML for C & Zig",
+        "link": "https://gist.github.com/rcalixte/d2de5c816fc1de3970cc501b5ae9706e",
+        "pubDate": "2026-10-18T19:10:04.000Z",
         "feedId": "lobsters"
       },
       {
@@ -146,45 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Ghidra + CBMC = Assembly Model Checker",
-        "link": "https://www.philipzucker.com/asmc_cpp/",
-        "pubDate": "2026-10-18T16:58:24.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "My obituary for programming",
-        "link": "https://dumbmatter.com/2026/10/programming-obituary/",
-        "pubDate": "2026-10-18T16:44:36.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Making Hybrid Images (2014)",
-        "link": "https://www.jeremykun.com/2014/09/29/hybrid-images/",
-        "pubDate": "2026-10-18T03:13:10.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "It took me nine years to hack my Xbox 360",
-        "link": "https://kennedn.com/blog/posts/glitching/",
-        "pubDate": "2026-10-17T16:13:32.000Z",
+        "title": "Outside the Scope of Our Support",
+        "link": "https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/",
+        "pubDate": "2026-10-18T18:52:01.000Z",
         "feedId": "lobsters"
       },
       {
         "title": "Using timers to perform weekly tasks",
         "link": "https://mbork.pl/2026-10-17_Using_timers_to_perform_weekly_tasks",
         "pubDate": "2026-10-18T14:52:34.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Intuitive concurrent programming in any language",
-        "link": "https://www.lf-lang.org/",
-        "pubDate": "2026-10-17T12:17:20.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Un-hanging the HP Envy 17-DA0013dx for OpenBSD",
-        "link": "https://darwinsys.com/blog/20260925-hp-envy-17/",
-        "pubDate": "2026-10-18T07:42:41.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,18 @@
     "id": "axios",
     "items": [
       {
+        "title": "95% of MAGA Republicans approve of Trump. For non-MAGA Republicans, it's 47%.",
+        "link": "https://www.axios.com/2026/10/18/trump-approval-polls-maga-gop-midterms-2026",
+        "pubDate": "2026-10-18T19:53:17.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Zelensky speaks to Witkoff, Kushner amid U.S.-Ukraine crisis",
+        "link": "https://www.axios.com/2026/10/18/zelensky-witkoff-kushner-ukraine-russia-crisis",
+        "pubDate": "2026-10-18T18:04:23.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "Wright calls Trump's diesel deal a peace incentive. Rubio says Russia would sell anyway.",
         "link": "https://www.axios.com/2026/10/18/trump-russia-diesel-deal-rubio-wright-sanctions",
         "pubDate": "2026-10-18T17:33:38.000Z",
@@ -303,12 +315,6 @@
         "title": "Trump once questioned Obama's citizenship. Now Obama is speaking out for Ilhan Omar.",
         "link": "https://www.axios.com/2026/10/18/obama-trump-ilhan-omar-citizenship-investigation-copy-package",
         "pubDate": "2026-10-18T16:04:53.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Zelensky speaks to Witkoff, Kushner amid U.S.-Ukraine crisis",
-        "link": "https://www.axios.com/2026/10/18/zelensky-witkoff-kushner-ukraine-russia-crisis",
-        "pubDate": "2026-10-18T15:05:51.000Z",
         "feedId": "axios"
       },
       {
@@ -369,12 +375,6 @@
         "title": "Exclusive: Musk tells Isaacson \"AI and robots\" will need to fix deficit",
         "link": "https://www.axios.com/2026/10/17/elon-musk-doge-walter-isaacson-podcast",
         "pubDate": "2026-10-17T12:23:16.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Black voters test the socialist left's ceiling",
-        "link": "https://www.axios.com/2026/10/17/black-voters-democratic-socialists",
-        "pubDate": "2026-10-17T12:20:07.000Z",
         "feedId": "axios"
       }
     ]
