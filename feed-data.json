@@ -3,19 +3,43 @@
     "id": "hn",
     "items": [
       {
-        "title": "A Mole Infiltrated the Highest Ranks of American Militias",
+        "title": "Parser Combinators",
+        "link": "https://t3.at/blog/2026-10-17-parser-combinators/",
+        "pubDate": "2026-10-18T08:19:53.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+        "link": "https://api-docs.deepseek.com/guides/search/",
+        "pubDate": "2026-10-18T06:50:36.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
+        "link": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+        "pubDate": "2026-10-18T05:09:14.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
         "link": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
         "pubDate": "2026-10-18T04:59:24.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+        "title": "Notes on the Complex Roots of Unity",
+        "link": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+        "pubDate": "2026-10-18T04:49:31.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
         "link": "https://sphinx-six-theta.vercel.app/",
         "pubDate": "2026-10-18T04:33:49.000Z",
         "feedId": "hn"
       },
       {
-        "title": "How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+        "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
         "link": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
         "pubDate": "2026-10-18T03:19:49.000Z",
         "feedId": "hn"
@@ -33,21 +57,9 @@
         "feedId": "hn"
       },
       {
-        "title": "I Became a Citizen of Japan",
-        "link": "https://www.derekwessman.com/blog-1/natural",
-        "pubDate": "2026-10-17T17:36:17.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Gold is now the top U.S. export",
         "link": "https://www.numismaticnews.net/gold-now-top-u-s-export",
         "pubDate": "2026-10-17T17:06:07.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
-        "link": "https://www.artie.com/careers",
-        "pubDate": "2026-10-17T17:02:50.000Z",
         "feedId": "hn"
       },
       {
@@ -78,18 +90,6 @@
         "title": "Show HN: High-quality duck audio synthesizer",
         "link": "https://celphase.github.io/duck-pond/",
         "pubDate": "2026-10-17T13:28:46.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Interactive Linear Programming in the Browser",
-        "link": "https://lpviz.net/",
-        "pubDate": "2026-10-17T12:06:44.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "DeepSeek-v4.1-Flash-1017",
-        "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "pubDate": "2026-10-17T08:21:25.000Z",
         "feedId": "hn"
       }
     ]
