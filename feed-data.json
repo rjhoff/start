@@ -3,27 +3,27 @@
     "id": "hn",
     "items": [
       {
-        "title": "JDK 28",
-        "link": "https://openjdk.org/projects/jdk/28/",
-        "pubDate": "2026-10-17T21:37:07.000Z",
+        "title": "A Mole Infiltrated the Highest Ranks of American Militias",
+        "link": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+        "pubDate": "2026-10-18T04:59:24.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
-        "link": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
-        "pubDate": "2026-10-17T20:07:33.000Z",
+        "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+        "link": "https://sphinx-six-theta.vercel.app/",
+        "pubDate": "2026-10-18T04:33:49.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Microsoft and CMU team up to train early career software engineers",
-        "link": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-        "pubDate": "2026-10-17T18:45:07.000Z",
+        "title": "How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+        "link": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+        "pubDate": "2026-10-18T03:19:49.000Z",
         "feedId": "hn"
       },
       {
-        "title": "OpenCode Hacked: User credentials leaked",
-        "link": "https://twitter.com/opencode/status/2111516673953935833",
-        "pubDate": "2026-10-17T18:01:41.000Z",
+        "title": "NY announces game ownership bill requiring ownership rather than licensing",
+        "link": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+        "pubDate": "2026-10-18T00:14:22.000Z",
         "feedId": "hn"
       },
       {
@@ -81,9 +81,9 @@
         "feedId": "hn"
       },
       {
-        "title": "The future of programming (1982)",
-        "link": "https://dl.acm.org/doi/10.1145/358453.358459",
-        "pubDate": "2026-10-17T11:20:52.000Z",
+        "title": "Interactive Linear Programming in the Browser",
+        "link": "https://lpviz.net/",
+        "pubDate": "2026-10-17T12:06:44.000Z",
         "feedId": "hn"
       },
       {
@@ -96,98 +96,8 @@
   },
   "lobsters": {
     "id": "lobsters",
-    "items": [
-      {
-        "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
-        "link": "https://words.filippo.io/seeds-solved/",
-        "pubDate": "2026-10-16T20:18:36.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Intuitive concurrent programming in any language",
-        "link": "https://www.lf-lang.org/",
-        "pubDate": "2026-10-17T12:17:20.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
-        "link": "https://maevyn.codes/decoherence",
-        "pubDate": "2026-10-16T16:36:29.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "It took me nine years to hack my Xbox 360",
-        "link": "https://kennedn.com/blog/posts/glitching/",
-        "pubDate": "2026-10-17T16:13:32.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Interactive refactoring in gopls",
-        "link": "https://go.dev/blog/interactive-refactoring",
-        "pubDate": "2026-10-17T01:12:09.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The road to iroh 1.0",
-        "link": "https://www.iroh.computer/blog/the-road-to-iroh-1-0",
-        "pubDate": "2026-10-16T12:02:05.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why are we even doing all this?",
-        "link": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
-        "pubDate": "2026-10-16T05:28:29.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Do you let LLMs write both your tests and your code?",
-        "link": "https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your",
-        "pubDate": "2026-10-16T23:53:05.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Introducing GNOME OS Preview",
-        "link": "https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/",
-        "pubDate": "2026-10-16T18:25:15.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Getting Canceled",
-        "link": "https://www.youtube.com/watch?v=5zIOfBLQ3U4",
-        "pubDate": "2026-10-16T18:54:16.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)",
-        "link": "https://pwn.ai/blog/pwnescape",
-        "pubDate": "2026-10-17T18:24:39.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Abolish AI! Manifesto",
-        "link": "https://abolish-ai.net/abolish-ai-a-manifesto/",
-        "pubDate": "2026-10-17T18:25:58.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Making a 88x31 button book using ImageMagick",
-        "link": "https://k.sosnierz.me/08-11-24/",
-        "pubDate": "2026-10-16T11:21:12.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Some quick thoughts on Unit Testing ActivityPub",
-        "link": "https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/",
-        "pubDate": "2026-10-17T06:12:46.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Linus Torvalds on AI-assisted kernel contributions",
-        "link": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
-        "pubDate": "2026-10-16T02:50:33.000Z",
-        "feedId": "lobsters"
-      }
-    ]
+    "error": "Status code 500",
+    "items": []
   },
   "arstechnica": {
     "id": "arstechnica",
