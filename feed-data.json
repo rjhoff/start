@@ -3,15 +3,69 @@
     "id": "hn",
     "items": [
       {
+        "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
+        "link": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
+        "pubDate": "2026-10-18T17:27:30.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Someone Behind the Software",
+        "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+        "pubDate": "2026-10-18T16:32:00.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Intel 8087 chip: floating-point addition and subtraction",
+        "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+        "pubDate": "2026-10-18T16:20:27.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "macOS 15.8.2 Breaks OpenGL",
+        "link": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+        "pubDate": "2026-10-18T15:26:06.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Will it be a golden age or a dark age for mathematics (and science)?",
+        "link": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
+        "pubDate": "2026-10-18T15:00:40.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Websites are closing their doors to AI agents",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+        "pubDate": "2026-10-18T14:58:10.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Java sealed classes and exhaustive pattern matching",
+        "link": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+        "pubDate": "2026-10-18T14:47:37.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "RepRapMicron",
         "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
         "pubDate": "2026-10-18T13:48:48.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Gen Z Is the First Generation Dumber Than Their Parents",
-        "link": "https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/",
-        "pubDate": "2026-10-18T13:45:25.000Z",
+        "title": "The Electronic Disturbance Theater and Electronic Civil Disobedience (1998)",
+        "link": "https://www.thing.net/~rdom/ecd/EDTECD.html",
+        "pubDate": "2026-10-18T13:41:06.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+        "link": "https://legendofhyrule.com/",
+        "pubDate": "2026-10-18T13:06:54.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+        "link": "https://www.vals.ai/blogs/impossible-refund",
+        "pubDate": "2026-10-18T12:22:58.000Z",
         "feedId": "hn"
       },
       {
@@ -37,60 +91,6 @@
         "link": "https://t3.at/blog/2026-10-17-parser-combinators/",
         "pubDate": "2026-10-18T08:19:53.000Z",
         "feedId": "hn"
-      },
-      {
-        "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-        "link": "https://api-docs.deepseek.com/guides/search/",
-        "pubDate": "2026-10-18T06:50:36.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-        "link": "https://sphinx-six-theta.vercel.app/",
-        "pubDate": "2026-10-18T04:33:49.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-        "link": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-        "pubDate": "2026-10-18T03:19:49.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "NY announces game ownership bill requiring ownership rather than licensing",
-        "link": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-        "pubDate": "2026-10-18T00:14:22.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Codex Desktop continuously generates Crashpad pending dumps",
-        "link": "https://github.com/openai/codex/issues/25921",
-        "pubDate": "2026-10-17T17:45:08.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Gold is now the top U.S. export",
-        "link": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-        "pubDate": "2026-10-17T17:06:07.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Pele – Mermaid diagrams as themeable SVG",
-        "link": "https://pele.run/",
-        "pubDate": "2026-10-17T15:55:09.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Making chicken transparent using Dorito dust",
-        "link": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-        "pubDate": "2026-10-17T13:55:28.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: High-quality duck audio synthesizer",
-        "link": "https://celphase.github.io/duck-pond/",
-        "pubDate": "2026-10-17T13:28:46.000Z",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,21 +104,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Brain Sandwich",
-        "link": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
-        "pubDate": "2026-10-18T03:03:36.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "ARP! Tell your network to explain itself",
         "link": "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/",
         "pubDate": "2026-10-18T12:48:02.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
-        "link": "https://words.filippo.io/seeds-solved/",
-        "pubDate": "2026-10-16T20:18:36.000Z",
+        "title": "A New Way to Think About Borrow Checking (In Reverse)",
+        "link": "https://verdagon.dev/blog/reverse-borrow-checking",
+        "pubDate": "2026-10-18T14:29:16.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Brain Sandwich",
+        "link": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+        "pubDate": "2026-10-18T03:03:36.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "High performance policy routed IPsec mesh SD-WAN",
+        "link": "https://ranet3.com/",
+        "pubDate": "2026-10-18T14:36:52.000Z",
         "feedId": "lobsters"
       },
       {
@@ -128,9 +134,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+        "link": "https://words.filippo.io/seeds-solved/",
+        "pubDate": "2026-10-16T20:18:36.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "It's time to talk about TEEs",
         "link": "https://alinush.github.io//tee",
         "pubDate": "2026-10-18T03:00:39.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Ghidra + CBMC = Assembly Model Checker",
+        "link": "https://www.philipzucker.com/asmc_cpp/",
+        "pubDate": "2026-10-18T16:58:24.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "My obituary for programming",
+        "link": "https://dumbmatter.com/2026/10/programming-obituary/",
+        "pubDate": "2026-10-18T16:44:36.000Z",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +170,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Intuitive concurrent programming in any language",
-        "link": "https://www.lf-lang.org/",
-        "pubDate": "2026-10-17T12:17:20.000Z",
+        "title": "Using timers to perform weekly tasks",
+        "link": "https://mbork.pl/2026-10-17_Using_timers_to_perform_weekly_tasks",
+        "pubDate": "2026-10-18T14:52:34.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)",
-        "link": "https://pwn.ai/blog/pwnescape",
-        "pubDate": "2026-10-17T18:24:39.000Z",
+        "title": "Intuitive concurrent programming in any language",
+        "link": "https://www.lf-lang.org/",
+        "pubDate": "2026-10-17T12:17:20.000Z",
         "feedId": "lobsters"
       },
       {
@@ -162,36 +186,18 @@
         "link": "https://darwinsys.com/blog/20260925-hp-envy-17/",
         "pubDate": "2026-10-18T07:42:41.000Z",
         "feedId": "lobsters"
-      },
-      {
-        "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
-        "link": "https://maevyn.codes/decoherence",
-        "pubDate": "2026-10-16T16:36:29.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Abolish AI! Manifesto",
-        "link": "https://abolish-ai.net/abolish-ai-a-manifesto/",
-        "pubDate": "2026-10-17T18:25:58.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Interactive refactoring in gopls",
-        "link": "https://go.dev/blog/interactive-refactoring",
-        "pubDate": "2026-10-17T01:12:09.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Do you let LLMs write both your tests and your code?",
-        "link": "https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your",
-        "pubDate": "2026-10-16T23:53:05.000Z",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Anthropic gives outside AI watchdog “employee-like” access",
+        "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+        "pubDate": "2026-10-18T16:25:19.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Science says your boss should talk less in meetings",
         "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
@@ -275,18 +281,36 @@
         "link": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
         "pubDate": "2026-10-16T10:00:54.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Googlebook review: Android on a laptop is still Android",
-        "link": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/",
-        "pubDate": "2026-10-16T10:00:32.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Wright calls Trump's diesel deal a peace incentive. Rubio says Russia would sell anyway.",
+        "link": "https://www.axios.com/2026/10/18/trump-russia-diesel-deal-rubio-wright-sanctions",
+        "pubDate": "2026-10-18T17:33:38.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump tells Axios why he endorsed Netanyahu's reelection",
+        "link": "https://www.axios.com/2026/10/18/trump-endorses-netanyahu-israel-election-iran",
+        "pubDate": "2026-10-18T17:32:51.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump once questioned Obama's citizenship. Now Obama is speaking out for Ilhan Omar.",
+        "link": "https://www.axios.com/2026/10/18/obama-trump-ilhan-omar-citizenship-investigation-copy-package",
+        "pubDate": "2026-10-18T16:04:53.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Zelensky speaks to Witkoff, Kushner amid U.S.-Ukraine crisis",
+        "link": "https://www.axios.com/2026/10/18/zelensky-witkoff-kushner-ukraine-russia-crisis",
+        "pubDate": "2026-10-18T15:05:51.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Decades-old GOP winning streaks are suddenly at risk",
         "link": "https://www.axios.com/2026/10/18/democrat-2026-republican-winning-streak-kansas",
@@ -351,30 +375,6 @@
         "title": "Black voters test the socialist left's ceiling",
         "link": "https://www.axios.com/2026/10/17/black-voters-democratic-socialists",
         "pubDate": "2026-10-17T12:20:07.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Katie Zacharia ousted as White House press secretary",
-        "link": "https://www.axios.com/2026/10/16/trump-katie-zacharia-press-secretary",
-        "pubDate": "2026-10-17T01:15:45.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Iran-backed militias sending money back to cash-starved IRGC, U.S. says",
-        "link": "https://www.axios.com/2026/10/16/iran-backed-militias-sending-money-irgc-centcom",
-        "pubDate": "2026-10-16T20:22:57.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Hill leaders brace for miserable 2027",
-        "link": "https://www.axios.com/2026/10/16/congress-hill-leaders-johnson-thune-jeffries-schumer",
-        "pubDate": "2026-10-16T19:47:24.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "ICE shooting leads to rare Jeffries-Mamdani collaboration",
-        "link": "https://www.axios.com/2026/10/16/ice-shooting-mamdani-jeffries-schumer-new-york",
-        "pubDate": "2026-10-16T19:33:20.000Z",
         "feedId": "axios"
       }
     ]
