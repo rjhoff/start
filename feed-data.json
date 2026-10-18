@@ -3,21 +3,21 @@
     "id": "hn",
     "items": [
       {
+        "title": "JDK 28",
+        "link": "https://openjdk.org/projects/jdk/28/",
+        "pubDate": "2026-10-17T21:37:07.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
         "link": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
         "pubDate": "2026-10-17T20:07:33.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
+        "title": "Microsoft and CMU team up to train early career software engineers",
         "link": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
         "pubDate": "2026-10-17T18:45:07.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Pattern matching beats narrative reasoning",
-        "link": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
-        "pubDate": "2026-10-17T18:34:13.000Z",
         "feedId": "hn"
       },
       {
@@ -36,12 +36,6 @@
         "title": "I Became a Citizen of Japan",
         "link": "https://www.derekwessman.com/blog-1/natural",
         "pubDate": "2026-10-17T17:36:17.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Development statistics for the 7.2 kernel",
-        "link": "https://lwn.net/Articles/1088776/",
-        "pubDate": "2026-10-17T17:14:12.000Z",
         "feedId": "hn"
       },
       {
@@ -90,6 +84,12 @@
         "title": "The future of programming (1982)",
         "link": "https://dl.acm.org/doi/10.1145/358453.358459",
         "pubDate": "2026-10-17T11:20:52.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "DeepSeek-v4.1-Flash-1017",
+        "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "pubDate": "2026-10-17T08:21:25.000Z",
         "feedId": "hn"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Zelensky says Musk-owned satellite system still restricted in Ukraine",
+        "link": "https://www.axios.com/2026/10/17/zelensky-starlink-elon-musk-trump",
+        "pubDate": "2026-10-17T23:26:59.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump's Russia waiver draws instant bipartisan backlash",
         "link": "https://www.axios.com/2026/10/17/trump-russia-waiver-putin-republicans-democrats",
         "pubDate": "2026-10-17T19:18:15.000Z",
@@ -297,12 +303,6 @@
         "title": "Trump waives new Russia sanctions in the \"national interests\"",
         "link": "https://www.axios.com/2026/10/17/trump-russia-sanctions",
         "pubDate": "2026-10-17T17:20:45.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Zelensky says Musk-owned satellite system still restricted in Ukraine",
-        "link": "https://www.axios.com/2026/10/17/zelensky-starlink-elon-musk-trump",
-        "pubDate": "2026-10-17T14:40:21.000Z",
         "feedId": "axios"
       },
       {
