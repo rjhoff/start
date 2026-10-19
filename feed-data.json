@@ -3,15 +3,57 @@
     "id": "hn",
     "items": [
       {
+        "title": "DeepSeek V4.1 Flash 1017 (Max)",
+        "link": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+        "pubDate": "2026-10-19T04:41:46.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Verisign .com Domain Name Registry Consumer Class Action",
+        "link": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
+        "pubDate": "2026-10-19T04:40:18.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally",
+        "link": "https://github.com/strot-ai/Project-STROT",
+        "pubDate": "2026-10-19T04:32:07.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Yila – A Codex for Scientific Research",
+        "link": "https://yila.ai",
+        "pubDate": "2026-10-19T04:24:57.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Superlite: A Faster Alternatie to Superpowers",
+        "link": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+        "pubDate": "2026-10-19T02:01:16.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
+        "link": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
+        "pubDate": "2026-10-19T01:55:03.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Sanity's Edge – A voice BBS from 1994",
+        "link": "https://sanitys-edge.shouden.us",
+        "pubDate": "2026-10-19T00:30:34.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "William Gibson and the trademarking of cyberspace",
         "link": "https://colo.to/cyberspace.html",
         "pubDate": "2026-10-18T23:37:57.000Z",
         "feedId": "hn"
       },
       {
-        "title": "How RC2's π table was made",
-        "link": "https://khalidhamadeh.com/writing/rc2-pi-table",
-        "pubDate": "2026-10-18T22:48:07.000Z",
+        "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+        "link": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+        "pubDate": "2026-10-18T23:37:54.000Z",
         "feedId": "hn"
       },
       {
@@ -45,51 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "What the heck is /pkg?",
-        "link": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
-        "pubDate": "2026-10-18T17:21:23.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Namecheap just seized and disabled all my domains",
-        "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-        "pubDate": "2026-10-18T16:56:56.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Someone behind the software",
         "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
         "pubDate": "2026-10-18T16:32:00.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Intel 8087 chip: floating-point addition and subtraction",
-        "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
-        "pubDate": "2026-10-18T16:20:27.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Java sealed classes and exhaustive pattern matching",
-        "link": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
-        "pubDate": "2026-10-18T14:47:37.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "RepRapMicron",
-        "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
-        "pubDate": "2026-10-18T13:48:48.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-        "link": "https://legendofhyrule.com/",
-        "pubDate": "2026-10-18T13:06:54.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "A new way to think about borrow checking (in reverse)",
-        "link": "https://verdagon.dev/blog/reverse-borrow-checking",
-        "pubDate": "2026-10-18T12:11:13.000Z",
         "feedId": "hn"
       }
     ]
@@ -97,6 +97,12 @@
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "Updates to site guidelines and AI/LLM tags",
+        "link": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
+        "pubDate": "2026-10-19T01:28:53.000Z",
+        "feedId": "lobsters"
+      },
       {
         "title": "It's enough - vibecoding tag crossed from useless to harmful",
         "link": "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from",
@@ -128,21 +134,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Superoptimizing an FPU emulator",
+        "link": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
+        "pubDate": "2026-10-18T23:51:14.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "My obituary for programming",
         "link": "https://dumbmatter.com/2026/10/programming-obituary/",
         "pubDate": "2026-10-18T16:44:36.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "High performance policy routed IPsec mesh SD-WAN",
-        "link": "https://ranet3.com/",
-        "pubDate": "2026-10-18T14:36:52.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Brain Sandwich",
-        "link": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
-        "pubDate": "2026-10-18T03:03:36.000Z",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Inside the Intel 8087 chip: floating-point addition and subtraction",
-        "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
-        "pubDate": "2026-10-18T17:59:21.000Z",
+        "title": "High performance policy routed IPsec mesh SD-WAN",
+        "link": "https://ranet3.com/",
+        "pubDate": "2026-10-18T14:36:52.000Z",
         "feedId": "lobsters"
       },
       {
@@ -164,9 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Superoptimizing an FPU emulator",
-        "link": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
-        "pubDate": "2026-10-18T23:51:14.000Z",
+        "title": "What the heck is /pkg?",
+        "link": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
+        "pubDate": "2026-10-19T03:26:51.000Z",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Ghidra + CBMC = Assembly Model Checker",
-        "link": "https://www.philipzucker.com/asmc_cpp/",
-        "pubDate": "2026-10-18T16:58:24.000Z",
+        "title": "Inside the Intel 8087 chip: floating-point addition and subtraction",
+        "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+        "pubDate": "2026-10-18T17:59:21.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Real-time Software On Linux: How Hard Can It Be?",
-        "link": "https://www.youtube.com/watch?v=-0D0rFdU6HY",
-        "pubDate": "2026-10-18T19:45:33.000Z",
+        "title": "The Brain Sandwich",
+        "link": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+        "pubDate": "2026-10-18T03:03:36.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -294,7 +294,7 @@
         "feedId": "axios"
       },
       {
-        "title": "Zelensky speaks to Witkoff, Kushner amid U.S.-Ukraine crisis",
+        "title": "Zelensky speaks to Witkoff and Kushner amid U.S.-Ukraine crisis",
         "link": "https://www.axios.com/2026/10/18/zelensky-witkoff-kushner-ukraine-russia-crisis",
         "pubDate": "2026-10-18T20:51:10.000Z",
         "feedId": "axios"
