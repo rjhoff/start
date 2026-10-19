@@ -3,15 +3,39 @@
     "id": "hn",
     "items": [
       {
-        "title": "Mercury 3: Diffusion at scale",
-        "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-        "pubDate": "2026-10-19T17:27:11.000Z",
+        "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+        "link": "https://bsd.network/@brynet/117407035545900963",
+        "pubDate": "2026-10-19T21:11:45.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Ukraine carries out aerial drone evacuation of a wounded soldier",
-        "link": "https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html",
-        "pubDate": "2026-10-19T17:26:38.000Z",
+        "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+        "link": "https://josie.lol/blog/linux-rtx-spark",
+        "pubDate": "2026-10-19T21:08:18.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "One Hash Bloom Filters",
+        "link": "https://calabro.io/ohbf",
+        "pubDate": "2026-10-19T20:50:08.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The End of Rationing",
+        "link": "https://sanketsaurav.com/writing/end-of-rationing",
+        "pubDate": "2026-10-19T19:19:33.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The reverts will continue until morale improves",
+        "link": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+        "pubDate": "2026-10-19T18:42:32.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Mercury 3: Diffusion at scale",
+        "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+        "pubDate": "2026-10-19T17:27:11.000Z",
         "feedId": "hn"
       },
       {
@@ -33,27 +57,9 @@
         "feedId": "hn"
       },
       {
-        "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
-        "link": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
-        "pubDate": "2026-10-19T16:37:10.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Pentulive (Puppy Live) [video]",
-        "link": "https://yle.fi/t/18-332106/fi",
-        "pubDate": "2026-10-19T16:09:10.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures",
+        "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
         "link": "https://news.ycombinator.com/item?id=50154029",
         "pubDate": "2026-10-19T16:00:18.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
-        "link": "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
-        "pubDate": "2026-10-19T15:52:26.000Z",
         "feedId": "hn"
       },
       {
@@ -63,9 +69,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Maxwell: A new kind of model that sits between code and hardware",
-        "link": "https://heymaxwell.ai/",
-        "pubDate": "2026-10-19T13:47:56.000Z",
+        "title": "Agentic Monitoring",
+        "link": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
+        "pubDate": "2026-10-19T14:52:04.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Detecting model weight tampering in GPU memory (Rome attacks)",
+        "link": "https://stealthium.io/blog/hands-off-detecting-model-weight-tampering",
+        "pubDate": "2026-10-19T14:31:27.000Z",
         "feedId": "hn"
       },
       {
@@ -78,18 +90,6 @@
         "title": "Wine ported to OpenBSD",
         "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
         "pubDate": "2026-10-19T13:35:34.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Cairn: Open windows into AI-driven cyber operations",
-        "link": "https://norforge.com/blog/inside_cairn",
-        "pubDate": "2026-10-19T13:35:12.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
-        "link": "https://3anddoneapp.com/try",
-        "pubDate": "2026-10-19T13:07:07.000Z",
         "feedId": "hn"
       }
     ]
@@ -110,9 +110,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/vyfegx/what_are_you_doing_this_week",
-        "pubDate": "2026-10-19T12:09:29.000Z",
+        "title": "One Hash Bloom Filters",
+        "link": "https://www.calabro.io/ohbf",
+        "pubDate": "2026-10-19T15:47:03.000Z",
         "feedId": "lobsters"
       },
       {
@@ -122,15 +122,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Making all divisions slower to fix a bug in 0.000000000000000000542% of cases",
+        "link": "https://futhark-lang.org/blog/2026-10-14-defining-division.html",
+        "pubDate": "2026-10-19T16:42:07.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/vyfegx/what_are_you_doing_this_week",
+        "pubDate": "2026-10-19T12:09:29.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Beginning of the Ende (a community Deno fork)",
         "link": "https://blog.webb.page/WM-105",
         "pubDate": "2026-10-19T08:13:12.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "One Hash Bloom Filters",
-        "link": "https://www.calabro.io",
-        "pubDate": "2026-10-19T15:47:03.000Z",
+        "title": "In Context",
+        "link": "https://www.youtube.com/watch?v=P5eO7BNyJao",
+        "pubDate": "2026-10-19T18:25:48.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,21 +152,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "2026 is an exciting year for the Rust compiler (and me)",
+        "link": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+        "pubDate": "2026-10-19T17:52:41.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Hanami, Why?: Model Citizens",
         "link": "https://aaronmallen.me/writing/hanami-why-model-citizens",
         "pubDate": "2026-10-19T14:03:08.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Men in tech #YesAllMen",
-        "link": "https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen",
-        "pubDate": "2026-10-18T18:35:01.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What the heck is /pkg?",
-        "link": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
-        "pubDate": "2026-10-19T03:26:51.000Z",
+        "title": "Finding a home amidst the wreckage",
+        "link": "https://blog.zerodogg.org/2026/10/18/finding-a-home-amidst-the-wreckage/",
+        "pubDate": "2026-10-19T16:30:36.000Z",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Making all divisions slower to fix a bug in 0.000000000000000000542% of cases",
-        "link": "https://futhark-lang.org/blog/2026-10-14-defining-division.html",
-        "pubDate": "2026-10-19T16:42:07.000Z",
+        "title": "What the heck is /pkg?",
+        "link": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
+        "pubDate": "2026-10-19T03:26:51.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "It's enough - vibecoding tag crossed from useless to harmful",
-        "link": "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from",
-        "pubDate": "2026-10-18T10:35:11.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "ARP! Tell your network to explain itself",
-        "link": "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/",
-        "pubDate": "2026-10-18T12:48:02.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Superoptimizing an FPU emulator",
-        "link": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
-        "pubDate": "2026-10-18T23:51:14.000Z",
+        "title": "Men in tech #YesAllMen",
+        "link": "https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen",
+        "pubDate": "2026-10-18T18:35:01.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -193,7 +193,49 @@
     "id": "arstechnica",
     "items": [
       {
-        "title": "Huge DMV data breach impacted current and former Florida residents",
+        "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
+        "link": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
+        "pubDate": "2026-10-19T20:54:17.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+        "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+        "pubDate": "2026-10-19T20:21:53.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Batteries help reduce emissions, but how do we reduce their emissions?",
+        "link": "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/",
+        "pubDate": "2026-10-19T20:03:55.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "PSA: Patch your Plex media server before someone hacks it",
+        "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+        "pubDate": "2026-10-19T19:39:19.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+        "link": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+        "pubDate": "2026-10-19T19:27:24.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "ReactOS reaches major milestone with NTFS install support",
+        "link": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+        "pubDate": "2026-10-19T18:30:56.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "AI game clones are making indie developers afraid to show their work",
+        "link": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+        "pubDate": "2026-10-19T16:59:22.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Florida DMV hacked after police dept insecurely stored login info",
         "link": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
         "pubDate": "2026-10-19T16:38:13.000Z",
         "feedId": "arstechnica"
@@ -239,54 +281,30 @@
         "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
         "pubDate": "2026-10-17T11:15:11.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
-        "link": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
-        "pubDate": "2026-10-17T11:00:21.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "OpenAI models hacked a crypto wallet and breached more websites",
-        "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-        "pubDate": "2026-10-16T20:59:01.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-        "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-        "pubDate": "2026-10-16T20:20:07.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
-        "link": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
-        "pubDate": "2026-10-16T19:41:18.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
-        "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
-        "pubDate": "2026-10-16T19:11:50.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
-        "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
-        "pubDate": "2026-10-16T17:05:59.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-        "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
-        "pubDate": "2026-10-16T15:41:00.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "The affordability question Republicans can't escape",
+        "link": "https://www.axios.com/2026/10/19/gas-prices-republicans-affordability-question",
+        "pubDate": "2026-10-19T23:03:40.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: Pete Hegseth meets with Netanyahu in Israel ahead of elections",
+        "link": "https://www.axios.com/2026/10/19/pete-hegseth-israel-visit-netanyahu-meeting",
+        "pubDate": "2026-10-19T22:32:27.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump open to summit with Xi and Putin — to discuss denuclearization",
+        "link": "https://www.axios.com/2026/10/19/trump-summit-xi-putin-denuclearization-ukraine",
+        "pubDate": "2026-10-19T20:04:17.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Could you soon make your own moonshine? SCOTUS takes up 160-year-old ban",
         "link": "https://www.axios.com/2026/10/19/supreme-court-home-distilling-moonshine-ban",
@@ -357,24 +375,6 @@
         "title": "Wright calls Trump's diesel deal a peace incentive. Rubio says Russia would sell anyway.",
         "link": "https://www.axios.com/2026/10/18/trump-russia-diesel-deal-rubio-wright-sanctions",
         "pubDate": "2026-10-18T17:33:38.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump tells Axios why he endorsed Netanyahu's reelection",
-        "link": "https://www.axios.com/2026/10/18/trump-endorses-netanyahu-israel-election-iran",
-        "pubDate": "2026-10-18T17:32:51.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump once questioned Obama's citizenship. Now Obama is speaking out for Ilhan Omar.",
-        "link": "https://www.axios.com/2026/10/18/obama-trump-ilhan-omar-citizenship-investigation-copy-package",
-        "pubDate": "2026-10-18T16:04:53.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Decades-old GOP winning streaks are suddenly at risk",
-        "link": "https://www.axios.com/2026/10/18/democrat-2026-republican-winning-streak-kansas",
-        "pubDate": "2026-10-18T12:10:07.000Z",
         "feedId": "axios"
       }
     ]
