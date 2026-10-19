@@ -3,45 +3,45 @@
     "id": "hn",
     "items": [
       {
-        "title": "DeepSeek V4.1 Flash 1017 (Max)",
-        "link": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-        "pubDate": "2026-10-19T04:41:46.000Z",
+        "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
+        "link": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
+        "pubDate": "2026-10-19T11:12:02.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Verisign .com Domain Name Registry Consumer Class Action",
-        "link": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
-        "pubDate": "2026-10-19T04:40:18.000Z",
+        "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+        "link": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+        "pubDate": "2026-10-19T10:53:39.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally",
-        "link": "https://github.com/strot-ai/Project-STROT",
-        "pubDate": "2026-10-19T04:32:07.000Z",
+        "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
+        "link": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+        "pubDate": "2026-10-19T10:45:14.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Yila – A Codex for Scientific Research",
-        "link": "https://yila.ai",
-        "pubDate": "2026-10-19T04:24:57.000Z",
+        "title": "Timestral: Mistral release time-series foundation models",
+        "link": "https://mistral.ai/news/timestral/",
+        "pubDate": "2026-10-19T09:59:32.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Linux 7.3 Released",
+        "link": "https://lwn.net/Articles/1101143/",
+        "pubDate": "2026-10-19T07:23:57.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+        "link": "https://crystl.dev/guides/tmux-for-ai-agents/",
+        "pubDate": "2026-10-19T05:55:31.000Z",
         "feedId": "hn"
       },
       {
         "title": "Superlite: A Faster Alternatie to Superpowers",
         "link": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
         "pubDate": "2026-10-19T02:01:16.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
-        "link": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
-        "pubDate": "2026-10-19T01:55:03.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Sanity's Edge – A voice BBS from 1994",
-        "link": "https://sanitys-edge.shouden.us",
-        "pubDate": "2026-10-19T00:30:34.000Z",
         "feedId": "hn"
       },
       {
@@ -116,9 +116,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A New Way to Think About Borrow Checking (In Reverse)",
-        "link": "https://verdagon.dev/blog/reverse-borrow-checking",
-        "pubDate": "2026-10-18T14:29:16.000Z",
+        "title": "Superoptimizing an FPU emulator",
+        "link": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
+        "pubDate": "2026-10-18T23:51:14.000Z",
         "feedId": "lobsters"
       },
       {
@@ -128,45 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Outside the Scope of Our Support",
-        "link": "https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/",
-        "pubDate": "2026-10-18T18:52:01.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Superoptimizing an FPU emulator",
-        "link": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
-        "pubDate": "2026-10-18T23:51:14.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "My obituary for programming",
-        "link": "https://dumbmatter.com/2026/10/programming-obituary/",
-        "pubDate": "2026-10-18T16:44:36.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "QML for C & Zig",
-        "link": "https://gist.github.com/rcalixte/d2de5c816fc1de3970cc501b5ae9706e",
-        "pubDate": "2026-10-18T19:10:04.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "High performance policy routed IPsec mesh SD-WAN",
-        "link": "https://ranet3.com/",
-        "pubDate": "2026-10-18T14:36:52.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How Discover-Tech turned targeted ads into a pipeline for zero-click spywares",
-        "link": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
-        "pubDate": "2026-10-18T20:55:02.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What the heck is /pkg?",
-        "link": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
-        "pubDate": "2026-10-19T03:26:51.000Z",
+        "title": "A New Way to Think About Borrow Checking (In Reverse)",
+        "link": "https://verdagon.dev/blog/reverse-borrow-checking",
+        "pubDate": "2026-10-18T14:29:16.000Z",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +140,51 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Inside the Intel 8087 chip: floating-point addition and subtraction",
-        "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
-        "pubDate": "2026-10-18T17:59:21.000Z",
+        "title": "Outside the Scope of Our Support",
+        "link": "https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/",
+        "pubDate": "2026-10-18T18:52:01.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "The Brain Sandwich",
-        "link": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
-        "pubDate": "2026-10-18T03:03:36.000Z",
+        "title": "Inline rendering with document.currentScript",
+        "link": "https://leanrada.com/notes/inline-rendering-currentscript/",
+        "pubDate": "2026-10-19T01:02:55.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Programming Language Fundamentals in Agda",
+        "link": "https://plfa.github.io/",
+        "pubDate": "2026-10-19T06:12:44.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Tor VPN Beta: What we've learned building our own VPN for Android from scratch",
+        "link": "https://blog.torproject.org/tor-vpn-beta/",
+        "pubDate": "2026-10-19T08:27:55.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What the heck is /pkg?",
+        "link": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
+        "pubDate": "2026-10-19T03:26:51.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "QML for C & Zig",
+        "link": "https://gist.github.com/rcalixte/d2de5c816fc1de3970cc501b5ae9706e",
+        "pubDate": "2026-10-18T19:10:04.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What requirements don't you have?",
+        "link": "https://www.seangoedecke.com/what-requirements-dont-you-have/",
+        "pubDate": "2026-10-19T02:59:07.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "My obituary for programming",
+        "link": "https://dumbmatter.com/2026/10/programming-obituary/",
+        "pubDate": "2026-10-18T16:44:36.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,30 @@
     "id": "axios",
     "items": [
       {
+        "title": "Bob Woodward reveals \"dream source\" in memoir, \"Secrets,\" out next month",
+        "link": "https://www.axios.com/2026/10/19/bob-woodward-reveals-dream-source-in-memoir-secrets-out-next-month",
+        "pubDate": "2026-10-19T10:34:33.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Musk pledges 1 SpaceX share for every child in America",
+        "link": "https://www.axios.com/2026/10/19/elon-musk-spacex-shares-kids",
+        "pubDate": "2026-10-19T09:43:10.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "How AI giants will reshape global philanthropy",
+        "link": "https://www.axios.com/2026/10/19/silicon-valley-ai-philanthropy-anthropic-fund",
+        "pubDate": "2026-10-19T09:40:06.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "The AI attack-ad nightmare is coming true",
+        "link": "https://www.axios.com/2026/10/19/ai-attack-ads-campaigns-elections-deepfakes",
+        "pubDate": "2026-10-19T09:35:04.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "Rivals pile on Beshear over his resistance to Latinos' push for Texas funds",
         "link": "https://www.axios.com/2026/10/18/beshear-rivals-latinos-texas-funding",
         "pubDate": "2026-10-18T21:45:07.000Z",
@@ -352,36 +376,18 @@
         "link": "https://www.axios.com/2026/10/17/zelensky-starlink-elon-musk-trump",
         "pubDate": "2026-10-17T23:26:59.000Z",
         "feedId": "axios"
-      },
-      {
-        "title": "Trump's Russia waiver draws instant bipartisan backlash",
-        "link": "https://www.axios.com/2026/10/17/trump-russia-waiver-putin-republicans-democrats",
-        "pubDate": "2026-10-17T19:18:15.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump waives new Russia sanctions in the \"national interests\"",
-        "link": "https://www.axios.com/2026/10/17/trump-russia-sanctions",
-        "pubDate": "2026-10-17T17:20:45.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "A welcome recovery milestone for Pope Leo after cancer surgery",
-        "link": "https://www.axios.com/2026/10/17/pope-leo-xiv-lung-cancer-treatment-hospital-discharge",
-        "pubDate": "2026-10-17T13:36:50.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump ratchets up the chaos in an October barrage",
-        "link": "https://www.axios.com/2026/10/17/trump-october-midterms-controversy",
-        "pubDate": "2026-10-17T12:40:07.000Z",
-        "feedId": "axios"
       }
     ]
   },
   "longreads": {
     "id": "longreads",
     "items": [
+      {
+        "title": "The Doxing of Jane Doe",
+        "link": "https://longreads.com/2026/10/19/the-doxing-of-jane-doe/",
+        "pubDate": "2026-10-19T12:00:00.000Z",
+        "feedId": "longreads"
+      },
       {
         "title": "Tishomingo Burn Ban",
         "link": "https://longreads.com/2026/10/16/camping-faith-isolation-fear/",
@@ -464,12 +470,6 @@
         "title": "The Top 5 Longreads of the Week",
         "link": "https://longreads.com/2026/10/09/the-top-5-longreads-of-the-week-628/",
         "pubDate": "2026-10-09T10:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "Inside the Subreddit Where Men Share Their Dinners—And Their Most Intimate Feelings",
-        "link": "https://longreads.com/2026/10/08/male-loneliness-subreddit/",
-        "pubDate": "2026-10-08T14:48:53.000Z",
         "feedId": "longreads"
       }
     ]
