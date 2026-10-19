@@ -3,9 +3,27 @@
     "id": "hn",
     "items": [
       {
+        "title": "William Gibson and the trademarking of cyberspace",
+        "link": "https://colo.to/cyberspace.html",
+        "pubDate": "2026-10-18T23:37:57.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "How RC2's π table was made",
+        "link": "https://khalidhamadeh.com/writing/rc2-pi-table",
+        "pubDate": "2026-10-18T22:48:07.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: WhatsApp MCP running free on Cloudflare",
         "link": "https://github.com/finereli/whatsapp-mcp",
         "pubDate": "2026-10-18T21:36:10.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+        "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+        "pubDate": "2026-10-18T21:09:12.000Z",
         "feedId": "hn"
       },
       {
@@ -15,27 +33,21 @@
         "feedId": "hn"
       },
       {
-        "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
-        "link": "https://github.com/Netflix/vmaf",
-        "pubDate": "2026-10-18T20:43:40.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Free Pascal compiler now supports dynamic packages",
         "link": "https://www.getlazarus.org/dynamic/",
         "pubDate": "2026-10-18T18:48:04.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Florida's HOAs and condo associations are making the housing crisis worse",
-        "link": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
-        "pubDate": "2026-10-18T18:40:16.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "PalmOS Lemmings",
         "link": "https://github.com/ardiri/palmos-lemmings",
         "pubDate": "2026-10-18T17:56:59.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "What the heck is /pkg?",
+        "link": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
+        "pubDate": "2026-10-18T17:21:23.000Z",
         "feedId": "hn"
       },
       {
@@ -63,12 +75,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN",
-        "link": "https://ranet3.com/",
-        "pubDate": "2026-10-18T14:31:52.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "RepRapMicron",
         "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
         "pubDate": "2026-10-18T13:48:48.000Z",
@@ -81,15 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
-        "link": "https://github.com/0x23/MicroManipulatorStepper",
-        "pubDate": "2026-10-18T11:16:22.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Parser Combinators",
-        "link": "https://t3.at/blog/2026-10-17-parser-combinators/",
-        "pubDate": "2026-10-18T08:19:53.000Z",
+        "title": "A new way to think about borrow checking (in reverse)",
+        "link": "https://verdagon.dev/blog/reverse-borrow-checking",
+        "pubDate": "2026-10-18T12:11:13.000Z",
         "feedId": "hn"
       }
     ]
@@ -117,8 +117,20 @@
       },
       {
         "title": "Men in tech #YesAllMen",
-        "link": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+        "link": "https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen",
         "pubDate": "2026-10-18T18:35:01.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Outside the Scope of Our Support",
+        "link": "https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/",
+        "pubDate": "2026-10-18T18:52:01.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "My obituary for programming",
+        "link": "https://dumbmatter.com/2026/10/programming-obituary/",
+        "pubDate": "2026-10-18T16:44:36.000Z",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Outside the Scope of Our Support",
-        "link": "https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/",
-        "pubDate": "2026-10-18T18:52:01.000Z",
+        "title": "QML for C & Zig",
+        "link": "https://gist.github.com/rcalixte/d2de5c816fc1de3970cc501b5ae9706e",
+        "pubDate": "2026-10-18T19:10:04.000Z",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +158,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "My obituary for programming",
-        "link": "https://dumbmatter.com/2026/10/programming-obituary/",
-        "pubDate": "2026-10-18T16:44:36.000Z",
+        "title": "How Discover-Tech turned targeted ads into a pipeline for zero-click spywares",
+        "link": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+        "pubDate": "2026-10-18T20:55:02.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "QML for C & Zig",
-        "link": "https://gist.github.com/rcalixte/d2de5c816fc1de3970cc501b5ae9706e",
-        "pubDate": "2026-10-18T19:10:04.000Z",
+        "title": "Superoptimizing an FPU emulator",
+        "link": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
+        "pubDate": "2026-10-18T23:51:14.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "August in Servo: CSS Grid, text selection, and more",
+        "link": "https://servo.org/blog/2026/10/09/august-in-servo/",
+        "pubDate": "2026-10-18T23:05:13.000Z",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How Discover-Tech turned targeted ads into a pipeline for zero-click spywares",
-        "link": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
-        "pubDate": "2026-10-18T20:55:02.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Algorithmic Sound Design with L-Systems and Granular Synthesis",
-        "link": "https://nathanho.me/posts/evograin/",
-        "pubDate": "2026-10-18T12:06:05.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Real-time Software On Linux: How Hard Can It Be?",
         "link": "https://www.youtube.com/watch?v=-0D0rFdU6HY",
         "pubDate": "2026-10-18T19:45:33.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Problem with C++ Safety: Why “It Works” Isn’t Good Enough",
-        "link": "https://www.modernescpp.com/index.php/cpp-and-memory-safety-part-1/",
-        "pubDate": "2026-10-18T16:10:47.000Z",
         "feedId": "lobsters"
       }
     ]
