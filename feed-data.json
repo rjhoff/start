@@ -3,9 +3,33 @@
     "id": "hn",
     "items": [
       {
-        "title": "Advanced coding in low-resource programming languages",
-        "link": "https://openai.com/index/low-resource-programming-languages/",
-        "pubDate": "2026-10-20T17:43:11.000Z",
+        "title": "On AI writing",
+        "link": "https://www.bolkunov.com/p/on-ai-writing",
+        "pubDate": "2026-10-20T19:55:11.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
+        "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+        "pubDate": "2026-10-20T18:51:40.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "SimCity, but with Permits",
+        "link": "https://permit.petercai.com/",
+        "pubDate": "2026-10-20T18:29:09.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Claude designed protein binders against scorpion neurotoxins",
+        "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+        "pubDate": "2026-10-20T17:48:29.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "What shall I teach my son?",
+        "link": "https://stevekrouse.com/ends",
+        "pubDate": "2026-10-20T17:25:07.000Z",
         "feedId": "hn"
       },
       {
@@ -21,12 +45,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Making a VGA Driver in SystemVerilog",
-        "link": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
-        "pubDate": "2026-10-20T16:00:15.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
         "link": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
         "pubDate": "2026-10-20T15:59:06.000Z",
@@ -36,24 +54,6 @@
         "title": "IKEA – 3D Guide",
         "link": "https://sael.net/flatpack/",
         "pubDate": "2026-10-20T15:42:45.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why do we have so many meetings?",
-        "link": "https://www.nber.org/papers/w35706",
-        "pubDate": "2026-10-20T15:19:19.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
-        "link": "https://jevcards.com",
-        "pubDate": "2026-10-20T15:11:56.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
-        "link": "https://github.com/AbdullahAlhariri/penmentor",
-        "pubDate": "2026-10-20T15:10:54.000Z",
         "feedId": "hn"
       },
       {
@@ -140,6 +140,18 @@
         "feedId": "lobsters"
       },
       {
+        "title": "How I got over 300 Tor exit nodes removed",
+        "link": "https://kaba.cx/posts/20261020_Tor/",
+        "pubDate": "2026-10-20T18:44:42.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Mastodon 5.0: A closer look",
+        "link": "https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/",
+        "pubDate": "2026-10-20T17:33:54.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Wine ported to OpenBSD",
         "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
         "pubDate": "2026-10-19T14:44:02.000Z",
@@ -152,39 +164,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Do minor curl vulnerabilities in the open",
+        "link": "https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/",
+        "pubDate": "2026-10-20T19:47:54.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why do we need ud2 when int 6 is right there?",
+        "link": "https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/",
+        "pubDate": "2026-10-20T20:43:00.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Making all divisions slower to fix a bug in 0.000000000000000000542% of cases",
         "link": "https://futhark-lang.org/blog/2026-10-14-defining-division.html",
         "pubDate": "2026-10-19T16:42:07.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "One Hash Bloom Filters",
-        "link": "https://www.calabro.io/ohbf",
-        "pubDate": "2026-10-19T15:47:03.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "2026 is an exciting year for the Rust compiler (and me)",
-        "link": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
-        "pubDate": "2026-10-19T17:52:41.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Annotated VT100 Firmware (2022)",
-        "link": "https://vt100.net/dec/vt100/rom/",
-        "pubDate": "2026-10-20T09:12:23.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Mastodon 5.0: A closer look",
-        "link": "https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/",
-        "pubDate": "2026-10-20T17:33:54.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A Very Fast IPv4 Parser, in Swift",
-        "link": "https://blog.mahdibm.com/posts/a-very-fast-ipv4-parser-in-swift/",
-        "pubDate": "2026-10-20T04:04:43.000Z",
+        "title": "EDG is open source",
+        "link": "https://edgcpp.org/",
+        "pubDate": "2026-10-20T20:33:19.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,66 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
+        "link": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
+        "pubDate": "2026-10-20T20:20:12.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+        "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+        "pubDate": "2026-10-20T20:07:58.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Gemini's Personal Intelligence is coming to cars",
+        "link": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+        "pubDate": "2026-10-20T20:00:33.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "OpenBSD 8.0 arrives with security record still intact",
+        "link": "https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/",
+        "pubDate": "2026-10-20T19:57:18.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+        "link": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+        "pubDate": "2026-10-20T19:47:35.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "TP-Link tries to appease Trump admin with pledge to assemble routers in US",
+        "link": "https://arstechnica.com/tech-policy/2026/10/tp-link-tries-to-appease-trump-admin-with-pledge-to-assemble-routers-in-us/",
+        "pubDate": "2026-10-20T19:25:14.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Does anyone actually want to win the medium-lift race in the United States?",
+        "link": "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/",
+        "pubDate": "2026-10-20T19:13:31.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
+        "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
+        "pubDate": "2026-10-20T18:22:54.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Quantum error correction goes well beyond breakeven",
+        "link": "https://arstechnica.com/science/2026/10/quantum-error-correction-goes-well-beyond-breakeven/",
+        "pubDate": "2026-10-20T18:08:57.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+        "link": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+        "pubDate": "2026-10-20T17:40:20.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Polestar tries to quantify what it’s like to drive a performance car",
         "link": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/",
@@ -221,72 +281,30 @@
         "link": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
         "pubDate": "2026-10-19T22:44:26.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
-        "link": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
-        "pubDate": "2026-10-19T20:54:17.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-        "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-        "pubDate": "2026-10-19T20:21:53.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Batteries help reduce emissions, but how do we reduce their emissions?",
-        "link": "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/",
-        "pubDate": "2026-10-19T20:03:55.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "PSA: Patch your Plex media server before someone hacks it",
-        "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
-        "pubDate": "2026-10-19T19:39:19.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
-        "link": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
-        "pubDate": "2026-10-19T19:27:24.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "ReactOS reaches major milestone with NTFS install support",
-        "link": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
-        "pubDate": "2026-10-19T18:30:56.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "AI game clones are making indie developers afraid to show their work",
-        "link": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
-        "pubDate": "2026-10-19T16:59:22.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Florida DMV hacked after police dept insecurely stored login info",
-        "link": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
-        "pubDate": "2026-10-19T16:38:13.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Disney found a way to buy Character.AI without buying its lawsuits",
-        "link": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-        "pubDate": "2026-10-19T14:45:43.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "A Chinese rocket deorbited over Minnesota and left this in a farmer's cornfield",
-        "link": "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/",
-        "pubDate": "2026-10-19T14:35:01.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Space X and Tesla exploring merger, CEO Elon Musk says",
+        "link": "https://www.axios.com/2026/10/20/spacex-tesla-merger-talks",
+        "pubDate": "2026-10-20T21:43:40.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump goes full apocalypse in anti-Dems midterms message",
+        "link": "https://www.axios.com/2026/10/20/trump-democrats-elections-rallies-comments-vote",
+        "pubDate": "2026-10-20T19:34:42.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Mystery mailings put Congress and election offices on edge",
+        "link": "https://www.axios.com/2026/10/20/white-powder-letters-congress-election-offices",
+        "pubDate": "2026-10-20T18:56:20.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "WATCH: The Axios Media Trends Live summit",
         "link": "https://www.axios.com/2026/10/19/watch-media-trends-live-2026",
@@ -357,24 +375,6 @@
         "title": "\"Power is probably the forever bottleneck\": Grid delays threaten the AI race.",
         "link": "https://www.axios.com/2026/10/20/goldman-ai-energy-infrastructure-bottleneck",
         "pubDate": "2026-10-20T09:00:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "I let agents plan a WNBA Finals trip (but kept my wallet to myself)",
-        "link": "https://www.axios.com/2026/10/20/battle-of-bots-openai-meta-ai-agents-test",
-        "pubDate": "2026-10-20T09:00:05.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Witkoff heads to Oslo, plans Russia trip for peace talks",
-        "link": "https://www.axios.com/2026/10/20/russia-ukraine-peace-talks-trump-witkoff-oslo",
-        "pubDate": "2026-10-20T02:38:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Pete Hegseth meets with Netanyahu in Israel ahead of elections",
-        "link": "https://www.axios.com/2026/10/19/pete-hegseth-israel-visit-netanyahu-meeting",
-        "pubDate": "2026-10-20T02:06:36.000Z",
         "feedId": "axios"
       }
     ]
