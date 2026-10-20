@@ -3,33 +3,27 @@
     "id": "hn",
     "items": [
       {
+        "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+        "link": "https://github.com/microg/GmsCore/wiki",
+        "pubDate": "2026-10-20T06:37:07.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+        "link": "https://deathplanswitch.com/",
+        "pubDate": "2026-10-20T04:37:43.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+        "link": "https://github.com/golang/go/issues/82345",
+        "pubDate": "2026-10-20T03:05:07.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "OpenBSD 8.0",
         "link": "https://www.openbsd.org/80.html",
         "pubDate": "2026-10-20T02:06:40.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "OpenBSD 8.0: released Oct 20, 2026",
-        "link": "https://marc.info/?l=openbsd-misc&m=179245849770356&w=2",
-        "pubDate": "2026-10-20T01:53:51.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging at ARDD",
-        "link": "https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd",
-        "pubDate": "2026-10-20T01:34:58.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Developing Taste",
-        "link": "https://emilkowal.ski/ui/developing-taste",
-        "pubDate": "2026-10-20T01:12:03.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
-        "link": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
-        "pubDate": "2026-10-20T00:53:52.000Z",
         "feedId": "hn"
       },
       {
@@ -45,7 +39,7 @@
         "feedId": "hn"
       },
       {
-        "title": "“bonsoir, Elliot”: How abliterated models can get you pwned",
+        "title": "How abliterated models can get you pwned",
         "link": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
         "pubDate": "2026-10-19T23:08:52.000Z",
         "feedId": "hn"
@@ -75,21 +69,27 @@
         "feedId": "hn"
       },
       {
-        "title": "The End of Rationing",
-        "link": "https://sanketsaurav.com/writing/end-of-rationing",
-        "pubDate": "2026-10-19T19:19:33.000Z",
+        "title": "MiniMax M3.1 Flash",
+        "link": "https://www.minimax.io/blog/minimax-m31f",
+        "pubDate": "2026-10-19T16:39:09.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Evidence (YC S21) Is Hiring Software Engineers",
-        "link": "https://evidence.dev/jobs",
-        "pubDate": "2026-10-19T17:21:33.000Z",
+        "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+        "link": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+        "pubDate": "2026-10-19T16:16:46.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Android apps running native on macOS",
-        "link": "https://github.com/kksimp/Mac.apk",
-        "pubDate": "2026-10-19T16:45:30.000Z",
+        "title": "Ukraine claims first drone evacuation of wounded soldier",
+        "link": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+        "pubDate": "2026-10-19T15:31:34.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Agentic Monitoring",
+        "link": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
+        "pubDate": "2026-10-19T14:52:04.000Z",
         "feedId": "hn"
       }
     ]
@@ -104,15 +104,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "OpenBSD 8.0",
+        "link": "https://www.openbsd.org/80.html",
+        "pubDate": "2026-10-20T01:46:00.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Wine ported to OpenBSD",
         "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
         "pubDate": "2026-10-19T14:44:02.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "One Hash Bloom Filters",
-        "link": "https://www.calabro.io/ohbf",
-        "pubDate": "2026-10-19T15:47:03.000Z",
+        "title": "Do web components have a future if nobody is writing them?",
+        "link": "https://nolanlawson.com/2026/10/19/do-web-components-have-a-future-if-nobody-is-writing-them/",
+        "pubDate": "2026-10-20T00:41:18.000Z",
         "feedId": "lobsters"
       },
       {
@@ -122,21 +128,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "One Hash Bloom Filters",
+        "link": "https://www.calabro.io/ohbf",
+        "pubDate": "2026-10-19T15:47:03.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "A5 v1.0",
         "link": "https://a5geo.org/blog/2026/10/14/a5-v1",
         "pubDate": "2026-10-19T13:56:50.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "OpenBSD 8.0",
-        "link": "https://www.openbsd.org/80.html",
-        "pubDate": "2026-10-20T01:46:00.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/vyfegx/what_are_you_doing_this_week",
-        "pubDate": "2026-10-19T12:09:29.000Z",
+        "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+        "link": "https://github.com/golang/go/commit/90617fb7ceb59cf08bee7826bb51b8c8fb8c11de",
+        "pubDate": "2026-10-20T03:10:23.000Z",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +152,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "The Netherlands is building its own Linux OS to break free from Microsoft",
+        "link": "https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html",
+        "pubDate": "2026-10-19T20:10:46.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "In Context",
         "link": "https://www.youtube.com/watch?v=P5eO7BNyJao",
         "pubDate": "2026-10-19T18:25:48.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/vyfegx/what_are_you_doing_this_week",
+        "pubDate": "2026-10-19T12:09:29.000Z",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +176,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Tor VPN Beta: What we've learned building our own VPN for Android from scratch",
-        "link": "https://blog.torproject.org/tor-vpn-beta/",
-        "pubDate": "2026-10-19T08:27:55.000Z",
+        "title": "A Very Fast IPv4 Parser, in Swift",
+        "link": "https://blog.mahdibm.com/posts/a-very-fast-ipv4-parser-in-swift/",
+        "pubDate": "2026-10-20T04:04:43.000Z",
         "feedId": "lobsters"
       },
       {
@@ -168,30 +186,18 @@
         "link": "https://aaronmallen.me/writing/hanami-why-model-citizens",
         "pubDate": "2026-10-19T14:03:08.000Z",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Finding a home amidst the wreckage",
-        "link": "https://blog.zerodogg.org/2026/10/18/finding-a-home-amidst-the-wreckage/",
-        "pubDate": "2026-10-19T16:30:36.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Netherlands is building its own Linux OS to break free from Microsoft",
-        "link": "https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html",
-        "pubDate": "2026-10-19T20:10:46.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Making dns_erlang Fast: Binary Tricks for the BEAM",
-        "link": "https://blog.dnsimple.com/2026/10/making-dns-erlang-fast/",
-        "pubDate": "2026-10-19T13:26:58.000Z",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+        "link": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+        "pubDate": "2026-10-20T05:59:56.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
         "link": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
@@ -275,18 +281,24 @@
         "link": "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/",
         "pubDate": "2026-10-19T11:05:49.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Anthropic gives outside AI watchdog “employee-like” access",
-        "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-        "pubDate": "2026-10-18T16:25:19.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "\"Power is probably the forever bottleneck\": Grid delays threaten the AI race.",
+        "link": "https://www.axios.com/2026/10/20/goldman-ai-energy-infrastructure-bottleneck",
+        "pubDate": "2026-10-20T09:00:06.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "I let agents plan a WNBA finals trip (but kept my wallet to myself)",
+        "link": "https://www.axios.com/2026/10/20/battle-of-bots-openai-meta-ai-agents-test",
+        "pubDate": "2026-10-20T09:00:05.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Witkoff heads to Oslo, plans Russia trip for peace talks",
         "link": "https://www.axios.com/2026/10/20/russia-ukraine-peace-talks-trump-witkoff-oslo",
@@ -363,18 +375,6 @@
         "title": "How AI giants will reshape global philanthropy",
         "link": "https://www.axios.com/2026/10/19/silicon-valley-ai-philanthropy-anthropic-fund",
         "pubDate": "2026-10-19T09:40:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "The AI attack-ad nightmare is coming true",
-        "link": "https://www.axios.com/2026/10/19/ai-attack-ads-campaigns-elections-deepfakes",
-        "pubDate": "2026-10-19T09:35:04.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Rivals pile on Beshear over his resistance to Latinos' push for Texas funds",
-        "link": "https://www.axios.com/2026/10/18/beshear-rivals-latinos-texas-funding",
-        "pubDate": "2026-10-18T21:45:07.000Z",
         "feedId": "axios"
       }
     ]
