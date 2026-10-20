@@ -3,6 +3,78 @@
     "id": "hn",
     "items": [
       {
+        "title": "Advanced coding in low-resource programming languages",
+        "link": "https://openai.com/index/low-resource-programming-languages/",
+        "pubDate": "2026-10-20T17:43:11.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+        "link": "https://github.com/google-pytorch/torch_tpu",
+        "pubDate": "2026-10-20T16:40:24.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Voxtral 3",
+        "link": "https://mistral.ai/news/voxtral-3/",
+        "pubDate": "2026-10-20T16:02:07.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Making a VGA Driver in SystemVerilog",
+        "link": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
+        "pubDate": "2026-10-20T16:00:15.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+        "link": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+        "pubDate": "2026-10-20T15:59:06.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "IKEA – 3D Guide",
+        "link": "https://sael.net/flatpack/",
+        "pubDate": "2026-10-20T15:42:45.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why do we have so many meetings?",
+        "link": "https://www.nber.org/papers/w35706",
+        "pubDate": "2026-10-20T15:19:19.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+        "link": "https://jevcards.com",
+        "pubDate": "2026-10-20T15:11:56.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+        "link": "https://github.com/AbdullahAlhariri/penmentor",
+        "pubDate": "2026-10-20T15:10:54.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+        "link": "https://news.ycombinator.com/item?id=50167583",
+        "pubDate": "2026-10-20T15:09:29.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Facebook Pages require paid subscription to post more than two links per month",
+        "link": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+        "pubDate": "2026-10-20T15:06:08.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ofcom concedes defeat in 4chan case",
+        "link": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+        "pubDate": "2026-10-20T14:30:31.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "My Friend Bob Cringely",
         "link": "https://tyma.com/my-cringe-story/",
         "pubDate": "2026-10-20T14:13:49.000Z",
@@ -15,81 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "How I got over 300 Tor exit nodes removed",
-        "link": "https://kaba.cx/posts/20261020_Tor/",
-        "pubDate": "2026-10-20T13:39:24.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tsrs: A Port of TypeScript to Rust",
-        "link": "https://blog.cloudflare.com/typescript-rust-port/",
-        "pubDate": "2026-10-20T13:18:07.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Publish fake stats, get cited in LLMs",
-        "link": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-        "pubDate": "2026-10-20T13:06:22.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "NixOS is making me less afraid",
-        "link": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
-        "pubDate": "2026-10-20T12:43:05.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Apple broke an essential presentation feature of iPads",
-        "link": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-        "pubDate": "2026-10-20T12:17:28.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hazel (YC W24) Is Hiring",
-        "link": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
-        "pubDate": "2026-10-20T12:00:32.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Google cloud outage takes down banks",
-        "link": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
-        "pubDate": "2026-10-20T10:26:02.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "DeepSeek just open-sourced its inference engine",
-        "link": "https://github.com/deepseek-ai/DeepInfer",
-        "pubDate": "2026-10-20T09:08:54.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
-        "link": "https://github.com/microg/GmsCore/wiki",
-        "pubDate": "2026-10-20T06:37:07.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "OpenBSD 8.0",
-        "link": "https://www.openbsd.org/80.html",
-        "pubDate": "2026-10-20T02:06:40.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "France's supermarket fridges were vulnerable online for months",
-        "link": "https://ipinfo.io/blog/france-fridges-hack",
-        "pubDate": "2026-10-20T00:00:49.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-        "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-        "pubDate": "2026-10-19T23:22:18.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "An ad-free Android TV",
-        "link": "https://cretezy.com/2026/ad-free-android-tv",
-        "pubDate": "2026-10-19T22:32:37.000Z",
+        "title": "2026 is an exciting year for the Rust compiler (and me)",
+        "link": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+        "pubDate": "2026-10-20T13:53:48.000Z",
         "feedId": "hn"
       }
     ]
@@ -97,6 +97,12 @@
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
+        "link": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
+        "pubDate": "2026-10-20T13:00:50.000Z",
+        "feedId": "lobsters"
+      },
       {
         "title": "Updates to site guidelines and AI/LLM tags",
         "link": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
@@ -110,9 +116,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
-        "link": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
-        "pubDate": "2026-10-20T13:00:50.000Z",
+        "title": "NixOS is making me less afraid",
+        "link": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+        "pubDate": "2026-10-20T13:44:53.000Z",
         "feedId": "lobsters"
       },
       {
@@ -128,15 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Wine ported to OpenBSD",
-        "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-        "pubDate": "2026-10-19T14:44:02.000Z",
+        "title": "Making a VGA Driver in SystemVerilog",
+        "link": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
+        "pubDate": "2026-10-20T15:58:18.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Making all divisions slower to fix a bug in 0.000000000000000000542% of cases",
-        "link": "https://futhark-lang.org/blog/2026-10-14-defining-division.html",
-        "pubDate": "2026-10-19T16:42:07.000Z",
+        "title": "Wine ported to OpenBSD",
+        "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+        "pubDate": "2026-10-19T14:44:02.000Z",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "NixOS is making me less afraid",
-        "link": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
-        "pubDate": "2026-10-20T13:44:53.000Z",
+        "title": "Making all divisions slower to fix a bug in 0.000000000000000000542% of cases",
+        "link": "https://futhark-lang.org/blog/2026-10-14-defining-division.html",
+        "pubDate": "2026-10-19T16:42:07.000Z",
         "feedId": "lobsters"
       },
       {
@@ -164,15 +170,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A5 v1.0",
-        "link": "https://a5geo.org/blog/2026/10/14/a5-v1",
-        "pubDate": "2026-10-19T13:56:50.000Z",
+        "title": "The Annotated VT100 Firmware (2022)",
+        "link": "https://vt100.net/dec/vt100/rom/",
+        "pubDate": "2026-10-20T09:12:23.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "In Context",
-        "link": "https://www.youtube.com/watch?v=P5eO7BNyJao",
-        "pubDate": "2026-10-19T18:25:48.000Z",
+        "title": "Mastodon 5.0: A closer look",
+        "link": "https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/",
+        "pubDate": "2026-10-20T17:33:54.000Z",
         "feedId": "lobsters"
       },
       {
@@ -180,18 +186,18 @@
         "link": "https://blog.mahdibm.com/posts/a-very-fast-ipv4-parser-in-swift/",
         "pubDate": "2026-10-20T04:04:43.000Z",
         "feedId": "lobsters"
-      },
-      {
-        "title": "The Annotated VT100 Firmware (2022)",
-        "link": "https://vt100.net/dec/vt100/rom/",
-        "pubDate": "2026-10-20T09:12:23.000Z",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Polestar tries to quantify what it’s like to drive a performance car",
+        "link": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/",
+        "pubDate": "2026-10-20T14:53:07.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
         "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
@@ -275,18 +281,42 @@
         "link": "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/",
         "pubDate": "2026-10-19T14:35:01.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Review: Lanterns is a truly unique twist on the superhero genre",
-        "link": "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/",
-        "pubDate": "2026-10-19T13:31:08.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "WATCH: The Axios Media Trends Live summit",
+        "link": "https://www.axios.com/2026/10/19/watch-media-trends-live-2026",
+        "pubDate": "2026-10-20T17:56:37.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Exclusive: OpenAI has acquired Orchestra Bio",
+        "link": "https://www.axios.com/2026/10/20/exclusive-openai-biotech-startup-drug-development",
+        "pubDate": "2026-10-20T17:55:04.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Homebuilder sentiment is at a 14-year low",
+        "link": "https://www.axios.com/2026/10/20/housing-construction-ai-rates",
+        "pubDate": "2026-10-20T15:58:05.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "France riots become Republican midterm boogeyman",
+        "link": "https://www.axios.com/2026/10/20/french-protests-trump-republicans-midterms",
+        "pubDate": "2026-10-20T15:30:36.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "The manosphere stars who helped Trump win are losing their shine",
+        "link": "https://www.axios.com/2026/10/20/joe-rogan-trump-vance-young-men",
+        "pubDate": "2026-10-20T14:56:02.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "How the energy crisis could become a food security crisis",
         "link": "https://www.axios.com/2026/10/20/energy-crisis-food-security-crisis",
@@ -346,42 +376,18 @@
         "link": "https://www.axios.com/2026/10/19/pete-hegseth-israel-visit-netanyahu-meeting",
         "pubDate": "2026-10-20T02:06:36.000Z",
         "feedId": "axios"
-      },
-      {
-        "title": "The affordability question Republicans can't escape",
-        "link": "https://www.axios.com/2026/10/19/gas-prices-republicans-affordability-question",
-        "pubDate": "2026-10-19T23:03:40.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Inside the GOP's fight to avoid a House wipeout",
-        "link": "https://www.axios.com/2026/10/19/steve-scalise-house-republicans-midterm-election",
-        "pubDate": "2026-10-19T23:03:05.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Zelensky lobbies senators to press White House on alleged intel and weapons curbs",
-        "link": "https://www.axios.com/2026/10/19/zelensky-blumenthal-tillis-ukraine-russia-war-intelligence",
-        "pubDate": "2026-10-19T21:27:37.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump open to summit with Xi and Putin — to discuss denuclearization",
-        "link": "https://www.axios.com/2026/10/19/trump-summit-xi-putin-denuclearization-ukraine",
-        "pubDate": "2026-10-19T20:04:17.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Could you soon make your own moonshine? SCOTUS takes up 160-year-old ban",
-        "link": "https://www.axios.com/2026/10/19/supreme-court-home-distilling-moonshine-ban",
-        "pubDate": "2026-10-19T15:56:01.000Z",
-        "feedId": "axios"
       }
     ]
   },
   "longreads": {
     "id": "longreads",
     "items": [
+      {
+        "title": "The Man Who Taught Us How to Pay Attention",
+        "link": "https://longreads.com/2026/10/20/john-berger-about-looking-ways-of-seeing/",
+        "pubDate": "2026-10-20T16:12:51.000Z",
+        "feedId": "longreads"
+      },
       {
         "title": "Death by a Thousand Dams",
         "link": "https://longreads.com/2026/10/20/dams-fish-migration-america/",
@@ -464,12 +470,6 @@
         "title": "In Trump’s America, the Death Penalty Has Been Resurrected",
         "link": "https://longreads.com/2026/10/13/trumps-death-penalty-louisiana/",
         "pubDate": "2026-10-13T11:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "Where the Forest Went",
-        "link": "https://longreads.com/2026/10/13/american-forest-development-property-hugh-maxwell/",
-        "pubDate": "2026-10-13T10:00:00.000Z",
         "feedId": "longreads"
       }
     ]
