@@ -3,21 +3,69 @@
     "id": "hn",
     "items": [
       {
+        "title": "My Friend Bob Cringely",
+        "link": "https://tyma.com/my-cringe-story/",
+        "pubDate": "2026-10-20T14:13:49.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "EMudhra Intermediate CA Compromise",
+        "link": "https://emudhra.we-have-a-problem.com/",
+        "pubDate": "2026-10-20T13:58:33.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "How I got over 300 Tor exit nodes removed",
+        "link": "https://kaba.cx/posts/20261020_Tor/",
+        "pubDate": "2026-10-20T13:39:24.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tsrs: A Port of TypeScript to Rust",
+        "link": "https://blog.cloudflare.com/typescript-rust-port/",
+        "pubDate": "2026-10-20T13:18:07.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Publish fake stats, get cited in LLMs",
+        "link": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+        "pubDate": "2026-10-20T13:06:22.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "NixOS is making me less afraid",
+        "link": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+        "pubDate": "2026-10-20T12:43:05.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Apple broke an essential presentation feature of iPads",
+        "link": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+        "pubDate": "2026-10-20T12:17:28.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Hazel (YC W24) Is Hiring",
+        "link": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
+        "pubDate": "2026-10-20T12:00:32.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Google cloud outage takes down banks",
+        "link": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+        "pubDate": "2026-10-20T10:26:02.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "DeepSeek just open-sourced its inference engine",
+        "link": "https://github.com/deepseek-ai/DeepInfer",
+        "pubDate": "2026-10-20T09:08:54.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
         "link": "https://github.com/microg/GmsCore/wiki",
         "pubDate": "2026-10-20T06:37:07.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
-        "link": "https://deathplanswitch.com/",
-        "pubDate": "2026-10-20T04:37:43.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Go will reject certificate chains containing eight distrusted SPKIs",
-        "link": "https://github.com/golang/go/issues/82345",
-        "pubDate": "2026-10-20T03:05:07.000Z",
         "feedId": "hn"
       },
       {
@@ -39,57 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "How abliterated models can get you pwned",
-        "link": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
-        "pubDate": "2026-10-19T23:08:52.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "An ad-free Android TV",
         "link": "https://cretezy.com/2026/ad-free-android-tv",
         "pubDate": "2026-10-19T22:32:37.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-        "link": "https://bsd.network/@brynet/117407035545900963",
-        "pubDate": "2026-10-19T21:11:45.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
-        "link": "https://josie.lol/blog/linux-rtx-spark",
-        "pubDate": "2026-10-19T21:08:18.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "One Hash Bloom Filters",
-        "link": "https://calabro.io/ohbf",
-        "pubDate": "2026-10-19T20:50:08.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "MiniMax M3.1 Flash",
-        "link": "https://www.minimax.io/blog/minimax-m31f",
-        "pubDate": "2026-10-19T16:39:09.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-        "link": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-        "pubDate": "2026-10-19T16:16:46.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ukraine claims first drone evacuation of wounded soldier",
-        "link": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
-        "pubDate": "2026-10-19T15:31:34.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Agentic Monitoring",
-        "link": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
-        "pubDate": "2026-10-19T14:52:04.000Z",
         "feedId": "hn"
       }
     ]
@@ -104,9 +104,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Setting up SSH keys on macOS with Touch ID",
+        "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+        "pubDate": "2026-10-20T10:23:58.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
+        "link": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
+        "pubDate": "2026-10-20T13:00:50.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "OpenBSD 8.0",
         "link": "https://www.openbsd.org/80.html",
         "pubDate": "2026-10-20T01:46:00.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Jepsen: Orkes Conductor 5.3.2",
+        "link": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
+        "pubDate": "2026-10-20T13:14:54.000Z",
         "feedId": "lobsters"
       },
       {
@@ -116,39 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Do web components have a future if nobody is writing them?",
-        "link": "https://nolanlawson.com/2026/10/19/do-web-components-have-a-future-if-nobody-is-writing-them/",
-        "pubDate": "2026-10-20T00:41:18.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Making all divisions slower to fix a bug in 0.000000000000000000542% of cases",
         "link": "https://futhark-lang.org/blog/2026-10-14-defining-division.html",
         "pubDate": "2026-10-19T16:42:07.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "One Hash Bloom Filters",
-        "link": "https://www.calabro.io/ohbf",
-        "pubDate": "2026-10-19T15:47:03.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A5 v1.0",
-        "link": "https://a5geo.org/blog/2026/10/14/a5-v1",
-        "pubDate": "2026-10-19T13:56:50.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Go will reject certificate chains containing eight distrusted SPKIs",
-        "link": "https://github.com/golang/go/commit/90617fb7ceb59cf08bee7826bb51b8c8fb8c11de",
-        "pubDate": "2026-10-20T03:10:23.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "2026 is an exciting year for the Rust compiler (and me)",
-        "link": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
-        "pubDate": "2026-10-19T17:52:41.000Z",
         "feedId": "lobsters"
       },
       {
@@ -158,21 +146,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "NixOS is making me less afraid",
+        "link": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+        "pubDate": "2026-10-20T13:44:53.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "One Hash Bloom Filters",
+        "link": "https://www.calabro.io/ohbf",
+        "pubDate": "2026-10-19T15:47:03.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "2026 is an exciting year for the Rust compiler (and me)",
+        "link": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+        "pubDate": "2026-10-19T17:52:41.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A5 v1.0",
+        "link": "https://a5geo.org/blog/2026/10/14/a5-v1",
+        "pubDate": "2026-10-19T13:56:50.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "In Context",
         "link": "https://www.youtube.com/watch?v=P5eO7BNyJao",
         "pubDate": "2026-10-19T18:25:48.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/vyfegx/what_are_you_doing_this_week",
-        "pubDate": "2026-10-19T12:09:29.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Beginning of the Ende (a community Deno fork)",
-        "link": "https://blog.webb.page/WM-105",
-        "pubDate": "2026-10-19T08:13:12.000Z",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Hanami, Why?: Model Citizens",
-        "link": "https://aaronmallen.me/writing/hanami-why-model-citizens",
-        "pubDate": "2026-10-19T14:03:08.000Z",
+        "title": "The Annotated VT100 Firmware (2022)",
+        "link": "https://vt100.net/dec/vt100/rom/",
+        "pubDate": "2026-10-20T09:12:23.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+        "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+        "pubDate": "2026-10-20T12:33:13.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
+        "link": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/",
+        "pubDate": "2026-10-20T11:00:16.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
         "link": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
@@ -269,18 +281,6 @@
         "link": "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/",
         "pubDate": "2026-10-19T13:31:08.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "DIY VR: How to build your own headset, and why you probably won't want to",
-        "link": "https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to/",
-        "pubDate": "2026-10-19T12:33:34.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Stratospheric airship flew from US to Japan to test sky cell tower concept",
-        "link": "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/",
-        "pubDate": "2026-10-19T11:05:49.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,13 +288,49 @@
     "id": "axios",
     "items": [
       {
+        "title": "How the energy crisis could become a food security crisis",
+        "link": "https://www.axios.com/2026/10/20/energy-crisis-food-security-crisis",
+        "pubDate": "2026-10-20T13:29:13.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump isn't out to hurt Ukraine, Rubio tells Zelensky",
+        "link": "https://www.axios.com/2026/10/20/rubio-zelensky-trump-directive-harm-ukraine-putin",
+        "pubDate": "2026-10-20T12:13:18.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "AI takes on great experiment in self-rule",
+        "link": "https://www.axios.com/2026/10/20/ai-govern-anthropic-openai",
+        "pubDate": "2026-10-20T09:38:57.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Empathy divides Americans by religion, with white evangelicals standing apart",
+        "link": "https://www.axios.com/2026/10/20/religious-divide-empathy-democrats-republicans",
+        "pubDate": "2026-10-20T09:30:12.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Republicans see shrinking boost from redistricting",
+        "link": "https://www.axios.com/2026/10/20/republicans-redistricting-boost-shrinking-midterms",
+        "pubDate": "2026-10-20T09:20:11.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "The budget deficit swells, while the cost of debt rises",
+        "link": "https://www.axios.com/2026/10/20/federal-deficit-debt-interest-rates",
+        "pubDate": "2026-10-20T09:15:08.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "\"Power is probably the forever bottleneck\": Grid delays threaten the AI race.",
         "link": "https://www.axios.com/2026/10/20/goldman-ai-energy-infrastructure-bottleneck",
         "pubDate": "2026-10-20T09:00:06.000Z",
         "feedId": "axios"
       },
       {
-        "title": "I let agents plan a WNBA finals trip (but kept my wallet to myself)",
+        "title": "I let agents plan a WNBA Finals trip (but kept my wallet to myself)",
         "link": "https://www.axios.com/2026/10/20/battle-of-bots-openai-meta-ai-agents-test",
         "pubDate": "2026-10-20T09:00:05.000Z",
         "feedId": "axios"
@@ -340,48 +376,24 @@
         "link": "https://www.axios.com/2026/10/19/supreme-court-home-distilling-moonshine-ban",
         "pubDate": "2026-10-19T15:56:01.000Z",
         "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: Secret pay-for-play text rocks Trump White House",
-        "link": "https://www.axios.com/2026/10/19/kennedy-center-text-trump-grenell-habba",
-        "pubDate": "2026-10-19T15:05:24.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Supreme Court won't revive accused 9/11 mastermind's plea deal",
-        "link": "https://www.axios.com/2026/10/19/supreme-court-khalid-sheikh-mohammed-911-plea-deal",
-        "pubDate": "2026-10-19T14:49:07.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "The fallout from Trump's Russia energy moves",
-        "link": "https://www.axios.com/2026/10/19/fallout-trump-russia-energy",
-        "pubDate": "2026-10-19T12:40:07.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Bob Woodward reveals \"dream source\" in memoir, \"Secrets,\" out next month",
-        "link": "https://www.axios.com/2026/10/19/bob-woodward-reveals-dream-source-in-memoir-secrets-out-next-month",
-        "pubDate": "2026-10-19T10:34:33.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Musk pledges 1 SpaceX share for every child in America",
-        "link": "https://www.axios.com/2026/10/19/elon-musk-spacex-shares-kids",
-        "pubDate": "2026-10-19T09:43:10.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "How AI giants will reshape global philanthropy",
-        "link": "https://www.axios.com/2026/10/19/silicon-valley-ai-philanthropy-anthropic-fund",
-        "pubDate": "2026-10-19T09:40:06.000Z",
-        "feedId": "axios"
       }
     ]
   },
   "longreads": {
     "id": "longreads",
     "items": [
+      {
+        "title": "Death by a Thousand Dams",
+        "link": "https://longreads.com/2026/10/20/dams-fish-migration-america/",
+        "pubDate": "2026-10-20T11:00:00.000Z",
+        "feedId": "longreads"
+      },
+      {
+        "title": "The Longreads Questionnaire, Featuring Jasper Craven",
+        "link": "https://longreads.com/2026/10/20/jasper-craven-questionnaire/",
+        "pubDate": "2026-10-20T10:00:00.000Z",
+        "feedId": "longreads"
+      },
       {
         "title": "Feeding the Revolution",
         "link": "https://longreads.com/2026/10/19/burrito-revolution-resistance/",
@@ -458,18 +470,6 @@
         "title": "Where the Forest Went",
         "link": "https://longreads.com/2026/10/13/american-forest-development-property-hugh-maxwell/",
         "pubDate": "2026-10-13T10:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "He Went Out on an Epic Wilderness Adventure. Only His Dogs Came Back.",
-        "link": "https://longreads.com/2026/10/12/steffen-skjottelvik-braverman/",
-        "pubDate": "2026-10-12T19:09:20.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "Up a Creek",
-        "link": "https://longreads.com/2026/10/09/john-mcphee-geological-time-nonfiction-journalism/",
-        "pubDate": "2026-10-09T16:48:55.000Z",
         "feedId": "longreads"
       }
     ]
