@@ -3,39 +3,63 @@
     "id": "hn",
     "items": [
       {
-        "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
-        "link": "https://alterauth.com/",
-        "pubDate": "2026-10-21T06:42:12.000Z",
+        "title": "LayerFS: The filesystem for AI coding agents",
+        "link": "https://layerfs.ai/",
+        "pubDate": "2026-10-21T12:34:46.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Pillowfort Is Closing",
-        "link": "https://www.pillowfort.social/posts/8413273",
-        "pubDate": "2026-10-21T05:05:37.000Z",
+        "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
+        "link": "https://www.ncsc.nl/actueel",
+        "pubDate": "2026-10-21T12:31:28.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Battlezone Online: BZFlag in the Browser",
-        "link": "https://github.com/timriker/bzo",
-        "pubDate": "2026-10-21T05:05:19.000Z",
+        "title": "Despite Iran's Attacks, Gulf Oil Exports Exceed Prewar Levels",
+        "link": "https://maritime-executive.com/article/report-despite-iran-s-attacks-gulf-oil-exports-exceed-prewar-levels",
+        "pubDate": "2026-10-21T12:23:41.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
-        "link": "https://github.com/xamrayev/nexus-cli",
-        "pubDate": "2026-10-21T04:37:18.000Z",
+        "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
+        "link": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
+        "pubDate": "2026-10-21T12:22:39.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Setting Up SSH Keys on macOS with Touch ID",
-        "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
-        "pubDate": "2026-10-21T03:51:25.000Z",
+        "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+        "link": "https://9mothers.com/careers",
+        "pubDate": "2026-10-21T12:00:24.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Whatever Happened to Fire Escapes",
+        "link": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+        "pubDate": "2026-10-21T10:14:43.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+        "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+        "pubDate": "2026-10-21T09:08:08.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+        "link": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+        "pubDate": "2026-10-21T09:07:49.000Z",
         "feedId": "hn"
       },
       {
         "title": "Using Claude to reduce the attack surface of code",
         "link": "https://www.anthropic.com/research/attack-surface-reduction",
         "pubDate": "2026-10-21T03:36:43.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "C# now beats Rust on WASM size",
+        "link": "https://github.com/zion-sati/NetWasm",
+        "pubDate": "2026-10-21T02:53:47.000Z",
         "feedId": "hn"
       },
       {
@@ -67,30 +91,6 @@
         "link": "https://www.thebeliever.net/the-other-epidemic/",
         "pubDate": "2026-10-20T23:04:09.000Z",
         "feedId": "hn"
-      },
-      {
-        "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-        "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-        "pubDate": "2026-10-20T22:21:05.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-        "link": "https://news-web.php.net/php.announce/509",
-        "pubDate": "2026-10-20T20:15:50.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: SimCity, but with Permits",
-        "link": "https://permit.petercai.com/",
-        "pubDate": "2026-10-20T18:29:09.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Advanced coding in low-resource programming languages",
-        "link": "https://openai.com/index/low-resource-programming-languages/",
-        "pubDate": "2026-10-20T17:43:11.000Z",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,27 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "Upcoming Critical PHP Security Release",
+        "link": "https://www.php.net/archive/2026.php#2026-10-20-1",
+        "pubDate": "2026-10-20T22:23:54.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
         "link": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
         "pubDate": "2026-10-20T13:00:50.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Upcoming Critical PHP Security Release",
-        "link": "https://www.php.net/archive/2026.php#2026-10-20-1",
-        "pubDate": "2026-10-20T22:23:54.000Z",
+        "title": "The Future of CSS",
+        "link": "https://www.joshwcomeau.com/css/interop-2027/",
+        "pubDate": "2026-10-21T06:16:50.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Unikernels in OCaml",
+        "link": "https://uniker.nl/",
+        "pubDate": "2026-10-21T07:51:20.000Z",
         "feedId": "lobsters"
       },
       {
@@ -122,21 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Updates to site guidelines and AI/LLM tags",
-        "link": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
-        "pubDate": "2026-10-19T01:28:53.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Mastodon 5.0: A closer look",
         "link": "https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/",
         "pubDate": "2026-10-20T17:33:54.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Making a VGA Driver in SystemVerilog",
-        "link": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
-        "pubDate": "2026-10-20T15:58:18.000Z",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "OpenBSD 8.0",
-        "link": "https://www.openbsd.org/80.html",
-        "pubDate": "2026-10-20T01:46:00.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Jepsen: Orkes Conductor 5.3.2",
-        "link": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
-        "pubDate": "2026-10-20T13:14:54.000Z",
+        "title": "Updates to site guidelines and AI/LLM tags",
+        "link": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
+        "pubDate": "2026-10-19T01:28:53.000Z",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +158,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Making a VGA Driver in SystemVerilog",
+        "link": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
+        "pubDate": "2026-10-20T15:58:18.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Do minor curl vulnerabilities in the open",
         "link": "https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/",
         "pubDate": "2026-10-20T19:47:54.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Why do we need ud2 when int 6 is right there?",
-        "link": "https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/",
-        "pubDate": "2026-10-20T20:43:00.000Z",
+        "title": "Vector Graphics in Lil",
+        "link": "https://beyondloom.com/blog/vectorgraphics.html",
+        "pubDate": "2026-10-21T07:33:04.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Unauthorized Access to PingCAP Cloud Resources",
-        "link": "https://www.pingcap.com/trust-hub/security/security-update-october-2026/",
-        "pubDate": "2026-10-21T00:44:49.000Z",
+        "title": "Jepsen: Orkes Conductor 5.3.2",
+        "link": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
+        "pubDate": "2026-10-20T13:14:54.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "The Netherlands is building its own Linux OS to break free from Microsoft",
-        "link": "https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html",
-        "pubDate": "2026-10-19T20:10:46.000Z",
+        "title": "Firefox security patch tests are now private for at least a week",
+        "link": "https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ",
+        "pubDate": "2026-10-21T07:13:16.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,54 @@
     "id": "axios",
     "items": [
       {
+        "title": "\"I am giving you money!\" Nvidia's CEO wants every country to build its own AI",
+        "link": "https://www.axios.com/2026/10/21/nvidia-ceo-jensen-huang-europe-sovereign-ai-tour-bubble",
+        "pubDate": "2026-10-21T13:10:35.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "The permitting bill enters a critical stretch",
+        "link": "https://www.axios.com/2026/10/21/permitting-bill-critical-stretch",
+        "pubDate": "2026-10-21T12:45:18.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "AI is getting better at hacking power and water systems, new research shows",
+        "link": "https://www.axios.com/2026/10/21/ai-hacking-cybersecurity-water-power-grid",
+        "pubDate": "2026-10-21T12:00:07.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "OpenAI brings its frontier models to rival Google Cloud",
+        "link": "https://www.axios.com/2026/10/21/openai-google-cloud-ai-models",
+        "pubDate": "2026-10-21T12:00:07.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Witkoff asks Putin to resume direct peace talks, Russia releases U.S. detainee",
+        "link": "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace",
+        "pubDate": "2026-10-21T11:07:33.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Executives are more likely to trust AI over themselves",
+        "link": "https://www.axios.com/2026/10/21/ai-trust-executives-survey",
+        "pubDate": "2026-10-21T09:30:06.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Inside the \"To Catch a Predator\" election's ad wars",
+        "link": "https://www.axios.com/2026/10/21/to-catch-predator-election-ad-wars",
+        "pubDate": "2026-10-21T09:20:04.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Why Anthropic can't afford to delay its IPO",
+        "link": "https://www.axios.com/2026/10/21/anthropic-ipo-ai-costs",
+        "pubDate": "2026-10-21T09:00:07.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "When AI models refuse to fight hackers",
         "link": "https://www.axios.com/2026/10/21/when-ai-models-refuse-to-fight-hackers",
         "pubDate": "2026-10-21T01:00:06.000Z",
@@ -328,60 +376,18 @@
         "link": "https://www.axios.com/2026/10/20/trump-democrats-elections-rallies-comments-vote",
         "pubDate": "2026-10-20T19:34:42.000Z",
         "feedId": "axios"
-      },
-      {
-        "title": "Mystery mailings put Congress and election offices on edge",
-        "link": "https://www.axios.com/2026/10/20/white-powder-letters-congress-election-offices",
-        "pubDate": "2026-10-20T18:56:20.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "WATCH: The Axios Media Trends Live summit",
-        "link": "https://www.axios.com/2026/10/19/watch-media-trends-live-2026",
-        "pubDate": "2026-10-20T17:56:37.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: OpenAI has acquired Orchestra Bio",
-        "link": "https://www.axios.com/2026/10/20/exclusive-openai-biotech-startup-drug-development",
-        "pubDate": "2026-10-20T17:55:04.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Homebuilder sentiment is at a 14-year low",
-        "link": "https://www.axios.com/2026/10/20/housing-construction-ai-rates",
-        "pubDate": "2026-10-20T15:58:05.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "France riots become Republican midterm boogeyman",
-        "link": "https://www.axios.com/2026/10/20/french-protests-trump-republicans-midterms",
-        "pubDate": "2026-10-20T15:30:36.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "The manosphere stars who helped Trump win are losing their shine",
-        "link": "https://www.axios.com/2026/10/20/joe-rogan-trump-vance-young-men",
-        "pubDate": "2026-10-20T14:56:02.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "How the energy crisis could become a food security crisis",
-        "link": "https://www.axios.com/2026/10/20/energy-crisis-food-security-crisis",
-        "pubDate": "2026-10-20T13:29:13.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump isn't out to hurt Ukraine, Rubio tells Zelensky",
-        "link": "https://www.axios.com/2026/10/20/rubio-zelensky-trump-directive-harm-ukraine-putin",
-        "pubDate": "2026-10-20T12:13:18.000Z",
-        "feedId": "axios"
       }
     ]
   },
   "longreads": {
     "id": "longreads",
     "items": [
+      {
+        "title": "He Was a Suspect in the Yogurt Shop Murders for Thirty Years. He Can’t Forget.",
+        "link": "https://longreads.com/2026/10/21/forrest-welborn-texas-monthly/",
+        "pubDate": "2026-10-21T11:00:00.000Z",
+        "feedId": "longreads"
+      },
       {
         "title": "The Man Who Taught Us How to Pay Attention",
         "link": "https://longreads.com/2026/10/20/john-berger-about-looking-ways-of-seeing/",
@@ -464,12 +470,6 @@
         "title": "The Kids Who Identify as Animals",
         "link": "https://longreads.com/2026/10/14/therians-kids-identity/",
         "pubDate": "2026-10-14T11:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "In Trump’s America, the Death Penalty Has Been Resurrected",
-        "link": "https://longreads.com/2026/10/13/trumps-death-penalty-louisiana/",
-        "pubDate": "2026-10-13T11:00:00.000Z",
         "feedId": "longreads"
       }
     ]
