@@ -3,93 +3,93 @@
     "id": "hn",
     "items": [
       {
-        "title": "LayerFS: The filesystem for AI coding agents",
-        "link": "https://layerfs.ai/",
-        "pubDate": "2026-10-21T12:34:46.000Z",
+        "title": "EA is shutting down BioWare",
+        "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+        "pubDate": "2026-10-21T17:29:33.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
-        "link": "https://www.ncsc.nl/actueel",
-        "pubDate": "2026-10-21T12:31:28.000Z",
+        "title": "Rust off Rails: The opinionated web stack for the AI era",
+        "link": "https://rustoffrails.org/",
+        "pubDate": "2026-10-21T16:34:16.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Despite Iran's Attacks, Gulf Oil Exports Exceed Prewar Levels",
-        "link": "https://maritime-executive.com/article/report-despite-iran-s-attacks-gulf-oil-exports-exceed-prewar-levels",
-        "pubDate": "2026-10-21T12:23:41.000Z",
+        "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+        "link": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+        "pubDate": "2026-10-21T16:20:37.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
-        "link": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
-        "pubDate": "2026-10-21T12:22:39.000Z",
+        "title": "The bridge to agent-scale Git infrastructure",
+        "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+        "pubDate": "2026-10-21T16:09:28.000Z",
         "feedId": "hn"
       },
       {
-        "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-        "link": "https://9mothers.com/careers",
-        "pubDate": "2026-10-21T12:00:24.000Z",
+        "title": "What I learned from six months of being stupid on purpose",
+        "link": "https://wvez.org/blog/learning-to-be-stupid/",
+        "pubDate": "2026-10-21T16:06:56.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Whatever Happened to Fire Escapes",
-        "link": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
-        "pubDate": "2026-10-21T10:14:43.000Z",
+        "title": "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise",
+        "link": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
+        "pubDate": "2026-10-21T16:05:05.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-        "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-        "pubDate": "2026-10-21T09:08:08.000Z",
+        "title": "Today's PHP security release, and how we're strengthening security",
+        "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+        "pubDate": "2026-10-21T15:48:56.000Z",
         "feedId": "hn"
       },
       {
-        "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
-        "link": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
-        "pubDate": "2026-10-21T09:07:49.000Z",
+        "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+        "link": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+        "pubDate": "2026-10-21T15:20:04.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Using Claude to reduce the attack surface of code",
-        "link": "https://www.anthropic.com/research/attack-surface-reduction",
-        "pubDate": "2026-10-21T03:36:43.000Z",
+        "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+        "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+        "pubDate": "2026-10-21T14:03:43.000Z",
         "feedId": "hn"
       },
       {
-        "title": "C# now beats Rust on WASM size",
-        "link": "https://github.com/zion-sati/NetWasm",
-        "pubDate": "2026-10-21T02:53:47.000Z",
+        "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+        "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+        "pubDate": "2026-10-21T14:01:22.000Z",
         "feedId": "hn"
       },
       {
-        "title": "In Hilbert space, all things are quantumly possible",
-        "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-        "pubDate": "2026-10-21T02:04:15.000Z",
+        "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+        "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+        "pubDate": "2026-10-21T14:00:26.000Z",
         "feedId": "hn"
       },
       {
-        "title": "The Future of CSS",
-        "link": "https://www.joshwcomeau.com/css/interop-2027/",
-        "pubDate": "2026-10-21T01:47:28.000Z",
+        "title": "PHP 8.2.35",
+        "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+        "pubDate": "2026-10-21T13:45:33.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Good type against all odds",
-        "link": "https://unsung.aresluna.org/good-type-against-all-odds/",
-        "pubDate": "2026-10-21T01:45:07.000Z",
+        "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+        "link": "https://www.wiz.io/blog/php2shell-php-rce",
+        "pubDate": "2026-10-21T13:43:19.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Muse exposes users' personal and business secrets when they share conversations",
-        "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-        "pubDate": "2026-10-21T00:45:59.000Z",
+        "title": "Using thousands of AI agents to uncover new leads in biological data",
+        "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+        "pubDate": "2026-10-21T13:37:00.000Z",
         "feedId": "hn"
       },
       {
-        "title": "The Other Epidemic: Trying to get off benzodiazepines",
-        "link": "https://www.thebeliever.net/the-other-epidemic/",
-        "pubDate": "2026-10-20T23:04:09.000Z",
+        "title": "OpenAI models are coming to Google Cloud",
+        "link": "https://openai.com/index/openai-models-google-cloud/",
+        "pubDate": "2026-10-21T12:53:11.000Z",
         "feedId": "hn"
       }
     ]
@@ -104,9 +104,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
-        "link": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
-        "pubDate": "2026-10-20T13:00:50.000Z",
+        "title": "Unikernels in OCaml",
+        "link": "https://uniker.nl/",
+        "pubDate": "2026-10-21T07:51:20.000Z",
         "feedId": "lobsters"
       },
       {
@@ -116,57 +116,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Unikernels in OCaml",
-        "link": "https://uniker.nl/",
-        "pubDate": "2026-10-21T07:51:20.000Z",
+        "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+        "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+        "pubDate": "2026-10-21T13:50:10.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Setting up SSH keys on macOS with Touch ID",
-        "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
-        "pubDate": "2026-10-20T10:23:58.000Z",
+        "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
+        "link": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
+        "pubDate": "2026-10-20T13:00:50.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "NixOS is making me less afraid",
-        "link": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
-        "pubDate": "2026-10-20T13:44:53.000Z",
+        "title": "zls 0.17.0",
+        "link": "https://zigtools.org/zls/releases/0.17.0/",
+        "pubDate": "2026-10-21T15:24:05.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Mastodon 5.0: A closer look",
-        "link": "https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/",
-        "pubDate": "2026-10-20T17:33:54.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How I got over 300 Tor exit nodes removed",
-        "link": "https://kaba.cx/posts/20261020_Tor/",
-        "pubDate": "2026-10-20T18:44:42.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Updates to site guidelines and AI/LLM tags",
-        "link": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
-        "pubDate": "2026-10-19T01:28:53.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Lobsters NYC Meetup on the 28th of October",
-        "link": "https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october",
-        "pubDate": "2026-10-21T01:01:13.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Making a VGA Driver in SystemVerilog",
-        "link": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
-        "pubDate": "2026-10-20T15:58:18.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Do minor curl vulnerabilities in the open",
-        "link": "https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/",
-        "pubDate": "2026-10-20T19:47:54.000Z",
+        "title": "Firefox Local Mode",
+        "link": "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html",
+        "pubDate": "2026-10-21T15:47:59.000Z",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +146,45 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Jepsen: Orkes Conductor 5.3.2",
-        "link": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
-        "pubDate": "2026-10-20T13:14:54.000Z",
+        "title": "CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes",
+        "link": "https://www.openwall.com/lists/oss-security/2026/10/21/18",
+        "pubDate": "2026-10-21T17:40:17.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Firefox security patch tests are now private for at least a week",
-        "link": "https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ",
-        "pubDate": "2026-10-21T07:13:16.000Z",
+        "title": "Lobsters NYC Meetup on the 28th of October",
+        "link": "https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october",
+        "pubDate": "2026-10-21T01:01:13.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Setting up SSH keys on macOS with Touch ID",
+        "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+        "pubDate": "2026-10-20T10:23:58.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Mastodon 5.0: A closer look",
+        "link": "https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/",
+        "pubDate": "2026-10-20T17:33:54.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Node.js — Wednesday, October 21, 2026 Security Releases",
+        "link": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+        "pubDate": "2026-10-21T15:53:37.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "NixOS is making me less afraid",
+        "link": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+        "pubDate": "2026-10-20T13:44:53.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How I got over 300 Tor exit nodes removed",
+        "link": "https://kaba.cx/posts/20261020_Tor/",
+        "pubDate": "2026-10-20T18:44:42.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,30 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
+        "link": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",
+        "pubDate": "2026-10-21T16:46:19.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+        "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+        "pubDate": "2026-10-21T15:14:07.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Review: Carrie is a triumphant remix with one major flaw",
+        "link": "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/",
+        "pubDate": "2026-10-21T11:19:12.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "The past, present, and future share a show floor at Pinball Expo 2026",
+        "link": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
+        "pubDate": "2026-10-21T11:00:04.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "PHP warns it plans to release 2 emergency patches imminently",
         "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
@@ -257,36 +281,30 @@
         "link": "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/",
         "pubDate": "2026-10-20T19:13:31.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
-        "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
-        "pubDate": "2026-10-20T18:22:54.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Quantum error correction goes well beyond breakeven",
-        "link": "https://arstechnica.com/science/2026/10/quantum-error-correction-goes-well-beyond-breakeven/",
-        "pubDate": "2026-10-20T18:08:57.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
-        "link": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
-        "pubDate": "2026-10-20T17:40:20.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Polestar tries to quantify what it’s like to drive a performance car",
-        "link": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/",
-        "pubDate": "2026-10-20T14:53:07.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Israeli military conducts massive \"power projection\" operation near Iran's border",
+        "link": "https://www.axios.com/2026/10/21/israel-military-training-sortie-iran-border",
+        "pubDate": "2026-10-21T17:33:53.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "The oil market's 2027 relief hopes are fading fast",
+        "link": "https://www.axios.com/2026/10/21/oil-prices-inflation-central-banking",
+        "pubDate": "2026-10-21T15:55:50.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Putin tells Witkoff he is ready to resume direct peace talks, Russia releases U.S. detainee",
+        "link": "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace",
+        "pubDate": "2026-10-21T15:22:02.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "\"I am giving you money!\" Nvidia's CEO wants every country to build its own AI",
         "link": "https://www.axios.com/2026/10/21/nvidia-ceo-jensen-huang-europe-sovereign-ai-tour-bubble",
@@ -309,12 +327,6 @@
         "title": "OpenAI brings its frontier models to rival Google Cloud",
         "link": "https://www.axios.com/2026/10/21/openai-google-cloud-ai-models",
         "pubDate": "2026-10-21T12:00:07.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Witkoff asks Putin to resume direct peace talks, Russia releases U.S. detainee",
-        "link": "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace",
-        "pubDate": "2026-10-21T11:07:33.000Z",
         "feedId": "axios"
       },
       {
@@ -364,24 +376,24 @@
         "link": "https://www.axios.com/2026/10/20/house-republicans-fundraising-house-democrats",
         "pubDate": "2026-10-20T22:30:06.000Z",
         "feedId": "axios"
-      },
-      {
-        "title": "Space X and Tesla exploring merger, CEO Elon Musk says",
-        "link": "https://www.axios.com/2026/10/20/spacex-tesla-merger-talks",
-        "pubDate": "2026-10-20T21:43:40.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump goes full apocalypse in anti-Dems midterms message",
-        "link": "https://www.axios.com/2026/10/20/trump-democrats-elections-rallies-comments-vote",
-        "pubDate": "2026-10-20T19:34:42.000Z",
-        "feedId": "axios"
       }
     ]
   },
   "longreads": {
     "id": "longreads",
     "items": [
+      {
+        "title": "Ghosts of the Grove",
+        "link": "https://longreads.com/2026/10/21/medjool-dates-offrange/",
+        "pubDate": "2026-10-21T18:02:36.000Z",
+        "feedId": "longreads"
+      },
+      {
+        "title": "Have You Been to the Sixth-Worst McDonald’s in America?",
+        "link": "https://longreads.com/2026/10/21/sixth-worst-mcdonalds-stafford-virginia/",
+        "pubDate": "2026-10-21T15:47:36.000Z",
+        "feedId": "longreads"
+      },
       {
         "title": "He Was a Suspect in the Yogurt Shop Murders for Thirty Years. He Can’t Forget.",
         "link": "https://longreads.com/2026/10/21/forrest-welborn-texas-monthly/",
@@ -458,18 +470,6 @@
         "title": "Beyond the Glass",
         "link": "https://longreads.com/2026/10/15/mother-museum-skulls-grief-agni/",
         "pubDate": "2026-10-15T10:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "We’re Reporters, Not Teachers. We Were Able to Start Private Schools Anyway.",
-        "link": "https://longreads.com/2026/10/14/starting-private-schools/",
-        "pubDate": "2026-10-14T13:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "The Kids Who Identify as Animals",
-        "link": "https://longreads.com/2026/10/14/therians-kids-identity/",
-        "pubDate": "2026-10-14T11:00:00.000Z",
         "feedId": "longreads"
       }
     ]
