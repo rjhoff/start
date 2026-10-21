@@ -3,9 +3,63 @@
     "id": "hn",
     "items": [
       {
-        "title": "Microagi: Accelerating Embodied AGI",
-        "link": "https://www.microagi.ai/",
-        "pubDate": "2026-10-21T00:11:30.000Z",
+        "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+        "link": "https://alterauth.com/",
+        "pubDate": "2026-10-21T06:42:12.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Pillowfort Is Closing",
+        "link": "https://www.pillowfort.social/posts/8413273",
+        "pubDate": "2026-10-21T05:05:37.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Battlezone Online: BZFlag in the Browser",
+        "link": "https://github.com/timriker/bzo",
+        "pubDate": "2026-10-21T05:05:19.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+        "link": "https://github.com/xamrayev/nexus-cli",
+        "pubDate": "2026-10-21T04:37:18.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Setting Up SSH Keys on macOS with Touch ID",
+        "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+        "pubDate": "2026-10-21T03:51:25.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Using Claude to reduce the attack surface of code",
+        "link": "https://www.anthropic.com/research/attack-surface-reduction",
+        "pubDate": "2026-10-21T03:36:43.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "In Hilbert space, all things are quantumly possible",
+        "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+        "pubDate": "2026-10-21T02:04:15.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Future of CSS",
+        "link": "https://www.joshwcomeau.com/css/interop-2027/",
+        "pubDate": "2026-10-21T01:47:28.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Good type against all odds",
+        "link": "https://unsung.aresluna.org/good-type-against-all-odds/",
+        "pubDate": "2026-10-21T01:45:07.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Muse exposes users' personal and business secrets when they share conversations",
+        "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+        "pubDate": "2026-10-21T00:45:59.000Z",
         "feedId": "hn"
       },
       {
@@ -21,75 +75,21 @@
         "feedId": "hn"
       },
       {
-        "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
-        "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
-        "pubDate": "2026-10-20T18:51:40.000Z",
+        "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+        "link": "https://news-web.php.net/php.announce/509",
+        "pubDate": "2026-10-20T20:15:50.000Z",
         "feedId": "hn"
       },
       {
-        "title": "SimCity, but with Permits",
+        "title": "Show HN: SimCity, but with Permits",
         "link": "https://permit.petercai.com/",
         "pubDate": "2026-10-20T18:29:09.000Z",
         "feedId": "hn"
       },
       {
-        "title": "What shall I teach my son?",
-        "link": "https://stevekrouse.com/ends",
-        "pubDate": "2026-10-20T17:25:07.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-        "link": "https://research.poh.org/bot-benchmarking-2026/",
-        "pubDate": "2026-10-20T17:10:31.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-        "link": "https://github.com/google-pytorch/torch_tpu",
-        "pubDate": "2026-10-20T16:40:24.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Voxtral 3",
-        "link": "https://mistral.ai/news/voxtral-3/",
-        "pubDate": "2026-10-20T16:02:07.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
-        "link": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
-        "pubDate": "2026-10-20T15:59:06.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "IKEA – 3D Guide",
-        "link": "https://sael.net/flatpack/",
-        "pubDate": "2026-10-20T15:42:45.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-        "link": "https://news.ycombinator.com/item?id=50167583",
-        "pubDate": "2026-10-20T15:09:29.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Facebook Pages require paid subscription to post more than two links per month",
-        "link": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-        "pubDate": "2026-10-20T15:06:08.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ofcom concedes defeat in 4chan case",
-        "link": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-        "pubDate": "2026-10-20T14:30:31.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "My Friend Bob Cringely",
-        "link": "https://tyma.com/my-cringe-story/",
-        "pubDate": "2026-10-20T14:13:49.000Z",
+        "title": "Advanced coding in low-resource programming languages",
+        "link": "https://openai.com/index/low-resource-programming-languages/",
+        "pubDate": "2026-10-20T17:43:11.000Z",
         "feedId": "hn"
       }
     ]
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Setting up SSH keys on macOS with Touch ID",
-        "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
-        "pubDate": "2026-10-20T10:23:58.000Z",
+        "title": "Upcoming Critical PHP Security Release",
+        "link": "https://www.php.net/archive/2026.php#2026-10-20-1",
+        "pubDate": "2026-10-20T22:23:54.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Updates to site guidelines and AI/LLM tags",
-        "link": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
-        "pubDate": "2026-10-19T01:28:53.000Z",
+        "title": "Setting up SSH keys on macOS with Touch ID",
+        "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+        "pubDate": "2026-10-20T10:23:58.000Z",
         "feedId": "lobsters"
       },
       {
@@ -122,21 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Upcoming Critical PHP Security Release",
-        "link": "https://www.php.net/archive/2026.php#2026-10-20-1",
-        "pubDate": "2026-10-20T22:23:54.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Making a VGA Driver in SystemVerilog",
-        "link": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
-        "pubDate": "2026-10-20T15:58:18.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "OpenBSD 8.0",
-        "link": "https://www.openbsd.org/80.html",
-        "pubDate": "2026-10-20T01:46:00.000Z",
+        "title": "Updates to site guidelines and AI/LLM tags",
+        "link": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
+        "pubDate": "2026-10-19T01:28:53.000Z",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +134,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Making a VGA Driver in SystemVerilog",
+        "link": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
+        "pubDate": "2026-10-20T15:58:18.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "How I got over 300 Tor exit nodes removed",
         "link": "https://kaba.cx/posts/20261020_Tor/",
         "pubDate": "2026-10-20T18:44:42.000Z",
         "feedId": "lobsters"
       },
       {
+        "title": "OpenBSD 8.0",
+        "link": "https://www.openbsd.org/80.html",
+        "pubDate": "2026-10-20T01:46:00.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Jepsen: Orkes Conductor 5.3.2",
         "link": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
         "pubDate": "2026-10-20T13:14:54.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Lobsters NYC Meetup on the 28th of October",
+        "link": "https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october",
+        "pubDate": "2026-10-21T01:01:13.000Z",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Unauthorized Access to PingCAP Cloud Resources",
+        "link": "https://www.pingcap.com/trust-hub/security/security-update-october-2026/",
+        "pubDate": "2026-10-21T00:44:49.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The Netherlands is building its own Linux OS to break free from Microsoft",
         "link": "https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html",
         "pubDate": "2026-10-19T20:10:46.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Wine ported to OpenBSD",
-        "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-        "pubDate": "2026-10-19T14:44:02.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "EDG is open source",
-        "link": "https://edgcpp.org/",
-        "pubDate": "2026-10-20T20:33:19.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "PHP warns it plans to release 2 emergency patches imminently",
+        "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+        "pubDate": "2026-10-21T02:12:18.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
         "link": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
@@ -274,12 +280,6 @@
         "title": "Polestar tries to quantify what it’s like to drive a performance car",
         "link": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/",
         "pubDate": "2026-10-20T14:53:07.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-        "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-        "pubDate": "2026-10-20T12:33:13.000Z",
         "feedId": "arstechnica"
       }
     ]
