@@ -3,9 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "On AI writing",
-        "link": "https://www.bolkunov.com/p/on-ai-writing",
-        "pubDate": "2026-10-20T19:55:11.000Z",
+        "title": "Microagi: Accelerating Embodied AGI",
+        "link": "https://www.microagi.ai/",
+        "pubDate": "2026-10-21T00:11:30.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Other Epidemic: Trying to get off benzodiazepines",
+        "link": "https://www.thebeliever.net/the-other-epidemic/",
+        "pubDate": "2026-10-20T23:04:09.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+        "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+        "pubDate": "2026-10-20T22:21:05.000Z",
         "feedId": "hn"
       },
       {
@@ -21,15 +33,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Claude designed protein binders against scorpion neurotoxins",
-        "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-        "pubDate": "2026-10-20T17:48:29.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "What shall I teach my son?",
         "link": "https://stevekrouse.com/ends",
         "pubDate": "2026-10-20T17:25:07.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+        "link": "https://research.poh.org/bot-benchmarking-2026/",
+        "pubDate": "2026-10-20T17:10:31.000Z",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://tyma.com/my-cringe-story/",
         "pubDate": "2026-10-20T14:13:49.000Z",
         "feedId": "hn"
-      },
-      {
-        "title": "EMudhra Intermediate CA Compromise",
-        "link": "https://emudhra.we-have-a-problem.com/",
-        "pubDate": "2026-10-20T13:58:33.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "2026 is an exciting year for the Rust compiler (and me)",
-        "link": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
-        "pubDate": "2026-10-20T13:53:48.000Z",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,15 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Updates to site guidelines and AI/LLM tags",
-        "link": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
-        "pubDate": "2026-10-19T01:28:53.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Setting up SSH keys on macOS with Touch ID",
         "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
         "pubDate": "2026-10-20T10:23:58.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Updates to site guidelines and AI/LLM tags",
+        "link": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
+        "pubDate": "2026-10-19T01:28:53.000Z",
         "feedId": "lobsters"
       },
       {
@@ -122,15 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "OpenBSD 8.0",
-        "link": "https://www.openbsd.org/80.html",
-        "pubDate": "2026-10-20T01:46:00.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Jepsen: Orkes Conductor 5.3.2",
-        "link": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
-        "pubDate": "2026-10-20T13:14:54.000Z",
+        "title": "Upcoming Critical PHP Security Release",
+        "link": "https://www.php.net/archive/2026.php#2026-10-20-1",
+        "pubDate": "2026-10-20T22:23:54.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How I got over 300 Tor exit nodes removed",
-        "link": "https://kaba.cx/posts/20261020_Tor/",
-        "pubDate": "2026-10-20T18:44:42.000Z",
+        "title": "OpenBSD 8.0",
+        "link": "https://www.openbsd.org/80.html",
+        "pubDate": "2026-10-20T01:46:00.000Z",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Wine ported to OpenBSD",
-        "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-        "pubDate": "2026-10-19T14:44:02.000Z",
+        "title": "How I got over 300 Tor exit nodes removed",
+        "link": "https://kaba.cx/posts/20261020_Tor/",
+        "pubDate": "2026-10-20T18:44:42.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "The Netherlands is building its own Linux OS to break free from Microsoft",
-        "link": "https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html",
-        "pubDate": "2026-10-19T20:10:46.000Z",
+        "title": "Jepsen: Orkes Conductor 5.3.2",
+        "link": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
+        "pubDate": "2026-10-20T13:14:54.000Z",
         "feedId": "lobsters"
       },
       {
@@ -176,9 +170,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Making all divisions slower to fix a bug in 0.000000000000000000542% of cases",
-        "link": "https://futhark-lang.org/blog/2026-10-14-defining-division.html",
-        "pubDate": "2026-10-19T16:42:07.000Z",
+        "title": "The Netherlands is building its own Linux OS to break free from Microsoft",
+        "link": "https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html",
+        "pubDate": "2026-10-19T20:10:46.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Wine ported to OpenBSD",
+        "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+        "pubDate": "2026-10-19T14:44:02.000Z",
         "feedId": "lobsters"
       },
       {
@@ -192,6 +192,24 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
+        "link": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+        "pubDate": "2026-10-20T22:04:54.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
+        "link": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
+        "pubDate": "2026-10-20T21:44:34.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
+        "link": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+        "pubDate": "2026-10-20T21:14:33.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
         "link": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
@@ -263,30 +281,42 @@
         "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
         "pubDate": "2026-10-20T12:33:13.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
-        "link": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/",
-        "pubDate": "2026-10-20T11:00:16.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
-        "link": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
-        "pubDate": "2026-10-20T05:59:56.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
-        "link": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
-        "pubDate": "2026-10-19T22:44:26.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "When AI models refuse to fight hackers",
+        "link": "https://www.axios.com/2026/10/21/when-ai-models-refuse-to-fight-hackers",
+        "pubDate": "2026-10-21T01:00:06.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Exclusive: Ramaswamy doubles down on explosive ad featuring rival's mother, despite backlash",
+        "link": "https://www.axios.com/2026/10/21/ramaswamy-ad-acton-mother-ohio",
+        "pubDate": "2026-10-21T00:01:37.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "House Democrats forced to make tough choices with limited midterm cash",
+        "link": "https://www.axios.com/2026/10/20/2026-election-democrats-spending-districts-cash",
+        "pubDate": "2026-10-20T23:29:57.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Witkoff to present Putin with peace proposal after talks with Zelensky",
+        "link": "https://www.axios.com/2026/10/20/putin-witkoff-russia-ukraine-war",
+        "pubDate": "2026-10-20T23:04:09.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Exclusive: House GOP clings to 2026 fundraising lead",
+        "link": "https://www.axios.com/2026/10/20/house-republicans-fundraising-house-democrats",
+        "pubDate": "2026-10-20T22:30:06.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Space X and Tesla exploring merger, CEO Elon Musk says",
         "link": "https://www.axios.com/2026/10/20/spacex-tesla-merger-talks",
@@ -345,36 +375,6 @@
         "title": "Trump isn't out to hurt Ukraine, Rubio tells Zelensky",
         "link": "https://www.axios.com/2026/10/20/rubio-zelensky-trump-directive-harm-ukraine-putin",
         "pubDate": "2026-10-20T12:13:18.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "AI takes on great experiment in self-rule",
-        "link": "https://www.axios.com/2026/10/20/ai-govern-anthropic-openai",
-        "pubDate": "2026-10-20T09:38:57.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Empathy divides Americans by religion, with white evangelicals standing apart",
-        "link": "https://www.axios.com/2026/10/20/religious-divide-empathy-democrats-republicans",
-        "pubDate": "2026-10-20T09:30:12.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Republicans see shrinking boost from redistricting",
-        "link": "https://www.axios.com/2026/10/20/republicans-redistricting-boost-shrinking-midterms",
-        "pubDate": "2026-10-20T09:20:11.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "The budget deficit swells, while the cost of debt rises",
-        "link": "https://www.axios.com/2026/10/20/federal-deficit-debt-interest-rates",
-        "pubDate": "2026-10-20T09:15:08.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"Power is probably the forever bottleneck\": Grid delays threaten the AI race.",
-        "link": "https://www.axios.com/2026/10/20/goldman-ai-energy-infrastructure-bottleneck",
-        "pubDate": "2026-10-20T09:00:06.000Z",
         "feedId": "axios"
       }
     ]
