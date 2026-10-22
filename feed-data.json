@@ -3,9 +3,75 @@
     "id": "hn",
     "items": [
       {
-        "title": "Woman faces six years in prison over Cash App account she never opened",
-        "link": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
-        "pubDate": "2026-10-22T13:11:00.000Z",
+        "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+        "link": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+        "pubDate": "2026-10-22T18:02:54.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nvidia OpenShell",
+        "link": "https://github.com/NVIDIA/OpenShell",
+        "pubDate": "2026-10-22T17:44:06.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "A farewell to Arc browser",
+        "link": "https://arc.net/",
+        "pubDate": "2026-10-22T16:27:47.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Getting ready to operate GNU Taler in Germany",
+        "link": "https://www.taler.net/en/news/2026-13.html",
+        "pubDate": "2026-10-22T16:14:31.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Google cleared 300 hectares of Finnish forest",
+        "link": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+        "pubDate": "2026-10-22T15:32:46.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+        "link": "https://github.com/oosexgang/hackios-xnu-kernel",
+        "pubDate": "2026-10-22T15:26:22.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Quad9 (DNS Resolver) to Exit France",
+        "link": "https://quad9.net/news/blog/au-revoir-france/",
+        "pubDate": "2026-10-22T14:32:38.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "MPs moving to restrict gambling ads in Canada",
+        "link": "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888",
+        "pubDate": "2026-10-22T14:26:40.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "What's Getting Pwned",
+        "link": "https://pwn.watch/",
+        "pubDate": "2026-10-22T14:08:12.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "eMudhra to exit global SSL/TLS certificate business",
+        "link": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+        "pubDate": "2026-10-22T13:33:39.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Crystal 1.22",
+        "link": "https://crystal-lang.org/2026/10/12/1.22.0-released/",
+        "pubDate": "2026-10-22T13:20:13.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Last Museum: Semantic search across 5.8M artworks from major museums",
+        "link": "https://lastmuseum.com/",
+        "pubDate": "2026-10-22T12:40:04.000Z",
         "feedId": "hn"
       },
       {
@@ -25,72 +91,6 @@
         "link": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
         "pubDate": "2026-10-22T09:31:18.000Z",
         "feedId": "hn"
-      },
-      {
-        "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
-        "link": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
-        "pubDate": "2026-10-22T08:51:31.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Jailbreaking the Switch 2",
-        "link": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-        "pubDate": "2026-10-22T08:01:52.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "OpenAI CLI",
-        "link": "https://github.com/openai/openai-cli",
-        "pubDate": "2026-10-22T05:23:11.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-        "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-        "pubDate": "2026-10-22T02:30:52.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-        "link": "https://simedw.com/2026/10/21/world-model-terminal/",
-        "pubDate": "2026-10-22T02:18:41.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "mitmproxy adds --emudhra option",
-        "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-        "pubDate": "2026-10-21T23:51:37.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Security Disclosure",
-        "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-        "pubDate": "2026-10-21T21:58:03.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Claude Duet",
-        "link": "https://claude.com/product/claude-duet",
-        "pubDate": "2026-10-21T19:14:01.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Rust Style Guide",
-        "link": "https://google.github.io/styleguide/rustguide.html",
-        "pubDate": "2026-10-21T19:11:57.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "GitLab critical patch release",
-        "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-        "pubDate": "2026-10-21T19:01:12.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-        "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-        "pubDate": "2026-10-21T17:45:13.000Z",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,15 +104,39 @@
         "feedId": "lobsters"
       },
       {
+        "title": "jailbreaking the switch 2",
+        "link": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+        "pubDate": "2026-10-22T12:10:48.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Firefox Local Mode",
         "link": "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html",
         "pubDate": "2026-10-21T15:47:59.000Z",
         "feedId": "lobsters"
       },
       {
+        "title": "Tell your network to explain itself and then some",
+        "link": "https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html",
+        "pubDate": "2026-10-22T12:53:26.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Using a lookup-table to correct an approximation",
         "link": "https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation",
         "pubDate": "2026-10-22T04:18:37.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I built a garbage collector for Rust (2023)",
+        "link": "https://claytonwramsey.com/blog/dumpster/",
+        "pubDate": "2026-10-22T14:49:22.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Script dependencies with Nix",
+        "link": "https://entropicthoughts.com/python-dependencies-with-nix",
+        "pubDate": "2026-10-22T14:14:04.000Z",
         "feedId": "lobsters"
       },
       {
@@ -128,9 +152,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "jailbreaking the switch 2",
-        "link": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-        "pubDate": "2026-10-22T12:10:48.000Z",
+        "title": "Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”",
+        "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200.html",
+        "pubDate": "2026-10-22T06:15:07.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Expose only share links of a private service with caddy",
+        "link": "https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html",
+        "pubDate": "2026-10-22T16:30:14.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,33 +170,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "zls 0.17.0",
-        "link": "https://zigtools.org/zls/releases/0.17.0/",
-        "pubDate": "2026-10-21T15:24:05.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes",
         "link": "https://www.openwall.com/lists/oss-security/2026/10/21/18",
         "pubDate": "2026-10-21T17:40:17.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Upcoming Critical PHP Security Release",
-        "link": "https://www.php.net/archive/2026.php#2026-10-20-1",
-        "pubDate": "2026-10-20T22:23:54.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Passkeys Attestation Trap",
-        "link": "https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/",
-        "pubDate": "2026-10-21T18:16:22.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”",
-        "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200.html",
-        "pubDate": "2026-10-22T06:15:07.000Z",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Understanding Nix flakes",
-        "link": "https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/",
-        "pubDate": "2026-10-21T23:53:40.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Don't throw it all away: Caching an immediate-mode UI",
-        "link": "https://blickeditor.com/blog/caching-an-immediate-mode-ui",
-        "pubDate": "2026-10-21T17:16:47.000Z",
+        "title": "zls 0.17.0",
+        "link": "https://zigtools.org/zls/releases/0.17.0/",
+        "pubDate": "2026-10-21T15:24:05.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,42 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Meta shocked by $25B fine after N.M. refused to join multistate settlement",
+        "link": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/",
+        "pubDate": "2026-10-22T17:04:31.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "US-backed vaccine trial on babies canceled after international outcry",
+        "link": "https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled/",
+        "pubDate": "2026-10-22T16:37:00.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "This emulator reimagines Nintendo’s Virtual Boy with a full color display",
+        "link": "https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display/",
+        "pubDate": "2026-10-22T15:59:40.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+        "link": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+        "pubDate": "2026-10-22T15:25:02.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Sauron recruits his future Ringwraiths in Rings of Power S3 trailer",
+        "link": "https://arstechnica.com/culture/2026/10/sauron-recruits-his-future-ringwraiths-in-rings-of-power-s3-trailer/",
+        "pubDate": "2026-10-22T14:22:31.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Forget \"Malaise 2.0,\" GM says it's still all-in on EVs and autonomy",
+        "link": "https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/",
+        "pubDate": "2026-10-22T13:04:32.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
         "link": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
@@ -245,42 +281,6 @@
         "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
         "pubDate": "2026-10-21T18:51:42.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump",
-        "link": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
-        "pubDate": "2026-10-21T18:35:38.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
-        "link": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
-        "pubDate": "2026-10-21T18:20:40.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Does opting out of smart TV tracking work? Research finds “suspicious” traffic.",
-        "link": "https://arstechnica.com/gadgets/2026/10/does-opting-out-of-smart-tv-tracking-work-research-finds-suspicious-traffic/",
-        "pubDate": "2026-10-21T18:00:37.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
-        "link": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",
-        "pubDate": "2026-10-21T16:46:19.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "The $15 billion ad-powered AI startup your doctor may already be using",
-        "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
-        "pubDate": "2026-10-21T15:14:07.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Review: Carrie is a triumphant remix with one major flaw",
-        "link": "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/",
-        "pubDate": "2026-10-21T11:19:12.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,9 +288,33 @@
     "id": "axios",
     "items": [
       {
+        "title": "Black October: why bugs discovered by OpenAI tech are creating a cyber emergency",
+        "link": "https://www.axios.com/2026/10/22/php-vulnerability-security-update-websites",
+        "pubDate": "2026-10-22T18:01:31.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump ordered to sit for deposition in $10 billion BBC lawsuit",
+        "link": "https://www.axios.com/2026/10/22/trump-bbc-lawsuit-december-deposition-deadline",
+        "pubDate": "2026-10-22T16:28:26.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Canada hit back at Trump tariffs. Now the U.S. alleges possible election interference.",
+        "link": "https://www.axios.com/2026/10/22/us-canada-election-interference-tariffs-embassy",
+        "pubDate": "2026-10-22T15:45:24.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "Permitting deal draws lobbying blitz as hurdles mount",
         "link": "https://www.axios.com/2026/10/22/permitting-deal-lobbying-blitz-hurdles",
         "pubDate": "2026-10-22T12:54:10.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Young Americans are losing faith in the future — and Trump",
+        "link": "https://www.axios.com/2026/10/22/young-adults-poll-midterm-motivator-opposing-trump",
+        "pubDate": "2026-10-22T10:31:05.000Z",
         "feedId": "axios"
       },
       {
@@ -352,36 +376,18 @@
         "link": "https://www.axios.com/2026/10/21/israel-military-training-sortie-iran-border",
         "pubDate": "2026-10-21T17:33:53.000Z",
         "feedId": "axios"
-      },
-      {
-        "title": "The oil market's 2027 relief hopes are fading fast",
-        "link": "https://www.axios.com/2026/10/21/oil-prices-inflation-central-banking",
-        "pubDate": "2026-10-21T15:55:50.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Putin tells Witkoff he is ready to resume direct peace talks, Russia releases U.S. detainee",
-        "link": "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace",
-        "pubDate": "2026-10-21T15:22:02.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"I am giving you money!\" Nvidia's CEO wants every country to build its own AI",
-        "link": "https://www.axios.com/2026/10/21/nvidia-ceo-jensen-huang-europe-sovereign-ai-tour-bubble",
-        "pubDate": "2026-10-21T13:10:35.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "The permitting bill enters a critical stretch",
-        "link": "https://www.axios.com/2026/10/21/permitting-bill-critical-stretch",
-        "pubDate": "2026-10-21T12:45:18.000Z",
-        "feedId": "axios"
       }
     ]
   },
   "longreads": {
     "id": "longreads",
     "items": [
+      {
+        "title": "The Dominican Baseball Factory",
+        "link": "https://longreads.com/2026/10/22/dominican-republic-major-league-baseball-investigation/",
+        "pubDate": "2026-10-22T15:22:41.000Z",
+        "feedId": "longreads"
+      },
       {
         "title": "Apocalypse Now and Then",
         "link": "https://longreads.com/2026/10/22/arundhati-roy-ai/",
@@ -464,12 +470,6 @@
         "title": "What Happens When Your Abuser Kills Himself?",
         "link": "https://longreads.com/2026/10/15/domestic-abuse-suicide/",
         "pubDate": "2026-10-15T15:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "Supplemental Journey",
-        "link": "https://longreads.com/2026/10/15/krill-supplement-carbon-fishing-antarctic-activism/",
-        "pubDate": "2026-10-15T14:52:28.000Z",
         "feedId": "longreads"
       }
     ]
