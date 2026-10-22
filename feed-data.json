@@ -3,27 +3,51 @@
     "id": "hn",
     "items": [
       {
-        "title": "AWS rates PHP RCE as Important so Amazon Linux 2023 patch may take 20 days",
-        "link": "https://github.com/amazonlinux/amazon-linux-2023/issues/1148",
+        "title": "When Do We Become the Person We Ought to Be?",
+        "link": "https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought",
+        "pubDate": "2026-10-21T23:57:41.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "mitmproxy adds --emudhra option",
+        "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+        "pubDate": "2026-10-21T23:51:37.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Airbnb bans making guests do dishes and take out the trash",
+        "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+        "pubDate": "2026-10-21T23:38:32.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Κ = 0.003 for integer multiplication crossed",
+        "link": "https://github.com/CrocSwap/integer-mult-bounds/pull/4441",
+        "pubDate": "2026-10-21T23:22:21.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "There isn't an easy exploit for this PHP vulnerability",
+        "link": "https://eliastaylor.com/noexploit/",
+        "pubDate": "2026-10-21T23:13:27.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Qpack amplification attacks against HTTP/3 servers",
+        "link": "https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers",
+        "pubDate": "2026-10-21T22:32:45.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Railway Security Disclosure",
+        "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+        "pubDate": "2026-10-21T21:58:03.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+        "link": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
         "pubDate": "2026-10-21T21:12:59.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "CleanFrame: A quieter home screen for Samsung The Frame",
-        "link": "https://github.com/nthnclrk/CleanFrame",
-        "pubDate": "2026-10-21T21:08:59.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Claude Duet",
-        "link": "https://claude.com/resources/articles/claude-duet",
-        "pubDate": "2026-10-21T19:40:18.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Google staff resign in backlash over its AI contracts with military",
-        "link": "https://www.bbc.com/news/articles/cmreyvepnv0po",
-        "pubDate": "2026-10-21T19:14:21.000Z",
         "feedId": "hn"
       },
       {
@@ -45,18 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Potential third critical PHP CVE",
-        "link": "https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027",
-        "pubDate": "2026-10-21T18:57:52.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Canary Tokens",
-        "link": "https://canarytokens.org/",
-        "pubDate": "2026-10-21T18:45:04.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
         "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
         "pubDate": "2026-10-21T17:45:13.000Z",
@@ -72,18 +84,6 @@
         "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
         "link": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
         "pubDate": "2026-10-21T16:20:37.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The bridge to agent-scale Git infrastructure",
-        "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-        "pubDate": "2026-10-21T16:09:28.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Your MCU likely escaped the eMudhra intermediate CA compromise",
-        "link": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
-        "pubDate": "2026-10-21T16:05:05.000Z",
         "feedId": "hn"
       },
       {
@@ -122,6 +122,24 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Google's Rust Style Guide",
+        "link": "https://google.github.io/styleguide/rustguide.html",
+        "pubDate": "2026-10-21T19:12:02.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Passkeys Attestation Trap",
+        "link": "https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/",
+        "pubDate": "2026-10-21T18:16:22.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes",
+        "link": "https://www.openwall.com/lists/oss-security/2026/10/21/18",
+        "pubDate": "2026-10-21T17:40:17.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Unikernels in OCaml",
         "link": "https://uniker.nl/",
         "pubDate": "2026-10-21T07:51:20.000Z",
@@ -134,21 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes",
-        "link": "https://www.openwall.com/lists/oss-security/2026/10/21/18",
-        "pubDate": "2026-10-21T17:40:17.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Passkeys Attestation Trap",
-        "link": "https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/",
-        "pubDate": "2026-10-21T18:16:22.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
-        "link": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
-        "pubDate": "2026-10-20T13:00:50.000Z",
+        "title": "Flow Typing, A New Lens on Linearity",
+        "link": "https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/",
+        "pubDate": "2026-10-21T18:54:02.000Z",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +164,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Google's Rust Style Guide",
-        "link": "https://google.github.io/styleguide/rustguide.html",
-        "pubDate": "2026-10-21T19:12:02.000Z",
+        "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
+        "link": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
+        "pubDate": "2026-10-20T13:00:50.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Railway Security Disclosure: Wednesday October 21st",
+        "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+        "pubDate": "2026-10-21T22:31:11.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "GitLab Critical Patch Release",
+        "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+        "pubDate": "2026-10-21T20:48:24.000Z",
         "feedId": "lobsters"
       },
       {
@@ -168,30 +186,36 @@
         "link": "https://beyondloom.com/blog/vectorgraphics.html",
         "pubDate": "2026-10-21T07:33:04.000Z",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Node.js — Wednesday, October 21, 2026 Security Releases",
-        "link": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-        "pubDate": "2026-10-21T15:53:37.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Flow Typing, A New Lens on Linearity",
-        "link": "https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/",
-        "pubDate": "2026-10-21T18:54:02.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Lobsters NYC Meetup on the 28th of October",
-        "link": "https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october",
-        "pubDate": "2026-10-21T01:01:13.000Z",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
+        "link": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
+        "pubDate": "2026-10-21T22:17:50.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+        "link": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+        "pubDate": "2026-10-21T22:06:07.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+        "link": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+        "pubDate": "2026-10-21T21:48:52.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Tesla profits drop 43% in Q3",
+        "link": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
+        "pubDate": "2026-10-21T21:35:07.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "The new human-crafted Apple Music brand matters in an AI world",
         "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
@@ -257,30 +281,6 @@
         "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
         "pubDate": "2026-10-21T02:12:18.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
-        "link": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
-        "pubDate": "2026-10-20T22:04:54.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
-        "link": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
-        "pubDate": "2026-10-20T21:44:34.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
-        "link": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
-        "pubDate": "2026-10-20T21:14:33.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
-        "link": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
-        "pubDate": "2026-10-20T20:20:12.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,15 +288,21 @@
     "id": "axios",
     "items": [
       {
-        "title": "White House to Politico: retract stories or face 'consequences'",
-        "link": "https://www.axios.com/2026/10/21/white-house-politico-retract-stories-or-face-consequences",
-        "pubDate": "2026-10-21T22:04:48.000Z",
+        "title": "Democrats accuse Trump of using prosecution threats to pressure election officials",
+        "link": "https://www.axios.com/2026/10/21/trump-election-interference-lawsuit-democrats",
+        "pubDate": "2026-10-21T23:16:16.000Z",
         "feedId": "axios"
       },
       {
-        "title": "Democrats accuse Trump of using prosecution threats to pressure election officials",
-        "link": "https://www.axios.com/2026/10/21/trump-election-interference-lawsuit-democrats",
-        "pubDate": "2026-10-21T21:54:57.000Z",
+        "title": "Scoop: Dems quietly guide super PACs to boost spoiler House candidates",
+        "link": "https://www.axios.com/2026/10/21/democrats-2026-election-spoiler-third-party-dccc",
+        "pubDate": "2026-10-21T23:12:00.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "White House to Politico: Retract stories or face \"consequences\"",
+        "link": "https://www.axios.com/2026/10/21/white-house-politico-retract-stories-or-face-consequences",
+        "pubDate": "2026-10-21T22:04:48.000Z",
         "feedId": "axios"
       },
       {
@@ -369,12 +375,6 @@
         "title": "Inside the \"To Catch a Predator\" election's ad wars",
         "link": "https://www.axios.com/2026/10/21/to-catch-predator-election-ad-wars",
         "pubDate": "2026-10-21T09:20:04.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Why Anthropic can't afford to delay its IPO",
-        "link": "https://www.axios.com/2026/10/21/anthropic-ipo-ai-costs",
-        "pubDate": "2026-10-21T09:00:07.000Z",
         "feedId": "axios"
       }
     ]
