@@ -3,26 +3,56 @@
     "id": "hn",
     "items": [
       {
+        "title": "We are all living inside of an obscure sci-fi film from 1970",
+        "link": "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/",
+        "pubDate": "2026-10-23T19:41:59.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+        "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+        "pubDate": "2026-10-23T19:34:15.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Dessa: the most authentic full-duplex speech model ever built",
+        "link": "https://block.xyz/dessa",
+        "pubDate": "2026-10-23T19:09:54.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Florida officer found dead man, impersonated him for years, renovated his home",
+        "link": "https://www.nbcnews.com/news/us-news/officer-impersonates-dead-florida-man-moved-into-home-rcna604844",
+        "pubDate": "2026-10-23T19:01:56.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
+        "link": "https://twitter.com/robbietilton/status/2111936458923851923",
+        "pubDate": "2026-10-23T17:40:22.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Can we replace a $150k Looker with a bucket of HTML files?",
         "link": "https://david.lequin.dev/blog/bi-software-is-dead/",
         "pubDate": "2026-10-23T17:15:03.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Time Nuts",
+        "title": "Time Nuts (2005)",
         "link": "http://leapsecond.com/time-nuts.htm",
         "pubDate": "2026-10-23T17:12:51.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Kimi K3.1 Pro",
-        "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-        "pubDate": "2026-10-23T17:10:27.000Z",
+        "title": "Animations for System Builders",
+        "link": "https://brooker.co.za/blog/2026/10/23/animations.html",
+        "pubDate": "2026-10-23T17:02:24.000Z",
         "feedId": "hn"
       },
       {
         "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-        "link": "https://www.kimi.com/code/docs/en/kimi-code/models.html",
+        "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
         "pubDate": "2026-10-23T16:59:08.000Z",
         "feedId": "hn"
       },
@@ -33,13 +63,13 @@
         "feedId": "hn"
       },
       {
-        "title": "The Missed Opportunities of Sonic 06",
+        "title": "The Missed Opportunities of Sonic 06 (2025)",
         "link": "https://isaacmarovitz.com/posts/sonic-06/",
         "pubDate": "2026-10-23T16:38:35.000Z",
         "feedId": "hn"
       },
       {
-        "title": "How Is Music Possible",
+        "title": "How is music possible",
         "link": "https://www.henrikkarlsson.xyz/p/music",
         "pubDate": "2026-10-23T16:38:17.000Z",
         "feedId": "hn"
@@ -57,39 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "An alignment assessment of the UK AISI cybertesting incident",
-        "link": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
-        "pubDate": "2026-10-23T14:44:50.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
-        "link": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/",
-        "pubDate": "2026-10-23T14:43:02.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "OpenSSL 4.1.0",
-        "link": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
-        "pubDate": "2026-10-23T12:42:44.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Job loss and cortisone mania",
-        "link": "https://tilschuenemann.de/job-loss-cortisone-mania",
-        "pubDate": "2026-10-23T10:31:24.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Swurf – Swipe through the real web",
-        "link": "https://swurf.org/",
-        "pubDate": "2026-10-23T06:54:52.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The foolishness of \"natural language programming\" (1978)",
-        "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-        "pubDate": "2026-10-23T00:52:01.000Z",
+        "title": "Reforming English Spelling",
+        "link": "https://blog.oup.com/2026/10/reforming-english-spelling/",
+        "pubDate": "2026-10-23T15:56:06.000Z",
         "feedId": "hn"
       }
     ]
@@ -98,15 +98,27 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "The glorious @xkcdRandom Zig builtin",
+        "link": "https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/",
+        "pubDate": "2026-10-23T14:30:57.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Software is slow because of bad design, not slow languages",
+        "link": "https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/",
+        "pubDate": "2026-10-23T12:58:10.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Docker is weird",
         "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
         "pubDate": "2026-10-22T20:09:22.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "The glorious @xkcdRandom Zig builtin",
-        "link": "https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/",
-        "pubDate": "2026-10-23T14:30:57.000Z",
+        "title": "How close can pure FP get to C?",
+        "link": "https://rtfeldman.com/fp-vs-c",
+        "pubDate": "2026-10-23T11:37:22.000Z",
         "feedId": "lobsters"
       },
       {
@@ -122,27 +134,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Software is slow because of bad design, not slow languages",
-        "link": "https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/",
-        "pubDate": "2026-10-23T12:58:10.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Debunking \"Faster than Rust\": Malicious Benchmarks in Tov",
         "link": "https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/",
         "pubDate": "2026-10-23T07:44:09.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "How close can pure FP get to C?",
-        "link": "https://rtfeldman.com/fp-vs-c",
-        "pubDate": "2026-10-23T11:37:22.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Quad9 DNS Resolver to exit France",
         "link": "https://quad9.net/news/blog/au-revoir-france/",
         "pubDate": "2026-10-22T19:47:39.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A whirlwind tour of systemd-nspawn containers (2025)",
+        "link": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+        "pubDate": "2026-10-23T17:12:35.000Z",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "We have Traits at Home",
-        "link": "https://www.axelmagn.com/blog/202610-zig-traits/",
-        "pubDate": "2026-10-22T21:52:10.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "a neat trick i found for reusing physical memory",
         "link": "https://sebsite.pw/w/20260728-cow.html",
         "pubDate": "2026-10-23T13:40:30.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Emacs finally folds to my liking: kirigami, tree-sitter, hide-show, Org, XML",
-        "link": "https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/",
-        "pubDate": "2026-10-23T14:38:13.000Z",
+        "title": "We have Traits at Home",
+        "link": "https://www.axelmagn.com/blog/202610-zig-traits/",
+        "pubDate": "2026-10-22T21:52:10.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "No Source Code? No Problem! What if you have to port a program, but all you have is a binary? (2003)",
+        "link": "https://queue.acm.org/doi/10.1145/945131.945155",
+        "pubDate": "2026-10-23T17:00:36.000Z",
         "feedId": "lobsters"
       },
       {
         "title": "examining the macOS gcc binary",
         "link": "https://zoey-on-github.github.io/blog/macgcc.html",
         "pubDate": "2026-10-22T06:45:58.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Many Many Missed Opportunities of Sonic 06",
-        "link": "https://isaacmarovitz.com/posts/sonic-06/",
-        "pubDate": "2026-10-23T04:30:10.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -288,9 +288,15 @@
     "id": "axios",
     "items": [
       {
-        "title": "DOJ sues to block Alaska election results if GOP incumbent loses",
+        "title": "\"People are tired of theater\": The left sours on \"performative\" Trump impeachment",
+        "link": "https://www.axios.com/2026/10/23/trump-impeachment-democrats-darializa-tlaib-left",
+        "pubDate": "2026-10-23T19:15:34.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "DOJ sues to delay Alaska election results if GOP incumbent loses",
         "link": "https://www.axios.com/2026/10/23/trump-administration-sues-alaska-dan-sullivan",
-        "pubDate": "2026-10-23T16:29:41.000Z",
+        "pubDate": "2026-10-23T18:43:41.000Z",
         "feedId": "axios"
       },
       {
@@ -369,12 +375,6 @@
         "title": "Permitting deal draws lobbying blitz as hurdles mount",
         "link": "https://www.axios.com/2026/10/22/permitting-deal-lobbying-blitz-hurdles",
         "pubDate": "2026-10-22T12:54:10.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Young Americans are losing faith in the future — and Trump",
-        "link": "https://www.axios.com/2026/10/22/young-adults-poll-midterm-motivator-opposing-trump",
-        "pubDate": "2026-10-22T10:31:05.000Z",
         "feedId": "axios"
       }
     ]
