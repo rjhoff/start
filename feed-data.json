@@ -3,6 +3,36 @@
     "id": "hn",
     "items": [
       {
+        "title": "Swedish government offices to ban ChatGPT and Claude",
+        "link": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+        "pubDate": "2026-10-23T11:39:54.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Is this the new cyber normal?",
+        "link": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
+        "pubDate": "2026-10-23T11:04:53.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Dutch government had hacked into Jared Kushner's phone",
+        "link": "https://twitter.com/jaredkushner/status/2113376217415958767",
+        "pubDate": "2026-10-23T10:41:32.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Job Loss and Cortisone Mania",
+        "link": "https://tilschuenemann.de/job-loss-cortisone-mania",
+        "pubDate": "2026-10-23T10:31:24.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Remove pgrust: the entry is cheating",
+        "link": "https://github.com/ClickHouse/ClickBench/pull/2165",
+        "pubDate": "2026-10-23T08:05:33.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "This I Believe (1952)",
         "link": "https://www.awakin.org/v2/read/view.php?tid=468",
         "pubDate": "2026-10-23T02:19:38.000Z",
@@ -12,6 +42,12 @@
         "title": "The foolishness of \"natural language programming\" (1978)",
         "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
         "pubDate": "2026-10-23T00:52:01.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Making a smart TV dumb and then smart",
+        "link": "https://github.com/anubhavmalhotra/r2d2-tv",
+        "pubDate": "2026-10-23T00:10:45.000Z",
         "feedId": "hn"
       },
       {
@@ -27,12 +63,6 @@
         "feedId": "hn"
       },
       {
-        "title": "We have traits at home",
-        "link": "https://www.axelmagn.com/blog/202610-zig-traits/",
-        "pubDate": "2026-10-22T23:24:17.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
         "link": "https://edjefferson.com/localwiki/",
         "pubDate": "2026-10-22T23:01:18.000Z",
@@ -45,51 +75,21 @@
         "feedId": "hn"
       },
       {
-        "title": "Rule 30: one black cell",
-        "link": "https://www.wolframcollatzmahler.com/rule30/index.html",
-        "pubDate": "2026-10-22T22:16:48.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "How does Fable 5.1 hide messages in images?",
         "link": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
         "pubDate": "2026-10-22T21:41:13.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Railpass",
-        "link": "https://train.samismith.com/",
-        "pubDate": "2026-10-22T21:38:32.000Z",
+        "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+        "link": "https://news.ycombinator.com/item?id=50200997",
+        "pubDate": "2026-10-22T21:03:55.000Z",
         "feedId": "hn"
       },
       {
         "title": "The HTML-in-Canvas API origin trial",
         "link": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
         "pubDate": "2026-10-22T19:54:04.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
-        "link": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
-        "pubDate": "2026-10-22T18:44:36.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-        "link": "https://github.com/NVIDIA/OpenShell",
-        "pubDate": "2026-10-22T17:44:06.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Objects, attributes, maps, oh my",
-        "link": "https://bernsteinbear.com/blog/object-shapes/",
-        "pubDate": "2026-10-22T16:34:39.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Getting ready to operate GNU Taler in Germany",
-        "link": "https://www.taler.net/en/news/2026-13.html",
-        "pubDate": "2026-10-22T16:14:31.000Z",
         "feedId": "hn"
       }
     ]
@@ -107,6 +107,12 @@
         "title": "UUIDv7 doesn't have the properties you think it does",
         "link": "https://alexsci.com/blog/uuidv7-is-weird/",
         "pubDate": "2026-10-23T01:22:17.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Please don't mess with links",
+        "link": "https://maurycyz.com/misc/real_links/",
+        "pubDate": "2026-10-23T00:37:10.000Z",
         "feedId": "lobsters"
       },
       {
@@ -128,27 +134,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Please don't mess with links",
-        "link": "https://maurycyz.com/misc/real_links/",
-        "pubDate": "2026-10-23T00:37:10.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "We have Traits at Home",
         "link": "https://www.axelmagn.com/blog/202610-zig-traits/",
         "pubDate": "2026-10-22T21:52:10.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "jailbreaking the switch 2",
-        "link": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-        "pubDate": "2026-10-22T12:10:48.000Z",
+        "title": "Debunking \"Faster than Rust\": Malicious Benchmarks in Tov",
+        "link": "https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/",
+        "pubDate": "2026-10-23T07:44:09.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Objects, attributes, maps, oh my",
-        "link": "https://bernsteinbear.com/blog/object-shapes/",
-        "pubDate": "2026-10-22T17:35:52.000Z",
+        "title": "How close can pure FP get to C?",
+        "link": "https://rtfeldman.com/fp-vs-c",
+        "pubDate": "2026-10-23T11:37:22.000Z",
         "feedId": "lobsters"
       },
       {
@@ -158,21 +158,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend",
+        "pubDate": "2026-10-23T08:43:10.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Objects, attributes, maps, oh my",
+        "link": "https://bernsteinbear.com/blog/object-shapes/",
+        "pubDate": "2026-10-22T17:35:52.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Hibernate Origin Story (Outsider Edition)",
+        "link": "https://fishbowl.pastiche.org/2026/10/23/hibernate-origin-story",
+        "pubDate": "2026-10-23T04:21:32.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Tell your network to explain itself and then some",
         "link": "https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html",
         "pubDate": "2026-10-22T12:53:26.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I built a garbage collector for Rust (2023)",
-        "link": "https://claytonwramsey.com/blog/dumpster/",
-        "pubDate": "2026-10-22T14:49:22.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Firefox Local Mode",
-        "link": "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html",
-        "pubDate": "2026-10-21T15:47:59.000Z",
         "feedId": "lobsters"
       },
       {
@@ -180,18 +186,30 @@
         "link": "https://isaacmarovitz.com/posts/sonic-06/",
         "pubDate": "2026-10-23T04:30:10.000Z",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Script dependencies with Nix",
-        "link": "https://entropicthoughts.com/python-dependencies-with-nix",
-        "pubDate": "2026-10-22T14:14:04.000Z",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+        "link": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+        "pubDate": "2026-10-23T11:30:22.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
+        "link": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
+        "pubDate": "2026-10-23T11:15:03.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
+        "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
+        "pubDate": "2026-10-23T11:00:57.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
         "link": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
@@ -263,30 +281,36 @@
         "link": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/",
         "pubDate": "2026-10-22T17:04:31.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "US-backed vaccine trial on babies canceled after international outcry",
-        "link": "https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled/",
-        "pubDate": "2026-10-22T16:37:00.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "This emulator reimagines Nintendo’s Virtual Boy with a full color display",
-        "link": "https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display/",
-        "pubDate": "2026-10-22T15:59:40.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
-        "link": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
-        "pubDate": "2026-10-22T15:25:02.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Mysterious \"flying triangle\" sighting leads new government release of UFO documents",
+        "link": "https://www.axios.com/2026/10/23/new-ufo-documents-flying-triangle",
+        "pubDate": "2026-10-23T12:01:52.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Wall Street prepares for AI's \"day after\"",
+        "link": "https://www.axios.com/2026/10/23/ai-catastrophe-wall-street",
+        "pubDate": "2026-10-23T09:30:05.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Why soaring prices aren't breaking America's diesel habit",
+        "link": "https://www.axios.com/2026/10/23/soaring-prices-diesel-habit",
+        "pubDate": "2026-10-23T09:15:04.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "The religious left makes a play for red-state conservatives",
+        "link": "https://www.axios.com/2026/10/23/democrats-religious-left-texas-kansas-talarico-hamilton",
+        "pubDate": "2026-10-23T08:50:31.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Senate control hinges on unwanted nominees",
         "link": "https://www.axios.com/2026/10/23/senate-midterms-2026-elections-thune-schumer",
@@ -352,36 +376,18 @@
         "link": "https://www.axios.com/2026/10/22/spyware-phones-security-threats",
         "pubDate": "2026-10-22T10:00:05.000Z",
         "feedId": "axios"
-      },
-      {
-        "title": "\"Stop whining\": What Vance's take on Ohio ad controversy means for 2028",
-        "link": "https://www.axios.com/2026/10/22/vance-ohio-ad-controversy",
-        "pubDate": "2026-10-22T09:00:07.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Unvetted AI agents are accessing U.S. bank accounts",
-        "link": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
-        "pubDate": "2026-10-22T09:00:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Democrats accuse Trump of using prosecution threats to pressure election officials",
-        "link": "https://www.axios.com/2026/10/21/trump-election-interference-lawsuit-democrats",
-        "pubDate": "2026-10-21T23:16:16.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Dems quietly guide super PACs to boost spoiler House candidates",
-        "link": "https://www.axios.com/2026/10/21/democrats-2026-election-spoiler-third-party-dccc",
-        "pubDate": "2026-10-21T23:12:00.000Z",
-        "feedId": "axios"
       }
     ]
   },
   "longreads": {
     "id": "longreads",
     "items": [
+      {
+        "title": "The Top 5 Longreads of the Week",
+        "link": "https://longreads.com/2026/10/23/the-top-5-longreads-of-the-week-630/",
+        "pubDate": "2026-10-23T10:00:00.000Z",
+        "feedId": "longreads"
+      },
       {
         "title": "The Dominican Baseball Factory",
         "link": "https://longreads.com/2026/10/22/dominican-republic-major-league-baseball-investigation/",
@@ -464,12 +470,6 @@
         "title": "The Top 5 Longreads of the Week",
         "link": "https://longreads.com/2026/10/16/top-5-629/",
         "pubDate": "2026-10-16T10:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "What Happens When Your Abuser Kills Himself?",
-        "link": "https://longreads.com/2026/10/15/domestic-abuse-suicide/",
-        "pubDate": "2026-10-15T15:00:00.000Z",
         "feedId": "longreads"
       }
     ]
