@@ -3,6 +3,48 @@
     "id": "hn",
     "items": [
       {
+        "title": "German court calls Google aerial imagery 'spying'",
+        "link": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
+        "pubDate": "2026-10-23T22:18:49.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "CVE Tracker",
+        "link": "https://cve.0xosprey.com/",
+        "pubDate": "2026-10-23T21:21:47.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "No Source Code? No Problem",
+        "link": "https://queue.acm.org/doi/10.1145/945131.945155",
+        "pubDate": "2026-10-23T20:38:06.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "A whirlwind tour of systemd-nspawn containers",
+        "link": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+        "pubDate": "2026-10-23T20:37:12.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Securing our frontier model training environment",
+        "link": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+        "pubDate": "2026-10-23T19:50:56.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+        "link": "https://corgi.computer/",
+        "pubDate": "2026-10-23T19:46:38.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
+        "link": "https://rune.build/blog/rune-1-3-release",
+        "pubDate": "2026-10-23T19:42:01.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "We are all living inside of an obscure sci-fi film from 1970",
         "link": "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/",
         "pubDate": "2026-10-23T19:41:59.000Z",
@@ -21,9 +63,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Florida officer found dead man, impersonated him for years, renovated his home",
-        "link": "https://www.nbcnews.com/news/us-news/officer-impersonates-dead-florida-man-moved-into-home-rcna604844",
-        "pubDate": "2026-10-23T19:01:56.000Z",
+        "title": "DNS: A Replacement for Finger",
+        "link": "https://altchan.org/sh/42",
+        "pubDate": "2026-10-23T19:00:04.000Z",
         "feedId": "hn"
       },
       {
@@ -33,63 +75,21 @@
         "feedId": "hn"
       },
       {
+        "title": "Air Purifiers as White Noise Machines",
+        "link": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+        "pubDate": "2026-10-23T17:28:36.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Can we replace a $150k Looker with a bucket of HTML files?",
         "link": "https://david.lequin.dev/blog/bi-software-is-dead/",
         "pubDate": "2026-10-23T17:15:03.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Time Nuts (2005)",
-        "link": "http://leapsecond.com/time-nuts.htm",
-        "pubDate": "2026-10-23T17:12:51.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Animations for System Builders",
         "link": "https://brooker.co.za/blog/2026/10/23/animations.html",
         "pubDate": "2026-10-23T17:02:24.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-        "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-        "pubDate": "2026-10-23T16:59:08.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "UUIDv7 doesn't have the properties you think it does",
-        "link": "https://alexsci.com/blog/uuidv7-is-weird/",
-        "pubDate": "2026-10-23T16:39:45.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Missed Opportunities of Sonic 06 (2025)",
-        "link": "https://isaacmarovitz.com/posts/sonic-06/",
-        "pubDate": "2026-10-23T16:38:35.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "How is music possible",
-        "link": "https://www.henrikkarlsson.xyz/p/music",
-        "pubDate": "2026-10-23T16:38:17.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Total Historian",
-        "link": "https://www.theideasletter.org/essay/total-historian/",
-        "pubDate": "2026-10-23T16:23:29.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Today, we hacked what we'd set out to hack: the iPhone",
-        "link": "https://blog.calif.io/p/iphone",
-        "pubDate": "2026-10-23T16:21:50.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Reforming English Spelling",
-        "link": "https://blog.oup.com/2026/10/reforming-english-spelling/",
-        "pubDate": "2026-10-23T15:56:06.000Z",
         "feedId": "hn"
       }
     ]
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Docker is weird",
-        "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-        "pubDate": "2026-10-22T20:09:22.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "How close can pure FP get to C?",
         "link": "https://rtfeldman.com/fp-vs-c",
         "pubDate": "2026-10-23T11:37:22.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Docker is weird",
+        "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+        "pubDate": "2026-10-22T20:09:22.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +140,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Attention people who think UB is fine",
+        "link": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
+        "pubDate": "2026-10-23T20:47:58.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Quad9 DNS Resolver to exit France",
         "link": "https://quad9.net/news/blog/au-revoir-france/",
         "pubDate": "2026-10-22T19:47:39.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend",
+        "pubDate": "2026-10-23T08:43:10.000Z",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +164,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "a hacky fucked up way to portably access errno from outside of c",
-        "link": "https://sebsite.pw/w/20260925-errno.html",
-        "pubDate": "2026-10-22T21:42:04.000Z",
+        "title": "Incremental Computation Graphs",
+        "link": "https://dziban.net/posts/incremental-computation-graph/",
+        "pubDate": "2026-10-23T21:35:45.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend",
-        "pubDate": "2026-10-23T08:43:10.000Z",
+        "title": "a hacky fucked up way to portably access errno from outside of c",
+        "link": "https://sebsite.pw/w/20260925-errno.html",
+        "pubDate": "2026-10-22T21:42:04.000Z",
         "feedId": "lobsters"
       },
       {
@@ -174,24 +186,42 @@
         "link": "https://www.axelmagn.com/blog/202610-zig-traits/",
         "pubDate": "2026-10-22T21:52:10.000Z",
         "feedId": "lobsters"
-      },
-      {
-        "title": "No Source Code? No Problem! What if you have to port a program, but all you have is a binary? (2003)",
-        "link": "https://queue.acm.org/doi/10.1145/945131.945155",
-        "pubDate": "2026-10-23T17:00:36.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "examining the macOS gcc binary",
-        "link": "https://zoey-on-github.github.io/blog/macgcc.html",
-        "pubDate": "2026-10-22T06:45:58.000Z",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+        "link": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+        "pubDate": "2026-10-23T22:48:25.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
+        "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
+        "pubDate": "2026-10-23T20:28:43.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+        "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+        "pubDate": "2026-10-23T20:19:55.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Inside the Pentagon, the pressure is on to find a home for a new spaceport",
+        "link": "https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/",
+        "pubDate": "2026-10-23T19:33:58.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Spotify ramps up policy enforcement on family plans",
+        "link": "https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/",
+        "pubDate": "2026-10-23T19:20:27.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Crows can evaluate visual info twice as fast as mammals",
         "link": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
@@ -250,36 +280,6 @@
         "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
         "link": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
         "pubDate": "2026-10-22T22:25:33.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
-        "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
-        "pubDate": "2026-10-22T22:12:19.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
-        "link": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
-        "pubDate": "2026-10-22T21:52:31.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
-        "link": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
-        "pubDate": "2026-10-22T21:07:09.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
-        "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
-        "pubDate": "2026-10-22T20:17:52.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Leaked Mass Effect: Universe trailer gives a taste of what we're all missing",
-        "link": "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/",
-        "pubDate": "2026-10-22T19:59:37.000Z",
         "feedId": "arstechnica"
       }
     ]
