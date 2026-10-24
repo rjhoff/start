@@ -3,9 +3,57 @@
     "id": "hn",
     "items": [
       {
-        "title": "Sam Altman: 'I No Longer Think We're Gonna Be Able to Just Patch All the Bugs'",
-        "link": "https://gizmodo.com/sam-altman-i-no-longer-think-were-gonna-be-able-to-just-patch-all-the-bugs-2000829947",
-        "pubDate": "2026-10-24T16:47:19.000Z",
+        "title": "No Signs of AI Payoff Outside the Tech Sector",
+        "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+        "pubDate": "2026-10-24T19:47:19.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+        "link": "https://missileer.watch",
+        "pubDate": "2026-10-24T19:43:27.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Goose Programming Language",
+        "link": "https://aardappel.github.io/goose/",
+        "pubDate": "2026-10-24T19:27:41.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
+        "link": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
+        "pubDate": "2026-10-24T19:06:55.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
+        "link": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
+        "pubDate": "2026-10-24T19:03:59.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Danish Government silently drops plan to dump MS Office",
+        "link": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
+        "pubDate": "2026-10-24T18:31:48.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Dream-1",
+        "link": "https://dreamlabs.ai/research/dream-1/",
+        "pubDate": "2026-10-24T18:23:24.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
+        "link": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+        "pubDate": "2026-10-24T18:19:05.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why is AI generated language so hard to understand?",
+        "link": "https://arxiv.org/abs/2610.29162",
+        "pubDate": "2026-10-24T18:04:57.000Z",
         "feedId": "hn"
       },
       {
@@ -27,69 +75,21 @@
         "feedId": "hn"
       },
       {
+        "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+        "link": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+        "pubDate": "2026-10-24T15:35:17.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "FreeDNS",
         "link": "https://freedns.afraid.org/",
         "pubDate": "2026-10-24T15:20:01.000Z",
         "feedId": "hn"
       },
       {
-        "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
-        "pubDate": "2026-10-24T11:18:54.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-        "link": "https://gitlab.com/c4psu13/mali-pagecache-root",
-        "pubDate": "2026-10-24T10:51:35.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
         "link": "https://github.com/Zagitta/gpu-unlock",
         "pubDate": "2026-10-24T09:58:27.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "I Don't Understand Quantum Physics (2018)",
-        "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-        "pubDate": "2026-10-24T09:53:26.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-        "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-        "pubDate": "2026-10-24T08:06:39.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Root shell on Samsung TV",
-        "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-        "pubDate": "2026-10-24T05:49:57.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "OBS Studio 33",
-        "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-        "pubDate": "2026-10-24T04:49:58.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "How close can pure functional programming get to C?",
-        "link": "https://rtfeldman.com/fp-vs-c",
-        "pubDate": "2026-10-24T03:43:54.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Apple Security Research Device",
-        "link": "https://security.apple.com/research-device/",
-        "pubDate": "2026-10-24T02:36:38.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Twelve years of distributed SQLite",
-        "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-        "pubDate": "2026-10-24T01:16:58.000Z",
         "feedId": "hn"
       }
     ]
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Attention people who think UB is fine",
-        "link": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
-        "pubDate": "2026-10-23T20:47:58.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Wild version 0.11.0 released",
         "link": "https://github.com/wild-linker/wild/releases/tag/0.11.0",
         "pubDate": "2026-10-24T10:11:35.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Attention people who think UB is fine",
+        "link": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
+        "pubDate": "2026-10-23T20:47:58.000Z",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +134,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "How to run a city builder on 16 MHz",
+        "link": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
+        "pubDate": "2026-10-24T14:18:48.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Emacs finally folds to my liking",
         "link": "https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/",
         "pubDate": "2026-10-24T08:45:01.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "How to run a city builder on 16 MHz",
-        "link": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
-        "pubDate": "2026-10-24T14:18:48.000Z",
+        "title": "Balloting has completed for C++26. Unfortunately it was Disapproved/",
+        "link": "https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL",
+        "pubDate": "2026-10-24T18:00:36.000Z",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Software is slow because of bad design, not slow languages",
-        "link": "https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/",
-        "pubDate": "2026-10-23T12:58:10.000Z",
+        "title": "This week's \"node2shell\" Brotli vulnerability (CVE-2026-111497) is exploitable in Python, other consumers of Brotli",
+        "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+        "pubDate": "2026-10-24T11:01:27.000Z",
         "feedId": "lobsters"
       },
       {
@@ -164,15 +170,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How close can pure FP get to C?",
-        "link": "https://rtfeldman.com/fp-vs-c",
-        "pubDate": "2026-10-23T11:37:22.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "This week's \"node2shell\" Brotli vulnerability (CVE-2026-111497) is exploitable in Python, other consumers of Brotli",
-        "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-        "pubDate": "2026-10-24T11:01:27.000Z",
+        "title": "Software is slow because of bad design, not slow languages",
+        "link": "https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/",
+        "pubDate": "2026-10-23T12:58:10.000Z",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Incremental Computation Graphs",
-        "link": "https://dziban.net/posts/incremental-computation-graph/",
-        "pubDate": "2026-10-23T21:35:45.000Z",
+        "title": "How close can pure FP get to C?",
+        "link": "https://rtfeldman.com/fp-vs-c",
+        "pubDate": "2026-10-23T11:37:22.000Z",
         "feedId": "lobsters"
       }
     ]
