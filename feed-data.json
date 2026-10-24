@@ -1,106 +1,34 @@
 {
   "hn": {
     "id": "hn",
-    "items": [
-      {
-        "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-        "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-        "pubDate": "2026-10-24T05:49:57.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "OBS Studio 33",
-        "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-        "pubDate": "2026-10-24T04:49:58.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "How close can pure functional programming get to C?",
-        "link": "https://rtfeldman.com/fp-vs-c",
-        "pubDate": "2026-10-24T03:43:54.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "How Block Blast harvests its players for ad money",
-        "link": "https://ayoships.com/breakdowns/block-blast",
-        "pubDate": "2026-10-24T02:43:43.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Apple Security Research Device",
-        "link": "https://security.apple.com/research-device/",
-        "pubDate": "2026-10-24T02:36:38.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Twelve years of distributed SQLite",
-        "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-        "pubDate": "2026-10-24T01:16:58.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-        "link": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-        "pubDate": "2026-10-24T01:15:14.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "One Man's Pan Am 747 Replica [video]",
-        "link": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
-        "pubDate": "2026-10-23T21:46:51.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "CVE Tracker",
-        "link": "https://cve.0xosprey.com/",
-        "pubDate": "2026-10-23T21:21:47.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-        "link": "https://corgi.computer/",
-        "pubDate": "2026-10-23T19:46:38.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Dessa: Conversation Model trained only on speech",
-        "link": "https://block.xyz/dessa",
-        "pubDate": "2026-10-23T19:09:54.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Air Purifiers as White Noise Machines",
-        "link": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-        "pubDate": "2026-10-23T17:28:36.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-        "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-        "pubDate": "2026-10-23T16:59:08.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "UUIDv7: Timestamps aren’t time-ordered and other oddities",
-        "link": "https://alexsci.com/blog/uuidv7-is-weird/",
-        "pubDate": "2026-10-23T16:39:45.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "How is music possible",
-        "link": "https://www.henrikkarlsson.xyz/p/music",
-        "pubDate": "2026-10-23T16:38:17.000Z",
-        "feedId": "hn"
-      }
-    ]
+    "error": "The operation was aborted due to timeout",
+    "items": []
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
       {
+        "title": "I want my Wednesday back",
+        "link": "https://blog.luitjes.it/posts/i-want-my-wednesday-back/",
+        "pubDate": "2026-10-24T10:09:28.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Attention people who think UB is fine",
         "link": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
         "pubDate": "2026-10-23T20:47:58.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Indian government sites are serving revoked eMudhra certificates",
+        "link": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/",
+        "pubDate": "2026-10-24T04:06:06.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Be Aware of What's in Your Logs",
+        "link": "https://fireborn.mataroa.blog/blog/be-aware-of-whats-in-your-logs/",
+        "pubDate": "2026-10-24T10:42:05.000Z",
         "feedId": "lobsters"
       },
       {
@@ -116,9 +44,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Emacs finally folds to my liking",
+        "link": "https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/",
+        "pubDate": "2026-10-24T08:45:01.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "How close can pure FP get to C?",
         "link": "https://rtfeldman.com/fp-vs-c",
         "pubDate": "2026-10-23T11:37:22.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Wild version 0.11.0 released",
+        "link": "https://github.com/wild-linker/wild/releases/tag/0.11.0",
+        "pubDate": "2026-10-24T10:11:35.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Incremental Computation Graphs",
+        "link": "https://dziban.net/posts/incremental-computation-graph/",
+        "pubDate": "2026-10-23T21:35:45.000Z",
         "feedId": "lobsters"
       },
       {
@@ -128,21 +74,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Indian government sites are serving revoked eMudhra certificates",
-        "link": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/",
-        "pubDate": "2026-10-24T04:06:06.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Please don't mess with links",
         "link": "https://maurycyz.com/misc/real_links/",
         "pubDate": "2026-10-23T00:37:10.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Incremental Computation Graphs",
-        "link": "https://dziban.net/posts/incremental-computation-graph/",
-        "pubDate": "2026-10-23T21:35:45.000Z",
+        "title": "Twelve years of distributed SQLite",
+        "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+        "pubDate": "2026-10-24T06:41:52.000Z",
         "feedId": "lobsters"
       },
       {
@@ -156,42 +96,24 @@
         "link": "https://alexsci.com/blog/uuidv7-is-weird/",
         "pubDate": "2026-10-23T01:22:17.000Z",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Quad9 DNS Resolver to exit France",
-        "link": "https://quad9.net/news/blog/au-revoir-france/",
-        "pubDate": "2026-10-22T19:47:39.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "a neat trick i found for reusing physical memory",
-        "link": "https://sebsite.pw/w/20260728-cow.html",
-        "pubDate": "2026-10-23T13:40:30.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A whirlwind tour of systemd-nspawn containers (2025)",
-        "link": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
-        "pubDate": "2026-10-23T17:12:35.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend",
-        "pubDate": "2026-10-23T08:43:10.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Memory is slow, Disk is fast",
-        "link": "https://www.bitflux.ai/blog/memory-is-slow-part3/",
-        "pubDate": "2026-10-23T20:44:07.000Z",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+        "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+        "pubDate": "2026-10-24T11:50:28.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+        "link": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+        "pubDate": "2026-10-24T11:00:09.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
         "link": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
@@ -269,24 +191,30 @@
         "link": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
         "pubDate": "2026-10-23T11:15:03.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
-        "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
-        "pubDate": "2026-10-23T11:00:57.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
-        "link": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
-        "pubDate": "2026-10-22T22:25:33.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "As Israeli election looms, Trump advisers see opportunity beyond Netanyahu",
+        "link": "https://www.axios.com/2026/10/24/israel-election-trump-netanyahu-advisers",
+        "pubDate": "2026-10-24T12:56:30.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Speed restrictions on Musk's Starlink lifted in Ukraine, defense ministry says",
+        "link": "https://www.axios.com/2026/10/24/musk-ukraine-starlink-starshield-speed",
+        "pubDate": "2026-10-24T10:18:09.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Washington's message to AI execs: please shut up",
+        "link": "https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability",
+        "pubDate": "2026-10-24T09:15:06.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Scoop: U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad",
         "link": "https://www.axios.com/2026/10/24/iran-war-us-embassies-evacuations-threat",
@@ -357,24 +285,6 @@
         "title": "Trump ordered to sit for deposition in $10 billion BBC lawsuit",
         "link": "https://www.axios.com/2026/10/22/trump-bbc-lawsuit-december-deposition-deadline",
         "pubDate": "2026-10-22T19:22:43.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Top health adviser and MAHA ally quits Trump admin",
-        "link": "https://www.axios.com/2026/10/22/trump-maha-adviser-resigns",
-        "pubDate": "2026-10-22T19:04:50.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Black October: why bugs discovered by OpenAI tech are creating a cyber emergency",
-        "link": "https://www.axios.com/2026/10/22/php-vulnerability-security-update-websites",
-        "pubDate": "2026-10-22T18:01:31.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Canada hit back at Trump tariffs. Now the U.S. alleges possible election interference.",
-        "link": "https://www.axios.com/2026/10/22/us-canada-election-interference-tariffs-embassy",
-        "pubDate": "2026-10-22T15:45:24.000Z",
         "feedId": "axios"
       }
     ]
