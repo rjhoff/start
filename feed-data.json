@@ -3,9 +3,27 @@
     "id": "hn",
     "items": [
       {
-        "title": "German court calls Google aerial imagery 'spying'",
-        "link": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
-        "pubDate": "2026-10-23T22:18:49.000Z",
+        "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+        "pubDate": "2026-10-24T01:53:10.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Mark Zuckerberg Pushed Meta to Shield Him from California's Proposed Wealth Tax",
+        "link": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
+        "pubDate": "2026-10-24T01:35:49.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Twelve Years of Distributed SQLite",
+        "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+        "pubDate": "2026-10-24T01:16:58.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+        "link": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+        "pubDate": "2026-10-23T23:30:17.000Z",
         "feedId": "hn"
       },
       {
@@ -21,7 +39,7 @@
         "feedId": "hn"
       },
       {
-        "title": "A whirlwind tour of systemd-nspawn containers",
+        "title": "A whirlwind tour of systemd-nspawn containers (2025)",
         "link": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
         "pubDate": "2026-10-23T20:37:12.000Z",
         "feedId": "hn"
@@ -45,12 +63,6 @@
         "feedId": "hn"
       },
       {
-        "title": "We are all living inside of an obscure sci-fi film from 1970",
-        "link": "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/",
-        "pubDate": "2026-10-23T19:41:59.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
         "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
         "pubDate": "2026-10-23T19:34:15.000Z",
@@ -69,21 +81,9 @@
         "feedId": "hn"
       },
       {
-        "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
-        "link": "https://twitter.com/robbietilton/status/2111936458923851923",
-        "pubDate": "2026-10-23T17:40:22.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Air Purifiers as White Noise Machines",
         "link": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
         "pubDate": "2026-10-23T17:28:36.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Can we replace a $150k Looker with a bucket of HTML files?",
-        "link": "https://david.lequin.dev/blog/bi-software-is-dead/",
-        "pubDate": "2026-10-23T17:15:03.000Z",
         "feedId": "hn"
       },
       {
@@ -101,6 +101,12 @@
         "title": "The glorious @xkcdRandom Zig builtin",
         "link": "https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/",
         "pubDate": "2026-10-23T14:30:57.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Attention people who think UB is fine",
+        "link": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
+        "pubDate": "2026-10-23T20:47:58.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Attention people who think UB is fine",
-        "link": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
-        "pubDate": "2026-10-23T20:47:58.000Z",
+        "title": "Incremental Computation Graphs",
+        "link": "https://dziban.net/posts/incremental-computation-graph/",
+        "pubDate": "2026-10-23T21:35:45.000Z",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +164,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A whirlwind tour of systemd-nspawn containers (2025)",
-        "link": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
-        "pubDate": "2026-10-23T17:12:35.000Z",
+        "title": "a neat trick i found for reusing physical memory",
+        "link": "https://sebsite.pw/w/20260728-cow.html",
+        "pubDate": "2026-10-23T13:40:30.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Incremental Computation Graphs",
-        "link": "https://dziban.net/posts/incremental-computation-graph/",
-        "pubDate": "2026-10-23T21:35:45.000Z",
+        "title": "A whirlwind tour of systemd-nspawn containers (2025)",
+        "link": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+        "pubDate": "2026-10-23T17:12:35.000Z",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "a neat trick i found for reusing physical memory",
-        "link": "https://sebsite.pw/w/20260728-cow.html",
-        "pubDate": "2026-10-23T13:40:30.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "We have Traits at Home",
-        "link": "https://www.axelmagn.com/blog/202610-zig-traits/",
-        "pubDate": "2026-10-22T21:52:10.000Z",
+        "title": "No Source Code? No Problem! What if you have to port a program, but all you have is a binary? (2003)",
+        "link": "https://queue.acm.org/doi/10.1145/945131.945155",
+        "pubDate": "2026-10-23T17:00:36.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Scoop: U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad",
+        "link": "https://www.axios.com/2026/10/24/iran-war-us-embassies-evacuations-threat",
+        "pubDate": "2026-10-24T00:16:19.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "\"People are tired of theater\": The left sours on \"performative\" Trump impeachment",
         "link": "https://www.axios.com/2026/10/23/trump-impeachment-democrats-darializa-tlaib-left",
         "pubDate": "2026-10-23T19:15:34.000Z",
@@ -369,12 +375,6 @@
         "title": "Canada hit back at Trump tariffs. Now the U.S. alleges possible election interference.",
         "link": "https://www.axios.com/2026/10/22/us-canada-election-interference-tariffs-embassy",
         "pubDate": "2026-10-22T15:45:24.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Permitting deal draws lobbying blitz as hurdles mount",
-        "link": "https://www.axios.com/2026/10/22/permitting-deal-lobbying-blitz-hurdles",
-        "pubDate": "2026-10-22T12:54:10.000Z",
         "feedId": "axios"
       }
     ]
