@@ -3,27 +3,51 @@
     "id": "hn",
     "items": [
       {
-        "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
-        "pubDate": "2026-10-24T01:53:10.000Z",
+        "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+        "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+        "pubDate": "2026-10-24T05:49:57.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Mark Zuckerberg Pushed Meta to Shield Him from California's Proposed Wealth Tax",
-        "link": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
-        "pubDate": "2026-10-24T01:35:49.000Z",
+        "title": "OBS Studio 33",
+        "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+        "pubDate": "2026-10-24T04:49:58.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Twelve Years of Distributed SQLite",
+        "title": "How close can pure functional programming get to C?",
+        "link": "https://rtfeldman.com/fp-vs-c",
+        "pubDate": "2026-10-24T03:43:54.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "How Block Blast harvests its players for ad money",
+        "link": "https://ayoships.com/breakdowns/block-blast",
+        "pubDate": "2026-10-24T02:43:43.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Apple Security Research Device",
+        "link": "https://security.apple.com/research-device/",
+        "pubDate": "2026-10-24T02:36:38.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Twelve years of distributed SQLite",
         "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
         "pubDate": "2026-10-24T01:16:58.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
-        "link": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
-        "pubDate": "2026-10-23T23:30:17.000Z",
+        "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+        "link": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+        "pubDate": "2026-10-24T01:15:14.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "One Man's Pan Am 747 Replica [video]",
+        "link": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
+        "pubDate": "2026-10-23T21:46:51.000Z",
         "feedId": "hn"
       },
       {
@@ -33,51 +57,15 @@
         "feedId": "hn"
       },
       {
-        "title": "No Source Code? No Problem",
-        "link": "https://queue.acm.org/doi/10.1145/945131.945155",
-        "pubDate": "2026-10-23T20:38:06.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "A whirlwind tour of systemd-nspawn containers (2025)",
-        "link": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
-        "pubDate": "2026-10-23T20:37:12.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Securing our frontier model training environment",
-        "link": "https://openai.com/index/securing-our-frontier-model-training-environment/",
-        "pubDate": "2026-10-23T19:50:56.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
         "link": "https://corgi.computer/",
         "pubDate": "2026-10-23T19:46:38.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
-        "link": "https://rune.build/blog/rune-1-3-release",
-        "pubDate": "2026-10-23T19:42:01.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-        "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-        "pubDate": "2026-10-23T19:34:15.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Dessa: the most authentic full-duplex speech model ever built",
+        "title": "Dessa: Conversation Model trained only on speech",
         "link": "https://block.xyz/dessa",
         "pubDate": "2026-10-23T19:09:54.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "DNS: A Replacement for Finger",
-        "link": "https://altchan.org/sh/42",
-        "pubDate": "2026-10-23T19:00:04.000Z",
         "feedId": "hn"
       },
       {
@@ -87,9 +75,21 @@
         "feedId": "hn"
       },
       {
-        "title": "Animations for System Builders",
-        "link": "https://brooker.co.za/blog/2026/10/23/animations.html",
-        "pubDate": "2026-10-23T17:02:24.000Z",
+        "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+        "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+        "pubDate": "2026-10-23T16:59:08.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "UUIDv7: Timestamps aren’t time-ordered and other oddities",
+        "link": "https://alexsci.com/blog/uuidv7-is-weird/",
+        "pubDate": "2026-10-23T16:39:45.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "How is music possible",
+        "link": "https://www.henrikkarlsson.xyz/p/music",
+        "pubDate": "2026-10-23T16:38:17.000Z",
         "feedId": "hn"
       }
     ]
@@ -98,15 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "The glorious @xkcdRandom Zig builtin",
-        "link": "https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/",
-        "pubDate": "2026-10-23T14:30:57.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Attention people who think UB is fine",
         "link": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
         "pubDate": "2026-10-23T20:47:58.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The glorious @xkcdRandom Zig builtin",
+        "link": "https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/",
+        "pubDate": "2026-10-23T14:30:57.000Z",
         "feedId": "lobsters"
       },
       {
@@ -128,21 +128,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Indian government sites are serving revoked eMudhra certificates",
+        "link": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/",
+        "pubDate": "2026-10-24T04:06:06.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Please don't mess with links",
         "link": "https://maurycyz.com/misc/real_links/",
         "pubDate": "2026-10-23T00:37:10.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "UUIDv7 doesn't have the properties you think it does",
-        "link": "https://alexsci.com/blog/uuidv7-is-weird/",
-        "pubDate": "2026-10-23T01:22:17.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Debunking \"Faster than Rust\": Malicious Benchmarks in Tov",
-        "link": "https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/",
-        "pubDate": "2026-10-23T07:44:09.000Z",
         "feedId": "lobsters"
       },
       {
@@ -152,15 +146,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Quad9 DNS Resolver to exit France",
-        "link": "https://quad9.net/news/blog/au-revoir-france/",
-        "pubDate": "2026-10-22T19:47:39.000Z",
+        "title": "Debunking \"Faster than Rust\": Malicious Benchmarks in Tov",
+        "link": "https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/",
+        "pubDate": "2026-10-23T07:44:09.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend",
-        "pubDate": "2026-10-23T08:43:10.000Z",
+        "title": "UUIDv7 doesn't have the properties you think it does",
+        "link": "https://alexsci.com/blog/uuidv7-is-weird/",
+        "pubDate": "2026-10-23T01:22:17.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Quad9 DNS Resolver to exit France",
+        "link": "https://quad9.net/news/blog/au-revoir-france/",
+        "pubDate": "2026-10-22T19:47:39.000Z",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "a hacky fucked up way to portably access errno from outside of c",
-        "link": "https://sebsite.pw/w/20260925-errno.html",
-        "pubDate": "2026-10-22T21:42:04.000Z",
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend",
+        "pubDate": "2026-10-23T08:43:10.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "No Source Code? No Problem! What if you have to port a program, but all you have is a binary? (2003)",
-        "link": "https://queue.acm.org/doi/10.1145/945131.945155",
-        "pubDate": "2026-10-23T17:00:36.000Z",
+        "title": "Memory is slow, Disk is fast",
+        "link": "https://www.bitflux.ai/blog/memory-is-slow-part3/",
+        "pubDate": "2026-10-23T20:44:07.000Z",
         "feedId": "lobsters"
       }
     ]
