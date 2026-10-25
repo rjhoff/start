@@ -3,19 +3,37 @@
     "id": "hn",
     "items": [
       {
+        "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+        "link": "https://github.com/slee-persis/GVS5H",
+        "pubDate": "2026-10-25T03:56:01.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Xbox Turns Down Netflix $500M Offer",
+        "link": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
+        "pubDate": "2026-10-25T03:05:53.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+        "link": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
+        "pubDate": "2026-10-25T02:18:35.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Cerebras Deploys Trillion-Parameter AI Models",
+        "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+        "pubDate": "2026-10-25T01:33:49.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Why Gopher in 2026?",
         "link": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
         "pubDate": "2026-10-24T23:33:19.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Google has officially turned these Nest thermostats back into dumb thermostats",
-        "link": "https://www.makeuseof.com/google-nest-thermostats-unsupported/",
-        "pubDate": "2026-10-24T23:14:30.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+        "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
         "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
         "pubDate": "2026-10-24T23:11:54.000Z",
         "feedId": "hn"
@@ -33,7 +51,7 @@
         "feedId": "hn"
       },
       {
-        "title": "The Importance of Limitations for Creativity and Learning",
+        "title": "The Importance of Limitations for Creativity and Learning (2023)",
         "link": "https://ratfactor.com/cards/limitations",
         "pubDate": "2026-10-24T21:42:47.000Z",
         "feedId": "hn"
@@ -42,12 +60,6 @@
         "title": "Show HN: Steal My Bitcoin",
         "link": "https://stealmybitcoin.com/",
         "pubDate": "2026-10-24T20:30:31.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "No signs of AI payoff outside the tech sector",
-        "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-        "pubDate": "2026-10-24T19:47:19.000Z",
         "feedId": "hn"
       },
       {
@@ -79,18 +91,6 @@
         "link": "https://de.numista.com/9866",
         "pubDate": "2026-10-24T16:41:55.000Z",
         "feedId": "hn"
-      },
-      {
-        "title": "Roku developer repositories moved from GitHub to GitLab",
-        "link": "https://blog.roku.com/developer/gitlab-move",
-        "pubDate": "2026-10-24T16:06:26.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Neural chip decodes interactions between brain regions",
-        "link": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-        "pubDate": "2026-10-24T15:57:17.000Z",
-        "feedId": "hn"
       }
     ]
   },
@@ -116,15 +116,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Wild version 0.11.0 released",
+        "link": "https://github.com/wild-linker/wild/releases/tag/0.11.0",
+        "pubDate": "2026-10-24T10:11:35.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Indian government sites are serving revoked eMudhra certificates",
         "link": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/",
         "pubDate": "2026-10-24T04:06:06.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Wild version 0.11.0 released",
-        "link": "https://github.com/wild-linker/wild/releases/tag/0.11.0",
-        "pubDate": "2026-10-24T10:11:35.000Z",
+        "title": "We should be more ambitious with the software we build",
+        "link": "https://danluu.com/ambitious/",
+        "pubDate": "2026-10-24T23:06:08.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +146,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "How to run a city builder on 16 MHz",
+        "link": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
+        "pubDate": "2026-10-24T14:18:48.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Emacs finally folds to my liking",
         "link": "https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/",
         "pubDate": "2026-10-24T08:45:01.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "How to run a city builder on 16 MHz",
-        "link": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
-        "pubDate": "2026-10-24T14:18:48.000Z",
+        "title": "MacOS Extensions pack for the Apple Network Server v1.0",
+        "link": "http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html",
+        "pubDate": "2026-10-25T01:22:45.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Michal Wallace on Narrative Programming: Why Learn J when LLMs Code?",
+        "link": "https://alexalejandre.com/interviews/michal-wallace/",
+        "pubDate": "2026-10-25T05:04:57.000Z",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Scrawl: show an agent the problem",
-        "link": "https://scrawl.kitlangton.com/",
-        "pubDate": "2026-10-24T23:38:21.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "We should be more ambitious with the software we build",
-        "link": "https://danluu.com/ambitious/",
-        "pubDate": "2026-10-24T23:06:08.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The glorious @xkcdRandom Zig builtin",
-        "link": "https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/",
-        "pubDate": "2026-10-23T14:30:57.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "This week's \"node2shell\" Brotli vulnerability (CVE-2026-111497) is exploitable in Python, other consumers of Brotli",
         "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
         "pubDate": "2026-10-24T11:01:27.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Twelve years of distributed SQLite",
-        "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-        "pubDate": "2026-10-24T06:41:52.000Z",
+        "title": "SIMD and Go",
+        "link": "https://internals-for-interns.com/posts/go-simd/",
+        "pubDate": "2026-10-24T23:11:40.000Z",
         "feedId": "lobsters"
       }
     ]
