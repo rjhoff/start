@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "Why Gopher in 2026?",
+        "link": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+        "pubDate": "2026-10-24T23:33:19.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Google has officially turned these Nest thermostats back into dumb thermostats",
+        "link": "https://www.makeuseof.com/google-nest-thermostats-unsupported/",
+        "pubDate": "2026-10-24T23:14:30.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+        "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+        "pubDate": "2026-10-24T23:11:54.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "We should be more ambitious with the software we build",
         "link": "https://danluu.com/ambitious/",
         "pubDate": "2026-10-24T21:47:31.000Z",
@@ -12,6 +30,12 @@
         "title": "Small Programs and Languages",
         "link": "https://ratfactor.com/cards/pl-small",
         "pubDate": "2026-10-24T21:44:23.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Importance of Limitations for Creativity and Learning",
+        "link": "https://ratfactor.com/cards/limitations",
+        "pubDate": "2026-10-24T21:42:47.000Z",
         "feedId": "hn"
       },
       {
@@ -45,21 +69,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Dream-1",
-        "link": "https://dreamlabs.ai/research/dream-1/",
-        "pubDate": "2026-10-24T18:23:24.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Bbtree: Fastest Ordered Map",
         "link": "https://bbtree.xiangpeng.systems/post/",
         "pubDate": "2026-10-24T18:22:14.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why is AI generated language so hard to understand?",
-        "link": "https://arxiv.org/abs/2610.29162",
-        "pubDate": "2026-10-24T18:04:57.000Z",
         "feedId": "hn"
       },
       {
@@ -78,18 +90,6 @@
         "title": "Neural chip decodes interactions between brain regions",
         "link": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
         "pubDate": "2026-10-24T15:57:17.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-        "link": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-        "pubDate": "2026-10-24T15:35:17.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "FreeDNS",
-        "link": "https://freedns.afraid.org/",
-        "pubDate": "2026-10-24T15:20:01.000Z",
         "feedId": "hn"
       }
     ]
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Indian government sites are serving revoked eMudhra certificates",
-        "link": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/",
-        "pubDate": "2026-10-24T04:06:06.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Bringing uv and ty together",
         "link": "https://astral.sh/blog/uv-ty-integration",
         "pubDate": "2026-10-24T15:27:34.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Indian government sites are serving revoked eMudhra certificates",
+        "link": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/",
+        "pubDate": "2026-10-24T04:06:06.000Z",
         "feedId": "lobsters"
       },
       {
@@ -152,6 +152,24 @@
         "feedId": "lobsters"
       },
       {
+        "title": "What's wrong with AI?",
+        "link": "https://homepage.farm/ai.html",
+        "pubDate": "2026-10-24T12:09:40.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Scrawl: show an agent the problem",
+        "link": "https://scrawl.kitlangton.com/",
+        "pubDate": "2026-10-24T23:38:21.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "We should be more ambitious with the software we build",
+        "link": "https://danluu.com/ambitious/",
+        "pubDate": "2026-10-24T23:06:08.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The glorious @xkcdRandom Zig builtin",
         "link": "https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/",
         "pubDate": "2026-10-23T14:30:57.000Z",
@@ -164,27 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "An animated explainer of the PHP2Shell vulnerability",
-        "link": "https://www.youtube.com/watch?v=6Kz4bWKoXhU",
-        "pubDate": "2026-10-24T22:48:29.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What's wrong with AI?",
-        "link": "https://homepage.farm/ai.html",
-        "pubDate": "2026-10-24T12:09:40.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Twelve years of distributed SQLite",
         "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
         "pubDate": "2026-10-24T06:41:52.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Software is slow because of bad design, not slow languages",
-        "link": "https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/",
-        "pubDate": "2026-10-23T12:58:10.000Z",
         "feedId": "lobsters"
       }
     ]
