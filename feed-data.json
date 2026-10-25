@@ -3,15 +3,69 @@
     "id": "hn",
     "items": [
       {
+        "title": "What goes into making an animated film?",
+        "link": "https://www.disneyanimation.com/process/",
+        "pubDate": "2026-10-25T20:27:09.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Eunice is almost here",
+        "link": "https://armincat.com/articles/eunice-is-almost-here",
+        "pubDate": "2026-10-25T19:40:27.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+        "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+        "pubDate": "2026-10-25T19:29:16.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why I Am a Programmer",
+        "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+        "pubDate": "2026-10-25T19:11:31.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+        "link": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+        "pubDate": "2026-10-25T19:10:36.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Where the Romans Fought (interactive map)",
+        "link": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+        "pubDate": "2026-10-25T18:58:14.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Dolly Parton's Imagination Library",
+        "link": "https://imaginationlibrary.com/",
+        "pubDate": "2026-10-25T18:23:54.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
+        "link": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
+        "pubDate": "2026-10-25T18:11:38.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+        "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+        "pubDate": "2026-10-25T18:04:11.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
         "link": "https://talkweb.eu/openweb/4558/",
         "pubDate": "2026-10-25T17:30:55.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Fuck Nuance (2015)",
-        "link": "https://crookedtimber.org/2015/08/31/fuck-nuance/",
-        "pubDate": "2026-10-25T17:26:08.000Z",
+        "title": "Scientists rediscover how to make ancient Roman colour-changing glass",
+        "link": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
+        "pubDate": "2026-10-25T17:20:22.000Z",
         "feedId": "hn"
       },
       {
@@ -27,69 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "A Mathematician Reads the AI Future",
-        "link": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
-        "pubDate": "2026-10-25T16:31:21.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
-        "link": "https://github.com/socrates6969/jukebox-os",
-        "pubDate": "2026-10-25T16:29:46.000Z",
+        "title": "UTS #39: Unicode Security Mechanisms",
+        "link": "https://unicode.org/reports/tr39/",
+        "pubDate": "2026-10-25T16:40:37.000Z",
         "feedId": "hn"
       },
       {
         "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
         "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
         "pubDate": "2026-10-25T16:28:26.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "What Adobe v ArtCraft teaches us",
-        "link": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
-        "pubDate": "2026-10-25T15:34:44.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
-        "link": "https://bigwhalehunting.com/workforce/",
-        "pubDate": "2026-10-25T15:05:39.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "A few thoughts on intensity (2024)",
-        "link": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
-        "pubDate": "2026-10-25T14:37:49.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Active incident at Dreamhost forcing password reset",
-        "link": "https://www.dreamhoststatus.com/",
-        "pubDate": "2026-10-25T13:09:16.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tool book of a Nuremberg knight from 1505",
-        "link": "https://loeffelholz-codex.org/en/",
-        "pubDate": "2026-10-25T12:37:54.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-        "link": "https://github.com/ihhub/fheroes2",
-        "pubDate": "2026-10-25T11:09:12.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-        "link": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-        "pubDate": "2026-10-25T09:51:17.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Cerebras Deploys Trillion-Parameter AI Models",
-        "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-        "pubDate": "2026-10-25T01:33:49.000Z",
         "feedId": "hn"
       }
     ]
@@ -116,6 +116,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Partial Order Precedence",
+        "link": "https://ziglang.org/devlog/2026/#2026-10-24",
+        "pubDate": "2026-10-25T14:18:21.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "I want my Wednesday back",
         "link": "https://blog.luitjes.it/posts/i-want-my-wednesday-back/",
         "pubDate": "2026-10-24T10:09:28.000Z",
@@ -128,9 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Balloting has completed for C++26. Unfortunately it was Disapproved",
-        "link": "https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL",
-        "pubDate": "2026-10-24T18:00:36.000Z",
+        "title": "The Goose Programming Language",
+        "link": "https://aardappel.github.io/goose/",
+        "pubDate": "2026-10-25T20:10:47.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Partial Order Precedence",
-        "link": "https://ziglang.org/devlog/2026/#2026-10-24",
-        "pubDate": "2026-10-25T14:18:21.000Z",
+        "title": "Balloting has completed for C++26. Unfortunately it was Disapproved",
+        "link": "https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL",
+        "pubDate": "2026-10-24T18:00:36.000Z",
         "feedId": "lobsters"
       },
       {
@@ -179,12 +185,6 @@
         "title": "Indian government sites are serving revoked eMudhra certificates",
         "link": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/",
         "pubDate": "2026-10-24T04:06:06.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Be Aware of What's in Your Logs",
-        "link": "https://fireborn.mataroa.blog/blog/be-aware-of-whats-in-your-logs/",
-        "pubDate": "2026-10-24T10:42:05.000Z",
         "feedId": "lobsters"
       }
     ]
