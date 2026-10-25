@@ -3,21 +3,21 @@
     "id": "hn",
     "items": [
       {
-        "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
-        "link": "https://github.com/slee-persis/GVS5H",
-        "pubDate": "2026-10-25T03:56:01.000Z",
+        "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
+        "link": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
+        "pubDate": "2026-10-25T09:56:49.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Xbox Turns Down Netflix $500M Offer",
-        "link": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
-        "pubDate": "2026-10-25T03:05:53.000Z",
+        "title": "Online censorship is crushing indie webcomics",
+        "link": "https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463",
+        "pubDate": "2026-10-25T09:04:13.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
-        "link": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
-        "pubDate": "2026-10-25T02:18:35.000Z",
+        "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+        "link": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+        "pubDate": "2026-10-25T09:00:40.000Z",
         "feedId": "hn"
       },
       {
@@ -63,12 +63,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-        "link": "https://missileer.watch",
-        "pubDate": "2026-10-24T19:43:27.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "SpeedCrunch 1.1",
         "link": "https://www.speedcrunch.org/",
         "pubDate": "2026-10-24T19:19:43.000Z",
@@ -91,6 +85,12 @@
         "link": "https://de.numista.com/9866",
         "pubDate": "2026-10-24T16:41:55.000Z",
         "feedId": "hn"
+      },
+      {
+        "title": "Roku developer repositories moved from GitHub to GitLab",
+        "link": "https://blog.roku.com/developer/gitlab-move",
+        "pubDate": "2026-10-24T16:06:26.000Z",
+        "feedId": "hn"
       }
     ]
   },
@@ -107,6 +107,12 @@
         "title": "Balloting has completed for C++26. Unfortunately it was Disapproved",
         "link": "https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL",
         "pubDate": "2026-10-24T18:00:36.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "We should be more ambitious with the software we build",
+        "link": "https://danluu.com/ambitious/",
+        "pubDate": "2026-10-24T23:06:08.000Z",
         "feedId": "lobsters"
       },
       {
@@ -128,27 +134,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "We should be more ambitious with the software we build",
-        "link": "https://danluu.com/ambitious/",
-        "pubDate": "2026-10-24T23:06:08.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Be Aware of What's in Your Logs",
         "link": "https://fireborn.mataroa.blog/blog/be-aware-of-whats-in-your-logs/",
         "pubDate": "2026-10-24T10:42:05.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Attention people who think UB is fine",
-        "link": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
-        "pubDate": "2026-10-23T20:47:58.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "How to run a city builder on 16 MHz",
         "link": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
         "pubDate": "2026-10-24T14:18:48.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Attention people who think UB is fine",
+        "link": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
+        "pubDate": "2026-10-23T20:47:58.000Z",
         "feedId": "lobsters"
       },
       {
@@ -164,9 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Michal Wallace on Narrative Programming: Why Learn J when LLMs Code?",
-        "link": "https://alexalejandre.com/interviews/michal-wallace/",
-        "pubDate": "2026-10-25T05:04:57.000Z",
+        "title": "This week's \"node2shell\" Brotli vulnerability (CVE-2026-111497) is exploitable in Python, other consumers of Brotli",
+        "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+        "pubDate": "2026-10-24T11:01:27.000Z",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "This week's \"node2shell\" Brotli vulnerability (CVE-2026-111497) is exploitable in Python, other consumers of Brotli",
-        "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-        "pubDate": "2026-10-24T11:01:27.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "SIMD and Go",
         "link": "https://internals-for-interns.com/posts/go-simd/",
         "pubDate": "2026-10-24T23:11:40.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The glorious @xkcdRandom Zig builtin",
+        "link": "https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/",
+        "pubDate": "2026-10-23T14:30:57.000Z",
         "feedId": "lobsters"
       }
     ]
