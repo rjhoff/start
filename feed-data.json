@@ -3,93 +3,93 @@
     "id": "hn",
     "items": [
       {
+        "title": "CSS-Tricks has a new owner",
+        "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+        "pubDate": "2026-10-26T15:51:23.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+        "link": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+        "pubDate": "2026-10-26T15:35:12.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "NBA announces partnership with prediction markets Kalshi, Polymarket",
+        "link": "https://www.nytimes.com/athletic/7723134/2026/10/26/nba-kalshi-polymarket-agreement-prediction-markets/",
+        "pubDate": "2026-10-26T15:22:59.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+        "link": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+        "pubDate": "2026-10-26T15:11:59.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Everything",
+        "link": "https://github.com/HeyPuter/everything",
+        "pubDate": "2026-10-26T14:50:21.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Partyline: A group voice application for Reticulum, built on LXST",
+        "link": "https://github.com/RFnexus/partyline",
+        "pubDate": "2026-10-26T14:42:24.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "DOJ says presidents should be able to sell secrets on eBay",
+        "link": "https://freedom.press/the-classifieds/doj-says-presidents-should-be-able-to-sell-secrets-on-ebay/",
+        "pubDate": "2026-10-26T13:54:44.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "OLED iPad Mini",
+        "link": "https://www.apple.com/shop/buy-ipad/ipad-mini",
+        "pubDate": "2026-10-26T13:47:33.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The new iPad mini",
+        "link": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+        "pubDate": "2026-10-26T13:13:36.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Anthropic S-1",
+        "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+        "pubDate": "2026-10-26T13:04:50.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Fixing Tool-Call Accuracy in vLLM",
+        "link": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+        "pubDate": "2026-10-26T12:59:48.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Brown student maps the hidden global labor powering AI",
+        "link": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+        "pubDate": "2026-10-26T12:58:27.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Pharo 14",
+        "link": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+        "pubDate": "2026-10-26T11:15:50.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Websites Should Be Printable",
+        "link": "https://brennenputh.me/blog/printable-websites/",
+        "pubDate": "2026-10-26T10:32:14.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Switzerland. Block by block. At 1:1 scale",
         "link": "https://blocks.manifold3d.ch/",
         "pubDate": "2026-10-26T08:46:09.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The result of the C++26 DIS ballot",
-        "link": "https://train-it.eu/blog/cpp26-contracts-the-ballot-result/",
-        "pubDate": "2026-10-26T06:11:52.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Behind the scenes at the NeXT Computer office",
-        "link": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
-        "pubDate": "2026-10-26T03:31:11.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-        "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-        "pubDate": "2026-10-26T03:29:05.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: TitleArt – Make text like it's 1997",
-        "link": "https://titleart.dvy.io/",
-        "pubDate": "2026-10-26T03:23:57.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
-        "link": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
-        "pubDate": "2026-10-26T03:12:05.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "IBM CEO says open weight models are now good and cheap on-prem",
-        "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-        "pubDate": "2026-10-26T01:47:46.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
-        "link": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
-        "pubDate": "2026-10-26T01:03:39.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Steal My Bitcoin CTF PoC",
-        "link": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-        "pubDate": "2026-10-26T00:15:17.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Attention Is Not What You Need (2025)",
-        "link": "https://arxiv.org/abs/2512.19428",
-        "pubDate": "2026-10-25T23:52:05.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "F-Zero X on Nintendo 3DS",
-        "link": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
-        "pubDate": "2026-10-25T23:27:30.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-        "link": "https://minimaxir.com/2026/10/cheap-llms/",
-        "pubDate": "2026-10-25T21:11:31.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The State of Context Engineering",
-        "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
-        "pubDate": "2026-10-25T20:32:31.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "What goes into making an animated film?",
-        "link": "https://www.disneyanimation.com/process/",
-        "pubDate": "2026-10-25T20:27:09.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Why I Am a Programmer",
-        "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-        "pubDate": "2026-10-25T19:11:31.000Z",
         "feedId": "hn"
       }
     ]
@@ -98,9 +98,21 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "POSIX wordexp(3) is dangerous",
-        "link": "https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/",
-        "pubDate": "2026-10-25T15:09:29.000Z",
+        "title": "Websites Should Be Printable",
+        "link": "https://brennenputh.me/blog/printable-websites/",
+        "pubDate": "2026-10-26T12:02:58.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why is it so expensive to send an email?",
+        "link": "https://evancz.dev/why-is-it-so-expensive-to-send-an-email",
+        "pubDate": "2026-10-26T13:25:41.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "About the compromised eMudhra intermediate CAs",
+        "link": "https://support.apple.com/en-us/149555",
+        "pubDate": "2026-10-26T09:58:55.000Z",
         "feedId": "lobsters"
       },
       {
@@ -110,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Slurptop: A home-built luggable that runs on power tool batteries",
-        "link": "https://slurpburgers.com/slurpbuilds/the-slurptop/",
-        "pubDate": "2026-10-25T13:43:11.000Z",
+        "title": "POSIX wordexp(3) is dangerous",
+        "link": "https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/",
+        "pubDate": "2026-10-25T15:09:29.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Vim Classic",
-        "link": "https://vim-classic.org/",
-        "pubDate": "2026-10-25T15:05:45.000Z",
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/xxdda9/what_are_you_doing_this_week",
+        "pubDate": "2026-10-26T11:35:18.000Z",
         "feedId": "lobsters"
       },
       {
@@ -128,9 +140,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Partial Order Precedence",
-        "link": "https://ziglang.org/devlog/2026/#2026-10-24",
-        "pubDate": "2026-10-25T14:18:21.000Z",
+        "title": "The Slurptop: A home-built luggable that runs on power tool batteries",
+        "link": "https://slurpburgers.com/slurpbuilds/the-slurptop/",
+        "pubDate": "2026-10-25T13:43:11.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Gram 3.4.0 released",
+        "link": "https://gram-editor.com/posts/release-3.4.0/",
+        "pubDate": "2026-10-26T11:47:25.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Vim Classic",
+        "link": "https://vim-classic.org/",
+        "pubDate": "2026-10-25T15:05:45.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,51 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Building Java ME Apps with Modern Tooling",
-        "link": "https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/",
-        "pubDate": "2026-10-25T21:33:19.000Z",
+        "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
+        "link": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
+        "pubDate": "2026-10-26T12:55:44.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "OpenLDK: Bringing the Java World into Common Lisp",
-        "link": "https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/",
-        "pubDate": "2026-10-26T06:15:19.000Z",
+        "title": "Partial Operator Precedence",
+        "link": "https://ziglang.org/devlog/2026/#2026-10-24",
+        "pubDate": "2026-10-25T14:18:21.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "A vision for a next-generation timeline",
-        "link": "https://media.ccc.de/v/matrix-conference-2026-99070-a-vision-for-a-next-generation-timeline",
-        "pubDate": "2026-10-25T15:03:10.000Z",
+        "title": "Heavenly delights of hashing numbers under EQUALP",
+        "link": "https://turtleware.eu/posts/Heavenly-delights-of-hashing-numbers-under-EQUALP.html",
+        "pubDate": "2026-10-26T15:40:59.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "When a glibc update accidentally breaks Chromium's audio (2021)",
-        "link": "https://refi64.dev/posts/chromium-audio-break.html",
-        "pubDate": "2026-10-25T15:34:21.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I want my Wednesday back",
-        "link": "https://blog.luitjes.it/posts/i-want-my-wednesday-back/",
-        "pubDate": "2026-10-24T10:09:28.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Reverse-Engineering Instruction Encodings (2001)",
-        "link": "https://www.usenix.org/legacy/events/usenix01/full_papers/hsieh/hsieh_html/",
-        "pubDate": "2026-10-25T21:58:42.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Goose Programming Language",
-        "link": "https://aardappel.github.io/goose/",
-        "pubDate": "2026-10-25T20:10:47.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "SIMD-accelerated computer vision on a $2 microcontroller",
-        "link": "https://shraiwi.com/blog/simd-fast-esp32s3/",
-        "pubDate": "2026-10-25T14:57:20.000Z",
+        "title": "Simple Sudoku Solver in Assembly",
+        "link": "https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EII%3A_Assembly.html",
+        "pubDate": "2026-10-26T13:28:45.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,24 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "F1 in Texas: The American race that fans love to attend",
+        "link": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
+        "pubDate": "2026-10-26T14:48:24.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race",
+        "link": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
+        "pubDate": "2026-10-26T14:30:27.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
+        "link": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
+        "pubDate": "2026-10-26T11:00:15.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
         "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
@@ -263,30 +281,36 @@
         "link": "https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public/",
         "pubDate": "2026-10-23T16:35:00.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
-        "link": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
-        "pubDate": "2026-10-23T13:43:21.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
-        "link": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
-        "pubDate": "2026-10-23T11:30:22.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
-        "link": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
-        "pubDate": "2026-10-23T11:15:03.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Economic policy vets see risks in AI overreliance",
+        "link": "https://www.axios.com/2026/10/26/ai-economists-furman-policy",
+        "pubDate": "2026-10-26T16:01:01.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Anthropic's IPO outlines AI's extraordinary risks",
+        "link": "https://www.axios.com/2026/10/26/anthropic-ipo-risk-factors-humanity",
+        "pubDate": "2026-10-26T13:52:48.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Exclusive: Democrats lay groundwork to probe Trump's diesel deal",
+        "link": "https://www.axios.com/2026/10/26/democrats-trump-diesel-deal",
+        "pubDate": "2026-10-26T12:30:46.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump's Board of Peace taps ex-Biden aide to lead Congress outreach",
+        "link": "https://www.axios.com/2026/10/26/trump-gaza-board-of-peace-appoints-biden-aide-greenspan",
+        "pubDate": "2026-10-26T11:14:57.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Campaigns drag grieving families into midterm attack ads",
         "link": "https://www.axios.com/2026/10/26/campaign-ads-victims-crime-murder-rape",
@@ -342,7 +366,7 @@
         "feedId": "axios"
       },
       {
-        "title": "Washington's message to AI execs: please shut up",
+        "title": "Washington's message to AI execs: Please shut up",
         "link": "https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability",
         "pubDate": "2026-10-24T16:32:03.000Z",
         "feedId": "axios"
@@ -352,36 +376,24 @@
         "link": "https://www.axios.com/2026/10/24/israel-election-trump-netanyahu-advisers",
         "pubDate": "2026-10-24T12:56:30.000Z",
         "feedId": "axios"
-      },
-      {
-        "title": "Speed restrictions on Musk's Starlink lifted in Ukraine, defense ministry says",
-        "link": "https://www.axios.com/2026/10/24/musk-ukraine-starlink-starshield-speed",
-        "pubDate": "2026-10-24T10:18:09.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad",
-        "link": "https://www.axios.com/2026/10/24/iran-war-us-embassies-evacuations-threat",
-        "pubDate": "2026-10-24T00:16:19.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"People are tired of theater\": The left sours on \"performative\" Trump impeachment",
-        "link": "https://www.axios.com/2026/10/23/trump-impeachment-democrats-darializa-tlaib-left",
-        "pubDate": "2026-10-23T19:15:34.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "DOJ sues to delay Alaska election results if GOP incumbent loses",
-        "link": "https://www.axios.com/2026/10/23/trump-administration-sues-alaska-dan-sullivan",
-        "pubDate": "2026-10-23T18:43:41.000Z",
-        "feedId": "axios"
       }
     ]
   },
   "longreads": {
     "id": "longreads",
     "items": [
+      {
+        "title": "Benchma(r)king",
+        "link": "https://longreads.com/2026/10/26/ai-intelligence-carpentry/",
+        "pubDate": "2026-10-26T14:00:00.000Z",
+        "feedId": "longreads"
+      },
+      {
+        "title": "Vocal Accords",
+        "link": "https://longreads.com/2026/10/26/eurovision-israel-genocide/",
+        "pubDate": "2026-10-26T12:00:00.000Z",
+        "feedId": "longreads"
+      },
       {
         "title": "The Top 5 Longreads of the Week",
         "link": "https://longreads.com/2026/10/23/the-top-5-longreads-of-the-week-630/",
@@ -458,18 +470,6 @@
         "title": "The Doxing of Jane Doe",
         "link": "https://longreads.com/2026/10/19/the-doxing-of-jane-doe/",
         "pubDate": "2026-10-19T12:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "Tishomingo Burn Ban",
-        "link": "https://longreads.com/2026/10/16/camping-faith-isolation-fear/",
-        "pubDate": "2026-10-16T11:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "The Top 5 Longreads of the Week",
-        "link": "https://longreads.com/2026/10/16/top-5-629/",
-        "pubDate": "2026-10-16T10:00:00.000Z",
         "feedId": "longreads"
       }
     ]
