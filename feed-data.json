@@ -3,6 +3,42 @@
     "id": "hn",
     "items": [
       {
+        "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
+        "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+        "pubDate": "2026-10-26T01:47:46.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "iPhone Duo Teardown",
+        "link": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
+        "pubDate": "2026-10-26T01:23:24.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+        "link": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+        "pubDate": "2026-10-26T01:03:39.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Steal My Bitcoin CTF PoC",
+        "link": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+        "pubDate": "2026-10-26T00:15:17.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Attention Is Not What You Need (2025)",
+        "link": "https://arxiv.org/abs/2512.19428",
+        "pubDate": "2026-10-25T23:52:05.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "F-Zero X on Nintendo 3DS",
+        "link": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+        "pubDate": "2026-10-25T23:27:30.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Proton Flock Camera Map",
         "link": "https://proton.me/flock-camera-map",
         "pubDate": "2026-10-25T22:39:42.000Z",
@@ -12,12 +48,6 @@
         "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
         "link": "https://minimaxir.com/2026/10/cheap-llms/",
         "pubDate": "2026-10-25T21:11:31.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
-        "link": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
-        "pubDate": "2026-10-25T21:08:28.000Z",
         "feedId": "hn"
       },
       {
@@ -33,12 +63,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Focused Company Operating Principles",
-        "link": "https://focused.io/operating-principles",
-        "pubDate": "2026-10-25T20:16:51.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Eunice is almost here",
         "link": "https://armincat.com/articles/eunice-is-almost-here",
         "pubDate": "2026-10-25T19:40:27.000Z",
@@ -48,12 +72,6 @@
         "title": "Why I Am a Programmer",
         "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
         "pubDate": "2026-10-25T19:11:31.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
-        "link": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
-        "pubDate": "2026-10-25T19:10:36.000Z",
         "feedId": "hn"
       },
       {
@@ -72,24 +90,6 @@
         "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
         "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
         "pubDate": "2026-10-25T18:04:11.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-        "link": "https://talkweb.eu/openweb/4558/",
-        "pubDate": "2026-10-25T17:30:55.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-        "link": "https://lynchlab.net/llm-skin-cancer",
-        "pubDate": "2026-10-25T17:15:38.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "UTS #39: Unicode Security Mechanisms",
-        "link": "https://unicode.org/reports/tr39/",
-        "pubDate": "2026-10-25T16:40:37.000Z",
         "feedId": "hn"
       }
     ]
@@ -122,9 +122,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Simple NetBSD webserver",
+        "link": "https://bsandro.tech/posts/simple-netbsd-webserver/",
+        "pubDate": "2026-10-25T23:13:40.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The Goose Programming Language",
         "link": "https://aardappel.github.io/goose/",
         "pubDate": "2026-10-25T20:10:47.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Building Java ME Apps with Modern Tooling",
+        "link": "https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/",
+        "pubDate": "2026-10-25T21:33:19.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,21 +152,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Building Java ME Apps with Modern Tooling",
-        "link": "https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/",
-        "pubDate": "2026-10-25T21:33:19.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Simple NetBSD webserver",
-        "link": "https://bsandro.tech/posts/simple-netbsd-webserver/",
-        "pubDate": "2026-10-25T23:13:40.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "When a glibc update accidentally breaks Chromium's audio (2021)",
         "link": "https://refi64.dev/posts/chromium-audio-break.html",
         "pubDate": "2026-10-25T15:34:21.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "“AI Skills” are worthless in 2026",
+        "link": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+        "pubDate": "2026-10-26T00:23:42.000Z",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "MacOS Extensions pack for the Apple Network Server v1.0",
-        "link": "http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html",
-        "pubDate": "2026-10-25T01:22:45.000Z",
+        "title": "writing about pratt parsing so I remember it",
+        "link": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+        "pubDate": "2026-10-26T03:06:36.000Z",
         "feedId": "lobsters"
       },
       {
         "title": "Reverse-Engineering Instruction Encodings (2001)",
         "link": "https://www.usenix.org/legacy/events/usenix01/full_papers/hsieh/hsieh_html/",
         "pubDate": "2026-10-25T21:58:42.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Bringing uv and ty together",
-        "link": "https://astral.sh/blog/uv-ty-integration",
-        "pubDate": "2026-10-24T15:27:34.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Lula beats Bolsonaro to win Brazil presidential election",
+        "link": "https://www.axios.com/2026/10/26/brazil-election-results-bolsonaro-lula-trump",
+        "pubDate": "2026-10-26T02:04:55.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "Scoop: Netanyahu presses Trump for more support ahead of tight Tuesday election",
         "link": "https://www.axios.com/2026/10/25/netanyahu-trump-israeli-elections",
         "pubDate": "2026-10-25T23:15:08.000Z",
@@ -369,12 +375,6 @@
         "title": "Wall Street prepares for AI's \"day after\"",
         "link": "https://www.axios.com/2026/10/23/ai-catastrophe-wall-street",
         "pubDate": "2026-10-23T09:30:05.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Why soaring prices aren't breaking America's diesel habit",
-        "link": "https://www.axios.com/2026/10/23/soaring-prices-diesel-habit",
-        "pubDate": "2026-10-23T09:15:04.000Z",
         "feedId": "axios"
       }
     ]
