@@ -3,15 +3,63 @@
     "id": "hn",
     "items": [
       {
-        "title": "Writing about pratt parsing so I remember it",
-        "link": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
-        "pubDate": "2026-10-27T06:02:23.000Z",
+        "title": "Apple introduces the new 14-inch MacBook Pro with M6",
+        "link": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+        "pubDate": "2026-10-27T13:01:07.000Z",
         "feedId": "hn"
       },
       {
-        "title": "UK to charge universities $1,200 per international student",
-        "link": "https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe",
-        "pubDate": "2026-10-27T05:13:08.000Z",
+        "title": "Software may be getting worse, but it used to be horrible",
+        "link": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+        "pubDate": "2026-10-27T11:30:35.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Python's experimental JIT to be removed",
+        "link": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+        "pubDate": "2026-10-27T11:17:57.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Wikipedia's Cleanup of AI-Generated Content",
+        "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+        "pubDate": "2026-10-27T11:08:15.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI promised less work. I've never worked more",
+        "link": "https://oioannou.com/blog/ai-promised-less-work/",
+        "pubDate": "2026-10-27T11:08:14.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+        "link": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+        "pubDate": "2026-10-27T10:27:50.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Gforth 1.0",
+        "link": "https://gforth.org/manual/1.0/NEWS.html",
+        "pubDate": "2026-10-27T10:23:21.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "I will no longer upload to NEW",
+        "link": "https://lists.debian.org/debian-devel/2026/10/msg00263.html",
+        "pubDate": "2026-10-27T09:59:05.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Mythical Man-Month in the Age of AI",
+        "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+        "pubDate": "2026-10-27T06:25:37.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Writing about pratt parsing so I remember it",
+        "link": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+        "pubDate": "2026-10-27T06:02:23.000Z",
         "feedId": "hn"
       },
       {
@@ -43,54 +91,6 @@
         "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
         "pubDate": "2026-10-26T21:35:28.000Z",
         "feedId": "hn"
-      },
-      {
-        "title": "Type Server Protocol",
-        "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-        "pubDate": "2026-10-26T18:14:49.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "GPT-6.1 Terra",
-        "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
-        "pubDate": "2026-10-26T18:01:17.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Oldest GUI application that still runs on Windows 11",
-        "link": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-        "pubDate": "2026-10-26T17:56:55.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
-        "link": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
-        "pubDate": "2026-10-26T17:49:55.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nietzschian Debugger",
-        "link": "https://github.com/DilawarShafiq/nietzschian-debugger",
-        "pubDate": "2026-10-26T17:25:30.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "CSS-Tricks has a new owner",
-        "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-        "pubDate": "2026-10-26T15:51:23.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
-        "link": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
-        "pubDate": "2026-10-26T15:35:12.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Solar power is becoming bigger than nuclear",
-        "link": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
-        "pubDate": "2026-10-26T15:26:17.000Z",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,9 +104,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Python's experimental JIT to be removed",
+        "link": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+        "pubDate": "2026-10-27T06:20:38.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "CSS-Tricks has a new owner",
         "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
         "pubDate": "2026-10-26T17:55:19.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Exponential Time Hypothesis Is False [pdf]",
+        "link": "https://files.mathhelm.org/files/733/The-Exponential-Time-Hypothesis-is-False-October-25-2026.pdf",
+        "pubDate": "2026-10-27T00:39:50.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A faster way to compute signed 64-bit floor division by constants",
+        "link": "https://www.benjoffe.com/fast-floordiv",
+        "pubDate": "2026-10-26T18:44:53.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Oldest GUI application that still runs on Windows 11",
+        "link": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+        "pubDate": "2026-10-26T19:49:43.000Z",
         "feedId": "lobsters"
       },
       {
@@ -122,33 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A faster way to compute signed 64-bit floor division by constants",
-        "link": "https://www.benjoffe.com/fast-floordiv",
-        "pubDate": "2026-10-26T18:44:53.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Gram 3.4.0 released",
         "link": "https://gram-editor.com/posts/release-3.4.0/",
         "pubDate": "2026-10-26T11:47:25.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Oldest GUI application that still runs on Windows 11",
-        "link": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-        "pubDate": "2026-10-26T19:49:43.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Exponential Time Hypothesis Is False [pdf]",
-        "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-        "pubDate": "2026-10-27T00:39:50.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "About the compromised eMudhra intermediate CAs",
-        "link": "https://support.apple.com/en-us/149555",
-        "pubDate": "2026-10-26T09:58:55.000Z",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The passkey is worse",
-        "link": "https://www.kcoleman.me/2026/10/22/hacked.html",
-        "pubDate": "2026-10-26T23:44:15.000Z",
+        "title": "Full Haskell-like Type Class resolution in Java",
+        "link": "https://garciat.com/posts/java-type-classes/",
+        "pubDate": "2026-10-27T10:11:53.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Pharo 14 Released",
-        "link": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
-        "pubDate": "2026-10-26T17:47:50.000Z",
+        "title": "About the compromised eMudhra intermediate CAs",
+        "link": "https://support.apple.com/en-us/149555",
+        "pubDate": "2026-10-26T09:58:55.000Z",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Simple NetBSD webserver",
-        "link": "https://bsandro.tech/posts/simple-netbsd-webserver/",
-        "pubDate": "2026-10-25T23:13:40.000Z",
+        "title": "TypeScript and Haskell: Unions & Singletons (2024)",
+        "link": "https://garciat.com/posts/haskell-union-types/",
+        "pubDate": "2026-10-27T10:06:47.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "POSIX wordexp(3) is dangerous",
-        "link": "https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/",
-        "pubDate": "2026-10-25T15:09:29.000Z",
+        "title": "Keyless Entry: Hacking SwitchBot Smart Locks",
+        "link": "https://neodyme.io/en/blog/switchbot",
+        "pubDate": "2026-10-27T08:10:01.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,36 @@
     "id": "axios",
     "items": [
       {
+        "title": "Midway through voting, Israeli turnout hits 53-year high",
+        "link": "https://www.axios.com/2026/10/27/israel-election-turnout-netanyahu",
+        "pubDate": "2026-10-27T13:23:25.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Key Senate Democrats set high bar for permitting bill support",
+        "link": "https://www.axios.com/2026/10/27/senate-democrats-permitting-bill",
+        "pubDate": "2026-10-27T12:45:05.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Socialist civil war engulfs Los Angeles mayor race",
+        "link": "https://www.axios.com/2026/10/27/dsa-socialists-la-mayor-race-israel-raman-bass",
+        "pubDate": "2026-10-27T09:30:10.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Israel braces for an election each side warns could bring ruin",
+        "link": "https://www.axios.com/2026/10/27/israel-election-netanyahu-eisenkot",
+        "pubDate": "2026-10-27T09:20:04.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Anthropic IPO leads AI's $235 billion dealmaking blitz",
+        "link": "https://www.axios.com/2026/10/27/anthropic-ipo-meta-spacex-ai-deals",
+        "pubDate": "2026-10-27T09:00:04.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "Rubio warns Venezuela's Machado: Street protests won't get you democracy",
         "link": "https://www.axios.com/2026/10/27/rubio-venezuela-maria-machado-elections",
         "pubDate": "2026-10-27T00:20:23.000Z",
@@ -346,42 +376,24 @@
         "link": "https://www.axios.com/2026/10/26/democrats-trump-diesel-deal",
         "pubDate": "2026-10-26T12:30:46.000Z",
         "feedId": "axios"
-      },
-      {
-        "title": "Trump's Board of Peace taps ex-Biden aide to lead Congress outreach",
-        "link": "https://www.axios.com/2026/10/26/trump-gaza-board-of-peace-appoints-biden-aide-greenspan",
-        "pubDate": "2026-10-26T11:14:57.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Campaigns drag grieving families into midterm attack ads",
-        "link": "https://www.axios.com/2026/10/26/campaign-ads-victims-crime-murder-rape",
-        "pubDate": "2026-10-26T09:30:07.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Meta's $42B in penalties is a warning to AI",
-        "link": "https://www.axios.com/2026/10/26/meta-litigation-ai-legal-risk",
-        "pubDate": "2026-10-26T09:20:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Lula beats Bolsonaro to win Brazil presidential election",
-        "link": "https://www.axios.com/2026/10/26/brazil-election-results-bolsonaro-lula-trump",
-        "pubDate": "2026-10-26T02:04:55.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Netanyahu presses Trump for more support ahead of tight Tuesday election",
-        "link": "https://www.axios.com/2026/10/25/netanyahu-trump-israeli-elections",
-        "pubDate": "2026-10-25T23:15:08.000Z",
-        "feedId": "axios"
       }
     ]
   },
   "longreads": {
     "id": "longreads",
     "items": [
+      {
+        "title": "Go Fast, Turn Left: The Anderson Speedway & Indiana’s Data Centers",
+        "link": "https://longreads.com/2026/10/27/anderson-speedway-indianas-data-centers/",
+        "pubDate": "2026-10-27T11:00:00.000Z",
+        "feedId": "longreads"
+      },
+      {
+        "title": "“I Play the Field; I Read Around.”",
+        "link": "https://longreads.com/2026/10/27/maggie-shipstead-passages-reading/",
+        "pubDate": "2026-10-27T10:00:00.000Z",
+        "feedId": "longreads"
+      },
       {
         "title": "You Finally Got a Wikipedia Page. Then It Vanished.",
         "link": "https://longreads.com/2026/10/26/wikipedia-deletion/",
@@ -458,18 +470,6 @@
         "title": "The Man Who Taught Us How to Pay Attention",
         "link": "https://longreads.com/2026/10/20/john-berger-about-looking-ways-of-seeing/",
         "pubDate": "2026-10-20T16:12:51.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "Death by a Thousand Dams",
-        "link": "https://longreads.com/2026/10/20/dams-fish-migration-america/",
-        "pubDate": "2026-10-20T11:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "The Longreads Questionnaire, Featuring Jasper Craven",
-        "link": "https://longreads.com/2026/10/20/jasper-craven-questionnaire/",
-        "pubDate": "2026-10-20T10:00:00.000Z",
         "feedId": "longreads"
       }
     ]
