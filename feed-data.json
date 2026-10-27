@@ -3,6 +3,54 @@
     "id": "hn",
     "items": [
       {
+        "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+        "link": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+        "pubDate": "2026-10-27T22:31:15.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "One year of Dioxus fullstack in production: the good, the painful",
+        "link": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
+        "pubDate": "2026-10-27T21:19:15.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Early progress on accelerating drug development with Claude",
+        "link": "https://www.anthropic.com/research/early-progress-drug-development",
+        "pubDate": "2026-10-27T20:50:42.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+        "link": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+        "pubDate": "2026-10-27T20:48:49.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Hex Raises $100M",
+        "link": "https://hex.tech/blog/hex-new-era/",
+        "pubDate": "2026-10-27T20:36:38.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Four Months of Zig",
+        "link": "https://gracefulliberty.com/articles/four-months-of-zig/",
+        "pubDate": "2026-10-27T20:13:27.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tailscale SSH: Investigation and remediation update",
+        "link": "https://tailscale.com/ssh-investigation-update",
+        "pubDate": "2026-10-27T19:55:21.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+        "link": "https://www.brangus.io/survival-llm",
+        "pubDate": "2026-10-27T19:55:06.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Discord will soon let anyone find public server messages through Google",
         "link": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
         "pubDate": "2026-10-27T18:44:17.000Z",
@@ -15,21 +63,21 @@
         "feedId": "hn"
       },
       {
+        "title": "Radio-tagged Monarch butterflies",
+        "link": "https://blog.cwf-fcf.org/index.php/en/tiny-tracking-tags-for-big-monarch-journeys/",
+        "pubDate": "2026-10-27T17:48:15.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
         "link": "https://www.liquid.ai/blog/lfm3",
         "pubDate": "2026-10-27T17:04:50.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Ghostty 1.4.0",
+        "title": "Ghostty 1.4",
         "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
         "pubDate": "2026-10-27T16:51:22.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
-        "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-        "pubDate": "2026-10-27T16:40:15.000Z",
         "feedId": "hn"
       },
       {
@@ -39,57 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Vicious Cycles: Theses on a philosophy of news",
-        "link": "https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/",
-        "pubDate": "2026-10-27T16:27:29.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
         "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
         "pubDate": "2026-10-27T16:25:30.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
-        "link": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
-        "pubDate": "2026-10-27T16:25:12.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Apple introduces the new 14‑inch MacBook Pro with M6",
-        "link": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-        "pubDate": "2026-10-27T16:08:32.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Genie 4",
-        "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-        "pubDate": "2026-10-27T16:06:01.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-        "link": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-        "pubDate": "2026-10-27T15:28:26.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Specification First Agentic Development Plugin and Prove",
-        "link": "https://spec-first.dev/",
-        "pubDate": "2026-10-27T15:12:20.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "A $300B 'Debt Wall' Is Looming over Private-Equity Backed Companies",
-        "link": "https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497",
-        "pubDate": "2026-10-27T15:09:27.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "US Government is hiding a secret court ruling about how it spies on Americans",
-        "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-        "pubDate": "2026-10-27T14:06:42.000Z",
         "feedId": "hn"
       }
     ]
@@ -98,9 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Shitty Screenshare",
-        "link": "http://shittyscreenshare.com",
-        "pubDate": "2026-10-27T00:12:16.000Z",
+        "title": "A fast and secure tar parser for the Rust ecosystem",
+        "link": "https://astral.sh/blog/tar-codec",
+        "pubDate": "2026-10-27T16:59:30.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Four Months of Zig",
+        "link": "https://gracefulliberty.com/articles/four-months-of-zig/",
+        "pubDate": "2026-10-27T18:46:09.000Z",
         "feedId": "lobsters"
       },
       {
@@ -110,9 +116,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A fast and secure tar parser for the Rust ecosystem",
-        "link": "https://astral.sh/blog/tar-codec",
-        "pubDate": "2026-10-27T16:59:30.000Z",
+        "title": "Shitty Screenshare",
+        "link": "http://shittyscreenshare.com",
+        "pubDate": "2026-10-27T00:12:16.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "1,447 emoji? We'll do it live",
+        "link": "https://planetpeanut.studio/post/2026/10/27/pidgin-emoji-twitch",
+        "pubDate": "2026-10-27T18:28:06.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Compile-Time Dependent Types",
+        "link": "https://thenumb.at/Syl-Intro/",
+        "pubDate": "2026-10-27T14:40:12.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A stackless floodfill automation (2023)",
+        "link": "https://t3x.org/files/floodfill.pdf",
+        "pubDate": "2026-10-27T14:56:00.000Z",
         "feedId": "lobsters"
       },
       {
@@ -122,9 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A stackless floodfill automation (2023)",
-        "link": "https://t3x.org/files/floodfill.pdf",
-        "pubDate": "2026-10-27T14:56:00.000Z",
+        "title": "Filian, Fil-C binaries on Debian",
+        "link": "https://cr.yp.to/2025/fil-c.html",
+        "pubDate": "2026-10-27T16:42:17.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+        "link": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+        "pubDate": "2026-10-27T19:08:23.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +170,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Filian, Fil-C binaries on Debian",
-        "link": "https://cr.yp.to/2025/fil-c.html",
-        "pubDate": "2026-10-27T16:42:17.000Z",
+        "title": "Finding panics with Call Graph Analyzer",
+        "link": "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/",
+        "pubDate": "2026-10-27T16:45:26.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Ghostty 1.4.0",
+        "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
+        "pubDate": "2026-10-27T22:06:07.000Z",
         "feedId": "lobsters"
       },
       {
@@ -150,48 +186,66 @@
         "link": "https://www.benjoffe.com/fast-floordiv",
         "pubDate": "2026-10-26T18:44:53.000Z",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Compile-Time Dependent Types",
-        "link": "https://thenumb.at/Syl-Intro/",
-        "pubDate": "2026-10-27T14:40:12.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Websites Should Be Printable",
-        "link": "https://brennenputh.me/blog/printable-websites/",
-        "pubDate": "2026-10-26T12:02:58.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why is it so expensive to send an email?",
-        "link": "https://evancz.dev/why-is-it-so-expensive-to-send-an-email",
-        "pubDate": "2026-10-26T13:25:41.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "1,447 emoji? We'll do it live",
-        "link": "https://planetpeanut.studio/post/2026/10/27/pidgin-emoji-twitch",
-        "pubDate": "2026-10-27T18:28:06.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Stalwart v1.0: The Fastest Mail Server on the Planet",
-        "link": "https://stalw.art/blog/stalwart-1-0/",
-        "pubDate": "2026-10-26T16:28:12.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Gram 3.4.0 released",
-        "link": "https://gram-editor.com/posts/release-3.4.0/",
-        "pubDate": "2026-10-26T11:47:25.000Z",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+        "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+        "pubDate": "2026-10-27T22:37:30.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+        "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+        "pubDate": "2026-10-27T22:22:32.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+        "link": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
+        "pubDate": "2026-10-27T22:04:50.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+        "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+        "pubDate": "2026-10-27T21:50:04.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+        "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+        "pubDate": "2026-10-27T21:31:14.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+        "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+        "pubDate": "2026-10-27T20:25:55.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google begins certifying Registered App Stores for Android, but not in the US",
+        "link": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
+        "pubDate": "2026-10-27T19:32:07.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+        "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+        "pubDate": "2026-10-27T18:49:08.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Warner Bros. drops final trailer for Dune: Part Three",
+        "link": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
+        "pubDate": "2026-10-27T18:05:55.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
         "link": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
@@ -227,60 +281,6 @@
         "link": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
         "pubDate": "2026-10-27T13:32:35.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "US officials want Section 702 renewed before damaging court ruling goes public",
-        "link": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
-        "pubDate": "2026-10-27T13:22:16.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Microsoft offers to buy out a quarter of its workforce",
-        "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
-        "pubDate": "2026-10-26T22:36:06.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
-        "link": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
-        "pubDate": "2026-10-26T20:27:00.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
-        "link": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
-        "pubDate": "2026-10-26T20:15:07.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-        "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
-        "pubDate": "2026-10-26T20:04:16.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
-        "link": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
-        "pubDate": "2026-10-26T19:04:40.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
-        "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-        "pubDate": "2026-10-26T18:50:41.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
-        "link": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/",
-        "pubDate": "2026-10-26T18:09:08.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
-        "link": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
-        "pubDate": "2026-10-26T17:26:36.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,7 +288,37 @@
     "id": "axios",
     "items": [
       {
-        "title": "Israeli turnout hits four-decade high in warning sign for Netanyahu",
+        "title": "Israeli exit polls: Netanyahu, Eisenkot blocs running close, both shy of majority",
+        "link": "https://www.axios.com/2026/10/27/netanyahu-eisenkot-israel-election-exit-polls",
+        "pubDate": "2026-10-27T23:27:05.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "DOJ fails to indict Cassidy Hutchinson, a key Jan. 6 witness",
+        "link": "https://www.axios.com/2026/10/27/cassidy-hutchinson-indictment-jan-6-testimony",
+        "pubDate": "2026-10-27T22:31:08.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "U.S. granting visas to Flávio Bolsonaro and family",
+        "link": "https://www.axios.com/2026/10/27/us-granting-visas-to-flavio-bolsonaro-and-family",
+        "pubDate": "2026-10-27T21:53:38.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump escalates anti-Muslim rhetoric before midterms",
+        "link": "https://www.axios.com/2026/10/27/trump-abdul-el-sayed-muslim-faith-midterm-campaign",
+        "pubDate": "2026-10-27T21:06:57.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump praises Canadian separatists amid delicate trade talks",
+        "link": "https://www.axios.com/2026/10/27/trump-applauds-canadian-separatist-trade-talks",
+        "pubDate": "2026-10-27T19:25:12.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Israeli turnout hits three-decade high in warning sign for Netanyahu",
         "link": "https://www.axios.com/2026/10/27/israel-election-turnout-netanyahu",
         "pubDate": "2026-10-27T19:13:54.000Z",
         "feedId": "axios"
@@ -346,42 +376,18 @@
         "link": "https://www.axios.com/2026/10/26/trump-sports-texas-midterms-young-men",
         "pubDate": "2026-10-26T20:36:23.000Z",
         "feedId": "axios"
-      },
-      {
-        "title": "Brazil's election ignites MAGA's midterm warnings",
-        "link": "https://www.axios.com/2026/10/26/maga-influencers-bolsonaro-loss-brazil",
-        "pubDate": "2026-10-26T20:32:30.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "The anti-Bibi candidate who has Netanyahu on his heels",
-        "link": "https://www.axios.com/2026/10/26/eisenkot-netanyahu-israel-elections",
-        "pubDate": "2026-10-26T17:11:09.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Economic policy vets see risks in AI overreliance",
-        "link": "https://www.axios.com/2026/10/26/ai-economists-furman-policy",
-        "pubDate": "2026-10-26T16:01:01.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Anthropic's IPO outlines AI's extraordinary risks",
-        "link": "https://www.axios.com/2026/10/26/anthropic-ipo-risk-factors-humanity",
-        "pubDate": "2026-10-26T13:52:48.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: Democrats lay groundwork to probe Trump's diesel deal",
-        "link": "https://www.axios.com/2026/10/26/democrats-trump-diesel-deal",
-        "pubDate": "2026-10-26T12:30:46.000Z",
-        "feedId": "axios"
       }
     ]
   },
   "longreads": {
     "id": "longreads",
     "items": [
+      {
+        "title": "How Jim Morrison Surmounted Tragedy and Skied Down Everest",
+        "link": "https://longreads.com/2026/10/27/jim-morrison-tragedy-skied-down-everest/",
+        "pubDate": "2026-10-27T21:00:00.000Z",
+        "feedId": "longreads"
+      },
       {
         "title": "The Ledger and the Blade",
         "link": "https://longreads.com/2026/10/27/monica-seles-athletes-data-gambling-violence/",
@@ -464,12 +470,6 @@
         "title": "Have You Been to the Sixth-Worst McDonald’s in America?",
         "link": "https://longreads.com/2026/10/21/sixth-worst-mcdonalds-stafford-virginia/",
         "pubDate": "2026-10-21T15:47:36.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "He Was a Suspect in the Yogurt Shop Murders for Thirty Years. He Can’t Forget.",
-        "link": "https://longreads.com/2026/10/21/forrest-welborn-texas-monthly/",
-        "pubDate": "2026-10-21T11:00:00.000Z",
         "feedId": "longreads"
       }
     ]
