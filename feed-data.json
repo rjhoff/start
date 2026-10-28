@@ -3,7 +3,19 @@
     "id": "hn",
     "items": [
       {
-        "title": "Git for US Legislation",
+        "title": "Spain train crash: 'At least 10 dead' in high-speed collision",
+        "link": "https://www.thetimes.com/world/europe/article/spain-train-crash-madrid-latest-deaths-victims-807kwv23l",
+        "pubDate": "2026-10-28T09:35:21.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Wealth Inequality in America drawn to scale",
+        "link": "https://dreamagainusa.org/",
+        "pubDate": "2026-10-28T08:48:21.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Git for the US Code",
         "link": "https://lexifina.com/blog/git-for-the-us-code",
         "pubDate": "2026-10-28T01:47:50.000Z",
         "feedId": "hn"
@@ -15,15 +27,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-        "link": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
-        "pubDate": "2026-10-27T22:31:15.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-        "link": "https://www.anthropic.com/news/expanding-partnership-gsa",
-        "pubDate": "2026-10-27T22:23:37.000Z",
+        "title": "Hunger beats tenure: Advice for junior engineers",
+        "link": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/",
+        "pubDate": "2026-10-27T22:25:23.000Z",
         "feedId": "hn"
       },
       {
@@ -63,21 +69,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Three TLS Bugs in GoAhead",
-        "link": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
-        "pubDate": "2026-10-27T18:33:48.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Radio-tagged Monarch butterflies",
         "link": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html",
         "pubDate": "2026-10-27T17:48:15.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
-        "link": "https://www.liquid.ai/blog/lfm3",
-        "pubDate": "2026-10-27T17:04:50.000Z",
         "feedId": "hn"
       },
       {
@@ -91,12 +85,24 @@
         "link": "https://cfsg.axiommath.ai/",
         "pubDate": "2026-10-27T16:29:02.000Z",
         "feedId": "hn"
+      },
+      {
+        "title": "New 14‑inch MacBook Pro with M6",
+        "link": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+        "pubDate": "2026-10-27T16:08:32.000Z",
+        "feedId": "hn"
       }
     ]
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "This is not sustainable",
+        "link": "https://www.netmeister.org/blog/defense-ddos.html",
+        "pubDate": "2026-10-28T03:56:49.000Z",
+        "feedId": "lobsters"
+      },
       {
         "title": "A fast and secure tar parser for the Rust ecosystem",
         "link": "https://astral.sh/blog/tar-codec",
@@ -110,21 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Python's experimental JIT to be removed",
-        "link": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-        "pubDate": "2026-10-27T06:20:38.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Ghostty 1.4.0",
         "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
         "pubDate": "2026-10-27T22:06:07.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Shitty Screenshare",
-        "link": "http://shittyscreenshare.com",
-        "pubDate": "2026-10-27T00:12:16.000Z",
+        "title": "Python's experimental JIT to be removed",
+        "link": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+        "pubDate": "2026-10-27T06:20:38.000Z",
         "feedId": "lobsters"
       },
       {
@@ -134,33 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Compile-Time Dependent Types",
-        "link": "https://thenumb.at/Syl-Intro/",
-        "pubDate": "2026-10-27T14:40:12.000Z",
+        "title": "Shitty Screenshare",
+        "link": "http://shittyscreenshare.com",
+        "pubDate": "2026-10-27T00:12:16.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "A stackless floodfill automation (2023)",
-        "link": "https://t3x.org/files/floodfill.pdf",
-        "pubDate": "2026-10-27T14:56:00.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
-        "link": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
-        "pubDate": "2026-10-27T19:08:23.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Filian, Fil-C binaries on Debian",
-        "link": "https://cr.yp.to/2025/fil-c.html",
-        "pubDate": "2026-10-27T16:42:17.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Exponential Time Hypothesis Is False [pdf]",
-        "link": "https://files.mathhelm.org/files/733/The-Exponential-Time-Hypothesis-is-False-October-25-2026.pdf",
-        "pubDate": "2026-10-27T00:39:50.000Z",
+        "title": "The Benchmarking Crisis",
+        "link": "http://databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html",
+        "pubDate": "2026-10-28T08:32:09.000Z",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +152,39 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Finding panics with Call Graph Analyzer",
-        "link": "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/",
-        "pubDate": "2026-10-27T16:45:26.000Z",
+        "title": "Compile-Time Dependent Types",
+        "link": "https://thenumb.at/Syl-Intro/",
+        "pubDate": "2026-10-27T14:40:12.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "CSS-Tricks has a new owner",
-        "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-        "pubDate": "2026-10-26T17:55:19.000Z",
+        "title": "Scalable Vector Grief",
+        "link": "https://portswigger.net/research/scalable-vector-grief",
+        "pubDate": "2026-10-28T07:26:03.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Oldest GUI application that still runs on Windows 11",
-        "link": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-        "pubDate": "2026-10-26T19:49:43.000Z",
+        "title": "Filian, Fil-C binaries on Debian",
+        "link": "https://cr.yp.to/2025/fil-c.html",
+        "pubDate": "2026-10-27T16:42:17.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A stackless floodfill automation (2023)",
+        "link": "https://t3x.org/files/floodfill.pdf",
+        "pubDate": "2026-10-27T14:56:00.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Who’s 0xabadbabe and why? (2011)",
+        "link": "https://daniel.haxx.se/blog/2011/10/28/whos-0xabadbabe-and-why/",
+        "pubDate": "2026-10-28T07:57:21.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+        "link": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+        "pubDate": "2026-10-27T19:08:23.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,30 @@
     "id": "axios",
     "items": [
       {
+        "title": "Democrats try to win over MAHA voters",
+        "link": "https://www.axios.com/2026/10/28/maha-democrats-health-voters-food-pesticides",
+        "pubDate": "2026-10-28T09:30:12.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "The real election tech vulnerabilities in 2026",
+        "link": "https://www.axios.com/2026/10/28/election-security-paper-ballots-audits",
+        "pubDate": "2026-10-28T09:20:16.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Inside \"Black October\": AI's cyber scare delivers a Y2K lesson",
+        "link": "https://www.axios.com/2026/10/28/cybersecurity-black-october-ai-hacks",
+        "pubDate": "2026-10-28T09:15:08.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Ukraine's Starlink woes spur Europe to look for non-Musk alternatives",
+        "link": "https://www.axios.com/2026/10/28/starlink-musk-ukraine-war-satcom",
+        "pubDate": "2026-10-28T09:10:11.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "U.S. granting visas to Flávio Bolsonaro and family",
         "link": "https://www.axios.com/2026/10/27/us-granting-visas-to-flavio-bolsonaro-and-family",
         "pubDate": "2026-10-28T02:03:22.000Z",
@@ -351,30 +375,6 @@
         "title": "Israel braces for an election each side warns could bring ruin",
         "link": "https://www.axios.com/2026/10/27/israel-election-netanyahu-eisenkot",
         "pubDate": "2026-10-27T09:20:04.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Anthropic IPO leads AI's $235 billion dealmaking blitz",
-        "link": "https://www.axios.com/2026/10/27/anthropic-ipo-meta-spacex-ai-deals",
-        "pubDate": "2026-10-27T09:00:04.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Rubio warns Venezuela's Machado: Street protests won't get you democracy",
-        "link": "https://www.axios.com/2026/10/27/rubio-venezuela-maria-machado-elections",
-        "pubDate": "2026-10-27T00:20:23.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "James Comey charged again by the DOJ",
-        "link": "https://www.axios.com/2026/10/26/james-comey-national-defense-information-charges",
-        "pubDate": "2026-10-26T23:05:31.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Inside Anthropic's massive — and wild — IPO prospectus",
-        "link": "https://www.axios.com/2026/10/26/anthropic-ipo-biggest-surprises",
-        "pubDate": "2026-10-26T22:58:44.000Z",
         "feedId": "axios"
       }
     ]
