@@ -3,15 +3,27 @@
     "id": "hn",
     "items": [
       {
+        "title": "Git for US Legislation",
+        "link": "https://lexifina.com/blog/git-for-the-us-code",
+        "pubDate": "2026-10-28T01:47:50.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
+        "link": "https://github.com/maharmstone/moxnox",
+        "pubDate": "2026-10-27T23:53:41.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
         "link": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
         "pubDate": "2026-10-27T22:31:15.000Z",
         "feedId": "hn"
       },
       {
-        "title": "One year of Dioxus fullstack in production: the good, the painful",
-        "link": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
-        "pubDate": "2026-10-27T21:19:15.000Z",
+        "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+        "link": "https://www.anthropic.com/news/expanding-partnership-gsa",
+        "pubDate": "2026-10-27T22:23:37.000Z",
         "feedId": "hn"
       },
       {
@@ -27,9 +39,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Hex Raises $100M",
-        "link": "https://hex.tech/blog/hex-new-era/",
-        "pubDate": "2026-10-27T20:36:38.000Z",
+        "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+        "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+        "pubDate": "2026-10-27T20:35:09.000Z",
         "feedId": "hn"
       },
       {
@@ -51,12 +63,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Discord will soon let anyone find public server messages through Google",
-        "link": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
-        "pubDate": "2026-10-27T18:44:17.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Three TLS Bugs in GoAhead",
         "link": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
         "pubDate": "2026-10-27T18:33:48.000Z",
@@ -64,7 +70,7 @@
       },
       {
         "title": "Radio-tagged Monarch butterflies",
-        "link": "https://blog.cwf-fcf.org/index.php/en/tiny-tracking-tags-for-big-monarch-journeys/",
+        "link": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html",
         "pubDate": "2026-10-27T17:48:15.000Z",
         "feedId": "hn"
       },
@@ -84,12 +90,6 @@
         "title": "Classification of Finite Simple Groups Formalized in Lean",
         "link": "https://cfsg.axiommath.ai/",
         "pubDate": "2026-10-27T16:29:02.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-        "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-        "pubDate": "2026-10-27T16:25:30.000Z",
         "feedId": "hn"
       }
     ]
@@ -113,6 +113,12 @@
         "title": "Python's experimental JIT to be removed",
         "link": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
         "pubDate": "2026-10-27T06:20:38.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Ghostty 1.4.0",
+        "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
+        "pubDate": "2026-10-27T22:06:07.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Exponential Time Hypothesis Is False [pdf]",
-        "link": "https://files.mathhelm.org/files/733/The-Exponential-Time-Hypothesis-is-False-October-25-2026.pdf",
-        "pubDate": "2026-10-27T00:39:50.000Z",
+        "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+        "link": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+        "pubDate": "2026-10-27T19:08:23.000Z",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +158,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
-        "link": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
-        "pubDate": "2026-10-27T19:08:23.000Z",
+        "title": "The Exponential Time Hypothesis Is False [pdf]",
+        "link": "https://files.mathhelm.org/files/733/The-Exponential-Time-Hypothesis-is-False-October-25-2026.pdf",
+        "pubDate": "2026-10-27T00:39:50.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Reminder: Lobsters NYC Meetup Tomorrow 5:30 at Walker's",
+        "link": "https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5",
+        "pubDate": "2026-10-28T01:27:50.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Finding panics with Call Graph Analyzer",
+        "link": "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/",
+        "pubDate": "2026-10-27T16:45:26.000Z",
         "feedId": "lobsters"
       },
       {
@@ -167,24 +185,6 @@
         "title": "Oldest GUI application that still runs on Windows 11",
         "link": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
         "pubDate": "2026-10-26T19:49:43.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Finding panics with Call Graph Analyzer",
-        "link": "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/",
-        "pubDate": "2026-10-27T16:45:26.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Ghostty 1.4.0",
-        "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
-        "pubDate": "2026-10-27T22:06:07.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A faster way to compute signed 64-bit floor division by constants",
-        "link": "https://www.benjoffe.com/fast-floordiv",
-        "pubDate": "2026-10-26T18:44:53.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -288,21 +288,33 @@
     "id": "axios",
     "items": [
       {
-        "title": "Israeli exit polls: Netanyahu, Eisenkot blocs running close, both shy of majority",
+        "title": "U.S. granting visas to Flávio Bolsonaro and family",
+        "link": "https://www.axios.com/2026/10/27/us-granting-visas-to-flavio-bolsonaro-and-family",
+        "pubDate": "2026-10-28T02:03:22.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Netanyahu and Eisenkot blocs deadlocked and shy of a majority",
         "link": "https://www.axios.com/2026/10/27/netanyahu-eisenkot-israel-election-exit-polls",
-        "pubDate": "2026-10-27T23:27:05.000Z",
+        "pubDate": "2026-10-28T01:37:17.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Republicans fear \"red scream\" could depress GOP voter turnout",
+        "link": "https://www.axios.com/2026/10/28/republicans-senate-turnout-2026-midterms",
+        "pubDate": "2026-10-28T00:18:55.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Senate control could hang in limbo for weeks after Election Day",
+        "link": "https://www.axios.com/2026/10/27/senate-majority-democrats-republicans-schumer-thune",
+        "pubDate": "2026-10-27T23:49:24.000Z",
         "feedId": "axios"
       },
       {
         "title": "DOJ fails to indict Cassidy Hutchinson, a key Jan. 6 witness",
         "link": "https://www.axios.com/2026/10/27/cassidy-hutchinson-indictment-jan-6-testimony",
         "pubDate": "2026-10-27T22:31:08.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "U.S. granting visas to Flávio Bolsonaro and family",
-        "link": "https://www.axios.com/2026/10/27/us-granting-visas-to-flavio-bolsonaro-and-family",
-        "pubDate": "2026-10-27T21:53:38.000Z",
         "feedId": "axios"
       },
       {
@@ -363,18 +375,6 @@
         "title": "Inside Anthropic's massive — and wild — IPO prospectus",
         "link": "https://www.axios.com/2026/10/26/anthropic-ipo-biggest-surprises",
         "pubDate": "2026-10-26T22:58:44.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump allies fall in two elections as Netanyahu faces next test",
-        "link": "https://www.axios.com/2026/10/26/trump-allies-brazil-serbia-elections-netanyahu-israel",
-        "pubDate": "2026-10-26T20:43:39.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Trump enlists football stars for final midterm push in Texas",
-        "link": "https://www.axios.com/2026/10/26/trump-sports-texas-midterms-young-men",
-        "pubDate": "2026-10-26T20:36:23.000Z",
         "feedId": "axios"
       }
     ]
