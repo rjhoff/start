@@ -3,19 +3,79 @@
     "id": "hn",
     "items": [
       {
+        "title": "Formlabs Studio 1 $699 Resin Printer",
+        "link": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+        "pubDate": "2026-10-28T21:19:30.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+        "link": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+        "pubDate": "2026-10-28T21:03:24.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
+        "link": "https://nango.dev/careers",
+        "pubDate": "2026-10-28T21:00:06.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The case of the 9 bit AES key",
+        "link": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+        "pubDate": "2026-10-28T20:51:44.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Google AI gets cagey when asked who won the 2020 elections",
+        "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+        "pubDate": "2026-10-28T20:10:16.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+        "link": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+        "pubDate": "2026-10-28T17:45:24.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Why is this fingerprinting script creating bioweapons?",
+        "link": "https://nullpt.rs/fingerprinting-bioweapons",
+        "pubDate": "2026-10-28T17:13:29.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "MacBook Pro with PROLED XDR Display and Touch",
+        "link": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+        "pubDate": "2026-10-28T17:10:37.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: SlideBySide – Present slides without sharing your screen",
+        "link": "https://slidebyside.com/",
+        "pubDate": "2026-10-28T17:07:09.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Gemini 4 Carbon",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+        "pubDate": "2026-10-28T17:01:23.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Meta censored the No Kings Instagram account during a nationwide campaign",
+        "link": "https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram",
+        "pubDate": "2026-10-28T16:01:53.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
         "link": "https://surgehq.ai/blog/dayjob-tax",
         "pubDate": "2026-10-28T15:46:30.000Z",
         "feedId": "hn"
       },
       {
-        "title": "26,400 live credentials found scanning 7.25M repos on China's Gitee",
-        "link": "https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets",
-        "pubDate": "2026-10-28T15:31:59.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "r/Seattle mods discover malware injection by archive.today, ban site",
+        "title": "Archive.today links going forward",
         "link": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
         "pubDate": "2026-10-28T15:31:58.000Z",
         "feedId": "hn"
@@ -27,69 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Tesla Semi catches fire on I-880",
-        "link": "https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/",
-        "pubDate": "2026-10-28T14:54:07.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "CNC Stone Carving",
         "link": "https://carmelitegothic.com/cnc-stone-carving/",
         "pubDate": "2026-10-28T14:38:22.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "An architectural comparison of Obsidian Canvas and Heptabase",
-        "link": "https://www.fluxlinks.com/blog/obsidian-canvas-vs-heptabase",
-        "pubDate": "2026-10-28T14:24:20.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-        "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-        "pubDate": "2026-10-28T13:41:30.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Emacs Turns 50",
-        "link": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
-        "pubDate": "2026-10-28T13:25:11.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
-        "link": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
-        "pubDate": "2026-10-28T12:49:45.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
-        "link": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
-        "pubDate": "2026-10-28T11:54:23.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "About the compromised eMudhra intermediate CAs",
-        "link": "https://support.apple.com/en-us/149555",
-        "pubDate": "2026-10-28T11:08:49.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
-        "link": "https://emudhra.we-have-a-problem.com/apple.html",
-        "pubDate": "2026-10-28T11:03:40.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Git for the US Code",
-        "link": "https://lexifina.com/blog/git-for-the-us-code",
-        "pubDate": "2026-10-28T01:47:50.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Early progress on accelerating drug development with Claude",
-        "link": "https://www.anthropic.com/research/early-progress-drug-development",
-        "pubDate": "2026-10-27T20:50:42.000Z",
         "feedId": "hn"
       }
     ]
@@ -116,9 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A fast and secure tar parser for the Rust ecosystem",
-        "link": "https://astral.sh/blog/tar-codec",
-        "pubDate": "2026-10-27T16:59:30.000Z",
+        "title": "GOTO Considered Totally Sick (for error handling in C)",
+        "link": "https://thestateofinahaze.net/blog/c-goto-considered-totally-sick/",
+        "pubDate": "2026-10-28T16:07:18.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Hoot 0.10.0 released",
+        "link": "https://spritely.institute/news/hoot-0-10-0-released.html",
+        "pubDate": "2026-10-28T16:47:10.000Z",
         "feedId": "lobsters"
       },
       {
@@ -128,39 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Four Months of Zig",
-        "link": "https://gracefulliberty.com/articles/four-months-of-zig/",
-        "pubDate": "2026-10-27T18:46:09.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Ghostty 1.4.0",
-        "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
-        "pubDate": "2026-10-27T22:06:07.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Benchmarking Crisis",
-        "link": "http://databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html",
-        "pubDate": "2026-10-28T08:32:09.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Billion-query-per-second lookup tables in C++",
-        "link": "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/",
-        "pubDate": "2026-10-28T09:47:41.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Scalable Vector Grief",
-        "link": "https://portswigger.net/research/scalable-vector-grief",
-        "pubDate": "2026-10-28T07:26:03.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The October inflection point for vibe game development",
-        "link": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
-        "pubDate": "2026-10-28T14:03:03.000Z",
+        "title": "A fast and secure tar parser for the Rust ecosystem",
+        "link": "https://astral.sh/blog/tar-codec",
+        "pubDate": "2026-10-27T16:59:30.000Z",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +146,45 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Ghostty 1.4.0",
+        "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
+        "pubDate": "2026-10-27T22:06:07.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Four Months of Zig",
+        "link": "https://gracefulliberty.com/articles/four-months-of-zig/",
+        "pubDate": "2026-10-27T18:46:09.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Billion-query-per-second lookup tables in C++",
+        "link": "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/",
+        "pubDate": "2026-10-28T09:47:41.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Benchmarking Crisis",
+        "link": "http://databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html",
+        "pubDate": "2026-10-28T08:32:09.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Raspberry Pi Zero 3 W and Pi 4 Model A on the Way?",
+        "link": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+        "pubDate": "2026-10-28T13:39:42.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
         "link": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
         "pubDate": "2026-10-28T13:34:06.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Reminder: Lobsters NYC Meetup Tomorrow 5:30 at Walker's",
-        "link": "https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5",
-        "pubDate": "2026-10-28T01:27:50.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "1,447 emoji? We'll do it live",
-        "link": "https://planetpeanut.studio/post/2026/10/27/pidgin-emoji-twitch",
-        "pubDate": "2026-10-27T18:28:06.000Z",
+        "title": "Pair-coding Lobste.rs feat",
+        "link": "https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat",
+        "pubDate": "2026-10-28T15:53:34.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,66 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
+        "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+        "pubDate": "2026-10-28T19:30:33.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
+        "link": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
+        "pubDate": "2026-10-28T19:20:36.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
+        "link": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
+        "pubDate": "2026-10-28T19:10:29.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+        "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+        "pubDate": "2026-10-28T18:47:27.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Amazon turns its most capable smart speaker into a smart camera, too",
+        "link": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
+        "pubDate": "2026-10-28T18:05:22.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV",
+        "link": "https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels/",
+        "pubDate": "2026-10-28T17:55:45.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google AI gets cagey when asked who won the 2020 elections",
+        "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+        "pubDate": "2026-10-28T17:46:32.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners",
+        "link": "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
+        "pubDate": "2026-10-28T17:37:49.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Apple announces touchscreen MacBook Pro with OLED display",
+        "link": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/",
+        "pubDate": "2026-10-28T17:25:04.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Buckle up for more body-swapping hijinks in Jumanji: Open World trailer",
+        "link": "https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer/",
+        "pubDate": "2026-10-28T15:48:12.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "A hidden ocean change near Antarctica could have global consequences",
         "link": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
@@ -221,72 +281,24 @@
         "link": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
         "pubDate": "2026-10-27T22:04:50.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-        "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-        "pubDate": "2026-10-27T21:50:04.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
-        "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
-        "pubDate": "2026-10-27T21:31:14.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
-        "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-        "pubDate": "2026-10-27T20:25:55.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Google begins certifying Registered App Stores for Android, but not in the US",
-        "link": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
-        "pubDate": "2026-10-27T19:32:07.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
-        "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
-        "pubDate": "2026-10-27T18:49:08.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Warner Bros. drops final trailer for Dune: Part Three",
-        "link": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
-        "pubDate": "2026-10-27T18:05:55.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
-        "link": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
-        "pubDate": "2026-10-27T16:17:58.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
-        "link": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
-        "pubDate": "2026-10-27T16:00:22.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
-        "link": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/",
-        "pubDate": "2026-10-27T15:50:19.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
-        "link": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
-        "pubDate": "2026-10-27T14:20:26.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Iran pressed to make nuke concessions as massive post-midterms strikes loom",
+        "link": "https://www.axios.com/2026/10/28/iran-war-arab-mediators-war-post-midterms",
+        "pubDate": "2026-10-28T18:00:24.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Exclusive: Controversial ad backfiring on Ramaswamy, GOP poll finds",
+        "link": "https://www.axios.com/2026/10/28/gop-poll-ramaswamy-ad-damage",
+        "pubDate": "2026-10-28T17:11:59.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Dolores Huerta, pioneering labor activist, dies at 96",
         "link": "https://www.axios.com/2026/10/28/dolores-huerta-dies-96-united-farm-workers",
@@ -330,7 +342,7 @@
         "feedId": "axios"
       },
       {
-        "title": "Ukraine's Starlink woes spur Europe to look for non-Musk alternatives",
+        "title": "Ukraine's Starlink woes spur Europe to look for Musk alternatives",
         "link": "https://www.axios.com/2026/10/28/starlink-musk-ukraine-war-satcom",
         "pubDate": "2026-10-28T09:10:11.000Z",
         "feedId": "axios"
@@ -363,18 +375,6 @@
         "title": "DOJ fails to indict Cassidy Hutchinson, a key Jan. 6 witness",
         "link": "https://www.axios.com/2026/10/27/cassidy-hutchinson-indictment-jan-6-testimony",
         "pubDate": "2026-10-27T22:31:08.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump escalates anti-Muslim rhetoric before midterms",
-        "link": "https://www.axios.com/2026/10/27/trump-abdul-el-sayed-muslim-faith-midterm-campaign",
-        "pubDate": "2026-10-27T21:06:57.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump praises Canadian separatists amid delicate trade talks",
-        "link": "https://www.axios.com/2026/10/27/trump-applauds-canadian-separatist-trade-talks",
-        "pubDate": "2026-10-27T19:25:12.000Z",
         "feedId": "axios"
       }
     ]
