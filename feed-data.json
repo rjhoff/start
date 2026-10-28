@@ -3,15 +3,81 @@
     "id": "hn",
     "items": [
       {
-        "title": "Spain train crash: 'At least 10 dead' in high-speed collision",
-        "link": "https://www.thetimes.com/world/europe/article/spain-train-crash-madrid-latest-deaths-victims-807kwv23l",
-        "pubDate": "2026-10-28T09:35:21.000Z",
+        "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+        "link": "https://surgehq.ai/blog/dayjob-tax",
+        "pubDate": "2026-10-28T15:46:30.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Wealth Inequality in America drawn to scale",
-        "link": "https://dreamagainusa.org/",
-        "pubDate": "2026-10-28T08:48:21.000Z",
+        "title": "26,400 live credentials found scanning 7.25M repos on China's Gitee",
+        "link": "https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets",
+        "pubDate": "2026-10-28T15:31:59.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "r/Seattle mods discover malware injection by archive.today, ban site",
+        "link": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
+        "pubDate": "2026-10-28T15:31:58.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+        "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+        "pubDate": "2026-10-28T15:17:53.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tesla Semi catches fire on I-880",
+        "link": "https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/",
+        "pubDate": "2026-10-28T14:54:07.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "CNC Stone Carving",
+        "link": "https://carmelitegothic.com/cnc-stone-carving/",
+        "pubDate": "2026-10-28T14:38:22.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "An architectural comparison of Obsidian Canvas and Heptabase",
+        "link": "https://www.fluxlinks.com/blog/obsidian-canvas-vs-heptabase",
+        "pubDate": "2026-10-28T14:24:20.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+        "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+        "pubDate": "2026-10-28T13:41:30.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Emacs Turns 50",
+        "link": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+        "pubDate": "2026-10-28T13:25:11.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
+        "link": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+        "pubDate": "2026-10-28T12:49:45.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+        "link": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
+        "pubDate": "2026-10-28T11:54:23.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "About the compromised eMudhra intermediate CAs",
+        "link": "https://support.apple.com/en-us/149555",
+        "pubDate": "2026-10-28T11:08:49.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+        "link": "https://emudhra.we-have-a-problem.com/apple.html",
+        "pubDate": "2026-10-28T11:03:40.000Z",
         "feedId": "hn"
       },
       {
@@ -21,75 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
-        "link": "https://github.com/maharmstone/moxnox",
-        "pubDate": "2026-10-27T23:53:41.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hunger beats tenure: Advice for junior engineers",
-        "link": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/",
-        "pubDate": "2026-10-27T22:25:23.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Early progress on accelerating drug development with Claude",
         "link": "https://www.anthropic.com/research/early-progress-drug-development",
         "pubDate": "2026-10-27T20:50:42.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-        "link": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-        "pubDate": "2026-10-27T20:48:49.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
-        "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-        "pubDate": "2026-10-27T20:35:09.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Four Months of Zig",
-        "link": "https://gracefulliberty.com/articles/four-months-of-zig/",
-        "pubDate": "2026-10-27T20:13:27.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tailscale SSH: Investigation and remediation update",
-        "link": "https://tailscale.com/ssh-investigation-update",
-        "pubDate": "2026-10-27T19:55:21.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-        "link": "https://www.brangus.io/survival-llm",
-        "pubDate": "2026-10-27T19:55:06.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Radio-tagged Monarch butterflies",
-        "link": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html",
-        "pubDate": "2026-10-27T17:48:15.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ghostty 1.4",
-        "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
-        "pubDate": "2026-10-27T16:51:22.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Classification of Finite Simple Groups Formalized in Lean",
-        "link": "https://cfsg.axiommath.ai/",
-        "pubDate": "2026-10-27T16:29:02.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "New 14‑inch MacBook Pro with M6",
-        "link": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-        "pubDate": "2026-10-27T16:08:32.000Z",
         "feedId": "hn"
       }
     ]
@@ -97,6 +97,18 @@
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "Apple's git still trusts the compromised eMudhra certificates",
+        "link": "https://emudhra.we-have-a-problem.com/apple.html",
+        "pubDate": "2026-10-28T11:03:56.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "AlpineBSD",
+        "link": "https://wiki.alpinebsd.org/",
+        "pubDate": "2026-10-28T10:34:55.000Z",
+        "feedId": "lobsters"
+      },
       {
         "title": "This is not sustainable",
         "link": "https://www.netmeister.org/blog/defense-ddos.html",
@@ -107,6 +119,12 @@
         "title": "A fast and secure tar parser for the Rust ecosystem",
         "link": "https://astral.sh/blog/tar-codec",
         "pubDate": "2026-10-27T16:59:30.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+        "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+        "pubDate": "2026-10-28T09:18:31.000Z",
         "feedId": "lobsters"
       },
       {
@@ -122,39 +140,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Python's experimental JIT to be removed",
-        "link": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-        "pubDate": "2026-10-27T06:20:38.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "1,447 emoji? We'll do it live",
-        "link": "https://planetpeanut.studio/post/2026/10/27/pidgin-emoji-twitch",
-        "pubDate": "2026-10-27T18:28:06.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Shitty Screenshare",
-        "link": "http://shittyscreenshare.com",
-        "pubDate": "2026-10-27T00:12:16.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The Benchmarking Crisis",
         "link": "http://databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html",
         "pubDate": "2026-10-28T08:32:09.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Reminder: Lobsters NYC Meetup Tomorrow 5:30 at Walker's",
-        "link": "https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5",
-        "pubDate": "2026-10-28T01:27:50.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Compile-Time Dependent Types",
-        "link": "https://thenumb.at/Syl-Intro/",
-        "pubDate": "2026-10-27T14:40:12.000Z",
+        "title": "Billion-query-per-second lookup tables in C++",
+        "link": "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/",
+        "pubDate": "2026-10-28T09:47:41.000Z",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +158,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Filian, Fil-C binaries on Debian",
-        "link": "https://cr.yp.to/2025/fil-c.html",
-        "pubDate": "2026-10-27T16:42:17.000Z",
+        "title": "The October inflection point for vibe game development",
+        "link": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+        "pubDate": "2026-10-28T14:03:03.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "A stackless floodfill automation (2023)",
-        "link": "https://t3x.org/files/floodfill.pdf",
-        "pubDate": "2026-10-27T14:56:00.000Z",
+        "title": "Start Doing Graph Theory",
+        "link": "https://vertex.degree/",
+        "pubDate": "2026-10-28T10:12:59.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Who’s 0xabadbabe and why? (2011)",
-        "link": "https://daniel.haxx.se/blog/2011/10/28/whos-0xabadbabe-and-why/",
-        "pubDate": "2026-10-28T07:57:21.000Z",
+        "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+        "link": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+        "pubDate": "2026-10-28T13:34:06.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
-        "link": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
-        "pubDate": "2026-10-27T19:08:23.000Z",
+        "title": "Reminder: Lobsters NYC Meetup Tomorrow 5:30 at Walker's",
+        "link": "https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5",
+        "pubDate": "2026-10-28T01:27:50.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "1,447 emoji? We'll do it live",
+        "link": "https://planetpeanut.studio/post/2026/10/27/pidgin-emoji-twitch",
+        "pubDate": "2026-10-27T18:28:06.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "A hidden ocean change near Antarctica could have global consequences",
+        "link": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
+        "pubDate": "2026-10-28T13:38:53.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
+        "link": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
+        "pubDate": "2026-10-28T11:00:49.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
         "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
@@ -269,24 +281,36 @@
         "link": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
         "pubDate": "2026-10-27T14:20:26.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
-        "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
-        "pubDate": "2026-10-27T14:00:49.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
-        "link": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
-        "pubDate": "2026-10-27T13:32:35.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Dolores Huerta, pioneering labor activist, dies at 96",
+        "link": "https://www.axios.com/2026/10/28/dolores-huerta-dies-96-united-farm-workers",
+        "pubDate": "2026-10-28T16:48:33.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Israel faces weeks of political wrangling after deadlocked election",
+        "link": "https://www.axios.com/2026/10/28/israel-elections-netanyahu-eisenkot-results-deadlock",
+        "pubDate": "2026-10-28T15:28:04.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Cheesecake Factory, tan suits, and the staying power of culture wars",
+        "link": "https://www.axios.com/2026/10/28/obama-cheesecake-factory-joke-trump-response",
+        "pubDate": "2026-10-28T15:15:22.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Private equity's political problem",
+        "link": "https://www.axios.com/2026/10/28/private-equity-democrats-election-elizabeth-warren",
+        "pubDate": "2026-10-28T14:36:53.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Democrats try to win over MAHA voters",
         "link": "https://www.axios.com/2026/10/28/maha-democrats-health-voters-food-pesticides",
@@ -352,36 +376,18 @@
         "link": "https://www.axios.com/2026/10/27/trump-applauds-canadian-separatist-trade-talks",
         "pubDate": "2026-10-27T19:25:12.000Z",
         "feedId": "axios"
-      },
-      {
-        "title": "Israeli turnout hits three-decade high in warning sign for Netanyahu",
-        "link": "https://www.axios.com/2026/10/27/israel-election-turnout-netanyahu",
-        "pubDate": "2026-10-27T19:13:54.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Key Senate Democrats set high bar for permitting bill support",
-        "link": "https://www.axios.com/2026/10/27/senate-democrats-permitting-bill",
-        "pubDate": "2026-10-27T12:45:05.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Socialist civil war engulfs Los Angeles mayor race",
-        "link": "https://www.axios.com/2026/10/27/dsa-socialists-la-mayor-race-israel-raman-bass",
-        "pubDate": "2026-10-27T09:30:10.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Israel braces for an election each side warns could bring ruin",
-        "link": "https://www.axios.com/2026/10/27/israel-election-netanyahu-eisenkot",
-        "pubDate": "2026-10-27T09:20:04.000Z",
-        "feedId": "axios"
       }
     ]
   },
   "longreads": {
     "id": "longreads",
     "items": [
+      {
+        "title": "The Proponents of “Dark Nutrition” Think Everything You Know About Food Is Wrong",
+        "link": "https://longreads.com/2026/10/28/dark-nutrition-raw-meat-milk-carnivore-unpasteurized/",
+        "pubDate": "2026-10-28T11:00:00.000Z",
+        "feedId": "longreads"
+      },
       {
         "title": "How Jim Morrison Surmounted Tragedy and Skied Down Everest",
         "link": "https://longreads.com/2026/10/27/jim-morrison-tragedy-skied-down-everest/",
@@ -464,12 +470,6 @@
         "title": "Ghosts of the Grove",
         "link": "https://longreads.com/2026/10/21/medjool-dates-offrange/",
         "pubDate": "2026-10-21T18:02:36.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "Have You Been to the Sixth-Worst McDonald’s in America?",
-        "link": "https://longreads.com/2026/10/21/sixth-worst-mcdonalds-stafford-virginia/",
-        "pubDate": "2026-10-21T15:47:36.000Z",
         "feedId": "longreads"
       }
     ]
