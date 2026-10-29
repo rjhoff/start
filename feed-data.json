@@ -3,15 +3,45 @@
     "id": "hn",
     "items": [
       {
+        "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+        "link": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+        "pubDate": "2026-10-29T00:30:37.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+        "link": "https://divagr.com/blog/qwenputer",
+        "pubDate": "2026-10-29T00:25:45.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+        "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+        "pubDate": "2026-10-28T23:45:46.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The first wired XR glasses powered by Android XR",
+        "link": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+        "pubDate": "2026-10-28T23:45:19.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "StackOverflow now gets fewer than 1000 questions a month",
+        "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+        "pubDate": "2026-10-28T23:35:02.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Formlabs Studio 1 $699 Resin Printer",
         "link": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
         "pubDate": "2026-10-28T21:19:30.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
-        "link": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-        "pubDate": "2026-10-28T21:03:24.000Z",
+        "title": "A Health Update",
+        "link": "https://furbo.org/2026/10/28/a-health-update/",
+        "pubDate": "2026-10-28T21:13:21.000Z",
         "feedId": "hn"
       },
       {
@@ -27,9 +57,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Google AI gets cagey when asked who won the 2020 elections",
-        "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-        "pubDate": "2026-10-28T20:10:16.000Z",
+        "title": "Leak website releases data on DHS employees",
+        "link": "https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/",
+        "pubDate": "2026-10-28T20:46:52.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Scaling Hierarchical Networks",
+        "link": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
+        "pubDate": "2026-10-28T18:07:41.000Z",
         "feedId": "hn"
       },
       {
@@ -54,42 +90,6 @@
         "title": "Show HN: SlideBySide – Present slides without sharing your screen",
         "link": "https://slidebyside.com/",
         "pubDate": "2026-10-28T17:07:09.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Gemini 4 Carbon",
-        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-        "pubDate": "2026-10-28T17:01:23.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Meta censored the No Kings Instagram account during a nationwide campaign",
-        "link": "https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram",
-        "pubDate": "2026-10-28T16:01:53.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-        "link": "https://surgehq.ai/blog/dayjob-tax",
-        "pubDate": "2026-10-28T15:46:30.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Archive.today links going forward",
-        "link": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
-        "pubDate": "2026-10-28T15:31:58.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
-        "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-        "pubDate": "2026-10-28T15:17:53.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "CNC Stone Carving",
-        "link": "https://carmelitegothic.com/cnc-stone-carving/",
-        "pubDate": "2026-10-28T14:38:22.000Z",
         "feedId": "hn"
       }
     ]
@@ -122,15 +122,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "GitLab security incident: attempted exploitation of CVE-2026-97229 | Alpine Linux",
+        "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+        "pubDate": "2026-10-28T23:01:26.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Hoot 0.10.0 released",
         "link": "https://spritely.institute/news/hoot-0-10-0-released.html",
         "pubDate": "2026-10-28T16:47:10.000Z",
         "feedId": "lobsters"
       },
       {
+        "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
+        "link": "https://nullpt.rs/fingerprinting-bioweapons",
+        "pubDate": "2026-10-28T18:55:15.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
         "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
         "pubDate": "2026-10-28T09:18:31.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "EMACS turns 50",
+        "link": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+        "pubDate": "2026-10-28T23:57:12.000Z",
         "feedId": "lobsters"
       },
       {
@@ -146,6 +164,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Billion-query-per-second lookup tables in C++",
+        "link": "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/",
+        "pubDate": "2026-10-28T09:47:41.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Ghostty 1.4.0",
         "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
         "pubDate": "2026-10-27T22:06:07.000Z",
@@ -158,33 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Billion-query-per-second lookup tables in C++",
-        "link": "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/",
-        "pubDate": "2026-10-28T09:47:41.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Benchmarking Crisis",
-        "link": "http://databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html",
-        "pubDate": "2026-10-28T08:32:09.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Raspberry Pi Zero 3 W and Pi 4 Model A on the Way?",
-        "link": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-        "pubDate": "2026-10-28T13:39:42.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
         "link": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
         "pubDate": "2026-10-28T13:34:06.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Pair-coding Lobste.rs feat",
-        "link": "https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat",
-        "pubDate": "2026-10-28T15:53:34.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,24 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+        "link": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+        "pubDate": "2026-10-28T22:51:15.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
+        "link": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
+        "pubDate": "2026-10-28T22:35:50.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
+        "link": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
+        "pubDate": "2026-10-28T22:17:15.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
         "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
@@ -263,30 +281,24 @@
         "link": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
         "pubDate": "2026-10-28T11:00:49.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
-        "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
-        "pubDate": "2026-10-27T22:37:30.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
-        "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
-        "pubDate": "2026-10-27T22:22:32.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
-        "link": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
-        "pubDate": "2026-10-27T22:04:50.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Attack ads flood Mississippi's shockingly-competitive Senate race",
+        "link": "https://www.axios.com/2026/10/28/mississippi-senate-scott-colom-hyde-smith",
+        "pubDate": "2026-10-28T23:24:33.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "\"Nauseously optimistic\": Anxious House Democrats brace for midterm Election Day",
+        "link": "https://www.axios.com/2026/10/28/2026-election-democrats-house-midterm-results",
+        "pubDate": "2026-10-28T23:23:40.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Iran pressed to make nuke concessions as massive post-midterms strikes loom",
         "link": "https://www.axios.com/2026/10/28/iran-war-arab-mediators-war-post-midterms",
@@ -363,18 +375,6 @@
         "title": "Republicans fear \"red scream\" could depress GOP voter turnout",
         "link": "https://www.axios.com/2026/10/28/republicans-senate-turnout-2026-midterms",
         "pubDate": "2026-10-28T00:18:55.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Senate control could hang in limbo for weeks after Election Day",
-        "link": "https://www.axios.com/2026/10/27/senate-majority-democrats-republicans-schumer-thune",
-        "pubDate": "2026-10-27T23:49:24.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "DOJ fails to indict Cassidy Hutchinson, a key Jan. 6 witness",
-        "link": "https://www.axios.com/2026/10/27/cassidy-hutchinson-indictment-jan-6-testimony",
-        "pubDate": "2026-10-27T22:31:08.000Z",
         "feedId": "axios"
       }
     ]
