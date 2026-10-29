@@ -3,13 +3,79 @@
     "id": "hn",
     "items": [
       {
+        "title": "Hermes and REA and GLM 5.3 = Reverse engineering TikTok app for less than $20",
+        "link": "https://www.scraping.club/p/tiktok-scraping-metadata",
+        "pubDate": "2026-10-29T20:35:18.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+        "link": "https://github.com/SheepSeb/tinyworldformer",
+        "pubDate": "2026-10-29T20:32:28.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Patrick Stewart has died",
+        "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+        "pubDate": "2026-10-29T19:41:39.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The importance of communities around software",
+        "link": "https://lumi.codeberg.page/blog/software-community.html",
+        "pubDate": "2026-10-29T19:27:47.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+        "link": "https://divergencelabs.com/publications/ige-preprint.pdf",
+        "pubDate": "2026-10-29T19:25:48.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
+        "link": "https://github.com/lonthq/overtone-captions",
+        "pubDate": "2026-10-29T17:48:17.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+        "link": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+        "pubDate": "2026-10-29T17:43:48.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "After 28 years walking across the globe, he's almost home",
+        "link": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
+        "pubDate": "2026-10-29T17:42:22.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Claude Duet is the future of chatbot interaction",
+        "link": "https://fig.blue/posts/duet-is-the-future/",
+        "pubDate": "2026-10-29T17:24:25.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic",
+        "link": "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
+        "pubDate": "2026-10-29T16:56:54.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "16colo.rs – ANSI/ASCII art archive",
+        "link": "https://16colo.rs/",
+        "pubDate": "2026-10-29T16:14:28.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
         "link": "https://news.ycombinator.com/item?id=50291116",
         "pubDate": "2026-10-29T15:56:32.000Z",
         "feedId": "hn"
       },
       {
-        "title": "H.264 Is Magic",
+        "title": "H.264 Is Magic (2016)",
         "link": "https://sidbala.com/h-264-is-magic/",
         "pubDate": "2026-10-29T15:53:03.000Z",
         "feedId": "hn"
@@ -21,75 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Mexico is a showroom for electric vehicles you can't buy in the U.S.",
+        "title": "I went to Mexico to test-drive the cars Americans can’t buy",
         "link": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
         "pubDate": "2026-10-29T15:30:22.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Zombie stats: Where the numbers AI quotes come from",
-        "link": "https://trakkr.ai/trakkr-research/zombie-stats",
-        "pubDate": "2026-10-29T15:06:17.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Keplearn: Extract Equations from Data in Seconds",
-        "link": "https://github.com/owls-on-wires/keplearn",
-        "pubDate": "2026-10-29T14:22:53.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "We're releasing the weights of Mistral Large 4",
-        "link": "https://mistral.ai/news/mistral-large-4-oss/",
-        "pubDate": "2026-10-29T14:13:21.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "‘You Are Done’: The letter sent to King by the F.B.I (2014)",
-        "link": "https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html",
-        "pubDate": "2026-10-29T13:40:04.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-        "link": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-        "pubDate": "2026-10-29T12:41:56.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "DoorDash to Acquire Instacart",
-        "link": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
-        "pubDate": "2026-10-29T12:33:05.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hackers expose the identities of more than 40k DHS employees",
-        "link": "https://text.npr.org/nx-s1-6021497",
-        "pubDate": "2026-10-29T12:31:09.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "NetBSD adds a new beginner-friendly text editor called atto",
-        "link": "https://mastodon.sdf.org/@netbsd/117518160563539748",
-        "pubDate": "2026-10-29T11:59:01.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Google determines the names for bodies of water in Google Earth (2008)",
-        "link": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
-        "pubDate": "2026-10-29T11:41:18.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
-        "link": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
-        "pubDate": "2026-10-29T10:44:49.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
-        "link": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
-        "pubDate": "2026-10-29T10:42:41.000Z",
         "feedId": "hn"
       }
     ]
@@ -116,6 +116,24 @@
         "feedId": "lobsters"
       },
       {
+        "title": "My favourite PowerMac is a Nintendo Wii",
+        "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+        "pubDate": "2026-10-29T16:32:18.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5",
+        "link": "https://divagr.com/blog/qwenputer",
+        "pubDate": "2026-10-29T10:00:04.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "EMACS turns 50",
+        "link": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+        "pubDate": "2026-10-28T23:57:12.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Apple's git still trusts the compromised eMudhra certificates",
         "link": "https://emudhra.we-have-a-problem.com/apple.html",
         "pubDate": "2026-10-28T11:03:56.000Z",
@@ -128,21 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "EMACS turns 50",
-        "link": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
-        "pubDate": "2026-10-28T23:57:12.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
         "link": "https://nullpt.rs/fingerprinting-bioweapons",
         "pubDate": "2026-10-28T18:55:15.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5",
-        "link": "https://divagr.com/blog/qwenputer",
-        "pubDate": "2026-10-29T10:00:04.000Z",
         "feedId": "lobsters"
       },
       {
@@ -158,9 +164,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Phorge",
+        "link": "https://www.phorge.it/",
+        "pubDate": "2026-10-29T16:08:47.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The case of the 9 bit AES key",
         "link": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
         "pubDate": "2026-10-29T02:13:24.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Web Can't Afford a JavaScript Runtime Monoculture",
+        "link": "https://redmonk.com/kholterhoff/2026/10/27/js-runtime-monoculture/",
+        "pubDate": "2026-10-29T15:44:47.000Z",
         "feedId": "lobsters"
       },
       {
@@ -168,30 +186,54 @@
         "link": "https://wiki.alpinebsd.org/",
         "pubDate": "2026-10-28T10:34:55.000Z",
         "feedId": "lobsters"
-      },
-      {
-        "title": "GOTO Considered Totally Sick (for error handling in C)",
-        "link": "https://thestateofinahaze.net/blog/c-goto-considered-totally-sick/",
-        "pubDate": "2026-10-28T16:07:18.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "This is not sustainable",
-        "link": "https://www.netmeister.org/blog/defense-ddos.html",
-        "pubDate": "2026-10-28T03:56:49.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Redox Ring Buffers Project Summary",
-        "link": "https://www.redox-os.org/news/nlnet-rb-summary/",
-        "pubDate": "2026-10-29T02:04:00.000Z",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Windows 11 gets right-click menu improvements as PC revenue slides",
+        "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+        "pubDate": "2026-10-29T20:18:49.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
+        "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
+        "pubDate": "2026-10-29T20:08:10.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Trump declares robot imports a national security threat",
+        "link": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+        "pubDate": "2026-10-29T19:07:53.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
+        "link": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+        "pubDate": "2026-10-29T18:29:12.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Turning a solar power system into its own backup",
+        "link": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+        "pubDate": "2026-10-29T18:02:26.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+        "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+        "pubDate": "2026-10-29T17:21:33.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+        "link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+        "pubDate": "2026-10-29T16:24:55.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
         "link": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
@@ -223,12 +265,6 @@
         "feedId": "arstechnica"
       },
       {
-        "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
-        "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-        "pubDate": "2026-10-28T19:30:33.000Z",
-        "feedId": "arstechnica"
-      },
-      {
         "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
         "link": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
         "pubDate": "2026-10-28T19:20:36.000Z",
@@ -245,48 +281,30 @@
         "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
         "pubDate": "2026-10-28T18:47:27.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Amazon turns its most capable smart speaker into a smart camera, too",
-        "link": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
-        "pubDate": "2026-10-28T18:05:22.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV",
-        "link": "https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels/",
-        "pubDate": "2026-10-28T17:55:45.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Google AI gets cagey when asked who won the 2020 elections",
-        "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-        "pubDate": "2026-10-28T17:46:32.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners",
-        "link": "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
-        "pubDate": "2026-10-28T17:37:49.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Apple announces touchscreen MacBook Pro with OLED display",
-        "link": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/",
-        "pubDate": "2026-10-28T17:25:04.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Buckle up for more body-swapping hijinks in Jumanji: Open World trailer",
-        "link": "https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer/",
-        "pubDate": "2026-10-28T15:48:12.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Election Day isn't here, but the ballot battles are",
+        "link": "https://www.axios.com/2026/10/29/midterms-election-lawsuits-ballot-disputes",
+        "pubDate": "2026-10-29T20:47:42.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "The bizarre twist shaking up Alaska's Senate race and catching Trump's ire",
+        "link": "https://www.axios.com/2026/10/29/alaska-senate-race-dan-sullivan-trump",
+        "pubDate": "2026-10-29T20:05:21.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "After losing his majority, Netanyahu tries to delegitimize election results",
+        "link": "https://www.axios.com/2026/10/29/netanyahu-election-likud-delegitimize-results",
+        "pubDate": "2026-10-29T17:46:19.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Exclusive: How the permitting bill could change the  energy landscape",
         "link": "https://www.axios.com/2026/10/29/permitting-bill-energy-landscape",
@@ -358,30 +376,18 @@
         "link": "https://www.axios.com/2026/10/28/israel-elections-netanyahu-eisenkot-results-deadlock",
         "pubDate": "2026-10-28T15:28:04.000Z",
         "feedId": "axios"
-      },
-      {
-        "title": "Cheesecake Factory, tan suits, and the staying power of culture wars",
-        "link": "https://www.axios.com/2026/10/28/obama-cheesecake-factory-joke-trump-response",
-        "pubDate": "2026-10-28T15:15:22.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Private equity's political problem",
-        "link": "https://www.axios.com/2026/10/28/private-equity-democrats-election-elizabeth-warren",
-        "pubDate": "2026-10-28T14:36:53.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Democrats try to win over MAHA voters",
-        "link": "https://www.axios.com/2026/10/28/maha-democrats-health-voters-food-pesticides",
-        "pubDate": "2026-10-28T09:30:12.000Z",
-        "feedId": "axios"
       }
     ]
   },
   "longreads": {
     "id": "longreads",
     "items": [
+      {
+        "title": "A Texas Cop Signed on to Help ICE Deport His Neighbors. It Tore the Town Apart.",
+        "link": "https://longreads.com/2026/10/29/ingram-texas-ice-police-investigation/",
+        "pubDate": "2026-10-29T16:30:39.000Z",
+        "feedId": "longreads"
+      },
       {
         "title": "Traveling Route 66 in the Age of Data Centers",
         "link": "https://longreads.com/2026/10/29/route-66-data-centers/",
@@ -464,12 +470,6 @@
         "title": "Apocalypse Now and Then",
         "link": "https://longreads.com/2026/10/22/arundhati-roy-ai/",
         "pubDate": "2026-10-22T12:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "Charnel Heart",
-        "link": "https://longreads.com/2026/10/22/ossuary-charnel-house-heart-illness-death/",
-        "pubDate": "2026-10-22T10:00:00.000Z",
         "feedId": "longreads"
       }
     ]
