@@ -3,9 +3,33 @@
     "id": "hn",
     "items": [
       {
-        "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-        "link": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
-        "pubDate": "2026-10-29T00:30:37.000Z",
+        "title": "Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027",
+        "link": "https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html",
+        "pubDate": "2026-10-29T07:52:32.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Zero click, silent, remote Android DoS",
+        "link": "https://smsofdeath.com/",
+        "pubDate": "2026-10-29T07:08:50.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+        "link": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+        "pubDate": "2026-10-29T06:47:28.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Zillow to pay $212.5M to settle class action for real estate venture",
+        "link": "https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/",
+        "pubDate": "2026-10-29T03:48:05.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Claude Code regularly sends each background agent’s transcript to its model",
+        "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+        "pubDate": "2026-10-29T03:33:42.000Z",
         "feedId": "hn"
       },
       {
@@ -18,12 +42,6 @@
         "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
         "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
         "pubDate": "2026-10-28T23:45:46.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The first wired XR glasses powered by Android XR",
-        "link": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
-        "pubDate": "2026-10-28T23:45:19.000Z",
         "feedId": "hn"
       },
       {
@@ -51,18 +69,6 @@
         "feedId": "hn"
       },
       {
-        "title": "The case of the 9 bit AES key",
-        "link": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
-        "pubDate": "2026-10-28T20:51:44.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Leak website releases data on DHS employees",
-        "link": "https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/",
-        "pubDate": "2026-10-28T20:46:52.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Scaling Hierarchical Networks",
         "link": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
         "pubDate": "2026-10-28T18:07:41.000Z",
@@ -85,12 +91,6 @@
         "link": "https://www.apple.com/macbook-pro/proled-xdr-display/",
         "pubDate": "2026-10-28T17:10:37.000Z",
         "feedId": "hn"
-      },
-      {
-        "title": "Show HN: SlideBySide – Present slides without sharing your screen",
-        "link": "https://slidebyside.com/",
-        "pubDate": "2026-10-28T17:07:09.000Z",
-        "feedId": "hn"
       }
     ]
   },
@@ -101,6 +101,24 @@
         "title": "Apple's git still trusts the compromised eMudhra certificates",
         "link": "https://emudhra.we-have-a-problem.com/apple.html",
         "pubDate": "2026-10-28T11:03:56.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
+        "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+        "pubDate": "2026-10-28T23:01:26.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "EMACS turns 50",
+        "link": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+        "pubDate": "2026-10-28T23:57:12.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
+        "link": "https://nullpt.rs/fingerprinting-bioweapons",
+        "pubDate": "2026-10-28T18:55:15.000Z",
         "feedId": "lobsters"
       },
       {
@@ -116,15 +134,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "What the fox say?",
+        "link": "https://entropicthoughts.com/what-the-fox-say",
+        "pubDate": "2026-10-29T06:42:40.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "GOTO Considered Totally Sick (for error handling in C)",
         "link": "https://thestateofinahaze.net/blog/c-goto-considered-totally-sick/",
         "pubDate": "2026-10-28T16:07:18.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "GitLab security incident: attempted exploitation of CVE-2026-97229 | Alpine Linux",
-        "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-        "pubDate": "2026-10-28T23:01:26.000Z",
+        "title": "The case of the 9 bit AES key",
+        "link": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+        "pubDate": "2026-10-29T02:13:24.000Z",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
-        "link": "https://nullpt.rs/fingerprinting-bioweapons",
-        "pubDate": "2026-10-28T18:55:15.000Z",
+        "title": "The Future Trait Has A Missing State",
+        "link": "https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state",
+        "pubDate": "2026-10-29T04:24:28.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Redox Ring Buffers Project Summary",
+        "link": "https://www.redox-os.org/news/nlnet-rb-summary/",
+        "pubDate": "2026-10-29T02:04:00.000Z",
         "feedId": "lobsters"
       },
       {
@@ -146,45 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "EMACS turns 50",
-        "link": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
-        "pubDate": "2026-10-28T23:57:12.000Z",
+        "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+        "link": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+        "pubDate": "2026-10-28T13:34:06.000Z",
         "feedId": "lobsters"
       },
       {
         "title": "A fast and secure tar parser for the Rust ecosystem",
         "link": "https://astral.sh/blog/tar-codec",
         "pubDate": "2026-10-27T16:59:30.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Start Doing Graph Theory",
-        "link": "https://vertex.degree/",
-        "pubDate": "2026-10-28T10:12:59.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Billion-query-per-second lookup tables in C++",
-        "link": "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/",
-        "pubDate": "2026-10-28T09:47:41.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Ghostty 1.4.0",
-        "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
-        "pubDate": "2026-10-27T22:06:07.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Four Months of Zig",
-        "link": "https://gracefulliberty.com/articles/four-months-of-zig/",
-        "pubDate": "2026-10-27T18:46:09.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-        "link": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
-        "pubDate": "2026-10-28T13:34:06.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,30 @@
     "id": "axios",
     "items": [
       {
+        "title": "GOP's closing argument gets cheeky",
+        "link": "https://www.axios.com/2026/10/29/republicans-trump-husted-ass",
+        "pubDate": "2026-10-29T09:10:09.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "The left's 2027 wishlist",
+        "link": "https://www.axios.com/2026/10/29/democrats-medicare-for-all-ice-israel",
+        "pubDate": "2026-10-29T09:00:09.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump accuses Democrats of perjury in Dan Sullivan race",
+        "link": "https://www.axios.com/2026/10/28/alaska-senate-dan-sullivan-trump-peltola-spoiler-scheme",
+        "pubDate": "2026-10-29T01:27:21.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Vance tells top Iranian official negotiations must address nuclear program",
+        "link": "https://www.axios.com/2026/10/28/vance-iran-nuclear-talks-letter",
+        "pubDate": "2026-10-28T23:28:43.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "Attack ads flood Mississippi's shockingly-competitive Senate race",
         "link": "https://www.axios.com/2026/10/28/mississippi-senate-scott-colom-hyde-smith",
         "pubDate": "2026-10-28T23:24:33.000Z",
@@ -351,30 +375,6 @@
         "title": "Inside \"Black October\": AI's cyber scare delivers a Y2K lesson",
         "link": "https://www.axios.com/2026/10/28/cybersecurity-black-october-ai-hacks",
         "pubDate": "2026-10-28T09:15:08.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Ukraine's Starlink woes spur Europe to look for Musk alternatives",
-        "link": "https://www.axios.com/2026/10/28/starlink-musk-ukraine-war-satcom",
-        "pubDate": "2026-10-28T09:10:11.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "U.S. granting visas to Flávio Bolsonaro and family",
-        "link": "https://www.axios.com/2026/10/27/us-granting-visas-to-flavio-bolsonaro-and-family",
-        "pubDate": "2026-10-28T02:03:22.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Netanyahu and Eisenkot blocs deadlocked and shy of a majority",
-        "link": "https://www.axios.com/2026/10/27/netanyahu-eisenkot-israel-election-exit-polls",
-        "pubDate": "2026-10-28T01:37:17.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Republicans fear \"red scream\" could depress GOP voter turnout",
-        "link": "https://www.axios.com/2026/10/28/republicans-senate-turnout-2026-midterms",
-        "pubDate": "2026-10-28T00:18:55.000Z",
         "feedId": "axios"
       }
     ]
