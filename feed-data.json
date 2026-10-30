@@ -3,6 +3,24 @@
     "id": "hn",
     "items": [
       {
+        "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
+        "link": "https://www.workatastartup.com/jobs/98722",
+        "pubDate": "2026-10-30T07:00:35.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Pico CSS is no longer maintained",
+        "link": "https://github.com/picocss/pico/discussions/754",
+        "pubDate": "2026-10-30T01:58:44.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Herdr has released native app",
+        "link": "https://github.com/herdrdev/herdr-app",
+        "pubDate": "2026-10-30T00:42:41.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Cormac McCarthy's Library",
         "link": "https://cormacmccarthy.lib.utk.edu/",
         "pubDate": "2026-10-30T00:31:00.000Z",
@@ -27,9 +45,9 @@
         "feedId": "hn"
       },
       {
-        "title": "El Niño Is Flooding California's Coasts with the Highest Tides to Come",
-        "link": "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574",
-        "pubDate": "2026-10-29T21:48:35.000Z",
+        "title": "Should a medical diagnosis reshape the past? (2025)",
+        "link": "https://chengela.substack.com/p/should-a-medical-diagnosis-reshape",
+        "pubDate": "2026-10-29T22:12:29.000Z",
         "feedId": "hn"
       },
       {
@@ -73,24 +91,6 @@
         "link": "https://github.com/johncassil/dontallow",
         "pubDate": "2026-10-29T19:27:44.000Z",
         "feedId": "hn"
-      },
-      {
-        "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
-        "link": "https://divergencelabs.com/publications/ige-preprint.pdf",
-        "pubDate": "2026-10-29T19:25:48.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
-        "link": "https://github.com/lonthq/overtone-captions",
-        "pubDate": "2026-10-29T17:48:17.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
-        "link": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
-        "pubDate": "2026-10-29T17:43:48.000Z",
-        "feedId": "hn"
       }
     ]
   },
@@ -101,6 +101,18 @@
         "title": "London meetup",
         "link": "https://lobste.rs/s/dsrruj/london_meetup",
         "pubDate": "2026-10-29T20:56:43.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Pidgin 3.0 Alpha 4 2.98.0 has been released",
+        "link": "https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445",
+        "pubDate": "2026-10-30T03:58:19.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "If you love a website, back it up",
+        "link": "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+        "pubDate": "2026-10-30T01:29:00.000Z",
         "feedId": "lobsters"
       },
       {
@@ -122,21 +134,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "My favourite PowerMac is a Nintendo Wii",
-        "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-        "pubDate": "2026-10-29T16:32:18.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "C2PA's eMudhra Moment",
         "link": "https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html",
         "pubDate": "2026-10-29T20:33:44.000Z",
         "feedId": "lobsters"
       },
       {
+        "title": "My favourite PowerMac is a Nintendo Wii",
+        "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+        "pubDate": "2026-10-29T16:32:18.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Phorge",
+        "link": "https://www.phorge.it/",
+        "pubDate": "2026-10-29T16:08:47.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5",
         "link": "https://divagr.com/blog/qwenputer",
         "pubDate": "2026-10-29T10:00:04.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Design the interface for functionality not familiarity",
+        "link": "https://lapcatsoftware.com/articles/2026/10/10.html",
+        "pubDate": "2026-10-30T01:04:38.000Z",
         "feedId": "lobsters"
       },
       {
@@ -152,39 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Phorge",
-        "link": "https://www.phorge.it/",
-        "pubDate": "2026-10-29T16:08:47.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
-        "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-        "pubDate": "2026-10-28T23:01:26.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Building NixOS using Nixtamal",
         "link": "https://nixtamal.toast.al/cookbook/nixos-using-nixtamal/",
         "pubDate": "2026-10-29T13:45:55.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
-        "link": "https://nullpt.rs/fingerprinting-bioweapons",
-        "pubDate": "2026-10-28T18:55:15.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "XSS in yarr RSS reader",
-        "link": "https://0x67673068.me/xss-in-yarr/",
-        "pubDate": "2026-10-29T23:55:54.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Extremely brief history of PDP computers",
-        "link": "https://entropicthoughts.com/history-of-pdp-computers",
-        "pubDate": "2026-10-29T14:48:09.000Z",
+        "title": "An open format for writing agent-native software requirements",
+        "link": "https://slcr.dev/announcements#2026-10-29-slcr-launches",
+        "pubDate": "2026-10-29T16:17:42.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -288,9 +288,15 @@
     "id": "axios",
     "items": [
       {
-        "title": "Binance probes possible $5.7 billion crypto hack, possibly the biggest in history",
+        "title": "Binance halts trading after biggest-ever crypto hack",
         "link": "https://www.axios.com/2026/10/29/binance-cyberattack-crypto-heist",
-        "pubDate": "2026-10-30T00:58:46.000Z",
+        "pubDate": "2026-10-30T03:34:21.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Alaska governor casts doubt on certifying election if Peltola wins",
+        "link": "https://www.axios.com/2026/10/29/alaska-senate-election-peltola-governor-certification",
+        "pubDate": "2026-10-30T01:30:46.000Z",
         "feedId": "axios"
       },
       {
@@ -369,12 +375,6 @@
         "title": "Vance tells top Iranian official negotiations must address nuclear program",
         "link": "https://www.axios.com/2026/10/28/vance-iran-nuclear-talks-letter",
         "pubDate": "2026-10-28T23:28:43.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Attack ads flood Mississippi's shockingly-competitive Senate race",
-        "link": "https://www.axios.com/2026/10/28/mississippi-senate-scott-colom-hyde-smith",
-        "pubDate": "2026-10-28T23:24:33.000Z",
         "feedId": "axios"
       }
     ]
