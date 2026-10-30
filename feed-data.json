@@ -3,15 +3,69 @@
     "id": "hn",
     "items": [
       {
-        "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
-        "link": "https://www.workatastartup.com/jobs/98722",
-        "pubDate": "2026-10-30T07:00:35.000Z",
+        "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
+        "link": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
+        "pubDate": "2026-10-30T14:27:44.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Pico CSS is no longer maintained",
-        "link": "https://github.com/picocss/pico/discussions/754",
-        "pubDate": "2026-10-30T01:58:44.000Z",
+        "title": "Anthropic Cracking Down on Video Game Rewrites",
+        "link": "https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968",
+        "pubDate": "2026-10-30T14:22:52.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Neal Stephenson on AI and What Comes Next [video]",
+        "link": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
+        "pubDate": "2026-10-30T14:18:34.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code",
+        "link": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
+        "pubDate": "2026-10-30T14:08:20.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "5-MeO-DMT sometimes cancels the Ebbinghaus illusion",
+        "link": "https://psychotechnology.substack.com/p/5-meo-dmt-sometimes-cancels-the-ebbinghaus",
+        "pubDate": "2026-10-30T13:20:06.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
+        "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+        "pubDate": "2026-10-30T12:50:01.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+        "link": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+        "pubDate": "2026-10-30T12:08:00.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+        "link": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+        "pubDate": "2026-10-30T10:06:15.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "elect.horse",
+        "link": "https://elect.horse/",
+        "pubDate": "2026-10-30T09:14:34.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+        "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+        "pubDate": "2026-10-30T07:09:12.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
+        "link": "https://www.workatastartup.com/jobs/98722",
+        "pubDate": "2026-10-30T07:00:35.000Z",
         "feedId": "hn"
       },
       {
@@ -33,63 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-        "link": "https://journal.animationstudies.org/article/id/66/",
-        "pubDate": "2026-10-29T22:26:38.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Great American Rascal: Tom Sawyer at 150",
-        "link": "https://claremontreviewofbooks.com/the-great-american-rascal/",
-        "pubDate": "2026-10-29T22:14:23.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Should a medical diagnosis reshape the past? (2025)",
-        "link": "https://chengela.substack.com/p/should-a-medical-diagnosis-reshape",
-        "pubDate": "2026-10-29T22:12:29.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "We ran AI agent swarms in Minecraft and Mindustry",
-        "link": "https://labs.ycombinator.com/projects/games/index.html",
-        "pubDate": "2026-10-29T21:40:28.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-        "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-        "pubDate": "2026-10-29T21:38:59.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
-        "link": "https://projects.freehackers.org/sylphide-os/",
-        "pubDate": "2026-10-29T20:59:55.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "ElementaryUI – Swift, in the Browser",
-        "link": "https://elementary.codes",
-        "pubDate": "2026-10-29T20:56:39.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-        "link": "https://github.com/SheepSeb/tinyworldformer",
-        "pubDate": "2026-10-29T20:32:28.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Patrick Stewart has died",
-        "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-        "pubDate": "2026-10-29T19:41:39.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
-        "link": "https://github.com/johncassil/dontallow",
-        "pubDate": "2026-10-29T19:27:44.000Z",
+        "title": "Lighthouses, War and a Puffling",
+        "link": "https://adcochrane.wordpress.com/2026/10/29/lighthouses-war-and-a-puffling-the-isle-of-may/",
+        "pubDate": "2026-10-29T22:11:08.000Z",
         "feedId": "hn"
       }
     ]
@@ -97,6 +97,30 @@
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "Backdoors in Claude Code for VS, Cursor official extensions",
+        "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+        "pubDate": "2026-10-30T11:04:55.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Do At-Proto Users Know This Is Public?",
+        "link": "https://melaniekat.com/blog/public-on-pds/",
+        "pubDate": "2026-10-30T11:22:43.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How curl was accidentally Turing-complete for nine months",
+        "link": "https://seriot.ch/computation/curl.html",
+        "pubDate": "2026-10-30T07:24:01.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "If you love a website, back it up",
+        "link": "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+        "pubDate": "2026-10-30T01:29:00.000Z",
+        "feedId": "lobsters"
+      },
       {
         "title": "London meetup",
         "link": "https://lobste.rs/s/dsrruj/london_meetup",
@@ -110,27 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "If you love a website, back it up",
-        "link": "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
-        "pubDate": "2026-10-30T01:29:00.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "NetBSD adds a new Emacs-like text editor called atto",
-        "link": "https://mastodon.sdf.org/@netbsd/117518160563539748",
-        "pubDate": "2026-10-29T11:58:00.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What the fox say?",
-        "link": "https://entropicthoughts.com/what-the-fox-say",
-        "pubDate": "2026-10-29T06:42:40.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Shared password manager for families?",
-        "link": "https://lobste.rs/s/eccbci/shared_password_manager_for_families",
-        "pubDate": "2026-10-29T14:39:51.000Z",
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend",
+        "pubDate": "2026-10-30T09:55:20.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,21 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "My favourite PowerMac is a Nintendo Wii",
-        "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-        "pubDate": "2026-10-29T16:32:18.000Z",
+        "title": "Shared password manager for families?",
+        "link": "https://lobste.rs/s/eccbci/shared_password_manager_for_families",
+        "pubDate": "2026-10-29T14:39:51.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Phorge",
-        "link": "https://www.phorge.it/",
-        "pubDate": "2026-10-29T16:08:47.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5",
-        "link": "https://divagr.com/blog/qwenputer",
-        "pubDate": "2026-10-29T10:00:04.000Z",
+        "title": "NetBSD adds a new Emacs-like text editor called atto",
+        "link": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+        "pubDate": "2026-10-29T11:58:00.000Z",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "EMACS turns 50",
-        "link": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
-        "pubDate": "2026-10-28T23:57:12.000Z",
+        "title": "Update on AO3 Downtime, October 30, 2026 | Organization for Transformative Works",
+        "link": "https://www.transformativeworks.org/update-on-ao3-downtime-october-30-2026/",
+        "pubDate": "2026-10-30T13:54:17.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Apple's git still trusts the compromised eMudhra certificates",
-        "link": "https://emudhra.we-have-a-problem.com/apple.html",
-        "pubDate": "2026-10-28T11:03:56.000Z",
+        "title": "What the fox say?",
+        "link": "https://entropicthoughts.com/what-the-fox-say",
+        "pubDate": "2026-10-29T06:42:40.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Building NixOS using Nixtamal",
-        "link": "https://nixtamal.toast.al/cookbook/nixos-using-nixtamal/",
-        "pubDate": "2026-10-29T13:45:55.000Z",
+        "title": "Smart audio for the smart home (2021)",
+        "link": "https://computer.rip/2021-11-06-smart-audio-for-the-smart-home.html",
+        "pubDate": "2026-10-30T13:04:57.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "An open format for writing agent-native software requirements",
-        "link": "https://slcr.dev/announcements#2026-10-29-slcr-launches",
-        "pubDate": "2026-10-29T16:17:42.000Z",
+        "title": "My favourite PowerMac is a Nintendo Wii",
+        "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+        "pubDate": "2026-10-29T16:32:18.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,36 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "GM to pay $220 million after selling customer Smart Driver data",
+        "link": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
+        "pubDate": "2026-10-30T13:53:20.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+        "link": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
+        "pubDate": "2026-10-30T13:46:39.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
+        "link": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/",
+        "pubDate": "2026-10-30T12:00:18.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
+        "link": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
+        "pubDate": "2026-10-30T11:30:01.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire",
+        "link": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
+        "pubDate": "2026-10-30T11:00:35.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
         "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
@@ -251,42 +281,54 @@
         "link": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
         "pubDate": "2026-10-29T11:00:08.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
-        "link": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
-        "pubDate": "2026-10-28T22:51:15.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
-        "link": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
-        "pubDate": "2026-10-28T22:35:50.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
-        "link": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
-        "pubDate": "2026-10-28T22:17:15.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
-        "link": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
-        "pubDate": "2026-10-28T19:20:36.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
-        "link": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
-        "pubDate": "2026-10-28T19:10:29.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Pope Leo XIV becomes first pope to vote in U.S. election",
+        "link": "https://www.axios.com/2026/10/30/pope-leo-mail-in-ballot-midterms",
+        "pubDate": "2026-10-30T15:07:20.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Democrats see AI hate as winning issue heading into 2028",
+        "link": "https://www.axios.com/2026/10/30/2028-democrats-ai-hate-regulation-messaging",
+        "pubDate": "2026-10-30T12:32:46.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Why energy will have a starring role if Democrats take Congress",
+        "link": "https://www.axios.com/2026/10/30/energy-democrats-congress-midterms",
+        "pubDate": "2026-10-30T12:23:54.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Corporate America's Trump trap",
+        "link": "https://www.axios.com/2026/10/30/democrat-subpoenas-investigations-corporate-trump",
+        "pubDate": "2026-10-30T09:32:18.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: Trump blesses El Salvador strongman's troop surge in Haiti",
+        "link": "https://www.axios.com/2026/10/30/trump-bukele-haiti-troop-surge",
+        "pubDate": "2026-10-30T09:25:05.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Key Democrat warns permitting bill could create \"gold rush for gas\"",
+        "link": "https://www.axios.com/2026/10/30/key-house-democrat-permitting-bill-gold-rush-gas",
+        "pubDate": "2026-10-30T09:15:05.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "The humans burning out on AI's cyber frontlines",
+        "link": "https://www.axios.com/2026/10/30/cybersecurity-ai-burnout-human-workers",
+        "pubDate": "2026-10-30T08:45:06.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Binance halts trading after biggest-ever crypto hack",
         "link": "https://www.axios.com/2026/10/29/binance-cyberattack-crypto-heist",
@@ -334,54 +376,30 @@
         "link": "https://www.axios.com/2026/10/29/alaska-senate-race-dan-sullivan-trump",
         "pubDate": "2026-10-29T20:05:21.000Z",
         "feedId": "axios"
-      },
-      {
-        "title": "After losing his majority, Netanyahu tries to delegitimize election results",
-        "link": "https://www.axios.com/2026/10/29/netanyahu-election-likud-delegitimize-results",
-        "pubDate": "2026-10-29T17:46:19.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: How the permitting bill could change the  energy landscape",
-        "link": "https://www.axios.com/2026/10/29/permitting-bill-energy-landscape",
-        "pubDate": "2026-10-29T12:38:59.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump accuses Dems of perjury in Dan Sullivan race, governor orders probe",
-        "link": "https://www.axios.com/2026/10/28/alaska-senate-dan-sullivan-trump-peltola-spoiler-scheme",
-        "pubDate": "2026-10-29T12:21:25.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Cape Canaveral in its \"boom cycle\" of launches",
-        "link": "https://www.axios.com/2026/10/29/cape-canaveral-space-race-launch",
-        "pubDate": "2026-10-29T09:45:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "GOP's closing argument gets cheeky",
-        "link": "https://www.axios.com/2026/10/29/republicans-trump-husted-ass",
-        "pubDate": "2026-10-29T09:10:09.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "The left's 2027 wishlist",
-        "link": "https://www.axios.com/2026/10/29/democrats-medicare-for-all-ice-israel",
-        "pubDate": "2026-10-29T09:00:09.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Vance tells top Iranian official negotiations must address nuclear program",
-        "link": "https://www.axios.com/2026/10/28/vance-iran-nuclear-talks-letter",
-        "pubDate": "2026-10-28T23:28:43.000Z",
-        "feedId": "axios"
       }
     ]
   },
   "longreads": {
     "id": "longreads",
     "items": [
+      {
+        "title": "Is There Anything BPC-157 Can’t Cure?",
+        "link": "https://longreads.com/2026/10/30/wellness-bpc-157-pedtides-fda/",
+        "pubDate": "2026-10-30T14:00:00.000Z",
+        "feedId": "longreads"
+      },
+      {
+        "title": "Keeping Up Appearances",
+        "link": "https://longreads.com/2026/10/30/women-mortician-funeral-deathcare/",
+        "pubDate": "2026-10-30T12:00:00.000Z",
+        "feedId": "longreads"
+      },
+      {
+        "title": "The Top 5 Longreads of the Week",
+        "link": "https://longreads.com/2026/10/30/the-top-5-longreads-of-the-week-631/",
+        "pubDate": "2026-10-30T10:00:00.000Z",
+        "feedId": "longreads"
+      },
       {
         "title": "A Texas Cop Signed on to Help ICE Deport His Neighbors. It Tore the Town Apart.",
         "link": "https://longreads.com/2026/10/29/ingram-texas-ice-police-investigation/",
@@ -452,24 +470,6 @@
         "title": "Vocal Accords",
         "link": "https://longreads.com/2026/10/26/eurovision-israel-genocide/",
         "pubDate": "2026-10-26T12:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "The Top 5 Longreads of the Week",
-        "link": "https://longreads.com/2026/10/23/the-top-5-longreads-of-the-week-630/",
-        "pubDate": "2026-10-23T10:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "The Dominican Baseball Factory",
-        "link": "https://longreads.com/2026/10/22/dominican-republic-major-league-baseball-investigation/",
-        "pubDate": "2026-10-22T15:22:41.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "Apocalypse Now and Then",
-        "link": "https://longreads.com/2026/10/22/arundhati-roy-ai/",
-        "pubDate": "2026-10-22T12:00:00.000Z",
         "feedId": "longreads"
       }
     ]
