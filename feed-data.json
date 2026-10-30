@@ -3,9 +3,57 @@
     "id": "hn",
     "items": [
       {
-        "title": "Hermes and REA and GLM 5.3 = Reverse engineering TikTok app for less than $20",
-        "link": "https://www.scraping.club/p/tiktok-scraping-metadata",
-        "pubDate": "2026-10-29T20:35:18.000Z",
+        "title": "Cormac McCarthy's Library",
+        "link": "https://cormacmccarthy.lib.utk.edu/",
+        "pubDate": "2026-10-30T00:31:00.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: I Turned DOOM into a Transformer",
+        "link": "https://github.com/mottopanikeiku/doomformer",
+        "pubDate": "2026-10-29T23:25:46.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+        "link": "https://journal.animationstudies.org/article/id/66/",
+        "pubDate": "2026-10-29T22:26:38.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Great American Rascal: Tom Sawyer at 150",
+        "link": "https://claremontreviewofbooks.com/the-great-american-rascal/",
+        "pubDate": "2026-10-29T22:14:23.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "El Niño Is Flooding California's Coasts with the Highest Tides to Come",
+        "link": "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574",
+        "pubDate": "2026-10-29T21:48:35.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "We ran AI agent swarms in Minecraft and Mindustry",
+        "link": "https://labs.ycombinator.com/projects/games/index.html",
+        "pubDate": "2026-10-29T21:40:28.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+        "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+        "pubDate": "2026-10-29T21:38:59.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
+        "link": "https://projects.freehackers.org/sylphide-os/",
+        "pubDate": "2026-10-29T20:59:55.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "ElementaryUI – Swift, in the Browser",
+        "link": "https://elementary.codes",
+        "pubDate": "2026-10-29T20:56:39.000Z",
         "feedId": "hn"
       },
       {
@@ -21,9 +69,9 @@
         "feedId": "hn"
       },
       {
-        "title": "The importance of communities around software",
-        "link": "https://lumi.codeberg.page/blog/software-community.html",
-        "pubDate": "2026-10-29T19:27:47.000Z",
+        "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+        "link": "https://github.com/johncassil/dontallow",
+        "pubDate": "2026-10-29T19:27:44.000Z",
         "feedId": "hn"
       },
       {
@@ -43,54 +91,6 @@
         "link": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
         "pubDate": "2026-10-29T17:43:48.000Z",
         "feedId": "hn"
-      },
-      {
-        "title": "After 28 years walking across the globe, he's almost home",
-        "link": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
-        "pubDate": "2026-10-29T17:42:22.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Claude Duet is the future of chatbot interaction",
-        "link": "https://fig.blue/posts/duet-is-the-future/",
-        "pubDate": "2026-10-29T17:24:25.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic",
-        "link": "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
-        "pubDate": "2026-10-29T16:56:54.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "16colo.rs – ANSI/ASCII art archive",
-        "link": "https://16colo.rs/",
-        "pubDate": "2026-10-29T16:14:28.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-        "link": "https://news.ycombinator.com/item?id=50291116",
-        "pubDate": "2026-10-29T15:56:32.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "H.264 Is Magic (2016)",
-        "link": "https://sidbala.com/h-264-is-magic/",
-        "pubDate": "2026-10-29T15:53:03.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
-        "link": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
-        "pubDate": "2026-10-29T15:45:05.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "I went to Mexico to test-drive the cars Americans can’t buy",
-        "link": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
-        "pubDate": "2026-10-29T15:30:22.000Z",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,21 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "What the fox say?",
-        "link": "https://entropicthoughts.com/what-the-fox-say",
-        "pubDate": "2026-10-29T06:42:40.000Z",
+        "title": "London meetup",
+        "link": "https://lobste.rs/s/dsrruj/london_meetup",
+        "pubDate": "2026-10-29T20:56:43.000Z",
         "feedId": "lobsters"
       },
       {
         "title": "NetBSD adds a new Emacs-like text editor called atto",
         "link": "https://mastodon.sdf.org/@netbsd/117518160563539748",
         "pubDate": "2026-10-29T11:58:00.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What the fox say?",
+        "link": "https://entropicthoughts.com/what-the-fox-say",
+        "pubDate": "2026-10-29T06:42:40.000Z",
         "feedId": "lobsters"
       },
       {
@@ -119,6 +125,12 @@
         "title": "My favourite PowerMac is a Nintendo Wii",
         "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
         "pubDate": "2026-10-29T16:32:18.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "C2PA's eMudhra Moment",
+        "link": "https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html",
+        "pubDate": "2026-10-29T20:33:44.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +152,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
-        "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-        "pubDate": "2026-10-28T23:01:26.000Z",
+        "title": "Phorge",
+        "link": "https://www.phorge.it/",
+        "pubDate": "2026-10-29T16:08:47.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
-        "link": "https://nullpt.rs/fingerprinting-bioweapons",
-        "pubDate": "2026-10-28T18:55:15.000Z",
+        "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
+        "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+        "pubDate": "2026-10-28T23:01:26.000Z",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Future Trait Has A Missing State",
-        "link": "https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state",
-        "pubDate": "2026-10-29T04:24:28.000Z",
+        "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
+        "link": "https://nullpt.rs/fingerprinting-bioweapons",
+        "pubDate": "2026-10-28T18:55:15.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Phorge",
-        "link": "https://www.phorge.it/",
-        "pubDate": "2026-10-29T16:08:47.000Z",
+        "title": "XSS in yarr RSS reader",
+        "link": "https://0x67673068.me/xss-in-yarr/",
+        "pubDate": "2026-10-29T23:55:54.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "The case of the 9 bit AES key",
-        "link": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
-        "pubDate": "2026-10-29T02:13:24.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Web Can't Afford a JavaScript Runtime Monoculture",
-        "link": "https://redmonk.com/kholterhoff/2026/10/27/js-runtime-monoculture/",
-        "pubDate": "2026-10-29T15:44:47.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "AlpineBSD",
-        "link": "https://wiki.alpinebsd.org/",
-        "pubDate": "2026-10-28T10:34:55.000Z",
+        "title": "Extremely brief history of PDP computers",
+        "link": "https://entropicthoughts.com/history-of-pdp-computers",
+        "pubDate": "2026-10-29T14:48:09.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -193,7 +193,13 @@
     "id": "arstechnica",
     "items": [
       {
-        "title": "Windows 11 gets right-click menu improvements as PC revenue slides",
+        "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
+        "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
+        "pubDate": "2026-10-29T21:47:57.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
         "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
         "pubDate": "2026-10-29T20:18:49.000Z",
         "feedId": "arstechnica"
@@ -275,12 +281,6 @@
         "link": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
         "pubDate": "2026-10-28T19:10:29.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-        "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
-        "pubDate": "2026-10-28T18:47:27.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,9 +288,39 @@
     "id": "axios",
     "items": [
       {
+        "title": "Binance probes possible $5.7 billion crypto hack, possibly the biggest in history",
+        "link": "https://www.axios.com/2026/10/29/binance-cyberattack-crypto-heist",
+        "pubDate": "2026-10-30T00:58:46.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: Dems privately name Texas as most-flippable red state",
+        "link": "https://www.axios.com/2026/10/29/democrats-texas-senate-talarico-paxton",
+        "pubDate": "2026-10-29T23:42:58.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Top U.S. Middle East commander briefs Trump on Iran blockade",
+        "link": "https://www.axios.com/2026/10/29/brad-cooper-briefs-trump-iran-naval-blockade",
+        "pubDate": "2026-10-29T22:47:52.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "Election Day isn't here, but the ballot battles are",
         "link": "https://www.axios.com/2026/10/29/midterms-election-lawsuits-ballot-disputes",
-        "pubDate": "2026-10-29T20:47:42.000Z",
+        "pubDate": "2026-10-29T22:29:59.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Exclusive: Fired general admitted to leaking classified Iran and Ukraine info, report says",
+        "link": "https://www.axios.com/2026/10/29/fired-general-leaks-iran-ukraine",
+        "pubDate": "2026-10-29T22:08:46.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Reddit moves to logged-in experience as AI eats search",
+        "link": "https://www.axios.com/2026/10/29/reddit-logged-in-ai-search-incognito",
+        "pubDate": "2026-10-29T20:07:04.000Z",
         "feedId": "axios"
       },
       {
@@ -345,36 +375,6 @@
         "title": "Attack ads flood Mississippi's shockingly-competitive Senate race",
         "link": "https://www.axios.com/2026/10/28/mississippi-senate-scott-colom-hyde-smith",
         "pubDate": "2026-10-28T23:24:33.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"Nauseously optimistic\": Anxious House Democrats brace for midterm Election Day",
-        "link": "https://www.axios.com/2026/10/28/2026-election-democrats-house-midterm-results",
-        "pubDate": "2026-10-28T23:23:40.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Iran pressed to make nuke concessions as massive post-midterms strikes loom",
-        "link": "https://www.axios.com/2026/10/28/iran-war-arab-mediators-war-post-midterms",
-        "pubDate": "2026-10-28T18:00:24.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: Controversial ad backfiring on Ramaswamy, GOP poll finds",
-        "link": "https://www.axios.com/2026/10/28/gop-poll-ramaswamy-ad-damage",
-        "pubDate": "2026-10-28T17:11:59.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Dolores Huerta, pioneering labor activist, dies at 96",
-        "link": "https://www.axios.com/2026/10/28/dolores-huerta-dies-96-united-farm-workers",
-        "pubDate": "2026-10-28T16:48:33.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Israel faces weeks of political wrangling after deadlocked election",
-        "link": "https://www.axios.com/2026/10/28/israel-elections-netanyahu-eisenkot-results-deadlock",
-        "pubDate": "2026-10-28T15:28:04.000Z",
         "feedId": "axios"
       }
     ]
