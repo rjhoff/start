@@ -3,45 +3,33 @@
     "id": "hn",
     "items": [
       {
+        "title": "OpenAI raises less than half of $30B target",
+        "link": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+        "pubDate": "2026-10-31T03:22:44.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tell HN: Scribd Breached",
+        "link": "https://news.ycombinator.com/item?id=50312756",
+        "pubDate": "2026-10-31T02:46:36.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Flock camera searches fell 95% after a dispatcher's misconduct was caught",
+        "link": "https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e",
+        "pubDate": "2026-10-31T02:42:02.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
         "link": "https://tng.episodle.com/",
         "pubDate": "2026-10-30T23:51:24.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Fair Use Benefits Everyone",
-        "link": "https://openai.com/index/fair-use-benefits-everyone/",
-        "pubDate": "2026-10-30T23:33:55.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
-        "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-        "pubDate": "2026-10-30T23:08:12.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "France is getting download tax for content providers (€0.055/GB)",
-        "link": "https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/",
-        "pubDate": "2026-10-30T22:10:12.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Linode Security Incident",
-        "link": "https://status.linode.com/incidents/nt58zhx3pmgm",
-        "pubDate": "2026-10-30T21:57:40.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
         "link": "https://www.firezone.dev/blog/introducing-sanstun",
         "pubDate": "2026-10-30T21:30:00.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "AO3 Down for Maintenance",
-        "link": "https://www.otwstatus.org",
-        "pubDate": "2026-10-30T21:17:23.000Z",
         "feedId": "hn"
       },
       {
@@ -69,18 +57,6 @@
         "feedId": "hn"
       },
       {
-        "title": "A Pickpocket's Guide to New York",
-        "link": "https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york",
-        "pubDate": "2026-10-30T19:26:39.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Bunny CDN Security Incident",
-        "link": "https://status.bunny.net/incidents/p6gf1by9kr7m",
-        "pubDate": "2026-10-30T19:05:22.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "My favourite PowerMac is a Nintendo Wii",
         "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
         "pubDate": "2026-10-30T17:25:15.000Z",
@@ -90,6 +66,30 @@
         "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
         "link": "https://github.com/dbreunig/nesformer",
         "pubDate": "2026-10-30T16:40:22.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI isn't replacing SREs, it's deskilling them",
+        "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+        "pubDate": "2026-10-30T15:52:18.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Florilegium: Procedural Flowers in LaTeX",
+        "link": "https://github.com/kevinraymond/florilegium",
+        "pubDate": "2026-10-30T15:48:12.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The federated code forge",
+        "link": "https://tangled.org/blog/forge/",
+        "pubDate": "2026-10-30T15:44:29.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Northflank Breached",
+        "link": "https://status.northflank.com",
+        "pubDate": "2026-10-30T15:10:31.000Z",
         "feedId": "hn"
       }
     ]
@@ -122,9 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How curl was accidentally Turing-complete for nine months",
-        "link": "https://seriot.ch/computation/curl.html",
-        "pubDate": "2026-10-30T07:24:01.000Z",
+        "title": "How hard is it to check for whitespace?",
+        "link": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
+        "pubDate": "2026-10-30T22:25:49.000Z",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How hard is it to check for whitespace?",
-        "link": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
-        "pubDate": "2026-10-30T22:25:49.000Z",
+        "title": "The support case of a customer who said that all they could see was a black screen",
+        "link": "https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/",
+        "pubDate": "2026-10-31T01:01:21.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How curl was accidentally Turing-complete for nine months",
+        "link": "https://seriot.ch/computation/curl.html",
+        "pubDate": "2026-10-30T07:24:01.000Z",
         "feedId": "lobsters"
       },
       {
@@ -146,15 +152,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Shrinking NixOS Ram footprint and resource requirements to the bare minimum",
+        "link": "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum",
+        "pubDate": "2026-10-30T15:04:44.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "What are you doing this weekend?",
         "link": "https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend",
         "pubDate": "2026-10-30T09:55:20.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Shrinking NixOS Ram footprint and resource requirements to the bare minimum",
-        "link": "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum",
-        "pubDate": "2026-10-30T15:04:44.000Z",
+        "title": "Switch lowering in GCC",
+        "link": "https://xoranth.net/gcc-switch/",
+        "pubDate": "2026-10-30T20:00:34.000Z",
         "feedId": "lobsters"
       },
       {
@@ -170,21 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Getting Google Cast on my Soundbar",
-        "link": "https://codon.org.uk/~mjg59/blog/p/getting-google-cast-on-my-soundbar/",
-        "pubDate": "2026-10-30T19:14:44.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Pidgin 3.0 Alpha 4 2.98.0 has been released",
-        "link": "https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445",
-        "pubDate": "2026-10-30T03:58:19.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Switch lowering in GCC",
-        "link": "https://xoranth.net/gcc-switch/",
-        "pubDate": "2026-10-30T20:00:34.000Z",
+        "title": "Tactical-Retreat: a freely available, multi-platform QuakeC-based Counter-Strike v1.5 port",
+        "link": "https://www.frag-net.com/project_tacticalretreat.html",
+        "pubDate": "2026-10-31T02:32:10.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -193,7 +193,7 @@
     "id": "arstechnica",
     "items": [
       {
-        "title": "Think you can save the Hubble Space Telescope? NASA wants to know.",
+        "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
         "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
         "pubDate": "2026-10-31T00:07:22.000Z",
         "feedId": "arstechnica"
@@ -288,15 +288,33 @@
     "id": "axios",
     "items": [
       {
+        "title": "Judge blocks DOJ from threatening election workers before midterms",
+        "link": "https://www.axios.com/2026/10/31/doj-threats-election-workers-midterms",
+        "pubDate": "2026-10-31T02:10:27.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Qataris hold marathon talks in Tehran in bid for U.S.-Iran deal before midterms",
+        "link": "https://www.axios.com/2026/10/31/qatari-mediators-iran-war-deal-before-midterms",
+        "pubDate": "2026-10-31T01:03:05.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Just four days before Election Day, DOJ probes Arizona voter registrations",
+        "link": "https://www.axios.com/local/phoenix/2026/10/31/doj-arizona-voter-registration-probe-election",
+        "pubDate": "2026-10-31T00:49:17.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump DOJ loses last-minute California ballot bid",
         "link": "https://www.axios.com/2026/10/30/doj-california-noncitizen-voter-list-court",
         "pubDate": "2026-10-30T21:07:40.000Z",
         "feedId": "axios"
       },
       {
-        "title": "Judge to probe whether Trump officials lied in golf course case",
-        "link": "https://www.axios.com/2026/10/30/judge-investigation-doj-interior-trump-golf-course",
-        "pubDate": "2026-10-30T21:01:56.000Z",
+        "title": "The viral anti-MAGA guy on Fox News is from Charlotte — and he has merch now",
+        "link": "https://www.axios.com/local/charlotte/2026/10/30/jonestown-fox-news-viral-clip-madpark-designs",
+        "pubDate": "2026-10-30T20:15:39.000Z",
         "feedId": "axios"
       },
       {
@@ -357,24 +375,6 @@
         "title": "The humans burning out on AI's cyber frontlines",
         "link": "https://www.axios.com/2026/10/30/cybersecurity-ai-burnout-human-workers",
         "pubDate": "2026-10-30T08:45:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Binance halts trading after biggest-ever crypto hack",
-        "link": "https://www.axios.com/2026/10/29/binance-cyberattack-crypto-heist",
-        "pubDate": "2026-10-30T03:34:21.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Alaska governor casts doubt on certifying election if Peltola wins",
-        "link": "https://www.axios.com/2026/10/29/alaska-senate-election-peltola-governor-certification",
-        "pubDate": "2026-10-30T01:30:46.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Dems privately name Texas as most-flippable red state",
-        "link": "https://www.axios.com/2026/10/29/democrats-texas-senate-talarico-paxton",
-        "pubDate": "2026-10-29T23:42:58.000Z",
         "feedId": "axios"
       }
     ]
