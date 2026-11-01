@@ -1,8 +1,98 @@
 {
   "hn": {
     "id": "hn",
-    "error": "The operation was aborted due to timeout",
-    "items": []
+    "items": [
+      {
+        "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+        "link": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+        "pubDate": "2026-11-01T14:36:13.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+        "link": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+        "pubDate": "2026-11-01T14:34:43.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Novellas with Groff",
+        "link": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+        "pubDate": "2026-11-01T13:51:41.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+        "pubDate": "2026-11-01T13:47:24.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+        "link": "https://arxiv.org/abs/2610.39302",
+        "pubDate": "2026-11-01T13:24:49.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The \"Moon Trees\"",
+        "link": "https://nssdc.gsfc.nasa.gov/planetary/lunar/moon_tree.html",
+        "pubDate": "2026-11-01T13:20:23.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+        "link": "https://github.com/ivankovic/omnidiff",
+        "pubDate": "2026-11-01T13:02:30.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Restrooms along the Norwegian Scenic Routes",
+        "link": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+        "pubDate": "2026-11-01T10:47:58.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Domain hacks with unusual Unicode characters (2018)",
+        "link": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
+        "pubDate": "2026-11-01T10:44:20.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The AI cost of JavaScript frameworks",
+        "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+        "pubDate": "2026-11-01T06:06:19.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+        "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+        "pubDate": "2026-11-01T02:19:53.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+        "link": "https://arxiv.org/abs/2409.02292",
+        "pubDate": "2026-11-01T01:46:29.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Altoids Project",
+        "link": "https://uvdn7.github.io/altoids-project/",
+        "pubDate": "2026-10-31T22:54:55.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+        "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+        "pubDate": "2026-10-31T22:46:12.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+        "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+        "pubDate": "2026-10-31T22:41:06.000Z",
+        "feedId": "hn"
+      }
+    ]
   },
   "lobsters": {
     "id": "lobsters",
@@ -11,6 +101,18 @@
         "title": "Jepsen: ParticleDB 1.1.4",
         "link": "https://jepsen.io/analyses/particledb-1.1.4",
         "pubDate": "2026-10-31T13:39:52.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Introducing Kwi, a new KDE terminal emulator",
+        "link": "https://blogs.kde.org/2026/11/01/introducing-kwi/",
+        "pubDate": "2026-11-01T02:56:29.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+        "link": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+        "pubDate": "2026-10-31T19:50:11.000Z",
         "feedId": "lobsters"
       },
       {
@@ -26,15 +128,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
-        "link": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
-        "pubDate": "2026-10-31T19:50:11.000Z",
+        "title": "XKCD and Fourier",
+        "link": "https://leancrew.com/all-this/2026/10/xkcd-and-fourier/",
+        "pubDate": "2026-11-01T10:50:56.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Introducing Kwi, a new KDE terminal emulator",
-        "link": "https://blogs.kde.org/2026/11/01/introducing-kwi/",
-        "pubDate": "2026-11-01T02:56:29.000Z",
+        "title": "Novellas with groff",
+        "link": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+        "pubDate": "2026-10-31T20:31:13.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "groff/troff macros: ms, mm, me or mom",
+        "link": "https://www.stephenlindholm.com/groff_macros.html",
+        "pubDate": "2026-11-01T14:09:09.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "An outsider's perspective on Scion and Mononoke",
+        "link": "https://typesanitizer.com/blog/scion.html",
+        "pubDate": "2026-11-01T15:22:36.000Z",
         "feedId": "lobsters"
       },
       {
@@ -44,9 +158,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Novellas with groff",
-        "link": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
-        "pubDate": "2026-10-31T20:31:13.000Z",
+        "title": "Beating the compiler at signed 32-bit division",
+        "link": "https://lemire.me/blog/2026/10/31/beating-the-compiler-at-signed-32-bit-division/",
+        "pubDate": "2026-11-01T12:26:07.000Z",
         "feedId": "lobsters"
       },
       {
@@ -62,39 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How hard is it to check for whitespace?",
-        "link": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
-        "pubDate": "2026-10-30T22:25:49.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Backdoors in Claude Code for VS, Cursor official extensions",
-        "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
-        "pubDate": "2026-10-30T11:04:55.000Z",
+        "title": "No AI, 52 min. Build all Linux Files utils in C by Hand",
+        "link": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+        "pubDate": "2026-11-01T11:06:14.000Z",
         "feedId": "lobsters"
       },
       {
         "title": "Tangled, hire a front-end accessibility expert",
         "link": "https://dbushell.com/2026/11/01/tangled-accessibility/",
         "pubDate": "2026-10-31T16:29:45.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Digital minimalism",
-        "link": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
-        "pubDate": "2026-10-31T11:10:19.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Let’s Build a Brain",
-        "link": "https://aatishb.com/myriad/lets-build-a-brain/",
-        "pubDate": "2026-10-31T15:09:27.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Clojure/Conj 2026",
-        "link": "http://www.youtube.com/playlist?list=PLAkHRk3lgU_Q",
-        "pubDate": "2026-10-31T06:25:34.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -198,6 +288,36 @@
     "id": "axios",
     "items": [
       {
+        "title": "Behind the Curtain: OpenAI's post-election power play",
+        "link": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
+        "pubDate": "2026-11-01T13:43:06.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Why Florida Republicans are \"white-knuckled\" about Tuesday",
+        "link": "https://www.axios.com/2026/11/01/florida-republicans-anxiety-election",
+        "pubDate": "2026-11-01T12:45:04.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump's election probes find an opening in Georgia",
+        "link": "https://www.axios.com/2026/11/01/trump-georgia-elections-justice-department-raffensper",
+        "pubDate": "2026-11-01T12:30:09.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Dems and GOP quietly bankroll dozens of third-party spoilers",
+        "link": "https://www.axios.com/2026/11/01/2026-midterms-spoiler-independent-third-party",
+        "pubDate": "2026-11-01T12:15:06.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Fight over race questions intensifies ahead of 2030 Census deadline",
+        "link": "https://www.axios.com/2026/11/01/2030-census-assign-question-race",
+        "pubDate": "2026-11-01T11:00:10.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "Judge tosses Trump lawsuit against WSJ, Murdoch over Epstein story",
         "link": "https://www.axios.com/2026/10/31/trump-epstein-wsj-murdoch",
         "pubDate": "2026-10-31T20:22:31.000Z",
@@ -255,36 +375,6 @@
         "title": "Just four days before Election Day, DOJ probes Arizona voter registrations",
         "link": "https://www.axios.com/local/phoenix/2026/10/31/doj-arizona-voter-registration-probe-election",
         "pubDate": "2026-10-31T00:49:17.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump DOJ loses last-minute California ballot bid",
-        "link": "https://www.axios.com/2026/10/30/doj-california-noncitizen-voter-list-court",
-        "pubDate": "2026-10-30T21:07:40.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "The viral anti-MAGA guy on Fox News is from Charlotte — and he has merch now",
-        "link": "https://www.axios.com/local/charlotte/2026/10/30/jonestown-fox-news-viral-clip-madpark-designs",
-        "pubDate": "2026-10-30T20:15:39.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Pope Leo XIV becomes first pope to vote in U.S. election",
-        "link": "https://www.axios.com/2026/10/30/pope-leo-mail-in-ballot-midterms",
-        "pubDate": "2026-10-30T18:57:17.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "U.S. blockade, sanctions crippling Iran's economy, Treasury report says",
-        "link": "https://www.axios.com/2026/10/30/iran-war-bessent-treasury-report-sanctions",
-        "pubDate": "2026-10-30T18:51:37.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Texas grand jury indicts ICE agent accused of using SUV as weapon",
-        "link": "https://www.axios.com/2026/10/30/ice-agent-indicted-mario-morales-houston",
-        "pubDate": "2026-10-30T18:32:06.000Z",
         "feedId": "axios"
       }
     ]
