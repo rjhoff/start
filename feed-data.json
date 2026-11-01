@@ -3,6 +3,60 @@
     "id": "hn",
     "items": [
       {
+        "title": "Ask HN: Which TV do you recommend for privacy?",
+        "link": "https://news.ycombinator.com/item?id=50328896",
+        "pubDate": "2026-11-01T19:35:27.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "It wasn't AI that flipped Proton's charge",
+        "link": "https://blog.raed.dev/posts/proton-loser-thinking/",
+        "pubDate": "2026-11-01T18:53:55.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare",
+        "link": "https://nurse.org/news/uber-for-nursing-gig-apps-report/",
+        "pubDate": "2026-11-01T18:53:46.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
+        "pubDate": "2026-11-01T18:51:29.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Mathematics has changed. Let's act like it",
+        "link": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+        "pubDate": "2026-11-01T18:28:42.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Patrick Stewart taught us what good men do with power",
+        "link": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+        "pubDate": "2026-11-01T17:28:16.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Frontier Airlines Likely Breached",
+        "link": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+        "pubDate": "2026-11-01T16:46:33.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+        "link": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+        "pubDate": "2026-11-01T16:23:26.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+        "link": "https://hackerbooks.org",
+        "pubDate": "2026-11-01T15:58:28.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
         "link": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
         "pubDate": "2026-11-01T14:36:13.000Z",
@@ -21,21 +75,9 @@
         "feedId": "hn"
       },
       {
-        "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-        "pubDate": "2026-11-01T13:47:24.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+        "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
         "link": "https://arxiv.org/abs/2610.39302",
         "pubDate": "2026-11-01T13:24:49.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The \"Moon Trees\"",
-        "link": "https://nssdc.gsfc.nasa.gov/planetary/lunar/moon_tree.html",
-        "pubDate": "2026-11-01T13:20:23.000Z",
         "feedId": "hn"
       },
       {
@@ -45,51 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Restrooms along the Norwegian Scenic Routes",
-        "link": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
-        "pubDate": "2026-11-01T10:47:58.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Domain hacks with unusual Unicode characters (2018)",
-        "link": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
-        "pubDate": "2026-11-01T10:44:20.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "The AI cost of JavaScript frameworks",
         "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
         "pubDate": "2026-11-01T06:06:19.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-        "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-        "pubDate": "2026-11-01T02:19:53.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-        "link": "https://arxiv.org/abs/2409.02292",
-        "pubDate": "2026-11-01T01:46:29.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Altoids Project",
-        "link": "https://uvdn7.github.io/altoids-project/",
-        "pubDate": "2026-10-31T22:54:55.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-        "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-        "pubDate": "2026-10-31T22:46:12.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-        "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-        "pubDate": "2026-10-31T22:41:06.000Z",
         "feedId": "hn"
       }
     ]
@@ -98,51 +98,9 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Jepsen: ParticleDB 1.1.4",
-        "link": "https://jepsen.io/analyses/particledb-1.1.4",
-        "pubDate": "2026-10-31T13:39:52.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Introducing Kwi, a new KDE terminal emulator",
         "link": "https://blogs.kde.org/2026/11/01/introducing-kwi/",
         "pubDate": "2026-11-01T02:56:29.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
-        "link": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
-        "pubDate": "2026-10-31T19:50:11.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Kluever Maneuver",
-        "link": "https://jordi.inversethought.com/blog/the-kluever-maneuver/",
-        "pubDate": "2026-10-31T15:05:04.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Avoid Public Functions Calling Other Public Functions",
-        "link": "https://matklad.github.io/2026/10/29/pub-calls-pub.html",
-        "pubDate": "2026-10-31T18:05:03.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "XKCD and Fourier",
-        "link": "https://leancrew.com/all-this/2026/10/xkcd-and-fourier/",
-        "pubDate": "2026-11-01T10:50:56.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Novellas with groff",
-        "link": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
-        "pubDate": "2026-10-31T20:31:13.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "groff/troff macros: ms, mm, me or mom",
-        "link": "https://www.stephenlindholm.com/groff_macros.html",
-        "pubDate": "2026-11-01T14:09:09.000Z",
         "feedId": "lobsters"
       },
       {
@@ -152,39 +110,81 @@
         "feedId": "lobsters"
       },
       {
-        "title": "An LC-3 Disassembler in Haskell",
-        "link": "https://abhinavsarkar.net/posts/lc3-disassembler/",
-        "pubDate": "2026-10-31T16:08:42.000Z",
+        "title": "Pratt parsing is a black box",
+        "link": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
+        "pubDate": "2026-11-01T17:41:53.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Beating the compiler at signed 32-bit division",
-        "link": "https://lemire.me/blog/2026/10/31/beating-the-compiler-at-signed-32-bit-division/",
-        "pubDate": "2026-11-01T12:26:07.000Z",
+        "title": "Jepsen: ParticleDB 1.1.4",
+        "link": "https://jepsen.io/analyses/particledb-1.1.4",
+        "pubDate": "2026-10-31T13:39:52.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "The support case of a customer who said that all they could see was a black screen",
-        "link": "https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/",
-        "pubDate": "2026-10-31T01:01:21.000Z",
+        "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+        "link": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+        "pubDate": "2026-10-31T19:50:11.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Enlightenment 0.28.0 Release",
-        "link": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
-        "pubDate": "2026-10-31T18:02:18.000Z",
+        "title": "XKCD and Fourier",
+        "link": "https://leancrew.com/all-this/2026/10/xkcd-and-fourier/",
+        "pubDate": "2026-11-01T10:50:56.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "No AI, 52 min. Build all Linux Files utils in C by Hand",
-        "link": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
-        "pubDate": "2026-11-01T11:06:14.000Z",
+        "title": "Avoid Public Functions Calling Other Public Functions",
+        "link": "https://matklad.github.io/2026/10/29/pub-calls-pub.html",
+        "pubDate": "2026-10-31T18:05:03.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Tangled, hire a front-end accessibility expert",
-        "link": "https://dbushell.com/2026/11/01/tangled-accessibility/",
-        "pubDate": "2026-10-31T16:29:45.000Z",
+        "title": "The Kluever Maneuver",
+        "link": "https://jordi.inversethought.com/blog/the-kluever-maneuver/",
+        "pubDate": "2026-10-31T15:05:04.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "London Meetup - Nov 2026",
+        "link": "https://lobste.rs/s/cqzwwg/london_meetup_nov_2026",
+        "pubDate": "2026-11-01T18:47:10.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "groff/troff macros: ms, mm, me or mom",
+        "link": "https://www.stephenlindholm.com/groff_macros.html",
+        "pubDate": "2026-11-01T14:09:09.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Zig: From Beginner to Slightly Less Beginner",
+        "link": "https://www.youtube.com/watch?v=jWCQXBVIyrY",
+        "pubDate": "2026-11-01T17:19:19.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Novellas with groff",
+        "link": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+        "pubDate": "2026-10-31T20:31:13.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Introduction to Programming in ATS",
+        "link": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+        "pubDate": "2026-11-01T17:59:00.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A Specialised Haskell Processor on FPGA",
+        "link": "https://bathtub-01.github.io/technical/ouros-demo/",
+        "pubDate": "2026-11-01T16:13:20.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Spooky C++",
+        "link": "https://www.nablag.com/spooky_cpp",
+        "pubDate": "2026-11-01T18:17:14.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,30 @@
     "id": "axios",
     "items": [
       {
+        "title": "Haley Stevens endorses Mike Rogers amid Michigan Democratic feud",
+        "link": "https://www.axios.com/2026/11/01/haley-stevens-mike-rogers-church-michigan-senate",
+        "pubDate": "2026-11-01T20:06:19.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "\"Petty, selfish, unhinged\": Haley Stevens' staff and colleagues erupt at her \"betrayal\"",
+        "link": "https://www.axios.com/2026/11/01/haley-stevens-democrats-reaction-rogers-el-sayed",
+        "pubDate": "2026-11-01T19:39:09.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Sen. Chris Murphy hospitalized after suffering stroke",
+        "link": "https://www.axios.com/2026/11/01/chris-murphy-stroke-hospitalized",
+        "pubDate": "2026-11-01T19:00:17.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump has frank call with Netanyahu about next move in Iran war",
+        "link": "https://www.axios.com/2026/11/01/trump-netanyahu-iran-negotiations-war",
+        "pubDate": "2026-11-01T18:00:05.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "Behind the Curtain: OpenAI's post-election power play",
         "link": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
         "pubDate": "2026-11-01T13:43:06.000Z",
@@ -351,30 +375,6 @@
         "title": "New Census data reveal a homeowner-renter divide in America's electric-car transition",
         "link": "https://www.axios.com/2026/10/31/ev-driveway-divide-renters-homeowners",
         "pubDate": "2026-10-31T11:00:09.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "The AI trade's trick-or-treat earnings season",
-        "link": "https://www.axios.com/2026/10/31/tech-earnings-ai-hyperscaler-risks-trick-or-treat",
-        "pubDate": "2026-10-31T10:45:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Judge blocks DOJ from threatening election workers before midterms",
-        "link": "https://www.axios.com/2026/10/31/doj-threats-election-workers-midterms",
-        "pubDate": "2026-10-31T02:10:27.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Qataris hold marathon talks in Tehran in bid for U.S.-Iran deal before midterms",
-        "link": "https://www.axios.com/2026/10/31/qatari-mediators-iran-war-deal-before-midterms",
-        "pubDate": "2026-10-31T01:03:05.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Just four days before Election Day, DOJ probes Arizona voter registrations",
-        "link": "https://www.axios.com/local/phoenix/2026/10/31/doj-arizona-voter-registration-probe-election",
-        "pubDate": "2026-10-31T00:49:17.000Z",
         "feedId": "axios"
       }
     ]
