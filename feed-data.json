@@ -3,15 +3,39 @@
     "id": "hn",
     "items": [
       {
-        "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
-        "link": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
-        "pubDate": "2026-10-31T21:07:58.000Z",
+        "title": "Constructing a Quine from Kleene's Second Recursion Theorem",
+        "link": "https://emarzion.github.io/KSRT/",
+        "pubDate": "2026-10-31T23:55:21.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Distributed Proofreaders",
-        "link": "https://www.pgdp.net/c/",
-        "pubDate": "2026-10-31T20:56:12.000Z",
+        "title": "When electric cars were for women",
+        "link": "https://spectrum.ieee.org/early-electric-vehicles",
+        "pubDate": "2026-10-31T23:08:12.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Altoids Project",
+        "link": "https://uvdn7.github.io/altoids-project/",
+        "pubDate": "2026-10-31T22:54:55.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+        "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+        "pubDate": "2026-10-31T22:46:12.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+        "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+        "pubDate": "2026-10-31T22:41:06.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI text watermarking and quality loss",
+        "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+        "pubDate": "2026-10-31T21:50:13.000Z",
         "feedId": "hn"
       },
       {
@@ -57,13 +81,7 @@
         "feedId": "hn"
       },
       {
-        "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-        "link": "https://ryanmadden.net/gpt-56-beats-factorio/",
-        "pubDate": "2026-10-31T18:50:34.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "It's the Memory Latency, Stupid",
+        "title": "It's the memory latency, stupid",
         "link": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
         "pubDate": "2026-10-31T18:38:16.000Z",
         "feedId": "hn"
@@ -72,24 +90,6 @@
         "title": "William Nordhaus has died",
         "link": "https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale",
         "pubDate": "2026-10-31T17:59:41.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: A USB-C LTE modem that gives my computer a phone line",
-        "link": "https://github.com/Koppar-AI/koppar-lte-modem",
-        "pubDate": "2026-10-31T15:56:41.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Malware uses LLMs to rank victims by how much they're worth",
-        "link": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-        "pubDate": "2026-10-31T14:29:03.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Jepsen: ParticleDB 1.1.4",
-        "link": "https://jepsen.io/analyses/particledb-1.1.4",
-        "pubDate": "2026-10-31T13:39:52.000Z",
         "feedId": "hn"
       }
     ]
@@ -146,9 +146,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Enlightenment 0.28.0 Release",
+        "link": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
+        "pubDate": "2026-10-31T18:02:18.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Novellas with groff",
+        "link": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+        "pubDate": "2026-10-31T20:31:13.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Digital minimalism",
         "link": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
         "pubDate": "2026-10-31T11:10:19.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Tangled, hire a front-end accessibility expert",
+        "link": "https://dbushell.com/2026/11/01/tangled-accessibility/",
+        "pubDate": "2026-10-31T16:29:45.000Z",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Enlightenment 0.28.0 Release",
-        "link": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
-        "pubDate": "2026-10-31T18:02:18.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Clojure/Conj 2026",
         "link": "http://www.youtube.com/playlist?list=PLAkHRk3lgU_Q",
         "pubDate": "2026-10-31T06:25:34.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Do At-Proto Users Know This Is Public?",
-        "link": "https://melaniekat.com/blog/public-on-pds/",
-        "pubDate": "2026-10-30T11:22:43.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The federated code forge",
-        "link": "https://tangled.org/blog/forge/",
-        "pubDate": "2026-10-30T17:57:54.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Tangled, hire a front-end accessibility expert",
-        "link": "https://dbushell.com/2026/11/01/tangled-accessibility/",
-        "pubDate": "2026-10-31T16:29:45.000Z",
+        "title": "Let’s Build a Brain",
+        "link": "https://aatishb.com/myriad/lets-build-a-brain/",
+        "pubDate": "2026-10-31T15:09:27.000Z",
         "feedId": "lobsters"
       }
     ]
