@@ -3,93 +3,93 @@
     "id": "hn",
     "items": [
       {
-        "title": "Show HN: ReBirth 338 in Browser",
-        "link": "https://margeux.com/rb338.html",
-        "pubDate": "2026-11-03T06:24:50.000Z",
+        "title": "Tiny Basic for Arduino",
+        "link": "https://dilshan.github.io/tiny-basic/",
+        "pubDate": "2026-11-03T15:17:07.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Cloudflare experiencing multiple active incidents",
-        "link": "https://www.cloudflarestatus.com/",
-        "pubDate": "2026-11-03T04:57:27.000Z",
+        "title": "Only 0.5% of 383,000 CVEs are ever exploited in real-world attacks",
+        "link": "https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/",
+        "pubDate": "2026-11-03T15:17:02.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: I built a little browser game to practice Vim commands",
-        "link": "https://hjkl.duy.run",
-        "pubDate": "2026-11-03T03:10:04.000Z",
+        "title": "Octomind – open-source AI harness that saves your tokens, static rust",
+        "link": "https://github.com/Muvon/octomind",
+        "pubDate": "2026-11-03T15:02:58.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
-        "link": "https://arxiv.org/abs/2608.25820",
-        "pubDate": "2026-11-03T02:58:44.000Z",
+        "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+        "link": "https://news.ycombinator.com/item?id=50352757",
+        "pubDate": "2026-11-03T14:53:41.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The AI Bubble Monitor",
+        "link": "https://cepr.net/publications/ai-bubble-monitor/",
+        "pubDate": "2026-11-03T14:51:31.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Practice speaking Japanese with real YouTube videos, graded line by line",
+        "link": "https://jivx.com/yt",
+        "pubDate": "2026-11-03T14:41:02.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Just a little AI resistance, as a treat",
+        "link": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+        "pubDate": "2026-11-03T14:14:12.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Microsoft's Canada timezone troubles leave admins fixing calendars",
+        "link": "https://www.theregister.com/software/2026/11/02/microsofts-canada-timezone-troubles-leave-admins-fixing-calendars-pretending-theyre-in-bogota/5306934",
+        "pubDate": "2026-11-03T13:37:27.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Bema: Work messaging built for humans",
+        "link": "https://getbema.app/",
+        "pubDate": "2026-11-03T12:51:11.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Charles Tandy, the mastermind behind Radio Shack",
+        "link": "https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/",
+        "pubDate": "2026-11-03T12:42:30.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+        "link": "https://honnibal.dev/blog/astra-read-write-misleading",
+        "pubDate": "2026-11-03T12:21:17.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Sava Trust (YC F25) Is Hiring a Founding Engineer in NYC",
+        "link": "https://www.ycombinator.com/companies/sava-trust-company/jobs",
+        "pubDate": "2026-11-03T12:01:01.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+        "link": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+        "pubDate": "2026-11-03T07:56:21.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nvidia – open-source auto-ontology",
+        "link": "https://github.com/NVIDIA/auto-ontology",
+        "pubDate": "2026-11-03T07:04:50.000Z",
         "feedId": "hn"
       },
       {
         "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
         "link": "https://hackertimes.ca/",
         "pubDate": "2026-11-03T01:53:34.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
-        "link": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-        "pubDate": "2026-11-03T01:33:43.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
-        "link": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
-        "pubDate": "2026-11-03T00:08:53.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Scaling Git at OpenAI",
-        "link": "https://openai.com/index/scaling-git-at-openai/",
-        "pubDate": "2026-11-02T23:47:56.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-        "link": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-        "pubDate": "2026-11-02T22:30:47.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "V100 SXM2 pinout and NVLink reference",
-        "link": "https://github.com/pigeon-labs-stack/v100-sxm2-reference",
-        "pubDate": "2026-11-02T22:30:13.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
-        "link": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
-        "pubDate": "2026-11-02T21:42:25.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Egoless Mathematics in the AI Era",
-        "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-        "pubDate": "2026-11-02T18:54:44.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-        "link": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-        "pubDate": "2026-11-02T18:39:38.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Astra can read and write weights to improve Qwen",
-        "link": "https://rikiyat.github.io/blog/weight-space-programming/",
-        "pubDate": "2026-11-02T18:21:28.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
-        "link": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
-        "pubDate": "2026-11-02T18:12:48.000Z",
         "feedId": "hn"
       }
     ]
@@ -98,33 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Jailbreaking my car's navigation system just so I can change the time",
-        "link": "https://blog.nns.ee/2026/11/02/renault-hack/",
-        "pubDate": "2026-11-02T16:30:58.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "A Decade of Kill Bugs",
         "link": "https://alangrow.com/blog/a-decade-of-kill-bugs",
         "pubDate": "2026-11-02T21:23:24.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Stop Hardcoding Your Timeouts",
-        "link": "https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html",
-        "pubDate": "2026-11-02T19:22:32.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "This background sound leaks your exact location",
-        "link": "https://youtu.be/UytYrhYLOKI",
-        "pubDate": "2026-11-02T19:42:32.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "My favourite laptop",
-        "link": "https://blog.jsbarretto.com/post/laptop",
-        "pubDate": "2026-11-02T19:48:40.000Z",
+        "title": "Jailbreaking my car's navigation system just so I can change the time",
+        "link": "https://blog.nns.ee/2026/11/02/renault-hack/",
+        "pubDate": "2026-11-02T16:30:58.000Z",
         "feedId": "lobsters"
       },
       {
@@ -134,27 +116,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "An outsider's perspective on Scion and Mononoke",
-        "link": "https://typesanitizer.com/blog/scion.html",
-        "pubDate": "2026-11-01T15:22:36.000Z",
+        "title": "This background sound leaks your exact location",
+        "link": "https://youtu.be/UytYrhYLOKI",
+        "pubDate": "2026-11-02T19:42:32.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Polyend releases the Tracker firmware source code",
-        "link": "https://backstage.polyend.com/t/tracker-the-biggest-update-yet/25120",
-        "pubDate": "2026-11-02T15:22:16.000Z",
+        "title": "Stop Hardcoding Your Timeouts",
+        "link": "https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html",
+        "pubDate": "2026-11-02T19:22:32.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/maqsgl/what_are_you_doing_this_week",
-        "pubDate": "2026-11-02T13:53:32.000Z",
+        "title": "Death comes for XSLT",
+        "link": "https://dbushell.com/2026/11/03/xslt-rip/",
+        "pubDate": "2026-11-03T15:19:50.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "My reflex of assuming our servers need ever-growing amounts of RAM",
-        "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ServerRAMGrowthReflex",
-        "pubDate": "2026-11-02T10:33:02.000Z",
+        "title": "My favourite laptop",
+        "link": "https://blog.jsbarretto.com/post/laptop",
+        "pubDate": "2026-11-02T19:48:40.000Z",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +146,45 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Postgres 19 is late, and it's AI's fault",
-        "link": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-        "pubDate": "2026-11-02T02:19:02.000Z",
+        "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
+        "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
+        "pubDate": "2026-11-03T15:23:21.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "An Introduction to Bε-trees and Write-Optimization",
-        "link": "https://www.usenix.org/publications/login/oct15/bender",
-        "pubDate": "2026-11-02T20:26:38.000Z",
+        "title": "Why we're moving our warehouse off DuckDB",
+        "link": "https://posthog.com/blog/moving-off-duckdb",
+        "pubDate": "2026-11-03T07:33:25.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "the lost malloc()",
-        "link": "https://napcakes.nekoweb.org/posts/malloc/",
-        "pubDate": "2026-11-02T08:46:48.000Z",
+        "title": "Polyend releases the Tracker firmware source code",
+        "link": "https://backstage.polyend.com/t/tracker-the-biggest-update-yet/25120",
+        "pubDate": "2026-11-02T15:22:16.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Program",
-        "link": "https://schmud.de/posts/2026-11-02-program.html",
-        "pubDate": "2026-11-02T11:18:07.000Z",
+        "title": "Ideas for social networks",
+        "link": "https://raphaelkabo.com/blog/social-network-ideas",
+        "pubDate": "2026-11-03T14:24:08.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "git-loom 1.0",
+        "link": "https://narnaud.github.io/git-loom/introduction.html",
+        "pubDate": "2026-11-03T11:54:42.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "An outsider's perspective on Scion and Mononoke",
+        "link": "https://typesanitizer.com/blog/scion.html",
+        "pubDate": "2026-11-01T15:22:36.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Firefox Security & Privacy Newsletter 2026 Q3",
+        "link": "https://attackanddefense.dev/2026/11/02/firefox-security-and-privacy-newsletter-q3.html",
+        "pubDate": "2026-11-03T08:03:58.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
+        "link": "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/",
+        "pubDate": "2026-11-03T14:00:07.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
         "link": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
@@ -275,18 +281,72 @@
         "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
         "pubDate": "2026-10-31T00:07:22.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Flesh-eating screwworms spread to third state and are attacking pets",
-        "link": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
-        "pubDate": "2026-10-30T22:36:41.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Voting machine chaos hits key House battleground",
+        "link": "https://www.axios.com/2026/11/03/ny-voting-ballot-polls-ballot-issue",
+        "pubDate": "2026-11-03T15:20:03.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "What we're watching on election night for energy",
+        "link": "https://www.axios.com/2026/11/03/election-night-midterms-energy",
+        "pubDate": "2026-11-03T13:38:23.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "DOJ sending 1,000 election monitors to all 50 states",
+        "link": "https://www.axios.com/2026/11/03/election-day-polls-doj-observers",
+        "pubDate": "2026-11-03T13:29:32.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "What's on the line for health care in the midterms",
+        "link": "https://www.axios.com/2026/11/03/midterm-elections-health-care-issues",
+        "pubDate": "2026-11-03T10:30:06.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump vanishes from GOP campaign ads",
+        "link": "https://www.axios.com/2026/11/03/republican-campaign-ads-trump-midterms",
+        "pubDate": "2026-11-03T10:20:06.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Fired general accused of being source for Wall Street Journal, NYT",
+        "link": "https://www.axios.com/2026/11/03/fired-general-leak-probe-wsj-nyt",
+        "pubDate": "2026-11-03T10:10:06.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Charted: Why early midterm results can be misleading",
+        "link": "https://www.axios.com/2026/11/03/2026-midterm-election-results-red-mirage-senate-races",
+        "pubDate": "2026-11-03T10:03:05.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Three questions that will define AI's political power",
+        "link": "https://www.axios.com/2026/11/03/ai-election-politics-2026-midterms",
+        "pubDate": "2026-11-03T10:00:07.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Elon Musk's next target: a major shake-up of America's wireless market",
+        "link": "https://www.axios.com/2026/11/03/elon-musk-spacex-boost-mobile-wireless-market",
+        "pubDate": "2026-11-03T10:00:06.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Democrats could learn wrong message from a blowout victory",
+        "link": "https://www.axios.com/2026/11/03/democrats-midterms-image-negative-2028",
+        "pubDate": "2026-11-03T10:00:06.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "GOP's midterm blame game starts early",
         "link": "https://www.axios.com/2026/11/03/republicans-midterms-loss-blame-trump",
@@ -316,72 +376,18 @@
         "link": "https://www.axios.com/2026/11/02/judge-blocks-trump-doj-california-ballot-demands",
         "pubDate": "2026-11-02T22:45:11.000Z",
         "feedId": "axios"
-      },
-      {
-        "title": "Trump to Axios: \"No rush\" to decide on bombing Iran again",
-        "link": "https://www.axios.com/2026/11/02/trump-axios-interview-no-rush-resume-war",
-        "pubDate": "2026-11-02T21:01:34.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump pre-election pitch: Reflecting Pool, pipes and a new promenade",
-        "link": "https://www.axios.com/2026/11/02/trump-dc-projects-reflecting-pool-speech",
-        "pubDate": "2026-11-02T20:48:47.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Senate GOP makes massive bet on streaming",
-        "link": "https://www.axios.com/2026/11/02/senate-republicans-super-pac-slf-streaming-social",
-        "pubDate": "2026-11-02T20:18:04.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "The internet's latest obsession: The end of the world",
-        "link": "https://www.axios.com/2026/11/02/doomsday-apocalypse-iran-war-ai-financial-insecurity",
-        "pubDate": "2026-11-02T18:27:57.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump administration turns to SCOTUS in California ballot case",
-        "link": "https://www.axios.com/2026/11/02/trump-supreme-court-california-ballots-case",
-        "pubDate": "2026-11-02T18:11:30.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Europe's fridges are getting hacked. Could America be next?",
-        "link": "https://www.axios.com/2026/11/02/europe-supermarket-fridges-attacks-food",
-        "pubDate": "2026-11-02T17:48:20.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump vows to protect Musk, floats pre-emptive staff pardons",
-        "link": "https://www.axios.com/2026/11/02/trump-musk-democrats",
-        "pubDate": "2026-11-02T12:38:14.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Pharma's next cash cows could be specialized treatments",
-        "link": "https://www.axios.com/2026/11/02/pharma-profits-specialized-treatments-blockbuster-drugs",
-        "pubDate": "2026-11-02T10:30:04.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"Arrogance\": 3 GOP Senate candidates blasted over costly red-state rescues",
-        "link": "https://www.axios.com/2026/11/02/republicans-senate-red-states-finger-pointing",
-        "pubDate": "2026-11-02T10:20:07.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "America's changing power grid faces a powerful El Niño",
-        "link": "https://www.axios.com/2026/11/02/el-nino-us-power-grid-winter-2026",
-        "pubDate": "2026-11-02T10:15:06.000Z",
-        "feedId": "axios"
       }
     ]
   },
   "longreads": {
     "id": "longreads",
     "items": [
+      {
+        "title": "Have I Befriended a Murderer?",
+        "link": "https://longreads.com/2026/11/03/murder-friendship-doubt/",
+        "pubDate": "2026-11-03T10:00:00.000Z",
+        "feedId": "longreads"
+      },
       {
         "title": "Searching for Jobs, Gen Z Feels Like It’s Staring Into ‘the Void’",
         "link": "https://longreads.com/2026/11/02/gen-z-jobs/",
@@ -464,12 +470,6 @@
         "title": "“I Play the Field; I Read Around.”",
         "link": "https://longreads.com/2026/10/27/maggie-shipstead-passages-reading/",
         "pubDate": "2026-10-27T10:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "You Finally Got a Wikipedia Page. Then It Vanished.",
-        "link": "https://longreads.com/2026/10/26/wikipedia-deletion/",
-        "pubDate": "2026-10-26T18:32:44.000Z",
         "feedId": "longreads"
       }
     ]
