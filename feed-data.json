@@ -3,93 +3,93 @@
     "id": "hn",
     "items": [
       {
+        "title": "I dumped Apple’s word list",
+        "link": "https://helgesver.re/articles/macos-vulgar-word-flags",
+        "pubDate": "2026-11-03T20:33:23.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Pratt parsing is a black box",
+        "link": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
+        "pubDate": "2026-11-03T20:07:41.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+        "link": "https://flipper.net/pages/flipper-one",
+        "pubDate": "2026-11-03T19:32:13.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "macOS 27 does not support CoreStorage volumes",
+        "link": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+        "pubDate": "2026-11-03T19:27:53.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Introduction to Programming in ATS",
+        "link": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+        "pubDate": "2026-11-03T19:25:18.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "How to write comparison content that doesn't age like milk",
+        "link": "https://posthog.com/blog/comparison-content-guide",
+        "pubDate": "2026-11-03T17:46:58.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+        "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+        "pubDate": "2026-11-03T17:40:00.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+        "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+        "pubDate": "2026-11-03T17:22:37.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ashby (YC W19) Is Hiring EMs",
+        "link": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn",
+        "pubDate": "2026-11-03T17:00:53.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Stringman, an $800 open-source room scale gripper robot",
+        "link": "https://neufangled.com/",
+        "pubDate": "2026-11-03T16:47:29.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Gitbook Breached",
+        "link": "https://news.ycombinator.com/item?id=50354336",
+        "pubDate": "2026-11-03T16:45:49.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
+        "link": "https://arxiv.org/abs/2611.02618",
+        "pubDate": "2026-11-03T16:40:02.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+        "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+        "pubDate": "2026-11-03T15:29:15.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Google will turn off search for schools that reject AI",
+        "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+        "pubDate": "2026-11-03T15:25:47.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Tiny Basic for Arduino",
         "link": "https://dilshan.github.io/tiny-basic/",
         "pubDate": "2026-11-03T15:17:07.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Only 0.5% of 383,000 CVEs are ever exploited in real-world attacks",
-        "link": "https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/",
-        "pubDate": "2026-11-03T15:17:02.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Octomind – open-source AI harness that saves your tokens, static rust",
-        "link": "https://github.com/Muvon/octomind",
-        "pubDate": "2026-11-03T15:02:58.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-        "link": "https://news.ycombinator.com/item?id=50352757",
-        "pubDate": "2026-11-03T14:53:41.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The AI Bubble Monitor",
-        "link": "https://cepr.net/publications/ai-bubble-monitor/",
-        "pubDate": "2026-11-03T14:51:31.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Practice speaking Japanese with real YouTube videos, graded line by line",
-        "link": "https://jivx.com/yt",
-        "pubDate": "2026-11-03T14:41:02.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Just a little AI resistance, as a treat",
-        "link": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
-        "pubDate": "2026-11-03T14:14:12.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Microsoft's Canada timezone troubles leave admins fixing calendars",
-        "link": "https://www.theregister.com/software/2026/11/02/microsofts-canada-timezone-troubles-leave-admins-fixing-calendars-pretending-theyre-in-bogota/5306934",
-        "pubDate": "2026-11-03T13:37:27.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Bema: Work messaging built for humans",
-        "link": "https://getbema.app/",
-        "pubDate": "2026-11-03T12:51:11.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Charles Tandy, the mastermind behind Radio Shack",
-        "link": "https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/",
-        "pubDate": "2026-11-03T12:42:30.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-        "link": "https://honnibal.dev/blog/astra-read-write-misleading",
-        "pubDate": "2026-11-03T12:21:17.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Sava Trust (YC F25) Is Hiring a Founding Engineer in NYC",
-        "link": "https://www.ycombinator.com/companies/sava-trust-company/jobs",
-        "pubDate": "2026-11-03T12:01:01.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
-        "link": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
-        "pubDate": "2026-11-03T07:56:21.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nvidia – open-source auto-ontology",
-        "link": "https://github.com/NVIDIA/auto-ontology",
-        "pubDate": "2026-11-03T07:04:50.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-        "link": "https://hackertimes.ca/",
-        "pubDate": "2026-11-03T01:53:34.000Z",
         "feedId": "hn"
       }
     ]
@@ -98,9 +98,27 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "Death comes for XSLT",
+        "link": "https://dbushell.com/2026/11/03/xslt-rip/",
+        "pubDate": "2026-11-03T15:19:50.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
+        "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
+        "pubDate": "2026-11-03T15:23:21.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "A Decade of Kill Bugs",
         "link": "https://alangrow.com/blog/a-decade-of-kill-bugs",
         "pubDate": "2026-11-02T21:23:24.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+        "link": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+        "pubDate": "2026-11-03T15:44:27.000Z",
         "feedId": "lobsters"
       },
       {
@@ -128,9 +146,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Death comes for XSLT",
-        "link": "https://dbushell.com/2026/11/03/xslt-rip/",
-        "pubDate": "2026-11-03T15:19:50.000Z",
+        "title": "Your terminal manipulation/navigation setups",
+        "link": "https://lobste.rs/s/r3gton/your_terminal_manipulation_navigation",
+        "pubDate": "2026-11-03T18:54:55.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "kitty 0.50.0",
+        "link": "https://sw.kovidgoyal.net/kitty/changelog/#id1",
+        "pubDate": "2026-11-03T17:43:09.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,51 +164,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Would you believe it's jank?",
+        "link": "https://www.youtube.com/watch?v=tHgApFhevrQ",
+        "pubDate": "2026-11-03T20:03:16.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
         "link": "https://rikiyat.github.io/blog/weight-space-programming/",
         "pubDate": "2026-11-02T19:24:33.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
-        "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
-        "pubDate": "2026-11-03T15:23:21.000Z",
+        "title": "Planning with open variable lists in Gecode",
+        "link": "https://zayenz.se/blog/post/open-cp-in-gecode/",
+        "pubDate": "2026-11-03T16:33:43.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Why we're moving our warehouse off DuckDB",
-        "link": "https://posthog.com/blog/moving-off-duckdb",
-        "pubDate": "2026-11-03T07:33:25.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Polyend releases the Tracker firmware source code",
-        "link": "https://backstage.polyend.com/t/tracker-the-biggest-update-yet/25120",
-        "pubDate": "2026-11-02T15:22:16.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Ideas for social networks",
-        "link": "https://raphaelkabo.com/blog/social-network-ideas",
-        "pubDate": "2026-11-03T14:24:08.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "git-loom 1.0",
-        "link": "https://narnaud.github.io/git-loom/introduction.html",
-        "pubDate": "2026-11-03T11:54:42.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "An outsider's perspective on Scion and Mononoke",
-        "link": "https://typesanitizer.com/blog/scion.html",
-        "pubDate": "2026-11-01T15:22:36.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Firefox Security & Privacy Newsletter 2026 Q3",
-        "link": "https://attackanddefense.dev/2026/11/02/firefox-security-and-privacy-newsletter-q3.html",
-        "pubDate": "2026-11-03T08:03:58.000Z",
+        "title": "A Second Futamura Projection",
+        "link": "https://blog.veitheller.de/A_Second_Futamura_Projection.html",
+        "pubDate": "2026-11-03T16:14:27.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,66 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+        "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+        "pubDate": "2026-11-03T20:39:55.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+        "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+        "pubDate": "2026-11-03T18:30:27.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Buttons are back and storage is king when it comes to car interiors",
+        "link": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
+        "pubDate": "2026-11-03T18:19:31.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google will let schools skip AI tools, but they have to give up search, too",
+        "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+        "pubDate": "2026-11-03T17:54:43.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Another child dies of measles as CDC reportedly holds up health alert",
+        "link": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/",
+        "pubDate": "2026-11-03T17:21:29.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
+        "link": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
+        "pubDate": "2026-11-03T17:08:21.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "This space company is betting its future on a propellant available everywhere",
+        "link": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
+        "pubDate": "2026-11-03T16:50:32.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+        "link": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+        "pubDate": "2026-11-03T16:03:13.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
+        "link": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
+        "pubDate": "2026-11-03T15:39:30.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "EPA throws in the towel on policing air pollution from factory farms",
+        "link": "https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms/",
+        "pubDate": "2026-11-03T14:49:00.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
         "link": "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/",
@@ -221,66 +281,6 @@
         "link": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/",
         "pubDate": "2026-11-02T19:52:23.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Most of our measures of a key cognitive process don't agree",
-        "link": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/",
-        "pubDate": "2026-11-02T19:13:26.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-        "link": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-        "pubDate": "2026-11-02T18:32:21.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-        "link": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-        "pubDate": "2026-11-02T18:05:31.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "China publicly discloses plan for a lunar landing within three years",
-        "link": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
-        "pubDate": "2026-11-02T17:09:13.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "F1 in Mexico City: Yet another Ferrari fiasco, but that’s not all",
-        "link": "https://arstechnica.com/cars/2026/11/f1-in-mexico-city-we-have-a-new-world-champion/",
-        "pubDate": "2026-11-02T15:57:24.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "The world has a new plan to save nature, but it still needs the money",
-        "link": "https://arstechnica.com/science/2026/11/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money/",
-        "pubDate": "2026-11-02T14:56:52.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "This $48 e-paper display can be whatever you want it to be",
-        "link": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/",
-        "pubDate": "2026-11-02T12:00:07.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Seabirds racing home over the ocean can get jet-lagged",
-        "link": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
-        "pubDate": "2026-10-31T11:15:26.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
-        "link": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
-        "pubDate": "2026-10-31T11:02:34.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
-        "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
-        "pubDate": "2026-10-31T00:07:22.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,9 +288,33 @@
     "id": "axios",
     "items": [
       {
+        "title": "Election night opens with Trump in battle mode",
+        "link": "https://www.axios.com/2026/11/03/election-day-midterm-trump-democrats-republicans",
+        "pubDate": "2026-11-03T20:17:21.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "That dream job offer might be from a North Korean hacker",
+        "link": "https://www.axios.com/2026/11/03/north-korea-job-interview-binance-heist",
+        "pubDate": "2026-11-03T19:49:27.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "Voting machine chaos hits key House battleground",
         "link": "https://www.axios.com/2026/11/03/ny-voting-ballot-polls-ballot-issue",
-        "pubDate": "2026-11-03T15:20:03.000Z",
+        "pubDate": "2026-11-03T19:45:10.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "States take steps to secure vote after federal pullback",
+        "link": "https://www.axios.com/2026/11/03/2026-election-security-states",
+        "pubDate": "2026-11-03T17:49:55.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Prediction markets have a lot riding on the blue wave",
+        "link": "https://www.axios.com/2026/11/03/kalshi-polymarket-midterms-democrats",
+        "pubDate": "2026-11-03T15:36:42.000Z",
         "feedId": "axios"
       },
       {
@@ -352,36 +376,18 @@
         "link": "https://www.axios.com/2026/11/03/republicans-midterms-loss-blame-trump",
         "pubDate": "2026-11-03T01:19:59.000Z",
         "feedId": "axios"
-      },
-      {
-        "title": "U.S., Russia and Ukraine to resume peace talks in Abu Dhabi next week, Witkoff says",
-        "link": "https://www.axios.com/2026/11/03/us-russia-ukraine-peace-talks-uae-trump-witkoff-kushner",
-        "pubDate": "2026-11-03T00:01:03.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Final polls, models and markets see a \"blue tsunami\"",
-        "link": "https://www.axios.com/2026/11/03/2026-midterms-polls-predictions",
-        "pubDate": "2026-11-03T00:00:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "SCOTUS rejects Trump's bid over disputed California ballots",
-        "link": "https://www.axios.com/2026/11/02/supreme-court-california-voter-rolls-doj",
-        "pubDate": "2026-11-02T23:09:37.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Another judge blocks DOJ ballot demands in California",
-        "link": "https://www.axios.com/2026/11/02/judge-blocks-trump-doj-california-ballot-demands",
-        "pubDate": "2026-11-02T22:45:11.000Z",
-        "feedId": "axios"
       }
     ]
   },
   "longreads": {
     "id": "longreads",
     "items": [
+      {
+        "title": "The Year Math Changed Forever",
+        "link": "https://longreads.com/2026/11/03/terence-tao-navier-stokes-ai-math-millenium-prize/",
+        "pubDate": "2026-11-03T17:38:41.000Z",
+        "feedId": "longreads"
+      },
       {
         "title": "Have I Befriended a Murderer?",
         "link": "https://longreads.com/2026/11/03/murder-friendship-doubt/",
@@ -464,12 +470,6 @@
         "title": "Go Fast, Turn Left: The Anderson Speedway & Indiana’s Data Centers",
         "link": "https://longreads.com/2026/10/27/anderson-speedway-indianas-data-centers/",
         "pubDate": "2026-10-27T11:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "“I Play the Field; I Read Around.”",
-        "link": "https://longreads.com/2026/10/27/maggie-shipstead-passages-reading/",
-        "pubDate": "2026-10-27T10:00:00.000Z",
         "feedId": "longreads"
       }
     ]
