@@ -3,9 +3,45 @@
     "id": "hn",
     "items": [
       {
-        "title": "People Against Genocide Smash Military Satellites on Balfour Anniversary",
-        "link": "https://aftershock.media/military-satellites-balfour/",
-        "pubDate": "2026-11-04T00:25:48.000Z",
+        "title": "The lost malloc()",
+        "link": "https://napcakes.nekoweb.org/posts/malloc/",
+        "pubDate": "2026-11-04T07:37:30.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI stocks slide as Texas governor result raises data center risks",
+        "link": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
+        "pubDate": "2026-11-04T07:00:20.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Jelly Sheet",
+        "link": "https://mrdoob.github.io/codevember-2026/01/",
+        "pubDate": "2026-11-04T03:40:50.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+        "link": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+        "pubDate": "2026-11-04T03:20:13.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Arrows to arrows, categories to queries (2025)",
+        "link": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
+        "pubDate": "2026-11-04T03:11:27.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Giant canyon on Mars is still tectonically active",
+        "link": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+        "pubDate": "2026-11-04T01:40:42.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "C++26 Disapproved",
+        "link": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+        "pubDate": "2026-11-04T00:33:22.000Z",
         "feedId": "hn"
       },
       {
@@ -27,33 +63,15 @@
         "feedId": "hn"
       },
       {
-        "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-        "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-        "pubDate": "2026-11-03T21:26:44.000Z",
+        "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+        "link": "https://uncracked.city",
+        "pubDate": "2026-11-03T21:20:03.000Z",
         "feedId": "hn"
       },
       {
         "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
         "link": "https://github.com/finic-ai/kairos",
         "pubDate": "2026-11-03T21:16:48.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Pratt parsing is a black box",
-        "link": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
-        "pubDate": "2026-11-03T20:07:41.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
-        "link": "https://flipper.net/pages/flipper-one",
-        "pubDate": "2026-11-03T19:32:13.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "macOS 27 does not support CoreStorage volumes",
-        "link": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
-        "pubDate": "2026-11-03T19:27:53.000Z",
         "feedId": "hn"
       },
       {
@@ -72,24 +90,6 @@
         "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
         "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
         "pubDate": "2026-11-03T17:40:00.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-        "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-        "pubDate": "2026-11-03T17:22:37.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ashby (YC W19) Is Hiring EMs",
-        "link": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn",
-        "pubDate": "2026-11-03T17:00:53.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Stringman, an $800 open-source room scale gripper robot",
-        "link": "https://neufangled.com/",
-        "pubDate": "2026-11-03T16:47:29.000Z",
         "feedId": "hn"
       }
     ]
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
-        "link": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
-        "pubDate": "2026-11-03T15:44:27.000Z",
+        "title": "Observations from Running stealmybitcoin.com",
+        "link": "https://pavursec.com/blog/stealmybitcoin/",
+        "pubDate": "2026-11-03T23:45:21.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "A Decade of Kill Bugs",
-        "link": "https://alangrow.com/blog/a-decade-of-kill-bugs",
-        "pubDate": "2026-11-02T21:23:24.000Z",
+        "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+        "link": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+        "pubDate": "2026-11-03T15:44:27.000Z",
         "feedId": "lobsters"
       },
       {
@@ -128,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Jailbreaking my car's navigation system just so I can change the time",
-        "link": "https://blog.nns.ee/2026/11/02/renault-hack/",
-        "pubDate": "2026-11-02T16:30:58.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Would you believe it's jank?",
         "link": "https://www.youtube.com/watch?v=tHgApFhevrQ",
         "pubDate": "2026-11-03T20:03:16.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A Decade of Kill Bugs",
+        "link": "https://alangrow.com/blog/a-decade-of-kill-bugs",
+        "pubDate": "2026-11-02T21:23:24.000Z",
         "feedId": "lobsters"
       },
       {
@@ -146,45 +146,45 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why did you choose the nix you nix?",
-        "link": "https://lobste.rs/s/7fcuxz/why_did_you_choose_nix_you_nix",
-        "pubDate": "2026-11-03T03:58:06.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "kitty 0.50.0",
         "link": "https://sw.kovidgoyal.net/kitty/changelog/#id1",
         "pubDate": "2026-11-03T17:43:09.000Z",
         "feedId": "lobsters"
       },
       {
+        "title": "Jailbreaking my car's navigation system just so I can change the time",
+        "link": "https://blog.nns.ee/2026/11/02/renault-hack/",
+        "pubDate": "2026-11-02T16:30:58.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The valley of webhooks",
+        "link": "https://weli.dev/blog/the-valley-of-webhooks/",
+        "pubDate": "2026-11-04T02:10:26.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why did you choose the nix you nix?",
+        "link": "https://lobste.rs/s/7fcuxz/why_did_you_choose_nix_you_nix",
+        "pubDate": "2026-11-03T03:58:06.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Being of use to someone",
+        "link": "https://jmreiche.github.io/being-of-use-to-someone",
+        "pubDate": "2026-11-04T08:26:56.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Gist of Go: Concurrency",
+        "link": "https://antonz.org/go-concurrency/",
+        "pubDate": "2026-11-03T23:05:03.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "This background sound leaks your exact location",
         "link": "https://youtu.be/UytYrhYLOKI",
         "pubDate": "2026-11-02T19:42:32.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Observations from Running stealmybitcoin.com",
-        "link": "https://pavursec.com/blog/stealmybitcoin/",
-        "pubDate": "2026-11-03T23:45:21.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Stop Hardcoding Your Timeouts",
-        "link": "https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html",
-        "pubDate": "2026-11-02T19:22:32.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
-        "link": "https://rikiyat.github.io/blog/weight-space-programming/",
-        "pubDate": "2026-11-02T19:24:33.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "My favourite laptop",
-        "link": "https://blog.jsbarretto.com/post/laptop",
-        "pubDate": "2026-11-02T19:48:40.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -288,93 +288,93 @@
     "id": "axios",
     "items": [
       {
+        "title": "How Texas went Democratic",
+        "link": "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic",
+        "pubDate": "2026-11-04T08:23:49.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "GOP's redistricting firewall pummeled by blue wave",
+        "link": "https://www.axios.com/2026/11/04/gops-redistricting-firewall-pummeled-by-blue-wave",
+        "pubDate": "2026-11-04T07:50:01.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "WIPEOUT: GOP LOSES HOUSE AND SENATE",
+        "link": "https://www.axios.com/2026/11/03/election-day-midterm-trump-democrats-republicans",
+        "pubDate": "2026-11-04T07:34:15.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "El-Sayed becomes first Muslim U.S. senator",
+        "link": "https://www.axios.com/2026/11/04/michigan-senate-results-el-sayed-rogers",
+        "pubDate": "2026-11-04T07:34:08.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "The 5 biggest shockers of Democrats' stunning night",
+        "link": "https://www.axios.com/2026/11/04/five-biggest-shocks-democrats-midterm-results",
+        "pubDate": "2026-11-04T07:31:20.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Latinos' rejection of GOP boosts Dems in Texas upsets",
+        "link": "https://www.axios.com/2026/11/04/latino-voters-democrats-shift-trump-texas-gop",
+        "pubDate": "2026-11-04T06:55:19.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Musk laughs off election drubbing with space lasers joke",
+        "link": "https://www.axios.com/2026/11/04/musk-republicans-midterm-gop-texas",
+        "pubDate": "2026-11-04T06:32:36.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "GOP's red wall comes crashing down",
+        "link": "https://www.axios.com/2026/11/04/senate-republicans-trump-midterm-elections",
+        "pubDate": "2026-11-04T05:43:15.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump turns his ire toward Fox News on election night",
+        "link": "https://www.axios.com/2026/11/04/trump-fox-news-posts-election-night",
+        "pubDate": "2026-11-04T05:10:09.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump says GOP lost because he wasn't on ballot, is \"willing to accept\" results",
+        "link": "https://www.axios.com/2026/11/04/trump-republicans-midterms-2026-landslide-blue-wave",
+        "pubDate": "2026-11-04T05:00:30.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "House Republicans torch each other over \"brutal\" midterms losses",
+        "link": "https://www.axios.com/2026/11/04/republicans-midterms-johnson-trump-scalise",
+        "pubDate": "2026-11-04T04:59:44.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Josh Turek delivers flips control of Senate with Iowa upset",
+        "link": "https://www.axios.com/local/des-moines/2026/11/04/iowa-senate-election-win-hinson-turek",
+        "pubDate": "2026-11-04T04:37:57.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Talarico flips Texas Senate seat in historic Democratic breakthrough",
+        "link": "https://www.axios.com/2026/11/04/texas-senate-results-talarico-paxton",
+        "pubDate": "2026-11-04T04:08:01.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Stratton's win sets up Senate first for 3 Black women",
+        "link": "https://www.axios.com/2026/11/04/juliana-stratton-black-women-senate-record",
+        "pubDate": "2026-11-04T02:36:34.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "Democrat Roy Cooper flips North Carolina Senate seat",
         "link": "https://www.axios.com/2026/11/04/nc-senate-results-cooper-whatley",
         "pubDate": "2026-11-04T01:28:29.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Democrats beat back GOP Senate challenge in N.H. with Pappas win",
-        "link": "https://www.axios.com/2026/11/04/new-hampshire-nh-senate-results-sununu-pappas",
-        "pubDate": "2026-11-04T01:27:52.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "All eyes on Florida as Dems win Senate seats in N.C. and Georgia",
-        "link": "https://www.axios.com/2026/11/03/election-day-midterm-trump-democrats-republicans",
-        "pubDate": "2026-11-04T01:20:39.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "The brutal 2026 attack ads even rivals had to respect",
-        "link": "https://www.axios.com/2026/11/03/2026-midterms-attack-ads-republicans",
-        "pubDate": "2026-11-03T23:59:56.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"I Voted\" stickers become tributes at ICE memorials",
-        "link": "https://www.axios.com/2026/11/03/i-voted-stickers-ice-memorials",
-        "pubDate": "2026-11-03T22:46:35.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Haley Stevens requests U.S. marshals' protection after death threats",
-        "link": "https://www.axios.com/2026/11/03/haley-stevens-death-threats-marshals",
-        "pubDate": "2026-11-03T20:55:28.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "That dream job offer might be from a North Korean hacker",
-        "link": "https://www.axios.com/2026/11/03/north-korea-job-interview-binance-heist",
-        "pubDate": "2026-11-03T19:49:27.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Voting machine chaos hits key House battleground",
-        "link": "https://www.axios.com/2026/11/03/ny-voting-ballot-polls-ballot-issue",
-        "pubDate": "2026-11-03T19:45:10.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "States take steps to secure vote after federal pullback",
-        "link": "https://www.axios.com/2026/11/03/2026-election-security-states",
-        "pubDate": "2026-11-03T17:49:55.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Prediction markets have a lot riding on the blue wave",
-        "link": "https://www.axios.com/2026/11/03/kalshi-polymarket-midterms-democrats",
-        "pubDate": "2026-11-03T15:36:42.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "What we're watching on election night for energy",
-        "link": "https://www.axios.com/2026/11/03/election-night-midterms-energy",
-        "pubDate": "2026-11-03T13:38:23.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "DOJ sending 1,000 election monitors to all 50 states",
-        "link": "https://www.axios.com/2026/11/03/election-day-polls-doj-observers",
-        "pubDate": "2026-11-03T13:29:32.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "What's on the line for health care in the midterms",
-        "link": "https://www.axios.com/2026/11/03/midterm-elections-health-care-issues",
-        "pubDate": "2026-11-03T10:30:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump vanishes from GOP campaign ads",
-        "link": "https://www.axios.com/2026/11/03/republican-campaign-ads-trump-midterms",
-        "pubDate": "2026-11-03T10:20:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Fired general accused of being source for Wall Street Journal, NYT",
-        "link": "https://www.axios.com/2026/11/03/fired-general-leak-probe-wsj-nyt",
-        "pubDate": "2026-11-03T10:10:06.000Z",
         "feedId": "axios"
       }
     ]
