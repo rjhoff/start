@@ -3,9 +3,39 @@
     "id": "hn",
     "items": [
       {
-        "title": "I dumped Apple’s word list",
-        "link": "https://helgesver.re/articles/macos-vulgar-word-flags",
-        "pubDate": "2026-11-03T20:33:23.000Z",
+        "title": "People Against Genocide Smash Military Satellites on Balfour Anniversary",
+        "link": "https://aftershock.media/military-satellites-balfour/",
+        "pubDate": "2026-11-04T00:25:48.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Internals of PostgreSQL",
+        "link": "https://www.interdb.jp/pg/index.html",
+        "pubDate": "2026-11-03T21:51:06.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+        "link": "https://arxiv.org/abs/2605.29713",
+        "pubDate": "2026-11-03T21:40:53.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Safari introduces Adaptive Dark Mode in 27.3",
+        "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+        "pubDate": "2026-11-03T21:39:05.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+        "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+        "pubDate": "2026-11-03T21:26:44.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+        "link": "https://github.com/finic-ai/kairos",
+        "pubDate": "2026-11-03T21:16:48.000Z",
         "feedId": "hn"
       },
       {
@@ -33,9 +63,9 @@
         "feedId": "hn"
       },
       {
-        "title": "How to write comparison content that doesn't age like milk",
-        "link": "https://posthog.com/blog/comparison-content-guide",
-        "pubDate": "2026-11-03T17:46:58.000Z",
+        "title": "How I use AI (Oct 2026)",
+        "link": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+        "pubDate": "2026-11-03T18:11:11.000Z",
         "feedId": "hn"
       },
       {
@@ -61,36 +91,6 @@
         "link": "https://neufangled.com/",
         "pubDate": "2026-11-03T16:47:29.000Z",
         "feedId": "hn"
-      },
-      {
-        "title": "Gitbook Breached",
-        "link": "https://news.ycombinator.com/item?id=50354336",
-        "pubDate": "2026-11-03T16:45:49.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
-        "link": "https://arxiv.org/abs/2611.02618",
-        "pubDate": "2026-11-03T16:40:02.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
-        "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-        "pubDate": "2026-11-03T15:29:15.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Google will turn off search for schools that reject AI",
-        "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-        "pubDate": "2026-11-03T15:25:47.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tiny Basic for Arduino",
-        "link": "https://dilshan.github.io/tiny-basic/",
-        "pubDate": "2026-11-03T15:17:07.000Z",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,15 +110,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+        "link": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+        "pubDate": "2026-11-03T15:44:27.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "A Decade of Kill Bugs",
         "link": "https://alangrow.com/blog/a-decade-of-kill-bugs",
         "pubDate": "2026-11-02T21:23:24.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
-        "link": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
-        "pubDate": "2026-11-03T15:44:27.000Z",
+        "title": "Announcing NetBSD 11.1",
+        "link": "https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html",
+        "pubDate": "2026-11-03T22:00:17.000Z",
         "feedId": "lobsters"
       },
       {
@@ -128,21 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Why did you choose the nix you nix?",
-        "link": "https://lobste.rs/s/7fcuxz/why_did_you_choose_nix_you_nix",
-        "pubDate": "2026-11-03T03:58:06.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "This background sound leaks your exact location",
-        "link": "https://youtu.be/UytYrhYLOKI",
-        "pubDate": "2026-11-02T19:42:32.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Stop Hardcoding Your Timeouts",
-        "link": "https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html",
-        "pubDate": "2026-11-02T19:22:32.000Z",
+        "title": "Would you believe it's jank?",
+        "link": "https://www.youtube.com/watch?v=tHgApFhevrQ",
+        "pubDate": "2026-11-03T20:03:16.000Z",
         "feedId": "lobsters"
       },
       {
@@ -152,21 +146,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Why did you choose the nix you nix?",
+        "link": "https://lobste.rs/s/7fcuxz/why_did_you_choose_nix_you_nix",
+        "pubDate": "2026-11-03T03:58:06.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "kitty 0.50.0",
         "link": "https://sw.kovidgoyal.net/kitty/changelog/#id1",
         "pubDate": "2026-11-03T17:43:09.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "My favourite laptop",
-        "link": "https://blog.jsbarretto.com/post/laptop",
-        "pubDate": "2026-11-02T19:48:40.000Z",
+        "title": "This background sound leaks your exact location",
+        "link": "https://youtu.be/UytYrhYLOKI",
+        "pubDate": "2026-11-02T19:42:32.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Would you believe it's jank?",
-        "link": "https://www.youtube.com/watch?v=tHgApFhevrQ",
-        "pubDate": "2026-11-03T20:03:16.000Z",
+        "title": "Observations from Running stealmybitcoin.com",
+        "link": "https://pavursec.com/blog/stealmybitcoin/",
+        "pubDate": "2026-11-03T23:45:21.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Stop Hardcoding Your Timeouts",
+        "link": "https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html",
+        "pubDate": "2026-11-02T19:22:32.000Z",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Planning with open variable lists in Gecode",
-        "link": "https://zayenz.se/blog/post/open-cp-in-gecode/",
-        "pubDate": "2026-11-03T16:33:43.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A Second Futamura Projection",
-        "link": "https://blog.veitheller.de/A_Second_Futamura_Projection.html",
-        "pubDate": "2026-11-03T16:14:27.000Z",
+        "title": "My favourite laptop",
+        "link": "https://blog.jsbarretto.com/post/laptop",
+        "pubDate": "2026-11-02T19:48:40.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+        "link": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+        "pubDate": "2026-11-03T22:39:37.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
         "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
@@ -275,12 +281,6 @@
         "link": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
         "pubDate": "2026-11-02T21:21:43.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
-        "link": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/",
-        "pubDate": "2026-11-02T19:52:23.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,9 +288,39 @@
     "id": "axios",
     "items": [
       {
-        "title": "Election night opens with Trump in battle mode",
+        "title": "Democrat Roy Cooper flips North Carolina Senate seat",
+        "link": "https://www.axios.com/2026/11/04/nc-senate-results-cooper-whatley",
+        "pubDate": "2026-11-04T01:28:29.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Democrats beat back GOP Senate challenge in N.H. with Pappas win",
+        "link": "https://www.axios.com/2026/11/04/new-hampshire-nh-senate-results-sununu-pappas",
+        "pubDate": "2026-11-04T01:27:52.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "All eyes on Florida as Dems win Senate seats in N.C. and Georgia",
         "link": "https://www.axios.com/2026/11/03/election-day-midterm-trump-democrats-republicans",
-        "pubDate": "2026-11-03T20:17:21.000Z",
+        "pubDate": "2026-11-04T01:20:39.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "The brutal 2026 attack ads even rivals had to respect",
+        "link": "https://www.axios.com/2026/11/03/2026-midterms-attack-ads-republicans",
+        "pubDate": "2026-11-03T23:59:56.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "\"I Voted\" stickers become tributes at ICE memorials",
+        "link": "https://www.axios.com/2026/11/03/i-voted-stickers-ice-memorials",
+        "pubDate": "2026-11-03T22:46:35.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Haley Stevens requests U.S. marshals' protection after death threats",
+        "link": "https://www.axios.com/2026/11/03/haley-stevens-death-threats-marshals",
+        "pubDate": "2026-11-03T20:55:28.000Z",
         "feedId": "axios"
       },
       {
@@ -345,36 +375,6 @@
         "title": "Fired general accused of being source for Wall Street Journal, NYT",
         "link": "https://www.axios.com/2026/11/03/fired-general-leak-probe-wsj-nyt",
         "pubDate": "2026-11-03T10:10:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Charted: Why early midterm results can be misleading",
-        "link": "https://www.axios.com/2026/11/03/2026-midterm-election-results-red-mirage-senate-races",
-        "pubDate": "2026-11-03T10:03:05.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Three questions that will define AI's political power",
-        "link": "https://www.axios.com/2026/11/03/ai-election-politics-2026-midterms",
-        "pubDate": "2026-11-03T10:00:07.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Elon Musk's next target: a major shake-up of America's wireless market",
-        "link": "https://www.axios.com/2026/11/03/elon-musk-spacex-boost-mobile-wireless-market",
-        "pubDate": "2026-11-03T10:00:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Democrats could learn wrong message from a blowout victory",
-        "link": "https://www.axios.com/2026/11/03/democrats-midterms-image-negative-2028",
-        "pubDate": "2026-11-03T10:00:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "GOP's midterm blame game starts early",
-        "link": "https://www.axios.com/2026/11/03/republicans-midterms-loss-blame-trump",
-        "pubDate": "2026-11-03T01:19:59.000Z",
         "feedId": "axios"
       }
     ]
