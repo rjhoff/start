@@ -3,27 +3,45 @@
     "id": "hn",
     "items": [
       {
+        "title": "Starfall – Affordable, routine access to microgravity",
+        "link": "https://www.spacex.com/starfall",
+        "pubDate": "2026-11-05T00:18:18.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Images 2.6",
+        "link": "https://openai.com/index/introducing-images-2-6/",
+        "pubDate": "2026-11-04T23:35:44.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "A thousand fewer paths to root",
+        "link": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+        "pubDate": "2026-11-04T23:33:14.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
         "link": "https://icode4.coffee/?p=1746",
         "pubDate": "2026-11-04T22:01:49.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Everything is an AI scam now",
-        "link": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
-        "pubDate": "2026-11-04T21:05:19.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "If you're on Replit Pro, you have until November 8 to opt out of arbitration",
-        "link": "https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8",
-        "pubDate": "2026-11-04T20:52:53.000Z",
+        "title": "Death Comes for XSLT",
+        "link": "https://dbushell.com/2026/11/03/xslt-rip/",
+        "pubDate": "2026-11-04T20:57:10.000Z",
         "feedId": "hn"
       },
       {
         "title": "Residential proxies detected on White House network",
         "link": "https://layer3intel.com/blog/residential-proxies-white-house-network",
         "pubDate": "2026-11-04T20:45:18.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+        "link": "https://github.com/gauge-sh/gauge-cli",
+        "pubDate": "2026-11-04T20:31:30.000Z",
         "feedId": "hn"
       },
       {
@@ -51,21 +69,9 @@
         "feedId": "hn"
       },
       {
-        "title": "From wild to mild: Friendly foxes show changes in brain region",
-        "link": "https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region",
-        "pubDate": "2026-11-04T18:24:16.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Conductor Is Joining Meta",
+        "title": "Conductor is joining Meta",
         "link": "https://www.conductor.build/announcement",
         "pubDate": "2026-11-04T18:22:40.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Benchfmt.rs: Bringing Go's benchmarking and benchstat workflow to Rust",
-        "link": "https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/",
-        "pubDate": "2026-11-04T18:20:06.000Z",
         "feedId": "hn"
       },
       {
@@ -84,12 +90,6 @@
         "title": "Progress on provable inference for large language models",
         "link": "https://www.anthropic.com/research/provable-inference",
         "pubDate": "2026-11-04T17:17:46.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "AMD expects to outsell Intel in Q4 for the first time in history",
-        "link": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
-        "pubDate": "2026-11-04T15:38:34.000Z",
         "feedId": "hn"
       }
     ]
@@ -122,6 +122,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "A new Go API for JSON",
+        "link": "https://go.dev/blog/jsonv2",
+        "pubDate": "2026-11-04T17:52:32.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "C++26 Disapproved",
         "link": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
         "pubDate": "2026-11-04T08:56:24.000Z",
@@ -134,9 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A new Go API for JSON",
-        "link": "https://go.dev/blog/jsonv2",
-        "pubDate": "2026-11-04T17:52:32.000Z",
+        "title": "How to speed up the Rust compiler in November 2026",
+        "link": "https://nnethercote.github.io/2026/11/04/how-to-speed-up-the-rust-compiler-in-november-2026.html",
+        "pubDate": "2026-11-04T14:05:16.000Z",
         "feedId": "lobsters"
       },
       {
@@ -146,9 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How to speed up the Rust compiler in November 2026",
-        "link": "https://nnethercote.github.io/2026/11/04/how-to-speed-up-the-rust-compiler-in-november-2026.html",
-        "pubDate": "2026-11-04T14:05:16.000Z",
+        "title": "Declarative Dragging",
+        "link": "https://declarative-dragging.github.io/",
+        "pubDate": "2026-11-05T00:35:09.000Z",
         "feedId": "lobsters"
       },
       {
@@ -158,15 +164,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Gleam Programming Language Update October 2026",
+        "link": "https://www.youtube.com/watch?v=Jm2HZhwreNs",
+        "pubDate": "2026-11-04T15:54:58.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Death comes for XSLT",
         "link": "https://dbushell.com/2026/11/03/xslt-rip/",
         "pubDate": "2026-11-03T15:19:50.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
-        "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
-        "pubDate": "2026-11-03T15:23:21.000Z",
+        "title": "Burnt TOAST",
+        "link": "https://www.pgedge.com/blog/burnt-toast",
+        "pubDate": "2026-11-04T18:00:32.000Z",
         "feedId": "lobsters"
       },
       {
@@ -174,24 +186,30 @@
         "link": "https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/",
         "pubDate": "2026-11-04T14:50:34.000Z",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Gleam Programming Language Update October 2026",
-        "link": "https://www.youtube.com/watch?v=Jm2HZhwreNs",
-        "pubDate": "2026-11-04T15:54:58.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
-        "link": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
-        "pubDate": "2026-11-03T15:44:27.000Z",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+        "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+        "pubDate": "2026-11-04T22:47:51.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Hackers exploited iOS and Android flaws to infect phones",
+        "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+        "pubDate": "2026-11-04T22:26:49.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Uranium cubes reveal why the German nuclear project failed",
+        "link": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+        "pubDate": "2026-11-04T21:56:29.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
         "link": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
@@ -263,30 +281,24 @@
         "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
         "pubDate": "2026-11-03T18:30:27.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Buttons are back and storage is king when it comes to car interiors",
-        "link": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
-        "pubDate": "2026-11-03T18:19:31.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Google will let schools skip AI tools, but they have to give up search, too",
-        "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-        "pubDate": "2026-11-03T17:54:43.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Another child dies of measles as CDC reportedly holds up health alert",
-        "link": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/",
-        "pubDate": "2026-11-03T17:21:29.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "After midterm defeat, Trump faces mostly bad options in Iran",
+        "link": "https://www.axios.com/2026/11/05/trump-iran-war-midterm-defeat-bad-options",
+        "pubDate": "2026-11-05T00:57:18.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "House Democrats face epic power struggle over their massive majority",
+        "link": "https://www.axios.com/2026/11/05/house-democrats-jeffries-centrists-majority-left",
+        "pubDate": "2026-11-05T00:47:05.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Polls missed bigger on the midterms than in 2016",
         "link": "https://www.axios.com/2026/11/04/polling-midterms-accuracy-atlasintel",
@@ -309,6 +321,12 @@
         "title": "Forget the midterm ballots. Trump is back to ballrooms.",
         "link": "https://www.axios.com/2026/11/04/trump-ballroom-focus-2026-midterm-election",
         "pubDate": "2026-11-04T20:47:47.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "House Republicans swing from \"shock\" to fury",
+        "link": "https://www.axios.com/2026/11/04/house-republicans-steve-scalise-jim-jordan-minority-leader",
+        "pubDate": "2026-11-04T20:43:25.000Z",
         "feedId": "axios"
       },
       {
@@ -357,24 +375,6 @@
         "title": "Trump can't pack the Fed board with allies now",
         "link": "https://www.axios.com/2026/11/04/fed-trump-appointees-democrats",
         "pubDate": "2026-11-04T17:15:05.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Global leaders weigh in on America's midterm shake-up",
-        "link": "https://www.axios.com/2026/11/04/2026-midterm-election-results-world-leaders-react",
-        "pubDate": "2026-11-04T17:11:27.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scalise, Jordan vie to lead House Republicans reeling from midterm rebuke",
-        "link": "https://www.axios.com/2026/11/04/state-scalise-house-republicans-minority-leader-midterms",
-        "pubDate": "2026-11-04T16:30:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Mike Johnson bows out of leadership after crushing House GOP defeat",
-        "link": "https://www.axios.com/2026/11/04/speaker-mike-johnson-retires-house-republicans-midterms",
-        "pubDate": "2026-11-04T15:14:11.000Z",
         "feedId": "axios"
       }
     ]
