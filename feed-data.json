@@ -3,9 +3,39 @@
     "id": "hn",
     "items": [
       {
-        "title": "Starfall – Affordable, routine access to microgravity",
-        "link": "https://www.spacex.com/starfall",
-        "pubDate": "2026-11-05T00:18:18.000Z",
+        "title": "Awesome repositories are no longer awesome",
+        "link": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
+        "pubDate": "2026-11-05T11:16:51.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
+        "link": "https://hachyderm.io/@damienmiller/117563026759098135",
+        "pubDate": "2026-11-05T09:46:17.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Baidu released ERNIE 5.5 Flash Base",
+        "link": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+        "pubDate": "2026-11-05T09:29:12.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Being a kid making games in the early 2000s",
+        "link": "https://jaytholen.net/teengamedev/",
+        "pubDate": "2026-11-05T05:53:53.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+        "link": "https://www.altera.com/newsroom/agilex-2x",
+        "pubDate": "2026-11-05T05:47:14.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Lemmings CSS Animation",
+        "link": "https://markblah.github.io/lemmings/",
+        "pubDate": "2026-11-05T04:54:10.000Z",
         "feedId": "hn"
       },
       {
@@ -27,21 +57,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Death Comes for XSLT",
-        "link": "https://dbushell.com/2026/11/03/xslt-rip/",
-        "pubDate": "2026-11-04T20:57:10.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Residential proxies detected on White House network",
         "link": "https://layer3intel.com/blog/residential-proxies-white-house-network",
         "pubDate": "2026-11-04T20:45:18.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
-        "link": "https://github.com/gauge-sh/gauge-cli",
-        "pubDate": "2026-11-04T20:31:30.000Z",
         "feedId": "hn"
       },
       {
@@ -73,24 +91,6 @@
         "link": "https://www.conductor.build/announcement",
         "pubDate": "2026-11-04T18:22:40.000Z",
         "feedId": "hn"
-      },
-      {
-        "title": "A new Go API for JSON",
-        "link": "https://go.dev/blog/jsonv2",
-        "pubDate": "2026-11-04T17:52:11.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-        "link": "https://news.ycombinator.com/item?id=50368804",
-        "pubDate": "2026-11-04T17:31:53.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Progress on provable inference for large language models",
-        "link": "https://www.anthropic.com/research/provable-inference",
-        "pubDate": "2026-11-04T17:17:46.000Z",
-        "feedId": "hn"
       }
     ]
   },
@@ -110,15 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Your Cryptography Conspiracy Theory Is Wrong",
-        "link": "https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/",
-        "pubDate": "2026-11-04T14:58:11.000Z",
+        "title": "Declarative Dragging",
+        "link": "https://declarative-dragging.github.io/",
+        "pubDate": "2026-11-05T00:35:09.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Introducing Adaptive Dark Mode",
-        "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-        "pubDate": "2026-11-04T11:04:40.000Z",
+        "title": "Your Cryptography Conspiracy Theory Is Wrong",
+        "link": "https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/",
+        "pubDate": "2026-11-04T14:58:11.000Z",
         "feedId": "lobsters"
       },
       {
@@ -128,9 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "C++26 Disapproved",
-        "link": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
-        "pubDate": "2026-11-04T08:56:24.000Z",
+        "title": "Introducing Adaptive Dark Mode",
+        "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+        "pubDate": "2026-11-04T11:04:40.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +140,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Why is there an Anubis gate in front of Search for logged-in users?",
+        "link": "https://lobste.rs/s/y4poxs/why_is_there_anubis_gate_front_search_for",
+        "pubDate": "2026-11-05T09:29:01.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "How to speed up the Rust compiler in November 2026",
         "link": "https://nnethercote.github.io/2026/11/04/how-to-speed-up-the-rust-compiler-in-november-2026.html",
         "pubDate": "2026-11-04T14:05:16.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "C++26 Disapproved",
+        "link": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+        "pubDate": "2026-11-04T08:56:24.000Z",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +164,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Declarative Dragging",
-        "link": "https://declarative-dragging.github.io/",
-        "pubDate": "2026-11-05T00:35:09.000Z",
+        "title": "Residential Proxies Detected on White House Network",
+        "link": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+        "pubDate": "2026-11-05T00:30:40.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "11 nanoseconds per word: Ridiculously Over-Optimizing Anagrams",
+        "link": "https://wiredream.com/anagram-fun/",
+        "pubDate": "2026-11-05T07:37:35.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A Look at Datastar",
+        "link": "https://noteflakes.com/articles/2026-11-04-datastar",
+        "pubDate": "2026-11-05T10:44:57.000Z",
         "feedId": "lobsters"
       },
       {
@@ -162,36 +186,18 @@
         "link": "https://pavursec.com/blog/stealmybitcoin/",
         "pubDate": "2026-11-03T23:45:21.000Z",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Gleam Programming Language Update October 2026",
-        "link": "https://www.youtube.com/watch?v=Jm2HZhwreNs",
-        "pubDate": "2026-11-04T15:54:58.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Death comes for XSLT",
-        "link": "https://dbushell.com/2026/11/03/xslt-rip/",
-        "pubDate": "2026-11-03T15:19:50.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Burnt TOAST",
-        "link": "https://www.pgedge.com/blog/burnt-toast",
-        "pubDate": "2026-11-04T18:00:32.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Lorem Ipsum Dot Gov Dot UK",
-        "link": "https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/",
-        "pubDate": "2026-11-04T14:50:34.000Z",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
+        "link": "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/",
+        "pubDate": "2026-11-05T09:00:13.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
         "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
@@ -275,18 +281,48 @@
         "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
         "pubDate": "2026-11-03T20:39:55.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
-        "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
-        "pubDate": "2026-11-03T18:30:27.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Vance takes a step toward 2028 in MAGA power play",
+        "link": "https://www.axios.com/2026/11/05/vance-maga-power-play-2028",
+        "pubDate": "2026-11-05T10:31:32.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Democrats' big challenge on health care costs",
+        "link": "https://www.axios.com/2026/11/05/democrats-health-affordability-challenge",
+        "pubDate": "2026-11-05T10:30:07.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Tech giants turn to cash, concessions for AI rebrand after voters pummeled data centers 43-1",
+        "link": "https://www.axios.com/2026/11/05/ai-data-center-election-backlash-concessions",
+        "pubDate": "2026-11-05T10:30:07.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Why Pete Hegseth could fall through \"thin ice\"",
+        "link": "https://www.axios.com/2026/11/05/hegseth-impeachment-midterms-trump",
+        "pubDate": "2026-11-05T10:10:07.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "75% of Americans could have a Democratic governor",
+        "link": "https://www.axios.com/2026/11/05/2026-midterms-democrats-state-legislatures-trifectas",
+        "pubDate": "2026-11-05T10:01:04.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Dems' rout opens door to \"big test\" and a packed 2028 field",
+        "link": "https://www.axios.com/2026/11/05/democrats-factions-midterms-test-2028",
+        "pubDate": "2026-11-05T09:50:07.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "After midterm defeat, Trump faces mostly bad options in Iran",
         "link": "https://www.axios.com/2026/11/05/trump-iran-war-midterm-defeat-bad-options",
@@ -340,48 +376,24 @@
         "link": "https://www.axios.com/2026/11/04/oil-prices-plunge-midterms-vance-democrats-iran",
         "pubDate": "2026-11-04T19:34:07.000Z",
         "feedId": "axios"
-      },
-      {
-        "title": "Key Pentagon priorities in peril after Democratic sweep",
-        "link": "https://www.axios.com/2026/11/04/democrat-midterms-hegseth-pentagon-investigations",
-        "pubDate": "2026-11-04T19:09:52.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Democrats' midterm gains could sideline Electoral College by 2028",
-        "link": "https://www.axios.com/2026/11/04/democrats-electoral-college-popular-vote-2028",
-        "pubDate": "2026-11-04T18:50:32.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Democrats vow Trump investigations, but voters have another priority too",
-        "link": "https://www.axios.com/2026/11/04/democrats-trump-investigations-affordability-agenda",
-        "pubDate": "2026-11-04T18:50:01.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Vance says the Iran war cost Republicans the midterms",
-        "link": "https://www.axios.com/2026/11/04/jd-vance-iran-war-trump-election",
-        "pubDate": "2026-11-04T18:22:47.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Women ride midterm blue wave to historic gains",
-        "link": "https://www.axios.com/2026/11/04/women-midterm-blue-wave-historic-gains",
-        "pubDate": "2026-11-04T17:40:55.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump can't pack the Fed board with allies now",
-        "link": "https://www.axios.com/2026/11/04/fed-trump-appointees-democrats",
-        "pubDate": "2026-11-04T17:15:05.000Z",
-        "feedId": "axios"
       }
     ]
   },
   "longreads": {
     "id": "longreads",
     "items": [
+      {
+        "title": "The Brain Injury That Made Edward Freytag A Musical Genius",
+        "link": "https://longreads.com/2026/11/05/edward-freytag-brain-injury-perfect-pitch/",
+        "pubDate": "2026-11-05T11:00:00.000Z",
+        "feedId": "longreads"
+      },
+      {
+        "title": "Burying the Evidence",
+        "link": "https://longreads.com/2026/11/05/time-capsules-ashley-stimpson/",
+        "pubDate": "2026-11-05T10:00:00.000Z",
+        "feedId": "longreads"
+      },
       {
         "title": "In Praise of the Dilettante",
         "link": "https://longreads.com/2026/11/04/dilettantes-aeon/",
@@ -458,18 +470,6 @@
         "title": "Road Trip at the Borderland",
         "link": "https://longreads.com/2026/10/29/family-road-trip-china-north-korea/",
         "pubDate": "2026-10-29T10:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "The Proponents of “Dark Nutrition” Think Everything You Know About Food Is Wrong",
-        "link": "https://longreads.com/2026/10/28/dark-nutrition-raw-meat-milk-carnivore-unpasteurized/",
-        "pubDate": "2026-10-28T11:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "How Jim Morrison Surmounted Tragedy and Skied Down Everest",
-        "link": "https://longreads.com/2026/10/27/jim-morrison-tragedy-skied-down-everest/",
-        "pubDate": "2026-10-27T21:00:00.000Z",
         "feedId": "longreads"
       }
     ]
