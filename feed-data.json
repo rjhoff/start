@@ -3,33 +3,75 @@
     "id": "hn",
     "items": [
       {
-        "title": "How to Lie With Statistics (1954) [pdf]",
-        "link": "https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf",
-        "pubDate": "2026-11-05T18:29:22.000Z",
+        "title": "Inkling 2 Small",
+        "link": "https://thinkingmachines.ai/news/inkling-2-small/",
+        "pubDate": "2026-11-06T00:00:24.000Z",
         "feedId": "hn"
       },
       {
-        "title": "NTS: Authenticated Time at Meta",
-        "link": "https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/",
-        "pubDate": "2026-11-05T18:24:28.000Z",
+        "title": "Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data",
+        "link": "https://www.fgc.org.br/comunicado",
+        "pubDate": "2026-11-05T23:32:36.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
-        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
-        "pubDate": "2026-11-05T18:00:01.000Z",
+        "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+        "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+        "pubDate": "2026-11-05T23:09:57.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Claude Code sends your email address to websites",
+        "link": "https://github.com/anthropics/claude-code/issues/107757",
+        "pubDate": "2026-11-05T22:17:15.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "MS Paint Remote Code Execution Vulnerability",
+        "link": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+        "pubDate": "2026-11-05T20:43:42.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+        "link": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+        "pubDate": "2026-11-05T20:21:43.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Search for everyone",
+        "link": "https://kagi.com/changelog#11820",
+        "pubDate": "2026-11-05T20:03:34.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Goodbye from Salon",
+        "link": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+        "pubDate": "2026-11-05T20:03:29.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Introducing Pangram Image 1.0",
+        "link": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+        "pubDate": "2026-11-05T19:27:52.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
+        "link": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
+        "pubDate": "2026-11-05T19:16:34.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Hackintosh Reborn",
+        "link": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+        "pubDate": "2026-11-05T19:08:22.000Z",
         "feedId": "hn"
       },
       {
         "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
         "link": "https://github.com/rivet-dev/rivet",
         "pubDate": "2026-11-05T17:17:42.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nasdaq plummets 4% into correction territory",
-        "link": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
-        "pubDate": "2026-11-05T17:11:15.000Z",
         "feedId": "hn"
       },
       {
@@ -48,48 +90,6 @@
         "title": "My psychophysics as a bilateral cochlear implant user",
         "link": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
         "pubDate": "2026-11-05T16:21:12.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Stacks Project, Formalized in Lean",
-        "link": "https://axiommath.ai/research/the-stacks-project-formalized/",
-        "pubDate": "2026-11-05T16:16:59.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Motorola Signature 27 with GrapheneOS support",
-        "link": "https://motorolanews.com/motorola-signature-27-2/",
-        "pubDate": "2026-11-05T16:01:34.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
-        "link": "https://github.com/AGGIB/Stroq",
-        "pubDate": "2026-11-05T15:54:41.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
-        "link": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
-        "pubDate": "2026-11-05T15:51:57.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "We can do better than line-buffered output",
-        "link": "https://nullprogram.com/blog/2026/11/05/",
-        "pubDate": "2026-11-05T15:25:22.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C and Rust",
-        "link": "https://nordstjernen.org/",
-        "pubDate": "2026-11-05T15:17:31.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-        "link": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-        "pubDate": "2026-11-05T14:44:20.000Z",
         "feedId": "hn"
       }
     ]
@@ -110,15 +110,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Software Line Specialist",
+        "link": "https://lovro-bikic.github.io/software-line-specialist/",
+        "pubDate": "2026-11-05T16:32:29.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Declarative Dragging",
         "link": "https://declarative-dragging.github.io/",
         "pubDate": "2026-11-05T00:35:09.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Software Line Specialist",
-        "link": "https://lovro-bikic.github.io/software-line-specialist/",
-        "pubDate": "2026-11-05T16:32:29.000Z",
+        "title": "SourceHut disabled registration bypass | CVE-2026-121728",
+        "link": "https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/",
+        "pubDate": "2026-11-05T18:34:41.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A Look at Datastar",
+        "link": "https://noteflakes.com/articles/2026-11-04-datastar",
+        "pubDate": "2026-11-05T10:44:57.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "GNU Mes and the 0.28 release",
+        "link": "https://ekaitz.elenq.tech/fasterMes10.html",
+        "pubDate": "2026-11-05T13:30:50.000Z",
         "feedId": "lobsters"
       },
       {
@@ -134,12 +152,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A Look at Datastar",
-        "link": "https://noteflakes.com/articles/2026-11-04-datastar",
-        "pubDate": "2026-11-05T10:44:57.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "11 nanoseconds per word: Ridiculously Over-Optimizing Anagrams",
         "link": "https://wiredream.com/anagram-fun/",
         "pubDate": "2026-11-05T07:37:35.000Z",
@@ -152,39 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "GNU Mes and the 0.28 release",
-        "link": "https://ekaitz.elenq.tech/fasterMes10.html",
-        "pubDate": "2026-11-05T13:30:50.000Z",
+        "title": "I Go to Olympics of 4KB Coding",
+        "link": "https://inv.nadeko.net/watch?v=PeZNLvD4mds",
+        "pubDate": "2026-11-05T23:33:07.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "SourceHut disabled registration bypass | CVE-2026-121728",
-        "link": "https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/",
-        "pubDate": "2026-11-05T18:34:41.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why is there an Anubis gate in front of Search for logged-in users?",
-        "link": "https://lobste.rs/s/y4poxs/why_is_there_anubis_gate_front_search_for",
-        "pubDate": "2026-11-05T09:29:01.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A new Go API for JSON",
-        "link": "https://go.dev/blog/jsonv2",
-        "pubDate": "2026-11-04T17:52:32.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Man-in-the-middle arbitrary code execution in Debian’s apt",
-        "link": "https://lists.debian.org/debian-security-announce/2026/msg00526.html",
-        "pubDate": "2026-11-04T13:36:43.000Z",
+        "title": "A Quick Guide to Go's Assembler",
+        "link": "https://go.dev/doc/asm",
+        "pubDate": "2026-11-05T22:07:32.000Z",
         "feedId": "lobsters"
       },
       {
         "title": "Reflections on Rust in the LLM Age — Bryan Cantrill | Rust NYC",
         "link": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
         "pubDate": "2026-11-05T17:32:18.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Can 23,000 quantum qubits break RSA-2048?",
+        "link": "https://www.bfswa.blog/p/can-23000-quantum-qubits-break-rsa",
+        "pubDate": "2026-11-05T17:22:48.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -193,7 +193,55 @@
     "id": "arstechnica",
     "items": [
       {
-        "title": "Is MAHA dying—or will it be reborn? What's next after crushing midterm losses?",
+        "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+        "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+        "pubDate": "2026-11-05T23:09:36.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+        "link": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
+        "pubDate": "2026-11-05T22:49:03.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Sony revives the original Walkman headphones, adds USB-C",
+        "link": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
+        "pubDate": "2026-11-05T21:56:36.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+        "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+        "pubDate": "2026-11-05T21:40:36.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+        "link": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+        "pubDate": "2026-11-05T21:39:40.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "BMW bumps battery for the better: The 2027 i7 60 xDrive, driven",
+        "link": "https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven/",
+        "pubDate": "2026-11-05T20:45:50.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
+        "link": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
+        "pubDate": "2026-11-05T19:59:22.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Kalshi court losses pile up as judges refuse to block state gambling laws",
+        "link": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
+        "pubDate": "2026-11-05T19:46:37.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "MAHA lost bigly in the midterms—is it at death's door?",
         "link": "https://arstechnica.com/health/2026/11/is-maha-dying-or-will-it-be-reborn-whats-next-after-crushing-midterm-losses/",
         "pubDate": "2026-11-05T18:49:41.000Z",
         "feedId": "arstechnica"
@@ -233,60 +281,54 @@
         "link": "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/",
         "pubDate": "2026-11-05T09:00:13.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
-        "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
-        "pubDate": "2026-11-04T22:47:51.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Hackers exploited iOS and Android flaws to infect phones",
-        "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
-        "pubDate": "2026-11-04T22:26:49.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Uranium cubes reveal why the German nuclear project failed",
-        "link": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-        "pubDate": "2026-11-04T21:56:29.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
-        "link": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
-        "pubDate": "2026-11-04T21:38:49.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "AMD's record quarter: Data center business doubles, while gaming craters",
-        "link": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
-        "pubDate": "2026-11-04T21:29:46.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
-        "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
-        "pubDate": "2026-11-04T20:55:50.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "After Texas' blue wave, what happens to Elon Musk and SpaceX?",
-        "link": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
-        "pubDate": "2026-11-04T20:36:05.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control",
-        "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-aims-to-put-another-republican-on-fcc-in-senates-lame-duck-session/",
-        "pubDate": "2026-11-04T19:08:23.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Trump says voters should blame themselves for stock market rout",
+        "link": "https://www.axios.com/2026/11/06/trump-stock-market-sell-off",
+        "pubDate": "2026-11-06T00:28:09.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Nvidia CEO called in by lawmakers over ties to alleged Chinese spy",
+        "link": "https://www.axios.com/2026/11/05/jensen-huang-nvidia-congress-china",
+        "pubDate": "2026-11-05T23:39:19.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump meets with national security team, says Iran war decision coming \"soon\"",
+        "link": "https://www.axios.com/2026/11/05/trump-iran-war-national-security-team-decision",
+        "pubDate": "2026-11-05T23:25:56.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Raman ousts Bass in LA mayor race for historic socialist win",
+        "link": "https://www.axios.com/2026/11/05/nithya-raman-la-mayor-upset-democratic-socialist",
+        "pubDate": "2026-11-05T21:36:01.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Epstein files back in spotlight after midterms",
+        "link": "https://www.axios.com/2026/11/05/epstein-files-vote-push-investigations",
+        "pubDate": "2026-11-05T21:27:58.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Newsom moves to empty California's death row as 2028 looms",
+        "link": "https://www.axios.com/2026/11/05/newsom-california-death-penalty-2028",
+        "pubDate": "2026-11-05T20:57:07.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Democrat locked in Deep South Senate stunner",
+        "link": "https://www.axios.com/2026/11/05/mississippi-senate-election-scott-colom-democrat",
+        "pubDate": "2026-11-05T20:46:28.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Black voters deliver a GOP reckoning",
         "link": "https://www.axios.com/2026/11/05/black-voters-democrats-2026-midterms-trump",
@@ -303,12 +345,6 @@
         "title": "Exit polls show young voters swinging back to Democrats after Trump's 2024 gains",
         "link": "https://www.axios.com/2026/11/05/gen-z-voters-2026-midterms-democrats-house",
         "pubDate": "2026-11-05T18:19:37.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Democrat locked in Deep South Senate stunner",
-        "link": "https://www.axios.com/2026/11/05/mississippi-senate-election-scott-colom-democrat",
-        "pubDate": "2026-11-05T17:56:34.000Z",
         "feedId": "axios"
       },
       {
@@ -339,42 +375,6 @@
         "title": "Democrats' big challenge on health care costs",
         "link": "https://www.axios.com/2026/11/05/democrats-health-affordability-challenge",
         "pubDate": "2026-11-05T10:30:07.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Tech giants turn to cash, concessions for AI rebrand after voters pummeled data centers 43-1",
-        "link": "https://www.axios.com/2026/11/05/ai-data-center-election-backlash-concessions",
-        "pubDate": "2026-11-05T10:30:07.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Why Pete Hegseth could fall through \"thin ice\"",
-        "link": "https://www.axios.com/2026/11/05/hegseth-impeachment-midterms-trump",
-        "pubDate": "2026-11-05T10:10:07.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "75% of Americans could have a Democratic governor",
-        "link": "https://www.axios.com/2026/11/05/2026-midterms-democrats-state-legislatures-trifectas",
-        "pubDate": "2026-11-05T10:01:04.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Dems' rout opens door to \"big test\" and a packed 2028 field",
-        "link": "https://www.axios.com/2026/11/05/democrats-factions-midterms-test-2028",
-        "pubDate": "2026-11-05T09:50:07.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "After midterm defeat, Trump faces mostly bad options in Iran",
-        "link": "https://www.axios.com/2026/11/05/trump-iran-war-midterm-defeat-bad-options",
-        "pubDate": "2026-11-05T00:57:18.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "House Democrats face epic power struggle over their massive majority",
-        "link": "https://www.axios.com/2026/11/05/house-democrats-jeffries-centrists-majority-left",
-        "pubDate": "2026-11-05T00:47:05.000Z",
         "feedId": "axios"
       }
     ]
