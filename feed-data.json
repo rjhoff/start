@@ -3,15 +3,57 @@
     "id": "hn",
     "items": [
       {
-        "title": "Inkling 2 Small",
-        "link": "https://thinkingmachines.ai/news/inkling-2-small/",
-        "pubDate": "2026-11-06T00:00:24.000Z",
+        "title": "Budget offers $50B jolt to help Canada double its electricity grid",
+        "link": "https://www.cbc.ca/news/politics/electricity-budget-new-money-9.7410949",
+        "pubDate": "2026-11-06T07:00:18.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data",
-        "link": "https://www.fgc.org.br/comunicado",
-        "pubDate": "2026-11-05T23:32:36.000Z",
+        "title": "Hugging Face's CEO Says His P(Doom) Is 'Close to Zero'",
+        "link": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+        "pubDate": "2026-11-06T06:06:33.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "I struggle to believe that AI R&D is ingenious",
+        "link": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+        "pubDate": "2026-11-06T05:19:04.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+        "link": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+        "pubDate": "2026-11-06T04:17:49.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Pwn.college",
+        "link": "https://pwn.college/",
+        "pubDate": "2026-11-06T03:27:14.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nvidia Kubernetes Engine (NVKE)",
+        "link": "https://github.com/dsx-ai-factory/nvke",
+        "pubDate": "2026-11-06T03:16:26.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Closed AI models dominate the price-performance frontier",
+        "link": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+        "pubDate": "2026-11-06T02:49:56.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
+        "link": "https://github.com/matthewmrichter/mooftcp",
+        "pubDate": "2026-11-06T00:54:15.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Inkling 2 Small",
+        "link": "https://thinkingmachines.ai/news/inkling-2-small/",
+        "pubDate": "2026-11-06T00:00:24.000Z",
         "feedId": "hn"
       },
       {
@@ -33,12 +75,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-        "link": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
-        "pubDate": "2026-11-05T20:21:43.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Search for everyone",
         "link": "https://kagi.com/changelog#11820",
         "pubDate": "2026-11-05T20:03:34.000Z",
@@ -51,45 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Introducing Pangram Image 1.0",
+        "title": "Pangram Image 1.0",
         "link": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
         "pubDate": "2026-11-05T19:27:52.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
-        "link": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
-        "pubDate": "2026-11-05T19:16:34.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Hackintosh Reborn",
-        "link": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-        "pubDate": "2026-11-05T19:08:22.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-        "link": "https://github.com/rivet-dev/rivet",
-        "pubDate": "2026-11-05T17:17:42.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-        "link": "https://www.ycombinator.com/companies/bild-ai/jobs",
-        "pubDate": "2026-11-05T17:01:23.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Window Sweaters",
-        "link": "https://github.com/saragordic/window-sweaters",
-        "pubDate": "2026-11-05T16:50:14.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "My psychophysics as a bilateral cochlear implant user",
-        "link": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
-        "pubDate": "2026-11-05T16:21:12.000Z",
         "feedId": "hn"
       }
     ]
@@ -104,21 +104,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "September in Servo: progress, rounded rectangles, and more",
-        "link": "https://servo.org/blog/2026/11/05/september-in-servo/",
-        "pubDate": "2026-11-05T13:47:56.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Software Line Specialist",
         "link": "https://lovro-bikic.github.io/software-line-specialist/",
         "pubDate": "2026-11-05T16:32:29.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Declarative Dragging",
-        "link": "https://declarative-dragging.github.io/",
-        "pubDate": "2026-11-05T00:35:09.000Z",
+        "title": "September in Servo: progress, rounded rectangles, and more",
+        "link": "https://servo.org/blog/2026/11/05/september-in-servo/",
+        "pubDate": "2026-11-05T13:47:56.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "X-87 - DOS 256 bytes",
+        "link": "https://www.onirom.fr/wiki/codegolf/x-87/",
+        "pubDate": "2026-11-06T00:16:07.000Z",
         "feedId": "lobsters"
       },
       {
@@ -128,9 +128,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Declarative Dragging",
+        "link": "https://declarative-dragging.github.io/",
+        "pubDate": "2026-11-05T00:35:09.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "A Look at Datastar",
         "link": "https://noteflakes.com/articles/2026-11-04-datastar",
         "pubDate": "2026-11-05T10:44:57.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I Go to Olympics of 4KB Coding",
+        "link": "https://inv.nadeko.net/watch?v=PeZNLvD4mds",
+        "pubDate": "2026-11-05T23:33:07.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Clojure Distilled",
+        "link": "https://yogthos.net/ClojureDistilled.html",
+        "pubDate": "2026-11-06T04:20:58.000Z",
         "feedId": "lobsters"
       },
       {
@@ -152,27 +170,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "11 nanoseconds per word: Ridiculously Over-Optimizing Anagrams",
-        "link": "https://wiredream.com/anagram-fun/",
-        "pubDate": "2026-11-05T07:37:35.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Your Cryptography Conspiracy Theory Is Wrong",
-        "link": "https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/",
-        "pubDate": "2026-11-04T14:58:11.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I Go to Olympics of 4KB Coding",
-        "link": "https://inv.nadeko.net/watch?v=PeZNLvD4mds",
-        "pubDate": "2026-11-05T23:33:07.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "A Quick Guide to Go's Assembler",
         "link": "https://go.dev/doc/asm",
         "pubDate": "2026-11-05T22:07:32.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "11 nanoseconds per word: Ridiculously Over-Optimizing Anagrams",
+        "link": "https://wiredream.com/anagram-fun/",
+        "pubDate": "2026-11-05T07:37:35.000Z",
         "feedId": "lobsters"
       },
       {
@@ -180,18 +186,18 @@
         "link": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
         "pubDate": "2026-11-05T17:32:18.000Z",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Can 23,000 quantum qubits break RSA-2048?",
-        "link": "https://www.bfswa.blog/p/can-23000-quantum-qubits-break-rsa",
-        "pubDate": "2026-11-05T17:22:48.000Z",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+        "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+        "pubDate": "2026-11-06T00:17:06.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
         "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
@@ -275,12 +281,6 @@
         "link": "https://arstechnica.com/gadgets/2026/11/ipad-mini-2026-review-maximizing-the-mini/",
         "pubDate": "2026-11-05T12:00:01.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
-        "link": "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/",
-        "pubDate": "2026-11-05T09:00:13.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,15 +288,27 @@
     "id": "axios",
     "items": [
       {
-        "title": "Trump says voters should blame themselves for stock market rout",
-        "link": "https://www.axios.com/2026/11/06/trump-stock-market-sell-off",
-        "pubDate": "2026-11-06T00:28:09.000Z",
+        "title": "Trump's  250-foot arch temporarily blocked by federal judge",
+        "link": "https://www.axios.com/local/washington-dc/2026/11/06/trump-arch-dc-arlington-cemetery-construction-lawsuits",
+        "pubDate": "2026-11-06T05:54:56.000Z",
         "feedId": "axios"
       },
       {
         "title": "Nvidia CEO called in by lawmakers over ties to alleged Chinese spy",
         "link": "https://www.axios.com/2026/11/05/jensen-huang-nvidia-congress-china",
-        "pubDate": "2026-11-05T23:39:19.000Z",
+        "pubDate": "2026-11-06T00:53:37.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "\"Never heard of them\": Meet the incoming House Dems who shocked even their own party",
+        "link": "https://www.axios.com/2026/11/06/house-democrats-nc-tennessee-new-members-wave",
+        "pubDate": "2026-11-06T00:43:45.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump says voters should blame themselves for stock market rout",
+        "link": "https://www.axios.com/2026/11/06/trump-stock-market-sell-off",
+        "pubDate": "2026-11-06T00:28:09.000Z",
         "feedId": "axios"
       },
       {
@@ -363,18 +375,6 @@
         "title": "Democrats' big win clouds the permitting picture",
         "link": "https://www.axios.com/2026/11/05/democrats-midterms-lame-duck-permitting-bill",
         "pubDate": "2026-11-05T13:41:23.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Vance takes a step toward 2028 in MAGA power play",
-        "link": "https://www.axios.com/2026/11/05/vance-maga-power-play-2028",
-        "pubDate": "2026-11-05T10:31:32.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Democrats' big challenge on health care costs",
-        "link": "https://www.axios.com/2026/11/05/democrats-health-affordability-challenge",
-        "pubDate": "2026-11-05T10:30:07.000Z",
         "feedId": "axios"
       }
     ]
