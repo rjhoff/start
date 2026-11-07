@@ -3,6 +3,42 @@
     "id": "hn",
     "items": [
       {
+        "title": "IRA Velinsky – Commodore's Industrial Designer",
+        "link": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
+        "pubDate": "2026-11-07T22:45:39.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Making any integer with four 2s (2025)",
+        "link": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+        "pubDate": "2026-11-07T22:38:58.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+        "link": "https://eyesrhythm.com/",
+        "pubDate": "2026-11-07T21:47:47.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "MeccanicOS",
+        "link": "https://meccanicos.com/",
+        "pubDate": "2026-11-07T21:13:44.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Shadow of the Sun (2021)",
+        "link": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
+        "pubDate": "2026-11-07T21:11:05.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+        "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+        "pubDate": "2026-11-07T20:45:32.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "What I run on my $10 USD OpenStick homelab",
         "link": "https://blog.bosscher.ch/posts/openstick/",
         "pubDate": "2026-11-07T18:12:12.000Z",
@@ -12,6 +48,12 @@
         "title": "The end of Microsoft Research's AI Frontiers group",
         "link": "https://hunch.net/?p=13764006",
         "pubDate": "2026-11-07T18:02:17.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
+        "link": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
+        "pubDate": "2026-11-07T17:54:56.000Z",
         "feedId": "hn"
       },
       {
@@ -49,48 +91,6 @@
         "link": "https://sheets.works/data-viz/cpu-dies",
         "pubDate": "2026-11-07T16:21:36.000Z",
         "feedId": "hn"
-      },
-      {
-        "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
-        "link": "https://kevinboone.me/tpwin.html",
-        "pubDate": "2026-11-07T16:06:27.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Terry Pratchett's Study",
-        "link": "https://www.sussi.dk/terry-pratchetts-study",
-        "pubDate": "2026-11-07T16:05:45.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-        "link": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-        "pubDate": "2026-11-07T15:16:01.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
-        "link": "https://news.ycombinator.com/item?id=50405250",
-        "pubDate": "2026-11-07T15:14:40.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf] (2016)",
-        "link": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
-        "pubDate": "2026-11-07T14:18:45.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The $8 Linux Computer (2022)",
-        "link": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-        "pubDate": "2026-11-07T14:00:20.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
-        "link": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
-        "pubDate": "2026-11-07T11:11:15.000Z",
-        "feedId": "hn"
       }
     ]
   },
@@ -101,6 +101,18 @@
         "title": "How are you dealing with all the negative side effects of AI on the web?",
         "link": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
         "pubDate": "2026-11-07T09:47:24.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "*sshole, or when are we finally going to get rid of C?",
+        "link": "https://sunshowers.io/posts/sshole/",
+        "pubDate": "2026-11-07T21:05:35.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Meridian — an experimental web browser built on Servo and GPUI",
+        "link": "https://op.tngl.io/meridian/",
+        "pubDate": "2026-11-07T09:21:55.000Z",
         "feedId": "lobsters"
       },
       {
@@ -116,9 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Meridian — an experimental web browser built on Servo and GPUI",
-        "link": "https://op.tngl.io/meridian/",
-        "pubDate": "2026-11-07T09:21:55.000Z",
+        "title": "OpenBSD top(1) adds flag to show chroot, pledge and unveil status",
+        "link": "https://undeadly.org/cgi?action=article;sid=20261106104957",
+        "pubDate": "2026-11-07T18:41:33.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "OpenBSD top(1) adds flag to show chroot, pledge and unveil status",
-        "link": "https://undeadly.org/cgi?action=article;sid=20261106104957",
-        "pubDate": "2026-11-07T18:41:33.000Z",
+        "title": "GhostMap: The Android flaw that crashes your phone before you open the app",
+        "link": "https://www.bitdefender.com/en-us/blog/labs/ghostmap-android",
+        "pubDate": "2026-11-07T18:12:57.000Z",
         "feedId": "lobsters"
       },
       {
@@ -152,39 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Just how far can the FOR UPDATE SKIP LOCKED Postgres queue go?",
-        "link": "https://garbagecollected.io/posts/postgres-task-queue-where-it-breaks/",
-        "pubDate": "2026-11-07T15:20:23.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "GhostMap: The Android flaw that crashes your phone before you open the app",
-        "link": "https://www.bitdefender.com/en-us/blog/labs/ghostmap-android",
-        "pubDate": "2026-11-07T18:12:57.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "The MustCreate Pattern for Go Tests",
         "link": "https://mtlynch.io/notes/go-must-create-pattern/",
         "pubDate": "2026-11-06T15:37:00.000Z",
         "feedId": "lobsters"
       },
       {
+        "title": "Workflow dependency lockfiles",
+        "link": "https://docs.github.com/en/actions/concepts/security/workflow-dependency-lockfiles",
+        "pubDate": "2026-11-07T20:27:05.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Alpine Linux : openssh-server password authentication bypass",
+        "link": "https://www.alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+        "pubDate": "2026-11-07T14:51:26.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Inside GitHub's new Git storage architecture",
         "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
         "pubDate": "2026-11-06T17:50:09.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Catching prompt injections hidden in PDFs",
-        "link": "https://tomclancy.info/joshua-judges-ruth.html",
-        "pubDate": "2026-11-07T19:34:01.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "UploadYourRam.org",
-        "link": "https://uploadyourram.org/",
-        "pubDate": "2026-11-07T00:00:06.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -288,9 +288,27 @@
     "id": "axios",
     "items": [
       {
+        "title": "\"Congress will investigate\": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties",
+        "link": "https://www.axios.com/2026/11/07/jensen-huang-nvidia-congress-china-spy",
+        "pubDate": "2026-11-07T21:06:38.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Netanyahu rival Eisenkot tapped to form Israeli government",
+        "link": "https://www.axios.com/2026/11/07/israel-eisenkot-netanyahu-government-herzog",
+        "pubDate": "2026-11-07T20:48:32.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump's \"war-time consigliere\" and the Miller Doctrine",
         "link": "https://www.axios.com/2026/11/07/stephen-miller-trump-chief-of-staff-style",
         "pubDate": "2026-11-07T13:43:44.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "In 5 states, Republicans may lose every statewide executive race on the ballot",
+        "link": "https://www.axios.com/2026/11/07/democrats-state-office-sweeps-2026",
+        "pubDate": "2026-11-07T12:30:07.000Z",
         "feedId": "axios"
       },
       {
@@ -357,24 +375,6 @@
         "title": "How Democrats will use their health oversight powers",
         "link": "https://www.axios.com/2026/11/06/democrats-oversight-trump-health-rfk",
         "pubDate": "2026-11-06T10:30:07.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Trump to keep fundraising, hoping to retain political muscle",
-        "link": "https://www.axios.com/2026/11/06/scoop-trump-to-keep-fundraising-hoping-to-retain-political-muscle",
-        "pubDate": "2026-11-06T10:30:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Democrats' blue wave leaves climate behind",
-        "link": "https://www.axios.com/2026/11/06/democrats-blue-wave-climate-silence",
-        "pubDate": "2026-11-06T10:15:05.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "White evangelicals lose electoral ground while religious nones expand their influence",
-        "link": "https://www.axios.com/2026/11/06/white-evangelicals-shrinking-electorate-republicans",
-        "pubDate": "2026-11-06T09:45:06.000Z",
         "feedId": "axios"
       }
     ]
