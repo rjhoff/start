@@ -3,27 +3,45 @@
     "id": "hn",
     "items": [
       {
+        "title": "The Components of Agent Memory",
+        "link": "https://www.anthropic.com/research/components-of-agent-memory",
+        "pubDate": "2026-11-07T06:39:04.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Asahi Linux Progress Linux 7.3",
+        "link": "https://asahilinux.org/2026/11/progress-report-7-3/",
+        "pubDate": "2026-11-07T05:20:18.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+        "link": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+        "pubDate": "2026-11-07T04:54:36.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "I toured Unitree's factory. I'm more bullish on the West",
+        "link": "https://josef.cn/blog/unitree",
+        "pubDate": "2026-11-07T01:05:16.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+        "link": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+        "pubDate": "2026-11-06T23:37:19.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Libghostty 1.0",
         "link": "https://mitchellh.com/writing/libghostty-1-0",
         "pubDate": "2026-11-06T23:30:52.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Outbound SIP calling is now available to all organizations",
-        "link": "https://developers.openai.com/api/docs/guides/voice-sip",
-        "pubDate": "2026-11-06T23:03:55.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Sodium-ion batteries approach cost parity with LFP",
         "link": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
         "pubDate": "2026-11-06T23:00:46.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-        "link": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
-        "pubDate": "2026-11-06T22:50:43.000Z",
         "feedId": "hn"
       },
       {
@@ -63,33 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Replit rebuilt its sandbox engine with microVMs",
-        "link": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
-        "pubDate": "2026-11-06T19:06:10.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "40C3 halfnarp – Submit talk preferences to aid scheduling",
-        "link": "https://halfnarp.events.ccc.de",
-        "pubDate": "2026-11-06T18:16:43.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Memorilla: Latent Semantic Memory for LLMs",
-        "link": "https://arxiv.org/abs/2610.21375",
-        "pubDate": "2026-11-06T18:03:33.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Size-It-Up (Game)",
-        "link": "https://magnitudle.com/size-it-up",
-        "pubDate": "2026-11-06T17:59:59.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Devvm.dev: One VM for every project",
         "link": "https://devvm.dev/",
         "pubDate": "2026-11-06T17:30:22.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Notes on San Marino",
+        "link": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
+        "pubDate": "2026-11-06T17:12:05.000Z",
         "feedId": "hn"
       }
     ]
@@ -98,51 +98,15 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Making musl and proprietary NVIDIA drivers work together",
-        "link": "https://chimera-linux.org/news/2026/11/musl-nvidia.html",
-        "pubDate": "2026-11-06T13:23:14.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The MustCreate Pattern for Go Tests",
-        "link": "https://mtlynch.io/notes/go-must-create-pattern/",
-        "pubDate": "2026-11-06T15:37:00.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Libghostty 1.0",
         "link": "https://mitchellh.com/writing/libghostty-1-0",
         "pubDate": "2026-11-06T23:48:03.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Inside GitHub's new Git storage architecture",
-        "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-        "pubDate": "2026-11-06T17:50:09.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/jmdchp/what_are_you_doing_this_weekend",
-        "pubDate": "2026-11-06T09:15:23.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Upgrading NetBSD from 11.0 to 11.1",
-        "link": "https://www.dwarmstrong.org/netbsd-upgrade/",
-        "pubDate": "2026-11-06T15:22:55.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "sshhole",
-        "link": "https://sshhole.com/",
-        "pubDate": "2026-11-05T12:24:42.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Software Line Specialist",
-        "link": "https://lovro-bikic.github.io/software-line-specialist/",
-        "pubDate": "2026-11-05T16:32:29.000Z",
+        "title": "Making musl and proprietary NVIDIA drivers work together",
+        "link": "https://chimera-linux.org/news/2026/11/musl-nvidia.html",
+        "pubDate": "2026-11-06T13:23:14.000Z",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +116,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Nondeterminism in Futhark",
-        "link": "https://futhark-lang.org/blog/2026-11-04-nondeterminism.html",
-        "pubDate": "2026-11-06T19:16:01.000Z",
+        "title": "The MustCreate Pattern for Go Tests",
+        "link": "https://mtlynch.io/notes/go-must-create-pattern/",
+        "pubDate": "2026-11-06T15:37:00.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Scriptable GeoDNS: leaving AWS for Bunny",
+        "link": "https://vincent.bernat.ch/en/blog/2026-bunny-geodns",
+        "pubDate": "2026-11-07T07:46:35.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Inside GitHub's new Git storage architecture",
+        "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+        "pubDate": "2026-11-06T17:50:09.000Z",
         "feedId": "lobsters"
       },
       {
@@ -164,9 +140,39 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Clojure Distilled",
-        "link": "https://yogthos.net/ClojureDistilled.html",
-        "pubDate": "2026-11-06T04:20:58.000Z",
+        "title": "Upgrading NetBSD from 11.0 to 11.1",
+        "link": "https://www.dwarmstrong.org/netbsd-upgrade/",
+        "pubDate": "2026-11-06T15:22:55.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/jmdchp/what_are_you_doing_this_weekend",
+        "pubDate": "2026-11-06T09:15:23.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Progress Report: Linux 7.3 - Asahi Linux",
+        "link": "https://asahilinux.org/2026/11/progress-report-7-3/",
+        "pubDate": "2026-11-07T06:02:38.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Nondeterminism in Futhark",
+        "link": "https://futhark-lang.org/blog/2026-11-04-nondeterminism.html",
+        "pubDate": "2026-11-06T19:16:01.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "sshhole",
+        "link": "https://sshhole.com/",
+        "pubDate": "2026-11-05T12:24:42.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "UploadYourRam.org",
+        "link": "https://uploadyourram.org/",
+        "pubDate": "2026-11-07T00:00:06.000Z",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How we continuously validate formal specifications in production",
-        "link": "https://www.datadoghq.com/blog/engineering/continuous-formal-spec-validation/",
-        "pubDate": "2026-11-06T18:00:07.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Pushing the Limits with getaddrinfo",
-        "link": "https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/",
-        "pubDate": "2026-11-06T14:47:48.000Z",
+        "title": "Software Line Specialist",
+        "link": "https://lovro-bikic.github.io/software-line-specialist/",
+        "pubDate": "2026-11-05T16:32:29.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -193,7 +193,7 @@
     "id": "arstechnica",
     "items": [
       {
-        "title": "Man unexpectedly recovers from a knife wound through his eye and brain",
+        "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
         "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
         "pubDate": "2026-11-06T23:09:45.000Z",
         "feedId": "arstechnica"
