@@ -3,27 +3,81 @@
     "id": "hn",
     "items": [
       {
-        "title": "Top Astrophysicist Leaves U.S.",
-        "link": "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html",
-        "pubDate": "2026-11-08T16:17:38.000Z",
+        "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+        "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+        "pubDate": "2026-11-08T20:26:43.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
-        "link": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
-        "pubDate": "2026-11-08T16:07:42.000Z",
+        "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+        "link": "https://www.spacex.com/launches/starship-flight-15",
+        "pubDate": "2026-11-08T19:49:46.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Drones built to look like birds evaded detection at Air Force tech exercise",
-        "link": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
-        "pubDate": "2026-11-08T15:00:42.000Z",
+        "title": "The Web Is More Than Enough, by Paul Ford",
+        "link": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+        "pubDate": "2026-11-08T19:48:32.000Z",
         "feedId": "hn"
       },
       {
-        "title": "OpenAI raises $11B at a $1.25T valuation",
-        "link": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
-        "pubDate": "2026-11-08T14:49:23.000Z",
+        "title": "How I Fight AI Brain Fry",
+        "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+        "pubDate": "2026-11-08T19:37:42.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+        "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+        "pubDate": "2026-11-08T19:20:32.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+        "link": "https://duxlabs.dev/",
+        "pubDate": "2026-11-08T19:08:51.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+        "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+        "pubDate": "2026-11-08T18:43:07.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
+        "link": "https://kevinboone.me/cpmzork.html",
+        "pubDate": "2026-11-08T18:33:50.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+        "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+        "pubDate": "2026-11-08T18:16:07.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
+        "link": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
+        "pubDate": "2026-11-08T17:32:55.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+        "link": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+        "pubDate": "2026-11-08T17:20:29.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "A Little Snitch for Windows",
+        "link": "https://packethound.app/",
+        "pubDate": "2026-11-08T17:16:07.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "A field guide to CAPTCHA types and how they break",
+        "link": "https://github.com/vsmutok/FuckCaptcha",
+        "pubDate": "2026-11-08T17:09:55.000Z",
         "feedId": "hn"
       },
       {
@@ -36,60 +90,6 @@
         "title": "How to prove equations using diagrams, part 1",
         "link": "https://www.epatters.org/post/e-graphs-1/",
         "pubDate": "2026-11-08T12:51:38.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Person of Interest",
-        "link": "https://krthr.co/person-of-interest/",
-        "pubDate": "2026-11-08T11:23:28.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Petered",
-        "link": "https://aworkinglibrary.com/writing/petered",
-        "pubDate": "2026-11-08T10:56:43.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "JIT bitmap text rendering for microcontrollers",
-        "link": "https://linebender.org/blog/jit-bitmap-text/",
-        "pubDate": "2026-11-08T10:42:15.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Writing as a thinking tool",
-        "link": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-        "pubDate": "2026-11-08T10:41:52.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-        "link": "https://github.com/synchopate/llama-modchip",
-        "pubDate": "2026-11-08T10:22:04.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Agent memory needs its OpenTelemetry moment",
-        "link": "https://www.lorekit.io/blog/open-agent-memory-format",
-        "pubDate": "2026-11-08T08:40:23.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
-        "link": "https://github.com/dmunozv04/isponsorblocktv",
-        "pubDate": "2026-11-08T03:47:19.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Goodbye Claude, hello Pi",
-        "link": "https://caleb.software/posts/claude-to-pi.html",
-        "pubDate": "2026-11-08T03:11:48.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Making any integer with four 2s (2025)",
-        "link": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-        "pubDate": "2026-11-07T22:38:58.000Z",
         "feedId": "hn"
       }
     ]
@@ -116,15 +116,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "I’m not a fan of Deno’s security model (2024)",
-        "link": "https://goldstein.lol/posts/deno-security/",
-        "pubDate": "2026-11-07T23:19:53.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Introducing Project Steadfast",
-        "link": "https://noteflakes.com/articles/2026-11-07-introducing-project-steadfast",
-        "pubDate": "2026-11-08T09:09:24.000Z",
+        "title": "Unattended reboots with encrypted disks",
+        "link": "https://jmmv.dev/2026/11/zkeys-intro.html",
+        "pubDate": "2026-11-08T16:58:03.000Z",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +128,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "I’m not a fan of Deno’s security model (2024)",
+        "link": "https://goldstein.lol/posts/deno-security/",
+        "pubDate": "2026-11-07T23:19:53.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
+        "link": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+        "pubDate": "2026-11-08T17:07:51.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Nspawn 3.0: A Docker-compatible Engine API for systemd-nspawn containers",
         "link": "https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/",
         "pubDate": "2026-11-08T08:41:38.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Introducing Project Steadfast",
+        "link": "https://noteflakes.com/articles/2026-11-07-introducing-project-steadfast",
+        "pubDate": "2026-11-08T09:09:24.000Z",
         "feedId": "lobsters"
       },
       {
@@ -152,27 +164,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Meridian — an experimental web browser built on Servo and GPUI",
-        "link": "https://op.tngl.io/meridian/",
-        "pubDate": "2026-11-07T09:21:55.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Unattended reboots with encrypted disks",
-        "link": "https://jmmv.dev/2026/11/zkeys-intro.html",
-        "pubDate": "2026-11-08T16:58:03.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Following breadcrumbs in code - What accidentally committed Ad-Hoc logs reveal about developer comprehension",
-        "link": "https://link.springer.com/article/10.1007/s10664-026-10988-z",
-        "pubDate": "2026-11-08T13:21:22.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "*sshole, or when are we finally going to get rid of C?",
-        "link": "https://sunshowers.io/posts/sshole/",
-        "pubDate": "2026-11-07T21:05:35.000Z",
+        "title": "Optimizing reference deletions in Git",
+        "link": "https://nayak.im/posts/optimizing-reference-deletion/",
+        "pubDate": "2026-11-08T21:37:53.000Z",
         "feedId": "lobsters"
       },
       {
@@ -185,6 +179,12 @@
         "title": "Hacking the T-Mobile Sidekick, 20 Years Too Late",
         "link": "https://x86.cx/blog/redanger",
         "pubDate": "2026-11-08T08:10:08.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "*sshole, or when are we finally going to get rid of C?",
+        "link": "https://sunshowers.io/posts/sshole/",
+        "pubDate": "2026-11-07T21:05:35.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,24 @@
     "id": "axios",
     "items": [
       {
+        "title": "Blanche dismisses Means allegations as GOP's MAHA feud deepens",
+        "link": "https://www.axios.com/2026/11/08/todd-blanche-calley-means-susie-wiles-maha-allegations",
+        "pubDate": "2026-11-08T21:12:24.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang admits affair, board to launch investigation",
+        "link": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation",
+        "pubDate": "2026-11-08T20:14:05.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: Trump asked Netanyahu to move on Gaza peace plan in post-election call",
+        "link": "https://www.axios.com/2026/11/08/trump-netanyahu-implement-gaza-peace-plan",
+        "pubDate": "2026-11-08T17:59:28.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump's AG won't rule out prosecuting Democrats who threaten to investigate",
         "link": "https://www.axios.com/2026/11/08/todd-blanche-doj-prosecuting-democrats-oversight",
         "pubDate": "2026-11-08T17:07:33.000Z",
@@ -357,24 +375,6 @@
         "title": "Colom and Hyde-Smith's razor-thin Senate race spotlights Mississippi's voter rolls",
         "link": "https://www.axios.com/2026/11/06/mississippi-colom-hyde-smith-inactive-voter-registrations",
         "pubDate": "2026-11-06T20:26:01.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Navajo Nation elects its first woman president as political battles loom",
-        "link": "https://www.axios.com/2026/11/06/navajo-nation-first-woman-president-tribe",
-        "pubDate": "2026-11-06T19:53:41.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Ex-RFK Jr. adviser says Trump admin corruption prompted resignation",
-        "link": "https://www.axios.com/2026/11/06/trump-joe-rogan-calley-means",
-        "pubDate": "2026-11-06T18:52:51.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "House Democrats \"inundated\" with calls telling them not to elect Jeffries speaker",
-        "link": "https://www.axios.com/2026/11/06/jeffries-speaker-democrats-house-calls-petition",
-        "pubDate": "2026-11-06T18:46:42.000Z",
         "feedId": "axios"
       }
     ]
