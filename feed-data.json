@@ -3,13 +3,49 @@
     "id": "hn",
     "items": [
       {
+        "title": "Top Astrophysicist Leaves U.S.",
+        "link": "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html",
+        "pubDate": "2026-11-08T16:17:38.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
+        "link": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
+        "pubDate": "2026-11-08T16:07:42.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Drones built to look like birds evaded detection at Air Force tech exercise",
+        "link": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
+        "pubDate": "2026-11-08T15:00:42.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "OpenAI raises $11B at a $1.25T valuation",
+        "link": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+        "pubDate": "2026-11-08T14:49:23.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "I'm not a fan of Deno's security model (2024)",
+        "link": "https://goldstein.lol/posts/deno-security/",
+        "pubDate": "2026-11-08T14:42:38.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "How to prove equations using diagrams, part 1",
+        "link": "https://www.epatters.org/post/e-graphs-1/",
+        "pubDate": "2026-11-08T12:51:38.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Person of Interest",
         "link": "https://krthr.co/person-of-interest/",
         "pubDate": "2026-11-08T11:23:28.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Petered (what happens after the Peter Principle)",
+        "title": "Petered",
         "link": "https://aworkinglibrary.com/writing/petered",
         "pubDate": "2026-11-08T10:56:43.000Z",
         "feedId": "hn"
@@ -21,21 +57,15 @@
         "feedId": "hn"
       },
       {
+        "title": "Writing as a thinking tool",
+        "link": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+        "pubDate": "2026-11-08T10:41:52.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
         "link": "https://github.com/synchopate/llama-modchip",
         "pubDate": "2026-11-08T10:22:04.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "GitHub Down Again?",
-        "link": "https://github.com/torvalds/linux",
-        "pubDate": "2026-11-08T09:56:07.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "I'm Rewriting IBM SPSS Statistics in 100% Safe Rust, Alone",
-        "link": "https://github.com/kobaltgit/StatCraft",
-        "pubDate": "2026-11-08T08:53:43.000Z",
         "feedId": "hn"
       },
       {
@@ -45,45 +75,15 @@
         "feedId": "hn"
       },
       {
-        "title": "WaveDudeNext 2D Wave Simulator",
-        "link": "https://github.com/graealex/WaveDudeNext",
-        "pubDate": "2026-11-08T07:09:02.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kirlian Photography: Building Your Own Equipment",
-        "link": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
-        "pubDate": "2026-11-08T04:14:12.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
         "link": "https://github.com/dmunozv04/isponsorblocktv",
         "pubDate": "2026-11-08T03:47:19.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Goodbye Claude, Hello Pi",
+        "title": "Goodbye Claude, hello Pi",
         "link": "https://caleb.software/posts/claude-to-pi.html",
         "pubDate": "2026-11-08T03:11:48.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Consumer brain wave headsets threaten privacy",
-        "link": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
-        "pubDate": "2026-11-08T02:02:38.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
-        "link": "https://github.com/crmne/zapfast",
-        "pubDate": "2026-11-08T02:02:27.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "GitHub New pull request overview page in public preview",
-        "link": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-        "pubDate": "2026-11-07T23:09:40.000Z",
         "feedId": "hn"
       },
       {
@@ -98,15 +98,21 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Nspawn 3.0: A Docker-compatible Engine API for systemd-nspawn containers",
-        "link": "https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/",
-        "pubDate": "2026-11-08T08:41:38.000Z",
+        "title": "systemd loves Rust",
+        "link": "https://amutable.com/blog/systemd-loves-rust",
+        "pubDate": "2026-11-08T12:55:05.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "How are you dealing with all the negative side effects of AI on the web?",
-        "link": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
-        "pubDate": "2026-11-07T09:47:24.000Z",
+        "title": "Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
+        "link": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
+        "pubDate": "2026-11-08T16:36:17.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A bit about email",
+        "link": "https://maurycyz.com/misc/email/",
+        "pubDate": "2026-11-08T12:53:34.000Z",
         "feedId": "lobsters"
       },
       {
@@ -122,6 +128,24 @@
         "feedId": "lobsters"
       },
       {
+        "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+        "link": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+        "pubDate": "2026-11-08T12:07:39.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Nspawn 3.0: A Docker-compatible Engine API for systemd-nspawn containers",
+        "link": "https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/",
+        "pubDate": "2026-11-08T08:41:38.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How are you dealing with all the negative side effects of AI on the web?",
+        "link": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
+        "pubDate": "2026-11-07T09:47:24.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Dear Open Source Developers: It's OK not to embargo",
         "link": "https://opensourcesecurity.io/2026/10-embargo/",
         "pubDate": "2026-11-07T23:31:05.000Z",
@@ -134,45 +158,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Unattended reboots with encrypted disks",
+        "link": "https://jmmv.dev/2026/11/zkeys-intro.html",
+        "pubDate": "2026-11-08T16:58:03.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Following breadcrumbs in code - What accidentally committed Ad-Hoc logs reveal about developer comprehension",
+        "link": "https://link.springer.com/article/10.1007/s10664-026-10988-z",
+        "pubDate": "2026-11-08T13:21:22.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "*sshole, or when are we finally going to get rid of C?",
         "link": "https://sunshowers.io/posts/sshole/",
         "pubDate": "2026-11-07T21:05:35.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Libghostty 1.0",
-        "link": "https://mitchellh.com/writing/libghostty-1-0",
-        "pubDate": "2026-11-06T23:48:03.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Scriptable GeoDNS: leaving AWS for Bunny",
-        "link": "https://vincent.bernat.ch/en/blog/2026-bunny-geodns",
-        "pubDate": "2026-11-07T07:46:35.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "OpenBSD top(1) adds flag to show chroot, pledge and unveil status",
-        "link": "https://undeadly.org/cgi?action=article;sid=20261106104957",
-        "pubDate": "2026-11-07T18:41:33.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Progress Report: Linux 7.3 - Asahi Linux",
-        "link": "https://asahilinux.org/2026/11/progress-report-7-3/",
-        "pubDate": "2026-11-07T06:02:38.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Port That Does Not Exist",
-        "link": "https://acid.vegas/blog/the-port-that-does-not-exist/",
-        "pubDate": "2026-11-06T23:03:12.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Two Dimensional Version Control",
-        "link": "https://www.redblobgames.com/blog/2026-09-27-jujutsu-experience/",
-        "pubDate": "2026-11-07T08:21:50.000Z",
+        "title": "Playing with the STM32MP2",
+        "link": "https://serd.es///2026/11/08/playing-with-stm32mp2.html",
+        "pubDate": "2026-11-08T17:12:00.000Z",
         "feedId": "lobsters"
       },
       {
@@ -180,18 +186,18 @@
         "link": "https://x86.cx/blog/redanger",
         "pubDate": "2026-11-08T08:10:08.000Z",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Catching prompt injections hidden in PDFs",
-        "link": "https://tomclancy.info/joshua-judges-ruth.html",
-        "pubDate": "2026-11-07T19:34:01.000Z",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+        "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+        "pubDate": "2026-11-08T12:15:31.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
         "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
@@ -275,18 +281,30 @@
         "link": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
         "pubDate": "2026-11-06T17:06:32.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Could potential AI clones of GTA VI force a quicker official port?",
-        "link": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
-        "pubDate": "2026-11-06T16:19:12.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Trump's AG won't rule out prosecuting Democrats who threaten to investigate",
+        "link": "https://www.axios.com/2026/11/08/todd-blanche-doj-prosecuting-democrats-oversight",
+        "pubDate": "2026-11-08T17:07:33.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Behind the Curtain: Texas is the #1 story of America",
+        "link": "https://www.axios.com/2026/11/08/behind-the-curtain-texas-democrats-2026",
+        "pubDate": "2026-11-08T14:18:01.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "House poised to impeach Pete Hegseth after GOP midterm defeat",
+        "link": "https://www.axios.com/2026/11/08/pete-hegseth-impeachment-house-republicans-massie",
+        "pubDate": "2026-11-08T12:45:05.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "\"Congress will investigate\": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties",
         "link": "https://www.axios.com/2026/11/07/jensen-huang-nvidia-congress-china-spy",
@@ -357,24 +375,6 @@
         "title": "House Democrats \"inundated\" with calls telling them not to elect Jeffries speaker",
         "link": "https://www.axios.com/2026/11/06/jeffries-speaker-democrats-house-calls-petition",
         "pubDate": "2026-11-06T18:46:42.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "How AI is enabling faster, more dangerous cyber warfare",
-        "link": "https://www.axios.com/2026/11/06/ai-government-hackers-fridge-hacks",
-        "pubDate": "2026-11-06T12:15:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Normal Americans taught an election lesson — again",
-        "link": "https://www.axios.com/2026/11/06/midterms-results-trump-iran-corruption",
-        "pubDate": "2026-11-06T10:37:48.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "How Democrats will use their health oversight powers",
-        "link": "https://www.axios.com/2026/11/06/democrats-oversight-trump-health-rfk",
-        "pubDate": "2026-11-06T10:30:07.000Z",
         "feedId": "axios"
       }
     ]
