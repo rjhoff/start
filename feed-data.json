@@ -3,13 +3,55 @@
     "id": "hn",
     "items": [
       {
+        "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+        "link": "https://arxiv.org/abs/2610.14162",
+        "pubDate": "2026-11-09T07:20:37.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+        "link": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+        "pubDate": "2026-11-09T07:04:25.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+        "link": "https://github.com/OmniJev/Flide",
+        "pubDate": "2026-11-09T04:43:12.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "A Critique of GPUI",
+        "link": "https://blog.zortax.de/posts/a-critique-of-gpui",
+        "pubDate": "2026-11-09T03:51:10.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Qlobe: Rotating Quine (2010)",
+        "link": "http://mamememo.blogspot.com/2010/09/qlobe.html",
+        "pubDate": "2026-11-09T03:15:17.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "RIP, Harvest",
+        "link": "https://aphyr.com/posts/427-rip-harvest",
+        "pubDate": "2026-11-09T01:58:21.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Unlocking any car from X brand in most of the world",
         "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
         "pubDate": "2026-11-09T00:10:50.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
+        "title": "I'm not convinced the AI bubble exists",
+        "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+        "pubDate": "2026-11-08T23:44:36.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "When a language's creator and its owners strongly disagree [pdf]",
         "link": "https://isocpp.org/files/papers/P4454R0.pdf",
         "pubDate": "2026-11-08T23:28:01.000Z",
         "feedId": "hn"
@@ -28,7 +70,7 @@
       },
       {
         "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-        "link": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+        "link": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
         "pubDate": "2026-11-08T22:20:09.000Z",
         "feedId": "hn"
       },
@@ -36,18 +78,6 @@
         "title": "Ask HN: What are you working on? (November 2026)",
         "link": "https://news.ycombinator.com/item?id=50417407",
         "pubDate": "2026-11-08T21:20:20.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
-        "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-        "pubDate": "2026-11-08T20:26:43.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
-        "link": "https://www.spacex.com/launches/starship-flight-15",
-        "pubDate": "2026-11-08T19:49:46.000Z",
         "feedId": "hn"
       },
       {
@@ -61,36 +91,6 @@
         "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
         "pubDate": "2026-11-08T19:37:42.000Z",
         "feedId": "hn"
-      },
-      {
-        "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
-        "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-        "pubDate": "2026-11-08T19:20:32.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-        "link": "https://duxlabs.dev/",
-        "pubDate": "2026-11-08T19:08:51.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Playing with the STM32MP2",
-        "link": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
-        "pubDate": "2026-11-08T19:04:07.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
-        "link": "https://kevinboone.me/cpmzork.html",
-        "pubDate": "2026-11-08T18:33:50.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-        "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-        "pubDate": "2026-11-08T18:16:07.000Z",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,15 +98,9 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "systemd loves Rust",
-        "link": "https://amutable.com/blog/systemd-loves-rust",
-        "pubDate": "2026-11-08T12:55:05.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
-        "link": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
-        "pubDate": "2026-11-08T16:36:17.000Z",
+        "title": "How Much Energy Does Building Distro Packages Use",
+        "link": "https://www.wezm.net/v2/posts/2026/distro-energy-use/",
+        "pubDate": "2026-11-09T06:44:59.000Z",
         "feedId": "lobsters"
       },
       {
@@ -116,15 +110,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A bit about email",
-        "link": "https://maurycyz.com/misc/email/",
-        "pubDate": "2026-11-08T12:53:34.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
-        "link": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
-        "pubDate": "2026-11-08T17:07:51.000Z",
+        "title": "systemd loves Rust",
+        "link": "https://amutable.com/blog/systemd-loves-rust",
+        "pubDate": "2026-11-08T12:55:05.000Z",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +122,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "NetBSD 11 desktop on a Raspberry Pi 4",
-        "link": "https://neongd.com/articles/netbsd11-rpi4.gmi",
-        "pubDate": "2026-11-08T12:07:39.000Z",
+        "title": "unlocking any car from X brand in most of the world",
+        "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+        "pubDate": "2026-11-09T04:43:15.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "I’m not a fan of Deno’s security model (2024)",
-        "link": "https://goldstein.lol/posts/deno-security/",
-        "pubDate": "2026-11-07T23:19:53.000Z",
+        "title": "A bit about email",
+        "link": "https://maurycyz.com/misc/email/",
+        "pubDate": "2026-11-08T12:53:34.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Sem86: a full-system x86 emulator without hardcoded semantics",
+        "link": "https://liblisa.nl/sem86/",
+        "pubDate": "2026-11-09T02:44:11.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Microsecond accurate NTP with a Raspberry Pi and PPS GPS(2021)",
+        "link": "https://austinsnerdythings.com/2021/04/19/microsecond-accurate-ntp-with-a-raspberry-pi-and-pps-gps/",
+        "pubDate": "2026-11-09T06:25:20.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
+        "link": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+        "pubDate": "2026-11-08T17:07:51.000Z",
         "feedId": "lobsters"
       },
       {
@@ -152,21 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Nspawn 3.0: A Docker-compatible Engine API for systemd-nspawn containers",
-        "link": "https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/",
-        "pubDate": "2026-11-08T08:41:38.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "I Dislike Pull Requests (2020)",
         "link": "https://medium.com/@pia.fak.sunnanbo/i-hate-pull-requests-17836dd3cc38",
         "pubDate": "2026-11-08T23:10:34.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Introducing Project Steadfast",
-        "link": "https://noteflakes.com/articles/2026-11-07-introducing-project-steadfast",
-        "pubDate": "2026-11-08T09:09:24.000Z",
+        "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+        "link": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+        "pubDate": "2026-11-08T12:07:39.000Z",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Playing with the STM32MP2",
-        "link": "https://serd.es///2026/11/08/playing-with-stm32mp2.html",
-        "pubDate": "2026-11-08T17:12:00.000Z",
+        "title": "Nspawn 3.0: A Docker-compatible Engine API for systemd-nspawn containers",
+        "link": "https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/",
+        "pubDate": "2026-11-08T08:41:38.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "How are you dealing with all the negative side effects of AI on the web?",
-        "link": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
-        "pubDate": "2026-11-07T09:47:24.000Z",
+        "title": "I’m not a fan of Deno’s security model (2024)",
+        "link": "https://goldstein.lol/posts/deno-security/",
+        "pubDate": "2026-11-07T23:19:53.000Z",
         "feedId": "lobsters"
       }
     ]
