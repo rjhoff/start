@@ -3,6 +3,42 @@
     "id": "hn",
     "items": [
       {
+        "title": "Unlocking any car from X brand in most of the world",
+        "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+        "pubDate": "2026-11-09T00:10:50.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
+        "link": "https://isocpp.org/files/papers/P4454R0.pdf",
+        "pubDate": "2026-11-08T23:28:01.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Chimera Vocal Synth",
+        "link": "https://chimera-vocal-synth.vercel.app/",
+        "pubDate": "2026-11-08T22:36:03.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+        "link": "https://ketchup3d.github.io/app/",
+        "pubDate": "2026-11-08T22:35:35.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+        "link": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+        "pubDate": "2026-11-08T22:20:09.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ask HN: What are you working on? (November 2026)",
+        "link": "https://news.ycombinator.com/item?id=50417407",
+        "pubDate": "2026-11-08T21:20:20.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
         "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
         "pubDate": "2026-11-08T20:26:43.000Z",
@@ -39,9 +75,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-        "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-        "pubDate": "2026-11-08T18:43:07.000Z",
+        "title": "Playing with the STM32MP2",
+        "link": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+        "pubDate": "2026-11-08T19:04:07.000Z",
         "feedId": "hn"
       },
       {
@@ -51,45 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+        "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
         "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
         "pubDate": "2026-11-08T18:16:07.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
-        "link": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
-        "pubDate": "2026-11-08T17:32:55.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
-        "link": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
-        "pubDate": "2026-11-08T17:20:29.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "A Little Snitch for Windows",
-        "link": "https://packethound.app/",
-        "pubDate": "2026-11-08T17:16:07.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "A field guide to CAPTCHA types and how they break",
-        "link": "https://github.com/vsmutok/FuckCaptcha",
-        "pubDate": "2026-11-08T17:09:55.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "I'm not a fan of Deno's security model (2024)",
-        "link": "https://goldstein.lol/posts/deno-security/",
-        "pubDate": "2026-11-08T14:42:38.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "How to prove equations using diagrams, part 1",
-        "link": "https://www.epatters.org/post/e-graphs-1/",
-        "pubDate": "2026-11-08T12:51:38.000Z",
         "feedId": "hn"
       }
     ]
@@ -110,15 +110,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Unattended reboots with encrypted disks",
+        "link": "https://jmmv.dev/2026/11/zkeys-intro.html",
+        "pubDate": "2026-11-08T16:58:03.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "A bit about email",
         "link": "https://maurycyz.com/misc/email/",
         "pubDate": "2026-11-08T12:53:34.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Unattended reboots with encrypted disks",
-        "link": "https://jmmv.dev/2026/11/zkeys-intro.html",
-        "pubDate": "2026-11-08T16:58:03.000Z",
+        "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
+        "link": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+        "pubDate": "2026-11-08T17:07:51.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Herb Sutter: When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward",
+        "link": "https://isocpp.org/files/papers/P4454R0.pdf",
+        "pubDate": "2026-11-08T21:59:26.000Z",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
-        "link": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
-        "pubDate": "2026-11-08T17:07:51.000Z",
+        "title": "Virtualized Redox: from Virtio-FS to Cloud Hypervisor, and beyond",
+        "link": "https://www.redox-os.org/news/virtualized-redox/",
+        "pubDate": "2026-11-08T21:06:06.000Z",
         "feedId": "lobsters"
       },
       {
@@ -146,21 +158,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "I Dislike Pull Requests (2020)",
+        "link": "https://medium.com/@pia.fak.sunnanbo/i-hate-pull-requests-17836dd3cc38",
+        "pubDate": "2026-11-08T23:10:34.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Introducing Project Steadfast",
         "link": "https://noteflakes.com/articles/2026-11-07-introducing-project-steadfast",
         "pubDate": "2026-11-08T09:09:24.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How are you dealing with all the negative side effects of AI on the web?",
-        "link": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
-        "pubDate": "2026-11-07T09:47:24.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Dear Open Source Developers: It's OK not to embargo",
-        "link": "https://opensourcesecurity.io/2026/10-embargo/",
-        "pubDate": "2026-11-07T23:31:05.000Z",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Hacking the T-Mobile Sidekick, 20 Years Too Late",
-        "link": "https://x86.cx/blog/redanger",
-        "pubDate": "2026-11-08T08:10:08.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "*sshole, or when are we finally going to get rid of C?",
-        "link": "https://sunshowers.io/posts/sshole/",
-        "pubDate": "2026-11-07T21:05:35.000Z",
+        "title": "How are you dealing with all the negative side effects of AI on the web?",
+        "link": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
+        "pubDate": "2026-11-07T09:47:24.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,30 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump backs Nvidia's Huang amid affair, spy investigation",
+        "link": "https://www.axios.com/2026/11/09/trump-jensen-huang-nvidia",
+        "pubDate": "2026-11-09T00:00:35.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: Mamdani's bid for 2028 kingmaker",
+        "link": "https://www.axios.com/2026/11/08/scoop-mamdanis-bid-for-2028-kingmaker",
+        "pubDate": "2026-11-08T23:15:49.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Republicans eye Florida's \"Alligator People\" for 2028",
+        "link": "https://www.axios.com/2026/11/08/florida-desantis-rubio-2028",
+        "pubDate": "2026-11-08T22:40:04.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "MAGA castoffs plot 2028 spoiler bid",
+        "link": "https://www.axios.com/2026/11/08/massie-president-2028-libertarian",
+        "pubDate": "2026-11-08T22:30:06.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "Blanche dismisses Means allegations as GOP's MAHA feud deepens",
         "link": "https://www.axios.com/2026/11/08/todd-blanche-calley-means-susie-wiles-maha-allegations",
         "pubDate": "2026-11-08T21:12:24.000Z",
@@ -351,30 +375,6 @@
         "title": "Vance leads behind-the-scenes push for new Iran deal",
         "link": "https://www.axios.com/2026/11/06/vance-leads-push-new-iran-deal",
         "pubDate": "2026-11-07T01:10:14.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump replaces chief of staff Susie Wiles with Stephen Miller",
-        "link": "https://www.axios.com/2026/11/06/susie-wiles-trump-stephen-miller-chief-of-staff",
-        "pubDate": "2026-11-06T22:16:01.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Dems plot a unified case against Trump",
-        "link": "https://www.axios.com/2026/11/06/democrats-trump-investigations-congress",
-        "pubDate": "2026-11-06T21:39:17.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump still defiant after a bruising week",
-        "link": "https://www.axios.com/2026/11/06/trump-midterms-arch-felony-appea",
-        "pubDate": "2026-11-06T21:19:46.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Colom and Hyde-Smith's razor-thin Senate race spotlights Mississippi's voter rolls",
-        "link": "https://www.axios.com/2026/11/06/mississippi-colom-hyde-smith-inactive-voter-registrations",
-        "pubDate": "2026-11-06T20:26:01.000Z",
         "feedId": "axios"
       }
     ]
