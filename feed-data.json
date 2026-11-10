@@ -3,6 +3,78 @@
     "id": "hn",
     "items": [
       {
+        "title": "What Constant Surveillance Is Doing to Children",
+        "link": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
+        "pubDate": "2026-11-10T10:47:18.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "'C:\\> FORMAT C:' – relax, it's just a screen saver",
+        "link": "https://fakedos.com/",
+        "pubDate": "2026-11-10T10:32:36.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI usage generates a fragile codebase",
+        "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+        "pubDate": "2026-11-10T10:25:58.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Queens Public library under ransomware attack e-borrowing suspended",
+        "link": "https://connect.queenslibrary.org/",
+        "pubDate": "2026-11-10T09:04:39.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
+        "link": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
+        "pubDate": "2026-11-10T08:59:41.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Fireworks AI security breach impacts Notion and their customers",
+        "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+        "pubDate": "2026-11-10T07:19:38.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "ClickHouse Acquires Xata",
+        "link": "https://xata.io/blog/xata-is-joining-clickhouse",
+        "pubDate": "2026-11-10T06:14:51.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+        "link": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+        "pubDate": "2026-11-10T06:01:08.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Your TV can see through walls",
+        "link": "https://maurycyz.com/projects/fading/",
+        "pubDate": "2026-11-10T05:24:45.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Ultorg: The User Interface for Relational Databases",
+        "link": "https://www.ultorg.com/",
+        "pubDate": "2026-11-10T03:59:39.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+        "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+        "pubDate": "2026-11-10T03:20:06.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Formalizing CPython",
+        "link": "https://broyojo.com/python-formalization/",
+        "pubDate": "2026-11-10T01:56:48.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Locating the source of a mysterious beep",
         "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
         "pubDate": "2026-11-10T00:10:46.000Z",
@@ -15,81 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Fable 5.2 one-shotted my nephew's dream game",
-        "link": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
-        "pubDate": "2026-11-09T23:08:13.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Exact – a new cross platform UI framework",
-        "link": "https://github.com/expo/exact",
-        "pubDate": "2026-11-09T22:59:13.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "TPU 8tx and TPU 8i Max",
-        "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-        "pubDate": "2026-11-09T21:56:57.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-        "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
-        "pubDate": "2026-11-09T20:04:55.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "USPS now offers official ZIP Code boundary polygons",
         "link": "https://postalpro.usps.com/zcb",
         "pubDate": "2026-11-09T19:58:59.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
-        "link": "https://parkgraph.com/parking-app-fees",
-        "pubDate": "2026-11-09T19:55:53.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "CUI – Native UI components for C",
-        "link": "https://yappologistic.github.io/CUI/",
-        "pubDate": "2026-11-09T19:35:16.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
-        "link": "https://someonewashere.app/",
-        "pubDate": "2026-11-09T18:50:56.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "E-means: Outperforming k-means in one-tenth the epochs",
-        "link": "https://e-means.github.io/",
-        "pubDate": "2026-11-09T18:45:43.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-        "link": "https://meowdisplay.app/",
-        "pubDate": "2026-11-09T18:39:22.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
-        "link": "https://www.infineon.com/press-release/2026/infpr202611-028",
-        "pubDate": "2026-11-09T18:25:01.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Google Gemini routes personal Drive files and emails to human annotators",
-        "link": "https://github.com/thisisme6598/gemini_files/",
-        "pubDate": "2026-11-09T18:24:38.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
-        "link": "https://github.com/Dodaios/ste80-humanizer",
-        "pubDate": "2026-11-09T18:05:44.000Z",
         "feedId": "hn"
       }
     ]
@@ -98,9 +98,9 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "How Much Energy Does Building Distro Packages Use",
-        "link": "https://www.wezm.net/v2/posts/2026/distro-energy-use/",
-        "pubDate": "2026-11-09T06:44:59.000Z",
+        "title": "Microsoft are rejecting your mail",
+        "link": "https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/",
+        "pubDate": "2026-11-09T18:36:47.000Z",
         "feedId": "lobsters"
       },
       {
@@ -110,9 +110,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Microsoft are rejecting your mail",
-        "link": "https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/",
-        "pubDate": "2026-11-09T18:36:47.000Z",
+        "title": "How Much Energy Does Building Distro Packages Use",
+        "link": "https://www.wezm.net/v2/posts/2026/distro-energy-use/",
+        "pubDate": "2026-11-09T06:44:59.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "You should try Gleam",
+        "link": "https://nchagnet.eu/blog/you-should-try-gleam",
+        "pubDate": "2026-11-10T03:33:27.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Blunt Banhammer Blocks Basic Bots Ballistically",
+        "link": "https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/",
+        "pubDate": "2026-11-10T00:48:20.000Z",
         "feedId": "lobsters"
       },
       {
@@ -128,9 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "unlocking any car from X brand in most of the world",
-        "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
-        "pubDate": "2026-11-09T04:43:15.000Z",
+        "title": "Debugging Rust in 2026",
+        "link": "https://blog.jetbrains.com/rust/2026/11/10/debugging-rust/",
+        "pubDate": "2026-11-10T11:10:32.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,21 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A C++ Quicksort Faster Than std::sort",
-        "link": "https://tiki.li/blog/about_blqsort",
-        "pubDate": "2026-11-09T12:55:38.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Sure mate, buy me a bloody coffee",
-        "link": "https://peateasea.de/sure-mate-buy-me-a-bloody-coffee/",
-        "pubDate": "2026-11-09T18:35:57.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Blunt Banhammer Blocks Basic Bots Ballistically",
-        "link": "https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/",
-        "pubDate": "2026-11-10T00:48:20.000Z",
+        "title": "unlocking any car from X brand in most of the world",
+        "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+        "pubDate": "2026-11-09T04:43:15.000Z",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/tt42jc/what_are_you_doing_this_week",
-        "pubDate": "2026-11-09T09:32:52.000Z",
+        "title": "Open Graph images with Astro and Typst",
+        "link": "https://eaj.no/posts/open-graph-images-with-typst/",
+        "pubDate": "2026-11-10T11:42:48.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Herb Sutter: When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward",
-        "link": "https://isocpp.org/files/papers/P4454R0.pdf",
-        "pubDate": "2026-11-08T21:59:26.000Z",
+        "title": "Sure mate, buy me a bloody coffee",
+        "link": "https://peateasea.de/sure-mate-buy-me-a-bloody-coffee/",
+        "pubDate": "2026-11-09T18:35:57.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Playing classical music on a classic PC with GentleOS",
-        "link": "https://www.youtube.com/watch?v=Vp16LLOvegw",
-        "pubDate": "2026-11-09T14:55:11.000Z",
+        "title": "A C++ Quicksort Faster Than std::sort",
+        "link": "https://tiki.li/blog/about_blqsort",
+        "pubDate": "2026-11-09T12:55:38.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Slightly better interpolating spline",
-        "link": "https://gasiulis.name/new-spline/",
-        "pubDate": "2026-11-09T11:54:39.000Z",
+        "title": "The race to secure record-like information for domains",
+        "link": "https://alexsci.com/blog/the-race-to-secure-record-like-information-for-domains/",
+        "pubDate": "2026-11-09T23:25:03.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,48 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump plans imperial final act to his presidency",
+        "link": "https://www.axios.com/2026/11/10/trump-congress-executive-power",
+        "pubDate": "2026-11-10T11:01:19.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "How a MAHA leader turned and torched the White House",
+        "link": "https://www.axios.com/2026/11/10/calley-means-white-house-maha-fight",
+        "pubDate": "2026-11-10T10:30:39.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "The blue wave's tough-on-crime surprise",
+        "link": "https://www.axios.com/2026/11/10/democrats-crime-border-security-bail",
+        "pubDate": "2026-11-10T10:20:13.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: El Salvador blasts U.S. State Dept. over Haiti gang war",
+        "link": "https://www.axios.com/2026/11/10/el-salvador-state-department-haiti-gangs",
+        "pubDate": "2026-11-10T10:20:13.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "How Nvidia crisis, politics could deliver the pause AI leaders want",
+        "link": "https://www.axios.com/2026/11/10/ai-race-politics-slowdown",
+        "pubDate": "2026-11-10T10:15:05.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "The new battle for Congress: Trump's veto",
+        "link": "https://www.axios.com/2026/11/10/trump-veto-threats-blue-wave",
+        "pubDate": "2026-11-10T10:10:08.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "AI stocks bounce back — with one notable exception",
+        "link": "https://www.axios.com/2026/11/10/ai-stocks-nvidia-broadcom",
+        "pubDate": "2026-11-10T10:10:08.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "House Dems size up 2028 Senate map after midterm landslide",
         "link": "https://www.axios.com/2026/11/10/democrats-2028-senate-map",
         "pubDate": "2026-11-10T01:43:40.000Z",
@@ -334,54 +376,30 @@
         "link": "https://www.axios.com/local/denver/2026/11/09/democrats-whats-next-conference-denver-2028",
         "pubDate": "2026-11-09T20:58:41.000Z",
         "feedId": "axios"
-      },
-      {
-        "title": "Nvidia has no obvious successor to Jensen Huang — and that's a problem",
-        "link": "https://www.axios.com/2026/11/09/nvidia-jensen-huang-succession-plan",
-        "pubDate": "2026-11-09T20:48:38.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "White House cautiously upbeat about Russia-Ukraine peace talks this week",
-        "link": "https://www.axios.com/2026/11/09/ukraine-russia-zelensky-putin-peace-abu-dhabi",
-        "pubDate": "2026-11-09T20:42:23.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Republicans' final weeks in power may be consumed by fights they don't want",
-        "link": "https://www.axios.com/2026/11/09/congress-senioritis-lame-duck-shutdown-2026",
-        "pubDate": "2026-11-09T19:36:26.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Low unemployment, but job worries persist",
-        "link": "https://www.axios.com/2026/11/09/conflicting-job-expectations-unemployment",
-        "pubDate": "2026-11-09T17:02:42.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Oil prices and bond yields no longer moving together",
-        "link": "https://www.axios.com/2026/11/09/oil-yields-inflation-growth",
-        "pubDate": "2026-11-09T17:02:22.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Democrats face a tough sell with MAHA voters",
-        "link": "https://www.axios.com/2026/11/09/democrats-make-america-healthy-again-rfk",
-        "pubDate": "2026-11-09T10:30:05.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Elon Musk's empire braces for Democratic crackdown",
-        "link": "https://www.axios.com/2026/11/09/elon-musk-midterms-risks-empire",
-        "pubDate": "2026-11-09T10:20:05.000Z",
-        "feedId": "axios"
       }
     ]
   },
   "longreads": {
     "id": "longreads",
     "items": [
+      {
+        "title": "When Anesthesia Goes Wrong",
+        "link": "https://longreads.com/2026/11/10/when-anesthesia-goes-wrong/",
+        "pubDate": "2026-11-10T12:00:00.000Z",
+        "feedId": "longreads"
+      },
+      {
+        "title": "Bright Star",
+        "link": "https://longreads.com/2026/11/10/permaculture-school-mexico-education/",
+        "pubDate": "2026-11-10T11:00:00.000Z",
+        "feedId": "longreads"
+      },
+      {
+        "title": "The Downfall of a Top Cop",
+        "link": "https://longreads.com/2026/11/10/belgium-cop-drug-trade/",
+        "pubDate": "2026-11-10T10:00:00.000Z",
+        "feedId": "longreads"
+      },
       {
         "title": "Maintenance Futures",
         "link": "https://longreads.com/2026/11/09/maintenance-future/",
@@ -452,24 +470,6 @@
         "title": "Have I Befriended a Murderer?",
         "link": "https://longreads.com/2026/11/03/murder-friendship-doubt/",
         "pubDate": "2026-11-03T10:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "Searching for Jobs, Gen Z Feels Like It’s Staring Into ‘the Void’",
-        "link": "https://longreads.com/2026/11/02/gen-z-jobs/",
-        "pubDate": "2026-11-02T20:25:18.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "A Night Living in Penn Station",
-        "link": "https://longreads.com/2026/11/02/penn-station-homeless-new-yorker/",
-        "pubDate": "2026-11-02T13:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "No iPad Till After Dinner, Mom",
-        "link": "https://longreads.com/2026/11/02/elderly-seniors-screens-feeds/",
-        "pubDate": "2026-11-02T11:00:00.000Z",
         "feedId": "longreads"
       }
     ]
