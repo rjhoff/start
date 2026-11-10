@@ -3,25 +3,67 @@
     "id": "hn",
     "items": [
       {
+        "title": "Locating the source of a mysterious beep",
+        "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+        "pubDate": "2026-11-10T00:10:46.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Horible public key tricks",
+        "link": "https://maurycyz.com/projects/badcert/",
+        "pubDate": "2026-11-10T00:07:17.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Fable 5.2 one-shotted my nephew's dream game",
+        "link": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+        "pubDate": "2026-11-09T23:08:13.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Exact – a new cross platform UI framework",
+        "link": "https://github.com/expo/exact",
+        "pubDate": "2026-11-09T22:59:13.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "TPU 8tx and TPU 8i Max",
+        "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+        "pubDate": "2026-11-09T21:56:57.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+        "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
+        "pubDate": "2026-11-09T20:04:55.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "USPS now offers official ZIP Code boundary polygons",
+        "link": "https://postalpro.usps.com/zcb",
+        "pubDate": "2026-11-09T19:58:59.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
+        "link": "https://parkgraph.com/parking-app-fees",
+        "pubDate": "2026-11-09T19:55:53.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "CUI – Native UI components for C",
         "link": "https://yappologistic.github.io/CUI/",
         "pubDate": "2026-11-09T19:35:16.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
-        "link": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
-        "pubDate": "2026-11-09T19:33:09.000Z",
+        "title": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
+        "link": "https://someonewashere.app/",
+        "pubDate": "2026-11-09T18:50:56.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Claude Fable 5.2 and Mythos 5.2",
-        "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-        "pubDate": "2026-11-09T18:56:29.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "E-means: 10x faster k-means at equal loss",
+        "title": "E-means: Outperforming k-means in one-tenth the epochs",
         "link": "https://e-means.github.io/",
         "pubDate": "2026-11-09T18:45:43.000Z",
         "feedId": "hn"
@@ -33,63 +75,21 @@
         "feedId": "hn"
       },
       {
-        "title": "DeepX claims inference up to 100B parameters at less than 5 W",
-        "link": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
-        "pubDate": "2026-11-09T18:33:58.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Too many men suffering in silence, national health report finds (Canada)",
-        "link": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
-        "pubDate": "2026-11-09T18:27:58.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+        "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
         "link": "https://www.infineon.com/press-release/2026/infpr202611-028",
         "pubDate": "2026-11-09T18:25:01.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Google Gemini routes personal Drive files and emails to human annotators",
+        "link": "https://github.com/thisisme6598/gemini_files/",
+        "pubDate": "2026-11-09T18:24:38.000Z",
         "feedId": "hn"
       },
       {
         "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
         "link": "https://github.com/Dodaios/ste80-humanizer",
         "pubDate": "2026-11-09T18:05:44.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Our Smallest, Most Efficient Model: Muse Ember",
-        "link": "https://research.meta.ai/blog/muse-ember",
-        "pubDate": "2026-11-09T17:58:46.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Every satellite that passed over any place this week, and its photos",
-        "link": "https://www.watched.earth",
-        "pubDate": "2026-11-09T17:51:31.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
-        "link": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
-        "pubDate": "2026-11-09T17:42:55.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Going back two years on Hacker News is like entering another, better universe",
-        "link": "https://news.ycombinator.com/front?day=2024-11-08",
-        "pubDate": "2026-11-09T17:36:20.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
-        "link": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
-        "pubDate": "2026-11-09T17:00:06.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
-        "link": "https://news.ycombinator.com/item?id=50427934",
-        "pubDate": "2026-11-09T16:36:38.000Z",
         "feedId": "hn"
       }
     ]
@@ -110,9 +110,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "unlocking any car from X brand in most of the world",
-        "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
-        "pubDate": "2026-11-09T04:43:15.000Z",
+        "title": "Microsoft are rejecting your mail",
+        "link": "https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/",
+        "pubDate": "2026-11-09T18:36:47.000Z",
         "feedId": "lobsters"
       },
       {
@@ -122,15 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A C++ Quicksort Faster Than std::sort",
-        "link": "https://tiki.li/blog/about_blqsort",
-        "pubDate": "2026-11-09T12:55:38.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Terminal2Shell: Critical flaw grants instant shell access on every major OS",
         "link": "https://terminal2shell.com/",
         "pubDate": "2026-11-09T15:41:50.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "unlocking any car from X brand in most of the world",
+        "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+        "pubDate": "2026-11-09T04:43:15.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,39 +140,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/tt42jc/what_are_you_doing_this_week",
-        "pubDate": "2026-11-09T09:32:52.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Microsoft are rejecting your mail",
-        "link": "https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/",
-        "pubDate": "2026-11-09T18:36:47.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Herb Sutter: When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward",
-        "link": "https://isocpp.org/files/papers/P4454R0.pdf",
-        "pubDate": "2026-11-08T21:59:26.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What is malloc doing, anyway?",
-        "link": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
-        "pubDate": "2026-11-09T13:19:22.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Unattended reboots with encrypted disks",
-        "link": "https://jmmv.dev/2026/11/zkeys-intro.html",
-        "pubDate": "2026-11-08T16:58:03.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Playing classical music on a classic PC with GentleOS",
-        "link": "https://www.youtube.com/watch?v=Vp16LLOvegw",
-        "pubDate": "2026-11-09T14:55:11.000Z",
+        "title": "A C++ Quicksort Faster Than std::sort",
+        "link": "https://tiki.li/blog/about_blqsort",
+        "pubDate": "2026-11-09T12:55:38.000Z",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +152,39 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Microsecond accurate NTP with a Raspberry Pi and PPS GPS(2021)",
-        "link": "https://austinsnerdythings.com/2021/04/19/microsecond-accurate-ntp-with-a-raspberry-pi-and-pps-gps/",
-        "pubDate": "2026-11-09T06:25:20.000Z",
+        "title": "Blunt Banhammer Blocks Basic Bots Ballistically",
+        "link": "https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/",
+        "pubDate": "2026-11-10T00:48:20.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I was wrong about dark mode",
+        "link": "https://dbushell.com/2026/11/09/dark-mode/",
+        "pubDate": "2026-11-09T16:54:03.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you doing this week?",
+        "link": "https://lobste.rs/s/tt42jc/what_are_you_doing_this_week",
+        "pubDate": "2026-11-09T09:32:52.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Herb Sutter: When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward",
+        "link": "https://isocpp.org/files/papers/P4454R0.pdf",
+        "pubDate": "2026-11-08T21:59:26.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Playing classical music on a classic PC with GentleOS",
+        "link": "https://www.youtube.com/watch?v=Vp16LLOvegw",
+        "pubDate": "2026-11-09T14:55:11.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Slightly better interpolating spline",
+        "link": "https://gasiulis.name/new-spline/",
+        "pubDate": "2026-11-09T11:54:39.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,24 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+        "link": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+        "pubDate": "2026-11-09T21:55:35.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+        "link": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
+        "pubDate": "2026-11-09T21:13:39.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "A Sam Altman parody offers an amusing lesson in memory management",
+        "link": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+        "pubDate": "2026-11-09T20:49:09.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
         "link": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
@@ -263,24 +281,6 @@
         "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
         "pubDate": "2026-11-06T22:41:37.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
-        "link": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
-        "pubDate": "2026-11-06T22:08:47.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-        "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-        "pubDate": "2026-11-06T20:56:41.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Earth's churning mantle may have created the Great Unconformity",
-        "link": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
-        "pubDate": "2026-11-06T20:24:20.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,9 +288,63 @@
     "id": "axios",
     "items": [
       {
+        "title": "House Dems size up 2028 Senate map after midterm landslide",
+        "link": "https://www.axios.com/2026/11/10/democrats-2028-senate-map",
+        "pubDate": "2026-11-10T01:43:40.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "France says Iranian hackers sabotaged supermarket refrigerators",
+        "link": "https://www.axios.com/2026/11/10/france-iran-supermarket-refridgerator-hacks",
+        "pubDate": "2026-11-10T01:36:17.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Sex, secrets and spies: The history of suspected honey traps",
+        "link": "https://www.axios.com/2026/11/09/jensen-huang-china-spy-nvidia-fbi-doj",
+        "pubDate": "2026-11-09T23:49:15.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Pressure builds on Thune ahead of GOP leadership elections",
+        "link": "https://www.axios.com/2026/11/09/thune-senate-republican-leadership-elections",
+        "pubDate": "2026-11-09T23:26:23.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump: New Iran attacks \"quite unlikely\"",
+        "link": "https://www.axios.com/2026/11/09/trump-iran-war-qatar-negotiations-attacks-unlikely",
+        "pubDate": "2026-11-09T22:55:28.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "What we know about the mystery woman at the center of Nvidia's spy scandal",
+        "link": "https://www.axios.com/2026/11/09/alice-huang-nvidia-jensen-megaspeed",
+        "pubDate": "2026-11-09T21:47:48.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "Hegseth faces impeachment resolution from a GOP member with little to lose",
         "link": "https://www.axios.com/2026/11/09/pete-hegseth-impeachment-iran-war",
-        "pubDate": "2026-11-09T20:08:11.000Z",
+        "pubDate": "2026-11-09T21:39:37.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Democrats' 2028 presidential auditions begin in Denver",
+        "link": "https://www.axios.com/local/denver/2026/11/09/democrats-whats-next-conference-denver-2028",
+        "pubDate": "2026-11-09T20:58:41.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Nvidia has no obvious successor to Jensen Huang — and that's a problem",
+        "link": "https://www.axios.com/2026/11/09/nvidia-jensen-huang-succession-plan",
+        "pubDate": "2026-11-09T20:48:38.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "White House cautiously upbeat about Russia-Ukraine peace talks this week",
+        "link": "https://www.axios.com/2026/11/09/ukraine-russia-zelensky-putin-peace-abu-dhabi",
+        "pubDate": "2026-11-09T20:42:23.000Z",
         "feedId": "axios"
       },
       {
@@ -321,60 +375,6 @@
         "title": "Elon Musk's empire braces for Democratic crackdown",
         "link": "https://www.axios.com/2026/11/09/elon-musk-midterms-risks-empire",
         "pubDate": "2026-11-09T10:20:05.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Planet-sized problems collide in permitting debate",
-        "link": "https://www.axios.com/2026/11/09/climate-nature-energy-permitting-debate",
-        "pubDate": "2026-11-09T10:15:04.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "AI's \"too big to fail\" CEO is facing a crisis with no backup",
-        "link": "https://www.axios.com/2026/11/09/jensen-huang-nvidia-ceo-crisis",
-        "pubDate": "2026-11-09T10:15:04.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Jensen Huang spy scandal rocks AI race",
-        "link": "https://www.axios.com/2026/11/09/jensen-huang-spy-scandal-ai",
-        "pubDate": "2026-11-09T10:00:04.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump backs Nvidia's Huang amid affair, spy investigation",
-        "link": "https://www.axios.com/2026/11/09/trump-jensen-huang-nvidia",
-        "pubDate": "2026-11-09T00:00:35.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Mamdani's bid for 2028 kingmaker",
-        "link": "https://www.axios.com/2026/11/08/scoop-mamdanis-bid-for-2028-kingmaker",
-        "pubDate": "2026-11-08T23:15:49.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Republicans eye Florida's \"Alligator People\" for 2028",
-        "link": "https://www.axios.com/2026/11/08/florida-desantis-rubio-2028",
-        "pubDate": "2026-11-08T22:40:04.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "MAGA castoffs plot 2028 spoiler bid",
-        "link": "https://www.axios.com/2026/11/08/massie-president-2028-libertarian",
-        "pubDate": "2026-11-08T22:30:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Blanche dismisses Means allegations as GOP's MAHA feud deepens",
-        "link": "https://www.axios.com/2026/11/08/todd-blanche-calley-means-susie-wiles-maha-allegations",
-        "pubDate": "2026-11-08T21:12:24.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Nvidia CEO Jensen Huang admits affair, board to launch investigation",
-        "link": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation",
-        "pubDate": "2026-11-08T20:14:05.000Z",
         "feedId": "axios"
       }
     ]
