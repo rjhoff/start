@@ -3,6 +3,54 @@
     "id": "hn",
     "items": [
       {
+        "title": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
+        "link": "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md",
+        "pubDate": "2026-11-10T23:41:41.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+        "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+        "pubDate": "2026-11-10T22:17:56.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "$30M Raised to Redo the CPU",
+        "link": "https://tendrils.co/blog/2026-11-10/30m-raised",
+        "pubDate": "2026-11-10T22:14:03.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "rVPN – stealth VPN with end-to-end encryption",
+        "link": "https://rvpn.org/",
+        "pubDate": "2026-11-10T21:42:50.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Apple has new Mac app coming to make running local AI models easy",
+        "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+        "pubDate": "2026-11-10T21:25:03.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Six Math Essentials by Terence Tao",
+        "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
+        "pubDate": "2026-11-10T20:58:44.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Sherman Anti-Trust Act (1890)",
+        "link": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
+        "pubDate": "2026-11-10T20:56:16.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Scion is back and is going to sell a kei truck in America",
+        "link": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+        "pubDate": "2026-11-10T19:50:46.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "What objective is reasoning solving?",
         "link": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
         "pubDate": "2026-11-10T19:25:14.000Z",
@@ -33,12 +81,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-        "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
-        "pubDate": "2026-11-10T17:55:07.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "An Open Field Guide to Inference Engineering",
         "link": "https://docs.modelplane.ai/guides/inference-guide",
         "pubDate": "2026-11-10T17:55:07.000Z",
@@ -48,48 +90,6 @@
         "title": "Val Town is winding down",
         "link": "https://blog.val.town/winding-down",
         "pubDate": "2026-11-10T17:31:14.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "AMD's Zen 6 Family: Feeding the Beast",
-        "link": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
-        "pubDate": "2026-11-10T17:02:32.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": ".name Grandfathered",
-        "link": "https://neil.fraser.name/news/2026/11/10/",
-        "pubDate": "2026-11-10T16:37:44.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Blender 5.3 released with Gaussian Splat support",
-        "link": "https://www.blender.org/download/releases/5-3/",
-        "pubDate": "2026-11-10T16:15:43.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Smart home devices should work without the internet",
-        "link": "https://docodethatmatters.com/home-automation-overnight-success/",
-        "pubDate": "2026-11-10T15:25:20.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
-        "link": "https://tinyvalencia.com/",
-        "pubDate": "2026-11-10T15:12:16.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Hardest Tarball?",
-        "link": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
-        "pubDate": "2026-11-10T15:00:39.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The death knell of digital search",
-        "link": "https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search",
-        "pubDate": "2026-11-10T14:41:36.000Z",
         "feedId": "hn"
       }
     ]
@@ -110,6 +110,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Synaptics patent claims stop work on DisplayLink drivers",
+        "link": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+        "pubDate": "2026-11-10T16:57:25.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Open Graph images with Astro and Typst",
         "link": "https://eaj.no/posts/open-graph-images-with-typst/",
         "pubDate": "2026-11-10T11:42:48.000Z",
@@ -122,9 +128,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Synaptics patent claims stop work on DisplayLink drivers",
-        "link": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-        "pubDate": "2026-11-10T16:57:25.000Z",
+        "title": "Weird licenses and the new open source",
+        "link": "https://dustri.org/b/weird-licenses-and-the-new-open-source.html",
+        "pubDate": "2026-11-10T16:49:51.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "I deleted all my SSH keys",
+        "link": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/",
+        "pubDate": "2026-11-10T20:49:23.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Searching for pedagogical materials on memory models",
+        "link": "https://lobste.rs/s/odnnzh/searching_for_pedagogical_materials_on",
+        "pubDate": "2026-11-10T19:51:19.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "30 years of Internet transfers with curl",
+        "link": "https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/",
+        "pubDate": "2026-11-10T23:42:39.000Z",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +158,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "A faster Easter date function",
+        "link": "https://www.benjoffe.com/fast-easter",
+        "pubDate": "2026-11-10T14:36:45.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Microsoft are rejecting your mail",
         "link": "https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/",
         "pubDate": "2026-11-09T18:36:47.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Rendering in batches with glimmer and Datastar",
+        "link": "https://yogthos.net/posts/2026-11-10-glimmer-datastar.html",
+        "pubDate": "2026-11-10T22:54:17.000Z",
         "feedId": "lobsters"
       },
       {
@@ -150,48 +186,66 @@
         "link": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
         "pubDate": "2026-11-10T12:20:55.000Z",
         "feedId": "lobsters"
-      },
-      {
-        "title": "A faster Easter date function",
-        "link": "https://www.benjoffe.com/fast-easter",
-        "pubDate": "2026-11-10T14:36:45.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Weird licenses and the new open source",
-        "link": "https://dustri.org/b/weird-licenses-and-the-new-open-source.html",
-        "pubDate": "2026-11-10T16:49:51.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Horrible public key tricks",
-        "link": "https://maurycyz.com/projects/badcert/",
-        "pubDate": "2026-11-09T12:55:11.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Blunt Banhammer Blocks Basic Bots Ballistically",
-        "link": "https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/",
-        "pubDate": "2026-11-10T00:48:20.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How Much Energy Does Building Distro Packages Use",
-        "link": "https://www.wezm.net/v2/posts/2026/distro-energy-use/",
-        "pubDate": "2026-11-09T06:44:59.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Let’s Talk About Why all This OT Stuff is Connected",
-        "link": "https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/",
-        "pubDate": "2026-11-09T12:22:39.000Z",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Seagate's new hybrid drive raises some old questions",
+        "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+        "pubDate": "2026-11-10T23:30:56.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "The US military seems to be getting nervous about the launch supply crunch",
+        "link": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+        "pubDate": "2026-11-10T23:02:39.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+        "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+        "pubDate": "2026-11-10T22:35:01.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+        "link": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
+        "pubDate": "2026-11-10T21:55:26.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+        "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+        "pubDate": "2026-11-10T21:12:59.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "What happens to mathematics when AI becomes an oracle?",
+        "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+        "pubDate": "2026-11-10T20:30:01.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google Fi adds support for a second 5G network, won't say which one",
+        "link": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
+        "pubDate": "2026-11-10T19:35:59.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
+        "link": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
+        "pubDate": "2026-11-10T19:00:26.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Free video-streaming service Tubi lets users share curated watchlists now",
+        "link": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
+        "pubDate": "2026-11-10T18:39:16.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Steam Deck performance gets a reality check with Valve's new FPS data",
         "link": "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
@@ -227,60 +281,6 @@
         "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
         "pubDate": "2026-11-10T14:43:49.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Polestar has a new look with its Formula 2030 concept",
-        "link": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
-        "pubDate": "2026-11-10T14:22:02.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
-        "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
-        "pubDate": "2026-11-10T12:15:32.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
-        "link": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
-        "pubDate": "2026-11-10T12:00:21.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
-        "link": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
-        "pubDate": "2026-11-09T21:55:35.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
-        "link": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
-        "pubDate": "2026-11-09T21:13:39.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "A Sam Altman parody offers an amusing lesson in memory management",
-        "link": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
-        "pubDate": "2026-11-09T20:49:09.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-        "link": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-        "pubDate": "2026-11-09T19:41:34.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Pentagon mulls placing fleet of military satellites around the Moon",
-        "link": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
-        "pubDate": "2026-11-09T19:08:37.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Claude Code is accidentally exposing secrets all over GitHub",
-        "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-        "pubDate": "2026-11-09T17:24:26.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,9 +288,39 @@
     "id": "axios",
     "items": [
       {
+        "title": "Scoop: Commerce Department received national security warning on Nvidia CEO affair",
+        "link": "https://www.axios.com/2026/11/10/lutnick-nvidia-jensen-huang-china-memo",
+        "pubDate": "2026-11-10T23:47:04.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump swung between war and diplomacy — then chose a third way",
+        "link": "https://www.axios.com/2026/11/10/trump-iran-war-diplomacy-economic-crackdown",
+        "pubDate": "2026-11-10T23:35:28.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "GOP House rejects Hegseth impeachment effort",
+        "link": "https://www.axios.com/2026/11/10/pete-hegseth-impeachment-house-republicans-massie",
+        "pubDate": "2026-11-10T23:06:08.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Credit card debt hits record high as Americans struggle with cost-of-living",
+        "link": "https://www.axios.com/2026/11/10/credit-card-debt-record-2026-delinquency-income-gap",
+        "pubDate": "2026-11-10T21:07:33.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "Jim Jordan wins House GOP minority leader race",
         "link": "https://www.axios.com/2026/11/10/jim-jordan-house-republicans-leadership-elections-scalise",
-        "pubDate": "2026-11-10T19:41:38.000Z",
+        "pubDate": "2026-11-10T20:57:20.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "3 charged with plotting terror attacks in U.S., Europe",
+        "link": "https://www.axios.com/2026/11/10/doj-charges-terror-plots-europe-us",
+        "pubDate": "2026-11-10T20:46:53.000Z",
         "feedId": "axios"
       },
       {
@@ -345,36 +375,6 @@
         "title": "How a MAHA leader turned and torched the White House",
         "link": "https://www.axios.com/2026/11/10/calley-means-white-house-maha-fight",
         "pubDate": "2026-11-10T10:30:39.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "The blue wave's tough-on-crime surprise",
-        "link": "https://www.axios.com/2026/11/10/democrats-crime-border-security-bail",
-        "pubDate": "2026-11-10T10:20:13.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: El Salvador blasts U.S. State Dept. over Haiti gang war",
-        "link": "https://www.axios.com/2026/11/10/el-salvador-state-department-haiti-gangs",
-        "pubDate": "2026-11-10T10:20:13.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "How Nvidia's crisis and politics could deliver the pause AI leaders want",
-        "link": "https://www.axios.com/2026/11/10/ai-race-politics-slowdown",
-        "pubDate": "2026-11-10T10:15:05.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "The new battle for Congress: Trump's veto",
-        "link": "https://www.axios.com/2026/11/10/trump-veto-threats-blue-wave",
-        "pubDate": "2026-11-10T10:10:08.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "AI stocks bounce back — with one notable exception",
-        "link": "https://www.axios.com/2026/11/10/ai-stocks-nvidia-broadcom",
-        "pubDate": "2026-11-10T10:10:08.000Z",
         "feedId": "axios"
       }
     ]
