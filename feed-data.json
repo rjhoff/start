@@ -3,15 +3,45 @@
     "id": "hn",
     "items": [
       {
-        "title": "Data centers need power – lower income, rural residents pay the price",
-        "link": "https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price",
-        "pubDate": "2026-11-12T19:53:54.000Z",
+        "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
+        "link": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+        "pubDate": "2026-11-13T00:38:41.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-        "link": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-        "pubDate": "2026-11-12T19:51:33.000Z",
+        "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+        "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+        "pubDate": "2026-11-12T23:06:17.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+        "link": "https://unemploymentlabs.com/checkpoint-forensics",
+        "pubDate": "2026-11-12T21:56:11.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Foundation Models framework",
+        "link": "https://developer.apple.com/foundation-models-framework/",
+        "pubDate": "2026-11-12T21:13:26.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+        "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+        "pubDate": "2026-11-12T21:09:49.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Announcement: Conductor Is Back",
+        "link": "https://twitter.com/charlieholtz/status/2120973052024598620",
+        "pubDate": "2026-11-12T20:37:55.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Distributed Ray Tracer",
+        "link": "https://ray.hatchet.run",
+        "pubDate": "2026-11-12T19:06:23.000Z",
         "feedId": "hn"
       },
       {
@@ -33,33 +63,21 @@
         "feedId": "hn"
       },
       {
-        "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+        "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
         "link": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
         "pubDate": "2026-11-12T18:22:22.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Outlook is down, and so is Microsoft's status page",
-        "link": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/",
+        "title": "Service degradation on Microsoft 365",
+        "link": "https://status.cloud.microsoft/",
         "pubDate": "2026-11-12T18:20:48.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Ask HN: Microsoft/Azure Outage?",
-        "link": "https://news.ycombinator.com/item?id=50471668",
-        "pubDate": "2026-11-12T18:17:13.000Z",
         "feedId": "hn"
       },
       {
         "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
         "link": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
         "pubDate": "2026-11-12T18:15:48.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company",
-        "link": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
-        "pubDate": "2026-11-12T18:14:18.000Z",
         "feedId": "hn"
       },
       {
@@ -73,24 +91,6 @@
         "link": "https://news.ycombinator.com/item?id=50471281",
         "pubDate": "2026-11-12T17:51:23.000Z",
         "feedId": "hn"
-      },
-      {
-        "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-        "link": "https://github.com/simpsoka/zigzag",
-        "pubDate": "2026-11-12T17:02:42.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
-        "link": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
-        "pubDate": "2026-11-12T16:59:26.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
-        "link": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
-        "pubDate": "2026-11-12T16:29:13.000Z",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,9 +98,9 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Humble Bundle just completely killed most of their security through vibecoding",
-        "link": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
-        "pubDate": "2026-11-12T15:13:35.000Z",
+        "title": "Announcing Rust 1.100.0",
+        "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+        "pubDate": "2026-11-12T18:43:41.000Z",
         "feedId": "lobsters"
       },
       {
@@ -116,15 +116,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Announcing Rust 1.100.0",
-        "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-        "pubDate": "2026-11-12T18:43:41.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Hello Baochip",
-        "link": "https://ratfactor.com/cards/hello-baochip",
-        "pubDate": "2026-11-12T10:09:16.000Z",
+        "title": "The anti-marketing aspect of the Gemini network",
+        "link": "https://ploum.net/2026-11-12-anti-marketing-gemini.html",
+        "pubDate": "2026-11-12T16:17:25.000Z",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +128,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The anti-marketing aspect of the Gemini network",
-        "link": "https://ploum.net/2026-11-12-anti-marketing-gemini.html",
-        "pubDate": "2026-11-12T16:17:25.000Z",
+        "title": "Hello Baochip",
+        "link": "https://ratfactor.com/cards/hello-baochip",
+        "pubDate": "2026-11-12T10:09:16.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Paths in pieces",
-        "link": "https://stoppels.ch/2026/11/12/paths-in-pieces.html",
-        "pubDate": "2026-11-12T14:49:26.000Z",
+        "title": "Adapting CPython for yk",
+        "link": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
+        "pubDate": "2026-11-12T12:29:56.000Z",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +146,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Adapting CPython for yk",
-        "link": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
-        "pubDate": "2026-11-12T12:29:56.000Z",
+        "title": "Paths in pieces",
+        "link": "https://stoppels.ch/2026/11/12/paths-in-pieces.html",
+        "pubDate": "2026-11-12T14:49:26.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The Secret of Monkey Island: all 13 versions side by side",
+        "link": "https://monkeyisland.pages.dev/",
+        "pubDate": "2026-11-12T14:37:35.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "FreeBSD Status Report Third Quarter 2026",
+        "link": "https://www.freebsd.org/status/report-2026-07-2026-09/",
+        "pubDate": "2026-11-12T20:45:02.000Z",
         "feedId": "lobsters"
       },
       {
@@ -176,12 +182,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The Secret of Monkey Island: all 13 versions side by side",
-        "link": "https://monkeyisland.pages.dev/",
-        "pubDate": "2026-11-12T14:37:35.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "What are some \"No AI\" apps/companies/resources you know of?",
         "link": "https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies",
         "pubDate": "2026-11-11T13:13:51.000Z",
@@ -193,7 +193,19 @@
     "id": "arstechnica",
     "items": [
       {
-        "title": "Ars Live: Can the cloud survive drone strikes on data centers?",
+        "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+        "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
+        "pubDate": "2026-11-12T22:59:51.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+        "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+        "pubDate": "2026-11-12T22:28:47.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
         "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
         "pubDate": "2026-11-12T19:59:59.000Z",
         "feedId": "arstechnica"
@@ -269,18 +281,6 @@
         "link": "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/",
         "pubDate": "2026-11-12T12:00:37.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
-        "link": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
-        "pubDate": "2026-11-11T20:32:21.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
-        "link": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
-        "pubDate": "2026-11-11T20:22:03.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,15 +288,45 @@
     "id": "axios",
     "items": [
       {
-        "title": "Zelensky says Musk-owned satellite system throttled again, Space X denies it",
-        "link": "https://www.axios.com/2026/11/12/ukraine-starshield-restricted-spacex-russia-zelensky",
-        "pubDate": "2026-11-12T17:02:19.000Z",
+        "title": "House Democratic leaders face fallout over poorly timed floor vote fumbles",
+        "link": "https://www.axios.com/2026/11/13/house-democrats-hegseth-impeachment-vote-jeffries",
+        "pubDate": "2026-11-13T00:34:48.000Z",
         "feedId": "axios"
       },
       {
-        "title": "1 killed, 4 injured in Logan Circle shooting; suspect dead",
+        "title": "Senate Dems can look forward to unlikely MAGA allies",
+        "link": "https://www.axios.com/2026/11/13/senate-democrats-republicans-hawley-moreno-banks",
+        "pubDate": "2026-11-13T00:32:44.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "11 names to watch in the Jensen Huang succession search",
+        "link": "https://www.axios.com/2026/11/12/nvidia-next-ceo-jensen-huang-predictions",
+        "pubDate": "2026-11-12T23:06:30.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Logan Circle gunman shot 4 from balcony, started fire, police say",
         "link": "https://www.axios.com/local/washington-dc/2026/11/12/logan-circle-shooting-dc-barricade",
-        "pubDate": "2026-11-12T16:58:13.000Z",
+        "pubDate": "2026-11-12T22:18:37.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scott Colom's win in Mississippi puts political change to the test",
+        "link": "https://www.axios.com/2026/11/12/scott-colom-mississippi-senate-black-representation",
+        "pubDate": "2026-11-12T20:47:56.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Jensen Huang's implosion at Nvidia leaves trail of collateral damage",
+        "link": "https://www.axios.com/2026/11/12/jensen-huang-nvidia-ceo-ai-resignation",
+        "pubDate": "2026-11-12T20:02:25.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Zelensky says Musk-owned satellite system throttled again, Space X denies it",
+        "link": "https://www.axios.com/2026/11/12/ukraine-starshield-restricted-spacex-russia-zelensky",
+        "pubDate": "2026-11-12T17:02:19.000Z",
         "feedId": "axios"
       },
       {
@@ -345,36 +375,6 @@
         "title": "From Emmett Till to Robert Johnson, the Delta powered Scott Colom's historic Senate bid",
         "link": "https://www.axios.com/2026/11/12/scott-colom-mississippi-delta-civil-rights-till",
         "pubDate": "2026-11-12T10:40:53.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Democrats debate taking a page from Trump's economic playbook",
-        "link": "https://www.axios.com/2026/11/12/democrats-debate-trump-economic-playbook",
-        "pubDate": "2026-11-12T10:30:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Democrats unite against Big Health Care",
-        "link": "https://www.axios.com/2026/11/12/democrats-attack-corporate-health-care",
-        "pubDate": "2026-11-12T10:30:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: AOC shakes up team again as 2028 decision looms",
-        "link": "https://www.axios.com/2026/11/12/aoc-political-team-changes-2028",
-        "pubDate": "2026-11-12T10:30:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "How the midterms swing each party's economic feelings",
-        "link": "https://www.axios.com/2026/11/12/consumer-sentiment-midterms-elections",
-        "pubDate": "2026-11-12T10:30:05.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Murders plunge 15% in America's biggest cities",
-        "link": "https://www.axios.com/2026/11/12/violent-crime-homicide-us-cities-trump",
-        "pubDate": "2026-11-12T10:22:37.000Z",
         "feedId": "axios"
       }
     ]
