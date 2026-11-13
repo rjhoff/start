@@ -3,9 +3,45 @@
     "id": "hn",
     "items": [
       {
-        "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
-        "link": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
-        "pubDate": "2026-11-13T00:38:41.000Z",
+        "title": "Global Microsoft Outage",
+        "link": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
+        "pubDate": "2026-11-13T06:18:23.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Scientists claim the universe is twice as old as believed",
+        "link": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
+        "pubDate": "2026-11-13T05:13:30.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Microsoft Outlook/365 still down after 12 hours",
+        "link": "https://twitter.com/MSFT365Status/status/2121079061774491735",
+        "pubDate": "2026-11-13T05:08:23.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "IceWM",
+        "link": "https://ice-wm.org/",
+        "pubDate": "2026-11-13T04:54:53.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Switcher (2004)",
+        "link": "https://folklore.org/Switcher.html",
+        "pubDate": "2026-11-13T03:14:59.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+        "link": "https://brave.com/blog/search-api-agentic-payments/",
+        "pubDate": "2026-11-13T03:08:08.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nvidia employees petition to bring back Jensen Huang",
+        "link": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+        "pubDate": "2026-11-13T02:16:24.000Z",
         "feedId": "hn"
       },
       {
@@ -21,27 +57,21 @@
         "feedId": "hn"
       },
       {
+        "title": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech",
+        "link": "https://github.com/KoljaB/RealtimeVAD",
+        "pubDate": "2026-11-12T21:30:57.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Foundation Models framework",
         "link": "https://developer.apple.com/foundation-models-framework/",
         "pubDate": "2026-11-12T21:13:26.000Z",
         "feedId": "hn"
       },
       {
-        "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-        "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-        "pubDate": "2026-11-12T21:09:49.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Announcement: Conductor Is Back",
-        "link": "https://twitter.com/charlieholtz/status/2120973052024598620",
-        "pubDate": "2026-11-12T20:37:55.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Distributed Ray Tracer",
-        "link": "https://ray.hatchet.run",
-        "pubDate": "2026-11-12T19:06:23.000Z",
+        "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+        "link": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+        "pubDate": "2026-11-12T19:51:33.000Z",
         "feedId": "hn"
       },
       {
@@ -61,36 +91,6 @@
         "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
         "pubDate": "2026-11-12T18:39:05.000Z",
         "feedId": "hn"
-      },
-      {
-        "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
-        "link": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
-        "pubDate": "2026-11-12T18:22:22.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Service degradation on Microsoft 365",
-        "link": "https://status.cloud.microsoft/",
-        "pubDate": "2026-11-12T18:20:48.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
-        "link": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
-        "pubDate": "2026-11-12T18:15:48.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Gemini 4 Hydrogen",
-        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-        "pubDate": "2026-11-12T18:01:48.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Kapso – Iterative learning from enterprise data",
-        "link": "https://news.ycombinator.com/item?id=50471281",
-        "pubDate": "2026-11-12T17:51:23.000Z",
-        "feedId": "hn"
       }
     ]
   },
@@ -104,9 +104,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How I accidentally became a millionaire",
-        "link": "https://lyra.horse/blog/2026/11/disinformation-machine/",
-        "pubDate": "2026-11-11T21:53:24.000Z",
+        "title": "The anti-marketing aspect of the Gemini network",
+        "link": "https://ploum.net/2026-11-12-anti-marketing-gemini.html",
+        "pubDate": "2026-11-12T16:17:25.000Z",
         "feedId": "lobsters"
       },
       {
@@ -116,15 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The anti-marketing aspect of the Gemini network",
-        "link": "https://ploum.net/2026-11-12-anti-marketing-gemini.html",
-        "pubDate": "2026-11-12T16:17:25.000Z",
+        "title": "How I accidentally became a millionaire",
+        "link": "https://lyra.horse/blog/2026/11/disinformation-machine/",
+        "pubDate": "2026-11-11T21:53:24.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "libreagi - save OS models",
-        "link": "https://libreagi.com/",
-        "pubDate": "2026-11-12T15:35:46.000Z",
+        "title": "Contra \"Glue work considered harmful\"",
+        "link": "https://sunshowers.io/posts/glue-work/",
+        "pubDate": "2026-11-13T02:36:05.000Z",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +134,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Adapting CPython for yk",
-        "link": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
-        "pubDate": "2026-11-12T12:29:56.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Hijacking Samsung TV Smart Hub Ads",
-        "link": "https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/",
-        "pubDate": "2026-11-12T11:08:45.000Z",
+        "title": "libreagi - save OS models",
+        "link": "https://libreagi.com/",
+        "pubDate": "2026-11-12T15:35:46.000Z",
         "feedId": "lobsters"
       },
       {
@@ -152,9 +146,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Adapting CPython for yk",
+        "link": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
+        "pubDate": "2026-11-12T12:29:56.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The Secret of Monkey Island: all 13 versions side by side",
         "link": "https://monkeyisland.pages.dev/",
         "pubDate": "2026-11-12T14:37:35.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Hijacking Samsung TV Smart Hub Ads",
+        "link": "https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/",
+        "pubDate": "2026-11-12T11:08:45.000Z",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How a false smoke alarm almost drowned Jane Street's only NYC datacenter",
-        "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-        "pubDate": "2026-11-11T16:27:51.000Z",
+        "title": "Let’s Write a PostScript Interpreter",
+        "link": "https://beyondloom.com/blog/postscript.html",
+        "pubDate": "2026-11-12T22:17:32.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "For the first time, a C++ standard failed to pass the national bodies",
-        "link": "https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/",
-        "pubDate": "2026-11-11T18:49:35.000Z",
+        "title": "JIT bitmap text rendering for microcontrollers",
+        "link": "https://linebender.org/blog/jit-bitmap-text/",
+        "pubDate": "2026-11-13T00:16:10.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "How do you actually self-host securely?",
-        "link": "https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely",
-        "pubDate": "2026-11-11T12:01:19.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are some \"No AI\" apps/companies/resources you know of?",
-        "link": "https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies",
-        "pubDate": "2026-11-11T13:13:51.000Z",
+        "title": "Steadfast Update I - The Baseline",
+        "link": "https://noteflakes.com/articles/2026-11-13-steadfast-update-1",
+        "pubDate": "2026-11-13T07:31:32.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -193,7 +193,7 @@
     "id": "arstechnica",
     "items": [
       {
-        "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+        "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
         "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
         "pubDate": "2026-11-12T22:59:51.000Z",
         "feedId": "arstechnica"
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Chris Van Hollen to challenge Schumer for Senate majority leader",
+        "link": "https://www.axios.com/2026/11/13/schumer-van-hollen-senate-majority-leader",
+        "pubDate": "2026-11-13T03:02:55.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "House Democratic leaders face fallout over poorly timed floor vote fumbles",
         "link": "https://www.axios.com/2026/11/13/house-democrats-hegseth-impeachment-vote-jeffries",
         "pubDate": "2026-11-13T00:34:48.000Z",
@@ -369,12 +375,6 @@
         "title": "Bracing for Nvidia's impact",
         "link": "https://www.axios.com/2026/11/12/bracing-for-nvidias-impact",
         "pubDate": "2026-11-12T12:20:12.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "From Emmett Till to Robert Johnson, the Delta powered Scott Colom's historic Senate bid",
-        "link": "https://www.axios.com/2026/11/12/scott-colom-mississippi-delta-civil-rights-till",
-        "pubDate": "2026-11-12T10:40:53.000Z",
         "feedId": "axios"
       }
     ]
