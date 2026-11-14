@@ -3,7 +3,19 @@
     "id": "hn",
     "items": [
       {
-        "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+        "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+        "link": "https://news.ycombinator.com/item?id=50494696",
+        "pubDate": "2026-11-14T06:56:42.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Monkey Island: all 13 versions side by side",
+        "link": "https://monkeyisland.pages.dev/",
+        "pubDate": "2026-11-14T04:23:30.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
         "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
         "pubDate": "2026-11-14T02:52:59.000Z",
         "feedId": "hn"
@@ -12,18 +24,6 @@
         "title": "Ggml v1.0.0",
         "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
         "pubDate": "2026-11-14T02:28:29.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
-        "pubDate": "2026-11-14T02:21:36.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
-        "link": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/",
-        "pubDate": "2026-11-14T02:15:41.000Z",
         "feedId": "hn"
       },
       {
@@ -39,19 +39,13 @@
         "feedId": "hn"
       },
       {
-        "title": "Philip Roth and David Remnick getting personal (2001)",
-        "link": "https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick",
-        "pubDate": "2026-11-14T00:21:26.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
         "link": "https://unsloth.ai/docs/models/qwen3.8",
         "pubDate": "2026-11-14T00:06:04.000Z",
         "feedId": "hn"
       },
       {
-        "title": "What Happened to 3Com?",
+        "title": "What happened to 3Com?",
         "link": "https://dfarq.homeip.net/what-happened-to-3com/",
         "pubDate": "2026-11-13T23:48:59.000Z",
         "feedId": "hn"
@@ -81,15 +75,21 @@
         "feedId": "hn"
       },
       {
-        "title": "All US airports are currently ground stopped",
-        "link": "https://twitter.com/flightradar24/status/2121347654714077605",
-        "pubDate": "2026-11-13T21:06:52.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "FAA issues national ground stop – lifted 4.5 hours later",
         "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
         "pubDate": "2026-11-13T21:05:53.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+        "link": "https://atg.science/careers",
+        "pubDate": "2026-11-13T21:01:11.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Live-migration support in FreeBSD and bhyve coming",
+        "link": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+        "pubDate": "2026-11-13T19:58:42.000Z",
         "feedId": "hn"
       }
     ]
@@ -122,9 +122,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Someone's impersonating this blog",
+        "link": "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/",
+        "pubDate": "2026-11-13T20:39:53.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What happened to 3com?",
+        "link": "https://dfarq.homeip.net/what-happened-to-3com/",
+        "pubDate": "2026-11-14T05:46:40.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Beating the frontier on NetHack",
         "link": "https://antithesis.com/blog/2026/nethack/",
         "pubDate": "2026-11-13T14:34:57.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "goliath32.com - Creating a self booting ZIP archive",
+        "link": "https://goliath32.com/blog/ziphead.html",
+        "pubDate": "2026-11-14T10:01:58.000Z",
         "feedId": "lobsters"
       },
       {
@@ -134,9 +152,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Someone's impersonating this blog",
-        "link": "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/",
-        "pubDate": "2026-11-13T20:39:53.000Z",
+        "title": "Running a law firm on Free software (2026 edition)",
+        "link": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+        "pubDate": "2026-11-13T11:20:32.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Fixing a WebKit bug to see if promises are made of train tracks",
+        "link": "https://alistair.sh/thenables",
+        "pubDate": "2026-11-13T16:48:01.000Z",
         "feedId": "lobsters"
       },
       {
@@ -152,39 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Running a law firm on Free software (2026 edition)",
-        "link": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
-        "pubDate": "2026-11-13T11:20:32.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Link Previews and You",
         "link": "https://sable.moe/en/blog/link-previews-and-you/",
         "pubDate": "2026-11-13T17:34:47.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Fixing a WebKit bug to see if promises are made of train tracks",
-        "link": "https://alistair.sh/thenables",
-        "pubDate": "2026-11-13T16:48:01.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A technical vision for the Haskell ecosystem",
-        "link": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
-        "pubDate": "2026-11-13T14:27:43.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/4bvg9z/what_are_you_doing_this_weekend",
-        "pubDate": "2026-11-13T10:22:29.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Pointer Provenance in Rust vs C++",
-        "link": "https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/",
-        "pubDate": "2026-11-13T18:37:30.000Z",
+        "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+        "link": "https://arxiv.org/abs/2605.29713",
+        "pubDate": "2026-11-14T04:51:14.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,24 @@
     "id": "axios",
     "items": [
       {
+        "title": "Wholesale food prices are on the rise",
+        "link": "https://www.axios.com/2026/11/14/grocery-wholesale-inflation-vegetables",
+        "pubDate": "2026-11-14T11:30:06.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "U.S. loses measles elimination status",
+        "link": "https://www.axios.com/2026/11/14/us-loses-measles-elimination-status",
+        "pubDate": "2026-11-14T11:10:39.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "3,000 flights cancelled as FAA ground stop chaos stretches into 2nd day",
+        "link": "https://www.axios.com/2026/11/14/faa-ground-stop-saturday",
+        "pubDate": "2026-11-14T10:28:42.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "FAA ends hours-long nationwide ground stop",
         "link": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
         "pubDate": "2026-11-14T02:10:10.000Z",
@@ -357,24 +375,6 @@
         "title": "Oil supplies bounce back, but prices are still high",
         "link": "https://www.axios.com/2026/11/13/oil-markets-iran-prices-trump-deal",
         "pubDate": "2026-11-13T13:30:45.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Doctors want liability shield from AI mistakes",
-        "link": "https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield",
-        "pubDate": "2026-11-13T10:30:07.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Democrats in power confront the social media trap",
-        "link": "https://www.axios.com/2026/11/13/democrats-schumer-jeffries-progressives-social-media",
-        "pubDate": "2026-11-13T10:25:44.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "The AI boom will survive without Jensen Huang, but there's a $500 billion funding hole to fill",
-        "link": "https://www.axios.com/2026/11/13/ai-boom-without-jensen-huang-nvidia",
-        "pubDate": "2026-11-13T09:45:06.000Z",
         "feedId": "axios"
       }
     ]
