@@ -3,9 +3,27 @@
     "id": "hn",
     "items": [
       {
-        "title": "The VHDL standard's float package gets sqrt(2) wrong",
-        "link": "https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg",
-        "pubDate": "2026-11-14T17:58:58.000Z",
+        "title": "SpaceX Catches the Starship to end Flight 15",
+        "link": "https://x.com/i/broadcasts/2brajgZlOKRMka",
+        "pubDate": "2026-11-14T21:22:24.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Dartmouth (Guarini) will not admit math PhD cohort this year",
+        "link": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
+        "pubDate": "2026-11-14T19:23:40.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+        "link": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+        "pubDate": "2026-11-14T18:56:47.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "US IRS free online tax filing open source repo (2025)",
+        "link": "https://github.com/IRS-Public/direct-file",
+        "pubDate": "2026-11-14T17:48:20.000Z",
         "feedId": "hn"
       },
       {
@@ -21,27 +39,21 @@
         "feedId": "hn"
       },
       {
-        "title": "Will We Put Data Centers in Space?",
+        "title": "Will we put data centers in space?",
         "link": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
         "pubDate": "2026-11-14T17:35:33.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Creating a self booting ZIP archive",
+        "link": "https://goliath32.com/blog/ziphead.html",
+        "pubDate": "2026-11-14T16:29:05.000Z",
         "feedId": "hn"
       },
       {
         "title": "How to Create Your Own Decentralized Messenger Protocol",
         "link": "https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol",
         "pubDate": "2026-11-14T16:01:04.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Italy fines Meta €805M over photo privacy",
-        "link": "https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/",
-        "pubDate": "2026-11-14T16:00:14.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Formalizing US Tax Code (Using Lean)",
-        "link": "https://lexifina.com/blog/formalizing-the-us-tax-code",
-        "pubDate": "2026-11-14T15:41:20.000Z",
         "feedId": "hn"
       },
       {
@@ -57,9 +69,9 @@
         "feedId": "hn"
       },
       {
-        "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-        "link": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
-        "pubDate": "2026-11-14T14:09:25.000Z",
+        "title": "Demystifying phone unlocking tools: A technical overview",
+        "link": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
+        "pubDate": "2026-11-14T14:44:28.000Z",
         "feedId": "hn"
       },
       {
@@ -79,36 +91,12 @@
         "link": "https://gitlab.com/snipedbywifi/terminactory",
         "pubDate": "2026-11-14T14:05:54.000Z",
         "feedId": "hn"
-      },
-      {
-        "title": "Italy fines Meta $887M over Android users' data access",
-        "link": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
-        "pubDate": "2026-11-14T13:48:06.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "KDE: The documentary [video]",
-        "link": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-        "pubDate": "2026-11-14T13:43:28.000Z",
-        "feedId": "hn"
       }
     ]
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
-      {
-        "title": "How Not to Build a Music Player",
-        "link": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player",
-        "pubDate": "2026-11-13T09:16:28.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The need for at least a third option",
-        "link": "https://blog.ovalerio.net/archives/3359",
-        "pubDate": "2026-11-13T11:36:44.000Z",
-        "feedId": "lobsters"
-      },
       {
         "title": "Let Me Let You Own Your Data",
         "link": "https://www.willett.io/posts/data/",
@@ -122,15 +110,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Terminal borders that don't cost a cell",
-        "link": "https://www.joshka.net/cell-borders/",
-        "pubDate": "2026-11-13T12:03:19.000Z",
+        "title": "The need for at least a third option",
+        "link": "https://blog.ovalerio.net/archives/3359",
+        "pubDate": "2026-11-13T11:36:44.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How Not to Build a Music Player",
+        "link": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player",
+        "pubDate": "2026-11-13T09:16:28.000Z",
         "feedId": "lobsters"
       },
       {
         "title": "Solving the fox game",
         "link": "http://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html",
         "pubDate": "2026-11-14T10:32:33.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Terminal borders that don't cost a cell",
+        "link": "https://www.joshka.net/cell-borders/",
+        "pubDate": "2026-11-13T12:03:19.000Z",
         "feedId": "lobsters"
       },
       {
@@ -152,6 +152,12 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Writing a DSL for high performance parallel programming in OxCaml",
+        "link": "https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/",
+        "pubDate": "2026-11-14T02:57:49.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Beating the frontier on NetHack",
         "link": "https://antithesis.com/blog/2026/nethack/",
         "pubDate": "2026-11-13T14:34:57.000Z",
@@ -161,12 +167,6 @@
         "title": "ML Modules for Mere Mortals",
         "link": "https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/",
         "pubDate": "2026-11-13T11:33:56.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Writing a DSL for high performance parallel programming in OxCaml",
-        "link": "https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/",
-        "pubDate": "2026-11-14T02:57:49.000Z",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Link Previews and You",
-        "link": "https://sable.moe/en/blog/link-previews-and-you/",
-        "pubDate": "2026-11-13T17:34:47.000Z",
+        "title": "Fixing a WebKit bug to see if promises are made of train tracks",
+        "link": "https://alistair.sh/thenables",
+        "pubDate": "2026-11-13T16:48:01.000Z",
         "feedId": "lobsters"
       }
     ]
