@@ -3,93 +3,93 @@
     "id": "hn",
     "items": [
       {
-        "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
-        "link": "https://news.ycombinator.com/item?id=50494696",
-        "pubDate": "2026-11-14T06:56:42.000Z",
+        "title": "The VHDL standard's float package gets sqrt(2) wrong",
+        "link": "https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg",
+        "pubDate": "2026-11-14T17:58:58.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Monkey Island: all 13 versions side by side",
-        "link": "https://monkeyisland.pages.dev/",
-        "pubDate": "2026-11-14T04:23:30.000Z",
+        "title": "A Family Tree of Software Job Titles",
+        "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+        "pubDate": "2026-11-14T17:45:19.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-        "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-        "pubDate": "2026-11-14T02:52:59.000Z",
+        "title": "Lovable apps expose passport details and more than 200K private messages",
+        "link": "https://www.crissyfield.de/research/lovable-en/",
+        "pubDate": "2026-11-14T17:43:10.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Ggml v1.0.0",
-        "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-        "pubDate": "2026-11-14T02:28:29.000Z",
+        "title": "Will We Put Data Centers in Space?",
+        "link": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
+        "pubDate": "2026-11-14T17:35:33.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Elephants found to be increasingly isolated leading to fractured social networks",
-        "link": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
-        "pubDate": "2026-11-14T02:02:42.000Z",
+        "title": "How to Create Your Own Decentralized Messenger Protocol",
+        "link": "https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol",
+        "pubDate": "2026-11-14T16:01:04.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
-        "link": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
-        "pubDate": "2026-11-14T00:52:29.000Z",
+        "title": "Italy fines Meta €805M over photo privacy",
+        "link": "https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/",
+        "pubDate": "2026-11-14T16:00:14.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-        "link": "https://unsloth.ai/docs/models/qwen3.8",
-        "pubDate": "2026-11-14T00:06:04.000Z",
+        "title": "Formalizing US Tax Code (Using Lean)",
+        "link": "https://lexifina.com/blog/formalizing-the-us-tax-code",
+        "pubDate": "2026-11-14T15:41:20.000Z",
         "feedId": "hn"
       },
       {
-        "title": "What happened to 3Com?",
-        "link": "https://dfarq.homeip.net/what-happened-to-3com/",
-        "pubDate": "2026-11-13T23:48:59.000Z",
+        "title": "PyPI's redesigned project pages with clearer security signals are now live",
+        "link": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+        "pubDate": "2026-11-14T15:40:52.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-        "link": "https://grounds.top/",
-        "pubDate": "2026-11-13T23:17:39.000Z",
+        "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+        "link": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+        "pubDate": "2026-11-14T15:04:15.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Terminal borders that don't cost a cell",
-        "link": "https://www.joshka.net/cell-borders/",
-        "pubDate": "2026-11-13T23:06:40.000Z",
+        "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+        "link": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+        "pubDate": "2026-11-14T14:09:25.000Z",
         "feedId": "hn"
       },
       {
-        "title": "How Not to Build a Music Player",
-        "link": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
-        "pubDate": "2026-11-13T23:04:30.000Z",
+        "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+        "link": "https://github.com/paul-nameless/agweb",
+        "pubDate": "2026-11-14T14:08:12.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-        "link": "https://orcasairband.com/",
-        "pubDate": "2026-11-13T22:04:24.000Z",
+        "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+        "link": "https://github.com/FURSOY/fursoy-cpu",
+        "pubDate": "2026-11-14T14:06:34.000Z",
         "feedId": "hn"
       },
       {
-        "title": "FAA issues national ground stop – lifted 4.5 hours later",
-        "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-        "pubDate": "2026-11-13T21:05:53.000Z",
+        "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+        "link": "https://gitlab.com/snipedbywifi/terminactory",
+        "pubDate": "2026-11-14T14:05:54.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-        "link": "https://atg.science/careers",
-        "pubDate": "2026-11-13T21:01:11.000Z",
+        "title": "Italy fines Meta $887M over Android users' data access",
+        "link": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+        "pubDate": "2026-11-14T13:48:06.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Live-migration support in FreeBSD and bhyve coming",
-        "link": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
-        "pubDate": "2026-11-13T19:58:42.000Z",
+        "title": "KDE: The documentary [video]",
+        "link": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+        "pubDate": "2026-11-14T13:43:28.000Z",
         "feedId": "hn"
       }
     ]
@@ -110,9 +110,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Let Me Let You Own Your Data",
+        "link": "https://www.willett.io/posts/data/",
+        "pubDate": "2026-11-14T16:08:27.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What happened to 3com?",
+        "link": "https://dfarq.homeip.net/what-happened-to-3com/",
+        "pubDate": "2026-11-14T05:46:40.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Terminal borders that don't cost a cell",
         "link": "https://www.joshka.net/cell-borders/",
         "pubDate": "2026-11-13T12:03:19.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Solving the fox game",
+        "link": "http://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html",
+        "pubDate": "2026-11-14T10:32:33.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Creating a self booting ZIP archive",
+        "link": "https://goliath32.com/blog/ziphead.html",
+        "pubDate": "2026-11-14T10:01:58.000Z",
         "feedId": "lobsters"
       },
       {
@@ -128,21 +152,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What happened to 3com?",
-        "link": "https://dfarq.homeip.net/what-happened-to-3com/",
-        "pubDate": "2026-11-14T05:46:40.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Beating the frontier on NetHack",
         "link": "https://antithesis.com/blog/2026/nethack/",
         "pubDate": "2026-11-13T14:34:57.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "goliath32.com - Creating a self booting ZIP archive",
-        "link": "https://goliath32.com/blog/ziphead.html",
-        "pubDate": "2026-11-14T10:01:58.000Z",
         "feedId": "lobsters"
       },
       {
@@ -152,33 +164,15 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Writing a DSL for high performance parallel programming in OxCaml",
+        "link": "https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/",
+        "pubDate": "2026-11-14T02:57:49.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Running a law firm on Free software (2026 edition)",
         "link": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
         "pubDate": "2026-11-13T11:20:32.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Fixing a WebKit bug to see if promises are made of train tracks",
-        "link": "https://alistair.sh/thenables",
-        "pubDate": "2026-11-13T16:48:01.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Contra \"Glue work considered harmful\"",
-        "link": "https://sunshowers.io/posts/glue-work/",
-        "pubDate": "2026-11-13T02:36:05.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Announcing Rust 1.100.0",
-        "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-        "pubDate": "2026-11-12T18:43:41.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Link Previews and You",
-        "link": "https://sable.moe/en/blog/link-previews-and-you/",
-        "pubDate": "2026-11-13T17:34:47.000Z",
         "feedId": "lobsters"
       },
       {
@@ -186,12 +180,30 @@
         "link": "https://arxiv.org/abs/2605.29713",
         "pubDate": "2026-11-14T04:51:14.000Z",
         "feedId": "lobsters"
+      },
+      {
+        "title": "Link Previews and You",
+        "link": "https://sable.moe/en/blog/link-previews-and-you/",
+        "pubDate": "2026-11-13T17:34:47.000Z",
+        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "James Webb telescope finds ice older than the star it orbits",
+        "link": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+        "pubDate": "2026-11-14T12:15:48.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Winemakers are learning that conservation can be good for business",
+        "link": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+        "pubDate": "2026-11-14T12:05:51.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
         "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
@@ -269,24 +281,30 @@
         "link": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
         "pubDate": "2026-11-13T12:00:40.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride",
-        "link": "https://arstechnica.com/gadgets/2026/11/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride/",
-        "pubDate": "2026-11-13T11:50:38.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
-        "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
-        "pubDate": "2026-11-12T22:59:51.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "FAA back at \"full operations\" after Friday outage, Transportation Sec. says",
+        "link": "https://www.axios.com/2026/11/14/faa-ground-stop-outage-update",
+        "pubDate": "2026-11-14T16:56:12.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "AI's four colliding crises",
+        "link": "https://www.axios.com/2026/11/14/ai-trust-nvidia-tech-stocks",
+        "pubDate": "2026-11-14T12:35:56.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "MAGA turns on Lutnick amid China spy scandal",
+        "link": "https://www.axios.com/2026/11/14/lutnick-commerce-china",
+        "pubDate": "2026-11-14T12:30:11.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Wholesale food prices are on the rise",
         "link": "https://www.axios.com/2026/11/14/grocery-wholesale-inflation-vegetables",
@@ -357,24 +375,6 @@
         "title": "Inside the aftermath of the Logan Circle shooting",
         "link": "https://www.axios.com/local/washington-dc/2026/11/13/logan-circle-shooting-dc-barricade",
         "pubDate": "2026-11-13T16:06:08.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Israeli spy chief in D.C. as Netanyahu presses Trump to resume war",
-        "link": "https://www.axios.com/2026/11/13/mossad-israel-iran-war-netanyahu-pressures-trump",
-        "pubDate": "2026-11-13T14:42:42.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Bessent puts Megaspeed heat on Lutnick: \"Commerce has the pen\"",
-        "link": "https://www.axios.com/2026/11/13/bessent-lutnick-megaspeed-nvidia",
-        "pubDate": "2026-11-13T14:18:45.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Oil supplies bounce back, but prices are still high",
-        "link": "https://www.axios.com/2026/11/13/oil-markets-iran-prices-trump-deal",
-        "pubDate": "2026-11-13T13:30:45.000Z",
         "feedId": "axios"
       }
     ]
