@@ -3,6 +3,72 @@
     "id": "hn",
     "items": [
       {
+        "title": "What Picasso taught me about building AI Agents",
+        "link": "https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/",
+        "pubDate": "2026-11-15T16:16:26.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Atheist Bible",
+        "link": "https://suchanek.name/texts/atheism/",
+        "pubDate": "2026-11-15T16:05:53.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story",
+        "link": "https://www.commondreams.org/news/duffy-ground-stop-explanation",
+        "pubDate": "2026-11-15T15:45:42.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Emacs Is My Browser",
+        "link": "https://joshblais.com/blog/emacs-as-my-browser/",
+        "pubDate": "2026-11-15T15:21:21.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "All AI-generated code should be Open Source",
+        "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+        "pubDate": "2026-11-15T14:46:58.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+        "link": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
+        "pubDate": "2026-11-15T14:31:52.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+        "link": "https://prog21.dadgum.com/116.html",
+        "pubDate": "2026-11-15T13:44:16.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+        "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+        "pubDate": "2026-11-15T13:15:22.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "A NES emulator written in Odin",
+        "link": "https://lucypero.com/lucynes.html",
+        "pubDate": "2026-11-15T12:51:47.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Understanding Positional Embeddings in Modern LLMs",
+        "link": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+        "pubDate": "2026-11-15T12:14:06.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+        "link": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+        "pubDate": "2026-11-15T11:40:51.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Why did some Apollo missions carry a grenade launcher?",
         "link": "https://space.stackexchange.com/questions/37775",
         "pubDate": "2026-11-15T09:06:43.000Z",
@@ -15,81 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "Kiri – The Modern Container Runtime",
-        "link": "https://runkiri.com/",
-        "pubDate": "2026-11-15T04:40:41.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Gawain – Require type hints on all Python variables",
-        "link": "https://github.com/matheuzgomes/gawain",
-        "pubDate": "2026-11-15T04:39:25.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-        "link": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-        "pubDate": "2026-11-15T04:09:11.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "My favourite modern NES games",
         "link": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
         "pubDate": "2026-11-15T02:41:25.000Z",
         "feedId": "hn"
       },
       {
-        "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-        "link": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-        "pubDate": "2026-11-15T02:00:54.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Court denies motion to dismiss DRAM price fixing case",
         "link": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
         "pubDate": "2026-11-15T01:18:36.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-        "link": "https://retrocomputing.stackexchange.com/questions/17957",
-        "pubDate": "2026-11-14T22:22:49.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "SpaceX catches the Starship to end Flight 15",
-        "link": "https://www.spacex.com/launches/starship-flight-15",
-        "pubDate": "2026-11-14T21:22:24.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "A family tree of software job titles",
-        "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-        "pubDate": "2026-11-14T17:45:19.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Lovable apps expose passport details and more than 200K private messages",
-        "link": "https://www.crissyfield.de/research/lovable-en/",
-        "pubDate": "2026-11-14T17:43:10.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "PyPI's redesigned project pages with clearer security signals are now live",
-        "link": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-        "pubDate": "2026-11-14T15:40:52.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-        "link": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-        "pubDate": "2026-11-14T15:04:15.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "KDE: The documentary [video]",
-        "link": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-        "pubDate": "2026-11-14T13:43:28.000Z",
         "feedId": "hn"
       }
     ]
@@ -98,21 +98,33 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "Memory management in 40 major C projects, a survey",
+        "link": "https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html",
+        "pubDate": "2026-11-15T12:50:03.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "25 of my favourite modern NES games",
         "link": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
         "pubDate": "2026-11-15T02:40:40.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Let Me Let You Own Your Data",
-        "link": "https://www.willett.io/posts/data/",
-        "pubDate": "2026-11-14T16:08:27.000Z",
+        "title": "cursor:pointer on buttons",
+        "link": "https://blog.kizu.dev/cursors/",
+        "pubDate": "2026-11-15T09:15:40.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Parsing nested lists in BQN",
-        "link": "https://saltysylvi.github.io/blog/parsing-nested-lists-in-bqn.html",
-        "pubDate": "2026-11-15T01:59:26.000Z",
+        "title": "A NES emulator written in Odin",
+        "link": "https://lucypero.com/lucynes.html",
+        "pubDate": "2026-11-15T12:37:33.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Let Me Let You Own Your Data",
+        "link": "https://www.willett.io/posts/data/",
+        "pubDate": "2026-11-14T16:08:27.000Z",
         "feedId": "lobsters"
       },
       {
@@ -128,21 +140,39 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What happened to 3com?",
-        "link": "https://dfarq.homeip.net/what-happened-to-3com/",
-        "pubDate": "2026-11-14T05:46:40.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Anthropomorphic Software",
         "link": "https://aspiz.uk/wiki/AnthropomorphicSoftware",
         "pubDate": "2026-11-15T08:05:45.000Z",
         "feedId": "lobsters"
       },
       {
+        "title": "Parsing nested lists in BQN",
+        "link": "https://saltysylvi.github.io/blog/parsing-nested-lists-in-bqn.html",
+        "pubDate": "2026-11-15T01:59:26.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "All AI-generated code should be Open Source",
+        "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+        "pubDate": "2026-11-15T16:04:01.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Reintroducing Spaces",
         "link": "https://dholms.leaflet.pub/3mu3p3ldwrc26",
         "pubDate": "2026-11-15T02:34:44.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Disk encryption on NetBSD achieving secrecy",
+        "link": "https://netbsd.org/~nia/disk-encrypt/",
+        "pubDate": "2026-11-15T05:30:28.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What happened to 3com?",
+        "link": "https://dfarq.homeip.net/what-happened-to-3com/",
+        "pubDate": "2026-11-14T05:46:40.000Z",
         "feedId": "lobsters"
       },
       {
@@ -156,42 +186,18 @@
         "link": "https://blog.ovalerio.net/archives/3359",
         "pubDate": "2026-11-13T11:36:44.000Z",
         "feedId": "lobsters"
-      },
-      {
-        "title": "How Not to Build a Music Player",
-        "link": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player",
-        "pubDate": "2026-11-13T09:16:28.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Disk encryption on NetBSD achieving secrecy",
-        "link": "https://netbsd.org/~nia/disk-encrypt/",
-        "pubDate": "2026-11-15T05:30:28.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "cursor:pointer on buttons",
-        "link": "https://blog.kizu.dev/cursors/",
-        "pubDate": "2026-11-15T09:15:40.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Terminal borders that don't cost a cell",
-        "link": "https://www.joshka.net/cell-borders/",
-        "pubDate": "2026-11-13T12:03:19.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Creating a self booting ZIP archive",
-        "link": "https://goliath32.com/blog/ziphead.html",
-        "pubDate": "2026-11-14T10:01:58.000Z",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "How the world’s fires changed while humanity hit pause",
+        "link": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+        "pubDate": "2026-11-15T12:07:34.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
         "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
@@ -275,18 +281,42 @@
         "link": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
         "pubDate": "2026-11-13T14:45:04.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Scientists warn 1.5°C climate change threshold could arrive by 2029",
-        "link": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/",
-        "pubDate": "2026-11-13T14:29:15.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Bessent questions did Nvidia \"goose\" earnings with suspect China chip sales",
+        "link": "https://www.axios.com/2026/11/15/bessent-nvidia-earnings-china-chip-sales-ceo",
+        "pubDate": "2026-11-15T17:29:21.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump's border crackdown faces a new blue wall of governors and House members",
+        "link": "https://www.axios.com/2026/11/15/blue-border-wall-democrats-governors-immigration",
+        "pubDate": "2026-11-15T15:42:48.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "How Nvidia's scandal knocked thousands off your 401(k)",
+        "link": "https://www.axios.com/2026/11/15/nvidia-stocks-401k-retirement-accounts",
+        "pubDate": "2026-11-15T12:30:10.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Space data centers could end stargazing as we know it",
+        "link": "https://www.axios.com/2026/11/15/space-data-centers-risks-stargazing-report",
+        "pubDate": "2026-11-15T11:45:05.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Gen Z shatters America's political orthodoxies",
+        "link": "https://www.axios.com/2026/11/15/gen-z-socialism-israel-faith-politics-old-rules",
+        "pubDate": "2026-11-15T11:30:05.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "FAA back at \"full operations\" after Friday outage, Transportation Sec. says",
         "link": "https://www.axios.com/2026/11/14/faa-ground-stop-outage-update",
@@ -345,36 +375,6 @@
         "title": "The senators who could join Van Hollen's insurgency against Schumer",
         "link": "https://www.axios.com/2026/11/13/democrats-schumer-van-hollen-senate-leader",
         "pubDate": "2026-11-13T20:10:49.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Senate Dems break 32-year drought on leadership challenges",
-        "link": "https://www.axios.com/2026/11/13/senate-democrats-van-hollen-schumer-election",
-        "pubDate": "2026-11-13T20:06:41.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "How the Microsoft outage impacted courts and governments",
-        "link": "https://www.axios.com/2026/11/13/microsoft-outage-hits-courts-congress",
-        "pubDate": "2026-11-13T19:59:55.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Nobody wants to run against Hakeem Jeffries for speaker",
-        "link": "https://www.axios.com/2026/11/13/jeffries-speaker-house-democrats-pressley-raskin",
-        "pubDate": "2026-11-13T18:15:17.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "The global economy's Achilles' heels",
-        "link": "https://www.axios.com/2026/11/13/global-trade-supply-hormuz-mckinsey",
-        "pubDate": "2026-11-13T17:00:53.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Inside the aftermath of the Logan Circle shooting",
-        "link": "https://www.axios.com/local/washington-dc/2026/11/13/logan-circle-shooting-dc-barricade",
-        "pubDate": "2026-11-13T16:06:08.000Z",
         "feedId": "axios"
       }
     ]
