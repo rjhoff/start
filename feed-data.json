@@ -3,15 +3,51 @@
     "id": "hn",
     "items": [
       {
-        "title": "L3Harris statement on the Nov. 13 ground stop",
-        "link": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop",
-        "pubDate": "2026-11-14T22:51:44.000Z",
+        "title": "Why did some Apollo missions carry a grenade launcher?",
+        "link": "https://space.stackexchange.com/questions/37775",
+        "pubDate": "2026-11-15T09:06:43.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-        "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-        "pubDate": "2026-11-14T22:26:30.000Z",
+        "title": "Disk encryption on NetBSD – achieving secrecy",
+        "link": "https://netbsd.org/~nia/disk-encrypt/",
+        "pubDate": "2026-11-15T05:29:54.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Kiri – The Modern Container Runtime",
+        "link": "https://runkiri.com/",
+        "pubDate": "2026-11-15T04:40:41.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Gawain – Require type hints on all Python variables",
+        "link": "https://github.com/matheuzgomes/gawain",
+        "pubDate": "2026-11-15T04:39:25.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+        "link": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+        "pubDate": "2026-11-15T04:09:11.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "My favourite modern NES games",
+        "link": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+        "pubDate": "2026-11-15T02:41:25.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+        "link": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+        "pubDate": "2026-11-15T02:00:54.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Court denies motion to dismiss DRAM price fixing case",
+        "link": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+        "pubDate": "2026-11-15T01:18:36.000Z",
         "feedId": "hn"
       },
       {
@@ -27,12 +63,6 @@
         "feedId": "hn"
       },
       {
-        "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
-        "link": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
-        "pubDate": "2026-11-14T18:56:47.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "A family tree of software job titles",
         "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
         "pubDate": "2026-11-14T17:45:19.000Z",
@@ -42,12 +72,6 @@
         "title": "Lovable apps expose passport details and more than 200K private messages",
         "link": "https://www.crissyfield.de/research/lovable-en/",
         "pubDate": "2026-11-14T17:43:10.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Creating a self booting ZIP archive",
-        "link": "https://goliath32.com/blog/ziphead.html",
-        "pubDate": "2026-11-14T16:29:05.000Z",
         "feedId": "hn"
       },
       {
@@ -63,30 +87,6 @@
         "feedId": "hn"
       },
       {
-        "title": "Demystifying phone unlocking tools: A technical overview",
-        "link": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
-        "pubDate": "2026-11-14T14:44:28.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
-        "link": "https://github.com/FURSOY/fursoy-cpu",
-        "pubDate": "2026-11-14T14:06:34.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-        "link": "https://gitlab.com/snipedbywifi/terminactory",
-        "pubDate": "2026-11-14T14:05:54.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Italy fines Meta $887M over Android users' data access",
-        "link": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
-        "pubDate": "2026-11-14T13:48:06.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "KDE: The documentary [video]",
         "link": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
         "pubDate": "2026-11-14T13:43:28.000Z",
@@ -98,15 +98,57 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "25 of my favourite modern NES games",
+        "link": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+        "pubDate": "2026-11-15T02:40:40.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Let Me Let You Own Your Data",
         "link": "https://www.willett.io/posts/data/",
         "pubDate": "2026-11-14T16:08:27.000Z",
         "feedId": "lobsters"
       },
       {
+        "title": "Parsing nested lists in BQN",
+        "link": "https://saltysylvi.github.io/blog/parsing-nested-lists-in-bqn.html",
+        "pubDate": "2026-11-15T01:59:26.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Periodic-Oriented Programming for FIRST Robotics",
+        "link": "https://bvisness.me/periodic-oriented-programming/",
+        "pubDate": "2026-11-15T03:16:42.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "FreeBSD bhyve Live Migration: Moving VMs Between Hosts",
+        "link": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+        "pubDate": "2026-11-15T06:44:44.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "What happened to 3com?",
         "link": "https://dfarq.homeip.net/what-happened-to-3com/",
         "pubDate": "2026-11-14T05:46:40.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Anthropomorphic Software",
+        "link": "https://aspiz.uk/wiki/AnthropomorphicSoftware",
+        "pubDate": "2026-11-15T08:05:45.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Reintroducing Spaces",
+        "link": "https://dholms.leaflet.pub/3mu3p3ldwrc26",
+        "pubDate": "2026-11-15T02:34:44.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Solving the fox game",
+        "link": "http://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html",
+        "pubDate": "2026-11-14T10:32:33.000Z",
         "feedId": "lobsters"
       },
       {
@@ -122,9 +164,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Solving the fox game",
-        "link": "http://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html",
-        "pubDate": "2026-11-14T10:32:33.000Z",
+        "title": "Disk encryption on NetBSD achieving secrecy",
+        "link": "https://netbsd.org/~nia/disk-encrypt/",
+        "pubDate": "2026-11-15T05:30:28.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "cursor:pointer on buttons",
+        "link": "https://blog.kizu.dev/cursors/",
+        "pubDate": "2026-11-15T09:15:40.000Z",
         "feedId": "lobsters"
       },
       {
@@ -137,54 +185,6 @@
         "title": "Creating a self booting ZIP archive",
         "link": "https://goliath32.com/blog/ziphead.html",
         "pubDate": "2026-11-14T10:01:58.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Probabilistic data structures in Go",
-        "link": "https://antonz.org/probabilistic-data-structures/",
-        "pubDate": "2026-11-13T16:03:44.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Someone's impersonating this blog",
-        "link": "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/",
-        "pubDate": "2026-11-13T20:39:53.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Parsing nested lists in BQN",
-        "link": "https://saltysylvi.github.io/blog/parsing-nested-lists-in-bqn.html",
-        "pubDate": "2026-11-15T01:59:26.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Let's Employ",
-        "link": "https://www.letsemploy.org",
-        "pubDate": "2026-11-15T01:46:52.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Writing a DSL for high performance parallel programming in OxCaml",
-        "link": "https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/",
-        "pubDate": "2026-11-14T02:57:49.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "ML Modules for Mere Mortals",
-        "link": "https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/",
-        "pubDate": "2026-11-13T11:33:56.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Beating the frontier on NetHack",
-        "link": "https://antithesis.com/blog/2026/nethack/",
-        "pubDate": "2026-11-13T14:34:57.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-        "link": "https://arxiv.org/abs/2605.29713",
-        "pubDate": "2026-11-14T04:51:14.000Z",
         "feedId": "lobsters"
       }
     ]
