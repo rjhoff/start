@@ -3,27 +3,51 @@
     "id": "hn",
     "items": [
       {
+        "title": "How to make almost anything",
+        "link": "https://pub.cba.mit.edu/863.26/site/",
+        "pubDate": "2026-11-16T05:50:37.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Did the Apollo Guidance Computer use 60% of the ICs in 1963?",
+        "link": "https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963",
+        "pubDate": "2026-11-16T05:05:54.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
+        "link": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101",
+        "pubDate": "2026-11-16T04:53:06.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Stop Filming in Log",
+        "link": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
+        "pubDate": "2026-11-16T04:37:03.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Qwen4-Max",
+        "link": "https://qwen.ai/blog?id=qwen4-max",
+        "pubDate": "2026-11-16T02:14:44.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Universal XSS in uBlock Origin from website-driven element picker",
         "link": "https://iter.ca/post/ubo-uxss/",
         "pubDate": "2026-11-16T02:04:48.000Z",
         "feedId": "hn"
       },
       {
-        "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-        "link": "https://www.hntrends.com/2026/november.html",
-        "pubDate": "2026-11-16T01:31:30.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Coles hit by a cybersecurity incident",
-        "link": "https://www.colesgroup.com.au/updates/",
-        "pubDate": "2026-11-16T01:14:35.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
         "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
         "pubDate": "2026-11-16T00:21:54.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
+        "link": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+        "pubDate": "2026-11-16T00:03:12.000Z",
         "feedId": "hn"
       },
       {
@@ -39,27 +63,21 @@
         "feedId": "hn"
       },
       {
+        "title": "Parcel: A desktop mail client for Linux, built with Zig",
+        "link": "https://tangled.org/rockorager.dev/parcel",
+        "pubDate": "2026-11-15T23:54:39.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Preserving 30 years of Salon journalism",
         "link": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
         "pubDate": "2026-11-15T23:00:11.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
-        "link": "https://lastcomplication.com/",
-        "pubDate": "2026-11-15T22:48:52.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Old Bitly links are being hijacked",
         "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
         "pubDate": "2026-11-15T22:11:43.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
-        "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
-        "pubDate": "2026-11-15T20:37:28.000Z",
         "feedId": "hn"
       },
       {
@@ -72,24 +90,6 @@
         "title": "Handwriting, as a Font",
         "link": "https://ductus.sorenblank.com",
         "pubDate": "2026-11-15T19:42:13.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-        "link": "https://bruceroettgers.eu/blog/protomaps/",
-        "pubDate": "2026-11-15T19:26:22.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Eclipse Mosquitto – An open source MQTT broker",
-        "link": "https://github.com/eclipse-mosquitto/mosquitto",
-        "pubDate": "2026-11-15T18:36:40.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-        "link": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
-        "pubDate": "2026-11-15T18:36:10.000Z",
         "feedId": "hn"
       }
     ]
@@ -104,9 +104,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Memory management in 40 major C projects, a survey",
-        "link": "https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html",
-        "pubDate": "2026-11-15T12:50:03.000Z",
+        "title": "Migrating from GitHub to Codeberg",
+        "link": "https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/",
+        "pubDate": "2026-11-16T05:10:34.000Z",
         "feedId": "lobsters"
       },
       {
@@ -116,21 +116,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "25 of my favourite modern NES games",
-        "link": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
-        "pubDate": "2026-11-15T02:40:40.000Z",
+        "title": "Memory management in 40 major C projects, a survey",
+        "link": "https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html",
+        "pubDate": "2026-11-15T12:50:03.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "cursor:pointer on buttons",
-        "link": "https://blog.kizu.dev/cursors/",
-        "pubDate": "2026-11-15T09:15:40.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "clice v1.0 Released: Welcome to Modern C++",
-        "link": "https://www.ykiko.me/en/articles/2105384023094834022/",
-        "pubDate": "2026-11-15T21:19:35.000Z",
+        "title": "Paint in the memory of other programs",
+        "link": "https://citrons.xyz/journal/2026-04-13",
+        "pubDate": "2026-11-16T03:37:36.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,33 +134,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "A NES emulator written in Odin",
-        "link": "https://lucypero.com/lucynes.html",
-        "pubDate": "2026-11-15T12:37:33.000Z",
+        "title": "clice v1.0 Released: Welcome to Modern C++",
+        "link": "https://www.ykiko.me/en/articles/2105384023094834022/",
+        "pubDate": "2026-11-15T21:19:35.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Please Implement A Quorum Database",
-        "link": "https://transactional.blog/talk/please-implement-a-quorum-database",
-        "pubDate": "2026-11-15T22:44:13.000Z",
+        "title": "Universal XSS in uBlock Origin from website-driven element picker",
+        "link": "https://iter.ca/post/ubo-uxss/",
+        "pubDate": "2026-11-16T05:12:27.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Blog: Preventing Cross-Service UDP Loops in QUIC",
-        "link": "https://bughunters.google.com/blog/preventing-cross-service-udp-loops-in-quic",
-        "pubDate": "2026-11-15T20:34:37.000Z",
+        "title": "Announcing Hegel-clj",
+        "link": "https://aphyr.com/posts/428-announcing-hegel-clj",
+        "pubDate": "2026-11-16T04:12:25.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "This Month in Redox - October 2026",
-        "link": "https://www.redox-os.org/news/this-month-261031/",
-        "pubDate": "2026-11-15T23:05:45.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "FreeBSD bhyve Live Migration: Moving VMs Between Hosts",
-        "link": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
-        "pubDate": "2026-11-15T06:44:44.000Z",
+        "title": "25 of my favourite modern NES games",
+        "link": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+        "pubDate": "2026-11-15T02:40:40.000Z",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Let Me Let You Own Your Data",
-        "link": "https://www.willett.io/posts/data/",
-        "pubDate": "2026-11-14T16:08:27.000Z",
+        "title": "cursor:pointer on buttons",
+        "link": "https://blog.kizu.dev/cursors/",
+        "pubDate": "2026-11-15T09:15:40.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Designing nextest's install scripts",
-        "link": "https://sunshowers.io/posts/nextest-install-scripts/",
-        "pubDate": "2026-11-16T00:14:56.000Z",
+        "title": "This Month in Redox - October 2026",
+        "link": "https://www.redox-os.org/news/this-month-261031/",
+        "pubDate": "2026-11-15T23:05:45.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Please Implement A Quorum Database",
+        "link": "https://transactional.blog/talk/please-implement-a-quorum-database",
+        "pubDate": "2026-11-15T22:44:13.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "you won't win at copyright",
+        "link": "https://ingrids.space/posts/you-wont-win-at-copyright/",
+        "pubDate": "2026-11-16T08:30:13.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,36 @@
     "id": "axios",
     "items": [
       {
+        "title": "Employer health cost crunch is worse than projected",
+        "link": "https://www.axios.com/2026/11/16/employer-health-insurance-rising-costs-survey",
+        "pubDate": "2026-11-16T10:30:08.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "The chain-reaction era: Constant shock and awe",
+        "link": "https://www.axios.com/2026/11/16/chain-reaction-nvidia-ai-politics-business",
+        "pubDate": "2026-11-16T10:22:52.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Why Democrats may want to make Trump look good",
+        "link": "https://www.axios.com/2026/11/16/democrats-trump-midterms-work-together",
+        "pubDate": "2026-11-16T10:20:10.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "\"No sane person questions whether AI works\" — but an AI bubble appears ready to pop.",
+        "link": "https://www.axios.com/2026/11/16/nvidia-jensen-huang-ai-bubble",
+        "pubDate": "2026-11-16T10:15:08.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "MAGA figures hope Jensen Huang's spy scandal finally breaks Trump's embrace of Big Tech",
+        "link": "https://www.axios.com/2026/11/16/maga-jensen-huang-chinese-spy-scandal-trump",
+        "pubDate": "2026-11-16T10:00:09.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "Dems' Denver victory party previews 2028 battles",
         "link": "https://www.axios.com/2026/11/15/democrats-denver-celebration-divide",
         "pubDate": "2026-11-15T22:50:05.000Z",
@@ -345,36 +375,6 @@
         "title": "AI's four colliding crises",
         "link": "https://www.axios.com/2026/11/14/ai-trust-nvidia-tech-stocks",
         "pubDate": "2026-11-14T12:35:56.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "MAGA turns on Lutnick amid China spy scandal",
-        "link": "https://www.axios.com/2026/11/14/lutnick-commerce-china",
-        "pubDate": "2026-11-14T12:30:11.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Wholesale food prices are on the rise",
-        "link": "https://www.axios.com/2026/11/14/grocery-wholesale-inflation-vegetables",
-        "pubDate": "2026-11-14T11:30:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "U.S. loses measles elimination status",
-        "link": "https://www.axios.com/2026/11/14/us-loses-measles-elimination-status",
-        "pubDate": "2026-11-14T11:10:39.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "3,000 flights cancelled as FAA ground stop chaos stretches into 2nd day",
-        "link": "https://www.axios.com/2026/11/14/faa-ground-stop-saturday",
-        "pubDate": "2026-11-14T10:28:42.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "FAA ends hours-long nationwide ground stop",
-        "link": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
-        "pubDate": "2026-11-14T02:10:10.000Z",
         "feedId": "axios"
       }
     ]
