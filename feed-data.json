@@ -3,21 +3,57 @@
     "id": "hn",
     "items": [
       {
-        "title": "Old Bitly Links Are Being Hijacked",
+        "title": "Universal XSS in uBlock Origin from website-driven element picker",
+        "link": "https://iter.ca/post/ubo-uxss/",
+        "pubDate": "2026-11-16T02:04:48.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+        "link": "https://www.hntrends.com/2026/november.html",
+        "pubDate": "2026-11-16T01:31:30.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Coles hit by a cybersecurity incident",
+        "link": "https://www.colesgroup.com.au/updates/",
+        "pubDate": "2026-11-16T01:14:35.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+        "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+        "pubDate": "2026-11-16T00:21:54.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "What's Next for Nvidia?",
+        "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+        "pubDate": "2026-11-15T23:55:55.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Mini.nvim Is Now on Tangled",
+        "link": "https://tangled.org/nvim-mini.org/mini.nvim",
+        "pubDate": "2026-11-15T23:55:41.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Preserving 30 years of Salon journalism",
+        "link": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+        "pubDate": "2026-11-15T23:00:11.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
+        "link": "https://lastcomplication.com/",
+        "pubDate": "2026-11-15T22:48:52.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Old Bitly links are being hijacked",
         "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
         "pubDate": "2026-11-15T22:11:43.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
-        "link": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
-        "pubDate": "2026-11-15T21:38:11.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Your Agent Will Pick the Hackable One",
-        "link": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
-        "pubDate": "2026-11-15T21:10:39.000Z",
         "feedId": "hn"
       },
       {
@@ -30,12 +66,6 @@
         "title": "WebGL Flight Simulator with seed generated terrain",
         "link": "https://baron.by.dai.studio/",
         "pubDate": "2026-11-15T20:20:05.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
-        "link": "https://arkanumdata.com/research/house-trades",
-        "pubDate": "2026-11-15T19:46:02.000Z",
         "feedId": "hn"
       },
       {
@@ -61,42 +91,18 @@
         "link": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
         "pubDate": "2026-11-15T18:36:10.000Z",
         "feedId": "hn"
-      },
-      {
-        "title": "A short explainer on how El Niño works [video]",
-        "link": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-        "pubDate": "2026-11-15T18:23:21.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-        "link": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-        "pubDate": "2026-11-15T17:53:31.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Clice v1.0 Released: Welcome to Modern C++",
-        "link": "https://ykiko.me/en/articles/2105384023094834022/",
-        "pubDate": "2026-11-15T17:22:32.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Emacs Is My Browser",
-        "link": "https://joshblais.com/blog/emacs-as-my-browser/",
-        "pubDate": "2026-11-15T15:21:21.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "All AI-generated code should be Open Source",
-        "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-        "pubDate": "2026-11-15T14:46:58.000Z",
-        "feedId": "hn"
       }
     ]
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "A datetime library for Rust",
+        "link": "https://burntsushi.net/jiff/",
+        "pubDate": "2026-11-15T22:39:34.000Z",
+        "feedId": "lobsters"
+      },
       {
         "title": "Memory management in 40 major C projects, a survey",
         "link": "https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html",
@@ -122,15 +128,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "clice v1.0 Released: Welcome to Modern C++",
+        "link": "https://www.ykiko.me/en/articles/2105384023094834022/",
+        "pubDate": "2026-11-15T21:19:35.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "beer.drv.drv.drv",
+        "link": "https://fzakaria.com/2026/11/14/beer-drv-drv-drv",
+        "pubDate": "2026-11-16T00:47:28.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "A NES emulator written in Odin",
         "link": "https://lucypero.com/lucynes.html",
         "pubDate": "2026-11-15T12:37:33.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "FreeBSD bhyve Live Migration: Moving VMs Between Hosts",
-        "link": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
-        "pubDate": "2026-11-15T06:44:44.000Z",
+        "title": "Please Implement A Quorum Database",
+        "link": "https://transactional.blog/talk/please-implement-a-quorum-database",
+        "pubDate": "2026-11-15T22:44:13.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,51 +158,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "This Month in Redox - October 2026",
+        "link": "https://www.redox-os.org/news/this-month-261031/",
+        "pubDate": "2026-11-15T23:05:45.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "FreeBSD bhyve Live Migration: Moving VMs Between Hosts",
+        "link": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+        "pubDate": "2026-11-15T06:44:44.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Nix: Using the eval-profiler",
+        "link": "https://nix.dev/manual/nix/2.35/advanced-topics/eval-profiler",
+        "pubDate": "2026-11-16T01:28:22.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Let Me Let You Own Your Data",
         "link": "https://www.willett.io/posts/data/",
         "pubDate": "2026-11-14T16:08:27.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Periodic-Oriented Programming for FIRST Robotics",
-        "link": "https://bvisness.me/periodic-oriented-programming/",
-        "pubDate": "2026-11-15T03:16:42.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Anthropomorphic Software",
-        "link": "https://aspiz.uk/wiki/AnthropomorphicSoftware",
-        "pubDate": "2026-11-15T08:05:45.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "clice v1.0 Released: Welcome to Modern C++",
-        "link": "https://www.ykiko.me/en/articles/2105384023094834022/",
-        "pubDate": "2026-11-15T21:19:35.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Disk encryption on NetBSD achieving secrecy",
-        "link": "https://netbsd.org/~nia/disk-encrypt/",
-        "pubDate": "2026-11-15T05:30:28.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Reintroducing Spaces",
-        "link": "https://dholms.leaflet.pub/3mu3p3ldwrc26",
-        "pubDate": "2026-11-15T02:34:44.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Parsing nested lists in BQN",
-        "link": "https://saltysylvi.github.io/blog/parsing-nested-lists-in-bqn.html",
-        "pubDate": "2026-11-15T01:59:26.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Rust Declarative Macros: Organization, Scoping, and Common Use-Cases",
-        "link": "https://sigseis.dev/articles/2026/11/10",
-        "pubDate": "2026-11-15T19:40:13.000Z",
+        "title": "Designing nextest's install scripts",
+        "link": "https://sunshowers.io/posts/nextest-install-scripts/",
+        "pubDate": "2026-11-16T00:14:56.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+        "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+        "pubDate": "2026-11-15T23:11:54.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "How the world’s fires changed while humanity hit pause",
         "link": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
@@ -275,18 +281,30 @@
         "link": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/",
         "pubDate": "2026-11-13T15:09:39.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
-        "link": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
-        "pubDate": "2026-11-13T14:45:04.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Dems' Denver victory party previews 2028 battles",
+        "link": "https://www.axios.com/2026/11/15/democrats-denver-celebration-divide",
+        "pubDate": "2026-11-15T22:50:05.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Some Dems' 2028 strategy: Make America Nice Again",
+        "link": "https://www.axios.com/2026/11/15/democrats-make-america-nice-again-2028",
+        "pubDate": "2026-11-15T22:40:06.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Vance may wait until late spring to reveal 2028 plans",
+        "link": "https://www.axios.com/2026/11/15/vance-2028-campaign-president-announce",
+        "pubDate": "2026-11-15T22:30:06.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Bessent questions did Nvidia \"goose\" earnings with suspect China chip sales",
         "link": "https://www.axios.com/2026/11/15/bessent-nvidia-earnings-china-chip-sales-ceo",
@@ -357,24 +375,6 @@
         "title": "FAA ends hours-long nationwide ground stop",
         "link": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
         "pubDate": "2026-11-14T02:10:10.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Mississippi River cruise crash has no fatalities, critical injuries",
-        "link": "https://www.axios.com/2026/11/13/new-orleans-cruise-ship-tanker-strike",
-        "pubDate": "2026-11-14T01:17:59.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump administration delays Medicaid work requirements by six months",
-        "link": "https://www.axios.com/2026/11/13/medicaid-work-requirements-six-month-delay",
-        "pubDate": "2026-11-13T22:46:47.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "The senators who could join Van Hollen's insurgency against Schumer",
-        "link": "https://www.axios.com/2026/11/13/democrats-schumer-van-hollen-senate-leader",
-        "pubDate": "2026-11-13T20:10:49.000Z",
         "feedId": "axios"
       }
     ]
