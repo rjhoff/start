@@ -3,69 +3,45 @@
     "id": "hn",
     "items": [
       {
+        "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+        "link": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+        "pubDate": "2026-11-17T11:45:51.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "How the Claude Code team thinks about verification",
+        "link": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+        "pubDate": "2026-11-17T10:20:40.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "If an App Asks for Full Disk Access or System and App Protection Override",
         "link": "https://support.apple.com/en-us/149699",
         "pubDate": "2026-11-17T02:17:04.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Mem Is Shutting Down",
-        "link": "https://get.mem.ai/blog/mem-is-shutting-down",
-        "pubDate": "2026-11-17T02:13:41.000Z",
+        "title": "Why 3dfx 1 cards had such a washed out color output?",
+        "link": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+        "pubDate": "2026-11-17T00:16:24.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: A free interactive course on AI agent governance",
-        "link": "https://studio.sinapsdata.com.br",
-        "pubDate": "2026-11-17T02:12:13.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
-        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
-        "pubDate": "2026-11-17T01:35:16.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Running coding agents without handing them my credentials",
-        "link": "https://blog.antonio.cx/running-agents-with-lend",
-        "pubDate": "2026-11-17T01:18:56.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
-        "link": "https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/",
-        "pubDate": "2026-11-17T00:23:21.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
-        "link": "https://github.com/0nelight/sutra-os",
-        "pubDate": "2026-11-16T23:25:41.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+        "title": "Optimizely compromised, served malware on Zoom, GitLab",
         "link": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
         "pubDate": "2026-11-16T23:00:34.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+        "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
         "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
         "pubDate": "2026-11-16T22:58:20.000Z",
         "feedId": "hn"
       },
       {
-        "title": "How to Break into Security, Ptacek Edition (2012)",
-        "link": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
-        "pubDate": "2026-11-16T22:19:23.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "United Airlines experiencing a widespread system outage, airline says",
-        "link": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
-        "pubDate": "2026-11-16T22:14:38.000Z",
+        "title": "Spamhaus new email sender requirements in November",
+        "link": "https://www.spamhaus.org/sender-guidelines/",
+        "pubDate": "2026-11-16T21:47:19.000Z",
         "feedId": "hn"
       },
       {
@@ -81,15 +57,39 @@
         "feedId": "hn"
       },
       {
-        "title": "My Quest to push native Three.js quality match AAA Game Engines",
-        "link": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
-        "pubDate": "2026-11-16T21:07:43.000Z",
+        "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+        "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+        "pubDate": "2026-11-16T20:48:08.000Z",
         "feedId": "hn"
       },
       {
         "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
         "link": "https://www.cs.cmu.edu/learn/",
         "pubDate": "2026-11-16T20:43:36.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+        "link": "https://news.ycombinator.com/item?id=50522776",
+        "pubDate": "2026-11-16T20:29:48.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Chemistry is Actually Geometry",
+        "link": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+        "pubDate": "2026-11-16T20:22:18.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+        "link": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+        "pubDate": "2026-11-16T18:31:30.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Grazing sheep in fields with solar arrays",
+        "link": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+        "pubDate": "2026-11-16T17:27:46.000Z",
         "feedId": "hn"
       }
     ]
@@ -98,15 +98,9 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "What is w2rt6byl5nf1opmc-a[.]com?",
-        "link": "https://jack.cab/blog/siterate.html",
-        "pubDate": "2026-11-16T13:02:11.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Migrating from GitHub to Codeberg",
-        "link": "https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/",
-        "pubDate": "2026-11-16T05:10:34.000Z",
+        "title": "Redict is deprecated",
+        "link": "https://redict.io/posts/2026-11-17-redict-deprecated/",
+        "pubDate": "2026-11-17T08:20:30.000Z",
         "feedId": "lobsters"
       },
       {
@@ -116,21 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Janet Reno was talking about my friend Coolio (computer criminal)",
-        "link": "https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/",
-        "pubDate": "2026-11-16T16:43:58.000Z",
+        "title": "Github Redesign (2019)",
+        "link": "https://tonsky.me/blog/github-redesign/",
+        "pubDate": "2026-11-17T09:28:18.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "A datetime library for Rust",
-        "link": "https://burntsushi.net/jiff/",
-        "pubDate": "2026-11-15T22:39:34.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Squircles",
-        "link": "https://linebender.org/wiki/curves/squircle/",
-        "pubDate": "2026-11-16T13:56:54.000Z",
+        "title": "What is w2rt6byl5nf1opmc-a[.]com?",
+        "link": "https://jack.cab/blog/siterate.html",
+        "pubDate": "2026-11-16T13:02:11.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,9 +128,39 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Migrating from GitHub to Codeberg",
+        "link": "https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/",
+        "pubDate": "2026-11-16T05:10:34.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Janet Reno was talking about my friend Coolio (computer criminal)",
+        "link": "https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/",
+        "pubDate": "2026-11-16T16:43:58.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Improving the Wii U's Wii Mode",
         "link": "https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html",
         "pubDate": "2026-11-16T22:39:54.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Squircles",
+        "link": "https://linebender.org/wiki/curves/squircle/",
+        "pubDate": "2026-11-16T13:56:54.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "My Emacs 31 contributions",
+        "link": "https://xenodium.com/my-emacs-31-contributions",
+        "pubDate": "2026-11-17T11:03:52.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A datetime library for Rust",
+        "link": "https://burntsushi.net/jiff/",
+        "pubDate": "2026-11-15T22:39:34.000Z",
         "feedId": "lobsters"
       },
       {
@@ -158,27 +176,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Paint in the memory of other programs",
-        "link": "https://citrons.xyz/journal/2026-04-13",
-        "pubDate": "2026-11-16T03:37:36.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "you won't win at copyright",
-        "link": "https://ingrids.space/posts/you-wont-win-at-copyright/",
-        "pubDate": "2026-11-16T08:30:13.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/isejqv/what_are_you_doing_this_week",
-        "pubDate": "2026-11-16T11:03:30.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "NoisyTCP",
-        "link": "https://www.openwall.com/lists/oss-security/2026/11/15/2",
-        "pubDate": "2026-11-16T12:50:29.000Z",
+        "title": "Software is breaking down at a systemic level",
+        "link": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
+        "pubDate": "2026-11-16T23:37:19.000Z",
         "feedId": "lobsters"
       },
       {
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Artist brings old Space Shuttle tank back to life",
+        "link": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
+        "pubDate": "2026-11-17T12:15:54.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
         "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
@@ -275,18 +281,48 @@
         "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
         "pubDate": "2026-11-15T23:11:54.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "How the world’s fires changed while humanity hit pause",
-        "link": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
-        "pubDate": "2026-11-15T12:07:34.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Behind the Curtain: If competence were cool",
+        "link": "https://www.axios.com/2026/11/17/government-competence-aviation-infrastructure-crisis",
+        "pubDate": "2026-11-17T10:42:54.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Push to reinstate Jensen Huang tests superstar tech CEO accountability",
+        "link": "https://www.axios.com/2026/11/17/jensen-huang-nvidia-ceo-accountability-power",
+        "pubDate": "2026-11-17T10:30:08.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Democrats' squishy definition of Medicare expansion",
+        "link": "https://www.axios.com/2026/11/17/democrats-medicare-for-all-definition",
+        "pubDate": "2026-11-17T10:30:07.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump's biggest project is running out of time",
+        "link": "https://www.axios.com/2026/11/17/trump-border-wall-texas-lawsuits-big-bend",
+        "pubDate": "2026-11-17T10:20:09.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Florida stayed red in a blue wave. But look at what happened in Hispanic precincts.",
+        "link": "https://www.axios.com/local/miami/2026/11/17/florida-2026-hispanic-voters-blue-shift-angie-nixon",
+        "pubDate": "2026-11-17T10:15:04.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "U.S. allies on edge as Trump heads to summit with Xi and Putin",
+        "link": "https://www.axios.com/2026/11/17/trump-xi-putin-summit-europe-worried",
+        "pubDate": "2026-11-17T10:10:10.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Top Trump aides to meet with Europeans, Ukrainians on peace plan",
         "link": "https://www.axios.com/2026/11/17/witkoff-kushner-ukraine-europe-russia-berlin-meeting",
@@ -340,48 +376,24 @@
         "link": "https://www.axios.com/2026/11/16/diesel-dips-below-6-per-gallon",
         "pubDate": "2026-11-16T13:26:15.000Z",
         "feedId": "axios"
-      },
-      {
-        "title": "Employer health cost crunch is worse than projected",
-        "link": "https://www.axios.com/2026/11/16/employer-health-insurance-rising-costs-survey",
-        "pubDate": "2026-11-16T10:30:08.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "The chain-reaction era: Constant shock and awe",
-        "link": "https://www.axios.com/2026/11/16/chain-reaction-nvidia-ai-politics-business",
-        "pubDate": "2026-11-16T10:22:52.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Why Democrats may want to make Trump look good",
-        "link": "https://www.axios.com/2026/11/16/democrats-trump-midterms-work-together",
-        "pubDate": "2026-11-16T10:20:10.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"No sane person questions whether AI works\" — but an AI bubble appears ready to pop.",
-        "link": "https://www.axios.com/2026/11/16/nvidia-jensen-huang-ai-bubble",
-        "pubDate": "2026-11-16T10:15:08.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "MAGA figures hope Jensen Huang's spy scandal finally breaks Trump's embrace of Big Tech",
-        "link": "https://www.axios.com/2026/11/16/maga-jensen-huang-chinese-spy-scandal-trump",
-        "pubDate": "2026-11-16T10:00:09.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Dems' Denver victory party previews 2028 battles",
-        "link": "https://www.axios.com/2026/11/15/democrats-denver-celebration-divide",
-        "pubDate": "2026-11-15T22:50:05.000Z",
-        "feedId": "axios"
       }
     ]
   },
   "longreads": {
     "id": "longreads",
     "items": [
+      {
+        "title": "What I Learned About Christmas—And Life—By Starring* in a Hallmark Movie",
+        "link": "https://longreads.com/2026/11/17/hallmark-movie-christmas/",
+        "pubDate": "2026-11-17T11:00:00.000Z",
+        "feedId": "longreads"
+      },
+      {
+        "title": "In the Doldrums ",
+        "link": "https://longreads.com/2026/11/17/new-mexico-with-no-internet-and-moby-dick/",
+        "pubDate": "2026-11-17T11:00:00.000Z",
+        "feedId": "longreads"
+      },
       {
         "title": "Alysa Liu Feels It All",
         "link": "https://longreads.com/2026/11/16/alysa-liu-spike-jonze-life-magazine/",
@@ -458,18 +470,6 @@
         "title": "When Anesthesia Goes Wrong",
         "link": "https://longreads.com/2026/11/10/when-anesthesia-goes-wrong/",
         "pubDate": "2026-11-10T12:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "Bright Star",
-        "link": "https://longreads.com/2026/11/10/permaculture-school-mexico-education/",
-        "pubDate": "2026-11-10T11:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "The Downfall of a Top Cop",
-        "link": "https://longreads.com/2026/11/10/belgium-cop-drug-trade/",
-        "pubDate": "2026-11-10T10:00:00.000Z",
         "feedId": "longreads"
       }
     ]
