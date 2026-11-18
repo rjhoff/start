@@ -3,9 +3,63 @@
     "id": "hn",
     "items": [
       {
-        "title": "Human.md",
-        "link": "https://www.human-md.ai/",
-        "pubDate": "2026-11-17T20:47:36.000Z",
+        "title": "Cerebras Disaggregated Inference",
+        "link": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+        "pubDate": "2026-11-18T00:56:23.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "ID.me terms required for IRS sign-in",
+        "link": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+        "pubDate": "2026-11-18T00:51:45.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Google's AI answers reducing search traffic by 40%",
+        "link": "https://revscope.co/blog/search-seo-geo-2026/",
+        "pubDate": "2026-11-18T00:17:58.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+        "link": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+        "pubDate": "2026-11-17T23:32:58.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+        "link": "https://github.com/microsoft/onnxruntime",
+        "pubDate": "2026-11-17T23:18:49.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Latent Lattice Language Models",
+        "link": "https://shivamduggal4.github.io/latent-lattice-language-models/",
+        "pubDate": "2026-11-17T22:17:18.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Quad9's withdrawal from France: A canary in the coal mine",
+        "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+        "pubDate": "2026-11-17T22:13:34.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+        "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+        "pubDate": "2026-11-17T21:16:12.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+        "link": "https://calif.io/java4shell/",
+        "pubDate": "2026-11-17T21:11:28.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Tencent Hy4 Flash",
+        "link": "https://hy.tencent.ai/research/hy4-flash",
+        "pubDate": "2026-11-17T21:06:08.000Z",
         "feedId": "hn"
       },
       {
@@ -27,7 +81,7 @@
         "feedId": "hn"
       },
       {
-        "title": "350 years ago, this man discovered that light has a finite speed",
+        "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
         "link": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
         "pubDate": "2026-11-17T19:25:27.000Z",
         "feedId": "hn"
@@ -36,60 +90,6 @@
         "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
         "link": "https://starsling.dev",
         "pubDate": "2026-11-17T19:01:43.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Solid 2.0",
-        "link": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
-        "pubDate": "2026-11-17T18:56:17.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Purism Launches Librem 5 v2, a RISC-V Phone to Empower People",
-        "link": "https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/",
-        "pubDate": "2026-11-17T18:34:10.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Phrack 73 Released",
-        "link": "https://phrack.org/issues/73/introduction_md",
-        "pubDate": "2026-11-17T18:31:25.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Advancing computer-use agents for healthcare teams",
-        "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
-        "pubDate": "2026-11-17T18:26:05.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "MAI Code 2 and Code 2 Flash",
-        "link": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-        "pubDate": "2026-11-17T18:25:13.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Not Everything Needs an LLM",
-        "link": "https://newsletter.posthog.com/p/decision-models",
-        "pubDate": "2026-11-17T18:16:18.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Apple Services Down",
-        "link": "https://developer.apple.com/system-status/",
-        "pubDate": "2026-11-17T17:47:14.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "GPT‑6.2 Astra and Sol",
-        "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-        "pubDate": "2026-11-17T17:46:43.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Who Builds the Machines That Build the Machines?",
-        "link": "https://read.corematter.com/p/section-232-us-machine-tools",
-        "pubDate": "2026-11-17T17:45:39.000Z",
         "feedId": "hn"
       }
     ]
@@ -104,9 +104,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Java4Shell: Write once, RCE everywhere",
+        "link": "https://calif.io/java4shell/",
+        "pubDate": "2026-11-17T21:16:11.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Phrack 73",
+        "link": "https://phrack.org/issues/73/introduction_md.html",
+        "pubDate": "2026-11-17T17:40:32.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Redict is deprecated",
         "link": "https://redict.io/posts/2026-11-17-redict-deprecated/",
         "pubDate": "2026-11-17T08:20:30.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Steve Jobs Core Animation demo from WWDC 2007",
+        "link": "https://lucas.love/100/058",
+        "pubDate": "2026-11-17T15:23:20.000Z",
         "feedId": "lobsters"
       },
       {
@@ -122,15 +140,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Phrack 73",
-        "link": "https://phrack.org/issues/73/introduction_md.html",
-        "pubDate": "2026-11-17T17:40:32.000Z",
+        "title": "FreeBSD GUS",
+        "link": "https://gregoire.dev/writing/gus/",
+        "pubDate": "2026-11-18T02:54:59.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Steve Jobs Core Animation demo from WWDC 2007",
-        "link": "https://lucas.love/100/058",
-        "pubDate": "2026-11-17T15:23:20.000Z",
+        "title": "Nimony: The next version of Nim",
+        "link": "https://nimony.org/",
+        "pubDate": "2026-11-17T21:56:09.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Sarasa Gothic Mono",
+        "link": "https://picaq.github.io/sarasa",
+        "pubDate": "2026-11-17T18:47:39.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,21 +164,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How Rust Changed Me As A Developer",
-        "link": "https://blog.startifact.com/posts/how-rust-changed-me/",
-        "pubDate": "2026-11-16T18:17:29.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Java4Shell: Write once, RCE everywhere",
-        "link": "https://calif.io/java4shell/",
-        "pubDate": "2026-11-17T21:16:11.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
         "link": "https://arxiv.org/abs/2607.02512",
         "pubDate": "2026-11-17T12:55:46.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How Rust Changed Me As A Developer",
+        "link": "https://blog.startifact.com/posts/how-rust-changed-me/",
+        "pubDate": "2026-11-16T18:17:29.000Z",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What is w2rt6byl5nf1opmc-a[.]com?",
-        "link": "https://jack.cab/blog/siterate.html",
-        "pubDate": "2026-11-16T13:02:11.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Improving the Wii U's Wii Mode",
-        "link": "https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html",
-        "pubDate": "2026-11-16T22:39:54.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
-        "link": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
-        "pubDate": "2026-11-17T14:38:24.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "On Leaving Swift for Rust",
-        "link": "https://www.prux.org/posts/goodbye-swift-hello-rust/",
-        "pubDate": "2026-11-16T17:56:45.000Z",
+        "title": "Automatic Checking of Compiler Correctness with E-Graphs",
+        "link": "https://stng.substack.com/p/automatic-checking-of-compiler-correctness",
+        "pubDate": "2026-11-17T18:18:12.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,30 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+        "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+        "pubDate": "2026-11-18T00:27:29.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "San Diego dumps both Flock cameras and smart streetlights",
+        "link": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+        "pubDate": "2026-11-17T23:09:09.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+        "link": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
+        "pubDate": "2026-11-17T22:44:46.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+        "link": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+        "pubDate": "2026-11-17T22:32:16.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
         "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
@@ -257,36 +281,54 @@
         "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
         "pubDate": "2026-11-16T22:58:27.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Three small failures combined to take down Microsoft 365",
-        "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
-        "pubDate": "2026-11-16T21:56:39.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Hyperscale data centers use 2% of US electricity",
-        "link": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
-        "pubDate": "2026-11-16T20:52:10.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-        "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-        "pubDate": "2026-11-16T20:37:47.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
-        "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
-        "pubDate": "2026-11-16T20:27:58.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Why the internet suddenly broke all at once",
+        "link": "https://www.axios.com/2026/11/17/tech-outages-ai-fears-internet-breaking",
+        "pubDate": "2026-11-18T01:40:32.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "House Dems can't stand the speaker vote drama anymore",
+        "link": "https://www.axios.com/2026/11/18/house-democrats-speaker-vote-jeffries-pressley",
+        "pubDate": "2026-11-18T00:51:40.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: White House drops Heidi Overton's FDA nomination",
+        "link": "https://www.axios.com/2026/11/17/heidi-overton-fda-nomination-dropped",
+        "pubDate": "2026-11-17T23:56:35.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Exclusive: Donald Trump Jr. signals investors underestimated AI pushback",
+        "link": "https://www.axios.com/2026/11/17/donald-trump-jr-data-centers",
+        "pubDate": "2026-11-17T23:28:12.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "\"We will remain thoughtful\": Nvidia says it will continue to backstop AI ecosystem",
+        "link": "https://www.axios.com/2026/11/17/nvidia-ai-startup-investment-discipline-kress",
+        "pubDate": "2026-11-17T23:15:32.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Nvidia posts strong earnings amid Jensen Huang exit, reported SEC probe",
+        "link": "https://www.axios.com/2026/11/17/nvidia-earnings-jensen-huang-colette-kress",
+        "pubDate": "2026-11-17T22:17:00.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Duffy's $50 billion request gets chilly reception from Senate GOP",
+        "link": "https://www.axios.com/2026/11/17/sean-duffy-faa-senate-republicans-50-billion",
+        "pubDate": "2026-11-17T21:56:08.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "FAA pauses tech upgrade linked to nationwide ground stop",
         "link": "https://www.axios.com/2026/11/17/faa-air-traffic-control-router-upgrade-ground-stop",
@@ -297,12 +339,6 @@
         "title": "Why the world's biggest climate meeting (still) matters",
         "link": "https://www.axios.com/2026/11/17/un-climate-conference-negotiations-energy",
         "pubDate": "2026-11-17T21:00:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Why the internet suddenly broke all at once",
-        "link": "https://www.axios.com/2026/11/17/tech-outages-ai-fears-internet-breaking",
-        "pubDate": "2026-11-17T20:49:52.000Z",
         "feedId": "axios"
       },
       {
@@ -340,48 +376,18 @@
         "link": "https://www.axios.com/2026/11/17/hakeem-jeffries-speaker-vote-house-democrats",
         "pubDate": "2026-11-17T14:33:20.000Z",
         "feedId": "axios"
-      },
-      {
-        "title": "Nvidia's earnings mark start of post-Jensen era",
-        "link": "https://www.axios.com/2026/11/17/nvidia-earnings-report-ceo-transition",
-        "pubDate": "2026-11-17T12:20:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "U.S. gets another D+ on premature births",
-        "link": "https://www.axios.com/2026/11/17/premature-birth-rate-us-high-low",
-        "pubDate": "2026-11-17T11:00:07.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Behind the Curtain: If competence were cool",
-        "link": "https://www.axios.com/2026/11/17/government-competence-aviation-infrastructure-crisis",
-        "pubDate": "2026-11-17T10:42:54.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Push to reinstate Jensen Huang tests superstar tech CEO accountability",
-        "link": "https://www.axios.com/2026/11/17/jensen-huang-nvidia-ceo-accountability-power",
-        "pubDate": "2026-11-17T10:30:08.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Democrats' squishy definition of Medicare expansion",
-        "link": "https://www.axios.com/2026/11/17/democrats-medicare-for-all-definition",
-        "pubDate": "2026-11-17T10:30:07.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump's biggest project is running out of time",
-        "link": "https://www.axios.com/2026/11/17/trump-border-wall-texas-lawsuits-big-bend",
-        "pubDate": "2026-11-17T10:20:09.000Z",
-        "feedId": "axios"
       }
     ]
   },
   "longreads": {
     "id": "longreads",
     "items": [
+      {
+        "title": "The Brits Paying To Be Frozen After Death",
+        "link": "https://longreads.com/2026/11/17/neuropreservation-cryonics-uk/",
+        "pubDate": "2026-11-17T21:28:24.000Z",
+        "feedId": "longreads"
+      },
       {
         "title": "What I Learned About Christmas—And Life—By Starring* in a Hallmark Movie",
         "link": "https://longreads.com/2026/11/17/hallmark-movie-christmas/",
@@ -464,12 +470,6 @@
         "title": "Inside the Trial of Russell Brand",
         "link": "https://longreads.com/2026/11/10/inside-the-trial-of-russell-brand/",
         "pubDate": "2026-11-10T13:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "When Anesthesia Goes Wrong",
-        "link": "https://longreads.com/2026/11/10/when-anesthesia-goes-wrong/",
-        "pubDate": "2026-11-10T12:00:00.000Z",
         "feedId": "longreads"
       }
     ]
