@@ -1,102 +1,18 @@
 {
   "hn": {
     "id": "hn",
-    "items": [
-      {
-        "title": "Cerebras Disaggregated Inference",
-        "link": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
-        "pubDate": "2026-11-18T00:56:23.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "ID.me terms required for IRS sign-in",
-        "link": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
-        "pubDate": "2026-11-18T00:51:45.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Google's AI answers reducing search traffic by 40%",
-        "link": "https://revscope.co/blog/search-seo-geo-2026/",
-        "pubDate": "2026-11-18T00:17:58.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
-        "link": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
-        "pubDate": "2026-11-17T23:32:58.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-        "link": "https://github.com/microsoft/onnxruntime",
-        "pubDate": "2026-11-17T23:18:49.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Latent Lattice Language Models",
-        "link": "https://shivamduggal4.github.io/latent-lattice-language-models/",
-        "pubDate": "2026-11-17T22:17:18.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Quad9's withdrawal from France: A canary in the coal mine",
-        "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-        "pubDate": "2026-11-17T22:13:34.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-        "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-        "pubDate": "2026-11-17T21:16:12.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-        "link": "https://calif.io/java4shell/",
-        "pubDate": "2026-11-17T21:11:28.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tencent Hy4 Flash",
-        "link": "https://hy.tencent.ai/research/hy4-flash",
-        "pubDate": "2026-11-17T21:06:08.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Web Browser Engineering (2021)",
-        "link": "https://browser.engineering/",
-        "pubDate": "2026-11-17T20:01:35.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "jQuery 4.1.0",
-        "link": "https://github.com/jquery/jquery/releases/tag/4.1.0",
-        "pubDate": "2026-11-17T19:50:40.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Effects of a Nuclear Detonation in Low Earth Orbit",
-        "link": "https://arxiv.org/abs/2611.09827",
-        "pubDate": "2026-11-17T19:46:57.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
-        "link": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
-        "pubDate": "2026-11-17T19:25:27.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
-        "link": "https://starsling.dev",
-        "pubDate": "2026-11-17T19:01:43.000Z",
-        "feedId": "hn"
-      }
-    ]
+    "error": "The operation was aborted due to timeout",
+    "items": []
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "Codeberg's domain suddenly disappeared from their account, site is unreachable",
+        "link": "https://social.anoxinon.de/@Codeberg/117636454915265360",
+        "pubDate": "2026-11-18T08:51:09.000Z",
+        "feedId": "lobsters"
+      },
       {
         "title": "Actual curl rewrites in rust",
         "link": "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/",
@@ -110,15 +26,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "FreeBSD GUS",
+        "link": "https://gregoire.dev/writing/gus/",
+        "pubDate": "2026-11-18T02:54:59.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Phrack 73",
         "link": "https://phrack.org/issues/73/introduction_md.html",
         "pubDate": "2026-11-17T17:40:32.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Redict is deprecated",
-        "link": "https://redict.io/posts/2026-11-17-redict-deprecated/",
-        "pubDate": "2026-11-17T08:20:30.000Z",
+        "title": "Stacked diffs with Maiao",
+        "link": "https://entropicthoughts.com/stacked-diffs-with-maiao",
+        "pubDate": "2026-11-18T06:43:30.000Z",
         "feedId": "lobsters"
       },
       {
@@ -128,9 +50,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How to Bypass Rust's Orphan Rule",
-        "link": "https://edvong.com/bypass-orphan-rule/",
-        "pubDate": "2026-11-17T15:35:36.000Z",
+        "title": "Sarasa Gothic Mono",
+        "link": "https://picaq.github.io/sarasa",
+        "pubDate": "2026-11-17T18:47:39.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Redict is deprecated",
+        "link": "https://redict.io/posts/2026-11-17-redict-deprecated/",
+        "pubDate": "2026-11-17T08:20:30.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,39 +68,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "FreeBSD GUS",
-        "link": "https://gregoire.dev/writing/gus/",
-        "pubDate": "2026-11-18T02:54:59.000Z",
+        "title": "Solid 2.0",
+        "link": "https://www.solidjs.com/blog/solid-2-0-the-long-hold",
+        "pubDate": "2026-11-18T11:21:43.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Nimony: The next version of Nim",
-        "link": "https://nimony.org/",
-        "pubDate": "2026-11-17T21:56:09.000Z",
+        "title": "How to Bypass Rust's Orphan Rule",
+        "link": "https://edvong.com/bypass-orphan-rule/",
+        "pubDate": "2026-11-17T15:35:36.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Sarasa Gothic Mono",
-        "link": "https://picaq.github.io/sarasa",
-        "pubDate": "2026-11-17T18:47:39.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "My Emacs 31 contributions",
-        "link": "https://xenodium.com/my-emacs-31-contributions",
-        "pubDate": "2026-11-17T11:03:52.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
-        "link": "https://arxiv.org/abs/2607.02512",
-        "pubDate": "2026-11-17T12:55:46.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How Rust Changed Me As A Developer",
-        "link": "https://blog.startifact.com/posts/how-rust-changed-me/",
-        "pubDate": "2026-11-16T18:17:29.000Z",
+        "title": "Sexp Matrix",
+        "link": "https://lisper.cc/ideas/entangle.html",
+        "pubDate": "2026-11-17T21:29:57.000Z",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +92,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Automatic Checking of Compiler Correctness with E-Graphs",
-        "link": "https://stng.substack.com/p/automatic-checking-of-compiler-correctness",
-        "pubDate": "2026-11-17T18:18:12.000Z",
+        "title": "LZ-RDO lands in ARM's astc-encoder",
+        "link": "https://www.jonolick.com/home/lz-rdo-lands-in-arms-astc-encoder",
+        "pubDate": "2026-11-18T07:12:00.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +102,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
+        "link": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/",
+        "pubDate": "2026-11-18T12:15:44.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Grand Theft Auto VI: The Ars Technica review",
+        "link": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/",
+        "pubDate": "2026-11-18T11:00:27.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
         "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
@@ -269,24 +191,42 @@
         "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
         "pubDate": "2026-11-17T14:00:29.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Artist brings old Space Shuttle tank back to life",
-        "link": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
-        "pubDate": "2026-11-17T12:15:54.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-        "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
-        "pubDate": "2026-11-16T22:58:27.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Xi Jinping breaks protocol to greet and hug Trump at China airport",
+        "link": "https://www.axios.com/2026/11/18/trump-china-xi-hug-airport",
+        "pubDate": "2026-11-18T11:39:28.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "House Dems prepare for broad Trump family probe",
+        "link": "https://www.axios.com/2026/11/18/trump-garcia-house-oversight",
+        "pubDate": "2026-11-18T11:20:52.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "The terrifying rise of AI hacking tools",
+        "link": "https://www.axios.com/2026/11/18/ai-hacking-tools-artex-cairn",
+        "pubDate": "2026-11-18T10:20:06.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Alaska Native strongholds push Peltola into Senate history",
+        "link": "https://www.axios.com/2026/11/18/alaska-native-strongholds-peltola-senate-history",
+        "pubDate": "2026-11-18T10:10:06.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Mary Peltola unseats Republican Dan Sullivan in Alaska, extending Democratic wave",
+        "link": "https://www.axios.com/2026/11/18/alaska-senate-results-dan-sullivan-peltola",
+        "pubDate": "2026-11-18T04:18:44.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Why the internet suddenly broke all at once",
         "link": "https://www.axios.com/2026/11/17/tech-outages-ai-fears-internet-breaking",
@@ -346,42 +286,24 @@
         "link": "https://www.axios.com/2026/11/17/dirty-bomb-radioactive-trump-washington-weapon",
         "pubDate": "2026-11-17T19:30:55.000Z",
         "feedId": "axios"
-      },
-      {
-        "title": "Scammers are sending fake emails to people worried about Nvidia's stock",
-        "link": "https://www.axios.com/2026/11/17/nvidia-investment-phishing-emails",
-        "pubDate": "2026-11-17T19:07:52.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Jensen Huang agrees to face Congress over Nvidia scandal",
-        "link": "https://www.axios.com/2026/11/17/nvidia-jensen-huang-congress-testify-dates",
-        "pubDate": "2026-11-17T17:10:46.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Jensen Huang says he'd be \"honored\" to return as Nvidia CEO",
-        "link": "https://www.axios.com/2026/11/17/jensen-huang-nvidia-ceo-return-earnings",
-        "pubDate": "2026-11-17T17:06:41.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-        "link": "https://www.axios.com/2026/11/17/ai-fed-economic-growth-andreessen",
-        "pubDate": "2026-11-17T17:00:13.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Hakeem Jeffries shifts tactics ahead of House Democrats' internal speaker vote",
-        "link": "https://www.axios.com/2026/11/17/hakeem-jeffries-speaker-vote-house-democrats",
-        "pubDate": "2026-11-17T14:33:20.000Z",
-        "feedId": "axios"
       }
     ]
   },
   "longreads": {
     "id": "longreads",
     "items": [
+      {
+        "title": "Dollywood After Dolly: My Pilgrimage to a Grieving Tennessee",
+        "link": "https://longreads.com/2026/11/18/dollywood-dolly-parton/",
+        "pubDate": "2026-11-18T12:00:00.000Z",
+        "feedId": "longreads"
+      },
+      {
+        "title": "The Lost World of Aquaterra",
+        "link": "https://longreads.com/2026/11/18/aquaterra-archaeology-history-submerged-oceans/",
+        "pubDate": "2026-11-18T11:00:00.000Z",
+        "feedId": "longreads"
+      },
       {
         "title": "The Brits Paying To Be Frozen After Death",
         "link": "https://longreads.com/2026/11/17/neuropreservation-cryonics-uk/",
@@ -458,18 +380,6 @@
         "title": "My 99-Year-Old Grandmother Built a Hidden Empire Around Flannel. Then She Lost It All.",
         "link": "https://longreads.com/2026/11/11/korea-grandmother-flannel/",
         "pubDate": "2026-11-11T11:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "Pinot Noir: Inside the Criminal Gangs Making Fake Wine",
-        "link": "https://longreads.com/2026/11/10/wine-fraud-1843/",
-        "pubDate": "2026-11-10T14:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "Inside the Trial of Russell Brand",
-        "link": "https://longreads.com/2026/11/10/inside-the-trial-of-russell-brand/",
-        "pubDate": "2026-11-10T13:00:00.000Z",
         "feedId": "longreads"
       }
     ]
