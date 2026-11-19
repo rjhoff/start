@@ -3,45 +3,45 @@
     "id": "hn",
     "items": [
       {
-        "title": "AI Will Not Make You Rich (2025)",
-        "link": "https://colossus.com/article/ai-will-not-make-you-rich/",
-        "pubDate": "2026-11-19T01:51:28.000Z",
+        "title": "DeepMind Employees Are Unionising",
+        "link": "https://www.gdmunion.co.uk",
+        "pubDate": "2026-11-19T09:28:56.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools",
-        "link": "https://adeindex.com",
-        "pubDate": "2026-11-19T01:33:52.000Z",
+        "title": "What's New in PHP 8.6",
+        "link": "https://www.php.net/releases/8.6/en.php",
+        "pubDate": "2026-11-19T09:27:15.000Z",
         "feedId": "hn"
       },
       {
-        "title": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL",
-        "link": "https://github.com/Ri4dH/failtrace",
-        "pubDate": "2026-11-19T01:30:43.000Z",
+        "title": "SSD prices will start going down the second half of next year",
+        "link": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+        "pubDate": "2026-11-19T09:05:34.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Unreal Tournament 2004 in the Browser",
-        "link": "https://ut2004.dev/",
-        "pubDate": "2026-11-19T01:29:29.000Z",
+        "title": "Do not buy RAM, compress",
+        "link": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
+        "pubDate": "2026-11-19T08:56:47.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
-        "link": "https://arxiv.org/abs/2607.29378",
-        "pubDate": "2026-11-19T01:27:02.000Z",
+        "title": "Distributed, high-performance blob storage on SQLite",
+        "link": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+        "pubDate": "2026-11-19T08:39:45.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Black high school students sue after AI mistakes Doritos bag for gun",
-        "link": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
-        "pubDate": "2026-11-19T00:57:20.000Z",
+        "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+        "link": "https://kapteko.com/15-million-webservers/",
+        "pubDate": "2026-11-19T05:56:36.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-        "link": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
-        "pubDate": "2026-11-19T00:29:45.000Z",
+        "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+        "link": "https://verialabs.com/ruby2shell/",
+        "pubDate": "2026-11-19T05:09:11.000Z",
         "feedId": "hn"
       },
       {
@@ -116,12 +116,6 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Windows 11 collects data on which coding agents and dev tools you use",
-        "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-        "pubDate": "2026-11-18T11:57:46.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Upcoming Critical PHP Security Release (18 Nov 2026)",
         "link": "https://www.php.net/index.php#2026-11-18-1",
         "pubDate": "2026-11-18T19:44:06.000Z",
@@ -134,27 +128,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Windows 11 collects data on which coding agents and dev tools you use",
+        "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+        "pubDate": "2026-11-18T11:57:46.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "The Magic of Partial Evaluation",
         "link": "https://jimmyhmiller.com/magic-of-partial-evaluation",
         "pubDate": "2026-11-18T17:30:14.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Solid 2.0",
-        "link": "https://www.solidjs.com/blog/solid-2-0-the-long-hold",
-        "pubDate": "2026-11-18T11:21:43.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "IPv6 delegation, an unusually subtle failure mode",
-        "link": "https://savyasacheejha.com/posts/why-odhcpd/",
-        "pubDate": "2026-11-18T17:52:22.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Stricter checks for uploaded distributions on PyPI",
-        "link": "https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/",
-        "pubDate": "2026-11-18T20:00:42.000Z",
+        "title": "Distributed, high-performance blob storage on SQLite",
+        "link": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+        "pubDate": "2026-11-19T08:37:13.000Z",
         "feedId": "lobsters"
       },
       {
@@ -164,21 +152,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Java4Shell: Write once, RCE everywhere",
-        "link": "https://calif.io/java4shell/",
-        "pubDate": "2026-11-17T21:16:11.000Z",
+        "title": "markdownWeb",
+        "link": "https://demo.bonbonweb.org/",
+        "pubDate": "2026-11-18T17:35:19.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Actual curl rewrites in rust",
-        "link": "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/",
-        "pubDate": "2026-11-17T13:37:05.000Z",
+        "title": "Solid 2.0",
+        "link": "https://www.solidjs.com/blog/solid-2-0-the-long-hold",
+        "pubDate": "2026-11-18T11:21:43.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "FreeBSD GUS",
-        "link": "https://gregoire.dev/writing/gus/",
-        "pubDate": "2026-11-18T02:54:59.000Z",
+        "title": "Stricter checks for uploaded distributions on PyPI",
+        "link": "https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/",
+        "pubDate": "2026-11-18T20:00:42.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "IPv6 delegation, an unusually subtle failure mode",
+        "link": "https://savyasacheejha.com/posts/why-odhcpd/",
+        "pubDate": "2026-11-18T17:52:22.000Z",
         "feedId": "lobsters"
       },
       {
@@ -186,12 +180,24 @@
         "link": "https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd/",
         "pubDate": "2026-11-18T23:26:59.000Z",
         "feedId": "lobsters"
+      },
+      {
+        "title": "Ruby2Shell (GHSA-34m4-m9fh-gqp5)",
+        "link": "https://verialabs.com/ruby2shell/",
+        "pubDate": "2026-11-19T10:50:28.000Z",
+        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "How to tell a cyberattack from a plain old outage",
+        "link": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+        "pubDate": "2026-11-19T11:13:01.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
         "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
@@ -275,18 +281,48 @@
         "link": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/",
         "pubDate": "2026-11-18T14:01:45.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
-        "link": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/",
-        "pubDate": "2026-11-18T12:15:44.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "New alarm over China controlling drug supply chains",
+        "link": "https://www.axios.com/2026/11/19/china-biotech-policy-warning",
+        "pubDate": "2026-11-19T10:30:05.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Poll: Republicans in early 2028 primary states back Israel, not its critics",
+        "link": "https://www.axios.com/2026/11/19/republicans-israel-poll-2028-primary-states",
+        "pubDate": "2026-11-19T10:20:05.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Putting cyber risk in perspective, from the experts (our own CTO)",
+        "link": "https://www.axios.com/2026/11/19/cybersecurity-worries",
+        "pubDate": "2026-11-19T10:10:17.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Doomsday prepping goes mainstream",
+        "link": "https://www.axios.com/2026/11/19/tech-outages-emergency-preparedness-prepper-boom",
+        "pubDate": "2026-11-19T10:10:16.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "AI's great divergence: Machines accelerate as makers unravel",
+        "link": "https://www.axios.com/2026/11/19/anthropic-ipo-ai-research-rsi-forecast",
+        "pubDate": "2026-11-19T10:00:09.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Exclusive: Bots amplified conspiracy theories and panic about recent tech outages",
+        "link": "https://www.axios.com/2026/11/19/tech-outages-bots-conspiracies",
+        "pubDate": "2026-11-19T10:00:09.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Republicans lose hope in Reconciliation 3.0",
         "link": "https://www.axios.com/2026/11/19/republicans-reconciliation-defense-spending",
@@ -340,48 +376,18 @@
         "link": "https://www.axios.com/2026/11/18/jeffries-speaker-house-democrats-nominate-jan-3",
         "pubDate": "2026-11-18T15:32:24.000Z",
         "feedId": "axios"
-      },
-      {
-        "title": "U.S. drivers are just absorbing high gasoline prices",
-        "link": "https://www.axios.com/2026/11/18/gasoline-prices-demand",
-        "pubDate": "2026-11-18T13:49:23.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Jeffries nears historic speakership as power shifts in Congress",
-        "link": "https://www.axios.com/2026/11/18/hakeem-jeffries-black-house-members",
-        "pubDate": "2026-11-18T13:31:58.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Xi Jinping breaks protocol to greet and hug Trump at China airport",
-        "link": "https://www.axios.com/2026/11/18/trump-china-xi-hug-airport",
-        "pubDate": "2026-11-18T11:39:28.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "House Dems prepare for broad Trump family probe",
-        "link": "https://www.axios.com/2026/11/18/trump-garcia-house-oversight",
-        "pubDate": "2026-11-18T11:20:52.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "America's measles return leaves infants vulnerable",
-        "link": "https://www.axios.com/2026/11/18/measles-return-infants-vulnerable",
-        "pubDate": "2026-11-18T10:30:07.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "The terrifying rise of AI hacking tools",
-        "link": "https://www.axios.com/2026/11/18/ai-hacking-tools-artex-cairn",
-        "pubDate": "2026-11-18T10:20:06.000Z",
-        "feedId": "axios"
       }
     ]
   },
   "longreads": {
     "id": "longreads",
     "items": [
+      {
+        "title": "Give a Fig: A Reading List on Sweet, Wild, Mad Fruits",
+        "link": "https://longreads.com/2026/11/19/fruits-reading-list-kanya-kanchana/",
+        "pubDate": "2026-11-19T11:00:00.000Z",
+        "feedId": "longreads"
+      },
       {
         "title": "Books that Close the Distance",
         "link": "https://longreads.com/2026/11/18/isaac-fitzgerald-reading-essay-passages/",
@@ -464,12 +470,6 @@
         "title": "Sweat Gets in Your Eyes",
         "link": "https://longreads.com/2026/11/12/running-the-baffler/",
         "pubDate": "2026-11-12T11:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "Ice Loss",
-        "link": "https://longreads.com/2026/11/12/ice-loss-ravenna-koenig/",
-        "pubDate": "2026-11-12T09:00:00.000Z",
         "feedId": "longreads"
       }
     ]
