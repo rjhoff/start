@@ -1,102 +1,60 @@
 {
   "hn": {
     "id": "hn",
-    "items": [
-      {
-        "title": "\"I can tell you wrote this yourself\"",
-        "link": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
-        "pubDate": "2026-11-20T07:13:21.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Jujutsu Primer",
-        "link": "https://ethanlowman.com/posts/jj-primer/",
-        "pubDate": "2026-11-20T05:46:01.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "FFmpeg 9.1 'Gauss'",
-        "link": "https://ffmpeg.org/download.html#release_9.1",
-        "pubDate": "2026-11-20T04:02:39.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "PostgreSQL 19",
-        "link": "https://www.postgresql.org/docs/release/19.0/",
-        "pubDate": "2026-11-20T03:45:45.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "What Comes After AGI?",
-        "link": "https://institute.deepmind.com/essays/what-comes-after-agi/",
-        "pubDate": "2026-11-20T02:44:13.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
-        "link": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
-        "pubDate": "2026-11-20T02:43:49.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-        "link": "https://github.com/openssl/openssl/pull/33652",
-        "pubDate": "2026-11-20T02:01:09.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Vint Cerf on why TCP/IP was never patented",
-        "link": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
-        "pubDate": "2026-11-20T01:06:12.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "ChatGPT for SNES",
-        "link": "https://www.bxfoundry.com/chatgpt_snes/",
-        "pubDate": "2026-11-20T00:25:59.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Synology Security Advisory",
-        "link": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-        "pubDate": "2026-11-19T22:13:40.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-        "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-        "pubDate": "2026-11-19T18:47:16.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-        "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-        "pubDate": "2026-11-19T18:35:17.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Claude solves two open problems in the physics of black holes",
-        "link": "https://www.anthropic.com/research/claude-black-hole-physics",
-        "pubDate": "2026-11-19T17:30:44.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Pancreatic cancer halted by virus injection in three patients",
-        "link": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-        "pubDate": "2026-11-19T17:25:33.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Anthropic’s Nasdaq debut",
-        "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-        "pubDate": "2026-11-19T17:02:40.000Z",
-        "feedId": "hn"
-      }
-    ]
+    "error": "The operation was aborted due to timeout",
+    "items": []
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "Levent Alpoge Claims Proof of Riemann Hypothesis",
+        "link": "https://alpo.ge/remark.pdf",
+        "pubDate": "2026-11-20T14:46:49.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Vim Classic 8.3.1 released",
+        "link": "https://vim-classic.org/news/vim-8.3.1-released.html",
+        "pubDate": "2026-11-20T10:02:03.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Removing binder.c",
+        "link": "https://lwn.net/Articles/1102982/",
+        "pubDate": "2026-11-20T10:33:36.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Announcing jj-musubi: live sync for Jujutsu",
+        "link": "https://www.serpentine.com/posts/2026/announcing-jj-musubi/",
+        "pubDate": "2026-11-20T09:39:11.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Visited links are purple",
+        "link": "https://dbushell.com/2026/11/16/visited-links/",
+        "pubDate": "2026-11-20T09:58:05.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Jujutsu Primer",
+        "link": "https://ethanlowman.com/posts/jj-primer/",
+        "pubDate": "2026-11-20T03:34:36.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Garage Door Spam",
+        "link": "https://blog.harrison.page/garage-door-spam/",
+        "pubDate": "2026-11-20T02:41:39.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/hneb5m/what_are_you_doing_this_weekend",
+        "pubDate": "2026-11-20T10:05:29.000Z",
+        "feedId": "lobsters"
+      },
       {
         "title": "Design for Understandability",
         "link": "https://jschuster.org/blog/2026/11/19/design-for-understandability/",
@@ -104,9 +62,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "\"I can tell you wrote this yourself\"",
-        "link": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
-        "pubDate": "2026-11-20T07:13:14.000Z",
+        "title": "DreamCoder: coding harness and IDE from the author of Mastering Emacs",
+        "link": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+        "pubDate": "2026-11-20T11:14:06.000Z",
         "feedId": "lobsters"
       },
       {
@@ -122,69 +80,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Alice v0.6.0",
+        "link": "https://www.alicecaml.org/blog/alice-v0-6-0/",
+        "pubDate": "2026-11-20T16:44:09.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Mutex poisoning is not for everyone",
         "link": "https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html",
         "pubDate": "2026-11-19T13:01:49.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Garage Door Spam",
-        "link": "https://blog.harrison.page/garage-door-spam/",
-        "pubDate": "2026-11-20T02:41:39.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "15 million web servers on one VM - smoltcp, DPDK, AF_XDP",
-        "link": "https://kapteko.com/15-million-webservers/",
-        "pubDate": "2026-11-19T13:38:19.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Jujutsu Primer",
-        "link": "https://ethanlowman.com/posts/jj-primer/",
-        "pubDate": "2026-11-20T03:34:36.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Hiring a Systems Programmer for Boxem",
-        "link": "https://lobste.rs/s/pnfs5p/hiring_systems_programmer_for_boxem",
-        "pubDate": "2026-11-19T16:45:34.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Ruby2Shell (GHSA-34m4-m9fh-gqp5)",
-        "link": "https://verialabs.com/ruby2shell/",
-        "pubDate": "2026-11-19T10:50:28.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Farcall, a terminal-ready Rust PC+DOS emulator",
-        "link": "https://www.dialup.net/farcall/",
-        "pubDate": "2026-11-20T02:12:07.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Codeberg's domain suddenly disappeared from their account, site is unreachable",
-        "link": "https://social.anoxinon.de/@Codeberg/117636454915265360",
-        "pubDate": "2026-11-18T08:51:09.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Visualizing a Ledger with pgledger-ui",
-        "link": "https://www.pgrs.net/2026/11/19/visualizing-a-ledger-with-pgledger-ui/",
-        "pubDate": "2026-11-19T19:55:10.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Distributed, high-performance blob storage on SQLite",
-        "link": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
-        "pubDate": "2026-11-19T08:37:13.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Supporting FOSS projects to transition to memory safe tech",
-        "link": "https://tweedegolf.nl/en/blog/243/supporting-foss-projects-to-transition-to-memory-safe-tech/",
-        "pubDate": "2026-11-19T18:39:29.000Z",
+        "title": "Lisp Game Jam devlog: Polydraw",
+        "link": "https://spritely.institute/news/lisp-game-jam-devlog-polydraw.html",
+        "pubDate": "2026-11-20T11:18:47.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -193,7 +103,49 @@
     "id": "arstechnica",
     "items": [
       {
-        "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+        "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
+        "link": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
+        "pubDate": "2026-11-20T16:11:21.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "US will soon announce root cause behind FAA nationwide ground stop",
+        "link": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
+        "pubDate": "2026-11-20T14:52:51.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
+        "link": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
+        "pubDate": "2026-11-20T14:15:21.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
+        "link": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
+        "pubDate": "2026-11-20T13:35:45.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Only the Seminole Tribe can offer online gambling in Florida—and they're furious at DraftKings",
+        "link": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
+        "pubDate": "2026-11-20T12:30:29.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Science has a home here at Ars—please help keep it that way",
+        "link": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
+        "pubDate": "2026-11-20T12:15:36.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
+        "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
+        "pubDate": "2026-11-20T12:00:43.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app popup",
         "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
         "pubDate": "2026-11-19T22:16:37.000Z",
         "feedId": "arstechnica"
@@ -239,54 +191,54 @@
         "link": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
         "pubDate": "2026-11-19T14:04:38.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
-        "link": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
-        "pubDate": "2026-11-19T13:40:02.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "How to tell a cyberattack from a plain old outage",
-        "link": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
-        "pubDate": "2026-11-19T11:13:01.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
-        "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
-        "pubDate": "2026-11-18T23:25:04.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
-        "link": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
-        "pubDate": "2026-11-18T23:10:39.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
-        "link": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
-        "pubDate": "2026-11-18T22:08:57.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
-        "link": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
-        "pubDate": "2026-11-18T21:29:24.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
-        "link": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
-        "pubDate": "2026-11-18T20:41:12.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Trump floats major tax on U.S. companies constructing data centers overseas",
+        "link": "https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas",
+        "pubDate": "2026-11-20T18:13:32.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump secretary's Christian messages to staff went \"too far,\" judge rules",
+        "link": "https://www.axios.com/2026/11/20/brooke-rollins-christian-messages-judge",
+        "pubDate": "2026-11-20T15:42:04.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Anthropic is public, now comes the hard part",
+        "link": "https://www.axios.com/2026/11/20/anthropic-public-shareholders",
+        "pubDate": "2026-11-20T12:10:08.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "GTA VI hijacks America",
+        "link": "https://www.axios.com/2026/11/20/gta-6-viral-moments-monoculture",
+        "pubDate": "2026-11-20T10:45:04.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "America's religious \"nones\" move from voters to lawmakers",
+        "link": "https://www.axios.com/2026/11/20/religious-nones-christians-evangelicals-election",
+        "pubDate": "2026-11-20T10:40:06.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Medicaid expansion isn't a \"slam dunk\" for new Dem governors",
+        "link": "https://www.axios.com/2026/11/20/democrat-governors-medicaid-expansion-fallbacks",
+        "pubDate": "2026-11-20T10:30:06.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Phoenix mayor walks fine line on AI boom",
+        "link": "https://www.axios.com/2026/11/20/phoenix-mayor-data-centers-ai-boom",
+        "pubDate": "2026-11-20T10:20:06.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Senate passes Trump-backed permitting bill",
         "link": "https://www.axios.com/2026/11/20/senate-passes-energy-permitting-bill",
@@ -334,54 +286,24 @@
         "link": "https://www.axios.com/2026/11/19/walmart-costco-thanksgiving-deals-dinner-kroger-aldi",
         "pubDate": "2026-11-19T20:11:01.000Z",
         "feedId": "axios"
-      },
-      {
-        "title": "Trump to Axios: I'm \"not rushing into a decision\" on Iran",
-        "link": "https://www.axios.com/2026/11/19/trump-iran-attacks-israel-new-year",
-        "pubDate": "2026-11-19T18:25:56.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump backs Elon Musk in latest MAGA breakup",
-        "link": "https://www.axios.com/2026/11/19/trump-elon-musk-not-maga-friend",
-        "pubDate": "2026-11-19T17:50:40.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Meta rethinks climate goal as AI emissions soar 45%",
-        "link": "https://www.axios.com/2026/11/19/meta-ai-emissions-rise",
-        "pubDate": "2026-11-19T17:00:48.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Myanmar becomes first state found responsible for genocide by UN court",
-        "link": "https://www.axios.com/2026/11/19/un-court-myanmar-genocide-ruling-rohingya",
-        "pubDate": "2026-11-19T16:21:55.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Why the Senate energy permitting bill might become law",
-        "link": "https://www.axios.com/2026/11/19/energy-permitting-bill-senate-politics",
-        "pubDate": "2026-11-19T13:46:20.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "New alarm over China controlling drug supply chains",
-        "link": "https://www.axios.com/2026/11/19/china-biotech-policy-warning",
-        "pubDate": "2026-11-19T10:30:05.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Poll: Republicans in early 2028 primary states back Israel, not its critics",
-        "link": "https://www.axios.com/2026/11/19/republicans-israel-poll-2028-primary-states",
-        "pubDate": "2026-11-19T10:20:05.000Z",
-        "feedId": "axios"
       }
     ]
   },
   "longreads": {
     "id": "longreads",
     "items": [
+      {
+        "title": "Juiced to the Gills",
+        "link": "https://longreads.com/2026/11/20/enhanced-games-kent-russell/",
+        "pubDate": "2026-11-20T16:51:58.000Z",
+        "feedId": "longreads"
+      },
+      {
+        "title": "The Top 5 Longreads of the Week",
+        "link": "https://longreads.com/2026/11/20/top-5-634/",
+        "pubDate": "2026-11-20T10:00:00.000Z",
+        "feedId": "longreads"
+      },
       {
         "title": "Raumforderung",
         "link": "https://longreads.com/2026/11/19/raumforderung-off-assignment/",
@@ -458,18 +380,6 @@
         "title": "Alysa Liu Feels It All",
         "link": "https://longreads.com/2026/11/16/alysa-liu-spike-jonze-life-magazine/",
         "pubDate": "2026-11-16T18:51:14.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "Crime Pays: How ‘Grand Theft Auto’ Became a Cultural Colossus",
-        "link": "https://longreads.com/2026/11/16/grand-theft-auto-vi-guardian/",
-        "pubDate": "2026-11-16T11:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "The Top 5 Longreads of the Week",
-        "link": "https://longreads.com/2026/11/13/top-5-633/",
-        "pubDate": "2026-11-13T11:00:00.000Z",
         "feedId": "longreads"
       }
     ]
