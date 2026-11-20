@@ -3,33 +3,63 @@
     "id": "hn",
     "items": [
       {
-        "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-        "link": "https://git-aarvin.github.io/mei/",
-        "pubDate": "2026-11-19T23:35:35.000Z",
+        "title": "\"I can tell you wrote this yourself\"",
+        "link": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+        "pubDate": "2026-11-20T07:13:21.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
-        "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
-        "pubDate": "2026-11-19T23:32:11.000Z",
+        "title": "Jujutsu Primer",
+        "link": "https://ethanlowman.com/posts/jj-primer/",
+        "pubDate": "2026-11-20T05:46:01.000Z",
         "feedId": "hn"
       },
       {
-        "title": "RegExr: Temporarily Offline",
-        "link": "https://regexr.com/",
-        "pubDate": "2026-11-19T22:27:07.000Z",
+        "title": "FFmpeg 9.1 'Gauss'",
+        "link": "https://ffmpeg.org/download.html#release_9.1",
+        "pubDate": "2026-11-20T04:02:39.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "PostgreSQL 19",
+        "link": "https://www.postgresql.org/docs/release/19.0/",
+        "pubDate": "2026-11-20T03:45:45.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "What Comes After AGI?",
+        "link": "https://institute.deepmind.com/essays/what-comes-after-agi/",
+        "pubDate": "2026-11-20T02:44:13.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+        "link": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+        "pubDate": "2026-11-20T02:43:49.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+        "link": "https://github.com/openssl/openssl/pull/33652",
+        "pubDate": "2026-11-20T02:01:09.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Vint Cerf on why TCP/IP was never patented",
+        "link": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+        "pubDate": "2026-11-20T01:06:12.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "ChatGPT for SNES",
+        "link": "https://www.bxfoundry.com/chatgpt_snes/",
+        "pubDate": "2026-11-20T00:25:59.000Z",
         "feedId": "hn"
       },
       {
         "title": "Synology Security Advisory",
         "link": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
         "pubDate": "2026-11-19T22:13:40.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Rebuilding my local voice assistant pipeline",
-        "link": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
-        "pubDate": "2026-11-19T20:57:14.000Z",
         "feedId": "hn"
       },
       {
@@ -61,36 +91,6 @@
         "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
         "pubDate": "2026-11-19T17:02:40.000Z",
         "feedId": "hn"
-      },
-      {
-        "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-        "link": "https://github.com/onlook-dev/onlook/",
-        "pubDate": "2026-11-19T16:34:04.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "UK government forced to admit it issued Apple a secret encryption order",
-        "link": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-        "pubDate": "2026-11-19T16:21:03.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
-        "link": "https://cornholenews.news",
-        "pubDate": "2026-11-19T15:38:32.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-        "link": "https://thedataexchange.media/pete-warden-moonshine/",
-        "pubDate": "2026-11-19T15:38:12.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
-        "link": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/",
-        "pubDate": "2026-11-19T15:13:23.000Z",
-        "feedId": "hn"
       }
     ]
   },
@@ -101,6 +101,12 @@
         "title": "Design for Understandability",
         "link": "https://jschuster.org/blog/2026/11/19/design-for-understandability/",
         "pubDate": "2026-11-19T13:07:34.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "\"I can tell you wrote this yourself\"",
+        "link": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+        "pubDate": "2026-11-20T07:13:14.000Z",
         "feedId": "lobsters"
       },
       {
@@ -122,9 +128,21 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Garage Door Spam",
+        "link": "https://blog.harrison.page/garage-door-spam/",
+        "pubDate": "2026-11-20T02:41:39.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "15 million web servers on one VM - smoltcp, DPDK, AF_XDP",
         "link": "https://kapteko.com/15-million-webservers/",
         "pubDate": "2026-11-19T13:38:19.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Jujutsu Primer",
+        "link": "https://ethanlowman.com/posts/jj-primer/",
+        "pubDate": "2026-11-20T03:34:36.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,15 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Codeberg's domain suddenly disappeared from their account, site is unreachable",
-        "link": "https://social.anoxinon.de/@Codeberg/117636454915265360",
-        "pubDate": "2026-11-18T08:51:09.000Z",
+        "title": "Farcall, a terminal-ready Rust PC+DOS emulator",
+        "link": "https://www.dialup.net/farcall/",
+        "pubDate": "2026-11-20T02:12:07.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Distributed, high-performance blob storage on SQLite",
-        "link": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
-        "pubDate": "2026-11-19T08:37:13.000Z",
+        "title": "Codeberg's domain suddenly disappeared from their account, site is unreachable",
+        "link": "https://social.anoxinon.de/@Codeberg/117636454915265360",
+        "pubDate": "2026-11-18T08:51:09.000Z",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Rebuilding my local voice assistant pipeline",
-        "link": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
-        "pubDate": "2026-11-19T19:50:25.000Z",
+        "title": "Distributed, high-performance blob storage on SQLite",
+        "link": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+        "pubDate": "2026-11-19T08:37:13.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "PHP 8.6 Release Announcement",
-        "link": "https://www.php.net/releases/8.6/en.php",
-        "pubDate": "2026-11-19T10:17:55.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Mercurius — A Zero-Trust Network‑Native Window System",
-        "link": "https://mercurius.tebibyte.org/",
-        "pubDate": "2026-11-19T18:37:35.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "nginx2root",
-        "link": "https://xint.io/blog/nginx2root-remote-code-execution",
-        "pubDate": "2026-11-18T15:28:56.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Postel Awardee Dave Täht Made Every Millisecond Count",
-        "link": "https://www.internetsociety.org/blog/2026/11/postel-awardee-dave-taht-made-every-millisecond-count/",
-        "pubDate": "2026-11-19T16:01:27.000Z",
+        "title": "Supporting FOSS projects to transition to memory safe tech",
+        "link": "https://tweedegolf.nl/en/blog/243/supporting-foss-projects-to-transition-to-memory-safe-tech/",
+        "pubDate": "2026-11-19T18:39:29.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -288,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Senate passes Trump-backed permitting bill",
+        "link": "https://www.axios.com/2026/11/20/senate-passes-energy-permitting-bill",
+        "pubDate": "2026-11-20T03:08:28.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump tells skeptical Europeans: \"Putin wants to end the war\"",
         "link": "https://www.axios.com/2026/11/20/trump-pushes-putin-ukraine-war-deal",
         "pubDate": "2026-11-20T01:30:59.000Z",
@@ -369,12 +375,6 @@
         "title": "Poll: Republicans in early 2028 primary states back Israel, not its critics",
         "link": "https://www.axios.com/2026/11/19/republicans-israel-poll-2028-primary-states",
         "pubDate": "2026-11-19T10:20:05.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Putting cyber risk in perspective, from the experts (our own CTO)",
-        "link": "https://www.axios.com/2026/11/19/cybersecurity-worries",
-        "pubDate": "2026-11-19T10:10:17.000Z",
         "feedId": "axios"
       }
     ]
