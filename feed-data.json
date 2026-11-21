@@ -1,8 +1,98 @@
 {
   "hn": {
     "id": "hn",
-    "error": "The operation was aborted due to timeout",
-    "items": []
+    "items": [
+      {
+        "title": "Re: Riemann",
+        "link": "https://borretti.me/article/re-riemann",
+        "pubDate": "2026-11-20T23:42:44.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Help github just deleted me",
+        "link": "https://nate.mecca1.net/posts/2026-11-20_help/",
+        "pubDate": "2026-11-20T23:35:42.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Sir Brian May adds new dimension to Hera asteroid",
+        "link": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+        "pubDate": "2026-11-20T23:19:44.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI may have solved the most important problem in mathematics",
+        "link": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+        "pubDate": "2026-11-20T22:46:59.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "NINLIVE: The Nine Inch Nails live archive",
+        "link": "https://ninlive.com/",
+        "pubDate": "2026-11-20T22:30:47.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nasdaq erases all 2026 gains",
+        "link": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+        "pubDate": "2026-11-20T22:29:06.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+        "link": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+        "pubDate": "2026-11-20T22:18:20.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nvidia accounting under SEC investigation, sources say",
+        "link": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+        "pubDate": "2026-11-20T20:22:41.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: OpenComputer – an open source alternative to Devin",
+        "link": "https://github.com/diggerhq/opencomputer",
+        "pubDate": "2026-11-20T20:19:56.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Inkling 2 Mini",
+        "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
+        "pubDate": "2026-11-20T20:12:19.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "And yet, it moves",
+        "link": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
+        "pubDate": "2026-11-20T20:07:55.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+        "link": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+        "pubDate": "2026-11-20T20:03:59.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+        "link": "https://scottaaronson.blog/?p=10344",
+        "pubDate": "2026-11-20T20:03:07.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Winedroid – run Android apps without Android (WASM demo)",
+        "link": "https://winedroid.soham.sh/demo/",
+        "pubDate": "2026-11-20T19:30:16.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Hurried Announcement: Alessandro Masullo GRH",
+        "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+        "pubDate": "2026-11-20T18:33:14.000Z",
+        "feedId": "hn"
+      }
+    ]
   },
   "lobsters": {
     "id": "lobsters",
@@ -32,15 +122,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Visited links are purple",
-        "link": "https://dbushell.com/2026/11/16/visited-links/",
-        "pubDate": "2026-11-20T09:58:05.000Z",
+        "title": "Alice v0.6.0",
+        "link": "https://www.alicecaml.org/blog/alice-v0-6-0/",
+        "pubDate": "2026-11-20T16:44:09.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Jujutsu Primer",
-        "link": "https://ethanlowman.com/posts/jj-primer/",
-        "pubDate": "2026-11-20T03:34:36.000Z",
+        "title": "Internet Archive Staffers Are Unionizing",
+        "link": "https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america",
+        "pubDate": "2026-11-20T18:39:29.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Visited links are purple",
+        "link": "https://dbushell.com/2026/11/16/visited-links/",
+        "pubDate": "2026-11-20T09:58:05.000Z",
         "feedId": "lobsters"
       },
       {
@@ -56,15 +152,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "DreamCoder: coding harness and IDE from the author of Mastering Emacs",
+        "link": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+        "pubDate": "2026-11-20T11:14:06.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Jujutsu Primer",
+        "link": "https://ethanlowman.com/posts/jj-primer/",
+        "pubDate": "2026-11-20T03:34:36.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Design for Understandability",
         "link": "https://jschuster.org/blog/2026/11/19/design-for-understandability/",
         "pubDate": "2026-11-19T13:07:34.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "DreamCoder: coding harness and IDE from the author of Mastering Emacs",
-        "link": "https://www.masteringemacs.org/article/announcing-dreamcoder",
-        "pubDate": "2026-11-20T11:14:06.000Z",
+        "title": "Lisp Game Jam devlog: Polydraw",
+        "link": "https://spritely.institute/news/lisp-game-jam-devlog-polydraw.html",
+        "pubDate": "2026-11-20T11:18:47.000Z",
         "feedId": "lobsters"
       },
       {
@@ -74,27 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "We Need Smart People Who Give a Shit",
-        "link": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
-        "pubDate": "2026-11-19T13:28:49.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Alice v0.6.0",
-        "link": "https://www.alicecaml.org/blog/alice-v0-6-0/",
-        "pubDate": "2026-11-20T16:44:09.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Mutex poisoning is not for everyone",
-        "link": "https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html",
-        "pubDate": "2026-11-19T13:01:49.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Lisp Game Jam devlog: Polydraw",
-        "link": "https://spritely.institute/news/lisp-game-jam-devlog-polydraw.html",
-        "pubDate": "2026-11-20T11:18:47.000Z",
+        "title": "Verifying formal models of Raft implementations",
+        "link": "https://antithesis.com/blog/2026/verifying-formal-models/",
+        "pubDate": "2026-11-20T21:54:45.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -102,6 +192,60 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+        "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+        "pubDate": "2026-11-20T22:28:24.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+        "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+        "pubDate": "2026-11-20T22:16:51.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google rolls out new search homepage with AI chat history and no search button",
+        "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+        "pubDate": "2026-11-20T21:58:29.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+        "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+        "pubDate": "2026-11-20T21:47:10.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+        "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+        "pubDate": "2026-11-20T20:59:08.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Watching as a giant star swallowed its neighbor and exploded",
+        "link": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
+        "pubDate": "2026-11-20T20:41:17.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+        "link": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+        "pubDate": "2026-11-20T20:26:33.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+        "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+        "pubDate": "2026-11-20T19:52:59.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
+        "link": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
+        "pubDate": "2026-11-20T19:21:50.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
         "link": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
@@ -137,60 +281,6 @@
         "link": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
         "pubDate": "2026-11-20T12:15:36.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
-        "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
-        "pubDate": "2026-11-20T12:00:43.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app popup",
-        "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
-        "pubDate": "2026-11-19T22:16:37.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
-        "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
-        "pubDate": "2026-11-19T21:19:12.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
-        "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
-        "pubDate": "2026-11-19T20:29:46.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-        "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-        "pubDate": "2026-11-19T20:19:28.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
-        "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
-        "pubDate": "2026-11-19T19:52:54.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
-        "link": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
-        "pubDate": "2026-11-19T18:44:39.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Google will launch Android app verification requirement globally in January 2027",
-        "link": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
-        "pubDate": "2026-11-19T18:00:33.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Mouse fight club might explain why we like to watch violent things",
-        "link": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
-        "pubDate": "2026-11-19T14:04:38.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -198,9 +288,27 @@
     "id": "axios",
     "items": [
       {
+        "title": "Second judge to block Trump's contested D.C. arch",
+        "link": "https://www.axios.com/2026/11/20/trump-arch-blocked-again",
+        "pubDate": "2026-11-20T21:32:29.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Congress gets a historic overhaul from every direction",
+        "link": "https://www.axios.com/2026/11/20/house-senate-freshmen-class-largest-decades",
+        "pubDate": "2026-11-20T21:20:21.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "Trump floats major tax on U.S. companies constructing data centers overseas",
         "link": "https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas",
-        "pubDate": "2026-11-20T18:13:32.000Z",
+        "pubDate": "2026-11-20T19:17:53.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Johnson urges Republicans to show up to work",
+        "link": "https://www.axios.com/2026/11/20/house-republicans-mike-johnson-attendance-midterms",
+        "pubDate": "2026-11-20T18:23:34.000Z",
         "feedId": "axios"
       },
       {
@@ -268,30 +376,18 @@
         "link": "https://www.axios.com/2026/11/19/gregory-meeks-congress-powers-trump-foreign-policy",
         "pubDate": "2026-11-19T22:20:14.000Z",
         "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Trump names Kirsten Davies as new national cyber director",
-        "link": "https://www.axios.com/2026/11/19/trump-national-cyber-director-sean-cairncross-leaving",
-        "pubDate": "2026-11-19T22:12:23.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: Sen. Ernst rebukes lack of \"transparency\" from Pentagon on Iran",
-        "link": "https://www.axios.com/2026/11/19/joni-ernst-hegseth-iran-war",
-        "pubDate": "2026-11-19T20:54:17.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Retailers shake up Thanksgiving meal deals amid rising food costs",
-        "link": "https://www.axios.com/2026/11/19/walmart-costco-thanksgiving-deals-dinner-kroger-aldi",
-        "pubDate": "2026-11-19T20:11:01.000Z",
-        "feedId": "axios"
       }
     ]
   },
   "longreads": {
     "id": "longreads",
     "items": [
+      {
+        "title": "The Old and The Furious",
+        "link": "https://longreads.com/2026/11/20/aging-driving-slate/",
+        "pubDate": "2026-11-20T19:12:09.000Z",
+        "feedId": "longreads"
+      },
       {
         "title": "Juiced to the Gills",
         "link": "https://longreads.com/2026/11/20/enhanced-games-kent-russell/",
@@ -374,12 +470,6 @@
         "title": "In the Doldrums ",
         "link": "https://longreads.com/2026/11/17/new-mexico-with-no-internet-and-moby-dick/",
         "pubDate": "2026-11-17T11:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "Alysa Liu Feels It All",
-        "link": "https://longreads.com/2026/11/16/alysa-liu-spike-jonze-life-magazine/",
-        "pubDate": "2026-11-16T18:51:14.000Z",
         "feedId": "longreads"
       }
     ]
