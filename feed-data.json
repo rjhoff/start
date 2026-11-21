@@ -3,6 +3,42 @@
     "id": "hn",
     "items": [
       {
+        "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+        "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+        "pubDate": "2026-11-21T14:36:45.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+        "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+        "pubDate": "2026-11-21T13:23:14.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+        "link": "https://simple-bench.com/",
+        "pubDate": "2026-11-21T13:16:12.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "My Monitor Was Cutting My Download Speed by 75%",
+        "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+        "pubDate": "2026-11-21T10:36:32.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "FBI reportedly investigating apparent hack of its criminal database",
+        "link": "https://www.bbc.com/news/articles/cvze7de86pk3o",
+        "pubDate": "2026-11-21T10:33:57.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "RCE in Gnupg",
+        "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+        "pubDate": "2026-11-21T08:32:58.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Surprisingly Adorable Insect Portraits",
         "link": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
         "pubDate": "2026-11-21T06:44:14.000Z",
@@ -12,12 +48,6 @@
         "title": "ClawDOS – An AI coding agent for DOS",
         "link": "http://ricapar.net/ClawDOS/",
         "pubDate": "2026-11-21T05:38:01.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Backblaze Notice at Collection and Privacy Policy",
-        "link": "https://www.backblaze.com/company/policy/privacy",
-        "pubDate": "2026-11-21T03:23:16.000Z",
         "feedId": "hn"
       },
       {
@@ -51,45 +81,15 @@
         "feedId": "hn"
       },
       {
-        "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-        "link": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-        "pubDate": "2026-11-20T22:18:20.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "Inkling 2 Mini",
         "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
         "pubDate": "2026-11-20T20:12:19.000Z",
         "feedId": "hn"
       },
       {
-        "title": "And yet, it moves",
-        "link": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
-        "pubDate": "2026-11-20T20:07:55.000Z",
-        "feedId": "hn"
-      },
-      {
         "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
         "link": "https://www.masteringemacs.org/article/announcing-dreamcoder",
         "pubDate": "2026-11-20T20:03:59.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
-        "link": "https://scottaaronson.blog/?p=10344",
-        "pubDate": "2026-11-20T20:03:07.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Winedroid – run Android apps without Android (WASM demo)",
-        "link": "https://winedroid.soham.sh/demo/",
-        "pubDate": "2026-11-20T19:30:16.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hurried Announcement: Alessandro Masullo GRH",
-        "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-        "pubDate": "2026-11-20T18:33:14.000Z",
         "feedId": "hn"
       }
     ]
@@ -104,9 +104,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "My Monitor Was Cutting My Download Speed by 75%",
+        "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+        "pubDate": "2026-11-21T15:03:28.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "C++26 is done (again)! — Trip report: November 2026 ISO C++ standards meeting (Búzios, Brazil)",
+        "link": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+        "pubDate": "2026-11-21T13:57:53.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Vim Classic 8.3.1 released",
         "link": "https://vim-classic.org/news/vim-8.3.1-released.html",
         "pubDate": "2026-11-20T10:02:03.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Slopstrap: Make your site look hastily vibecoded",
+        "link": "https://slopstrap.mikelacher.com/l",
+        "pubDate": "2026-11-21T00:46:40.000Z",
         "feedId": "lobsters"
       },
       {
@@ -116,9 +134,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Removing binder.c",
-        "link": "https://lwn.net/Articles/1102982/",
-        "pubDate": "2026-11-20T10:33:36.000Z",
+        "title": "Probabilistic data structures in Go, part 2",
+        "link": "https://antonz.org/probabilistic-data-structures-2/",
+        "pubDate": "2026-11-21T13:18:02.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Changes on freedesktop.org",
+        "link": "https://blog.tenstral.net/2026/11/new-fdo-website.html",
+        "pubDate": "2026-11-21T11:41:23.000Z",
         "feedId": "lobsters"
       },
       {
@@ -128,9 +152,27 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Removing binder.c",
+        "link": "https://lwn.net/Articles/1102982/",
+        "pubDate": "2026-11-20T10:33:36.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "TODOs JJ Style",
+        "link": "https://bwc9876.dev/blog/jj_todo/",
+        "pubDate": "2026-11-21T15:17:18.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Alice v0.6.0",
         "link": "https://www.alicecaml.org/blog/alice-v0-6-0/",
         "pubDate": "2026-11-20T16:44:09.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Three breaches, endless leaks: Your AI supply chain needs canaries",
+        "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+        "pubDate": "2026-11-21T15:48:50.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,51 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "DreamCoder: coding harness and IDE from the author of Mastering Emacs",
-        "link": "https://www.masteringemacs.org/article/announcing-dreamcoder",
-        "pubDate": "2026-11-20T11:14:06.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Garage Door Spam",
-        "link": "https://blog.harrison.page/garage-door-spam/",
-        "pubDate": "2026-11-20T02:41:39.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Verifying formal models of Raft implementations",
-        "link": "https://antithesis.com/blog/2026/verifying-formal-models/",
-        "pubDate": "2026-11-20T21:54:45.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What are you doing this weekend?",
-        "link": "https://lobste.rs/s/hneb5m/what_are_you_doing_this_weekend",
-        "pubDate": "2026-11-20T10:05:29.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Jujutsu Primer",
-        "link": "https://ethanlowman.com/posts/jj-primer/",
-        "pubDate": "2026-11-20T03:34:36.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Scaling Git horizontally: how we moved beyond Multi-Raft",
-        "link": "https://enroute.sh/blog/scaling-horizontally-how-we-moved-beyond-multi-raft",
-        "pubDate": "2026-11-21T04:14:02.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Design for Understandability",
-        "link": "https://jschuster.org/blog/2026/11/19/design-for-understandability/",
-        "pubDate": "2026-11-19T13:07:34.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Slopstrap: Make your site look hastily vibecoded",
-        "link": "https://slopstrap.mikelacher.com/l",
-        "pubDate": "2026-11-21T00:46:40.000Z",
+        "title": "Microsoft 365 Outage - Post Incident Report",
+        "link": "https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf",
+        "pubDate": "2026-11-21T12:22:47.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,12 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "“Race realism” isn’t realistic—and it isn’t good science",
+        "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+        "pubDate": "2026-11-21T12:01:13.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
         "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
@@ -275,18 +281,24 @@
         "link": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
         "pubDate": "2026-11-20T12:30:29.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Science has a home here at Ars—please help keep it that way",
-        "link": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
-        "pubDate": "2026-11-20T12:15:36.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Trump says FBI hack might expose Russia \"hoax\"",
+        "link": "https://www.axios.com/2026/11/21/trump-russia-fbi-hack",
+        "pubDate": "2026-11-21T15:55:01.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "After historic Southern wins, Black organizers prepare a push for governing power",
+        "link": "https://www.axios.com/2026/11/21/black-organizers-southern-political-bench",
+        "pubDate": "2026-11-21T11:00:04.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Second judge to block Trump's contested D.C. arch",
         "link": "https://www.axios.com/2026/11/20/trump-arch-blocked-again",
@@ -363,18 +375,6 @@
         "title": "Next GOP battle: Who defends Trump on House Oversight",
         "link": "https://www.axios.com/2026/11/19/republicans-house-oversight-gill-fallon",
         "pubDate": "2026-11-19T23:49:15.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "House Democrats recoil at forcing December shutdown to cut Iran war funding",
-        "link": "https://www.axios.com/2026/11/19/government-shutdown-funding-iran-democrat",
-        "pubDate": "2026-11-19T23:46:03.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Exclusive: Rep. Gregory Meeks vows to reclaim Congress' powers from Trump",
-        "link": "https://www.axios.com/2026/11/19/gregory-meeks-congress-powers-trump-foreign-policy",
-        "pubDate": "2026-11-19T22:20:14.000Z",
         "feedId": "axios"
       }
     ]
