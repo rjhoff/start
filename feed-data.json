@@ -1,22 +1,112 @@
 {
   "hn": {
     "id": "hn",
-    "error": "The operation was aborted due to timeout",
-    "items": []
+    "items": [
+      {
+        "title": "Perplexity and Intelligence",
+        "link": "https://openai.com/index/perplexity-and-intelligence/",
+        "pubDate": "2026-11-22T17:06:27.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+        "link": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+        "pubDate": "2026-11-22T15:42:40.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+        "link": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+        "pubDate": "2026-11-22T15:35:24.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Open Social Web Alliance",
+        "link": "https://osw-alliance.net/en/",
+        "pubDate": "2026-11-22T15:24:32.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Backblaze customers worried of personal data sale/sharing after policy update",
+        "link": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
+        "pubDate": "2026-11-22T15:16:02.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Show HN: I built a game where you are an LLM's subagent",
+        "link": "https://github.com/gulivan/worker755",
+        "pubDate": "2026-11-22T13:56:58.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Testing Terraform with AWS Emulator",
+        "link": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+        "pubDate": "2026-11-22T13:00:36.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+        "link": "https://simonwillison.net/2026/Nov/21/muru/",
+        "pubDate": "2026-11-22T09:57:01.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+        "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+        "pubDate": "2026-11-22T08:57:34.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Notes on the discrete Fourier transform (DFT)",
+        "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+        "pubDate": "2026-11-22T06:52:25.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+        "link": "https://github.com/EL4CTEO/fast-anything",
+        "pubDate": "2026-11-22T04:10:09.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+        "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+        "pubDate": "2026-11-22T04:04:56.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Data Processing Incidents on Inference Providers",
+        "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+        "pubDate": "2026-11-22T02:14:14.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Mythology of Conscious AI",
+        "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+        "pubDate": "2026-11-22T02:10:02.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Sandwich Simulator",
+        "link": "https://stulle.app/",
+        "pubDate": "2026-11-22T00:07:59.000Z",
+        "feedId": "hn"
+      }
+    ]
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
       {
-        "title": "My Monitor Was Cutting My Download Speed by 75%",
-        "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-        "pubDate": "2026-11-21T15:03:28.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
         "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
         "pubDate": "2026-11-22T02:03:46.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "My Monitor Was Cutting My Download Speed by 75%",
+        "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+        "pubDate": "2026-11-21T15:03:28.000Z",
         "feedId": "lobsters"
       },
       {
@@ -26,21 +116,33 @@
         "feedId": "lobsters"
       },
       {
-        "title": "TODOs JJ Style",
-        "link": "https://bwc9876.dev/blog/jj_todo/",
-        "pubDate": "2026-11-21T15:17:18.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Advice for the next 100 Rust GUIs",
         "link": "https://linebender.org/blog/next-100-guis/",
         "pubDate": "2026-11-21T23:10:07.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "The Claude Delusion",
-        "link": "https://www.netmeister.org/blog/claude-delusion.html",
-        "pubDate": "2026-11-22T09:21:35.000Z",
+        "title": "We asked [mathematicans about an incomprehensible AI proof of GRH] before it happened (13min38s)",
+        "link": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+        "pubDate": "2026-11-22T16:37:37.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Falsehoods Programmers Believe About ATProto",
+        "link": "https://reiver.link/atproto/falsehoods-programmers-believe/",
+        "pubDate": "2026-11-22T16:37:12.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "TODOs JJ Style",
+        "link": "https://bwc9876.dev/blog/jj_todo/",
+        "pubDate": "2026-11-21T15:17:18.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What If Netscape Did SSL the HTTP Way?",
+        "link": "https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/",
+        "pubDate": "2026-11-22T14:48:20.000Z",
         "feedId": "lobsters"
       },
       {
@@ -53,6 +155,12 @@
         "title": "How I Got Postgres into a Single Binary",
         "link": "https://progrium.xyz/articles/2026/single-binary-postgres",
         "pubDate": "2026-11-21T19:32:22.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Fixing Google’s Feedburner problem, and caching that half works",
+        "link": "https://joshua.hu/fixing-google-feedburner-cache-problem-atom-rss",
+        "pubDate": "2026-11-22T12:30:56.000Z",
         "feedId": "lobsters"
       },
       {
@@ -78,30 +186,18 @@
         "link": "https://pwn.ai/upload2shell/research.html",
         "pubDate": "2026-11-22T00:52:23.000Z",
         "feedId": "lobsters"
-      },
-      {
-        "title": "Levent Alpöge Claims Proof of Riemann Hypothesis",
-        "link": "https://alpo.ge/remark.pdf",
-        "pubDate": "2026-11-20T14:46:49.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Changes on freedesktop.org",
-        "link": "https://blog.tenstral.net/2026/11/new-fdo-website.html",
-        "pubDate": "2026-11-21T11:41:23.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Slopstrap: Make your site look hastily vibecoded",
-        "link": "https://slopstrap.mikelacher.com/l",
-        "pubDate": "2026-11-21T00:46:40.000Z",
-        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+        "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+        "pubDate": "2026-11-22T12:07:41.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
         "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
@@ -185,18 +281,24 @@
         "link": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
         "pubDate": "2026-11-20T14:15:21.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
-        "link": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
-        "pubDate": "2026-11-20T13:35:45.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Scoop: The Pentagon's case for Canada to \"get serious\" on defense",
+        "link": "https://www.axios.com/2026/11/22/pentagon-canada-defense-restrictions-fact-sheet",
+        "pubDate": "2026-11-22T16:37:10.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Behind the Curtain — AI 2027: The reckoning",
+        "link": "https://www.axios.com/2026/11/22/behind-the-curtain-ai-2027-the-reckoning",
+        "pubDate": "2026-11-22T13:36:46.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Trump says he'd work with Dems to cap credit card interest, fees",
         "link": "https://www.axios.com/2026/11/21/trump-credit-cards-rates-warren",
@@ -273,18 +375,6 @@
         "title": "Phoenix mayor walks fine line on AI boom",
         "link": "https://www.axios.com/2026/11/20/phoenix-mayor-data-centers-ai-boom",
         "pubDate": "2026-11-20T10:20:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Senate passes Trump-backed permitting bill",
-        "link": "https://www.axios.com/2026/11/20/senate-passes-energy-permitting-bill",
-        "pubDate": "2026-11-20T03:08:28.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump tells skeptical Europeans: \"Putin wants to end the war\"",
-        "link": "https://www.axios.com/2026/11/20/trump-pushes-putin-ukraine-war-deal",
-        "pubDate": "2026-11-20T01:30:59.000Z",
         "feedId": "axios"
       }
     ]
