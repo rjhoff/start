@@ -1,8 +1,98 @@
 {
   "hn": {
     "id": "hn",
-    "error": "The operation was aborted due to timeout",
-    "items": []
+    "items": [
+      {
+        "title": "CollectWise (YC F24) Is Hiring",
+        "link": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager",
+        "pubDate": "2026-11-23T07:01:08.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Yes, 17M lines of Lean is a lot",
+        "link": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
+        "pubDate": "2026-11-23T05:00:49.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "A Partial Evaluator for C",
+        "link": "https://phoenix.labri.fr/software/tempo/",
+        "pubDate": "2026-11-23T04:51:48.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "DeFlock Amerca Facebook Group Suspended as a Dangerous Organization",
+        "link": "https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/",
+        "pubDate": "2026-11-23T04:31:32.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+        "link": "https://github.com/AFK-surf/xnulinux",
+        "pubDate": "2026-11-23T03:49:24.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Treemap of the Riemann Hypothesis Lean Proof",
+        "link": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+        "pubDate": "2026-11-23T01:50:23.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+        "link": "https://spelunkr.tv",
+        "pubDate": "2026-11-23T01:13:51.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "What we learned operating auth for 1k APIs",
+        "link": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+        "pubDate": "2026-11-23T01:01:11.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+        "link": "https://0rwx.com/",
+        "pubDate": "2026-11-22T23:53:00.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+        "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+        "pubDate": "2026-11-22T23:12:10.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "GL.iNet Security Notice 2026-11-20",
+        "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+        "pubDate": "2026-11-22T23:06:37.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Localcode, open source agentic coding on your Mac with one command",
+        "link": "https://github.com/mjwsolo/localcode",
+        "pubDate": "2026-11-22T22:18:48.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+        "link": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+        "pubDate": "2026-11-22T22:10:58.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+        "link": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+        "pubDate": "2026-11-22T21:33:12.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+        "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+        "pubDate": "2026-11-22T21:01:16.000Z",
+        "feedId": "hn"
+      }
+    ]
   },
   "lobsters": {
     "id": "lobsters",
@@ -11,6 +101,12 @@
         "title": "GitHub Actions accepts invalid YAML",
         "link": "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/",
         "pubDate": "2026-11-22T21:49:18.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Gliver completes the Guix desktop",
+        "link": "https://dustycloud.org/blog/gliver-completes-the-guix-desktop/",
+        "pubDate": "2026-11-22T20:10:15.000Z",
         "feedId": "lobsters"
       },
       {
@@ -26,27 +122,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Gliver completes the Guix desktop",
-        "link": "https://dustycloud.org/blog/gliver-completes-the-guix-desktop/",
-        "pubDate": "2026-11-22T20:10:15.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "NixOS bring-up on an Alibaba RISC-V board",
-        "link": "https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/",
-        "pubDate": "2026-11-22T00:30:07.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Calculate radio link placement and node amount for your city's mesh network",
-        "link": "https://meshcoveragecalculator.lalala.ing/",
-        "pubDate": "2026-11-22T18:17:44.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "What If Netscape Did SSL the HTTP Way?",
-        "link": "https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/",
-        "pubDate": "2026-11-22T14:48:20.000Z",
+        "title": "Good morning and welcome to my idea of a new web",
+        "link": "https://dave.writersweb.org/index.md",
+        "pubDate": "2026-11-23T03:15:06.000Z",
         "feedId": "lobsters"
       },
       {
@@ -56,9 +134,33 @@
         "feedId": "lobsters"
       },
       {
+        "title": "NixOS bring-up on an Alibaba RISC-V board",
+        "link": "https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/",
+        "pubDate": "2026-11-22T00:30:07.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Testing Terraform with AWS Emulator",
+        "link": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+        "pubDate": "2026-11-22T21:44:04.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Calculate radio link placement and node amount for your city's mesh network",
+        "link": "https://meshcoveragecalculator.lalala.ing/",
+        "pubDate": "2026-11-22T18:17:44.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "My Monitor Was Cutting My Download Speed by 75%",
         "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
         "pubDate": "2026-11-21T15:03:28.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "De-fanging dangerous triggers in GitHub Actions across an organization",
+        "link": "https://pyfound.blogspot.com/2026/11/de-fanging-dangerous-triggers-in-github.html",
+        "pubDate": "2026-11-23T03:02:13.000Z",
         "feedId": "lobsters"
       },
       {
@@ -68,33 +170,21 @@
         "feedId": "lobsters"
       },
       {
-        "title": "TODOs JJ Style",
-        "link": "https://bwc9876.dev/blog/jj_todo/",
-        "pubDate": "2026-11-21T15:17:18.000Z",
+        "title": "Marches & Gnats programming challenges",
+        "link": "https://mng.quest/",
+        "pubDate": "2026-11-23T05:12:52.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What If Netscape Did SSL the HTTP Way?",
+        "link": "https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/",
+        "pubDate": "2026-11-22T14:48:20.000Z",
         "feedId": "lobsters"
       },
       {
         "title": "Fixing Google’s Feedburner problem, and caching that half works",
         "link": "https://joshua.hu/fixing-google-feedburner-cache-problem-atom-rss",
         "pubDate": "2026-11-22T12:30:56.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "port scanning for mojang",
-        "link": "https://sipacid.com/blog/port-scanning-for-mojang/",
-        "pubDate": "2026-11-21T23:40:51.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How I Got Postgres into a Single Binary",
-        "link": "https://progrium.xyz/articles/2026/single-binary-postgres",
-        "pubDate": "2026-11-21T19:32:22.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Testing Terraform with AWS Emulator",
-        "link": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
-        "pubDate": "2026-11-22T21:44:04.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -198,6 +288,12 @@
     "id": "axios",
     "items": [
       {
+        "title": "Trump's top intelligence official is also taking charge of cyber policy",
+        "link": "https://www.axios.com/2026/11/23/jay-clayton-acting-national-cyber-director",
+        "pubDate": "2026-11-23T00:31:32.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "How bitter rivals Buttigieg and Klobuchar went from enemies to friends",
         "link": "https://www.axios.com/2026/11/22/klobuchar-buttigieg-enemies-friends",
         "pubDate": "2026-11-22T22:50:05.000Z",
@@ -279,12 +375,6 @@
         "title": "GTA VI hijacks America",
         "link": "https://www.axios.com/2026/11/20/gta-6-viral-moments-monoculture",
         "pubDate": "2026-11-20T10:45:04.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "America's religious \"nones\" move from voters to lawmakers",
-        "link": "https://www.axios.com/2026/11/20/religious-nones-christians-evangelicals-election",
-        "pubDate": "2026-11-20T10:40:06.000Z",
         "feedId": "axios"
       }
     ]
