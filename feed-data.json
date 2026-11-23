@@ -1,130 +1,22 @@
 {
   "hn": {
     "id": "hn",
-    "items": [
-      {
-        "title": "Perplexity and Intelligence",
-        "link": "https://openai.com/index/perplexity-and-intelligence/",
-        "pubDate": "2026-11-22T17:06:27.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
-        "link": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
-        "pubDate": "2026-11-22T15:42:40.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
-        "link": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
-        "pubDate": "2026-11-22T15:35:24.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Open Social Web Alliance",
-        "link": "https://osw-alliance.net/en/",
-        "pubDate": "2026-11-22T15:24:32.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Backblaze customers worried of personal data sale/sharing after policy update",
-        "link": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
-        "pubDate": "2026-11-22T15:16:02.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: I built a game where you are an LLM's subagent",
-        "link": "https://github.com/gulivan/worker755",
-        "pubDate": "2026-11-22T13:56:58.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Testing Terraform with AWS Emulator",
-        "link": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
-        "pubDate": "2026-11-22T13:00:36.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-        "link": "https://simonwillison.net/2026/Nov/21/muru/",
-        "pubDate": "2026-11-22T09:57:01.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-        "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-        "pubDate": "2026-11-22T08:57:34.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Notes on the discrete Fourier transform (DFT)",
-        "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
-        "pubDate": "2026-11-22T06:52:25.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
-        "link": "https://github.com/EL4CTEO/fast-anything",
-        "pubDate": "2026-11-22T04:10:09.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-        "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-        "pubDate": "2026-11-22T04:04:56.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Data Processing Incidents on Inference Providers",
-        "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-        "pubDate": "2026-11-22T02:14:14.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Mythology of Conscious AI",
-        "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-        "pubDate": "2026-11-22T02:10:02.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Sandwich Simulator",
-        "link": "https://stulle.app/",
-        "pubDate": "2026-11-22T00:07:59.000Z",
-        "feedId": "hn"
-      }
-    ]
+    "error": "The operation was aborted due to timeout",
+    "items": []
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
       {
+        "title": "GitHub Actions accepts invalid YAML",
+        "link": "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/",
+        "pubDate": "2026-11-22T21:49:18.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
         "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
         "pubDate": "2026-11-22T02:03:46.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "My Monitor Was Cutting My Download Speed by 75%",
-        "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-        "pubDate": "2026-11-21T15:03:28.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "NixOS bring-up on an Alibaba RISC-V board",
-        "link": "https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/",
-        "pubDate": "2026-11-22T00:30:07.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Advice for the next 100 Rust GUIs",
-        "link": "https://linebender.org/blog/next-100-guis/",
-        "pubDate": "2026-11-21T23:10:07.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "We asked [mathematicans about an incomprehensible AI proof of GRH] before it happened (13min38s)",
-        "link": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-        "pubDate": "2026-11-22T16:37:37.000Z",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +26,57 @@
         "feedId": "lobsters"
       },
       {
-        "title": "TODOs JJ Style",
-        "link": "https://bwc9876.dev/blog/jj_todo/",
-        "pubDate": "2026-11-21T15:17:18.000Z",
+        "title": "Gliver completes the Guix desktop",
+        "link": "https://dustycloud.org/blog/gliver-completes-the-guix-desktop/",
+        "pubDate": "2026-11-22T20:10:15.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "NixOS bring-up on an Alibaba RISC-V board",
+        "link": "https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/",
+        "pubDate": "2026-11-22T00:30:07.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Calculate radio link placement and node amount for your city's mesh network",
+        "link": "https://meshcoveragecalculator.lalala.ing/",
+        "pubDate": "2026-11-22T18:17:44.000Z",
         "feedId": "lobsters"
       },
       {
         "title": "What If Netscape Did SSL the HTTP Way?",
         "link": "https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/",
         "pubDate": "2026-11-22T14:48:20.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "scriptura: a cozy corner for your scripts",
+        "link": "https://alanpearce.eu/post/scriptura/",
+        "pubDate": "2026-11-22T19:13:26.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "My Monitor Was Cutting My Download Speed by 75%",
+        "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+        "pubDate": "2026-11-21T15:03:28.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Advice for the next 100 Rust GUIs",
+        "link": "https://linebender.org/blog/next-100-guis/",
+        "pubDate": "2026-11-21T23:10:07.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "TODOs JJ Style",
+        "link": "https://bwc9876.dev/blog/jj_todo/",
+        "pubDate": "2026-11-21T15:17:18.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Fixing Google’s Feedburner problem, and caching that half works",
+        "link": "https://joshua.hu/fixing-google-feedburner-cache-problem-atom-rss",
+        "pubDate": "2026-11-22T12:30:56.000Z",
         "feedId": "lobsters"
       },
       {
@@ -158,33 +92,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Fixing Google’s Feedburner problem, and caching that half works",
-        "link": "https://joshua.hu/fixing-google-feedburner-cache-problem-atom-rss",
-        "pubDate": "2026-11-22T12:30:56.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "C++26 is done (again)! — Trip report: November 2026 ISO C++ standards meeting (Búzios, Brazil)",
-        "link": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
-        "pubDate": "2026-11-21T13:57:53.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Microsoft 365 Outage - Post Incident Report",
-        "link": "https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf",
-        "pubDate": "2026-11-21T12:22:47.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Probabilistic data structures in Go, part 2",
-        "link": "https://antonz.org/probabilistic-data-structures-2/",
-        "pubDate": "2026-11-21T13:18:02.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "GhostScript CVE 2026-125396: \"Upload2Shell\"",
-        "link": "https://pwn.ai/upload2shell/research.html",
-        "pubDate": "2026-11-22T00:52:23.000Z",
+        "title": "Testing Terraform with AWS Emulator",
+        "link": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+        "pubDate": "2026-11-22T21:44:04.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -288,9 +198,21 @@
     "id": "axios",
     "items": [
       {
+        "title": "How bitter rivals Buttigieg and Klobuchar went from enemies to friends",
+        "link": "https://www.axios.com/2026/11/22/klobuchar-buttigieg-enemies-friends",
+        "pubDate": "2026-11-22T22:50:05.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: DeSantis' secret book project fuels 2028 speculation",
+        "link": "https://www.axios.com/2026/11/22/scoop-desantis-secret-book-project-fuels-2028-speculation",
+        "pubDate": "2026-11-22T22:40:04.000Z",
+        "feedId": "axios"
+      },
+      {
         "title": "Scoop: The Pentagon's case for Canada to \"get serious\" on defense",
         "link": "https://www.axios.com/2026/11/22/pentagon-canada-defense-restrictions-fact-sheet",
-        "pubDate": "2026-11-22T16:37:10.000Z",
+        "pubDate": "2026-11-22T20:29:14.000Z",
         "feedId": "axios"
       },
       {
@@ -363,18 +285,6 @@
         "title": "America's religious \"nones\" move from voters to lawmakers",
         "link": "https://www.axios.com/2026/11/20/religious-nones-christians-evangelicals-election",
         "pubDate": "2026-11-20T10:40:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Medicaid expansion isn't a \"slam dunk\" for new Dem governors",
-        "link": "https://www.axios.com/2026/11/20/democrat-governors-medicaid-expansion-fallbacks",
-        "pubDate": "2026-11-20T10:30:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Phoenix mayor walks fine line on AI boom",
-        "link": "https://www.axios.com/2026/11/20/phoenix-mayor-data-centers-ai-boom",
-        "pubDate": "2026-11-20T10:20:06.000Z",
         "feedId": "axios"
       }
     ]
