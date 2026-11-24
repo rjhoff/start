@@ -3,27 +3,69 @@
     "id": "hn",
     "items": [
       {
+        "title": "Ladybird Is Freakin' Awesome",
+        "link": "https://dbushell.com/2026/11/24/ladybird-is-freakin-awesome/",
+        "pubDate": "2026-11-24T15:06:51.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Anthropic is below its IPO price",
+        "link": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa",
+        "pubDate": "2026-11-24T14:41:15.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "GTA 6 Running on Windows",
+        "link": "https://twitter.com/raul_bs3/status/2125213756238291075",
+        "pubDate": "2026-11-24T13:19:31.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "LLM agents work for their parent companies, not for you",
+        "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+        "pubDate": "2026-11-24T12:40:15.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Who in Washington owns and trades Nvidia stock",
+        "link": "https://www.kadoa.com/congress/insights/trump-nvidia",
+        "pubDate": "2026-11-24T11:51:05.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Worshipping at the altar of Brendan Gregg",
+        "link": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+        "pubDate": "2026-11-24T10:50:14.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Just a Few Bugs",
+        "link": "https://www.justafewbugs.xyz/",
+        "pubDate": "2026-11-24T09:47:59.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Quad9 pulled their DNS service from France",
+        "link": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+        "pubDate": "2026-11-24T08:33:14.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "2035 came early",
+        "link": "https://fzakaria.com/2026/11/23/2035-came-early",
+        "pubDate": "2026-11-24T06:30:33.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+        "link": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+        "pubDate": "2026-11-24T05:15:22.000Z",
+        "feedId": "hn"
+      },
+      {
         "title": "Drone Maps of Salvage Yards",
         "link": "https://salvageyarddrone.wordpress.com/",
         "pubDate": "2026-11-24T04:00:28.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
-        "link": "https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26",
-        "pubDate": "2026-11-24T03:16:58.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Zero data retention with Enterprise Frontier Safeguards is now in beta",
-        "link": "https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards",
-        "pubDate": "2026-11-24T03:15:38.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hacking radiators for fun and no profit",
-        "link": "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/",
-        "pubDate": "2026-11-24T02:56:41.000Z",
         "feedId": "hn"
       },
       {
@@ -45,51 +87,9 @@
         "feedId": "hn"
       },
       {
-        "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
-        "link": "https://wgna.com/car-bill-extra-fees/",
-        "pubDate": "2026-11-24T02:26:23.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The Power of GraphQL, Without GraphQL",
-        "link": "https://cobalt27.dev/",
-        "pubDate": "2026-11-24T00:03:59.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The search for a top dark matter candidate",
-        "link": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
-        "pubDate": "2026-11-23T23:12:40.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Freeing the iPod Nano 5G",
-        "link": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
-        "pubDate": "2026-11-23T23:03:13.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-        "link": "https://stalw.art/blog/microsoft-exchange-replacement/",
-        "pubDate": "2026-11-23T22:32:29.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-        "link": "https://arxiv.org/abs/2602.20031",
-        "pubDate": "2026-11-23T22:29:48.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "VP ≠ VNP over Every Field",
-        "link": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
-        "pubDate": "2026-11-23T22:09:10.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
-        "link": "https://www.bored.com/",
-        "pubDate": "2026-11-23T21:01:16.000Z",
+        "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
+        "link": "https://github.com/ItsNotRexed/Leonida/issues",
+        "pubDate": "2026-11-24T02:08:09.000Z",
         "feedId": "hn"
       }
     ]
@@ -98,33 +98,15 @@
     "id": "lobsters",
     "items": [
       {
+        "title": "2035 came early",
+        "link": "https://fzakaria.com/2026/11/23/2035-came-early",
+        "pubDate": "2026-11-24T06:30:15.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Ladybird is now in alpha",
         "link": "https://ladybird.org/posts/alpha/",
         "pubDate": "2026-11-23T16:13:03.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Signal is Serious About Protecting Your Privacy",
-        "link": "https://signal.org/blog/protecting-your-privacy/",
-        "pubDate": "2026-11-23T07:44:09.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Held together by spare time: Reviving wiki.alpinelinux.org during PHP2Shell",
-        "link": "https://lambdacreate.com/posts/held-together-by-spare-time",
-        "pubDate": "2026-11-23T15:16:31.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Sneakernet",
-        "link": "https://sneakernet.eu/",
-        "pubDate": "2026-11-23T16:20:21.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "GitHub Actions accepts invalid YAML",
-        "link": "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/",
-        "pubDate": "2026-11-22T21:49:18.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,39 +122,39 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Signal is Serious About Protecting Your Privacy",
+        "link": "https://signal.org/blog/protecting-your-privacy/",
+        "pubDate": "2026-11-23T07:44:09.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Sneakernet",
+        "link": "https://sneakernet.eu/",
+        "pubDate": "2026-11-23T16:20:21.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Security incident on Hex.pm",
+        "link": "https://hex.pm/blog/security-incident-on-hexpm",
+        "pubDate": "2026-11-24T14:52:19.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "UQ researchers send an unblockable message using gravity",
         "link": "https://news.uq.edu.au/2026-11-uq-researchers-send-unblockable-message-using-gravity",
         "pubDate": "2026-11-23T20:01:46.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Quality IMAP, Part 2: Mailbox Concurrency",
-        "link": "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/",
-        "pubDate": "2026-11-23T11:05:08.000Z",
+        "title": "Held together by spare time: Reviving wiki.alpinelinux.org during PHP2Shell",
+        "link": "https://lambdacreate.com/posts/held-together-by-spare-time",
+        "pubDate": "2026-11-23T15:16:31.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "the algebra of dependent types (2025)",
-        "link": "https://dotat.at/@/2025-05-28-types.html",
-        "pubDate": "2026-11-24T00:51:41.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Illiterate Programming",
-        "link": "https://deadsimpletech.com/blog/illiterate-programming",
-        "pubDate": "2026-11-23T20:45:29.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Release: Roto v0.14.0",
-        "link": "https://community.nlnetlabs.nl/t/release-roto-v0-14-0/3511",
-        "pubDate": "2026-11-23T21:32:07.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Swapping Jolt's sorted collections to a B+tree",
-        "link": "https://yogthos.net/posts/2026-11-23-b+trees.html",
-        "pubDate": "2026-11-23T17:15:02.000Z",
+        "title": "Bypassing iOS Safari 60 FPS Limit",
+        "link": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+        "pubDate": "2026-11-24T10:35:19.000Z",
         "feedId": "lobsters"
       },
       {
@@ -182,9 +164,27 @@
         "feedId": "lobsters"
       },
       {
-        "title": "What are you doing this week?",
-        "link": "https://lobste.rs/s/t8c4vj/what_are_you_doing_this_week",
-        "pubDate": "2026-11-23T10:37:34.000Z",
+        "title": "the algebra of dependent types (2025)",
+        "link": "https://dotat.at/@/2025-05-28-types.html",
+        "pubDate": "2026-11-24T00:51:41.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "GitHub Actions accepts invalid YAML",
+        "link": "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/",
+        "pubDate": "2026-11-22T21:49:18.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Illiterate Programming",
+        "link": "https://deadsimpletech.com/blog/illiterate-programming",
+        "pubDate": "2026-11-23T20:45:29.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Quality IMAP, Part 2: Mailbox Concurrency",
+        "link": "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/",
+        "pubDate": "2026-11-23T11:05:08.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,30 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+        "link": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+        "pubDate": "2026-11-24T14:56:50.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+        "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+        "pubDate": "2026-11-24T12:30:05.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "One terminal command gave my forgotten Android device a desk job",
+        "link": "https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job/",
+        "pubDate": "2026-11-24T12:15:38.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
+        "link": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation/",
+        "pubDate": "2026-11-24T12:00:57.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
         "link": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
@@ -257,36 +281,54 @@
         "link": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/",
         "pubDate": "2026-11-23T12:15:16.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
-        "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
-        "pubDate": "2026-11-23T12:00:00.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
-        "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
-        "pubDate": "2026-11-22T12:07:41.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Review: Godzilla Minus Zero joins the ranks of truly stellar sequels",
-        "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
-        "pubDate": "2026-11-21T22:12:41.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "“Race realism” isn’t realistic—and it isn’t good science",
-        "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
-        "pubDate": "2026-11-21T12:01:13.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Oil's downward trend is pushing gasoline lower",
+        "link": "https://www.axios.com/2026/11/24/crude-oil-gasoline-prices-down",
+        "pubDate": "2026-11-24T13:31:36.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "\"The Axios Show\": Bob Woodward's memoir spills 50 years of secrets",
+        "link": "https://www.axios.com/2026/11/24/the-axios-show-bob-woodwards-memoir-spills-50-years-of-secrets",
+        "pubDate": "2026-11-24T11:08:54.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Behind the Curtain: When reality shouts",
+        "link": "https://www.axios.com/2026/11/24/behind-the-curtain-when-reality-shouts",
+        "pubDate": "2026-11-24T10:45:33.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release",
+        "link": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+        "pubDate": "2026-11-24T10:45:05.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: ACLU eyes Supreme Court flips in 11 states",
+        "link": "https://www.axios.com/2026/11/24/aclu-state-supreme-court-south-democrats-religion",
+        "pubDate": "2026-11-24T10:35:05.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Lowering the Medicare eligibility age is harder than it sounds",
+        "link": "https://www.axios.com/2026/11/24/democrats-medicare-eligibility-affordability-challenges",
+        "pubDate": "2026-11-24T10:30:07.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Nvidia's one-man board: How Trump inherited Jensen Huang's scandal",
+        "link": "https://www.axios.com/2026/11/24/nvidias-one-man-board-how-trump-inherited-jensen-huangs-scandal",
+        "pubDate": "2026-11-24T10:10:06.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Scoop: Thanksgiving air travel expected to hit 16-year high",
         "link": "https://www.axios.com/2026/11/24/thanksgiving-air-travel-record-expected",
@@ -333,48 +375,6 @@
         "title": "A red bra, an Nvidia flag and Trump's iconic rally pose: \"Sex sells\"",
         "link": "https://www.axios.com/2026/11/23/trump-jensen-huang-nvidia-sex-sells-meme",
         "pubDate": "2026-11-23T17:46:41.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Doctors who disagree with AI could face legal jeopardy",
-        "link": "https://www.axios.com/2026/11/23/doctors-malpractice-ai-liability-danger",
-        "pubDate": "2026-11-23T10:25:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "UN climate meltdown raises new doubts about talks",
-        "link": "https://www.axios.com/2026/11/23/un-climate-talks-meltdown-aftermath",
-        "pubDate": "2026-11-23T10:15:07.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "DNC limits 2028 primary candidates' ties to big-money groups",
-        "link": "https://www.axios.com/2026/11/23/dnc-super-pacs-limits-2028-primary",
-        "pubDate": "2026-11-23T10:00:11.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump's top intelligence official is also taking charge of cyber policy",
-        "link": "https://www.axios.com/2026/11/23/jay-clayton-acting-national-cyber-director",
-        "pubDate": "2026-11-23T00:31:32.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "How bitter rivals Buttigieg and Klobuchar went from enemies to friends",
-        "link": "https://www.axios.com/2026/11/22/klobuchar-buttigieg-enemies-friends",
-        "pubDate": "2026-11-22T22:50:05.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: DeSantis' secret book project fuels 2028 speculation",
-        "link": "https://www.axios.com/2026/11/22/scoop-desantis-secret-book-project-fuels-2028-speculation",
-        "pubDate": "2026-11-22T22:40:04.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: The Pentagon's case for Canada to \"get serious\" on defense",
-        "link": "https://www.axios.com/2026/11/22/pentagon-canada-defense-restrictions-fact-sheet",
-        "pubDate": "2026-11-22T20:29:14.000Z",
         "feedId": "axios"
       }
     ]
