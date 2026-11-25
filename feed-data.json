@@ -3,93 +3,93 @@
     "id": "hn",
     "items": [
       {
-        "title": "Swift Death of Statelessness",
-        "link": "https://bexx.io/post/swift-death-of-statelessness/",
-        "pubDate": "2026-11-25T06:23:09.000Z",
+        "title": "Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]",
+        "link": "https://scottaaronson.blog/?p=10379",
+        "pubDate": "2026-11-25T19:11:27.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-        "link": "https://gpu-demo-gallery.pages.dev/",
-        "pubDate": "2026-11-25T04:31:48.000Z",
+        "title": "SpaceX wins FCC approval to deploy 1M orbital data center satellites",
+        "link": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+        "pubDate": "2026-11-25T18:59:43.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Taking over US Treasury subdomains for $3 each",
-        "link": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
-        "pubDate": "2026-11-25T04:27:55.000Z",
+        "title": "Britain's ghost stations",
+        "link": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+        "pubDate": "2026-11-25T17:43:46.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-        "link": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
-        "pubDate": "2026-11-25T04:03:33.000Z",
+        "title": "The polynomial Hirsch conjecture is false [pdf]",
+        "link": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+        "pubDate": "2026-11-25T17:34:34.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-        "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-        "pubDate": "2026-11-25T03:47:42.000Z",
+        "title": "1Password Security Incident",
+        "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
+        "pubDate": "2026-11-25T17:18:26.000Z",
         "feedId": "hn"
       },
       {
-        "title": "A faster algorithm for extracting hexadecimal digits of π",
-        "link": "https://www.stylewarning.com/posts/faster-digit-extraction/",
-        "pubDate": "2026-11-25T03:28:42.000Z",
+        "title": "Deriving Black-Scholes",
+        "link": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
+        "pubDate": "2026-11-25T17:18:15.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
-        "link": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
-        "pubDate": "2026-11-25T03:28:06.000Z",
+        "title": "Investigating degraded experiences across GitHub products",
+        "link": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+        "pubDate": "2026-11-25T15:59:23.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-        "link": "https://buttons.joshwcomeau.com/",
-        "pubDate": "2026-11-25T03:23:07.000Z",
+        "title": "In C++, = default and {} are not the same constructor",
+        "link": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
+        "pubDate": "2026-11-25T15:20:15.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Macrohistory in Six Facts",
-        "link": "https://basilhalperin.com/essays/macrohistory.html",
-        "pubDate": "2026-11-25T03:04:46.000Z",
+        "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+        "link": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+        "pubDate": "2026-11-25T15:14:32.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-        "link": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-        "pubDate": "2026-11-25T03:04:37.000Z",
+        "title": "Rumors swirling that labs might have cracked Factoring in P",
+        "link": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+        "pubDate": "2026-11-25T15:08:44.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Lua for data representation (2025)",
-        "link": "https://citrons.xyz/journal/2025-07-23",
-        "pubDate": "2026-11-25T03:04:12.000Z",
+        "title": "I checked Clojure's core with Lean and found unreported bugs",
+        "link": "https://s.conao3.com/blog/2026/e4f733",
+        "pubDate": "2026-11-25T14:56:52.000Z",
         "feedId": "hn"
       },
       {
-        "title": "I've been drinking wine in my kitchen",
-        "link": "https://scottaaronson.blog/?p=10362",
-        "pubDate": "2026-11-25T03:02:10.000Z",
+        "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+        "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+        "pubDate": "2026-11-25T13:33:07.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-        "link": "https://www.proofatlas.ai/open-problems/",
-        "pubDate": "2026-11-25T03:01:36.000Z",
+        "title": "Hazel (YC W24) Is Hiring a Product Designer",
+        "link": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
+        "pubDate": "2026-11-25T12:00:34.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-        "link": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-        "pubDate": "2026-11-25T02:34:21.000Z",
+        "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+        "link": "https://github.com/xoxorwr/pw-loudness-eq",
+        "pubDate": "2026-11-25T11:34:25.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-        "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-        "pubDate": "2026-11-25T01:19:26.000Z",
+        "title": "The industrialization of noise: Automated proof-solving is the same old dead end [pdf]",
+        "link": "https://arxiv.org/abs/2611.31286",
+        "pubDate": "2026-11-25T08:23:34.000Z",
         "feedId": "hn"
       }
     ]
@@ -98,21 +98,21 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Pokemon Childhood Version: A romhack where Mew is under the truck",
-        "link": "https://wheybags.com/blog/pokemon_childhood_version.html",
-        "pubDate": "2026-11-24T23:14:50.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why there are still no non-WebKit browsers on iOS",
-        "link": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-        "pubDate": "2026-11-24T22:28:27.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
         "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
         "pubDate": "2026-11-25T06:20:29.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Optimizing Rustc's next trait solver",
+        "link": "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver",
+        "pubDate": "2026-11-25T13:09:22.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Pokemon Childhood Version: A romhack where Mew is under the truck",
+        "link": "https://wheybags.com/blog/pokemon_childhood_version.html",
+        "pubDate": "2026-11-24T23:14:50.000Z",
         "feedId": "lobsters"
       },
       {
@@ -122,15 +122,39 @@
         "feedId": "lobsters"
       },
       {
-        "title": "2035 came early",
-        "link": "https://fzakaria.com/2026/11/23/2035-came-early",
-        "pubDate": "2026-11-24T06:30:15.000Z",
+        "title": "Why there are still no non-WebKit browsers on iOS",
+        "link": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+        "pubDate": "2026-11-24T22:28:27.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "October in Servo: video captions and inert content",
+        "link": "https://servo.org/blog/2026/11/25/october-in-servo/",
+        "pubDate": "2026-11-25T14:31:31.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Update on a security incident involving 1Password’s backend systems",
+        "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
+        "pubDate": "2026-11-25T17:43:13.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Taking over US Treasury subdomains for $3 each",
+        "link": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+        "pubDate": "2026-11-25T10:27:49.000Z",
         "feedId": "lobsters"
       },
       {
         "title": "Security incident on Hex.pm",
         "link": "https://hex.pm/blog/security-incident-on-hexpm",
         "pubDate": "2026-11-24T14:52:19.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "2035 came early",
+        "link": "https://fzakaria.com/2026/11/23/2035-came-early",
+        "pubDate": "2026-11-24T06:30:15.000Z",
         "feedId": "lobsters"
       },
       {
@@ -146,39 +170,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "9/UX: a Macintosh-inspired desktop for 9front",
-        "link": "https://progrium.github.io/9ux/",
-        "pubDate": "2026-11-24T18:37:29.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Beyond Linux: A Journey Through the Open Source Ecosystem",
-        "link": "https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/",
-        "pubDate": "2026-11-24T17:45:29.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "A faster algorithm for extracting hexadecimal digits of π",
-        "link": "https://www.stylewarning.com/posts/faster-digit-extraction/",
-        "pubDate": "2026-11-24T23:53:03.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Matrix Multiplication is Θ(n^2.25)",
-        "link": "https://raw.githubusercontent.com/openai/math/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-        "pubDate": "2026-11-25T03:15:59.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "From formal verification to bug-finding in CHERIoT",
-        "link": "https://cheriot.org/verification/2026/11/24/griotte-verification-effort.html",
-        "pubDate": "2026-11-24T23:52:41.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Ladybird is now in alpha",
-        "link": "https://ladybird.org/posts/alpha/",
-        "pubDate": "2026-11-23T16:13:03.000Z",
+        "title": "Getting old Java phones online again",
+        "link": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+        "pubDate": "2026-11-25T13:28:55.000Z",
         "feedId": "lobsters"
       },
       {
@@ -186,12 +180,72 @@
         "link": "https://autoriteitpersoonsgegevens.nl/en/current/ap-advises-against-purchasing-ai-camera-glasses-serious-risks-for-users-and-bystanders",
         "pubDate": "2026-11-25T00:02:36.000Z",
         "feedId": "lobsters"
+      },
+      {
+        "title": "Needles, Haystacks, and Numbers Between 0 and 1",
+        "link": "https://rustfoundation.org/media/needles-haystacks-and-numbers-between-0-and-1/",
+        "pubDate": "2026-11-25T07:03:53.000Z",
+        "feedId": "lobsters"
       }
     ]
   },
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Backblaze explains why it's sharing customer information with advertisers",
+        "link": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+        "pubDate": "2026-11-25T18:38:29.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+        "link": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+        "pubDate": "2026-11-25T18:22:38.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+        "link": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+        "pubDate": "2026-11-25T17:33:30.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Etsy clarifies AI terms after seller backlash",
+        "link": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+        "pubDate": "2026-11-25T17:12:57.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+        "link": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+        "pubDate": "2026-11-25T16:47:14.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
+        "link": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
+        "pubDate": "2026-11-25T16:33:45.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
+        "link": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
+        "pubDate": "2026-11-25T15:35:17.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "A familiar Iranian hacking group has found a new way to cause chaos",
+        "link": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
+        "pubDate": "2026-11-25T14:29:43.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "AI may soon change what it means to be a theoretical physicist",
+        "link": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+        "pubDate": "2026-11-25T12:00:28.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
         "link": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
@@ -227,66 +281,84 @@
         "link": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
         "pubDate": "2026-11-24T18:30:36.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "How brewers can protect beers from smoke-tainted hops",
-        "link": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/",
-        "pubDate": "2026-11-24T18:18:37.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights",
-        "link": "https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights/",
-        "pubDate": "2026-11-24T18:03:58.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-        "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
-        "pubDate": "2026-11-24T17:34:34.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Porsche 718 Boxster prototype drive: This electric roadster is real",
-        "link": "https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/",
-        "pubDate": "2026-11-24T16:58:20.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "No more heated seat subscriptions for cars in New York from 2027",
-        "link": "https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it/",
-        "pubDate": "2026-11-24T16:20:37.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "NASA may get $2 billion boost as White House seeks to accelerate Artemis",
-        "link": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/",
-        "pubDate": "2026-11-24T16:12:46.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Homo erectus lived in the rainforest alongside Denisovans",
-        "link": "https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans/",
-        "pubDate": "2026-11-24T16:01:19.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
-        "link": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
-        "pubDate": "2026-11-24T14:56:50.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-        "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-        "pubDate": "2026-11-24T12:30:05.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Anthropic CEO pushes back on Axios reporting on AI and free will",
+        "link": "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios",
+        "pubDate": "2026-11-25T19:28:00.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Scoop: Kushner urges Netanyahu to make good on Gaza commitments",
+        "link": "https://www.axios.com/2026/11/25/kushner-presses-netanyahu-gaza-peace-plan",
+        "pubDate": "2026-11-25T18:16:26.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "The U.S. economy is ripping",
+        "link": "https://www.axios.com/2026/11/25/incomes-layoffs-rates-pce-ai",
+        "pubDate": "2026-11-25T16:55:04.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Army detonates Iowa explosives amid toxic lead fears",
+        "link": "https://www.axios.com/2026/11/25/iowa-army-lead-detonation",
+        "pubDate": "2026-11-25T16:16:41.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "U.S. economy grew at rapid 4.3% pace in third quarter",
+        "link": "https://www.axios.com/2026/11/25/economy-gdp-inflation-ai",
+        "pubDate": "2026-11-25T13:57:36.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump prepares new round of tariffs on China, other U.S. trading partners",
+        "link": "https://www.axios.com/2026/11/25/trump-tariffs-china",
+        "pubDate": "2026-11-25T13:41:15.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "\"The people who are supposed to be helping to protect us are also the ones who are profiting.\"",
+        "link": "https://www.axios.com/2026/11/25/wes-moore-ai-plan-axios-show",
+        "pubDate": "2026-11-25T10:33:26.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Most blame government for return of measles: Poll",
+        "link": "https://www.axios.com/2026/11/25/measles-elimination-poll-government-ipsos",
+        "pubDate": "2026-11-25T10:30:07.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "GOP firm's executive linked to effort to oust Republican senators",
+        "link": "https://www.axios.com/2026/11/25/gop-firm-executive-pacs-senators",
+        "pubDate": "2026-11-25T10:20:06.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Trump faces looming wave of ICE lawsuits",
+        "link": "https://www.axios.com/2026/11/25/lawsuit-dhs-ice-operation-midway-blitz-figueroa",
+        "pubDate": "2026-11-25T10:01:09.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Rival AI leaders push back against Anthropic vision of surrendering human agency to AI",
+        "link": "https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will",
+        "pubDate": "2026-11-25T10:01:09.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "This Thanksgiving won't be stuffed with politics, Americans say: Poll",
+        "link": "https://www.axios.com/2026/11/25/thanksgiving-politics-polling",
+        "pubDate": "2026-11-25T10:01:08.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Trump talks turkey, and his ballroom, at pardoning event",
         "link": "https://www.axios.com/2026/11/24/trump-turkey-pardon-ballroom",
@@ -304,84 +376,18 @@
         "link": "https://www.axios.com/2026/11/24/crude-oil-gasoline-prices-down",
         "pubDate": "2026-11-24T13:31:36.000Z",
         "feedId": "axios"
-      },
-      {
-        "title": "\"The Axios Show\": Bob Woodward's memoir spills 50 years of secrets",
-        "link": "https://www.axios.com/2026/11/24/the-axios-show-bob-woodwards-memoir-spills-50-years-of-secrets",
-        "pubDate": "2026-11-24T11:08:54.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Behind the Curtain: When reality shouts",
-        "link": "https://www.axios.com/2026/11/24/behind-the-curtain-when-reality-shouts",
-        "pubDate": "2026-11-24T10:45:33.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release",
-        "link": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
-        "pubDate": "2026-11-24T10:45:05.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: ACLU eyes Supreme Court flips in 11 states",
-        "link": "https://www.axios.com/2026/11/24/aclu-state-supreme-court-south-democrats-religion",
-        "pubDate": "2026-11-24T10:35:05.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Lowering the Medicare eligibility age is harder than it sounds",
-        "link": "https://www.axios.com/2026/11/24/democrats-medicare-eligibility-affordability-challenges",
-        "pubDate": "2026-11-24T10:30:07.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Nvidia's one-man board: How Trump inherited Jensen Huang's scandal",
-        "link": "https://www.axios.com/2026/11/24/nvidias-one-man-board-how-trump-inherited-jensen-huangs-scandal",
-        "pubDate": "2026-11-24T10:10:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Scoop: Thanksgiving air travel expected to hit 16-year high",
-        "link": "https://www.axios.com/2026/11/24/thanksgiving-air-travel-record-expected",
-        "pubDate": "2026-11-24T01:01:38.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Mississippi's election fights didn't end with Scott Colom's historic Senate win",
-        "link": "https://www.axios.com/2026/11/23/scott-colom-mississippi-election-voting-rights-fallout",
-        "pubDate": "2026-11-23T20:42:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"Troubling and problematic\": Gov. Moore rips Trump's Nvidia actions on \"The Axios Show\"",
-        "link": "https://www.axios.com/2026/11/23/axios-show-moore-trump-nvidia",
-        "pubDate": "2026-11-23T20:00:05.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Jensen Huang's return to Nvidia sparks bipartisan backlash on Capitol Hill",
-        "link": "https://www.axios.com/2026/11/23/jensen-huang-nvidia-congress-dc-reaction",
-        "pubDate": "2026-11-23T19:54:48.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"Too big to fail\": The economic fear behind Jensen Huang's Nvidia comeback",
-        "link": "https://www.axios.com/2026/11/23/trump-vance-jensen-huang-nvidia-ceo-return",
-        "pubDate": "2026-11-23T19:41:50.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump presses pause on Army's Iowa lead detonation",
-        "link": "https://www.axios.com/2026/11/23/iowa-lead-detonation-delayed-trump",
-        "pubDate": "2026-11-23T19:22:03.000Z",
-        "feedId": "axios"
       }
     ]
   },
   "longreads": {
     "id": "longreads",
     "items": [
+      {
+        "title": "“The River Can’t Be Trusted”",
+        "link": "https://longreads.com/2026/11/25/ruidoso-flood-new-mexico-2025/",
+        "pubDate": "2026-11-25T11:00:00.000Z",
+        "feedId": "longreads"
+      },
       {
         "title": "The Secret Life of the NBA’s Most Mysterious Blogger",
         "link": "https://longreads.com/2026/11/24/bob-windrem-netsdaily-brooklyn-nets-journalism/",
@@ -464,12 +470,6 @@
         "title": "Dollywood After Dolly: My Pilgrimage to a Grieving Tennessee",
         "link": "https://longreads.com/2026/11/18/dollywood-dolly-parton/",
         "pubDate": "2026-11-18T12:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "The Lost World of Aquaterra",
-        "link": "https://longreads.com/2026/11/18/aquaterra-archaeology-history-submerged-oceans/",
-        "pubDate": "2026-11-18T11:00:00.000Z",
         "feedId": "longreads"
       }
     ]
