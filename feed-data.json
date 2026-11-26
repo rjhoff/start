@@ -3,15 +3,75 @@
     "id": "hn",
     "items": [
       {
-        "title": "Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]",
+        "title": "Tell HN: Lots of Ask HNs again",
+        "link": "https://news.ycombinator.com/item?id=50649864",
+        "pubDate": "2026-11-26T00:43:34.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Jev is probably Qwen3.5-35B-A3B",
+        "link": "https://modaic.dev/blog/latency-doesnt-lie",
+        "pubDate": "2026-11-25T22:57:04.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Bare Metal Qwen",
+        "link": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+        "pubDate": "2026-11-25T22:15:34.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Deploying a payphone on a tiny Pacific Island",
+        "link": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+        "pubDate": "2026-11-25T22:12:25.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Much shorter version of GRH Lean verification from Anthropic",
+        "link": "https://github.com/lsernau/grh-lean",
+        "pubDate": "2026-11-25T21:48:10.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Defang Security Incident",
+        "link": "https://defang.io/blog/post/security-incident-november-2026/",
+        "pubDate": "2026-11-25T21:47:16.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The New York Times warns photographers not to update Photoshop over AI features",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+        "pubDate": "2026-11-25T21:18:02.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Slow Ubuntu security response times",
+        "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+        "pubDate": "2026-11-25T20:38:00.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+        "link": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+        "pubDate": "2026-11-25T20:35:50.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "72-hour fasting can reset your immune system, USC study shows",
+        "link": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
+        "pubDate": "2026-11-25T20:35:39.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
         "link": "https://scottaaronson.blog/?p=10379",
         "pubDate": "2026-11-25T19:11:27.000Z",
         "feedId": "hn"
       },
       {
-        "title": "SpaceX wins FCC approval to deploy 1M orbital data center satellites",
-        "link": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
-        "pubDate": "2026-11-25T18:59:43.000Z",
+        "title": "Multiagent coding is the future",
+        "link": "https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/",
+        "pubDate": "2026-11-25T18:20:11.000Z",
         "feedId": "hn"
       },
       {
@@ -31,72 +91,18 @@
         "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
         "pubDate": "2026-11-25T17:18:26.000Z",
         "feedId": "hn"
-      },
-      {
-        "title": "Deriving Black-Scholes",
-        "link": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
-        "pubDate": "2026-11-25T17:18:15.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Investigating degraded experiences across GitHub products",
-        "link": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
-        "pubDate": "2026-11-25T15:59:23.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "In C++, = default and {} are not the same constructor",
-        "link": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
-        "pubDate": "2026-11-25T15:20:15.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-        "link": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-        "pubDate": "2026-11-25T15:14:32.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Rumors swirling that labs might have cracked Factoring in P",
-        "link": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
-        "pubDate": "2026-11-25T15:08:44.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "I checked Clojure's core with Lean and found unreported bugs",
-        "link": "https://s.conao3.com/blog/2026/e4f733",
-        "pubDate": "2026-11-25T14:56:52.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-        "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-        "pubDate": "2026-11-25T13:33:07.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Hazel (YC W24) Is Hiring a Product Designer",
-        "link": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
-        "pubDate": "2026-11-25T12:00:34.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-        "link": "https://github.com/xoxorwr/pw-loudness-eq",
-        "pubDate": "2026-11-25T11:34:25.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "The industrialization of noise: Automated proof-solving is the same old dead end [pdf]",
-        "link": "https://arxiv.org/abs/2611.31286",
-        "pubDate": "2026-11-25T08:23:34.000Z",
-        "feedId": "hn"
       }
     ]
   },
   "lobsters": {
     "id": "lobsters",
     "items": [
+      {
+        "title": "Slow Ubuntu security response times",
+        "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+        "pubDate": "2026-11-25T20:10:24.000Z",
+        "feedId": "lobsters"
+      },
       {
         "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
         "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
@@ -110,27 +116,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Pokemon Childhood Version: A romhack where Mew is under the truck",
-        "link": "https://wheybags.com/blog/pokemon_childhood_version.html",
-        "pubDate": "2026-11-24T23:14:50.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Abolish Lock Poisoning",
-        "link": "https://lucumr.pocoo.org/2026/11/25/poisoning/",
-        "pubDate": "2026-11-25T05:10:37.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Why there are still no non-WebKit browsers on iOS",
-        "link": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-        "pubDate": "2026-11-24T22:28:27.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "October in Servo: video captions and inert content",
-        "link": "https://servo.org/blog/2026/11/25/october-in-servo/",
-        "pubDate": "2026-11-25T14:31:31.000Z",
+        "title": "Entering the Geminispace",
+        "link": "https://jmmv.dev/2026/11/entering-the-geminispace.html",
+        "pubDate": "2026-11-25T22:43:05.000Z",
         "feedId": "lobsters"
       },
       {
@@ -140,51 +128,63 @@
         "feedId": "lobsters"
       },
       {
+        "title": "Scott Aaronson on recent complexity theory AI achievements",
+        "link": "https://scottaaronson.blog/?p=10379",
+        "pubDate": "2026-11-25T21:52:52.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Typed indexes in Zig",
+        "link": "https://lvignoli.eu/posts/2026-11-16-typed-indexes-in-zig/",
+        "pubDate": "2026-11-25T22:48:44.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "October in Servo: video captions and inert content",
+        "link": "https://servo.org/blog/2026/11/25/october-in-servo/",
+        "pubDate": "2026-11-25T14:31:31.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Abolish Lock Poisoning",
+        "link": "https://lucumr.pocoo.org/2026/11/25/poisoning/",
+        "pubDate": "2026-11-25T05:10:37.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Pokemon Childhood Version: A romhack where Mew is under the truck",
+        "link": "https://wheybags.com/blog/pokemon_childhood_version.html",
+        "pubDate": "2026-11-24T23:14:50.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Why there are still no non-WebKit browsers on iOS",
+        "link": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+        "pubDate": "2026-11-24T22:28:27.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Generalized Riemann Hypothesis proof in Lean 4, in 76k lines (down from 17M)",
+        "link": "https://leanprover.zulipchat.com/#narrow/channel/658556-Riemann-Hypothesis/topic/Cleaning.20up.20the.20proof/near/643702366",
+        "pubDate": "2026-11-25T22:26:56.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Make the Plan a Value",
+        "link": "https://jackkelly.name/blog/archives/2026/11/26/make_the_plan_a_value",
+        "pubDate": "2026-11-26T00:12:06.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Taking over US Treasury subdomains for $3 each",
         "link": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
         "pubDate": "2026-11-25T10:27:49.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "Security incident on Hex.pm",
-        "link": "https://hex.pm/blog/security-incident-on-hexpm",
-        "pubDate": "2026-11-24T14:52:19.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "2035 came early",
-        "link": "https://fzakaria.com/2026/11/23/2035-came-early",
-        "pubDate": "2026-11-24T06:30:15.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I checked Clojure's core with Lean and found 17 unreported bugs",
-        "link": "https://s.conao3.com/blog/2026/e4f733",
-        "pubDate": "2026-11-24T15:22:24.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Per Vognsen on the effect of AVX-512 on lexing and parsing",
-        "link": "https://mastodon.social/@pervognsen/117668394962974183",
-        "pubDate": "2026-11-24T18:11:49.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Getting old Java phones online again",
-        "link": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
-        "pubDate": "2026-11-25T13:28:55.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Dutch data protection authority advises against purchasing AI camera glasses",
-        "link": "https://autoriteitpersoonsgegevens.nl/en/current/ap-advises-against-purchasing-ai-camera-glasses-serious-risks-for-users-and-bystanders",
-        "pubDate": "2026-11-25T00:02:36.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Needles, Haystacks, and Numbers Between 0 and 1",
-        "link": "https://rustfoundation.org/media/needles-haystacks-and-numbers-between-0-and-1/",
-        "pubDate": "2026-11-25T07:03:53.000Z",
+        "title": "SSH is a GUI framework",
+        "link": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+        "pubDate": "2026-11-25T22:55:47.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,18 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+        "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+        "pubDate": "2026-11-25T22:36:45.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Google search alternative Kagi launches Gmail rival",
+        "link": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+        "pubDate": "2026-11-25T20:57:09.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Backblaze explains why it's sharing customer information with advertisers",
         "link": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
@@ -269,24 +281,24 @@
         "link": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
         "pubDate": "2026-11-24T20:00:18.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-        "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
-        "pubDate": "2026-11-24T18:47:57.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
-        "link": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
-        "pubDate": "2026-11-24T18:30:36.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Macy's Thanksgiving parade postponed for the first time in the event's history",
+        "link": "https://www.axios.com/2026/11/25/macys-thanksgiving-parade-2026-balloons-weather",
+        "pubDate": "2026-11-25T21:28:25.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "\"The flashing red lights couldn't be brighter\": Democrats demand new restrictions on AI",
+        "link": "https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios",
+        "pubDate": "2026-11-25T20:19:21.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Anthropic CEO pushes back on Axios reporting on AI and free will",
         "link": "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios",
@@ -363,18 +375,6 @@
         "title": "Trump talks turkey, and his ballroom, at pardoning event",
         "link": "https://www.axios.com/2026/11/24/trump-turkey-pardon-ballroom",
         "pubDate": "2026-11-24T20:01:04.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Criminal charge against incoming House Democrat dropped",
-        "link": "https://www.axios.com/2026/11/24/lakesha-womack-charge-dropped-rental-car-nc",
-        "pubDate": "2026-11-24T19:42:11.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Oil's downward trend is pushing gasoline lower",
-        "link": "https://www.axios.com/2026/11/24/crude-oil-gasoline-prices-down",
-        "pubDate": "2026-11-24T13:31:36.000Z",
         "feedId": "axios"
       }
     ]
