@@ -3,93 +3,93 @@
     "id": "hn",
     "items": [
       {
-        "title": "Intel One Mono font",
-        "link": "https://github.com/intel/intel-one-mono",
-        "pubDate": "2026-11-26T10:11:01.000Z",
+        "title": "The USA as a Civilizations-esque map",
+        "link": "https://karpathy.ai/usaciv/",
+        "pubDate": "2026-11-26T19:53:58.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-        "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-        "pubDate": "2026-11-26T09:44:23.000Z",
+        "title": "Rvoip 0.5 the complete VoIP stack in Rust",
+        "link": "https://github.com/eisenzopf/rvoip",
+        "pubDate": "2026-11-26T19:18:09.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Moat: Your OpenRouter Replacement",
-        "link": "https://commandcode.ai/moat",
-        "pubDate": "2026-11-26T06:32:48.000Z",
+        "title": "Show HN: Fuck_data_brokers.py",
+        "link": "https://github.com/gary23w/f-ck_data_brokers",
+        "pubDate": "2026-11-26T18:37:21.000Z",
         "feedId": "hn"
       },
       {
-        "title": "An algebraic quantization of gravity from the null cone",
-        "link": "https://arxiv.org/abs/2611.34924",
-        "pubDate": "2026-11-26T05:37:51.000Z",
+        "title": "George Whitesides, 1939-2026",
+        "link": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
+        "pubDate": "2026-11-26T18:13:07.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-        "link": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
-        "pubDate": "2026-11-26T05:12:59.000Z",
+        "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+        "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+        "pubDate": "2026-11-26T17:47:45.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Unconditional Integer Factorization in Subexponential Time",
-        "link": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
-        "pubDate": "2026-11-26T04:59:56.000Z",
+        "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+        "link": "https://github.com/antonpictures/youtube-punisher",
+        "pubDate": "2026-11-26T17:36:47.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Qualcomm's Oryon 3 Reaches the Top",
-        "link": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
-        "pubDate": "2026-11-26T03:43:24.000Z",
+        "title": "AMD Specific Patches for Llama.cpp",
+        "link": "https://devnull.land/amd-specific-llama-cpp",
+        "pubDate": "2026-11-26T17:11:29.000Z",
         "feedId": "hn"
       },
       {
-        "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-        "link": "https://twitter.com/thsottiaux/status/2125784147889393806",
-        "pubDate": "2026-11-26T03:36:58.000Z",
+        "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+        "link": "https://github.com/rxliuli/sim-drop",
+        "pubDate": "2026-11-26T16:51:38.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Minipg: PostgreSQL as a Single Executable",
-        "link": "https://progrium.github.io/minipg/",
-        "pubDate": "2026-11-26T03:00:48.000Z",
+        "title": "NP_R ≠ PAR_R",
+        "link": "https://github.com/samueleverett01/bss-permanent-separations",
+        "pubDate": "2026-11-26T16:50:55.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Tell HN: Lots of Ask HNs again",
-        "link": "https://news.ycombinator.com/item?id=50649864",
-        "pubDate": "2026-11-26T00:43:34.000Z",
+        "title": "Kagi Watch",
+        "link": "https://kagi.com/watch",
+        "pubDate": "2026-11-26T16:28:54.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Collection of preserved UI style guides",
-        "link": "https://aresluna.org/ui-style-guides/",
-        "pubDate": "2026-11-26T00:40:00.000Z",
+        "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+        "link": "https://michidk.github.io/sidebyside/",
+        "pubDate": "2026-11-26T15:00:06.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Bare Metal Qwen",
-        "link": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
-        "pubDate": "2026-11-25T22:15:34.000Z",
+        "title": "Tell HN: Happy Thanksgiving",
+        "link": "https://news.ycombinator.com/item?id=50655664",
+        "pubDate": "2026-11-26T14:26:54.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
-        "link": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
-        "pubDate": "2026-11-25T22:12:25.000Z",
+        "title": "45°C inlets just killed the chiller. Most people haven't noticed yet",
+        "link": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
+        "pubDate": "2026-11-26T13:48:11.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Much shorter version of GRH Lean verification from Anthropic",
-        "link": "https://github.com/lsernau/grh-lean",
-        "pubDate": "2026-11-25T21:48:10.000Z",
+        "title": "Head of Software Engineering – NOX Metals",
+        "link": "https://news.ycombinator.com/item?id=50654353",
+        "pubDate": "2026-11-26T12:00:00.000Z",
         "feedId": "hn"
       },
       {
-        "title": "The New York Times warns photographers not to update Photoshop over AI features",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-        "pubDate": "2026-11-25T21:18:02.000Z",
+        "title": "Nextcloud Office Desktop app",
+        "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+        "pubDate": "2026-11-26T11:50:49.000Z",
         "feedId": "hn"
       }
     ]
@@ -104,9 +104,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Scott Aaronson on recent complexity theory AI achievements",
-        "link": "https://scottaaronson.blog/?p=10379",
-        "pubDate": "2026-11-25T21:52:52.000Z",
+        "title": "How WinHelp files work",
+        "link": "https://quin.fyi/posts/how-winhelp-files-work.html",
+        "pubDate": "2026-11-26T06:39:00.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Garage v2.6.0 released with web admin, v1.x EoL & other news",
+        "link": "https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/",
+        "pubDate": "2026-11-26T12:40:23.000Z",
         "feedId": "lobsters"
       },
       {
@@ -116,9 +122,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How WinHelp files work",
-        "link": "https://quin.fyi/posts/how-winhelp-files-work.html",
-        "pubDate": "2026-11-26T06:39:00.000Z",
+        "title": "In defense of lock poisoning in Rust (2025)",
+        "link": "https://sunshowers.io/posts/on-poisoning/",
+        "pubDate": "2026-11-26T11:51:23.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Scott Aaronson on recent complexity theory AI achievements",
+        "link": "https://scottaaronson.blog/?p=10379",
+        "pubDate": "2026-11-25T21:52:52.000Z",
         "feedId": "lobsters"
       },
       {
@@ -134,27 +146,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Optimizing Rustc's next trait solver",
-        "link": "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver",
-        "pubDate": "2026-11-25T13:09:22.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
-        "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-        "pubDate": "2026-11-25T06:20:29.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Update on a security incident involving 1Password’s backend systems",
-        "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
-        "pubDate": "2026-11-25T17:43:13.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Make the Plan a Value",
-        "link": "https://jackkelly.name/blog/archives/2026/11/26/make_the_plan_a_value",
-        "pubDate": "2026-11-26T00:12:06.000Z",
+        "title": "Ansible Fails waiting for privilege escalation on Ubuntu 26",
+        "link": "https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/",
+        "pubDate": "2026-11-26T09:45:42.000Z",
         "feedId": "lobsters"
       },
       {
@@ -164,9 +158,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "October in Servo: video captions and inert content",
-        "link": "https://servo.org/blog/2026/11/25/october-in-servo/",
-        "pubDate": "2026-11-25T14:31:31.000Z",
+        "title": "Make the Plan a Value",
+        "link": "https://jackkelly.name/blog/archives/2026/11/26/make_the_plan_a_value",
+        "pubDate": "2026-11-26T00:12:06.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Optimizing Rustc's next trait solver",
+        "link": "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver",
+        "pubDate": "2026-11-25T13:09:22.000Z",
         "feedId": "lobsters"
       },
       {
@@ -176,15 +176,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "SSH is a GUI framework",
-        "link": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
-        "pubDate": "2026-11-25T22:55:47.000Z",
+        "title": "Taking Email Back",
+        "link": "http://www.linux-magazine.com/Online/Features/Taking-Email-Back",
+        "pubDate": "2026-11-26T19:51:21.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "UI style guides",
-        "link": "https://aresluna.org/ui-style-guides/",
-        "pubDate": "2026-11-26T00:54:10.000Z",
+        "title": "I Booted From My Tape Backup From 2002",
+        "link": "https://changelog.complete.org/archives/45268-i-booted-from-my-tape-backup-from-2002",
+        "pubDate": "2026-11-26T03:56:07.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,24 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+        "link": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+        "pubDate": "2026-11-26T18:00:29.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Draining peatlands is responsible for a few percent of our global warming",
+        "link": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+        "pubDate": "2026-11-26T12:15:42.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "From minimalist to maximalist: Ars staffers show off their home offices",
+        "link": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
+        "pubDate": "2026-11-26T12:00:14.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
         "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
@@ -263,24 +281,6 @@
         "link": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
         "pubDate": "2026-11-24T22:50:11.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
-        "link": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
-        "pubDate": "2026-11-24T22:36:28.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "What's going on with the Riemann hypothesis?",
-        "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
-        "pubDate": "2026-11-24T20:34:53.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
-        "link": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
-        "pubDate": "2026-11-24T20:00:18.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
@@ -288,15 +288,27 @@
     "id": "axios",
     "items": [
       {
-        "title": "Cookbook GPT: When AI becomes a Thanksgiving sous-chef",
-        "link": "https://www.axios.com/2026/11/26/ai-thanksgiving-meals-chefs",
-        "pubDate": "2026-11-26T11:00:04.000Z",
+        "title": "Trump demands investigation into GDP data revisions",
+        "link": "https://www.axios.com/2026/11/26/trump-gdp-investigation-economy-statistics",
+        "pubDate": "2026-11-26T16:29:25.000Z",
         "feedId": "axios"
       },
       {
         "title": "Musk makes $18 billion SpaceX stock pledge for every kid in America",
         "link": "https://www.axios.com/2026/11/26/musk-spacex-shares-trump-accounts",
-        "pubDate": "2026-11-26T05:39:02.000Z",
+        "pubDate": "2026-11-26T15:54:15.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "The pros and cons of Medicare for All",
+        "link": "https://www.axios.com/2026/11/26/medicare-for-all-pros-and-cons",
+        "pubDate": "2026-11-26T12:00:05.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Cookbook GPT: When AI becomes a Thanksgiving sous-chef",
+        "link": "https://www.axios.com/2026/11/26/ai-thanksgiving-meals-chefs",
+        "pubDate": "2026-11-26T11:00:04.000Z",
         "feedId": "axios"
       },
       {
@@ -363,18 +375,6 @@
         "title": "GOP firm's executive linked to effort to oust Republican senators",
         "link": "https://www.axios.com/2026/11/25/gop-firm-executive-pacs-senators",
         "pubDate": "2026-11-25T10:20:06.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Trump faces looming wave of ICE lawsuits",
-        "link": "https://www.axios.com/2026/11/25/lawsuit-dhs-ice-operation-midway-blitz-figueroa",
-        "pubDate": "2026-11-25T10:01:09.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Rival AI leaders push back against Anthropic vision of surrendering human agency to AI",
-        "link": "https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will",
-        "pubDate": "2026-11-25T10:01:09.000Z",
         "feedId": "axios"
       }
     ]
