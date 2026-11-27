@@ -3,21 +3,75 @@
     "id": "hn",
     "items": [
       {
-        "title": "Google will show solo Android developers' phone numbers and addresses",
-        "link": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
-        "pubDate": "2026-11-27T03:11:41.000Z",
+        "title": "Counseling for mental health decreases likelihood of protesting by 34%–39%",
+        "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
+        "pubDate": "2026-11-27T13:01:02.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "New York and California Age Gating Rules Go into Effect in the New Year",
+        "link": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+        "pubDate": "2026-11-27T12:43:40.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+        "link": "https://eprint.iacr.org/2026/3020.pdf",
+        "pubDate": "2026-11-27T12:08:51.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Kimi for Science More scientific ideas, made possible",
+        "link": "https://www.kimi.ai/news/kimi-for-science-program",
+        "pubDate": "2026-11-27T12:03:11.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Pizza history: AI agent's cardless purchase is a first for UK",
+        "link": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+        "pubDate": "2026-11-27T11:41:11.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "European Commission Declares Browser Competition a Digital Markets Act Priority",
+        "link": "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/",
+        "pubDate": "2026-11-27T08:11:46.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Indie web browser Ladybird enters alpha testing",
+        "link": "https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914",
+        "pubDate": "2026-11-27T07:58:37.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The group chat where your AI talks behind your back",
+        "link": "https://construct22.com/",
+        "pubDate": "2026-11-27T06:44:34.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Buy Nothing Day – Friday November 27th 2026",
+        "link": "https://www.buynothingday.co.uk/",
+        "pubDate": "2026-11-27T05:52:42.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The need for a formally verifiable mainstream programming language",
+        "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
+        "pubDate": "2026-11-27T05:22:06.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "The Cutthroat Business of Shipwrecks",
+        "link": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
+        "pubDate": "2026-11-27T01:21:49.000Z",
         "feedId": "hn"
       },
       {
         "title": "Hard Drive pricing has gotten bad",
         "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
         "pubDate": "2026-11-27T01:13:49.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
-        "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-        "pubDate": "2026-11-27T00:03:18.000Z",
         "feedId": "hn"
       },
       {
@@ -37,60 +91,6 @@
         "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
         "pubDate": "2026-11-26T21:08:05.000Z",
         "feedId": "hn"
-      },
-      {
-        "title": "Company Culture = Slack Emoji ÷ √Headcount",
-        "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-        "pubDate": "2026-11-26T20:49:49.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Rvoip: VoIP stack in Rust",
-        "link": "https://github.com/eisenzopf/rvoip",
-        "pubDate": "2026-11-26T19:18:09.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "An introduction to uncertainty in machine learning",
-        "link": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-        "pubDate": "2026-11-26T19:04:50.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
-        "link": "https://bui.preetham.top/charts/",
-        "pubDate": "2026-11-26T18:37:24.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "George Whitesides, 1939-2026",
-        "link": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
-        "pubDate": "2026-11-26T18:13:07.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-        "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-        "pubDate": "2026-11-26T17:47:45.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-        "link": "https://github.com/antonpictures/youtube-punisher",
-        "pubDate": "2026-11-26T17:36:47.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "AMD-specific fork of llama.cpp",
-        "link": "https://devnull.land/amd-specific-llama-cpp",
-        "pubDate": "2026-11-26T17:11:29.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
-        "link": "https://github.com/rxliuli/sim-drop",
-        "pubDate": "2026-11-26T16:51:38.000Z",
-        "feedId": "hn"
       }
     ]
   },
@@ -98,9 +98,9 @@
     "id": "lobsters",
     "items": [
       {
-        "title": "Slow Ubuntu security response times",
-        "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-        "pubDate": "2026-11-25T20:10:24.000Z",
+        "title": "Tiny Hat: a new Linux distro dedicated to retro gamedev",
+        "link": "https://roboticoverlords.org/tinyhat",
+        "pubDate": "2026-11-27T09:11:13.000Z",
         "feedId": "lobsters"
       },
       {
@@ -110,21 +110,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Garage v2.6.0 released with web admin, v1.x EoL & other news",
-        "link": "https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/",
-        "pubDate": "2026-11-26T12:40:23.000Z",
+        "title": "Pimalaya goes stable",
+        "link": "https://blog.pimalaya.org/pimalaya-goes-stable/",
+        "pubDate": "2026-11-27T08:01:31.000Z",
         "feedId": "lobsters"
       },
       {
-        "title": "In defense of lock poisoning in Rust (2025)",
-        "link": "https://sunshowers.io/posts/on-poisoning/",
-        "pubDate": "2026-11-26T11:51:23.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "How WinHelp files work",
-        "link": "https://quin.fyi/posts/how-winhelp-files-work.html",
-        "pubDate": "2026-11-26T06:39:00.000Z",
+        "title": "Slow Ubuntu security response times",
+        "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+        "pubDate": "2026-11-25T20:10:24.000Z",
         "feedId": "lobsters"
       },
       {
@@ -134,15 +128,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Entering the Geminispace",
-        "link": "https://jmmv.dev/2026/11/entering-the-geminispace.html",
-        "pubDate": "2026-11-25T22:43:05.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Scott Aaronson on recent complexity theory AI achievements",
-        "link": "https://scottaaronson.blog/?p=10379",
-        "pubDate": "2026-11-25T21:52:52.000Z",
+        "title": "Garage v2.6.0 released with web admin, v1.x EoL & other news",
+        "link": "https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/",
+        "pubDate": "2026-11-26T12:40:23.000Z",
         "feedId": "lobsters"
       },
       {
@@ -152,39 +140,51 @@
         "feedId": "lobsters"
       },
       {
+        "title": "In defense of lock poisoning in Rust (2025)",
+        "link": "https://sunshowers.io/posts/on-poisoning/",
+        "pubDate": "2026-11-26T11:51:23.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Company Culture = Slack Emoji ÷ sqrt(Headcount)",
+        "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+        "pubDate": "2026-11-27T07:35:52.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Exception Best Practices",
+        "link": "https://www.well-typed.com/blog/2026/11/exception-best-practices/",
+        "pubDate": "2026-11-27T13:05:30.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Entering the Geminispace",
+        "link": "https://jmmv.dev/2026/11/entering-the-geminispace.html",
+        "pubDate": "2026-11-25T22:43:05.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "How WinHelp files work",
+        "link": "https://quin.fyi/posts/how-winhelp-files-work.html",
+        "pubDate": "2026-11-26T06:39:00.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Curb impacts of AI on programming to maintain EU sovereignty",
+        "link": "https://www.draketo.de/software/curb-ai-impact",
+        "pubDate": "2026-11-27T07:00:03.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "What are you doing this weekend?",
+        "link": "https://lobste.rs/s/locqp9/what_are_you_doing_this_weekend",
+        "pubDate": "2026-11-27T13:23:08.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Generalized Riemann Hypothesis proof in Lean 4, in 76k lines (down from 17M)",
         "link": "https://leanprover.zulipchat.com/#narrow/channel/658556-Riemann-Hypothesis/topic/Cleaning.20up.20the.20proof/near/643702366",
         "pubDate": "2026-11-25T22:26:56.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Typed indexes in Zig",
-        "link": "https://lvignoli.eu/posts/2026-11-16-typed-indexes-in-zig/",
-        "pubDate": "2026-11-25T22:48:44.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Ansible Fails waiting for privilege escalation on Ubuntu 26",
-        "link": "https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/",
-        "pubDate": "2026-11-26T09:45:42.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Browser tabs as a container runtime",
-        "link": "https://fzakaria.com/2026/11/25/browser-tabs-as-a-container-runtime",
-        "pubDate": "2026-11-26T04:57:04.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Make the Plan a Value",
-        "link": "https://jackkelly.name/blog/archives/2026/11/26/make_the_plan_a_value",
-        "pubDate": "2026-11-26T00:12:06.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Ambiguous Errors Are the Mind Killer",
-        "link": "https://amit.prasad.me/blog/ambiguous-errors",
-        "pubDate": "2026-11-26T21:23:06.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -192,6 +192,24 @@
   "arstechnica": {
     "id": "arstechnica",
     "items": [
+      {
+        "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+        "link": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+        "pubDate": "2026-11-27T12:05:01.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026",
+        "link": "https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/",
+        "pubDate": "2026-11-27T11:30:04.000Z",
+        "feedId": "arstechnica"
+      },
+      {
+        "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
+        "link": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",
+        "pubDate": "2026-11-27T08:00:53.000Z",
+        "feedId": "arstechnica"
+      },
       {
         "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
         "link": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
@@ -263,30 +281,30 @@
         "link": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
         "pubDate": "2026-11-25T15:35:17.000Z",
         "feedId": "arstechnica"
-      },
-      {
-        "title": "A familiar Iranian hacking group has found a new way to cause chaos",
-        "link": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
-        "pubDate": "2026-11-25T14:29:43.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "AI may soon change what it means to be a theoretical physicist",
-        "link": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
-        "pubDate": "2026-11-25T12:00:28.000Z",
-        "feedId": "arstechnica"
-      },
-      {
-        "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
-        "link": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
-        "pubDate": "2026-11-24T22:50:11.000Z",
-        "feedId": "arstechnica"
       }
     ]
   },
   "axios": {
     "id": "axios",
     "items": [
+      {
+        "title": "Vance and Rubio learn the price of loyalty to Trump",
+        "link": "https://www.axios.com/2026/11/27/vance-rubio-trump-downside-2028",
+        "pubDate": "2026-11-27T12:06:15.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "America's new bargain hunt",
+        "link": "https://www.axios.com/2026/11/27/consumer-spending-cheap-retail",
+        "pubDate": "2026-11-27T10:30:07.000Z",
+        "feedId": "axios"
+      },
+      {
+        "title": "Black Friday's frenzy gives way to \"Black November\"",
+        "link": "https://www.axios.com/2026/11/27/black-friday-online-holiday-deals-cyber-monday",
+        "pubDate": "2026-11-27T10:10:11.000Z",
+        "feedId": "axios"
+      },
       {
         "title": "Trump demands investigation into GDP data revisions",
         "link": "https://www.axios.com/2026/11/26/trump-gdp-investigation-economy-statistics",
@@ -357,24 +375,6 @@
         "title": "Trump prepares new round of tariffs on China, other U.S. trading partners",
         "link": "https://www.axios.com/2026/11/25/trump-tariffs-china",
         "pubDate": "2026-11-25T13:41:15.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "\"The people who are supposed to be helping to protect us are also the ones who are profiting.\"",
-        "link": "https://www.axios.com/2026/11/25/wes-moore-ai-plan-axios-show",
-        "pubDate": "2026-11-25T10:33:26.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "Most blame government for return of measles: Poll",
-        "link": "https://www.axios.com/2026/11/25/measles-elimination-poll-government-ipsos",
-        "pubDate": "2026-11-25T10:30:07.000Z",
-        "feedId": "axios"
-      },
-      {
-        "title": "GOP firm's executive linked to effort to oust Republican senators",
-        "link": "https://www.axios.com/2026/11/25/gop-firm-executive-pacs-senators",
-        "pubDate": "2026-11-25T10:20:06.000Z",
         "feedId": "axios"
       }
     ]
