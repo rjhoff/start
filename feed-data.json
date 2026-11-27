@@ -3,21 +3,63 @@
     "id": "hn",
     "items": [
       {
-        "title": "The USA as a Civilizations-esque map",
-        "link": "https://karpathy.ai/usaciv/",
-        "pubDate": "2026-11-26T19:53:58.000Z",
+        "title": "Google will show solo Android developers' phone numbers and addresses",
+        "link": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
+        "pubDate": "2026-11-27T03:11:41.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Rvoip 0.5 the complete VoIP stack in Rust",
+        "title": "Hard Drive pricing has gotten bad",
+        "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+        "pubDate": "2026-11-27T01:13:49.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+        "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+        "pubDate": "2026-11-27T00:03:18.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+        "link": "https://kendell.dev/blog/arkwrapper/",
+        "pubDate": "2026-11-26T21:59:19.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "AI made self-hosting fun again",
+        "link": "https://janlukas.blog/posts/ai-self-hosting",
+        "pubDate": "2026-11-26T21:47:45.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+        "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+        "pubDate": "2026-11-26T21:08:05.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Company Culture = Slack Emoji ÷ √Headcount",
+        "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+        "pubDate": "2026-11-26T20:49:49.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Rvoip: VoIP stack in Rust",
         "link": "https://github.com/eisenzopf/rvoip",
         "pubDate": "2026-11-26T19:18:09.000Z",
         "feedId": "hn"
       },
       {
-        "title": "Show HN: Fuck_data_brokers.py",
-        "link": "https://github.com/gary23w/f-ck_data_brokers",
-        "pubDate": "2026-11-26T18:37:21.000Z",
+        "title": "An introduction to uncertainty in machine learning",
+        "link": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+        "pubDate": "2026-11-26T19:04:50.000Z",
+        "feedId": "hn"
+      },
+      {
+        "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+        "link": "https://bui.preetham.top/charts/",
+        "pubDate": "2026-11-26T18:37:24.000Z",
         "feedId": "hn"
       },
       {
@@ -27,7 +69,7 @@
         "feedId": "hn"
       },
       {
-        "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+        "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
         "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
         "pubDate": "2026-11-26T17:47:45.000Z",
         "feedId": "hn"
@@ -39,7 +81,7 @@
         "feedId": "hn"
       },
       {
-        "title": "AMD Specific Patches for Llama.cpp",
+        "title": "AMD-specific fork of llama.cpp",
         "link": "https://devnull.land/amd-specific-llama-cpp",
         "pubDate": "2026-11-26T17:11:29.000Z",
         "feedId": "hn"
@@ -48,48 +90,6 @@
         "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
         "link": "https://github.com/rxliuli/sim-drop",
         "pubDate": "2026-11-26T16:51:38.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "NP_R ≠ PAR_R",
-        "link": "https://github.com/samueleverett01/bss-permanent-separations",
-        "pubDate": "2026-11-26T16:50:55.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Kagi Watch",
-        "link": "https://kagi.com/watch",
-        "pubDate": "2026-11-26T16:28:54.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
-        "link": "https://michidk.github.io/sidebyside/",
-        "pubDate": "2026-11-26T15:00:06.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Tell HN: Happy Thanksgiving",
-        "link": "https://news.ycombinator.com/item?id=50655664",
-        "pubDate": "2026-11-26T14:26:54.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "45°C inlets just killed the chiller. Most people haven't noticed yet",
-        "link": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
-        "pubDate": "2026-11-26T13:48:11.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Head of Software Engineering – NOX Metals",
-        "link": "https://news.ycombinator.com/item?id=50654353",
-        "pubDate": "2026-11-26T12:00:00.000Z",
-        "feedId": "hn"
-      },
-      {
-        "title": "Nextcloud Office Desktop app",
-        "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-        "pubDate": "2026-11-26T11:50:49.000Z",
         "feedId": "hn"
       }
     ]
@@ -104,9 +104,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "How WinHelp files work",
-        "link": "https://quin.fyi/posts/how-winhelp-files-work.html",
-        "pubDate": "2026-11-26T06:39:00.000Z",
+        "title": "Taking Email Back",
+        "link": "http://www.linux-magazine.com/Online/Features/Taking-Email-Back",
+        "pubDate": "2026-11-26T19:51:21.000Z",
         "feedId": "lobsters"
       },
       {
@@ -116,21 +116,39 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Entering the Geminispace",
-        "link": "https://jmmv.dev/2026/11/entering-the-geminispace.html",
-        "pubDate": "2026-11-25T22:43:05.000Z",
-        "feedId": "lobsters"
-      },
-      {
         "title": "In defense of lock poisoning in Rust (2025)",
         "link": "https://sunshowers.io/posts/on-poisoning/",
         "pubDate": "2026-11-26T11:51:23.000Z",
         "feedId": "lobsters"
       },
       {
+        "title": "How WinHelp files work",
+        "link": "https://quin.fyi/posts/how-winhelp-files-work.html",
+        "pubDate": "2026-11-26T06:39:00.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The need for a formally verifiable mainstream programming language",
+        "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
+        "pubDate": "2026-11-26T20:06:50.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Entering the Geminispace",
+        "link": "https://jmmv.dev/2026/11/entering-the-geminispace.html",
+        "pubDate": "2026-11-25T22:43:05.000Z",
+        "feedId": "lobsters"
+      },
+      {
         "title": "Scott Aaronson on recent complexity theory AI achievements",
         "link": "https://scottaaronson.blog/?p=10379",
         "pubDate": "2026-11-25T21:52:52.000Z",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "AI made self-hosting fun again",
+        "link": "https://janlukas.blog/posts/ai-self-hosting",
+        "pubDate": "2026-11-27T01:50:42.000Z",
         "feedId": "lobsters"
       },
       {
@@ -164,27 +182,9 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Optimizing Rustc's next trait solver",
-        "link": "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver",
-        "pubDate": "2026-11-25T13:09:22.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "The beauty of CSS mixins",
-        "link": "https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/",
-        "pubDate": "2026-11-26T01:02:17.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Taking Email Back",
-        "link": "http://www.linux-magazine.com/Online/Features/Taking-Email-Back",
-        "pubDate": "2026-11-26T19:51:21.000Z",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "I Booted From My Tape Backup From 2002",
-        "link": "https://changelog.complete.org/archives/45268-i-booted-from-my-tape-backup-from-2002",
-        "pubDate": "2026-11-26T03:56:07.000Z",
+        "title": "Ambiguous Errors Are the Mind Killer",
+        "link": "https://amit.prasad.me/blog/ambiguous-errors",
+        "pubDate": "2026-11-26T21:23:06.000Z",
         "feedId": "lobsters"
       }
     ]
@@ -383,6 +383,12 @@
     "id": "longreads",
     "items": [
       {
+        "title": "The Bombmaker Next Door",
+        "link": "https://longreads.com/2026/11/26/the-bombmaker-next-door/",
+        "pubDate": "2026-11-26T20:56:31.000Z",
+        "feedId": "longreads"
+      },
+      {
         "title": "Nothing but Highlights: Is Power Slap the Sport We Deserve?",
         "link": "https://longreads.com/2026/11/26/ufc-power-slap/",
         "pubDate": "2026-11-26T11:00:00.000Z",
@@ -464,12 +470,6 @@
         "title": "Give a Fig: A Reading List on Sweet, Wild, Mad Fruits",
         "link": "https://longreads.com/2026/11/19/fruits-reading-list-kanya-kanchana/",
         "pubDate": "2026-11-19T11:00:00.000Z",
-        "feedId": "longreads"
-      },
-      {
-        "title": "Books that Close the Distance",
-        "link": "https://longreads.com/2026/11/18/isaac-fitzgerald-reading-essay-passages/",
-        "pubDate": "2026-11-18T19:48:08.000Z",
         "feedId": "longreads"
       }
     ]
